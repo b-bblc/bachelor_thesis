@@ -33,3 +33,6 @@ for filename in os.listdir(rs3_folder):
 
         # Print a message indicating completion of the current file
         print(f'Processed file: {filename}, extracted EDU count: {len(edu_texts)}')
+
+
+print("hi")

@@ -1,0 +1,111 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution1" type="rst"/>
+			<rel name="attribution2" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-effect" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation-evaluation" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="non_volitional_cause" type="rst"/>
+			<rel name="non_volitional_effect" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="volitional_cause" type="rst"/>
+			<rel name="volitional_effect" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">##### Главный тренер мюнхенского футбольного клуба «Бавария» Хосеп Гвардиола сказал наставнику московского «Спартака» Валерию Карпину,</segment>
+		<segment id="2" parent="37" relname="span">что главное отличие между их командами заключается в уровне игроков.</segment>
+		<segment id="3" parent="37" relname="attribution">О своем разговоре с Гвардиолой Карпин рассказал в интервью интернет-изданию «Чемпионат.com».</segment>
+		<segment id="4" parent="5" relname="attribution">##### Карпин сообщил,</segment>
+		<segment id="5" parent="60" relname="span">что в конце 2013 года он в течение недели общался с Гвардиолой.</segment>
+		<segment id="6" parent="58" relname="attribution">Тренер «Спартака» подчеркнул,</segment>
+		<segment id="7" parent="58" relname="span">что главной задачей его встреч с наставником «Баварии»</segment>
+		<segment id="8" parent="7" relname="purpose">было самообразование.</segment>
+		<segment id="9" parent="10" relname="attribution">По словам Карпина,</segment>
+		<segment id="10" parent="57" relname="span">поездка в Мюнхен оказалась для него очень полезной.</segment>
+		<segment id="11" parent="12" relname="attribution">##### Карпин сказал,</segment>
+		<segment id="12" parent="64" relname="span">что в тактике «Спартака» и «Баварии» есть сходства,</segment>
+		<segment id="13" parent="46" relname="contrast">однако его подход не во всем совпадает с подходом Гвардиолы.</segment>
+		<segment id="14" parent="66" relname="same-unit">Так,</segment>
+		<segment id="15" parent="16" relname="attribution">по словам наставника «Спартака»,</segment>
+		<segment id="16" parent="65" relname="span">тренер «Баварии» хочет добиться того, чтобы его игроки почти не использовали контратаки,</segment>
+		<segment id="17" parent="47" relname="contrast">а спартаковцы от контратак отказываться не собираются.</segment>
+		<segment id="18" parent="67" relname="attribution">Карпин также отметил,</segment>
+		<segment id="19" parent="54" relname="same-unit">что у «Барселоны»,</segment>
+		<segment id="20" parent="21" relname="background">когда ее тренировал Гвардиола,</segment>
+		<segment id="21" parent="45" relname="span">«практически не было» позиционной обороны,</segment>
+		<segment id="22" parent="38" relname="joint">и сейчас «Бавария» стремится к тому же.</segment>
+		<segment id="23" parent="70" relname="same-unit">В игре «Спартака»,</segment>
+		<segment id="24" parent="25" relname="attribution">по словам Карпина,</segment>
+		<segment id="25" parent="69" relname="span">позиционная оборона присутствует.</segment>
+		<segment id="26" parent="27" relname="attribution">##### Также в интервью «Чемпионат.com» Карпин выразил уверенность,</segment>
+		<segment id="27" parent="40" relname="span">что «Спартак» под его руководством станет чемпионом России уже в сезоне-2013/14.</segment>
+		<segment id="28" parent="29" relname="attribution">По словам тренера,</segment>
+		<segment id="29" parent="74" relname="span">с нынешним составом «Спартака» приятно работать.</segment>
+		<segment id="30" parent="31" relname="attribution">Карпин выразил мнение,</segment>
+		<segment id="31" parent="72" relname="span">что сейчас в «Спартаке» собрана «лучшая профессиональная команда» в истории столичного клуба.</segment>
+		<segment id="32" parent="41" relname="span">##### Карпин, как и Гвардиола, в 1990-е годы выступал в чемпионате Испании в качестве игрока</segment>
+		<segment id="33" parent="32" relname="elaboration">(Гвардиола играл за «Барселону», а Карпин — за «Реал Сосьедад», «Валенсию» и «Сельту»)</segment>
+		<segment id="34" parent="56" relname="same-unit">Пост главного тренера «Спартака» Карпин занимает с 2009 года</segment>
+		<segment id="35" parent="55" relname="span">(с перерывом на полгода в 2012 году,</segment>
+		<segment id="36" parent="35" relname="background">когда наставником команды был Унаи Эмери)</segment>
+		<group id="37" type="span" parent="43" relname="span"/>
+		<group id="38" type="multinuc" parent="67" relname="span"/>
+		<group id="39" type="multinuc" parent="51" relname="joint"/>
+		<group id="40" type="span" parent="44" relname="span"/>
+		<group id="41" type="span" parent="42" relname="sequence"/>
+		<group id="42" type="multinuc" parent="52" relname="background"/>
+		<group id="43" type="span" parent="62" relname="preparation"/>
+		<group id="44" type="span" parent="71" relname="elaboration"/>
+		<group id="45" type="span" parent="54" relname="same-unit"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="47" type="multinuc" parent="73" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="49" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="39" relname="comparison"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" />
+		<group id="54" type="multinuc" parent="38" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="same-unit"/>
+		<group id="56" type="multinuc" parent="42" relname="sequence"/>
+		<group id="57" type="span" parent="61" relname="interpretation-evaluation"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="59" type="span" parent="60" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" />
+		<group id="64" type="span" parent="46" relname="contrast"/>
+		<group id="65" type="span" parent="66" relname="same-unit"/>
+		<group id="66" type="multinuc" parent="47" relname="contrast"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="39" relname="comparison"/>
+		<group id="69" type="span" parent="70" relname="same-unit"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="71" type="span" parent="50" relname="span"/>
+		<group id="72" type="span" parent="74" relname="elaboration"/>
+		<group id="73" type="span" parent="48" relname="elaboration"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="75" type="span" parent="40" relname="interpretation-evaluation"/>
+	</body>
+</rst>

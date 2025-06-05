@@ -1,0 +1,218 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://veronikahlebova.ru/zhizn-bez-styda-i-viny/</segment>
+		<segment id="2" >##### Жизнь без стыда и вины</segment>
+		<segment id="3" parent="98" relname="span">##### Что происходит с контактом,</segment>
+		<segment id="4" parent="97" relname="joint">если вы признаете себя собой,</segment>
+		<segment id="5" parent="97" relname="joint">свои проявления естественными,</segment>
+		<segment id="6" parent="98" relname="condition">не испытывая за них стыда и вины?</segment>
+		<segment id="7" parent="107" relname="span">Это и есть состояние ответственности за себя.</segment>
+		<segment id="8" parent="100" relname="span">Вы не тратите время на то,</segment>
+		<segment id="9" parent="8" relname="purpose">чтобы помучить себя тем, что вы плохая или плохой.</segment>
+		<segment id="10" parent="103" relname="span">Вы сразу ищете взаимосвязи:</segment>
+		<segment id="11" parent="102" relname="joint">так, я сейчас расстроилась,</segment>
+		<segment id="12" parent="102" relname="joint">прогневалась,</segment>
+		<segment id="13" parent="102" relname="joint">захотела обесценить,</segment>
+		<segment id="14" parent="102" relname="joint">нуждалась в похвале имярек</segment>
+		<segment id="15" parent="186" relname="same-unit">– почему?</segment>
+		<segment id="16" parent="103" relname="elaboration">Что происходило со мной в контакте?</segment>
+		<segment id="17" parent="112" relname="preparation">Почему сложился именно такой контакт?</segment>
+		<segment id="18" parent="110" relname="sequence">То есть,</segment>
+		<segment id="19" parent="20" relname="condition">принимая себя собой, и свои проявления следствием ваших внутренних процессов и следствием того, что произошло в контакте,</segment>
+		<segment id="20" parent="109" relname="span">вы чувствуете себя нормальным, порядочным, живым, несовершенным, ценным несмотря ни на что,</segment>
+		<segment id="21" parent="110" relname="condition">даже если вы совершили оплошность в контакте, человеком.</segment>
+		<segment id="22" parent="113" relname="joint">В таком состоянии вы можете прояснять,</segment>
+		<segment id="23" parent="113" relname="joint">слушать,</segment>
+		<segment id="24" parent="113" relname="joint">слышать,</segment>
+		<segment id="25" parent="113" relname="joint">искать решение,</segment>
+		<segment id="26" parent="114" relname="span">потому что вы не тратите время на то,</segment>
+		<segment id="27" parent="26" relname="purpose">чтобы справиться с виной, ужасом, стыдом и так далее.</segment>
+		<segment id="28" parent="116" relname="elaboration">Вы способны нести ответственность за себя и за то, что вы вносите в контакт.</segment>
+		<segment id="29" parent="120" relname="joint">##### Если вы признаете свои процессы естественными,</segment>
+		<segment id="30" parent="121" relname="contrast">и вкладываетесь, скорее, в то, чтобы найти причину,</segment>
+		<segment id="31" parent="121" relname="contrast">а не в то, чтобы себя закопать,</segment>
+		<segment id="32" parent="122" relname="span">вам намного легче принимать процессы близкого вам человека.</segment>
+		<segment id="33" parent="122" relname="elaboration">Особенно если этот человек – ваш ребенок.</segment>
+		<segment id="34" parent="123" relname="contrast">Чуть сложнее обстоит дело с равными, с партнерами, еще сложнее – с родителями, и с теми, на кого вы проецируете своих родителей и проецируете свои детские нужды.</segment>
+		<segment id="35" parent="125" relname="same-unit">Но даже с этими людьми,</segment>
+		<segment id="36" parent="37" relname="cause">после недолгого внутреннего процесса отделения,</segment>
+		<segment id="37" parent="124" relname="span">вы можете принимать их инаковость</segment>
+		<segment id="38" parent="126" relname="joint">и размышлять, как с этими особенностями и инаковостью обойтись.</segment>
+		<segment id="39" parent="128" relname="span">##### …Со всеми моими детьми,</segment>
+		<segment id="40" parent="39" relname="background">которые уже достигли такого возраста, когда они могут и способны ощущать и принимать отдельность,</segment>
+		<segment id="41" parent="129" relname="same-unit">мы много и часто говорим об отличиях.</segment>
+		<segment id="42" parent="131" relname="span">«Мама, прости, что задаю тебе уточняющие вопросы.</segment>
+		<segment id="43" parent="130" relname="contrast">Я знаю, ты любишь быстро принимать решения,</segment>
+		<segment id="44" parent="130" relname="contrast">а мне нужно убедиться, что я обдумал все вероятные препятствия и помехи».</segment>
+		<segment id="45" parent="131" relname="attribution">Я слышу это от 18-летнего сына</segment>
+		<segment id="46" parent="182" relname="evaluation">и чувствую эйфорию.</segment>
+		<segment id="47" parent="133" relname="joint">Во-первых, он хорошо чувствует свою и мою отдельность,</segment>
+		<segment id="48" parent="133" relname="joint">способен обозначить словами различия.</segment>
+		<segment id="49" parent="134" relname="joint">Не стыдится своего,</segment>
+		<segment id="50" parent="134" relname="joint">не винит меня за мое.</segment>
+		<segment id="51" parent="183" relname="span">Мы просто разные в какой-то точке,</segment>
+		<segment id="52" parent="51" relname="attribution">и он просто отмечает это.</segment>
+		<segment id="53" parent="139" relname="span">Еще я чувствую свободу.</segment>
+		<segment id="54" parent="138" relname="joint">Мне не нужно рваться из слияния,</segment>
+		<segment id="55" parent="138" relname="joint">и оправдываться.</segment>
+		<segment id="56" parent="140" relname="joint">Я не хочу удерживать сына в слиянии</segment>
+		<segment id="57" parent="140" relname="joint">и доказывать, что мой способ лучше.</segment>
+		<segment id="58" parent="141" relname="contrast">Я уверена, что мой способ лучше для меня,</segment>
+		<segment id="59" parent="141" relname="contrast">а его способ лучше для него.</segment>
+		<segment id="60" parent="146" relname="span">Для меня наиболее ценно то, что мы проговорили различия.</segment>
+		<segment id="61" parent="60" relname="elaboration">Это примиряет нас – сейчас, и потом, в последующих решениях.</segment>
+		<segment id="62" parent="150" relname="evaluation">Однако дочка сердится:</segment>
+		<segment id="63" parent="150" relname="span">она все еще нуждается в помощи,</segment>
+		<segment id="64" parent="63" relname="purpose">чтобы именно я проговаривала нашу отдельность.</segment>
+		<segment id="65" parent="161" relname="joint">И теперь мне снова приходит на помощь старший сын.</segment>
+		<segment id="66" parent="67" relname="cause">«Из-за того, что вы долго собираетесь,</segment>
+		<segment id="67" parent="152" relname="span">я опоздаю!</segment>
+		<segment id="68" parent="153" relname="span">А ты мама… вот тогда злилась на меня,</segment>
+		<segment id="69" parent="68" relname="background">когда мы опаздывали на электричку! Якобы из-за меня».</segment>
+		<segment id="70" parent="155" relname="span">«Майя, ну это же электричка! Самолет, поезд…</segment>
+		<segment id="71" parent="70" relname="elaboration">Все, что не ждет, все что по расписанию, это другая тема!</segment>
+		<segment id="72" parent="157" relname="span">А мы идем в гости…</segment>
+		<segment id="73" parent="72" relname="elaboration">Можно не торопиться».</segment>
+		<segment id="74" parent="159" relname="span">«Мама, для Майи имеет значение сам факт договоренности.</segment>
+		<segment id="75" parent="74" relname="cause">Она у нас очень ответственная»,</segment>
+		<segment id="76" parent="159" relname="attribution">— вносит свою лепту мой старший сын.</segment>
+		<segment id="77" parent="171" relname="preparation">Несколько секунд я размышляю.</segment>
+		<segment id="78" parent="166" relname="evaluation">«Да, я понимаю.</segment>
+		<segment id="79" parent="166" relname="span">Майя, похоже, у нас есть различия.</segment>
+		<segment id="80" parent="165" relname="span">Для меня не все договоренности одинаково обязательны к исполнению.</segment>
+		<segment id="81" parent="164" relname="contrast">На самолет я не опаздываю,</segment>
+		<segment id="82" parent="164" relname="contrast">а в гости могу немного опоздать».</segment>
+		<segment id="83" parent="170" relname="span">«А, теперь понятно»,</segment>
+		<segment id="84" parent="83" relname="attribution">— отвечает Майя примирительно.</segment>
+		<segment id="85" parent="169" relname="span">##### Я чувствую теперь другую атмосферу.</segment>
+		<segment id="86" parent="85" relname="elaboration">В пространстве становится больше терпимости и примирения.</segment>
+		<segment id="87" parent="180" relname="span">##### Я чувствую свободу.</segment>
+		<segment id="88" parent="173" relname="joint">Потому что опять, и в который раз мы прояснили наши различия,</segment>
+		<segment id="89" parent="174" relname="span">а также установили границы</segment>
+		<segment id="90" parent="89" relname="purpose">для дальнейшего взаимодействия.</segment>
+		<segment id="91" parent="176" relname="span">##### Я очень рада,</segment>
+		<segment id="92" parent="175" relname="span">потому что никто из нас не чувствует себя плохим и виноватым</segment>
+		<segment id="93" parent="92" relname="cause">за свои отличия</segment>
+		<segment id="94" parent="179" relname="span">И все наши усилия направлены исключительно на то,</segment>
+		<segment id="95" parent="178" relname="joint">чтобы друг друга узнать</segment>
+		<segment id="96" parent="178" relname="joint">и понять.</segment>
+		<group id="97" type="multinuc" parent="3" relname="condition"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="99" type="span" parent="107" relname="solutionhood"/>
+		<group id="100" type="span" parent="101" relname="contrast"/>
+		<group id="101" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="102" type="multinuc" parent="185" relname="span"/>
+		<group id="103" type="span" parent="187" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" parent="188" relname="span"/>
+		<group id="109" type="span" parent="110" relname="sequence"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="117" relname="span"/>
+		<group id="113" type="multinuc" parent="115" relname="span"/>
+		<group id="114" type="span" parent="115" relname="cause"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="116" type="span" parent="119" relname="span"/>
+		<group id="117" type="span" parent="108" relname="elaboration"/>
+		<group id="119" type="span" parent="111" relname="elaboration"/>
+		<group id="120" type="multinuc" parent="32" relname="condition"/>
+		<group id="121" type="multinuc" parent="120" relname="joint"/>
+		<group id="122" type="span" parent="144" relname="span"/>
+		<group id="123" type="multinuc" parent="127" relname="comparison"/>
+		<group id="124" type="span" parent="125" relname="same-unit"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="126" type="multinuc" parent="123" relname="contrast"/>
+		<group id="127" type="multinuc" />
+		<group id="128" type="span" parent="129" relname="same-unit"/>
+		<group id="129" type="multinuc" parent="132" relname="preparation"/>
+		<group id="130" type="multinuc" parent="42" relname="cause"/>
+		<group id="131" type="span" parent="182" relname="span"/>
+		<group id="132" type="span" parent="145" relname="span"/>
+		<group id="133" type="multinuc" parent="135" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="135" type="multinuc" parent="136" relname="span"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="189" relname="cause"/>
+		<group id="138" type="multinuc" parent="53" relname="cause"/>
+		<group id="139" type="span" parent="149" relname="span"/>
+		<group id="140" type="multinuc" parent="147" relname="span"/>
+		<group id="141" type="multinuc" parent="142" relname="span"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="143" type="span" parent="147" relname="elaboration"/>
+		<group id="144" type="span" parent="127" relname="comparison"/>
+		<group id="145" type="span" />
+		<group id="146" type="span" parent="142" relname="evaluation"/>
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="139" relname="elaboration"/>
+		<group id="149" type="span" parent="191" relname="joint"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="151" type="span" parent="161" relname="joint"/>
+		<group id="152" type="span" parent="154" relname="contrast"/>
+		<group id="153" type="span" parent="154" relname="contrast"/>
+		<group id="154" type="multinuc" parent="158" relname="sequence"/>
+		<group id="155" type="span" parent="156" relname="contrast"/>
+		<group id="156" type="multinuc" parent="158" relname="sequence"/>
+		<group id="157" type="span" parent="156" relname="contrast"/>
+		<group id="158" type="multinuc" parent="162" relname="span"/>
+		<group id="159" type="span" parent="160" relname="span"/>
+		<group id="160" type="span" parent="158" relname="sequence"/>
+		<group id="161" type="multinuc" parent="162" relname="preparation"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="193" relname="joint"/>
+		<group id="164" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="165" type="span" parent="79" relname="elaboration"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" parent="168" relname="sequence"/>
+		<group id="168" type="multinuc" parent="171" relname="span"/>
+		<group id="169" type="span" parent="181" relname="joint"/>
+		<group id="170" type="span" parent="184" relname="span"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="158" relname="sequence"/>
+		<group id="173" type="multinuc" parent="87" relname="cause"/>
+		<group id="174" type="span" parent="173" relname="joint"/>
+		<group id="175" type="span" parent="91" relname="cause"/>
+		<group id="176" type="span" parent="177" relname="joint"/>
+		<group id="177" type="multinuc" parent="181" relname="joint"/>
+		<group id="178" type="multinuc" parent="94" relname="purpose"/>
+		<group id="179" type="span" parent="177" relname="joint"/>
+		<group id="180" type="span" parent="181" relname="joint"/>
+		<group id="181" type="multinuc" />
+		<group id="182" type="span" parent="189" relname="span"/>
+		<group id="183" type="span" parent="136" relname="evaluation"/>
+		<group id="184" type="span" parent="168" relname="sequence"/>
+		<group id="185" type="span" parent="186" relname="same-unit"/>
+		<group id="186" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="187" type="span" parent="101" relname="contrast"/>
+		<group id="188" type="span" />
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="joint"/>
+		<group id="193" type="multinuc" parent="132" relname="span"/>
+	</body>
+</rst>

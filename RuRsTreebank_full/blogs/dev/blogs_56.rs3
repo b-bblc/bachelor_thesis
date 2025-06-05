@@ -1,0 +1,221 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://putnik1.livejournal.com/7594811.html</segment>
+		<segment id="2" parent="194" relname="span">##### ДОЗАСЕДАВШИЕСЯ</segment>
+		<segment id="3" parent="2" relname="elaboration">##### IMG-TXT</segment>
+		<segment id="4" parent="5" relname="solutionhood">##### О чем это?</segment>
+		<segment id="5" parent="101" relname="span">##### Все о том же.</segment>
+		<segment id="6" parent="7" relname="condition">##### Но раз уж целый сенатор пророчит,</segment>
+		<segment id="7" parent="177" relname="span">есть смысл вернуться...</segment>
+		<segment id="8" parent="108" relname="joint">##### Вопрос с тразитом российского газа в ЕС через Украину возник давно,</segment>
+		<segment id="9" parent="196" relname="joint">и проект СП-2, как известно, связан, в частности, и с понятным желанием Москвы прекратить покражи Киевом газа,</segment>
+		<segment id="10" parent="106" relname="same-unit">а также</segment>
+		<segment id="11" parent="104" relname="contrast">(вслух об этом не говорят,</segment>
+		<segment id="12" parent="104" relname="contrast">но все ж ясно)</segment>
+		<segment id="13" parent="105" relname="span">создать Киеву очень серьзеные финансовые проблемы,</segment>
+		<segment id="14" parent="109" relname="span">и в июне 2015 года "Газпром" устами г-на Медведева, зампреда правления компании</segment>
+		<segment id="15" parent="14" relname="evaluation">(шишка, как ни крути, немалая и официальная)</segment>
+		<segment id="16" parent="110" relname="same-unit">четко заявил:</segment>
+		<segment id="17" parent="197" relname="condition">"После окончания транзитного контракта с Украиной</segment>
+		<segment id="18" parent="182" relname="joint">ни продления,</segment>
+		<segment id="19" parent="182" relname="joint">ни заключения нового</segment>
+		<segment id="20" parent="181" relname="same-unit">не будет</segment>
+		<segment id="21" parent="181" relname="condition">ни при каких условиях".</segment>
+		<segment id="22" parent="23" relname="preparation">##### Согласитесь, грозно.</segment>
+		<segment id="23" parent="198" relname="span">Проблема лишь в том, что Запад такой пируэт не устраивает.</segment>
+		<segment id="24" parent="118" relname="same-unit">США</segment>
+		<segment id="25" parent="26" relname="cause">по массе причин (экономических и политических)</segment>
+		<segment id="26" parent="117" relname="span">вообще пытаются обнулись СП-2,</segment>
+		<segment id="27" parent="119" relname="contrast">ЕС (в первую очередь, Германия) против самого СП-2 не возражают,</segment>
+		<segment id="28" parent="119" relname="contrast">но возражают против "ущемления Украины",</segment>
+		<segment id="29" parent="120" relname="span">в связи с чем Запад тут же выразил недовольство,</segment>
+		<segment id="30" parent="123" relname="attribution">и уже пару недель спустя г-н Миллер внес поправку:</segment>
+		<segment id="31" parent="184" relname="joint">дескать, президент готов к дальнейшему транзиту,</segment>
+		<segment id="32" parent="184" relname="joint">и мы не отказываемся,</segment>
+		<segment id="33" parent="123" relname="contrast">но контракт подпишем только на выгодных для нас условиях.</segment>
+		<segment id="34" parent="126" relname="span">То есть, как бы г-н Медведев был не в курсе.</segment>
+		<segment id="35" parent="34" relname="evaluation">Ага, ага.</segment>
+		<segment id="36" parent="128" relname="preparation">##### Короче говоря, границы возможного прощупали,</segment>
+		<segment id="37" parent="200" relname="joint">и летом 2018 года,</segment>
+		<segment id="38" parent="200" relname="joint">после серьезной беседы с фрау Меркель,</segment>
+		<segment id="39" parent="188" relname="span">великий человек дал задний ход,</segment>
+		<segment id="40" parent="41" relname="attribution">сообщив,</segment>
+		<segment id="41" parent="186" relname="span">что "транзит газа через Украину будет сохранен",</segment>
+		<segment id="42" parent="127" relname="span">а в декабре еще раз подтвердил это,</segment>
+		<segment id="43" parent="42" relname="evaluation">как нечто, уже окончательно решенное.</segment>
+		<segment id="44" parent="130" relname="contrast">##### Что ж, с великим человеком не поспоришь,</segment>
+		<segment id="45" parent="129" relname="span">осталось только согласовать цену,</segment>
+		<segment id="46" parent="45" relname="purpose">чтобы вовсе уж в убытке не быть,</segment>
+		<segment id="47" parent="132" relname="attribution">и г-н Миллер становится шелково уступчив:</segment>
+		<segment id="48" parent="131" relname="contrast">он уже не диктует в категорическом императиве,</segment>
+		<segment id="49" parent="131" relname="contrast">а предлагает Киеву вполне приличный, достойный компромисс - снижение цены аж на 25%,</segment>
+		<segment id="50" parent="139" relname="evaluation">но в Киеве, как ни странно, сидят не идиоты:</segment>
+		<segment id="51" parent="137" relname="joint">у них на руках  решения суда из Стокгольма,</segment>
+		<segment id="52" parent="192" relname="attribution">они знают,</segment>
+		<segment id="53" parent="192" relname="span">что Москва оказалась в пиковом положении,</segment>
+		<segment id="54" parent="53" relname="cause">ибо против воли фрау не попрешь,</segment>
+		<segment id="55" parent="138" relname="comparison">и теперь уже диктуют условия они,</segment>
+		<segment id="56" parent="138" relname="comparison">- в том же категорическом императиве, от которого отказался г-н Миллер.</segment>
+		<segment id="57" parent="205" relname="preparation">##### Для Кремля это очень неприятный оборот сюжета,</segment>
+		<segment id="58" parent="150" relname="contrast">причем экономический аспект уходит на задний план,</segment>
+		<segment id="59" parent="150" relname="contrast">уступая авансцену политике,</segment>
+		<segment id="60" parent="203" relname="span">и поэтому реакция на ультиматум "Нафтогаза" идет не из "Газпрома",</segment>
+		<segment id="61" parent="60" relname="evaluation">как по логике следовало,</segment>
+		<segment id="62" parent="202" relname="contrast">но аж из Министерства иностранных дел:</segment>
+		<segment id="63" parent="64" relname="attribution">"Никто никогда не заявлял,</segment>
+		<segment id="64" parent="208" relname="span">что мы откажемся.</segment>
+		<segment id="65" parent="208" relname="evaluation">Это было бы убийственно для нас и нерационально.</segment>
+		<segment id="66" parent="146" relname="span">Но и пойти на такие ультиматумы,</segment>
+		<segment id="67" parent="144" relname="joint">что вам все равно некуда деться,</segment>
+		<segment id="68" parent="144" relname="joint">вы часть будете через нас качать,</segment>
+		<segment id="69" parent="145" relname="span">поэтому берите наши условия и вперед</segment>
+		<segment id="70" parent="146" relname="evaluation">- это не тот метод, который мы поддерживаем".</segment>
+		<segment id="71" parent="148" relname="contrast">##### Что самое интересное, г-н Панкин, заместитель г-на Лаврова,  почти не врет,</segment>
+		<segment id="72" parent="148" relname="contrast">- но только почти:</segment>
+		<segment id="73" parent="74" relname="attribution">МИД, в самом деле, никогда не заявлял,</segment>
+		<segment id="74" parent="153" relname="span">что Кремль откажется от транзита,</segment>
+		<segment id="75" parent="154" relname="span">но вот насчет "никто" получается странно,</segment>
+		<segment id="76" parent="178" relname="span">поскольку об отказе от транзита</segment>
+		<segment id="77" parent="76" relname="attribution">заявлял "Газпром".</segment>
+		<segment id="78" parent="156" relname="contrast">Впрочем, спишем казус на склероз,</segment>
+		<segment id="79" parent="156" relname="contrast">и обратим внимание на главное.</segment>
+		<segment id="80" parent="157" relname="attribution">По мнению Кремля,</segment>
+		<segment id="81" parent="157" relname="joint">отказ от транзита через Украины не только не рационален,</segment>
+		<segment id="82" parent="157" relname="joint">но и убийственен.</segment>
+		<segment id="83" parent="161" relname="span">То есть, смерти подобен</segment>
+		<segment id="84" parent="83" relname="cause">(ибо тогда от СП-2 может отказаться и Берлин),</segment>
+		<segment id="85" parent="86" relname="attribution">и единственное, на чем настаивает Кремль,</segment>
+		<segment id="86" parent="162" relname="span">это чтобы его не шантажировали.</segment>
+		<segment id="87" parent="165" relname="attribution">Так и говорят:</segment>
+		<segment id="88" parent="165" relname="joint">шантаж не тот метод, который мы поддерживаем,</segment>
+		<segment id="89" parent="90" relname="attribution">мы не хотим,</segment>
+		<segment id="90" parent="212" relname="span">чтобы с нами работали в стиле "вам все равно некуда деться".</segment>
+		<segment id="91" parent="193" relname="contrast">Понятная позиция,</segment>
+		<segment id="92" parent="193" relname="contrast">- вот только никуда Москве не уйти от того факта, что деться таки некуда.</segment>
+		<segment id="93" parent="166" relname="span">Чем Киев и пользуется,</segment>
+		<segment id="94" parent="93" relname="condition">не интересуясь, какие методы поддерживает Москва.</segment>
+		<segment id="95" parent="172" relname="span">##### С учетом всего этого г-ну Пушкову стоит попробовать написать  роман на тему</segment>
+		<segment id="96" parent="171" relname="span">"как бы его контору не закрыли за ненадобностью,</segment>
+		<segment id="97" parent="96" relname="condition">если газ по ГТС поступать перестанет".</segment>
+		<segment id="98" parent="173" relname="condition">С фантазией у сенатора все в порядке, и</segment>
+		<segment id="99" parent="100" relname="condition">если со стилем тоже,</segment>
+		<segment id="100" parent="173" relname="span">произведение может иметь немалый успех...</segment>
+		<group id="101" type="span" parent="102" relname="contrast"/>
+		<group id="102" type="multinuc" />
+		<group id="104" type="multinuc" parent="13" relname="evaluation"/>
+		<group id="105" type="span" parent="106" relname="same-unit"/>
+		<group id="106" type="multinuc" parent="196" relname="joint"/>
+		<group id="108" type="multinuc" parent="111" relname="sequence"/>
+		<group id="109" type="span" parent="110" relname="same-unit"/>
+		<group id="110" type="multinuc" parent="183" relname="attribution"/>
+		<group id="111" type="multinuc" />
+		<group id="112" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="111" relname="sequence"/>
+		<group id="117" type="span" parent="118" relname="same-unit"/>
+		<group id="118" type="multinuc" parent="199" relname="joint"/>
+		<group id="119" type="multinuc" parent="29" relname="cause"/>
+		<group id="120" type="span" parent="122" relname="sequence"/>
+		<group id="122" type="multinuc" parent="199" relname="joint"/>
+		<group id="123" type="multinuc" parent="185" relname="span"/>
+		<group id="125" type="multinuc" parent="122" relname="sequence"/>
+		<group id="126" type="span" parent="125" relname="restatement"/>
+		<group id="127" type="span" parent="128" relname="sequence"/>
+		<group id="128" type="multinuc" parent="201" relname="span"/>
+		<group id="129" type="span" parent="135" relname="span"/>
+		<group id="130" type="multinuc" parent="136" relname="contrast"/>
+		<group id="131" type="multinuc" parent="132" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="133" type="span" parent="129" relname="elaboration"/>
+		<group id="135" type="span" parent="130" relname="contrast"/>
+		<group id="136" type="multinuc" parent="195" relname="span"/>
+		<group id="137" type="multinuc" parent="138" relname="cause"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" parent="136" relname="contrast"/>
+		<group id="143" type="multinuc" parent="202" relname="elaboration"/>
+		<group id="144" type="multinuc" parent="69" relname="cause"/>
+		<group id="145" type="span" parent="66" relname="elaboration"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="143" relname="contrast"/>
+		<group id="148" type="multinuc" parent="170" relname="preparation"/>
+		<group id="150" type="multinuc" parent="204" relname="cause"/>
+		<group id="153" type="span" parent="155" relname="contrast"/>
+		<group id="154" type="span" parent="155" relname="contrast"/>
+		<group id="155" type="multinuc" parent="170" relname="span"/>
+		<group id="156" type="multinuc" parent="209" relname="span"/>
+		<group id="157" type="multinuc" parent="158" relname="span"/>
+		<group id="158" type="span" parent="210" relname="restatement"/>
+		<group id="159" type="span" parent="156" relname="elaboration"/>
+		<group id="161" type="span" parent="210" relname="restatement"/>
+		<group id="162" type="span" parent="210" relname="elaboration"/>
+		<group id="165" type="multinuc" parent="176" relname="span"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" parent="176" relname="evaluation"/>
+		<group id="168" type="span" parent="211" relname="elaboration"/>
+		<group id="169" type="span" />
+		<group id="170" type="span" parent="169" relname="span"/>
+		<group id="171" type="span" parent="95" relname="elaboration"/>
+		<group id="172" type="span" parent="175" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="172" relname="elaboration"/>
+		<group id="175" type="span" />
+		<group id="176" type="span" parent="168" relname="span"/>
+		<group id="177" type="span" parent="102" relname="contrast"/>
+		<group id="178" type="span" parent="75" relname="cause"/>
+		<group id="181" type="multinuc" parent="197" relname="span"/>
+		<group id="182" type="multinuc" parent="181" relname="same-unit"/>
+		<group id="183" type="span" parent="112" relname="span"/>
+		<group id="184" type="multinuc" parent="123" relname="contrast"/>
+		<group id="185" type="span" parent="125" relname="restatement"/>
+		<group id="186" type="span" parent="39" relname="elaboration"/>
+		<group id="188" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="128" relname="sequence"/>
+		<group id="191" type="span" parent="137" relname="joint"/>
+		<group id="192" type="span" parent="191" relname="span"/>
+		<group id="193" type="multinuc" parent="166" relname="cause"/>
+		<group id="194" type="span" />
+		<group id="195" type="span" />
+		<group id="196" type="multinuc" parent="108" relname="joint"/>
+		<group id="197" type="span" parent="183" relname="span"/>
+		<group id="198" type="span" />
+		<group id="199" type="multinuc" parent="198" relname="elaboration"/>
+		<group id="200" type="multinuc" parent="188" relname="background"/>
+		<group id="201" type="span" parent="136" relname="preparation"/>
+		<group id="202" type="multinuc" parent="204" relname="span"/>
+		<group id="203" type="span" parent="202" relname="contrast"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" />
+		<group id="207" type="span" parent="143" relname="contrast"/>
+		<group id="208" type="span" parent="207" relname="span"/>
+		<group id="209" type="span" parent="155" relname="evaluation"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="211" type="span" parent="159" relname="span"/>
+		<group id="212" type="span" parent="165" relname="joint"/>
+	</body>
+</rst>

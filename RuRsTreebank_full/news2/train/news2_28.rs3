@@ -1,0 +1,469 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Эксперты и политики выступают за сохранение и расширение договора о РСМД между РФ и США</segment>
+		<segment id="2" parent="228" relname="span">##### Ситуация вокруг договора о ликвидации ракет средней и меньшей дальности (РСМД),</segment>
+		<segment id="3" parent="2" relname="elaboration">подписанного лидерами СССР и США Михаилом Горбачевым и Рональдом Рейганом 8 декабря 1987 года,</segment>
+		<segment id="4" parent="229" relname="same-unit">продолжает оставаться неопределенной на фоне роста напряженности между двумя ядерными державами.</segment>
+		<segment id="5" parent="230" relname="span">##### У обеих сторон по-прежнему сохраняются претензии друг к другу в части следования положениям документа.</segment>
+		<segment id="6" parent="5" relname="evidence">Так, Госдепартамент США в очередном ежегодном докладе о международном соблюдении соглашений по контролю над вооружением вновь обвинил Россию в разработке крылатой ракеты наземного базирования с запрещенной дальностью полета, фактически повторив тезисы, изложенные еще в прошлом году.</segment>
+		<segment id="7" parent="232" relname="attribution">##### "США определили,</segment>
+		<segment id="8" parent="232" relname="span">что Российская Федерация в 2014 году нарушала свои обязательства по договору о ликвидации ракет средней и меньшей дальности</segment>
+		<segment id="9" parent="231" relname="joint">- не иметь,</segment>
+		<segment id="10" parent="231" relname="joint">не производить</segment>
+		<segment id="11" parent="231" relname="joint">и не испытывать баллистические ракеты наземного базирования с дальностью полета от 500 до 5,5 тыс. км,</segment>
+		<segment id="12" parent="231" relname="joint">а также не иметь</segment>
+		<segment id="13" parent="231" relname="joint">и не производить пусковые установки для таких ракет",</segment>
+		<segment id="14" parent="233" relname="span">- говорится в документе,</segment>
+		<segment id="15" parent="14" relname="elaboration">опубликованном в июне 2015 года.</segment>
+		<segment id="16" parent="17" relname="attribution">##### При этом заместитель госсекретаря США по вопросам контроля над вооружениями и международной безопасности Роуз Гетемюллер (Rose Gottemoeller) опровергла предположения ряда экспертов о том,</segment>
+		<segment id="17" parent="239" relname="span">что в этих заявлениях могла содержаться отсылка к крылатым ракетам Р-500 для пусковых комплексов "Искандер-К".</segment>
+		<segment id="18" parent="240" relname="attribution">Она также выразила уверенность в том,</segment>
+		<segment id="19" parent="20" relname="attribution">что "российское руководство знает,</segment>
+		<segment id="20" parent="240" relname="span">какую ракету мы имеем в виду".</segment>
+		<segment id="21" parent="415" relname="attribution">##### В то же время в Москве в очередной раз обратили внимание на тот факт,</segment>
+		<segment id="22" parent="243" relname="joint">что в Белом доме не могут привести никаких конкретных фактов</segment>
+		<segment id="23" parent="243" relname="joint">и ссылаются исключительно на "надежные закрытые источники", достоверность которых невозможно проверить.</segment>
+		<segment id="24" parent="420" relname="attribution">##### Кроме того, российская сторона высказала опасения</segment>
+		<segment id="25" parent="420" relname="span">по поводу базирования в Румынии и Польши элементов системы противоракетной обороны (ПРО),</segment>
+		<segment id="26" parent="244" relname="span">которые могут потенциально использоваться</segment>
+		<segment id="27" parent="245" relname="joint">для запрещенных целей,</segment>
+		<segment id="28" parent="245" relname="joint">а также применения американцами беспилотных летательных аппаратов (БПЛА) с ударным вооружением, подпадающих под определение крылатых ракет наземного базирования.</segment>
+		<segment id="29" parent="248" relname="joint">##### "Складывается впечатление, что главная цель развернутой США пропагандистской кампании в связи с ДРСМД - стремление дискредитировать российскую сторону</segment>
+		<segment id="30" parent="249" relname="span">и одновременно отвлечь внимание от действий самих США,</segment>
+		<segment id="31" parent="247" relname="span">чрезвычайно вольно трактующих положения договора в случаях,</segment>
+		<segment id="32" parent="31" relname="condition">когда они препятствуют созданию важных для Вашингтона систем вооружений",</segment>
+		<segment id="33" parent="250" relname="attribution">- говорится в комментарии министерства иностранных дел России.</segment>
+		<segment id="34" parent="253" relname="attribution">##### Более того, как заявил заместитель секретаря Совета безопасности РФ Евгений Лукьянов,</segment>
+		<segment id="35" parent="36" relname="cause">размещение на территории Польши и Румынии элементов системы ПРО</segment>
+		<segment id="36" parent="252" relname="span">представляет опасность для этих стран,</segment>
+		<segment id="37" parent="253" relname="span">так как они автоматически становятся для России целями.</segment>
+		<segment id="38" parent="257" relname="span">##### Международные эксперты и политики по-прежнему акцентируют свое внимание на необходимости сохранить договор о РСМД,</segment>
+		<segment id="39" parent="255" relname="joint">поскольку расторжение документа может вернуть страны в состояние холодной войны,</segment>
+		<segment id="40" parent="41" relname="cause">а игнорирование отдельных его положений - к новой гонке вооружений,</segment>
+		<segment id="41" parent="256" relname="span">что создаст дополнительную напряженность в мире.</segment>
+		<segment id="42" parent="258" relname="span">##### "Выход из договора о РСМД создаст повод</segment>
+		<segment id="43" parent="42" relname="purpose">для жесткой критики [США] со стороны международного сообщества,</segment>
+		<segment id="44" parent="259" relname="span">как было после выхода из договора об ограничении систем ПРО,</segment>
+		<segment id="45" parent="44" relname="condition">особенно если вспомнить, с какой настойчивостью Белый дом продвигал концепцию ядерного разоружения и "глобального ноля". [...]</segment>
+		<segment id="46" parent="263" relname="span">Более того, Америке не нужны ракеты средней дальности наземного базирования,</segment>
+		<segment id="47" parent="262" relname="joint">чтобы обеспечивать собственную безопасность</segment>
+		<segment id="48" parent="262" relname="joint">и поддерживать союзников,</segment>
+		<segment id="49" parent="263" relname="evaluation">так что реальных преимуществ от выхода из соглашения для Вашингтона нет",</segment>
+		<segment id="50" parent="264" relname="attribution">- прокомментировала научный сотрудник центра стратегических и оборонных исследований Будапештского университета имени Матвея Корвина Анна Пецели (Anna Peczeli).</segment>
+		<segment id="51" parent="52" relname="attribution">##### По ее мнению,</segment>
+		<segment id="52" parent="434" relname="span">открытая конфронтация по этому вопросу может поставить под угрозу как интересы России, так и США.</segment>
+		<segment id="53" parent="266" relname="span">##### "К тому же режим контроля над вооружением по-прежнему очень важен для обеих стран,</segment>
+		<segment id="54" parent="53" relname="cause">поскольку с его помощью можно поддерживать определенный уровень взаимной открытости и доверия",</segment>
+		<segment id="55" parent="266" relname="attribution">- сказала эксперт.</segment>
+		<segment id="56" parent="422" relname="attribution">##### По ее словам,</segment>
+		<segment id="57" parent="58" relname="purpose">для решения назревшей проблемы участникам договора</segment>
+		<segment id="58" parent="422" relname="span">стоит дать друг другу подробные разъяснения по вопросам, которые вызывают у них опасения,</segment>
+		<segment id="59" parent="270" relname="joint">и четко заявить о намерениях следовать положениям ДРСМД в будущем.</segment>
+		<segment id="60" parent="271" relname="joint">##### "Кроме того, присоединение других стран к соглашению позволило бы поднять авторитет договора</segment>
+		<segment id="61" parent="271" relname="joint">и частично снять напряженность по вопросам безопасности",</segment>
+		<segment id="62" parent="272" relname="attribution">- предположила Анна Пецели.</segment>
+		<segment id="63" parent="64" relname="attribution">##### Главы отдела международной политики и безопасности Центрального комитета Коммунистической партии Чехии и Моравии Вера Фласарова (Vera Flasarova) согласилась с тем,</segment>
+		<segment id="64" parent="274" relname="span">что эти задачи особенно важны именно сейчас,</segment>
+		<segment id="65" parent="274" relname="cause">поскольку в мире продолжают возникать новые очаги нестабильности.</segment>
+		<segment id="66" parent="277" relname="span">##### "Вопрос использования ракет средней и меньшей дальности становится все более злободневным,</segment>
+		<segment id="67" parent="276" relname="span">поскольку их легко использовать в региональных конфликтах</segment>
+		<segment id="68" parent="67" relname="purpose">для высокоточного поражения целей",</segment>
+		<segment id="69" parent="277" relname="attribution">- подчеркнула политик.</segment>
+		<segment id="70" parent="71" relname="attribution">##### Она добавила,</segment>
+		<segment id="71" parent="279" relname="span">что многие страны в стремлении отстоять свои стратегические и союзные интересы нередко нарушают условия, установленные международными соглашениями.</segment>
+		<segment id="72" parent="280" relname="span">##### "Соблюдение договора о РСМД с деэскалацией ситуации может быть достигнуто путем переговоров представителей обеих сторон</segment>
+		<segment id="73" parent="72" relname="condition">в ходе постепенного обсуждения вопросов,</segment>
+		<segment id="74" parent="281" relname="contrast">однако это вряд ли возможно сейчас - в условиях относительно высокой текущей напряженности",</segment>
+		<segment id="75" parent="282" relname="attribution">- сказала член Компартии Чехии и Моравии.</segment>
+		<segment id="76" parent="285" relname="attribution">##### В свою очередь экс-посол США на Украине в 1998-2000 годах, бывший помощник госсекретаря по вопросам Европы и Евразии, глава Инициативной группы по контролю над вооружениями Института Брукингса Стивен Пайфер (Steven Pifer) отметил,</segment>
+		<segment id="77" parent="78" relname="condition">что если обе стороны действительно намерены разрешить имеющуюся проблему,</segment>
+		<segment id="78" parent="285" relname="span">то им придется пойти на взаимные компромиссы.</segment>
+		<segment id="79" parent="423" relname="attribution">##### "Российские власти высказали опасение</segment>
+		<segment id="80" parent="423" relname="span">по поводу размещения систем ПРО SM-3 в Румынии в этом году и в Польше три года тому назад,</segment>
+		<segment id="81" parent="287" relname="span">которые потенциально могут использоваться</segment>
+		<segment id="82" parent="81" relname="purpose">для запуска крылатых ракет.</segment>
+		<segment id="83" parent="291" relname="attribution">Я полагаю,</segment>
+		<segment id="84" parent="290" relname="joint">что в США могли бы раскрыть больше информации</segment>
+		<segment id="85" parent="289" relname="span">и позволить России убедиться,</segment>
+		<segment id="86" parent="288" relname="joint">что эти пусковые комплексы не снаряжены</segment>
+		<segment id="87" parent="288" relname="joint">и не могут быть снаряжены баллистическими ракетами.</segment>
+		<segment id="88" parent="293" relname="span">В ответ на это Москва могла бы раскрыть дополнительные сведения по поводу ракетных испытаний,</segment>
+		<segment id="89" parent="88" relname="purpose">чтобы снять опасения Вашингтона",</segment>
+		<segment id="90" parent="293" relname="attribution">- пояснил он в интервью ИА "PenzaNews".</segment>
+		<segment id="91" parent="92" relname="attribution">##### По мнению Стивена Пайфера,</segment>
+		<segment id="92" parent="435" relname="span">от выхода США или России из договора также пострадают страны Европы и Азии.</segment>
+		<segment id="93" parent="298" relname="preparation">##### "В первую очередь предлагаю вспомнить 1987 год:</segment>
+		<segment id="94" parent="298" relname="span">Соединенные Штаты и Советский Союз пошли на подписание договора,</segment>
+		<segment id="95" parent="94" relname="cause">поскольку осознали, что существование крылатых и баллистических ракет средней дальности наземного базирования не соответствует их интересам безопасности.</segment>
+		<segment id="96" parent="97" relname="condition">Если говорить о России,</segment>
+		<segment id="97" parent="300" relname="span">то Москва выходом из договора может спровоцировать возвращение американских ракет в Европу.</segment>
+		<segment id="98" parent="99" relname="attribution">Я не думаю,</segment>
+		<segment id="99" parent="301" relname="span">что это в интересах РФ,</segment>
+		<segment id="100" parent="101" relname="attribution">и столь же сильно сомневаюсь в том,</segment>
+		<segment id="101" parent="302" relname="span">что в США хотели бы видеть своих азиатских и европейских союзников под прицелом российских ракет",</segment>
+		<segment id="102" parent="306" relname="attribution">- сказал экс-посол США на Украине.</segment>
+		<segment id="103" parent="310" relname="attribution">##### Вместе с тем он выразил абсолютную уверенность в том,</segment>
+		<segment id="104" parent="309" relname="joint">что Москва действительно провела испытания запрещенной договором крылатой ракеты наземного базирования,</segment>
+		<segment id="105" parent="309" relname="joint">однако какой именно, не сообщил.</segment>
+		<segment id="106" parent="314" relname="joint">##### "Характеристики не озвучивались публично.</segment>
+		<segment id="107" parent="312" relname="attribution">Некоторые высокопоставленные американские политики в свое время говорили мне,</segment>
+		<segment id="108" parent="312" relname="span">что они передали российским властям достаточно информации,</segment>
+		<segment id="109" parent="108" relname="purpose">чтобы те смогли определить, о каких именно испытаниях идет речь",</segment>
+		<segment id="110" parent="315" relname="attribution">- добавил Стивен Пайфер.</segment>
+		<segment id="111" parent="318" relname="joint">##### В то же время бывший помощник госсекретаря по вопросам Европы и Евразии охарактеризовал опасения российской стороны как "менее значимые"</segment>
+		<segment id="112" parent="318" relname="joint">и усомнился, что использование США боевых БПЛА противоречит положениям соглашения.</segment>
+		<segment id="113" parent="417" relname="attribution">"В определении крылатых ракет наземного базирования в договоре о РСМД фактически говорится,</segment>
+		<segment id="114" parent="319" relname="joint">что такая ракета летит из одной точки в другую</segment>
+		<segment id="115" parent="320" relname="span">и самоуничтожается</segment>
+		<segment id="116" parent="115" relname="condition">при поражении цели.</segment>
+		<segment id="117" parent="321" relname="joint">Беспилотный летательный аппарат вылетает из одной точки в другую,</segment>
+		<segment id="118" parent="321" relname="joint">может поразить цель небольшой ракетой,</segment>
+		<segment id="119" parent="321" relname="joint">однако потом возвращается в точку вылета.</segment>
+		<segment id="120" parent="322" relname="contrast">В этом его кардинальное отличие от крылатой ракеты наземного базирования.</segment>
+		<segment id="121" parent="325" relname="joint">Российские вооруженные силы в настоящее время разрабатывают собственные БПЛА,</segment>
+		<segment id="122" parent="323" relname="attribution">и я считаю,</segment>
+		<segment id="123" parent="323" relname="span">что заявления о том, что их использование нарушает положения ДРСМД, прекратятся,</segment>
+		<segment id="124" parent="123" relname="condition">как только у РФ появятся собственные разработки",</segment>
+		<segment id="125" parent="328" relname="attribution">- предположил собеседник агентства.</segment>
+		<segment id="126" parent="429" relname="attribution">##### Однако с этим утверждением не согласился военный эксперт, редактор информационного портала "Вестник ПВО" Саид Аминов (Said Aminov).</segment>
+		<segment id="127" parent="331" relname="span">##### "Беспилотные летательные аппараты большой дальности, несущие ударное вооружение, в отличие от разведывательных аппаратов - как раз элемент нарушения договора о РСМД",</segment>
+		<segment id="128" parent="129" relname="attribution">- сказал он, особо подчеркнув,</segment>
+		<segment id="129" parent="414" relname="span">что российские разработки в этой сфере ориентированы именно на задачи сбора информации.</segment>
+		<segment id="130" parent="425" relname="attribution">##### По его мнению,</segment>
+		<segment id="131" parent="425" relname="span">в текущей ситуации необходимо на международном уровне законодательно запретить нерегулируемое применение боевых беспилотников,</segment>
+		<segment id="132" parent="133" relname="cause">так как их использование</segment>
+		<segment id="133" parent="332" relname="span">приводит к огромному числу жертв среди мирного населения.</segment>
+		<segment id="134" parent="334" relname="attribution">##### "Но я думаю,</segment>
+		<segment id="135" parent="333" relname="joint">что, учитывая большое количество локальных конфликтов, это будет крайне сложно сделать,</segment>
+		<segment id="136" parent="333" relname="joint">тем более когда в этом заинтересованы США",</segment>
+		<segment id="137" parent="335" relname="attribution">- констатировал эксперт.</segment>
+		<segment id="138" parent="139" relname="attribution">##### Говоря о возможных мерах влияния американской стороны на Москву в вопросе ДРСМД, он выразил твердую убежденность в том,</segment>
+		<segment id="139" parent="337" relname="span">что на сегодняшний день у Вашингтона нет возможности помешать военно-техническому развитию РФ.</segment>
+		<segment id="140" parent="141" relname="attribution">##### "Мне кажется,</segment>
+		<segment id="141" parent="343" relname="span">здесь больше будет политический нажим, использование механизмов санкций.</segment>
+		<segment id="142" parent="339" relname="same-unit">Однако,</segment>
+		<segment id="143" parent="144" relname="attribution">как Вы видите,</segment>
+		<segment id="144" parent="338" relname="span">даже Северная Корея и Иран,</segment>
+		<segment id="145" parent="340" relname="elaboration">находящиеся или находившиеся в серьезной международной изоляции, экономической и технической блокаде,</segment>
+		<segment id="146" parent="342" relname="same-unit">создают ракетно-космическую технику",</segment>
+		<segment id="147" parent="345" relname="attribution">- заметил Саид Аминов.</segment>
+		<segment id="148" parent="356" relname="joint">##### С его точки зрения, Россия следует всем положениям договора о ликвидации ракет средней и меньшей дальности.</segment>
+		<segment id="149" parent="348" relname="span">##### "Все проекты четко укладываются в ограничения этой дальности, как и совместные разработки, в том числе линия "БраМос" ("BrahMos") с Индией",</segment>
+		<segment id="150" parent="149" relname="attribution">- сказал эксперт.</segment>
+		<segment id="151" parent="431" relname="attribution">##### По его мнению,</segment>
+		<segment id="152" parent="431" relname="span">Москве и Вашингтону стоит продолжить работу в рамках соглашения,</segment>
+		<segment id="153" parent="152" relname="concession">несмотря на то, что отношения между странами значительно осложнились после событий на Украине, возвращения Крыма в состав России и расширения системы ПРО в Восточной Европе.</segment>
+		<segment id="154" parent="349" relname="joint">##### "Сохранить договор</segment>
+		<segment id="155" parent="349" relname="joint">и придерживаться его положений необходимо,</segment>
+		<segment id="156" parent="350" relname="cause">потому что это действительно влияет на глобальную международную стабильность. [...]</segment>
+		<segment id="157" parent="352" relname="joint">Таким образом можно избежать появления подобных ракет</segment>
+		<segment id="158" parent="352" relname="joint">или ограничить их появление в других регионах - на Ближнем Востоке и в Юго-Восточной Азии",</segment>
+		<segment id="159" parent="354" relname="attribution">- отметил Саид Аминов.</segment>
+		<segment id="160" parent="363" relname="attribution">##### Схожее мнение высказала депутат Национального совета Австрии, пресс-секретарь по вопросам внешней политики партии "Команда Стронаха" Йесси Линтл (Jessi Lintl).</segment>
+		<segment id="161" parent="357" relname="joint">##### "Принципиально необходимо соблюдать</segment>
+		<segment id="162" parent="357" relname="joint">и по возможности расширять уже подписанные договоры по разоружению и сокращению арсеналов.</segment>
+		<segment id="163" parent="359" relname="span">Поэтому определенно можно сказать,</segment>
+		<segment id="164" parent="358" relname="joint">что решение какой-либо стороны выйти из договора будет неразумным шагом</segment>
+		<segment id="165" parent="358" relname="joint">и грозит привести к новой гонке ядерных вооружений.</segment>
+		<segment id="166" parent="361" relname="evaluation">Этого необходимо избежать всеми силами",</segment>
+		<segment id="167" parent="362" relname="attribution">- пояснила политик.</segment>
+		<segment id="168" parent="169" relname="attribution">##### Она выразила уверенность в том,</segment>
+		<segment id="169" parent="364" relname="span">что текущая обстановка на международном уровне требует скорейших действий, направленных на восстановление конструктивного диалога с Россией - причем не только со стороны Вашингтона, но и со стороны Евросоюза.</segment>
+		<segment id="170" parent="171" relname="purpose">##### "По моему мнению, чтобы улучшить атмосферу переговоров между Европой и РФ,</segment>
+		<segment id="171" parent="436" relname="span">необходимо устранить европейские экономические санкции в отношении России и одновременно российские контрсанкции в отношении Евросоюза.</segment>
+		<segment id="172" parent="365" relname="span">Австрии как нейтральному государству необходимо прилагать все возможные усилия на уровне ЕС</segment>
+		<segment id="173" parent="172" relname="purpose">для отмены санкций, памятуя о ранее существовавших хороших отношениях с Россией",</segment>
+		<segment id="174" parent="367" relname="attribution">- добавила депутат нижней палаты австрийского парламента.</segment>
+		<segment id="175" parent="176" relname="attribution">##### Говоря о нынешнем состоянии переговорного процесса между Россией и США, Йесси Линтл отметила,</segment>
+		<segment id="176" parent="370" relname="span">что существующая атмосфера секретности не позволяет сделать никакого конкретного вывода о том, кто же именно нарушает договор о РСМД.</segment>
+		<segment id="177" parent="371" relname="span">##### "В диалоге сторон установилась практически патовая ситуация.</segment>
+		<segment id="178" parent="177" relname="evaluation">Учитывая это, я бы дала утвердительный ответ на вопрос о том, являются ли опасения обеих стран обоснованными",</segment>
+		<segment id="179" parent="371" relname="attribution">- сказала представитель партии "Команды Стронаха".</segment>
+		<segment id="180" parent="373" relname="attribution">##### В свою очередь бывший депутат Европарламента, вице-президент Левой партии Германии Тобиас Пфлюгер (Tobias Pflueger) заявил,</segment>
+		<segment id="181" parent="373" relname="span">что отказ любой из сторон от ДРСМД недопустим,</segment>
+		<segment id="182" parent="181" relname="cause">поскольку это будет де-факто означать объявление новой холодной войны.</segment>
+		<segment id="183" parent="375" relname="attribution">##### "Я надеюсь,</segment>
+		<segment id="184" parent="375" relname="span">что в конечном итоге никто не выйдет из договора,</segment>
+		<segment id="185" parent="184" relname="concession">поскольку это исторически важное соглашение, которое остановило ужасную многолетнюю гонку вооружений невиданных до той поры масштабов",</segment>
+		<segment id="186" parent="376" relname="attribution">- напомнил политик.</segment>
+		<segment id="187" parent="380" relname="purpose">##### С его точки зрения, для деэскалации ситуации Москве и Вашингтону</segment>
+		<segment id="188" parent="379" relname="joint">необходимо сделать акцент на дипломатии с возможным участием крупного посредника, например, Китая,</segment>
+		<segment id="189" parent="379" relname="joint">и приостановить программы, которые могут вызвать негативную реакцию по другую сторону земного шара.</segment>
+		<segment id="190" parent="383" relname="same-unit">##### "Сейчас,</segment>
+		<segment id="191" parent="192" relname="attribution">как я считаю,</segment>
+		<segment id="192" parent="382" relname="span">обеим странам необходимо воздержаться от обновления своего ядерного арсенала.</segment>
+		<segment id="193" parent="194" relname="attribution">Я знаю,</segment>
+		<segment id="194" parent="384" relname="span">например, что над этим работают в США. [...]</segment>
+		<segment id="195" parent="384" relname="elaboration">В первую очередь я бы призвал Соединенные Штаты остановить модернизацию своего ядерного оружия",</segment>
+		<segment id="196" parent="387" relname="attribution">- добавил вице-президент Левой партии Германии.</segment>
+		<segment id="197" parent="395" relname="joint">##### Кроме того, он обратил внимание и на существующую проблему с использованием ударных беспилотных летательных аппаратов.</segment>
+		<segment id="198" parent="391" relname="span">##### "Сегодня они полностью изменили ситуацию на поле боя.</segment>
+		<segment id="199" parent="390" relname="span">Возьмем Пакистан:</segment>
+		<segment id="200" parent="199" relname="elaboration">там ни дня не проходит без атак американских БПЛА против населения с огромным "сопутствующим ущербом" и многочисленными "жертвами среди своих".</segment>
+		<segment id="201" parent="392" relname="joint">По моему мнению, боевые дроны должны быть запрещены международным договором",</segment>
+		<segment id="202" parent="393" relname="attribution">- подчеркнул Тобиас Пфлюгер.</segment>
+		<segment id="203" parent="204" relname="attribution">##### В то же время эксперт центра Карнеги в Бейруте по вопросам политики Ближнего Востока Марио Абу Зеид (Mario Abou Zeid) отметил,</segment>
+		<segment id="204" parent="396" relname="span">что современный технологический прогресс требует скорейшей модернизации договора о ликвидации ракет средней и меньшей дальности, активной разработкой которых сейчас занимаются многие мировые державы, в том числе Китай.</segment>
+		<segment id="205" parent="206" relname="attribution">##### "Согласно позиции администрации [президента США] Барака Обамы (Barack Obama),</segment>
+		<segment id="206" parent="439" relname="span">наибольшая угроза исходит из тихоокеанского региона, где индустрия ракетных технологий КНР переживает бум.</segment>
+		<segment id="207" parent="439" relname="background">В Пекине сейчас воплощают в жизнь весьма амбициозный и огромный по масштабам проект по принятию на вооружение серии баллистических и крылатых ракет наземного базирования",</segment>
+		<segment id="208" parent="440" relname="attribution">- напомнил аналитик.</segment>
+		<segment id="209" parent="400" relname="attribution">##### Он не исключил,</segment>
+		<segment id="210" parent="398" relname="span">что призывы отдельных политиков в Соединенных Штатах к выходу из ДРСМД вызваны желанием освободиться от ограничений,</segment>
+		<segment id="211" parent="210" relname="purpose">чтобы положить конец растущей угрозе со стороны Пекина,</segment>
+		<segment id="212" parent="399" relname="joint">а ситуация на Украине и вхождение Крыма в состав России могут быть использованы американской стороной как предлог.</segment>
+		<segment id="213" parent="214" relname="attribution">##### При этом Марио Абу Зеид высказал предположение о том,</segment>
+		<segment id="214" parent="402" relname="span">что отказ от соглашения спровоцирует второй Карибский кризис, но на этот раз уже глобального масштаба.</segment>
+		<segment id="215" parent="405" relname="span">##### "Вспомним, что договор о РСМД помог покончить с холодной войной, которая фактически являлась полномасштабной гонкой вооружений между США и СССР.</segment>
+		<segment id="216" parent="217" relname="condition">Если страны выйдут из договора, который положил начало международной кампании по ядерному разоружению,</segment>
+		<segment id="217" parent="403" relname="span">они своими же руками развяжут [новую] гонку,</segment>
+		<segment id="218" parent="404" relname="span">и в дальнейшем все может пойти по сценарию событий на Кубе [в октябре 1962 года]",</segment>
+		<segment id="219" parent="405" relname="attribution">- сказал эксперт.</segment>
+		<segment id="220" parent="437" relname="attribution">##### По его мнению,</segment>
+		<segment id="221" parent="407" relname="joint">Москве и Вашингтону необходимо извлечь урок из этой истории</segment>
+		<segment id="222" parent="408" relname="span">и уже начать делать шаги навстречу друг другу</segment>
+		<segment id="223" parent="222" relname="purpose">ради сохранения мира во всем мире.</segment>
+		<segment id="224" parent="409" relname="span">##### "Единственно возможным выходом является прямой диалог между администрацией Барака Обамы и российскими властями,</segment>
+		<segment id="225" parent="224" relname="purpose">чтобы актуализировать соглашение</segment>
+		<segment id="226" parent="410" relname="joint">и договориться о посещении тех объектов, по поводу которых у сторон существуют опасения",</segment>
+		<segment id="227" parent="411" relname="attribution">- подытожил Марио Абу Зеид.</segment>
+		<group id="228" type="span" parent="229" relname="same-unit"/>
+		<group id="229" type="multinuc" parent="238" relname="preparation"/>
+		<group id="230" type="span" parent="238" relname="joint"/>
+		<group id="231" type="multinuc" parent="8" relname="elaboration"/>
+		<group id="232" type="span" parent="234" relname="span"/>
+		<group id="233" type="span" parent="234" relname="attribution"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" parent="238" relname="joint"/>
+		<group id="238" type="multinuc" parent="442" relname="span"/>
+		<group id="239" type="span" parent="242" relname="joint"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="242" relname="joint"/>
+		<group id="242" type="multinuc" parent="238" relname="joint"/>
+		<group id="243" type="multinuc" parent="415" relname="span"/>
+		<group id="244" type="span" parent="25" relname="elaboration"/>
+		<group id="245" type="multinuc" parent="26" relname="purpose"/>
+		<group id="246" type="multinuc" />
+		<group id="247" type="span" parent="30" relname="elaboration"/>
+		<group id="248" type="multinuc" parent="250" relname="span"/>
+		<group id="249" type="span" parent="248" relname="joint"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="246" relname="joint"/>
+		<group id="252" type="span" parent="37" relname="cause"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="246" relname="joint"/>
+		<group id="255" type="multinuc" parent="38" relname="cause"/>
+		<group id="256" type="span" parent="255" relname="joint"/>
+		<group id="257" type="span" parent="261" relname="joint"/>
+		<group id="258" type="span" parent="260" relname="comparison"/>
+		<group id="259" type="span" parent="260" relname="comparison"/>
+		<group id="260" type="multinuc" parent="261" relname="joint"/>
+		<group id="261" type="multinuc" />
+		<group id="262" type="multinuc" parent="46" relname="purpose"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="268" relname="joint"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="joint"/>
+		<group id="268" type="multinuc" />
+		<group id="269" type="span" parent="270" relname="joint"/>
+		<group id="270" type="multinuc" parent="268" relname="joint"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="268" relname="joint"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="284" relname="joint"/>
+		<group id="276" type="span" parent="66" relname="cause"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="284" relname="joint"/>
+		<group id="279" type="span" parent="284" relname="joint"/>
+		<group id="280" type="span" parent="281" relname="contrast"/>
+		<group id="281" type="multinuc" parent="282" relname="span"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="284" relname="joint"/>
+		<group id="284" type="multinuc" />
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" parent="295" relname="joint"/>
+		<group id="287" type="span" parent="80" relname="elaboration"/>
+		<group id="288" type="multinuc" parent="85" relname="evidence"/>
+		<group id="289" type="span" parent="290" relname="joint"/>
+		<group id="290" type="multinuc" parent="291" relname="span"/>
+		<group id="291" type="span" parent="292" relname="span"/>
+		<group id="292" type="span" parent="296" relname="span"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="292" relname="cause"/>
+		<group id="295" type="multinuc" />
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="295" relname="joint"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="304" relname="joint"/>
+		<group id="300" type="span" parent="304" relname="joint"/>
+		<group id="301" type="span" parent="303" relname="joint"/>
+		<group id="302" type="span" parent="303" relname="joint"/>
+		<group id="303" type="multinuc" parent="305" relname="evaluation"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="308" relname="joint"/>
+		<group id="308" type="multinuc" />
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="317" relname="joint"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="314" relname="joint"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="joint"/>
+		<group id="317" type="multinuc" />
+		<group id="318" type="multinuc" parent="330" relname="joint"/>
+		<group id="319" type="multinuc" parent="417" relname="span"/>
+		<group id="320" type="span" parent="319" relname="joint"/>
+		<group id="321" type="multinuc" parent="322" relname="contrast"/>
+		<group id="322" type="multinuc" parent="418" relname="elaboration"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="325" relname="joint"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="327" relname="joint"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="328" type="span" parent="329" relname="span"/>
+		<group id="329" type="span" parent="330" relname="joint"/>
+		<group id="330" type="multinuc" />
+		<group id="331" type="span" parent="428" relname="joint"/>
+		<group id="332" type="span" parent="131" relname="cause"/>
+		<group id="333" type="multinuc" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="427" relname="contrast"/>
+		<group id="337" type="span" parent="346" relname="joint"/>
+		<group id="338" type="span" parent="339" relname="same-unit"/>
+		<group id="339" type="multinuc" parent="340" relname="span"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="342" relname="same-unit"/>
+		<group id="342" type="multinuc" parent="344" relname="contrast"/>
+		<group id="343" type="span" parent="344" relname="contrast"/>
+		<group id="344" type="multinuc" parent="345" relname="span"/>
+		<group id="345" type="span" parent="347" relname="span"/>
+		<group id="346" type="multinuc" />
+		<group id="347" type="span" parent="346" relname="joint"/>
+		<group id="348" type="span" parent="356" relname="joint"/>
+		<group id="349" type="multinuc" parent="350" relname="span"/>
+		<group id="350" type="span" parent="351" relname="span"/>
+		<group id="351" type="span" parent="353" relname="cause"/>
+		<group id="352" type="multinuc" parent="353" relname="span"/>
+		<group id="353" type="span" parent="354" relname="span"/>
+		<group id="354" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" parent="356" relname="joint"/>
+		<group id="356" type="multinuc" />
+		<group id="357" type="multinuc" parent="360" relname="span"/>
+		<group id="358" type="multinuc" parent="163" relname="elaboration"/>
+		<group id="359" type="span" parent="360" relname="evidence"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="362" relname="span"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="433" relname="span"/>
+		<group id="364" type="span" parent="369" relname="joint"/>
+		<group id="365" type="span" parent="366" relname="joint"/>
+		<group id="366" type="multinuc" parent="367" relname="span"/>
+		<group id="367" type="span" parent="368" relname="span"/>
+		<group id="368" type="span" parent="369" relname="joint"/>
+		<group id="369" type="multinuc" />
+		<group id="370" type="span" parent="369" relname="joint"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="369" relname="joint"/>
+		<group id="373" type="span" parent="374" relname="span"/>
+		<group id="374" type="span" parent="378" relname="joint"/>
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" parent="377" relname="span"/>
+		<group id="377" type="span" parent="378" relname="joint"/>
+		<group id="378" type="multinuc" />
+		<group id="379" type="multinuc" parent="380" relname="span"/>
+		<group id="380" type="span" parent="381" relname="span"/>
+		<group id="381" type="span" parent="389" relname="joint"/>
+		<group id="382" type="span" parent="383" relname="same-unit"/>
+		<group id="383" type="multinuc" parent="386" relname="joint"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" parent="386" relname="joint"/>
+		<group id="386" type="multinuc" parent="387" relname="span"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="389" relname="joint"/>
+		<group id="389" type="multinuc" />
+		<group id="390" type="span" parent="198" relname="evidence"/>
+		<group id="391" type="span" parent="392" relname="joint"/>
+		<group id="392" type="multinuc" parent="393" relname="span"/>
+		<group id="393" type="span" parent="394" relname="span"/>
+		<group id="394" type="span" parent="395" relname="joint"/>
+		<group id="395" type="multinuc" />
+		<group id="396" type="span" parent="397" relname="joint"/>
+		<group id="397" type="multinuc" />
+		<group id="398" type="span" parent="399" relname="joint"/>
+		<group id="399" type="multinuc" parent="400" relname="span"/>
+		<group id="400" type="span" parent="401" relname="span"/>
+		<group id="401" type="span" parent="397" relname="joint"/>
+		<group id="402" type="span" parent="413" relname="joint"/>
+		<group id="403" type="span" parent="218" relname="cause"/>
+		<group id="404" type="span" parent="215" relname="elaboration"/>
+		<group id="405" type="span" parent="406" relname="span"/>
+		<group id="406" type="span" parent="413" relname="joint"/>
+		<group id="407" type="multinuc" parent="437" relname="span"/>
+		<group id="408" type="span" parent="407" relname="joint"/>
+		<group id="409" type="span" parent="410" relname="joint"/>
+		<group id="410" type="multinuc" parent="411" relname="span"/>
+		<group id="411" type="span" parent="412" relname="span"/>
+		<group id="412" type="span" parent="413" relname="joint"/>
+		<group id="413" type="multinuc" />
+		<group id="414" type="span" parent="127" relname="attribution"/>
+		<group id="415" type="span" parent="416" relname="span"/>
+		<group id="416" type="span" parent="246" relname="joint"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" parent="419" relname="span"/>
+		<group id="419" type="span" parent="327" relname="joint"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" parent="246" relname="joint"/>
+		<group id="422" type="span" parent="269" relname="span"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="424" type="span" parent="296" relname="preparation"/>
+		<group id="425" type="span" parent="426" relname="span"/>
+		<group id="426" type="span" parent="427" relname="contrast"/>
+		<group id="427" type="multinuc" parent="428" relname="joint"/>
+		<group id="428" type="multinuc" parent="429" relname="span"/>
+		<group id="429" type="span" parent="430" relname="span"/>
+		<group id="430" type="span" />
+		<group id="431" type="span" parent="432" relname="span"/>
+		<group id="432" type="span" parent="356" relname="joint"/>
+		<group id="433" type="span" />
+		<group id="434" type="span" parent="268" relname="joint"/>
+		<group id="435" type="span" parent="308" relname="joint"/>
+		<group id="436" type="span" parent="366" relname="joint"/>
+		<group id="437" type="span" parent="438" relname="span"/>
+		<group id="438" type="span" parent="413" relname="joint"/>
+		<group id="439" type="span" parent="440" relname="span"/>
+		<group id="440" type="span" parent="441" relname="span"/>
+		<group id="441" type="span" parent="397" relname="joint"/>
+		<group id="442" type="span" />
+	</body>
+</rst>

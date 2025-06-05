@@ -1,0 +1,346 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="163" relname="span">﻿ ВЫЧИСЛИТЕЛЬНЫЕ АСПЕКТЫ ИМИТАЦИОННОГО МОДЕЛИРОВАНИЯ РАСПРОСТРАНЕНИЯ ТУБЕРКУЛЕЗА</segment>
+		<segment id="2" parent="162" relname="joint">В.Н. Леоненко,</segment>
+		<segment id="3" parent="162" relname="joint">К.К. Логинов</segment>
+		<segment id="4" relname="antithesis">В работе рассматриваются подходы, позволяющие повысить быстродействие моделирующей программы для индивидуум-ориентированной модели распространения туберкулеза. Описывается процесс оптимизации вычислительных алгоритмов, а также использование распределенных вычислений на основе системы MONC и параллельных вычислений с применением технологии ОрепМР. Приведены результаты вычислительных экспериментов. Ключевые слова: имитационное моделирование, эпидемиология, распределенные вычисления, параллельное программирование.</segment>
+		<segment id="5" parent="306" relname="preparation">Введение</segment>
+		<segment id="6" parent="346" relname="span">Одним из инструментов исследований закономерностей распространения туберкулеза является метод математического моделирования.</segment>
+		<segment id="7" parent="165" relname="contrast">В настоящее время разработан широкий класс детерминированных моделей, описывающих распространение туберкулеза и контроль за этим заболеванием [1, 2].</segment>
+		<segment id="8" parent="165" relname="contrast">Вместе с тем, практически отсутствуют модели, опирающиеся на стохастический подход и индивидуально- ориентированное описание неинфицированных, инфицированных и больных индивидуумов.</segment>
+		<segment id="9" parent="308" relname="span">Индивидуум-ориентированные модели</segment>
+		<segment id="10" parent="307" relname="joint">позволяют детально провести формализацию принципов передачи и развития туберкулеза</segment>
+		<segment id="11" parent="307" relname="joint">и исследовать динамику заболеваемости туберкулезом от различных факторов.</segment>
+		<segment id="12" parent="309" relname="preparation">Одними из первых в этом направлении являются модели, представленные в работах [3, 4].</segment>
+		<segment id="13" parent="168" relname="joint">В работе [3] предложена стохастическая модель в форме высокоразмерной системы рекуррентных уравнений с дискретным временем, учитывающая зависимость развития заболевания от возраста индивидуумов.</segment>
+		<segment id="14" parent="311" relname="span">Модель, построенная в работе [4], имеет следующие отличительные свойства:</segment>
+		<segment id="15" parent="310" relname="joint">используется непрерывное время, продолжительность пребывания индивидуумов в различных стадиях болезни задается с помощью случайных величин с произвольными законами распределения,</segment>
+		<segment id="16" parent="310" relname="joint">вероятность контактов индивидуумов считается пропорциональной произведению численностей когорт.</segment>
+		<segment id="17" parent="171" relname="span">В данной работе рассматривается стохастическая модель [5],</segment>
+		<segment id="18" parent="17" relname="elaboration">созданная на основе дифференциальной модели динамики туберкулеза [2].</segment>
+		<segment id="19" parent="316" relname="span">В индивидуум-ориентированной модификации модели, в отличие от предшествующих работ [3, 4], учитывается влияние продолжительности болезни на вероятность гибели индивидуумов.</segment>
+		<segment id="20" parent="313" relname="cause">Введение индивидуальных параметров привело к тому,</segment>
+		<segment id="21" parent="312" relname="joint">что объем обрабатываемых данных повысился</segment>
+		<segment id="22" parent="312" relname="joint">и время, затрачиваемое на моделирование динамики популяции, существенно возросло.</segment>
+		<segment id="23" parent="315" relname="span">Основной целью данной работы</segment>
+		<segment id="24" parent="23" relname="purpose">является рассмотрение подходов, позволяющих повысить быстродействие моделирующих программ путем оптимизации исходного алгоритма и более эффективного применения имеющихся компьютерных мощностей и вычислительных технологий.</segment>
+		<segment id="25" parent="178" relname="preparation">Описание модели</segment>
+		<segment id="26" parent="178" relname="span">Кратко опишем особенности модификаций модели, рассматриваемых в данной работе</segment>
+		<segment id="27" parent="26" relname="elaboration">(полное формальное описание приведено в [5]).</segment>
+		<segment id="28" parent="318" relname="span">Базовая модель.</segment>
+		<segment id="29" parent="195" relname="background">В популяции выделяется шесть когорт населения: восприимчивые индивиды (5), инфицированные индивидуумы (Ь), невыявленные больные индивидуумы без бактериовыделения (В), невыявленные больные индивидуумы с бактериовыделением (В), выявленные больные индивидуумы без бактериовыделения (В0) и выявленные больные индивидуумы с бактериовыделением (В0).</segment>
+		<segment id="30" parent="179" relname="span">Система уравнений модели имеет следующий вид:</segment>
+		<segment id="31" parent="348" relname="span">[формула], [формула], [формула], [формула], [формула], [формула] (1).</segment>
+		<segment id="32" parent="348" relname="condition">Система (1) дополняется начальными данными при t = 0.</segment>
+		<segment id="33" parent="180" relname="joint">Здесь х/t (t) - численность индивидуумов когорты У в момент времени t,</segment>
+		<segment id="34" parent="180" relname="joint">Xy(t) - численность индивидуумов когорты У, доживших от момента времени t-1 до момента времени t,</segment>
+		<segment id="35" parent="180" relname="joint">случайные величины вида Uyz(t) описывают переход из когорты У в когорту Z в течение промежутка времени [формула].</segment>
+		<segment id="36" parent="180" relname="joint">Слагаемые [формула] задают приток населения в соответствующие когорты за промежуток времени (t-1,t].</segment>
+		<segment id="37" parent="38" relname="preparation">Для описания процессов инфицирования индивидуумов и спонтанной активации болезни</segment>
+		<segment id="38" parent="340" relname="span">используется схема, предложенная в работе [3].</segment>
+		<segment id="39" parent="364" relname="span">Инфицирование происходит</segment>
+		<segment id="40" parent="39" relname="condition">при одновременном посещении больными и здоровыми индивидуумами мест возможного контакта.</segment>
+		<segment id="41" parent="185" relname="span">Считается, что за единицу времени индивидуумы из когорт B , Bo посещают в совокупности [формула], и [формула], мест соответственно,</segment>
+		<segment id="42" parent="184" relname="span">где [формула], [формула], [формула], - взаимно независимые, одинаково распределенные случайные величины,</segment>
+		<segment id="43" parent="320" relname="span">не зависящие [формула], [формула],</segment>
+		<segment id="44" parent="43" relname="condition">причем [формула], [формула], [формула].</segment>
+		<segment id="45" parent="321" relname="joint">Вероятности того, что индивидуумы из когорт S, L посетят одно из этих мест, обозначим через [формула] и [формула] соответственно.</segment>
+		<segment id="46" parent="321" relname="joint">Вероятности заражения индивидуумов после контакта с больным индивидуумом обозначим через [формула] и [формула] соответственно.</segment>
+		<segment id="47" parent="191" relname="span">Тогда вероятности того, что индивидуум из конкретной когорты S, L будет инфицирован в течение суток, при фиксированном значении [формула] задаются следующими формулами:</segment>
+		<segment id="48" parent="187" relname="joint">[формула],</segment>
+		<segment id="49" parent="187" relname="joint">[формула],</segment>
+		<segment id="50" parent="323" relname="span">где 0z - вероятность спонтанной активации болезни для индивидуумов когорты L.</segment>
+		<segment id="51" parent="50" relname="elaboration">Данные величины определяют количество инфицированных на интервале (t-1,t].</segment>
+		<segment id="52" parent="350" relname="preparation">Индивидуум-ориентированная модель.</segment>
+		<segment id="53" parent="334" relname="span">В популяцию вводятся когорты R и Ro,</segment>
+		<segment id="54" parent="53" relname="purpose">которые используются для описания индивидуумов, находящихся в состоянии ремиссии.</segment>
+		<segment id="55" parent="199" relname="joint">Считается, что в когорту R поступают самоизлечившиеся индивидуумы из когорты D,</segment>
+		<segment id="56" parent="199" relname="joint">а в когорту Ro - вылеченные индивидуумы из когорты Do.</segment>
+		<segment id="57" parent="200" relname="joint">Переходы индивидуумов из D и Do в L заменяются на переходы из D в R и из Do в Ro.</segment>
+		<segment id="58" parent="59" relname="cause">Предполагается, что больные индивидуумы после перехода в состояние ремиссии остаются инфицированными</segment>
+		<segment id="59" parent="201" relname="span">и существует риск повторного развития заболевания.</segment>
+		<segment id="60" parent="300" relname="restatement">Это означает, что возможны переходы индивидуумов из R в D и из Ro в Do.</segment>
+		<segment id="61" parent="203" relname="span">Для индивидуумов когорт D, B, Do, Bo, R и Ro вводится параметр</segment>
+		<segment id="62" parent="204" relname="span">[формула],</segment>
+		<segment id="63" parent="62" relname="condition">t = 0,1,2,...,</segment>
+		<segment id="64" parent="203" relname="purpose">отражающий влияние продолжительности болезни индивидуума на вероятность его дожития от момента времени t-1 до t.</segment>
+		<segment id="65" parent="206" relname="joint">Здесь [формула] - величина, отражающая негативное влияние заболевания на продолжительность жизни индивидуума x,</segment>
+		<segment id="66" parent="341" relname="span">[формула] - величина, отражающая снижение эффекта воздействия заболевания на продолжительность жизни индивидуума x</segment>
+		<segment id="67" parent="66" relname="cause">за счет его пребывания в состоянии ремиссии,</segment>
+		<segment id="68" parent="206" relname="joint">Уd, Ув, Уdo , YBo, Sr, Sro - положительные константы,</segment>
+		<segment id="69" parent="206" relname="joint">[формула], [формула], [формула], [формула], [формула], [формула] - продолжительности пребывания индивидуума x в соответствующих когортах до момента времени t включительно.</segment>
+		<segment id="70" parent="209" relname="comparison">Вероятность дожития от момента времени t-1 до t для индивидуума x из когорты H при заданной [формула] равна [формула]</segment>
+		<segment id="71" parent="209" relname="comparison">(в отличие от базовой модели, где Рн,x (t) = Рн = const).</segment>
+		<segment id="72" parent="262" relname="preparation">Повышение быстродействия работы моделирующих программ</segment>
+		<segment id="73" parent="261" relname="preparation">Рассмотрим далее способы ускорения работы моделирующих программ, позволяющих исследовать динамику численностей когорт в зависимости от параметров модели.</segment>
+		<segment id="74" parent="357" relname="preparation">Оптимизация вычислительных алгоритмов.</segment>
+		<segment id="75" parent="354" relname="preparation">Рассмотрим индивидуум-ориентированную модификацию модели.</segment>
+		<segment id="76" parent="218" relname="span">Для всех вычислительных алгоритмов, использованных в моделирующей программе, справедливо следующее.</segment>
+		<segment id="77" parent="217" relname="joint">1\. Когорты S и L полностью характеризуются своими численностями.</segment>
+		<segment id="78" parent="217" relname="joint">2\. Динамика когорт S и L моделируется розыгрышем общей численности этих когорт на каждом шаге с помощью заданных вероятностей дожития индивидуумов.</segment>
+		<segment id="79" parent="352" relname="span">Основные сложности возникают при моделировании динамики когорт, члены которых обладают индивидуальными параметрами.</segment>
+		<segment id="80" parent="81" relname="condition">Пусть T = {D, B, Do, Bo, R, Ro}.</segment>
+		<segment id="81" parent="351" relname="span">Наиболее простым является итеративный вариант моделирования всех взаимодействий, выглядящий следующим образом.</segment>
+		<segment id="82" parent="223" relname="preparation">Алгоритм № 1.</segment>
+		<segment id="83" parent="220" relname="sequence">1\. Для каждой когорты множества T создается список, содержащий индивидуальные параметры членов когорты.</segment>
+		<segment id="84" parent="221" relname="restatement">2\. Дожитие и переходы индивидуумов когорт множества T в течение суток</segment>
+		<segment id="85" parent="221" relname="restatement">(т.е. в течение одной итерации цикла)</segment>
+		<segment id="86" parent="222" relname="same-unit">разыгрываются для каждого из этих индивидуумов последовательно в процессе прохода по спискам параметров.</segment>
+		<segment id="87" parent="88" relname="cause">Заметим, что вследствие линейности процессов дожития и переходов между когортами для индивидуумов когорт D, B, Do, Bo</segment>
+		<segment id="88" parent="343" relname="span">судьбу каждого такого индивидуума можно разыгрывать независимо.</segment>
+		<segment id="89" parent="226" relname="span">Тогда алгоритм моделирования принимает следующий вид.</segment>
+		<segment id="90" parent="230" relname="preparation">Алгоритм № 2.</segment>
+		<segment id="91" parent="227" relname="sequence">1\. Для когорт R и R создаются списки, содержащие индивидуальные параметры членов когорт.</segment>
+		<segment id="92" parent="227" relname="sequence">2\. Процессы дожития и переходов индивидуумов когорт R и R0 в течение суток разыгрываются для каждого из этих индивидуумов последовательно путем прохода по спискам параметров.</segment>
+		<segment id="93" parent="228" relname="joint">3\. Процессы дожития и переходов индивидуумов когорт D, B, Do, Bo вплоть до их гибели или выздоровления разыгрываются для каждого индивидуума с помощью функции розыгрыша судьбы отдельно взятого индивидуума.</segment>
+		<segment id="94" parent="228" relname="joint">В процессе розыгрыша принадлежность индивидуума к заданной когорте в заданный момент времени регистрируется в массиве численностей индивидуумов множества T.</segment>
+		<segment id="95" parent="96" relname="condition">В случае перехода рассматриваемого индивидуума в состояние ремиссии</segment>
+		<segment id="96" parent="229" relname="span">значение его параметра передается в качестве выходного параметра функции и помещается в массив параметров индивидуумов когорт R и Ro.</segment>
+		<segment id="97" parent="345" relname="elaboration">Формальное описание алгоритмов №№ 1, 2 для базовой модели и алгоритма № 1 для индивидуум-ориентированной модели приведено в работе [5].</segment>
+		<segment id="98" parent="243" relname="preparation">Функция розыгрыша судьбы отдельно взятого индивидуума реализована в двух вариантах.</segment>
+		<segment id="99" parent="237" relname="preparation">(а) Итеративный вариант.</segment>
+		<segment id="100" parent="237" relname="span">Судьба индивидуума разыгрывается итеративно, с шагом в одни сутки</segment>
+		<segment id="101" parent="236" relname="joint">(на каждом шаге с помощью метода Монте-Карло моделируется, погибнет ли индивидуум на данном шаге,</segment>
+		<segment id="102" parent="103" relname="condition">и если нет,</segment>
+		<segment id="103" parent="235" relname="span">то перейдет ли он в другую когорту).</segment>
+		<segment id="104" parent="240" relname="preparation">(б) Вариант со скачками.</segment>
+		<segment id="105" parent="239" relname="sequence">На основании значений вероятностей гибели индивидуума и перехода его в другую когорту разыгрывается момент ближайшей смены статуса рассматриваемого индивидуума,</segment>
+		<segment id="106" parent="239" relname="sequence">после чего внутри функции происходит «скачок» во времени до этого момента с одновременным пересчетом значения индивидуального параметра.</segment>
+		<segment id="107" parent="366" relname="purpose">Для сравнения быстродействия работы моделирующих программ</segment>
+		<segment id="108" parent="366" relname="span">проводился вычислительный эксперимент (табл. 1).</segment>
+		<segment id="109" parent="249" relname="joint">Расчеты производились для двух наборов параметров на персональном компьютере Intel Core2 Quad 2,66 ГГц,</segment>
+		<segment id="110" parent="249" relname="joint">объем оперативной памяти - 3 Гб.</segment>
+		<segment id="111" parent="249" relname="joint">Отрезок моделирования - 5500 суток.</segment>
+		<segment id="112" parent="250" relname="span">Получаем, что моделирующая программа,</segment>
+		<segment id="113" parent="112" relname="elaboration">выполненная на основе алгоритма №2 и функцией розыгрыша судьбы в варианте (б),</segment>
+		<segment id="114" parent="251" relname="same-unit">производит расчеты с первым набором параметров примерно на 70% быстрее,</segment>
+		<segment id="115" parent="252" relname="comparison">а со вторым набором - на 55% быстрее по сравнению с исходным вариантом алгоритма.</segment>
+		<segment id="116" parent="369" relname="span">Заметим, что реализация розыгрыша судьбы индивидуума в виде отдельной функции также облегчает модификацию программного кода</segment>
+		<segment id="117" parent="116" relname="condition">при необходимости изменения законов протекания инфекции</segment>
+		<segment id="118" parent="369" relname="elaboration">(в перспективе возможна реализация выбора из нескольких модулей протекания инфекции и схем заражения для разных типов заболеваний).</segment>
+		<segment id="119" parent="108" relname="elaboration">[ Таблица 1. Быстродействие моделирующей программы с разными алгоритмами]</segment>
+		<segment id="120" parent="277" relname="preparation">Распределенные вычисления с использованием системы MONC</segment>
+		<segment id="121" parent="264" relname="span">Система MONC [6] (сокращение от Monte Carlo),</segment>
+		<segment id="122" parent="121" relname="attribution">разработанная М.А. Марченко (Институт вычислительной математики и математической геофизики СО РАН, г. Новосибирск),</segment>
+		<segment id="123" parent="259" relname="same-unit">является универсальной высокопроизводительной системой параллельных вычислений для методов Монте-Карло на базе сети персональных компьютеров.</segment>
+		<segment id="124" parent="265" relname="sequence">Она распределяет независимые копии задания по персональным компьютерам в сети,</segment>
+		<segment id="125" parent="265" relname="sequence">отдает команды на их исполнение,</segment>
+		<segment id="126" parent="265" relname="sequence">следит за ходом выполнения заданий</segment>
+		<segment id="127" parent="265" relname="sequence">и по завершению выполнения заданий выполняет копирование и осреднение файлов с результатами расчетов.</segment>
+		<segment id="128" parent="274" relname="preparation">Был проведен вычислительный эксперимент с использованием системы MONC на комплексе из четырех компьютеров с ОС Windows XP.</segment>
+		<segment id="129" parent="266" relname="span">Исполняемым приложением была модификация моделирующей программы для индивидуум-ориентированной модели,</segment>
+		<segment id="130" parent="129" relname="elaboration">доработанная с учетом требований, предъявляемых системой (см. [6]).</segment>
+		<segment id="131" parent="267" relname="span">Производилось нахождение оценок математических ожиданий численностей когорт по ста реализациям для двух различных наборов параметров</segment>
+		<segment id="132" parent="131" relname="elaboration">(отрезок моделирования - 5500 суток).</segment>
+		<segment id="133" parent="269" relname="sequence">Сначала измерялось время выполнения расчетов на каждом из компьютеров по отдельности,</segment>
+		<segment id="134" parent="269" relname="sequence">затем общее количество моделируемых реализаций разделялось по компьютерам пропорционально их быстродействию.</segment>
+		<segment id="135" parent="269" relname="sequence">После окончания расчетов на всех машинах система MONC усредняла полученные данные</segment>
+		<segment id="136" parent="269" relname="sequence">и сохраняла результат.</segment>
+		<segment id="137" parent="342" relname="span">Таким образом, в данном случае запуск модели с помощью системы MONC на комплексе из четырех компьютеров</segment>
+		<segment id="138" parent="137" relname="purpose">позволяет сократить время выполнения задания примерно на 66% для обоих наборов параметров по сравнению с запуском на самом быстром из имеющихся компьютеров (O94-11).</segment>
+		<segment id="139" parent="273" relname="joint">[ Таблица 2. Характеристики компьютеров, задействованных для расчетов с использованием системы МОNC]</segment>
+		<segment id="140" parent="273" relname="joint">[Таблица 3. Результаты вычислительного эксперимента по применению системы MONC]</segment>
+		<segment id="141" parent="290" relname="preparation">Параллельные вычисления с использованием технологии OpenMP</segment>
+		<segment id="142" parent="302" relname="span">Технология OpenMP (Open Multi-Processing) представляет собой набор директив компилятора, функций и переменных окружения,</segment>
+		<segment id="143" parent="142" relname="purpose">позволяющих создавать на базе последовательных программ многопоточные приложения,</segment>
+		<segment id="144" parent="302" relname="purpose">предназначенные для выполнения на многопроцессорных системах с единой па мятью.</segment>
+		<segment id="145" parent="301" relname="contrast">Важным достоинством OpenMP является то, что исходная программа не переписывается заново,</segment>
+		<segment id="146" parent="301" relname="contrast">а модифицируется добавлением в текст соответствующих директив [5].</segment>
+		<segment id="147" parent="283" relname="joint">К моменту написания статьи реализована поддержка технологии OpenMP в моделирующей программе для базовой модели с алгоритмом №1.</segment>
+		<segment id="148" parent="282" relname="span">Проводился вычислительный эксперимент с двумя наборами параметров, расчеты выполнялись на компьютере Intel Core 2 Duo E7400 2.8ГГц с объемом оперативной памяти 2 Гб.</segment>
+		<segment id="149" parent="148" relname="elaboration">Отрезок моделирования - 5500 суток.</segment>
+		<segment id="150" parent="282" relname="elaboration">[Таблица 4. Результаты испытаний программы с поддержкой технологии OpenMP]</segment>
+		<segment id="151" parent="283" relname="joint">Проведение вычислений в одном потоке соответствует выполнению последовательной версии моделирующей программы.</segment>
+		<segment id="152" parent="287" relname="comparison">Таким образом, применение технологии OpenMP при выполнении программы на двухъядерном процессоре дает экономию времени в 45% для первого набора параметров</segment>
+		<segment id="153" parent="287" relname="comparison">и 48% для второго набора параметров по сравнению с последовательным вычислением.</segment>
+		<segment id="154" parent="297" relname="preparation">Заключение</segment>
+		<segment id="155" parent="293" relname="span">В работе были описаны подходы, которые позволили существенно увеличить скорость работы моделирующей программы.</segment>
+		<segment id="156" parent="155" relname="evaluation">Это особенно актуально в связи с прогнозируемым усложнением модели (введением возрастной структуры в популяции и реализацией более детального механизма заражения).</segment>
+		<segment id="157" parent="158" relname="cause">Также важной задачей является освоение моделирования на высокопроизводительных ЭВМ с распределенной памятью,</segment>
+		<segment id="158" parent="292" relname="span">в связи с чем планируется адаптировать программу под распределенные вычисления на основе технологии MPI.</segment>
+		<segment id="159" parent="295" relname="evaluation">Авторы благодарят своего научного руководителя профессора Н. В. Перцева (ОФ ИМ им. С. Л. Соболева СО РАН) за постановку задачи и обсуждение результатов работы.</segment>
+		<segment id="160" parent="161" relname="preparation">Литература</segment>
+		<segment id="161" relname="antithesis">1\. Авилов К. К., Романюха А. А. Математические модели распространения и контроля туберкулеза (обзор) // Математическая биология и биоинформатика. - 2007. - Т. 2. - № 2. - С. 188-318. 2\. Perelman M.I., Marchuk G.I., Borisov S.E., et. al. Tuberculosis epidemiology in Russia: the mathematical model and data analysis // Russ. J. Numer. Anal. Math. Modelling. - 2004. - V. 19. - № 4. - Р. 305-314. 3\. Перцев Н.В., Романюха А.А., Касаткина В.С. Нелинейная стохастическая модель распространения туберкулеза // Системы управления и информационные технологии. - 2008. - № 1.2 (31). - С. 246250. 4\. Перцев Н.В., Пичугин Б.Ю. Индивидуум-ориентированная стохастическая модель распространения туберкулеза // Сибирский журнал индустриальной математики. - 2009. - Т. 12. - № 2(38). - С. 97110. 5\. Pertsev N.V., Leonenko V.N. Stochastic individual-based model of spread of tuberculosis // Russ. J. Numer. Anal. Math. Modelling. - 2009. - V. 24. - № 4. - Р. 341-360. 6\. Марченко М.А. Комплекс программ MONC для распределенных вычислений методом Монте-Карло. [Электронный ресурс]. - Режим доступа: http://osmf.sscc.ru/~mam/monc_rus.htm, своб. 7\. Антонов А.С. Параллельное программирование с использованием технологии OpenMP. - М.: Изд-во МГУ, 2009. Леоненко Василий Николаевич - Омский филиал Института математики им. С. Л. Соболева СО РАН, аспирант, VNLeonenko@yandex.ru Логинов Константин Константи- - Омский филиал Института математики им. С. Л. Соболева СО РАН, нович аспирант, kloginov85@mail.ru </segment>
+		<group id="162" type="multinuc" parent="1" relname="attribution"/>
+		<group id="163" type="span" parent="347" relname="preparation"/>
+		<group id="165" type="multinuc" parent="166" relname="joint"/>
+		<group id="166" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="168" type="multinuc" parent="309" relname="span"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="306" relname="span"/>
+		<group id="171" type="span" parent="173" relname="comparison"/>
+		<group id="173" type="multinuc" parent="315" relname="cause"/>
+		<group id="178" type="span" parent="319" relname="span"/>
+		<group id="179" type="span" parent="194" relname="joint"/>
+		<group id="180" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="184" type="span" parent="41" relname="elaboration"/>
+		<group id="185" type="span" parent="322" relname="span"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="188" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="47" relname="elaboration"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="325" relname="span"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" relname="antithesis"/>
+		<group id="198" type="span" parent="350" relname="span"/>
+		<group id="199" type="multinuc" parent="200" relname="joint"/>
+		<group id="200" type="multinuc" parent="334" relname="elaboration"/>
+		<group id="201" type="span" parent="300" relname="restatement"/>
+		<group id="203" type="span" parent="331" relname="span"/>
+		<group id="204" type="span" parent="207" relname="span"/>
+		<group id="206" type="multinuc" parent="331" relname="elaboration"/>
+		<group id="207" type="span" parent="61" relname="elaboration"/>
+		<group id="209" type="multinuc" parent="338" relname="span"/>
+		<group id="217" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="218" type="span" parent="245" relname="joint"/>
+		<group id="220" type="multinuc" parent="223" relname="span"/>
+		<group id="221" type="multinuc" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="220" relname="sequence"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="353" relname="span"/>
+		<group id="226" type="span" parent="224" relname="elaboration"/>
+		<group id="227" type="multinuc" parent="230" relname="span"/>
+		<group id="228" type="multinuc" parent="227" relname="sequence"/>
+		<group id="229" type="span" parent="228" relname="joint"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="joint"/>
+		<group id="232" type="multinuc" parent="345" relname="span"/>
+		<group id="235" type="span" parent="236" relname="joint"/>
+		<group id="236" type="multinuc" parent="100" relname="elaboration"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" parent="242" relname="joint"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="242" relname="joint"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="260" relname="joint"/>
+		<group id="245" type="multinuc" parent="354" relname="span"/>
+		<group id="249" type="multinuc" parent="367" relname="elaboration"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="252" relname="comparison"/>
+		<group id="252" type="multinuc" parent="253" relname="joint"/>
+		<group id="253" type="multinuc" parent="255" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="260" relname="joint"/>
+		<group id="259" type="multinuc" parent="360" relname="span"/>
+		<group id="260" type="multinuc" parent="357" relname="span"/>
+		<group id="261" type="span" parent="356" relname="span"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" relname="antithesis"/>
+		<group id="264" type="span" parent="259" relname="same-unit"/>
+		<group id="265" type="multinuc" parent="360" relname="elaboration"/>
+		<group id="266" type="span" parent="270" relname="joint"/>
+		<group id="267" type="span" parent="270" relname="joint"/>
+		<group id="269" type="multinuc" parent="270" relname="joint"/>
+		<group id="270" type="multinuc" parent="342" relname="evidence"/>
+		<group id="271" type="span" parent="274" relname="span"/>
+		<group id="273" type="multinuc" parent="271" relname="elaboration"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="276" relname="joint"/>
+		<group id="276" type="multinuc" parent="277" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" relname="antithesis"/>
+		<group id="282" type="span" parent="285" relname="span"/>
+		<group id="283" type="multinuc" parent="286" relname="evidence"/>
+		<group id="285" type="span" parent="283" relname="joint"/>
+		<group id="286" type="span" parent="288" relname="span"/>
+		<group id="287" type="multinuc" parent="363" relname="span"/>
+		<group id="288" type="span" parent="289" relname="joint"/>
+		<group id="289" type="multinuc" parent="290" relname="span"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" relname="antithesis"/>
+		<group id="292" type="span" parent="294" relname="joint"/>
+		<group id="293" type="span" parent="294" relname="joint"/>
+		<group id="294" type="multinuc" parent="295" relname="span"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" relname="antithesis"/>
+		<group id="300" type="multinuc" parent="198" relname="elaboration"/>
+		<group id="301" type="multinuc" parent="303" relname="elaboration"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="362" relname="span"/>
+		<group id="306" type="span" parent="347" relname="span"/>
+		<group id="307" type="multinuc" parent="9" relname="purpose"/>
+		<group id="308" type="span" parent="169" relname="preparation"/>
+		<group id="309" type="span" parent="169" relname="span"/>
+		<group id="310" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="311" type="span" parent="168" relname="joint"/>
+		<group id="312" type="multinuc" parent="313" relname="span"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="19" relname="elaboration"/>
+		<group id="315" type="span" parent="317" relname="span"/>
+		<group id="316" type="span" parent="173" relname="comparison"/>
+		<group id="317" type="span" relname="antithesis"/>
+		<group id="318" type="span" parent="196" relname="preparation"/>
+		<group id="319" type="span" parent="28" relname="preparation"/>
+		<group id="320" type="span" parent="42" relname="condition"/>
+		<group id="321" type="multinuc" parent="185" relname="condition"/>
+		<group id="322" type="span" parent="191" relname="condition"/>
+		<group id="323" type="span" parent="188" relname="elaboration"/>
+		<group id="325" type="span" parent="194" relname="joint"/>
+		<group id="331" type="span" parent="337" relname="span"/>
+		<group id="334" type="span" parent="198" relname="span"/>
+		<group id="335" type="span" relname="antithesis"/>
+		<group id="337" type="span" parent="338" relname="evidence"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" relname="antithesis"/>
+		<group id="340" type="span" parent="364" relname="preparation"/>
+		<group id="341" type="span" parent="206" relname="joint"/>
+		<group id="342" type="span" parent="271" relname="span"/>
+		<group id="343" type="span" parent="89" relname="evidence"/>
+		<group id="344" type="span" parent="81" relname="elaboration"/>
+		<group id="345" type="span" parent="344" relname="span"/>
+		<group id="346" type="span" parent="170" relname="background"/>
+		<group id="347" type="span" relname="antithesis"/>
+		<group id="348" type="span" parent="349" relname="span"/>
+		<group id="349" type="span" parent="30" relname="elaboration"/>
+		<group id="350" type="span" parent="335" relname="span"/>
+		<group id="351" type="span" parent="79" relname="elaboration"/>
+		<group id="352" type="span" parent="245" relname="joint"/>
+		<group id="353" type="span" parent="232" relname="joint"/>
+		<group id="354" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" parent="260" relname="joint"/>
+		<group id="356" type="span" parent="262" relname="span"/>
+		<group id="357" type="span" parent="261" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="276" relname="joint"/>
+		<group id="362" type="span" parent="289" relname="joint"/>
+		<group id="363" type="span" parent="286" relname="span"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="192" relname="background"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="368" relname="span"/>
+		<group id="368" type="span" parent="253" relname="joint"/>
+		<group id="369" type="span" parent="370" relname="span"/>
+		<group id="370" type="span" parent="253" relname="joint"/>
+  </body>
+</rst>

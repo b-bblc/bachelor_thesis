@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Новость: Три поколения — три жизни</segment>
+		<segment id="2" parent="30" relname="preparation">##### 29 сентября 2011 г. в центре семейного чтения им. М. Сеспеля состоялась встреча читателей по теме: «Три поколения – три жизни (Виçĕ ăру — виçĕ пурнăç).</segment>
+		<segment id="3" parent="30" relname="span">##### Связь поколений была представлена следующей цепочкой: прозаик Валентина Андреевна Эльби (1913 г.р.), писательница Лидия Михайловна Сарине (Иванова) (1950 г.р.), писательница-журналистка Лидия Ивановна Филиппова (1967 г.р.).</segment>
+		<segment id="4" parent="54" relname="span">##### Становление каждой творческой личности происходило по-разному,</segment>
+		<segment id="5" parent="4" relname="background">они известны как мастера художественного слова.</segment>
+		<segment id="6" parent="55" relname="joint">На сегодняшний день все трое участников встречи — члены Союза писателей, с многолетней творческой деятельностью, с множеством великолепных стихов, рассказов, повестей, романов, очерков, интервью, юморесок.</segment>
+		<segment id="7" parent="33" relname="span">##### Литературная деятельность одной из читаемых чувашских писательниц В. Эльби началась в 1946 году.</segment>
+		<segment id="8" parent="57" relname="joint">В начале творчества приходилось больше заниматься созданием произведений для детей младшего возраста.</segment>
+		<segment id="9" parent="56" relname="span">Издала более двадцати книг романов, повестей и рассказов.</segment>
+		<segment id="10" parent="9" relname="elaboration">Основные произведения: «Малтанхи савни» (Первая любовь), «Юратнă мăшăрсăр» (Без любимого), «Çĕршывăн пулас хуралçисем» (Будущие пограничники), «Йăл кулсан» (Улыбка), «Тинĕс чечекĕ» (Морской цветок), «Кашниех килте кĕтеççĕ» (Каждого ждут дома), «Пулас кинсем» (Невесты), «Эпĕ халь телейлĕ» (Теперь я счастлива), «Качча кайсан» (После замужества), «Качча кайиччен» (До замужества).</segment>
+		<segment id="11" parent="59" relname="span">##### 1984 год — начало творческой деятельности детской писательницы Лидии Сарине,</segment>
+		<segment id="12" parent="11" relname="elaboration">работающей в разных жанрах: проза, поэзия, юмор, очерк.</segment>
+		<segment id="13" parent="58" relname="joint">Ее короткие стихи, смешные рассказы навеяны добротой, искренностью детского смеха,</segment>
+		<segment id="14" parent="37" relname="joint">сюжет интересен</segment>
+		<segment id="15" parent="37" relname="joint">и увлекателен.</segment>
+		<segment id="16" parent="58" relname="evaluation">Дети с удовольствием перечитывают ее произведения.</segment>
+		<segment id="17" parent="60" relname="joint">##### Героини произведений Лидии Филипповой в поиске мужчины, который станет счастьем и смыслом существования.</segment>
+		<segment id="18" parent="60" relname="joint">Произведения состоят из диалогов с самим собой, фантазий, слез, радости переживаний и эмоций.</segment>
+		<segment id="19" parent="42" relname="joint">##### Сюжеты произведений В. Эльби, Л. Сарине, Л. Филипповой взяты из жизни,</segment>
+		<segment id="20" parent="43" relname="span">написаны сердцем,</segment>
+		<segment id="21" parent="44" relname="joint">чтобы при чтении просыпались полузабытые чувства,</segment>
+		<segment id="22" parent="44" relname="joint">появлялась вера в себя.</segment>
+		<segment id="23" parent="45" relname="span">Иногда просто хотят большего,</segment>
+		<segment id="24" parent="23" relname="condition">чем могла предложить им жизнь</segment>
+		<segment id="25" parent="46" relname="span">и отчаянно ищут дверь, которая ведет к счастью.</segment>
+		<segment id="26" parent="61" relname="span">##### О жизненном и творческом пути в течение вечера в разной форме рассказали кандидаты филологии Виталий Петрович Никитин (Станъял), Елена Петровна Чекушкина (Нарпи), секретарь регионального (чувашского) отделения научного и культурно-просветительского общества «Энциклопедия российских деревень» (ЭРД, г. Москва) Алина Аркадьевна Сосаева, фольклорный ансамбль «Нарспи».</segment>
+		<segment id="27" parent="26" relname="elaboration">Ученики СОШ № 33 под руководством учительницы Ирины Дияровой порадовали озвучивая отрывки из произведений Эльби, Сарине и Филипповой.</segment>
+		<segment id="28" parent="50" relname="joint">##### Сотрудниками библиотеки подготовлена книжная выставка «Ăруран ăрăва — пултарулăх тĕшши» (От поколения в поколение — жемчужины творчества).</segment>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="31" type="span" />
+		<group id="33" type="span" parent="49" relname="joint"/>
+		<group id="36" type="span" parent="49" relname="joint"/>
+		<group id="37" type="multinuc" parent="58" relname="joint"/>
+		<group id="38" type="span" parent="59" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="47" relname="span"/>
+		<group id="43" type="span" parent="42" relname="joint"/>
+		<group id="44" type="multinuc" parent="20" relname="purpose"/>
+		<group id="45" type="span" parent="25" relname="cause"/>
+		<group id="46" type="span" parent="42" relname="evaluation"/>
+		<group id="47" type="span" parent="49" relname="evaluation"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="50" type="multinuc" />
+		<group id="51" type="span" />
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="55" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="57" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="38" relname="span"/>
+		<group id="59" type="span" parent="36" relname="span"/>
+		<group id="60" type="multinuc" parent="49" relname="joint"/>
+		<group id="61" type="span" parent="50" relname="joint"/>
+	</body>
+</rst>

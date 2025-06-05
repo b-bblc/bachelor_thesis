@@ -1,0 +1,189 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://modernafrodite.kosmetista.ru/blog/93853.html</segment>
+		<segment id="2" >##### И снова о голландской косметике. Увлажнение лица с Bee Honest ##### IMG</segment>
+		<segment id="3" >##### Привет всем!</segment>
+		<segment id="4" parent="91" relname="joint">##### Продолжаю знакомиться</segment>
+		<segment id="5" parent="91" relname="joint">и знакомить вас с голландской косметикой.</segment>
+		<segment id="6" parent="94" relname="span">Сегодня в обзоре троица de Traay с маслом дикой розы</segment>
+		<segment id="7" parent="92" relname="span">##### Я уже писала о муссе</segment>
+		<segment id="8" parent="7" relname="purpose">для умывания</segment>
+		<segment id="9" parent="93" relname="same-unit">и молочке,</segment>
+		<segment id="10" parent="152" relname="sequence">теперь настал черёд скраба и кремов.</segment>
+		<segment id="11" parent="96" relname="span">##### Упаковка у всех трёх стредств идентичная: пластиковые тюбики с откидывающейся крышкой.</segment>
+		<segment id="12" parent="13" relname="cause">Пласик мягкий,</segment>
+		<segment id="13" parent="97" relname="span">выдавливать средства очень легко.</segment>
+		<segment id="14" parent="15" relname="cause">##### Моя кожа нормальная, беспроблемная,</segment>
+		<segment id="15" parent="98" relname="span">поэтому от этих уходовых средств ждала обещаного производителем увлажнения.</segment>
+		<segment id="16" parent="100" relname="joint">##### Дневной крем для лица Bee Honest de Traay Dag Creme Rozen voor een droge huid/Crème de Jour Rose pour une peau sèche призван увлажнить</segment>
+		<segment id="17" parent="153" relname="span">и защитить сухую кожу</segment>
+		<segment id="18" parent="17" relname="cause">благодаря входящим в состав пчелиному воску, маслу ши, маслу сладкого миндаля, ослинника и дикой розы.</segment>
+		<segment id="19" parent="100" relname="elaboration">##### IMG</segment>
+		<segment id="20" parent="21" relname="cause">##### Сам крем очень плотный по текстуре,</segment>
+		<segment id="21" parent="103" relname="span">поэтому так просто размазать его по лицу не получится.</segment>
+		<segment id="22" parent="104" relname="sequence">Поэтому я выдавливаю нужное количество крема,</segment>
+		<segment id="23" parent="104" relname="sequence">наношу точечно на разные участки лица,</segment>
+		<segment id="24" parent="104" relname="sequence">а потом вбиваю щёточкой Collistar массажной насадкой.</segment>
+		<segment id="25" parent="105" relname="joint">Таким образом крем впитывается гораздо лучше,</segment>
+		<segment id="26" parent="105" relname="joint">плюс происходит лёгкий массаж лица)</segment>
+		<segment id="27" parent="108" relname="joint">##### Моя кожа получает от крема необходимое увлажнение,</segment>
+		<segment id="28" parent="108" relname="joint">становится гладкой на ощупь.</segment>
+		<segment id="29" parent="109" relname="span">Впитывается крем,</segment>
+		<segment id="30" parent="29" relname="concession">несмотря на свою текстуру,</segment>
+		<segment id="31" parent="110" relname="same-unit">довольно быстро:</segment>
+		<segment id="32" parent="110" relname="elaboration">после двух минут массажа я уже могу наносить макияж.</segment>
+		<segment id="33" parent="34" relname="cause">##### Тональный, пудра, тени, румяна ложаться на него отлично,</segment>
+		<segment id="34" parent="157" relname="span">так что конфликта с декоративной косметикой нет.</segment>
+		<segment id="35" parent="157" relname="elaboration">##### IMG</segment>
+		<segment id="36" parent="114" relname="elaboration">##### Состав: aqua, prunus amygdalus dulcis oil, centaurea cyanus flower water*, alcohol*, glycerin, polyglyceryl-3 polyricinoleate, oenothera biennis oil*, rosa canina fruit oil*, cera alba, hydrogenated vegetable oil, butyrospermum parkii butter*, magnesium sulfate, tocopheryl acetate, polyglyceryl-3 ricinoleate, dehydroacetic acid, helianthus annuus seed oil, glycine soja oil, calendula officinalis flower extract*, rosmarinus officinalis leaf extract*, parfum**, citric acid, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate, citral</segment>
+		<segment id="37" parent="116" relname="span">##### Ночной крем для лица Bee Honest de Traay Nacht Creme Rozen voor een droge huid /Crème de Noit Rose pour une peau sèche</segment>
+		<segment id="38" parent="37" relname="elaboration">##### IMG</segment>
+		<segment id="39" parent="117" relname="span">##### Ночной крем, как и дневной, обязан делать то же самое с моей кожей, но только ночью.</segment>
+		<segment id="40" parent="122" relname="span">По характеристикам он точно такой же, как и дневной.</segment>
+		<segment id="41" parent="118" relname="joint">Такой же плотный,</segment>
+		<segment id="42" parent="118" relname="joint">точно так же я его наношу</segment>
+		<segment id="43" parent="118" relname="joint">и эффект от него аналогичный.</segment>
+		<segment id="44" parent="119" relname="joint">Хорошо увлажняет</segment>
+		<segment id="45" parent="119" relname="joint">и разглаживает кожу,</segment>
+		<segment id="46" parent="119" relname="joint">питает немного.</segment>
+		<segment id="47" parent="48" relname="cause">Честно говоря, я не увидела никакой разницы между дневным и ночным,</segment>
+		<segment id="48" parent="155" relname="span">поэтому иногда меняю их местами.</segment>
+		<segment id="49" parent="158" relname="span">##### На ночной крем макияж ложится так же хорошо.</segment>
+		<segment id="50" parent="49" relname="elaboration">##### IMG</segment>
+		<segment id="51" parent="123" relname="elaboration">##### Состав: aqua, centaurea cyanus flower water*, prunus amygdalus dulcis oil, butyrospermum parkii butter*, alcohol*, glycerin, polyglyceryl-3 polyricinoleate, ceraalba, oenothera biennis oil*, rosa canina fruit oil, magnesium sulfate, tocopheryl acetate, calendula officinalis flower extract*, polyglyceryl-3 ricinoleate, dehydroacetic acid, helianthus annuus seed oil*, glycine soja oil, rosmarinus officinalis leaf extract*, citric aic, parfum**, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate, citral, limonene.</segment>
+		<segment id="52" parent="161" relname="span">##### Оба крема я использую и для кожи век.</segment>
+		<segment id="53" parent="126" relname="span">Наношу как на верхние, так и на нижние.</segment>
+		<segment id="54" parent="125" relname="contrast">В этой зоне уже массажером не пользуюсь,</segment>
+		<segment id="55" parent="125" relname="contrast">а вбиваю легонько подушечками пальцев.</segment>
+		<segment id="56" parent="57" relname="cause">##### Отёков и аллергических реакций крем не вызвал,</segment>
+		<segment id="57" parent="159" relname="span">поэтому я продолжаю смело наносить кремы под глаза.</segment>
+		<segment id="58" parent="159" relname="evaluation">Они отлично увлажняют кожу и в области вокруг глаз.</segment>
+		<segment id="59" parent="130" relname="span">##### Скраб для лица Bee Honest de Traay Gezichts scrub Rozen voor alle huidtypes/Exfoliant visage Rose pour tous types de peau</segment>
+		<segment id="60" parent="59" relname="elaboration">##### IMG</segment>
+		<segment id="61" parent="131" relname="span">##### Механическими скрабами я редко пользуюсь:</segment>
+		<segment id="62" parent="61" relname="elaboration">предпочитаю всё же энзимные пилинги.</segment>
+		<segment id="63" parent="133" relname="contrast">Но этот взяла «за компанию», просто попробовать.</segment>
+		<segment id="64" parent="65" relname="cause">Моя кожа не чувствительная</segment>
+		<segment id="65" parent="134" relname="span">и даже знаменитую Чистую Линию с абрикосовыми косточками переносит легко.</segment>
+		<segment id="66" parent="136" relname="contrast">##### В состав этого скраба входят также входят молотые абрикосовые косточки,</segment>
+		<segment id="67" parent="68" relname="cause">но они очень мелкие,</segment>
+		<segment id="68" parent="135" relname="span">поэтому кожу не травмируют.</segment>
+		<segment id="69" parent="138" relname="joint">##### Скраб хорошо полирует кожу,</segment>
+		<segment id="70" parent="138" relname="joint">выравнивает поверхность.</segment>
+		<segment id="71" parent="139" relname="sequence">После того, как я его смываю,</segment>
+		<segment id="72" parent="139" relname="sequence">кожа остаётся напитанной маслами</segment>
+		<segment id="73" parent="140" relname="span">— никакой сухости или стянутости после использования нет.</segment>
+		<segment id="74" parent="160" relname="span">##### Использую скраб по настроению 1-2 раза в неделю.</segment>
+		<segment id="75" parent="74" relname="elaboration">##### IMG</segment>
+		<segment id="76" parent="141" relname="elaboration">##### Состав: aqua, centaurea cyanus flower water*, prunus amygdalus dulcis oil, prunus armeniaca seed powder*, glycerin, oenothera biennis oil*, rosa canina fruit oil, cera alba, cetearyl alcohol, cetearyl glucoside, glycerylstearate, palmitic acid, stearic acid, xanthan gum, dehydroacetic acid, helianthus annuus seed oil*, rosmarinus officinalis leaf extract*, parfum**, benzyl alcohol, citronellol, geraniol, linalool, benzyl salicylate. *органического происхождения **натурального происхождения</segment>
+		<segment id="77" parent="145" relname="preparation">##### Общие впечатления:</segment>
+		<segment id="78" parent="143" relname="joint">эти продукты не сделают чудес с вашей кожей,</segment>
+		<segment id="79" parent="143" relname="joint">не омолодят на 10 лет,</segment>
+		<segment id="80" parent="144" relname="contrast">но обеспечат хороший недорогой, но эффективный базовый уход.</segment>
+		<segment id="81" parent="149" relname="joint">Мне нравится их упаковка, текстура, эффект.</segment>
+		<segment id="82" parent="148" relname="span">Ещё один большой плюс — органические составы,</segment>
+		<segment id="83" parent="147" relname="joint">нет синтетических отдушек и красителей,</segment>
+		<segment id="84" parent="147" relname="joint">косметика не тестируется на животных</segment>
+		<segment id="85" parent="147" relname="joint">и имеет сертификат BDIH.</segment>
+		<segment id="86" parent="149" relname="joint">Ну и цена, конечно.</segment>
+		<segment id="87" parent="151" relname="joint">##### Объём: 50 мл</segment>
+		<segment id="88" parent="151" relname="joint">##### Цена: 8 евpо</segment>
+		<segment id="89" parent="151" relname="joint">##### Срок тестирования: 3 месяца</segment>
+		<segment id="90" parent="151" relname="joint">##### Оценка: 5</segment>
+		<group id="91" type="multinuc" parent="94" relname="preparation"/>
+		<group id="92" type="span" parent="93" relname="same-unit"/>
+		<group id="93" type="multinuc" parent="152" relname="sequence"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="99" relname="span"/>
+		<group id="96" type="span" parent="95" relname="elaboration"/>
+		<group id="97" type="span" parent="11" relname="elaboration"/>
+		<group id="98" type="span" parent="101" relname="preparation"/>
+		<group id="99" type="span" />
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="102" type="span" />
+		<group id="103" type="span" parent="106" relname="cause"/>
+		<group id="104" type="multinuc" parent="105" relname="cause"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" />
+		<group id="108" type="multinuc" parent="114" relname="joint"/>
+		<group id="109" type="span" parent="110" relname="same-unit"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="114" relname="joint"/>
+		<group id="113" type="span" parent="111" relname="elaboration"/>
+		<group id="114" type="multinuc" parent="115" relname="span"/>
+		<group id="115" type="span" />
+		<group id="116" type="span" parent="39" relname="preparation"/>
+		<group id="117" type="span" parent="121" relname="joint"/>
+		<group id="118" type="multinuc" parent="120" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="120" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="121" type="multinuc" parent="123" relname="span"/>
+		<group id="122" type="span" parent="121" relname="joint"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" />
+		<group id="125" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="126" type="span" parent="52" relname="elaboration"/>
+		<group id="128" type="span" parent="161" relname="elaboration"/>
+		<group id="130" type="span" parent="131" relname="preparation"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="133" relname="contrast"/>
+		<group id="133" type="multinuc" parent="137" relname="span"/>
+		<group id="134" type="span" parent="154" relname="joint"/>
+		<group id="135" type="span" parent="136" relname="contrast"/>
+		<group id="136" type="multinuc" parent="154" relname="joint"/>
+		<group id="137" type="span" />
+		<group id="138" type="multinuc" parent="141" relname="joint"/>
+		<group id="139" type="multinuc" parent="73" relname="cause"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="141" type="multinuc" parent="142" relname="span"/>
+		<group id="142" type="span" />
+		<group id="143" type="multinuc" parent="144" relname="contrast"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" parent="150" relname="span"/>
+		<group id="147" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="148" type="span" parent="149" relname="joint"/>
+		<group id="149" type="multinuc" parent="146" relname="evaluation"/>
+		<group id="150" type="span" />
+		<group id="151" type="multinuc" />
+		<group id="152" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="153" type="span" parent="100" relname="joint"/>
+		<group id="154" type="multinuc" parent="133" relname="elaboration"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="156" type="span" parent="121" relname="evaluation"/>
+		<group id="157" type="span" parent="113" relname="span"/>
+		<group id="158" type="span" parent="155" relname="elaboration"/>
+		<group id="159" type="span" parent="128" relname="span"/>
+		<group id="160" type="span" parent="141" relname="joint"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" />
+	</body>
+</rst>

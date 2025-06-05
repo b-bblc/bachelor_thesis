@@ -1,0 +1,453 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://tonsky.livejournal.com/322258.html</segment>
+		<segment id="2" >##### ICFPC 2019</segment>
+		<segment id="3" parent="214" relname="span">##### В этот понедельник закончился трехдневный марафон под названием ICFPC.</segment>
+		<segment id="4" parent="3" relname="elaboration">Это такое соревнование, где команды программистов со всего мира пытаются на время как можно лучше решить некую задачу.</segment>
+		<segment id="5" parent="215" relname="span">В этот раз – обход лабиринтов с разным доп. инвентарем.</segment>
+		<segment id="6" parent="217" relname="span">Условия можно прочитать здесь.</segment>
+		<segment id="7" parent="216" relname="span">Это как бы отчет, но на самом деле памятка самому себе на случай,</segment>
+		<segment id="8" parent="7" relname="condition">если буду играть еще через год.</segment>
+		<segment id="9" parent="227" relname="evaluation">##### Мне очень понравилось.</segment>
+		<segment id="10" parent="219" relname="contrast">То есть я конечно устал как собака,</segment>
+		<segment id="11" parent="220" relname="contrast">но есть что-то приятное в том что этот опыт а) имеет конечную продолжительность,</segment>
+		<segment id="12" parent="220" relname="contrast">а не тянется годами, как основная работа.</segment>
+		<segment id="13" parent="222" relname="span">И б) можно полностью отдаться задаче,</segment>
+		<segment id="14" parent="221" relname="joint">не думая о том зачем это все</segment>
+		<segment id="15" parent="221" relname="joint">и что ты делаешь со своей жизнью.</segment>
+		<segment id="16" parent="224" relname="span">Такой вот повод упоенно фигачить на полной скорости какое-то время,</segment>
+		<segment id="17" parent="16" relname="purpose">чтобы ветер свистел в ушах.</segment>
+		<segment id="18" parent="225" relname="joint">Ну и просто весело.</segment>
+		<segment id="19" parent="236" relname="preparation">##### Очень любопытно посмотреть, чего ты стоишь.</segment>
+		<segment id="20" parent="229" relname="contrast">В голове-то ты мог много себе про себя нафантазировать,</segment>
+		<segment id="21" parent="419" relname="condition">а тут вот объективная реальность, ладдер,</segment>
+		<segment id="22" parent="230" relname="joint">и ты либо можешь компьютер заставить делать что ты хочешь,</segment>
+		<segment id="23" parent="230" relname="joint">либо не можешь.</segment>
+		<segment id="24" parent="232" relname="elaboration">Никаких «если бы», никаких «возможно, наверное, мне кажется».</segment>
+		<segment id="25" parent="233" relname="span">Мы довольно посредственно выступили</segment>
+		<segment id="26" parent="234" relname="span">(на момент закрытия 29 место из 142 участвовавших, в лучший свой момент были на пятом).</segment>
+		<segment id="27" parent="26" relname="elaboration">##### IMG Исторический скриншот. Дальше мы сильно сдали</segment>
+		<segment id="28" parent="422" relname="preparation">##### Участвовали втроем, я в первый раз.</segment>
+		<segment id="29" parent="238" relname="joint">Как я понял, средний размер команды ~5 человек,</segment>
+		<segment id="30" parent="238" relname="joint">не редкость и восемь встретить.</segment>
+		<segment id="31" parent="239" relname="joint">Втроем у нас довольно хорошо делились области ответственности,</segment>
+		<segment id="32" parent="33" relname="condition">было бы больше</segment>
+		<segment id="33" parent="420" relname="span">появился бы организационный оверхед (как мне кажется).</segment>
+		<segment id="34" parent="240" relname="joint">Восемь человек я бы вообще офигел менеджить</segment>
+		<segment id="35" parent="240" relname="joint">и вообще ничего бы не написал, наверное.</segment>
+		<segment id="36" parent="242" relname="joint">С другой стороны, больше рук – можно попробовать больше подходов.</segment>
+		<segment id="37" parent="242" relname="joint">Можно вложиться в инфрастуктуру. Наверное.</segment>
+		<segment id="38" parent="246" relname="span">##### Задача достаточно нетривиальная,</segment>
+		<segment id="39" parent="38" relname="purpose">чтобы решить ее до конца было в принципе невозможно.</segment>
+		<segment id="40" parent="247" relname="span">Но и не супер-сложная,</segment>
+		<segment id="41" parent="40" relname="purpose">чтобы как-то ее решить можно было бы даже иногда и руками (ну, самые простые примеры).</segment>
+		<segment id="42" parent="249" relname="span">Как правило это значит перебор вариантов в каком-то NP-полном поле, соревнование эвристик.</segment>
+		<segment id="43" parent="42" relname="elaboration">##### IMG Собери бонусы, закрась лабиринт</segment>
+		<segment id="44" parent="253" relname="same-unit">##### Clojure,</segment>
+		<segment id="45" parent="46" relname="concession">несмотря на все плюсы языка высокого уровня и быстрого iteration time,</segment>
+		<segment id="46" parent="252" relname="span">по ощущениям подошла довольно плохо.</segment>
+		<segment id="47" parent="254" relname="cause">Потому что все упирается в перформанс.</segment>
+		<segment id="48" parent="256" relname="joint">Можно сколько угодно рассуждать про «глобальные оптимизации против локальных»,</segment>
+		<segment id="49" parent="256" relname="joint">ненавидеть байтоебство,</segment>
+		<segment id="50" parent="256" relname="joint">мыслить как стратег с высоты птичьего полета</segment>
+		<segment id="51" parent="256" relname="joint">и гордиться тем, что не знаешь, как устроен компьютер,</segment>
+		<segment id="52" parent="259" relname="span">но это все и в императивных языках можно делать.</segment>
+		<segment id="53" parent="258" relname="joint">Они же не отнимают способности мыслить</segment>
+		<segment id="54" parent="258" relname="joint">и планировать.</segment>
+		<segment id="55" parent="56" relname="concession">Да, механика записи мысли чуть более многословна,</segment>
+		<segment id="56" parent="260" relname="span">ну зато оно того стоит.</segment>
+		<segment id="57" parent="270" relname="joint">Плюс за три дня вы разницы может и не заметите даже.</segment>
+		<segment id="58" parent="265" relname="span">А вот по перформансу заметите, еще как.</segment>
+		<segment id="59" parent="261" relname="span">Как ни крути, а команда, которая обсчитает за условное время X в два раза больше вариантов, чем ее конкурент, будет в топе выше. КАК НИ КРУТИ.</segment>
+		<segment id="60" parent="264" relname="span">Больше здесь строго лучше.</segment>
+		<segment id="61" parent="263" relname="joint">Либо больше итераций, больше вариантов попробовать,</segment>
+		<segment id="62" parent="63" relname="cause">либо решения будут более глубокими,</segment>
+		<segment id="63" parent="262" relname="span">а значит и очков принесут больше.</segment>
+		<segment id="64" parent="273" relname="condition">##### ICFPC это как раз такой случай,</segment>
+		<segment id="65" parent="271" relname="contrast">когда лучше чуть больше устать</segment>
+		<segment id="66" parent="272" relname="contrast">но получить программу которая будет нагружать процессор по делу,</segment>
+		<segment id="67" parent="272" relname="contrast">а не только мусор за юзером подбирать.</segment>
+		<segment id="68" parent="421" relname="span">К тому же, как ни странно, старые императивные языки может</segment>
+		<segment id="69" parent="68" relname="purpose">и не очень легко позволяют до энтерпрайзных масштабов раздувать программы,</segment>
+		<segment id="70" parent="276" relname="joint">но что-что а бегать по массивам</segment>
+		<segment id="71" parent="276" relname="joint">и мутировать структуры они похлеще функциональных могут.</segment>
+		<segment id="72" parent="278" relname="contrast">Ирония – соревнование приурочено к конференции по функциональному программированию,</segment>
+		<segment id="73" parent="278" relname="contrast">а побеждают в нем все стабильнее C++ и императивщина.</segment>
+		<segment id="74" parent="279" relname="elaboration">##### IMG Выглядит красиво, жаль вся эта мощь обслуживает всякое говно вроде lazy sequences, primitive boxing, high-order functions вместо того, чтобы решать задачу</segment>
+		<segment id="75" parent="284" relname="same-unit">##### Сейчас я думаю,</segment>
+		<segment id="76" parent="77" relname="condition">что даже если бы мы выбрали просто Java с unboxed примитивами и примитивными массивами,</segment>
+		<segment id="77" parent="283" relname="span">было бы качественно лучше.</segment>
+		<segment id="78" parent="285" relname="contrast">C++/OCaml/Rust может быть дали бы еще 1,5-2 раза прирост,</segment>
+		<segment id="79" parent="285" relname="contrast">но это уже не изменило бы ситуацию качественно.</segment>
+		<segment id="80" parent="286" relname="contrast">Но может и нет, цифры так, с потолка.</segment>
+		<segment id="81" parent="290" relname="span">##### Про типизацию – да, было определенное количество багов,</segment>
+		<segment id="82" parent="81" relname="cause">связанных с опечатками и лукапами не в тех структурах.</segment>
+		<segment id="83" parent="290" relname="elaboration">Конечно типы бы от этого спасли.</segment>
+		<segment id="84" parent="295" relname="evaluation">Но был и интересный момент,</segment>
+		<segment id="85" parent="295" relname="span">когда под конец соревнования понадобилось кардинально поменять интерфейс решателя задач,</segment>
+		<segment id="86" parent="293" relname="span">и вот тут отсутствие типов</segment>
+		<segment id="87" parent="86" relname="purpose">позволило мне зарефакторить решатель,</segment>
+		<segment id="88" parent="293" relname="condition">оставив генератор (вторую большую часть программы) на старых структурах.</segment>
+		<segment id="89" parent="90" relname="cause">В статически типизированном языке мне пришлось бы рефакторить всю программу целиком,</segment>
+		<segment id="90" parent="292" relname="span">что съело бы ценное время.</segment>
+		<segment id="91" parent="297" relname="evaluation">Конечно, это просто забавный аргумент, курьез,</segment>
+		<segment id="92" parent="297" relname="span">я его привожу тут</segment>
+		<segment id="93" parent="92" relname="cause">только потому, что все остальные традиционные скучные примеры традиционно указывают в обратную сторону.</segment>
+		<segment id="94" parent="303" relname="contrast">##### Да, я думаю именно в этой ситуации—сверхинтенсивной коллаборации над одним маленьким сверхчасто редактируемым куском кода—типы бы больше помогли,</segment>
+		<segment id="95" parent="303" relname="contrast">чем мешали —</segment>
+		<segment id="96" parent="304" relname="joint">их нужно немного,</segment>
+		<segment id="97" parent="304" relname="joint">по сути это структуры даже просто, которые спасли бы от глупых опечаток.</segment>
+		<segment id="98" parent="307" relname="span">В более спокойной обстановке, без цейтнота, оба примера, и опечатки, и рефакторинг, не имели бы такого веса,</segment>
+		<segment id="99" parent="98" relname="condition">когда есть и тесты, и время сделать все нормально.</segment>
+		<segment id="100" parent="309" relname="span">##### Кстати, многие ошибки, которые все-таки у нас были,</segment>
+		<segment id="101" parent="100" relname="cause">были связаны с подстановкой переменной того же типа, где никакая система типов бы никого не спасла.</segment>
+		<segment id="102" parent="310" relname="span">Ну оно и не удивительно,</segment>
+		<segment id="103" parent="311" relname="span">когда у тебя большая часть программы, процентов 90, гоняет инты направо и налево.</segment>
+		<segment id="104" parent="103" relname="cause">Это же алгоритмы.</segment>
+		<segment id="105" parent="312" relname="elaboration">##### IMG не с этого хакатона, но смысл такой же</segment>
+		<segment id="106" parent="324" relname="preparation">##### Очень важно оказалось докапываться до причин каждой странности.</segment>
+		<segment id="107" parent="316" relname="joint">Удивительно, на самом деле, насколько программа может как-то работать</segment>
+		<segment id="108" parent="316" relname="joint">и выдавать решения,</segment>
+		<segment id="109" parent="317" relname="condition">имея локальные проблемы и ошибки в каких-то местах.</segment>
+		<segment id="110" parent="319" relname="comparison">Почти как нечто живое, выживающее.</segment>
+		<segment id="111" parent="320" relname="span">Пару багов мы поймали просто глазами,</segment>
+		<segment id="112" parent="111" relname="condition">когда увидели, что бот иногда на пару ходов ведет себя странно,</segment>
+		<segment id="113" parent="320" relname="concession">хотя и решает в итоге все задачи.</segment>
+		<segment id="114" parent="321" relname="elaboration">##### IMG лабиринты, генерируемые нашим алгоритмом, имели хорошо узнаваемый вид</segment>
+		<segment id="115" parent="329" relname="span">##### Очень важна базовая гигиена.</segment>
+		<segment id="116" parent="326" relname="joint">Ну там код неиспользуемый удалять,</segment>
+		<segment id="117" parent="326" relname="joint">переменные нормально называть,</segment>
+		<segment id="118" parent="327" relname="span">на функции разбивать нормально</segment>
+		<segment id="119" parent="118" relname="condition">где нужно,</segment>
+		<segment id="120" parent="328" relname="span">не писать по два-три раза почти одно и то же,</segment>
+		<segment id="121" parent="120" relname="condition">если уже написано.</segment>
+		<segment id="122" parent="123" relname="cause">Казалось бы, тоже — хакатон, вы через три дня все это выкините,</segment>
+		<segment id="123" parent="330" relname="span">так ли это важно?</segment>
+		<segment id="124" parent="343" relname="span">Вот оказалось что да.</segment>
+		<segment id="125" parent="331" relname="contrast">Потому что там где в обычном проекте косяки может через полгода-год всплывут,</segment>
+		<segment id="126" parent="127" relname="condition">здесь если ты что-то поленился,</segment>
+		<segment id="127" parent="332" relname="span">коллега уже через полчаса об это споткнется.</segment>
+		<segment id="128" parent="334" relname="span">Причем споткнется обязательно,</segment>
+		<segment id="129" parent="333" relname="joint">потому что кода мало</segment>
+		<segment id="130" parent="333" relname="joint">и все используют всё постоянно.</segment>
+		<segment id="131" parent="336" relname="contrast">Так что лучше пять минут потерять,</segment>
+		<segment id="132" parent="337" relname="span">но поправить самому,</segment>
+		<segment id="133" parent="132" relname="condition">пока контекст у тебя в голове,</segment>
+		<segment id="134" parent="338" relname="joint">чем заставить коллег тебя материть</segment>
+		<segment id="135" parent="338" relname="joint">и тебя же дергать.</segment>
+		<segment id="136" parent="340" relname="evaluation">Чисто по времени выгоднее. Несмотря на.</segment>
+		<segment id="137" parent="353" relname="span">##### Пилу нужно точить.</segment>
+		<segment id="138" parent="346" relname="contrast">Как бы ни казалось, что три дня уж без удобств можно прожить,</segment>
+		<segment id="139" parent="346" relname="contrast">удобства все-таки решают.</segment>
+		<segment id="140" parent="352" relname="span">Мы очень страдали от отсутствия визуализатора.</segment>
+		<segment id="141" parent="349" relname="span">Организаторы предлагали готовый, но в браузере (на ScalaJS кстати),</segment>
+		<segment id="142" parent="348" relname="span">и это не оч удобно было</segment>
+		<segment id="143" parent="347" relname="joint">(для каждого запуска нужно было накликать мышкой</segment>
+		<segment id="144" parent="347" relname="joint">и выбрать два раза через диалог выбора файла два файла).</segment>
+		<segment id="145" parent="349" relname="elaboration">##### IMG Визуализатор организаторов</segment>
+		<segment id="146" parent="350" relname="elaboration">##### IMG ух как же меня бесило выбирать эти файлы каждый раз!</segment>
+		<segment id="147" parent="355" relname="joint">##### Самое большое, чего там не хватало — пошагового реплея, перемотки назад и вперед,</segment>
+		<segment id="148" parent="357" relname="span">ну и доп информацию тоже иногда хочется какую-то вывести.</segment>
+		<segment id="149" parent="356" relname="joint">Как разбился лабиринт,</segment>
+		<segment id="150" parent="356" relname="joint">что думает бот, такое.</segment>
+		<segment id="151" parent="358" relname="span">Я написал в какой-то момент простой визуализатор через println и clear screen,</segment>
+		<segment id="152" parent="151" relname="elaboration">он даже мультики показывал типа,</segment>
+		<segment id="153" parent="359" relname="contrast">но хотелось бы чего-то более удобного и универсального.</segment>
+		<segment id="154" parent="360" relname="elaboration">##### IMG</segment>
+		<segment id="155" parent="363" relname="span">##### То же самое касается проверок на ошибки, на тупизну,</segment>
+		<segment id="156" parent="155" relname="elaboration">на то что задача в принципе дорешивается.</segment>
+		<segment id="157" parent="158" relname="evaluation">Причем желательно</segment>
+		<segment id="158" parent="366" relname="span">чтобы это был код независимый от основной codebase</segment>
+		<segment id="159" parent="364" relname="contrast">— какое-то довольно продолжительное время мы отправляли задачи</segment>
+		<segment id="160" parent="365" relname="span">и не знали, что часть из них тупо не принималась организаторами,</segment>
+		<segment id="161" parent="160" relname="concession">хотя мы думали, что все решили.</segment>
+		<segment id="162" parent="368" relname="contrast">Тесты, конечно, писать некогда.</segment>
+		<segment id="163" parent="373" relname="span">Но вот ассерты, ассерты помогают.</segment>
+		<segment id="164" parent="371" relname="span">Иногда как раз такие странные косяки ловить,</segment>
+		<segment id="165" parent="369" relname="contrast">когда вроде и все еще работает,</segment>
+		<segment id="166" parent="369" relname="contrast">но какое-то ожидание нарушено,</segment>
+		<segment id="167" parent="370" relname="span">и значит где-то что-то пошло не так, как ты думал.</segment>
+		<segment id="168" parent="371" relname="elaboration">##### IMG</segment>
+		<segment id="169" parent="377" relname="span">##### Приходить надо было подготовленным.</segment>
+		<segment id="170" parent="169" relname="elaboration">У ребят, например, из контура, была инфраструктура заготовлена: сервера, гоняющие задачи, сбор ответов, дашборд, сравнение.</segment>
+		<segment id="171" parent="379" relname="span">Мы этого, конечно, не знали,</segment>
+		<segment id="172" parent="378" relname="sequence">у нас в лучшем случае запустил программу на ноуте</segment>
+		<segment id="173" parent="378" relname="sequence">— в терминал вывалился результат.</segment>
+		<segment id="174" parent="381" relname="elaboration">Пик инфраструктуры.</segment>
+		<segment id="175" parent="383" relname="evaluation">##### Очень пожалел,</segment>
+		<segment id="176" parent="387" relname="span">что не сделали систему сбора и записи всех прогонов,</segment>
+		<segment id="177" parent="176" relname="purpose">чтобы из всего массива запусков периодически выбирался бы лучший вариант.</segment>
+		<segment id="178" parent="179" relname="condition">Ведь если на какой-то специфичной версии алгоритма какая-то специфичная карта особенно удачно решилась,</segment>
+		<segment id="179" parent="385" relname="span">нет причин не отправлять это решение,</segment>
+		<segment id="180" parent="385" relname="condition">даже если алгоритм потом менялся десять раз.</segment>
+		<segment id="181" parent="389" relname="span">Ну и сравнивать эффективность решений наглядно было бы полезно</segment>
+		<segment id="182" parent="388" relname="contrast">(мы потом похожую штуку сделали,</segment>
+		<segment id="183" parent="388" relname="contrast">но решения надо было вручную в репозиторий коммитить, такое себе).</segment>
+		<segment id="184" parent="384" relname="elaboration">##### IMG</segment>
+		<segment id="185" parent="392" relname="span">##### Вторая безусловно полезная штука, которой нам не хватало — центр координации,</segment>
+		<segment id="186" parent="391" relname="joint">который бы следил, какие задачи где считаются,</segment>
+		<segment id="187" parent="391" relname="joint">и раздавал работу.</segment>
+		<segment id="188" parent="394" relname="span">Так можно было бы и решать быстрее</segment>
+		<segment id="189" parent="393" relname="joint">(запустил на всех ноутах,</segment>
+		<segment id="190" parent="393" relname="joint">и задачи считаются разные,</segment>
+		<segment id="191" parent="393" relname="joint">не пересекаются),</segment>
+		<segment id="192" parent="395" relname="joint">и гипотез разных потестировать,</segment>
+		<segment id="193" parent="395" relname="joint">и на дашборд красиво вывести.</segment>
+		<segment id="194" parent="396" relname="span">Ведь известно заранее, что будет N задач,</segment>
+		<segment id="195" parent="194" relname="elaboration">у каждой есть вход и выход,</segment>
+		<segment id="196" parent="397" relname="span">инфраструктура под это довольно универсальная получается.</segment>
+		<segment id="197" parent="409" relname="preparation">##### Как правильно распределять силы я пока не понял.</segment>
+		<segment id="198" parent="401" relname="span">Я выложился по максимуму в первый день (до 6 утра, на следующий встал в 11)</segment>
+		<segment id="199" parent="198" relname="purpose">чтобы как можно больше впихнуть в Lightning Round (первые 24 часа).</segment>
+		<segment id="200" parent="402" relname="joint">В результате весь второй день был как в тумане</segment>
+		<segment id="201" parent="402" relname="joint">и работалось как на автопилоте.</segment>
+		<segment id="202" parent="407" relname="span">В третий зашли нормально,</segment>
+		<segment id="203" parent="406" relname="contrast">я переписал алгоритм даже,</segment>
+		<segment id="204" parent="406" relname="contrast">но тоже было очень тяжело.</segment>
+		<segment id="205" parent="408" relname="span">Возможно, здоровый сон каждый день (ну ок, кроме последнего) суммарно дал бы больше эффективности за три дня, чем такое.</segment>
+		<segment id="206" parent="205" relname="elaboration">##### IMG Перерыв на обед</segment>
+		<segment id="207" parent="412" relname="contrast">##### В целом мне кажется, мы выступили неплохо для первого раза,</segment>
+		<segment id="208" parent="412" relname="contrast">но в целом неудовлетворительно.</segment>
+		<segment id="209" parent="413" relname="span">По ощущением наших сил едва хватило,</segment>
+		<segment id="210" parent="209" relname="purpose">чтобы выкатить самый простой жадный алгоритм с самым простым lookahead</segment>
+		<segment id="211" parent="415" relname="joint">и мы даже не преступили к стадии, когда тестировали бы разные гипотезы</segment>
+		<segment id="212" parent="415" relname="joint">и прочие умные идеи бы пробовали.</segment>
+		<segment id="213" parent="416" relname="restatement">То есть просто боролись со сложностью задачи.</segment>
+		<group id="214" type="span" parent="218" relname="span"/>
+		<group id="215" type="span" parent="214" relname="elaboration"/>
+		<group id="216" type="span" parent="6" relname="elaboration"/>
+		<group id="217" type="span" parent="5" relname="elaboration"/>
+		<group id="218" type="span" />
+		<group id="219" type="multinuc" parent="226" relname="span"/>
+		<group id="220" type="multinuc" parent="223" relname="joint"/>
+		<group id="221" type="multinuc" parent="13" relname="condition"/>
+		<group id="222" type="span" parent="223" relname="joint"/>
+		<group id="223" type="multinuc" parent="219" relname="contrast"/>
+		<group id="224" type="span" parent="225" relname="joint"/>
+		<group id="225" type="multinuc" parent="226" relname="elaboration"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" />
+		<group id="229" type="multinuc" parent="235" relname="span"/>
+		<group id="230" type="multinuc" parent="419" relname="span"/>
+		<group id="231" type="span" parent="229" relname="contrast"/>
+		<group id="232" type="span" parent="231" relname="span"/>
+		<group id="233" type="span" parent="235" relname="evaluation"/>
+		<group id="234" type="span" parent="25" relname="evidence"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="237" relname="span"/>
+		<group id="237" type="span" />
+		<group id="238" type="multinuc" parent="422" relname="span"/>
+		<group id="239" type="multinuc" parent="241" relname="comparison"/>
+		<group id="240" type="multinuc" parent="243" relname="contrast"/>
+		<group id="241" type="multinuc" parent="244" relname="span"/>
+		<group id="242" type="multinuc" parent="243" relname="contrast"/>
+		<group id="243" type="multinuc" parent="241" relname="comparison"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" />
+		<group id="246" type="span" parent="248" relname="contrast"/>
+		<group id="247" type="span" parent="248" relname="contrast"/>
+		<group id="248" type="multinuc" parent="250" relname="span"/>
+		<group id="249" type="span" parent="250" relname="elaboration"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" />
+		<group id="252" type="span" parent="253" relname="same-unit"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="span"/>
+		<group id="255" type="span" parent="267" relname="preparation"/>
+		<group id="256" type="multinuc" parent="257" relname="contrast"/>
+		<group id="257" type="multinuc" parent="266" relname="contrast"/>
+		<group id="258" type="multinuc" parent="52" relname="cause"/>
+		<group id="259" type="span" parent="269" relname="span"/>
+		<group id="260" type="span" parent="270" relname="joint"/>
+		<group id="261" type="span" parent="58" relname="cause"/>
+		<group id="262" type="span" parent="263" relname="joint"/>
+		<group id="263" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="264" type="span" parent="59" relname="elaboration"/>
+		<group id="265" type="span" parent="266" relname="contrast"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" />
+		<group id="269" type="span" parent="257" relname="contrast"/>
+		<group id="270" type="multinuc" parent="259" relname="elaboration"/>
+		<group id="271" type="multinuc" parent="273" relname="span"/>
+		<group id="272" type="multinuc" parent="271" relname="contrast"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" parent="275" relname="joint"/>
+		<group id="275" type="multinuc" parent="281" relname="span"/>
+		<group id="276" type="multinuc" parent="277" relname="contrast"/>
+		<group id="277" type="multinuc" parent="275" relname="joint"/>
+		<group id="278" type="multinuc" parent="279" relname="span"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="281" relname="evaluation"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="289" relname="span"/>
+		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="287" relname="span"/>
+		<group id="285" type="multinuc" parent="286" relname="contrast"/>
+		<group id="286" type="multinuc" parent="287" relname="evidence"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="282" relname="evaluation"/>
+		<group id="289" type="span" />
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" parent="302" relname="contrast"/>
+		<group id="292" type="span" parent="299" relname="comparison"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="85" relname="elaboration"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="302" relname="contrast"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="300" relname="evaluation"/>
+		<group id="299" type="multinuc" parent="300" relname="span"/>
+		<group id="300" type="span" parent="301" relname="span"/>
+		<group id="301" type="span" />
+		<group id="302" type="multinuc" parent="299" relname="comparison"/>
+		<group id="303" type="multinuc" parent="305" relname="span"/>
+		<group id="304" type="multinuc" parent="305" relname="cause"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" parent="308" relname="comparison"/>
+		<group id="307" type="span" parent="308" relname="comparison"/>
+		<group id="308" type="multinuc" parent="313" relname="span"/>
+		<group id="309" type="span" parent="312" relname="span"/>
+		<group id="310" type="span" parent="309" relname="evaluation"/>
+		<group id="311" type="span" parent="102" relname="cause"/>
+		<group id="312" type="span" parent="315" relname="span"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" />
+		<group id="315" type="span" parent="313" relname="background"/>
+		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="319" relname="comparison"/>
+		<group id="319" type="multinuc" parent="323" relname="span"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="323" relname="elaboration"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" />
+		<group id="326" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="327" type="span" parent="326" relname="joint"/>
+		<group id="328" type="span" parent="326" relname="joint"/>
+		<group id="329" type="span" parent="330" relname="preparation"/>
+		<group id="330" type="span" parent="345" relname="span"/>
+		<group id="331" type="multinuc" parent="341" relname="cause"/>
+		<group id="332" type="span" parent="335" relname="span"/>
+		<group id="333" type="multinuc" parent="128" relname="cause"/>
+		<group id="334" type="span" parent="332" relname="elaboration"/>
+		<group id="335" type="span" parent="331" relname="contrast"/>
+		<group id="336" type="multinuc" parent="339" relname="contrast"/>
+		<group id="337" type="span" parent="336" relname="contrast"/>
+		<group id="338" type="multinuc" parent="339" relname="contrast"/>
+		<group id="339" type="multinuc" parent="340" relname="span"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="124" relname="evidence"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" />
+		<group id="345" type="span" parent="343" relname="solutionhood"/>
+		<group id="346" type="multinuc" parent="137" relname="elaboration"/>
+		<group id="347" type="multinuc" parent="142" relname="cause"/>
+		<group id="348" type="span" parent="141" relname="evaluation"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="351" relname="span"/>
+		<group id="351" type="span" parent="140" relname="cause"/>
+		<group id="352" type="span" parent="354" relname="span"/>
+		<group id="353" type="span" parent="352" relname="preparation"/>
+		<group id="354" type="span" />
+		<group id="355" type="multinuc" parent="361" relname="solutionhood"/>
+		<group id="356" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="357" type="span" parent="355" relname="joint"/>
+		<group id="358" type="span" parent="359" relname="contrast"/>
+		<group id="359" type="multinuc" parent="360" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="362" relname="span"/>
+		<group id="362" type="span" />
+		<group id="363" type="span" parent="375" relname="preparation"/>
+		<group id="364" type="multinuc" parent="366" relname="cause"/>
+		<group id="365" type="span" parent="364" relname="contrast"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="374" relname="joint"/>
+		<group id="368" type="multinuc" parent="374" relname="joint"/>
+		<group id="369" type="multinuc" parent="167" relname="cause"/>
+		<group id="370" type="span" parent="164" relname="condition"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="163" relname="elaboration"/>
+		<group id="373" type="span" parent="368" relname="contrast"/>
+		<group id="374" type="multinuc" parent="375" relname="span"/>
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" />
+		<group id="377" type="span" parent="382" relname="contrast"/>
+		<group id="378" type="multinuc" parent="381" relname="span"/>
+		<group id="379" type="span" parent="382" relname="contrast"/>
+		<group id="380" type="span" parent="171" relname="elaboration"/>
+		<group id="381" type="span" parent="380" relname="span"/>
+		<group id="382" type="multinuc" />
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" parent="424" relname="span"/>
+		<group id="385" type="span" parent="386" relname="span"/>
+		<group id="386" type="span" parent="390" relname="joint"/>
+		<group id="387" type="span" parent="383" relname="span"/>
+		<group id="388" type="multinuc" parent="181" relname="elaboration"/>
+		<group id="389" type="span" parent="390" relname="joint"/>
+		<group id="390" type="multinuc" parent="387" relname="cause"/>
+		<group id="391" type="multinuc" parent="185" relname="purpose"/>
+		<group id="392" type="span" parent="400" relname="span"/>
+		<group id="393" type="multinuc" parent="188" relname="elaboration"/>
+		<group id="394" type="span" parent="395" relname="joint"/>
+		<group id="395" type="multinuc" parent="398" relname="span"/>
+		<group id="396" type="span" parent="196" relname="cause"/>
+		<group id="397" type="span" parent="398" relname="cause"/>
+		<group id="398" type="span" parent="399" relname="span"/>
+		<group id="399" type="span" parent="392" relname="elaboration"/>
+		<group id="400" type="span" />
+		<group id="401" type="span" parent="403" relname="cause"/>
+		<group id="402" type="multinuc" parent="403" relname="span"/>
+		<group id="403" type="span" parent="404" relname="span"/>
+		<group id="404" type="span" parent="405" relname="sequence"/>
+		<group id="405" type="multinuc" parent="409" relname="span"/>
+		<group id="406" type="multinuc" parent="202" relname="elaboration"/>
+		<group id="407" type="span" parent="405" relname="sequence"/>
+		<group id="408" type="span" parent="411" relname="span"/>
+		<group id="409" type="span" parent="410" relname="span"/>
+		<group id="410" type="span" parent="408" relname="solutionhood"/>
+		<group id="411" type="span" />
+		<group id="412" type="multinuc" parent="417" relname="preparation"/>
+		<group id="413" type="span" parent="414" relname="contrast"/>
+		<group id="414" type="multinuc" parent="417" relname="span"/>
+		<group id="415" type="multinuc" parent="416" relname="restatement"/>
+		<group id="416" type="multinuc" parent="414" relname="contrast"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" />
+		<group id="419" type="span" parent="232" relname="span"/>
+		<group id="420" type="span" parent="239" relname="joint"/>
+		<group id="421" type="span" parent="277" relname="contrast"/>
+		<group id="422" type="span" parent="423" relname="span"/>
+		<group id="423" type="span" parent="244" relname="preparation"/>
+		<group id="424" type="span" />
+	</body>
+</rst>

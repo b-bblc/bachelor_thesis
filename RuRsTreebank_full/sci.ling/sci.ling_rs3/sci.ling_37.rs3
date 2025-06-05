@@ -1,0 +1,384 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">А. Ю. Маслова</segment>
+		<segment id="2" relname="antithesis">К ВОПРОСУ О СПЕЦИФИКЕ КАТЕГОРИИ ПОБУДИТЕЛЬНОСТИ</segment>
+		<segment id="3" parent="4" relname="cause">Особенностью современного познания является общенаучный взгляд на изучаемый объект как на определенным образом организованную систему,</segment>
+		<segment id="4" parent="209" relname="span">вследствие чего инструментом описания языка как системы выступает категория.</segment>
+		<segment id="5" parent="210" relname="span">В философском осмыслении категория — это понятие, «являющееся средством выработки картины мира, способов освоения человеком различных объектов, норм понимания бытия вообще и человеческого бытия в частности»1.</segment>
+		<segment id="6" parent="214" relname="span">В последние десятилетия ученые-лингвисты на ином уровне решают проблему категоризации как средства описания языковой системности.</segment>
+		<segment id="7" parent="213" relname="span">Так, Б. Н. Головин предложил описывать грамматику языка как совокупность более общих категорий:</segment>
+		<segment id="8" parent="211" relname="joint">морфологию языка как совокупность и систему грамматических категорий слов и словесных форм,</segment>
+		<segment id="9" parent="215" relname="span">а синтаксис — как совокупность и систему грамматических категорий словесных позиций и словесных конструкций2.</segment>
+		<segment id="10" parent="9" relname="elaboration">При изучении парадигматических отношений в синтаксисе учеными вводятся понятия коммуникативно-грамматических и семантико-синтаксических категорий3.</segment>
+		<segment id="11" parent="216" relname="restatement">Таким образом, в настоящее время можно наблюдать активный процесс категоризации языковых явлений с целью более тонкого описания языка как системы.</segment>
+		<segment id="12" parent="358" relname="span">Это связано с усилением в лингвистике фактора антропоцентризма и формированием относительно новой антропоцентрической парадигмы научного знания.</segment>
+		<segment id="13" parent="12" relname="evaluation">Подобная тенденция объясняет приоритет в исследовании категорий, приобретающих статус функционально-семантических, семантико-прагматических, коммуникативно- прагматических, коммуникативных, когнитивных, когнитивно-коммуникативных4.</segment>
+		<segment id="14" parent="220" relname="span">При учете философского и логического аспектов определения категории явление побудительности закономерно приобретает статус категории, обобщающей конкретные варианты побуждения.</segment>
+		<segment id="15" parent="16" relname="attribution">(См., например, Г. П. Левус:</segment>
+		<segment id="16" parent="219" relname="span">«побудительность — это категория, обобщающая специфический способ отражения действительности, а именно через побуждение объекта к действию»5).</segment>
+		<segment id="17" parent="221" relname="joint">Взаимодействие содержания категории побудительности и ее компонентов представляется как отношение рода и вида.</segment>
+		<segment id="18" parent="221" relname="joint">Переход от абстрактного к конкретному осуществляется на коммуникативном уровне.</segment>
+		<segment id="19" parent="224" relname="span">Как правило, категория побудительности рассматривается в качестве функционально -семантической6.</segment>
+		<segment id="20" parent="19" relname="evaluation">Такой подход целесообразен при концентрации исследовательского интереса на языковых средствах выражения побудительного значения и особенностях их функционирования в зависимости от речевой ситуации.</segment>
+		<segment id="21" parent="349" relname="preparation">Однако категория побудительности является языковой универсалией.</segment>
+		<segment id="22" parent="228" relname="span">Процесс общения в целом невозможен без использования высказываний побудительного характера.</segment>
+		<segment id="23" parent="225" relname="joint">Человек преобразует мир,</segment>
+		<segment id="24" parent="225" relname="joint">вступает во взаимодействия с другими людьми,</segment>
+		<segment id="25" parent="225" relname="joint">оказывает влияние посредством речевых действий,</segment>
+		<segment id="26" parent="225" relname="joint">утверждает собственные позиции</segment>
+		<segment id="27" parent="225" relname="joint">или отстаивает интересы.</segment>
+		<segment id="28" parent="227" relname="span">Побудительное значение реализуется в разных речевых актах и в процессе интеракции в целом.</segment>
+		<segment id="29" parent="28" relname="evidence">Неслучайно И. П. Сусов определяет побудительность как коммуникативное значение7.</segment>
+		<segment id="30" parent="31" relname="cause">Учитывая множество противоречий, возникающих при трактовке особенностей значения категории побудительности,</segment>
+		<segment id="31" parent="230" relname="span">анализ данной категории в коммуникативнопрагматическом аспекте можно считать важной задачей современной лингвистики.</segment>
+		<segment id="32" parent="231" relname="span">Активное развитие теории речеведения в настоящее время, разработанность многих речевых категорий создают предпосылки</segment>
+		<segment id="33" parent="32" relname="purpose">для введения понятия коммуникативной категории.</segment>
+		<segment id="34" parent="232" relname="joint">В современной теории речевой коммуникации пока нет однозначного понимания коммуникативной категории,</segment>
+		<segment id="35" parent="232" relname="joint">не выработаны принципы ее выделения</segment>
+		<segment id="36" parent="232" relname="joint">и не определен исчерпывающий набор коммуникативных категорий.</segment>
+		<segment id="37" parent="38" relname="attribution">Так, в работе В. И. Карасика</segment>
+		<segment id="38" parent="234" relname="span">рассматриваются типы категорий дискурса в рамках социолингвистического подхода8,</segment>
+		<segment id="39" parent="40" relname="attribution">в исследованиях И. Н. Борисовой</segment>
+		<segment id="40" parent="235" relname="span">выделяются категории коммуникативной координации, категории цели9.</segment>
+		<segment id="41" parent="42" relname="attribution">В некоторых работах</segment>
+		<segment id="42" parent="239" relname="span">предприняты попытки выработать методику исследования конкретных категорий, например, категории вежливости10.</segment>
+		<segment id="43" parent="236" relname="joint">Также решается проблема типологии коммуникативных категорий11.</segment>
+		<segment id="44" parent="45" relname="attribution">Согласно исследованиям И. А. Стернина,</segment>
+		<segment id="45" parent="242" relname="span">под коммуникативными категориями понимаются «самые общие коммуникативные понятия, упорядочивающие знания человека об общении и нормах его осуществления»12.</segment>
+		<segment id="46" parent="351" relname="contrast">Основное назначение коммуникативных категорий — не упорядочение сведений о нормах и правилах общения,</segment>
+		<segment id="47" parent="351" relname="contrast">а обеспечение, организация речевого общения в обществе.</segment>
+		<segment id="48" parent="245" relname="joint">В связи с этим коммуникативные категории участвуют в построении и регулировании коммуникативного процесса,</segment>
+		<segment id="49" parent="246" relname="span">имеют определенную структуру, собственное коммуникативное содержание, набор разноуровневых языковых и речевых (в том числе и невербальных) средств</segment>
+		<segment id="50" parent="49" relname="purpose">для выражения этого содержания.</segment>
+		<segment id="51" parent="248" relname="elaboration">Та или иная категория вычленяется как таковая исходя из анализа практики общения.</segment>
+		<segment id="52" parent="250" relname="sequence">Вычленению коммуникативных категорий,</segment>
+		<segment id="53" parent="250" relname="sequence">а в дальнейшем и их обучению</segment>
+		<segment id="54" parent="250" relname="sequence">предшествует ряд этапов.</segment>
+		<segment id="55" parent="253" relname="attribution">Н. И. Формановская выделяет следующие этапы:</segment>
+		<segment id="56" parent="252" relname="joint">1) номинация понятия «концепт»;</segment>
+		<segment id="57" parent="252" relname="joint">2) создание семантического поля данной категории;</segment>
+		<segment id="58" parent="252" relname="joint">3) речевые действия при реализации коммуникативной категории.</segment>
+		<segment id="59" parent="255" relname="elaboration">Подобные процедуры оправданы и по отношению к категории побудительности.</segment>
+		<segment id="60" parent="258" relname="preparation">Первый этап (этап номинации понятия «побудительность») тесно связан с проблемой терминологической определенности в научном исследовании.</segment>
+		<segment id="61" parent="258" relname="span">В многочисленных работах, посвященных исследованию побудительной коммуникативной ситуации — постоянного объекта внимания в области прагмалингвистики, — не наблюдается терминологического единообразия.</segment>
+		<segment id="62" parent="61" relname="elaboration">Исследуя побудительное значение, ученые оперируют терминами «побуждение», «повелительность», «побудительность», «волеизъявление».</segment>
+		<segment id="63" parent="259" relname="joint">Между тем, при отсутствии единообразного толкования этих терминов затруднительно дать четкую характеристику структуры рассматриваемой категории</segment>
+		<segment id="64" parent="259" relname="joint">и детально проанализировать составляющие компоненты.</segment>
+		<segment id="65" parent="260" relname="elaboration">Часто исследователи предпочитают не заострять внимания на терминологических тонкостях, говоря о функционально-семантическом поле побуждения, повелительности, побудительности, подразумевая под этим одно и то же явление13.</segment>
+		<segment id="66" parent="280" relname="span">Однако побуждение — это единица другого уровня, нежели повелительность, побудительность, волеизъявление,</segment>
+		<segment id="67" parent="66" relname="evidence">о чем свидетельствуют имеющиеся в научной литературе определения.</segment>
+		<segment id="68" parent="266" relname="same-unit">Все эти дефиниции,</segment>
+		<segment id="69" parent="268" relname="concession">несмотря на свои вариативные различия,</segment>
+		<segment id="70" parent="268" relname="span">свидетельствуют о наличии некой (побудительной) коммуникативной ситуации,</segment>
+		<segment id="71" parent="272" relname="span">в центре которой — определенный речевой акт (побуждение) участника процесса коммуникации,</segment>
+		<segment id="72" parent="71" relname="purpose">цель которого — внести определенные изменения в реальный мир</segment>
+		<segment id="73" parent="271" relname="joint">или выразить свое отношение к уже имеющемуся положению дел (разрешение/неразрешение).</segment>
+		<segment id="74" parent="270" relname="elaboration">В зависимости от отношений между участниками коммуникативной ситуации, от социальных параметров каждого из них, их психологических, ментальных характеристик речевой акт получает различные содержательные интерпретации.</segment>
+		<segment id="75" parent="283" relname="contrast">Таким образом, конкретная речевая ситуация характеризуется конкретным актом побуждения.</segment>
+		<segment id="76" parent="273" relname="span">Абстрактное же стремление говорящего вызвать действие,</segment>
+		<segment id="77" parent="76" relname="purpose">направленное на изменение или сохранение существующей действительности,</segment>
+		<segment id="78" parent="275" relname="joint">объединяет все варианты побуждения</segment>
+		<segment id="79" parent="275" relname="joint">и выражает инвариантную побудительную семантику.</segment>
+		<segment id="80" parent="285" relname="span">Поэтому представляется нелогичным использовать термин функционально-семантическое поле побуждения, характеризуя побудительную семантику абстрактно.</segment>
+		<segment id="81" parent="293" relname="preparation">Другая терминологическая сложность заключается в соотношении вышеупомянутых понятий.</segment>
+		<segment id="82" parent="278" relname="contrast">Большинство исследователей указывают на полевую структуру категории побудительности,</segment>
+		<segment id="83" parent="354" relname="comparison">однако под одним и тем же термином подразумевают разные явления</segment>
+		<segment id="84" parent="354" relname="comparison">или же представляют различающиеся дихотомические построения.</segment>
+		<segment id="85" parent="86" relname="attribution">Так, С. Ю. Рубцова считает,</segment>
+		<segment id="86" parent="286" relname="span">что «функционально-семантическое поле повелительности в плане содержания, с учетом логического и коммуникативного аспектов, делится на два микрополя — побудительности (центральное) и желательности (периферийное)»14,</segment>
+		<segment id="87" parent="286" relname="elaboration">при этом центральным смысловым компонентом микрополя побудительности является значение непосредственного побуждения.</segment>
+		<segment id="88" parent="288" relname="contrast">М. Б. Бергельсон анализирует побудительное значение, используя термин волеизъявление для обозначения оптатива, а побуждение — для императива15.</segment>
+		<segment id="89" parent="356" relname="span">В других же исследованиях волеизъявление трактуется как интегральный признак или основное инвариантное значение категории повелительности.</segment>
+		<segment id="90" parent="91" relname="attribution">Так, Г. Ф. Музыкантов отмечает:</segment>
+		<segment id="91" parent="357" relname="span">«Каждый из составляющих сектора (или микрополя — А. М.) обнаруживает интегральный признак ‘‘ волеизъявление”»16.</segment>
+		<segment id="92" parent="291" relname="comparison">Аналогичную точку зрения разделяет С. Ю. Рубцова, называя волеизъявление основным инвариантным значением категории повелительности17.</segment>
+		<segment id="93" parent="292" relname="evaluation">Однако волеизъявление представляется понятием более широким, включающим в себя повелительность.</segment>
+		<segment id="94" parent="95" relname="cause">Учитывая опыт имеющихся исследований, считаем целесообразным использовать термин побудительность, рассматривая явление побудительности как разновидность волеизъявления.</segment>
+		<segment id="95" parent="298" relname="span">В связи с этим, на наш взгляд, вполне справедливо</segment>
+		<segment id="96" parent="299" relname="span">замечание Л. С. Ермолаевой,</segment>
+		<segment id="97" parent="297" relname="joint">что «выделение волеизъявительности, противостоящей повествовательности и вопроси-тельности, необходимо для полноты охвата коммуникативных типов предложения.</segment>
+		<segment id="98" parent="297" relname="joint">Степень разграниченности побудительности и желательности в рамках волеизъявительности исторически и типологически изменчива»18.</segment>
+		<segment id="99" parent="301" relname="span">Не противоречит такой точке зрения и определение побудительности, данное Н. И. Формановской,</segment>
+		<segment id="100" parent="101" relname="attribution">по мнению которой,</segment>
+		<segment id="101" parent="300" relname="span">«побудительность — это одно из ведущих целеполаганий говорящего, отражающее его волеизъявление, с одной стороны, а с другой — побуждение к действию адресата»19.</segment>
+		<segment id="102" parent="304" relname="span">Оно отражает специфику «двусубъект-ности» побудительного высказывания:</segment>
+		<segment id="103" parent="302" relname="joint">я хочу</segment>
+		<segment id="104" parent="302" relname="joint">и ты должен.</segment>
+		<segment id="105" parent="360" relname="joint">Второй этап (этап создания семантического поля данной категории) включает рассмотрение понятий желательности, волеизъявления, повелительности, побуждения.</segment>
+		<segment id="106" parent="360" relname="joint">Третий этап (этап речевых действий) может быть представлен рядом номинаций, в большей или меньшей степени исчерпывающих побудительные интенции и формирующих план содержания категории побудительности: просьба, предложение, совет, требование, приказ, предостережение, запрет, разрешение, угроза, обещание, клятва и др.</segment>
+		<segment id="107" parent="315" relname="preparation">Анализируя классификацию коммуникативных категорий по роли и степени участия категорий в коммуникативном процессе, отметим, что категория побудительности может вполне обоснованно являться ее членом на субкатегориальном уровне.</segment>
+		<segment id="108" parent="307" relname="span">Е. П. Захарова разделяет коммуникативные категории на собственно коммуникативные, выполняющие коммуникативно-организующую функцию, и сопутствующие с регулирующей функцией.</segment>
+		<segment id="109" parent="108" relname="elaboration">К числу собственно коммуникативных структурно-организующих категорий относятся речевые жанры.</segment>
+		<segment id="110" parent="309" relname="span">Если под речевым жанром понимать «определенную коммуникативноречевую ситуативно обусловленную форму воплощения речевого замысла говорящего, соответствующую принятым в данной сфере общения в данном социуме коммуникативным нормам»,</segment>
+		<segment id="111" parent="308" relname="span">то категория побудительности представляет собой частный случай, или субкатегорию коммуникативной категории речевого жанра.</segment>
+		<segment id="112" parent="310" relname="span">Е. П. Захарова отмечает, что категория речевых жанров занимает особую позицию в составе коммуникативных категорий, «это особый тип, отличающийся от других более сложной структурной организацией»20.</segment>
+		<segment id="113" parent="112" relname="elaboration">Ее общекатегориальное значение складывается из набора значений отдельных жанров, каждый из которых имеет коммуникативное содержание, обусловленное, прежде всего, коммуникативной целью.</segment>
+		<segment id="114" parent="311" relname="same-unit">Таким образом, одной из составляющих коммуникативной категории речевых жанров</segment>
+		<segment id="115" parent="116" relname="attribution">(по классификации Е. П. Захаровой)</segment>
+		<segment id="116" parent="312" relname="span">является и структурированная совокупность речевых ситуаций21, объединенных побудительной целью.</segment>
+		<segment id="117" parent="319" relname="span">Принимая во внимание тот факт, что содержание коммуникативной категории представляет собой некоторую не очень жестко упорядоченную совокупность суждений, установок, ментальных стереотипов, правил, касающихся речевого общения22, отметим, что в коммуникативном аспекте содержание категории побудительности также вполне соответствует структурному принципу,</segment>
+		<segment id="118" parent="117" relname="attribution">который был предложен И. П. Стерниным.</segment>
+		<segment id="119" parent="321" relname="span">Побудительность в качестве коммуникативной субкатегории содержит определенное концептуальное знание о коммуникации (в частности, волеизъявлении)</segment>
+		<segment id="120" parent="320" relname="span">— это может трактоваться как информационная составляющая структуры,</segment>
+		<segment id="121" parent="120" relname="attribution">по И. А. Стернину (1);</segment>
+		<segment id="122" parent="324" relname="span">содержит частные предписания по осуществлению коммуникативного процесса в определенном побудительном коммуникативном акте (например, целесообразное использование конвенциональных актов в зависимости от условий общения)</segment>
+		<segment id="123" parent="331" relname="span">— это прескрипционная составляющая структуры (2).</segment>
+		<segment id="124" parent="325" relname="span">Прескрипционная составляющая не может быть интерпретирована вне прагматического контекста речевой ситуации.</segment>
+		<segment id="125" parent="330" relname="span">Это связано с тем, что обобщенное интенциональное побудительное значение интегрируется из ряда конкретных,</segment>
+		<segment id="126" parent="327" relname="span">каждое из которых имеет свои прагматические условия</segment>
+		<segment id="127" parent="126" relname="purpose">для реализации</segment>
+		<segment id="128" parent="328" relname="same-unit">и свои языковые средства.</segment>
+		<segment id="129" parent="337" relname="span">Прагматический контекст включает разнородные факторы, соучаствующие при выражении универсального побудительного значения: категории мышления, энциклопедические знания, представления о мире, «житейскую логику» практического рассуждения, психологические механизмы, внеязыковую действительность.</segment>
+		<segment id="130" parent="334" relname="span">Позиция говорящего при анализе побудительности в коммуникативно-прагматическом аспекте является доминирующей,</segment>
+		<segment id="131" parent="130" relname="cause">т. к. одним из вопросов прагматики является отношение знаков к их интерпретаторам.</segment>
+		<segment id="132" parent="335" relname="contrast">Однако, ориентируясь на такие важные составляющие коммуникативного акта, как целенаправленность и оказание воздействия на адресата, следует учитывать, что реализация коммуникативных интенций говорящего полностью зависит от восприятия содержания информации слушающим.</segment>
+		<segment id="133" parent="134" relname="cause">Реализуя свое значение в коммуникативном акте, в непосредственной соотнесенности с ситуацией общения,</segment>
+		<segment id="134" parent="339" relname="span">категория побудительности является сложным и многоплановым понятием, включающим разнородные коммуникативно-прагматические характеристики.</segment>
+		<segment id="135" parent="136" relname="cause">Исходя из вышесказанного,</segment>
+		<segment id="136" parent="340" relname="span">считаем целесообразным при исследовании категории побудительности дифференцировать в ее структуре функционально-семантическую и коммуникативно-прагматическую составляющие.</segment>
+		<segment id="137" parent="341" relname="comparison">И если функционально-семантический план соотнесен с планом выражения категории, представляя совокупность языковых средств, реализующих побудительное значение,</segment>
+		<segment id="138" parent="341" relname="comparison">то коммуникативно-прагматический план — это план содержания, обусловливающий все многообразие и в то же время интен-циональную целостность выражения побудительного значения в коммуникативном акте.</segment>
+		<segment id="139" parent="343" relname="span">Хотя, думается, вполне логично считать категорию побудительности коммуникативно -прагматической при учете соответствующего содержательного подхода к ее исследованию.</segment>
+		<segment id="140" parent="139" relname="evidence">В пользу этого говорит и наличие коммуникативно-прагматического статуса у категории модальности23, в рамках которой категория побудительности сформирована.</segment>
+		<segment id="141" parent="142" relname="concession">Несмотря на то что изучение волеизъявления имеет известную лингвистическую традицию,</segment>
+		<segment id="142" parent="347" relname="span">категория побудительности в статусе коммуникативно-прагматическом более наглядно продемонстрирует то новое, что может дать системное описание коммуникативного уровня родственных языков в сопоставительном аспекте, в частности, сопоставительная прагматика,</segment>
+		<segment id="143" parent="348" relname="span">что и является перспективой данного исследования.</segment>
+		<segment id="144" relname="antithesis">1 Современный философский словарь. М.; Минск, 1998. С. 391.</segment>
+		<segment id="145" relname="antithesis">2 Головин Б. Н. Введение в языкознание. М., 1977.</segment>
+		<segment id="146" relname="antithesis">3 Рубцова Н. В. Категоризация лингвистических явлений — описание языка как системы // Теория языкознания и русистика: Наследие Б. Н. Головина: Сб. статей</segment>
+		<segment id="147" relname="antithesis">по материалам междунар. науч. конф., посвященной 85-летию профессора Б. Н.</segment>
+		<segment id="148" relname="antithesis">Головина. Н. Новгород, 2001. С. 278-280.</segment>
+		<segment id="149" relname="antithesis">4 См.: КуликоваЕ. В. Предельность как смысловая коммуникативно-прагматическая категория // Языки в современном мире: Тезисы докладов междунар. научно- практич. конф. 24-25 сентября 2003 г. Саранск, 2003. С. 87-88;</segment>
+		<segment id="150" relname="antithesis">Недобух С. А. Когнитивно-коммуникативная категория персональности: Автореф. канд. дис. Тверь, 2002;</segment>
+		<segment id="151" relname="antithesis">Паршин П. Б. Сопоставительное выделение как коммуникативная</segment>
+		<segment id="152" relname="antithesis">категория: (Опыт процедурно-семантического описания): Автореф. канд. дис. М.,</segment>
+		<segment id="153" relname="antithesis">1988; Ромашова И. П. Экспрессивность как семантико-прагматическая категория</segment>
+		<segment id="154" relname="antithesis">высказывания (на материале устно-разговорной и художественной речи</segment>
+		<segment id="155" relname="antithesis">диалогического типа): Дис. ... канд. филол. наук. Барнаул, 2001; Шишкина Р. Г.</segment>
+		<segment id="156" relname="antithesis">Когнитивнокоммуникативная категория желательности: Автореф. канд. дис. Ижевск,</segment>
+		<segment id="157" relname="antithesis">2001; и др.</segment>
+		<segment id="158" relname="antithesis">5 Левус Г. П. Логическое содержание категории побудительности //</segment>
+		<segment id="159" relname="antithesis">Функционально-семантический анализ языковых единиц. Алма-Ата, 1986. С. 91-92.</segment>
+		<segment id="160" relname="antithesis">6 Нгуен Тует Минь. Аспекты функциональной морфологии: Функционально-</segment>
+		<segment id="161" relname="antithesis">семантическая категория побудительности в русском и вьетнамском языках. М.,</segment>
+		<segment id="162" relname="antithesis">1999; СултанбаеваХ. В. Функциональносемантическая категория побудительности.</segment>
+		<segment id="163" relname="antithesis">Уфа, 1999.</segment>
+		<segment id="164" relname="antithesis">7 Сусов И. П. Побудительность: Деятельностно-коммуникативное и функционально-</segment>
+		<segment id="165" relname="antithesis">семантическое представление // Императив в разноструктурных языках. Л., 1988.</segment>
+		<segment id="166" relname="antithesis">С. 125-127.</segment>
+		<segment id="167" relname="antithesis">8 Карасик В. И. О категориях дискурса // Языковая личность:</segment>
+		<segment id="168" relname="antithesis">Социолингвистический и эмотивный аспекты. Волгоград, 1998.</segment>
+		<segment id="169" relname="antithesis">9 Борисова И. Н. Дискурсивные стратегии в разговорном диалоге // Русская</segment>
+		<segment id="170" relname="antithesis">разговорная речь как явление городской культуры. Екатеринбург, 1996; Она же.</segment>
+		<segment id="171" relname="antithesis">Категории цели и аспекты текстового анализа // Жанры речи-2. Саратов, 1999.</segment>
+		<segment id="172" relname="antithesis">10 Кормилицына М. А., Шамьенова Г. Р. Категория вежливости в оценочных речевых</segment>
+		<segment id="173" relname="antithesis">актах // Жанры речи-2. Саратов, 1999.</segment>
+		<segment id="174" relname="antithesis">11 Захарова Е. П. Коммуникативные категории и возможность их классификации //</segment>
+		<segment id="175" relname="antithesis">Единицы языка и их функционирование. Саратов, 1998; Она же. Типы</segment>
+		<segment id="176" relname="antithesis">коммуникативных категорий // Проблемы межречевой коммуникации: Межвуз. сб.</segment>
+		<segment id="177" relname="antithesis">науч. трудов. Саратов, 2000. С. 12-19.</segment>
+		<segment id="178" relname="antithesis">12 Стернин И. М. О национальном коммуникативном сознании // Лингвистический</segment>
+		<segment id="179" relname="antithesis">вестник. Ижевск, 2002. Вып. 4. С. 87-94.</segment>
+		<segment id="180" relname="antithesis">13 См.: Императив в разноструктурных языках: Тез. докл. конф. «Функционально-</segment>
+		<segment id="181" relname="antithesis">типологическое направление в грамматике. Повелительность». Л., 1988;</segment>
+		<segment id="182" relname="antithesis">Функционально-типологические проблемы грамматики: Тез. науч.-практич. конф.: В</segment>
+		<segment id="183" relname="antithesis">2 ч. Вологда; Л., 1986.</segment>
+		<segment id="184" relname="antithesis">14Рубцова С. Ю. Категория повелительности в современном нидерландском языке //</segment>
+		<segment id="185" relname="antithesis">Функциональнотипологические проблемы... Ч. 1. С. 16.</segment>
+		<segment id="186" relname="antithesis">15Бергельсон М. Б. Проблемы императивов в контексте речевых актов // Императив</segment>
+		<segment id="187" relname="antithesis">в разноструктурных языках... С. 21-23.</segment>
+		<segment id="188" relname="antithesis">16Музыкантов Г. Ф. Функционально-семантическое поле побудительности в немецком</segment>
+		<segment id="189" relname="antithesis">языке // Там же. С. 83.</segment>
+		<segment id="190" relname="antithesis">17Рубцова С. Ю. Указ. соч.</segment>
+		<segment id="191" relname="antithesis">18Ермолаева П. С. К историко-типологической характеристике категории</segment>
+		<segment id="192" relname="antithesis">побудительности // Функционально-типологические проблемы грамматики: Тез.</segment>
+		<segment id="193" relname="antithesis">науч.-практич. конф. Вологда; Л., 1986. Ч. 1.</segment>
+		<segment id="194" relname="antithesis">С. 46.</segment>
+		<segment id="195" relname="antithesis">19 Формановская Н. И. Речевое общение: Коммуникативно-прагматический подход.</segment>
+		<segment id="196" relname="antithesis">М., 2002.</segment>
+		<segment id="197" relname="antithesis">С. 141.</segment>
+		<segment id="198" relname="antithesis">20 ЗахароваЕ. П. Типы коммуникативных категорий... С. 14-15.</segment>
+		<segment id="199" relname="antithesis">21 В целях терминологического единообразия мы отходим от термина «речевой</segment>
+		<segment id="200" relname="antithesis">жанр» в его бахтинском понимании. В дальнейшем, базируясь на понятийном</segment>
+		<segment id="201" relname="antithesis">аппарате теории речевых актов, считаем целесообразным жанрам отвести роль</segment>
+		<segment id="202" relname="antithesis">«типизированных, стандартизованных и структурированных образцов текстов,</segment>
+		<segment id="203" relname="antithesis">напрямую связанных с функциональными стилями» (См.: Формановская Н. И. Указ.</segment>
+		<segment id="204" relname="antithesis">соч. С. 36).</segment>
+		<segment id="205" relname="antithesis">22 Стернин И. М. Указ. соч.</segment>
+		<segment id="206" relname="antithesis">23 Федосеева А. В. Имплицитная модальность высказывания в коммуникативно-</segment>
+		<segment id="207" relname="antithesis">прагматическом аспекте. Автореф. канд. дис. Белгород, 2005.</segment>
+		<segment id="208" relname="antithesis"></segment>
+		<group id="209" type="span" parent="5" relname="preparation"/>
+		<group id="210" type="span" relname="antithesis"/>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="212" type="span" parent="7" relname="elaboration"/>
+		<group id="213" type="span" parent="6" relname="elaboration"/>
+		<group id="214" type="span" parent="216" relname="restatement"/>
+		<group id="215" type="span" parent="211" relname="joint"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="358" relname="cause"/>
+		<group id="219" type="span" parent="14" relname="elaboration"/>
+		<group id="220" type="span" parent="221" relname="joint"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="222" type="span" parent="223" relname="span"/>
+		<group id="223" type="span" relname="antithesis"/>
+		<group id="224" type="span" relname="antithesis"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="226" type="span" parent="22" relname="evidence"/>
+		<group id="227" type="span" parent="229" relname="span"/>
+		<group id="228" type="span" parent="349" relname="span"/>
+		<group id="229" type="span" parent="228" relname="elaboration"/>
+		<group id="230" type="span" relname="antithesis"/>
+		<group id="231" type="span" parent="238" relname="preparation"/>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="233" type="span" parent="238" relname="span"/>
+		<group id="234" type="span" parent="236" relname="joint"/>
+		<group id="235" type="span" parent="236" relname="joint"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="233" relname="evidence"/>
+		<group id="238" type="span" parent="241" relname="span"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="236" relname="joint"/>
+		<group id="241" type="span" relname="antithesis"/>
+		<group id="242" type="span" parent="243" relname="span"/>
+		<group id="243" type="span" parent="244" relname="cause"/>
+		<group id="244" type="span" parent="248" relname="span"/>
+		<group id="245" type="multinuc" parent="244" relname="span"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="245" relname="joint"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" relname="antithesis"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="251" type="span" parent="255" relname="span"/>
+		<group id="252" type="multinuc" parent="253" relname="span"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="251" relname="elaboration"/>
+		<group id="255" type="span" parent="353" relname="span"/>
+		<group id="258" type="span" parent="261" relname="span"/>
+		<group id="259" type="multinuc" parent="260" relname="span"/>
+		<group id="260" type="span" parent="264" relname="span"/>
+		<group id="261" type="span" parent="262" relname="contrast"/>
+		<group id="262" type="multinuc" parent="263" relname="span"/>
+		<group id="263" type="span" relname="antithesis"/>
+		<group id="264" type="span" parent="262" relname="contrast"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="280" relname="evidence"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="266" relname="same-unit"/>
+		<group id="270" type="span" parent="282" relname="span"/>
+		<group id="271" type="multinuc" parent="270" relname="span"/>
+		<group id="272" type="span" parent="271" relname="joint"/>
+		<group id="273" type="span" parent="274" relname="same-unit"/>
+		<group id="274" type="multinuc" parent="277" relname="span"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="274" relname="same-unit"/>
+		<group id="277" type="span" parent="283" relname="contrast"/>
+		<group id="278" type="multinuc" parent="279" relname="span"/>
+		<group id="279" type="span" parent="293" relname="span"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" relname="antithesis"/>
+		<group id="282" type="span" parent="70" relname="elaboration"/>
+		<group id="283" type="multinuc" parent="284" relname="span"/>
+		<group id="284" type="span" parent="80" relname="cause"/>
+		<group id="285" type="span" relname="antithesis"/>
+		<group id="286" type="span" parent="287" relname="span"/>
+		<group id="287" type="span" parent="288" relname="contrast"/>
+		<group id="288" type="multinuc" parent="289" relname="span"/>
+		<group id="289" type="span" parent="279" relname="elaboration"/>
+		<group id="290" type="span" parent="89" relname="evidence"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="290" relname="span"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" relname="antithesis"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" relname="antithesis"/>
+		<group id="297" type="multinuc" parent="295" relname="span"/>
+		<group id="298" type="span" parent="96" relname="evaluation"/>
+		<group id="299" type="span" parent="295" relname="attribution"/>
+		<group id="300" type="span" parent="99" relname="elaboration"/>
+		<group id="301" type="span" parent="305" relname="span"/>
+		<group id="302" type="multinuc" parent="303" relname="span"/>
+		<group id="303" type="span" parent="102" relname="elaboration"/>
+		<group id="304" type="span" parent="301" relname="elaboration"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" relname="antithesis"/>
+		<group id="307" type="span" parent="110" relname="background"/>
+		<group id="308" type="span" parent="315" relname="span"/>
+		<group id="309" type="span" parent="111" relname="condition"/>
+		<group id="310" type="span" parent="308" relname="elaboration"/>
+		<group id="311" type="multinuc" parent="314" relname="span"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="311" relname="same-unit"/>
+		<group id="314" type="span" parent="317" relname="restatement"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="restatement"/>
+		<group id="317" type="multinuc" parent="318" relname="span"/>
+		<group id="318" type="span" relname="antithesis"/>
+		<group id="319" type="span" parent="332" relname="span"/>
+		<group id="320" type="span" parent="119" relname="evaluation"/>
+		<group id="321" type="span" parent="322" relname="same-unit"/>
+		<group id="322" type="multinuc" parent="323" relname="span"/>
+		<group id="323" type="span" parent="319" relname="elaboration"/>
+		<group id="324" type="span" parent="322" relname="same-unit"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="123" relname="elaboration"/>
+		<group id="327" type="span" parent="328" relname="same-unit"/>
+		<group id="328" type="multinuc" parent="329" relname="span"/>
+		<group id="329" type="span" parent="125" relname="elaboration"/>
+		<group id="330" type="span" parent="124" relname="cause"/>
+		<group id="331" type="span" parent="122" relname="elaboration"/>
+		<group id="332" type="span" parent="333" relname="span"/>
+		<group id="333" type="span" relname="antithesis"/>
+		<group id="334" type="span" parent="335" relname="contrast"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="129" relname="elaboration"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" relname="antithesis"/>
+		<group id="339" type="span" relname="antithesis"/>
+		<group id="340" type="span" parent="344" relname="span"/>
+		<group id="341" type="multinuc" parent="342" relname="span"/>
+		<group id="342" type="span" parent="340" relname="elaboration"/>
+		<group id="343" type="span" parent="344" relname="concession"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="345" type="span" relname="antithesis"/>
+		<group id="347" type="span" parent="143" relname="purpose"/>
+		<group id="348" type="span" relname="antithesis"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" relname="antithesis"/>
+		<group id="351" type="multinuc" parent="352" relname="span"/>
+		<group id="352" type="span" parent="242" relname="purpose"/>
+		<group id="353" type="span" relname="antithesis"/>
+		<group id="354" type="multinuc" parent="355" relname="span"/>
+		<group id="355" type="span" parent="278" relname="contrast"/>
+		<group id="356" type="span" parent="288" relname="contrast"/>
+		<group id="357" type="span" parent="291" relname="comparison"/>
+		<group id="358" type="span" parent="359" relname="span"/>
+		<group id="359" type="span" relname="antithesis"/>
+		<group id="360" type="multinuc" relname="antithesis"/>
+  </body>
+</rst>

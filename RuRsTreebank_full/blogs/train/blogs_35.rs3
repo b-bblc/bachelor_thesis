@@ -1,0 +1,224 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://freshandfree.ru/posts/spine/</segment>
+		<segment id="2" >##### Жизнь за компьютером: к каким проблемам со спиной нас приводят гаджеты?</segment>
+		<segment id="3" parent="104" relname="contrast">##### С появлением смартфонов и ноутбуков нам стало заметно легче жить</segment>
+		<segment id="4" parent="104" relname="contrast">— чего не скажешь о нашем позвоночнике.</segment>
+		<segment id="5" parent="172" relname="span">Вот топ заболеваний, от которых все чаще страдают жители мегаполисов</segment>
+		<segment id="6" parent="5" relname="cause">из-за любви к гаджетам.</segment>
+		<segment id="7" parent="105" relname="joint">И, конечно, работающие советы, как можно помочь своей спине</segment>
+		<segment id="8" parent="106" relname="elaboration">##### IMG</segment>
+		<segment id="9" parent="198" relname="preparation">##### №1. «Компьютерная» шея</segment>
+		<segment id="10" parent="108" relname="span">##### У набирающего обороты синдрома есть еще второе название — i-горб,</segment>
+		<segment id="11" parent="10" relname="elaboration">которое намекает на чрезмерную увлеченность современного поколения устройствами известной марки.</segment>
+		<segment id="12" parent="174" relname="same-unit">Как правило,</segment>
+		<segment id="13" parent="14" relname="condition">держа в руках смартфон,</segment>
+		<segment id="14" parent="173" relname="span">пользователи непроизвольно наклоняют голову вперед,</segment>
+		<segment id="15" parent="110" relname="span">тем самым увеличивая давление на шейный отдел позвоночника.</segment>
+		<segment id="16" parent="112" relname="elaboration">Эта же проблема касается и тех, кто часами работает за компьютером в подобном положении.</segment>
+		<segment id="17" parent="113" relname="joint">Со временем синдром начинает напоминать о себе сильными и стреляющими болями в шее,</segment>
+		<segment id="18" parent="113" relname="joint">не исключено и появление небольшого горба в районе пятого-седьмого позвонков.</segment>
+		<segment id="19" parent="20" relname="solutionhood">##### Как лечить?</segment>
+		<segment id="20" parent="114" relname="span">Эффективным лечением синдрома «компьютерной» шеи считается курс мануальной терапии или лечебного массажа у опытного специалиста.</segment>
+		<segment id="21" parent="22" relname="condition">Исходя из запущенности медицинского случая,</segment>
+		<segment id="22" parent="175" relname="span">может потребоваться от четырех до шести сеансов,</segment>
+		<segment id="23" parent="115" relname="contrast">но большинство пациентов замечают облегчение уже после первого приема.</segment>
+		<segment id="24" parent="116" relname="elaboration">##### IMG</segment>
+		<segment id="25" parent="117" relname="preparation">##### Профилактика.</segment>
+		<segment id="26" parent="117" relname="span">Здоровье спины современного человека неразрывно связано с правильной организацией рабочего места</segment>
+		<segment id="27" parent="26" relname="condition">вне зависимости от того, где он работает — в офисе, коворкинге или дома.</segment>
+		<segment id="28" parent="122" relname="span">##### Идеальный вариант:</segment>
+		<segment id="29" parent="119" relname="span">##### - монитор находится на уровне глаз</segment>
+		<segment id="30" parent="29" relname="elaboration">(то же самое касается и любимого смартфона);</segment>
+		<segment id="31" parent="176" relname="span">##### - удобное кресло, на котором вы сидите с ровной спиной,</segment>
+		<segment id="32" parent="31" relname="condition">опираясь на поясницу;</segment>
+		<segment id="33" parent="120" relname="joint">##### - руки на столе под прямым углом;</segment>
+		<segment id="34" parent="121" relname="joint">##### - ноги не скрещивать,</segment>
+		<segment id="35" parent="121" relname="joint">можно поставить на подставку.</segment>
+		<segment id="36" parent="37" relname="cause">##### Не стоит забывать и про регулярную пятиминутную разминку верхнего плечевого пояса и шеи,</segment>
+		<segment id="37" parent="124" relname="span">она поможет справиться с напряжением.</segment>
+		<segment id="38" parent="125" relname="joint">Это должно быть вращение головы по кругу,</segment>
+		<segment id="39" parent="125" relname="joint">ее поочередные наклоны в разные стороны или запрокидывание вперед и назад.</segment>
+		<segment id="40" parent="196" relname="elaboration">##### IMG</segment>
+		<segment id="41" parent="130" relname="preparation">##### №2. Сколиоз</segment>
+		<segment id="42" parent="206" relname="span">##### Известное многим с детства искривление позвоночника.</segment>
+		<segment id="43" parent="128" relname="joint">Так называемый идиопатический сколиоз остается одним из самых распространенных ортопедических заболеваний у школьников,</segment>
+		<segment id="44" parent="128" relname="joint">но нередко с ним сталкиваются люди и во взрослой жизни.</segment>
+		<segment id="45" parent="191" relname="span">##### Здесь важно отметить, что у пациентов преклонного возраста часто встречается дегенеративный сколиоз — это износ позвоночника,</segment>
+		<segment id="46" parent="129" relname="contrast">связанный с естественным процессом старения,</segment>
+		<segment id="47" parent="129" relname="contrast">и к «компьютерному» образу жизни он не имеет отношения.</segment>
+		<segment id="48" parent="131" relname="span">##### Проблемы с осанкой, смещение спины в левую или правую сторону — основные признаки патологии.</segment>
+		<segment id="49" parent="132" relname="span">Их появление означает, что человек постоянно сидит за компьютером с перекосом в определенную сторону.</segment>
+		<segment id="50" parent="49" relname="evidence">В основном он непроизвольно выставляет вперед плечо той руки, которой он держит мышку или пишет.</segment>
+		<segment id="51" parent="52" relname="cause">Запущенные стадии заболевания</segment>
+		<segment id="52" parent="177" relname="span">чреваты серьезными последствиями для сердечно-сосудистой системы организма и внутренних органов в целом.</segment>
+		<segment id="53" parent="134" relname="solutionhood">##### Как лечить?</segment>
+		<segment id="54" parent="134" relname="span">В большинстве случаев пациентам назначают комплексный курс физиотерапии</segment>
+		<segment id="55" parent="54" relname="purpose">для укрепления и стабилизации позвоночника.</segment>
+		<segment id="56" parent="136" relname="joint">Специалисты также рекомендуют заниматься лечебной физкультурой,</segment>
+		<segment id="57" parent="136" relname="joint">чаще плавать</segment>
+		<segment id="58" parent="136" relname="joint">и посещать сеансы массажа.</segment>
+		<segment id="59" parent="137" relname="joint">В отдельных случаях могут быть показаны инъекции противовоспалительных препаратов.</segment>
+		<segment id="60" parent="187" relname="preparation">##### Профилактика.</segment>
+		<segment id="61" parent="185" relname="span">Помимо правильного рабочего места,</segment>
+		<segment id="62" parent="61" relname="background">о котором мы рассказали в предыдущем пункте,</segment>
+		<segment id="63" parent="186" relname="same-unit">благоприятный эффект на осанку и укрепление мышц спины в целом оказывает йога.</segment>
+		<segment id="64" parent="186" relname="elaboration">Регулярное выполнение асан поможет сохранить здоровье позвоночника на долгие годы.</segment>
+		<segment id="65" parent="197" relname="elaboration">##### IMG</segment>
+		<segment id="66" parent="201" relname="preparation">##### №3. Остеохондроз</segment>
+		<segment id="67" parent="68" relname="cause">##### Неправильная осанка, постоянный наклон головы у пользователей смартфонов и планшетов</segment>
+		<segment id="68" parent="178" relname="span">нередко приводит и к другому неприятному заболеванию — шейному остеохондрозу.</segment>
+		<segment id="69" parent="139" relname="span">Это разрушение межпозвоночных дисков,</segment>
+		<segment id="70" parent="138" relname="span">с которым сталкиваются люди после 30 лет</segment>
+		<segment id="71" parent="70" relname="concession">(хотя сейчас группа риска сильно «помолодела»).</segment>
+		<segment id="72" parent="140" relname="contrast">Человек с таким заболеванием поначалу испытывает только боль в шее,</segment>
+		<segment id="73" parent="140" relname="contrast">но со временем к этому симптому прибавляются мигрени, легкие головокружения, появление «мушек» перед глазами.</segment>
+		<segment id="74" parent="142" relname="joint">Самым точным методом диагностики болезни остаются МРТ и КТ,</segment>
+		<segment id="75" parent="165" relname="condition">и чем раньше будет выявлено заболевание,</segment>
+		<segment id="76" parent="165" relname="same-unit">тем выше шанс, что</segment>
+		<segment id="77" parent="78" relname="purpose">для выздоровления</segment>
+		<segment id="78" parent="141" relname="span">не потребуется операция.</segment>
+		<segment id="79" parent="181" relname="elaboration">##### IMG</segment>
+		<segment id="80" parent="143" relname="solutionhood">##### Как лечить?</segment>
+		<segment id="81" parent="82" relname="condition">Исходя из стадии шейного остеохондроза,</segment>
+		<segment id="82" parent="143" relname="span">врач-невролог назначает комплекс амбулаторного лечения, состоящего из курса противовоспалительных инъекций, аутоплазмотерапии, лечебного массажа и мануальной терапии, а также ношения корректирующего белья.</segment>
+		<segment id="83" parent="84" relname="purpose">Как правило, прохождение всего курса и соблюдение рекомендаций врача</segment>
+		<segment id="84" parent="184" relname="span">позволяет пациенту вернуться к здоровой жизни.</segment>
+		<segment id="85" parent="86" relname="preparation">##### Профилактика.</segment>
+		<segment id="86" parent="146" relname="span">Хорошей профилактикой остеохондроза станет плавание в бассейне, в частности, на спине.</segment>
+		<segment id="87" parent="147" relname="joint">К этому необходимо добавить регулярную утреннюю зарядку, пятиминутную разминку на рабочем месте, самомассаж плеч и шеи.</segment>
+		<segment id="88" parent="147" relname="elaboration">##### IMG</segment>
+		<segment id="89" parent="209" relname="preparation">##### №4. Формирование миофасциальных триггерных точек</segment>
+		<segment id="90" parent="148" relname="span">##### Неврологический синдром, который является причиной боли в голове и шее у 80% людей в возрасте до 40 лет.</segment>
+		<segment id="91" parent="92" relname="cause">Из-за постоянного напряжения в спине и офисной работы</segment>
+		<segment id="92" parent="149" relname="span">у многих пациентов формируются небольшие болезненные узелки в мышцах — так называемые триггерные точки.</segment>
+		<segment id="93" parent="149" relname="cause">Они появляются вследствие долговременного нахождения в неудобной позе, напряжения и микротравм мышц.</segment>
+		<segment id="94" parent="151" relname="joint">Особенность миофасциального синдрома в том, что боль может отдавать в грудной отдел спины</segment>
+		<segment id="95" parent="151" relname="joint">и провоцировать мигрень.</segment>
+		<segment id="96" parent="152" relname="elaboration">##### IMG</segment>
+		<segment id="97" parent="98" relname="solutionhood">##### Как лечить?</segment>
+		<segment id="98" parent="154" relname="span">К действенным методам лечения относится мануальная терапия, аутоплазмотерапия и курс противовоспалительных инъекций.</segment>
+		<segment id="99" parent="155" relname="joint">На приеме врач-невролог составит необходимый план лечения, учитывая количество триггерных точек и их локализацию.</segment>
+		<segment id="100" parent="101" relname="preparation">##### Профилактика.</segment>
+		<segment id="101" parent="208" relname="span">Образованию мышечных узелков препятствуют поддержание правильной осанки по время работы, регулярные занятия йогой, массаж и плавание.</segment>
+		<segment id="102" parent="208" relname="elaboration">##### IMG</segment>
+		<segment id="103" >##### Подписывайтесь на нас в соцсетях — это удобно: - Telegram - Instagram - Facebook - ВКонтакте - Яндекс.Дзен - ЖЖ</segment>
+		<group id="104" type="multinuc" parent="105" relname="preparation"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" />
+		<group id="108" type="span" parent="110" relname="preparation"/>
+		<group id="110" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="158" relname="span"/>
+		<group id="113" type="multinuc" parent="158" relname="elaboration"/>
+		<group id="114" type="span" parent="116" relname="span"/>
+		<group id="115" type="multinuc" parent="114" relname="elaboration"/>
+		<group id="116" type="span" parent="205" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" parent="123" relname="span"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="120" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="121" type="multinuc" parent="120" relname="joint"/>
+		<group id="122" type="span" parent="118" relname="elaboration"/>
+		<group id="123" type="span" parent="161" relname="joint"/>
+		<group id="124" type="span" parent="196" relname="span"/>
+		<group id="125" type="multinuc" parent="124" relname="elaboration"/>
+		<group id="126" type="span" parent="161" relname="joint"/>
+		<group id="127" type="span" parent="130" relname="joint"/>
+		<group id="128" type="multinuc" parent="42" relname="background"/>
+		<group id="129" type="multinuc" parent="45" relname="cause"/>
+		<group id="130" type="multinuc" parent="192" relname="span"/>
+		<group id="131" type="span" parent="133" relname="span"/>
+		<group id="132" type="span" parent="48" relname="elaboration"/>
+		<group id="133" type="span" parent="207" relname="joint"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" parent="137" relname="joint"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="137" type="multinuc" parent="164" relname="joint"/>
+		<group id="138" type="span" parent="69" relname="elaboration"/>
+		<group id="139" type="span" parent="178" relname="elaboration"/>
+		<group id="140" type="multinuc" parent="179" relname="elaboration"/>
+		<group id="141" type="span" parent="165" relname="same-unit"/>
+		<group id="142" type="multinuc" parent="180" relname="evaluation"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" parent="166" relname="joint"/>
+		<group id="146" type="span" parent="147" relname="joint"/>
+		<group id="147" type="multinuc" parent="203" relname="span"/>
+		<group id="148" type="span" parent="152" relname="span"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" parent="90" relname="elaboration"/>
+		<group id="151" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="152" type="span" parent="195" relname="span"/>
+		<group id="154" type="span" parent="155" relname="joint"/>
+		<group id="155" type="multinuc" parent="169" relname="joint"/>
+		<group id="156" type="span" parent="169" relname="joint"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" parent="198" relname="joint"/>
+		<group id="161" type="multinuc" parent="204" relname="joint"/>
+		<group id="164" type="multinuc" parent="130" relname="joint"/>
+		<group id="165" type="multinuc" parent="193" relname="span"/>
+		<group id="166" type="multinuc" parent="167" relname="span"/>
+		<group id="167" type="span" parent="201" relname="joint"/>
+		<group id="169" type="multinuc" parent="209" relname="joint"/>
+		<group id="170" type="span" />
+		<group id="172" type="span" parent="105" relname="joint"/>
+		<group id="173" type="span" parent="174" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="15" relname="cause"/>
+		<group id="175" type="span" parent="115" relname="contrast"/>
+		<group id="176" type="span" parent="120" relname="joint"/>
+		<group id="177" type="span" parent="131" relname="elaboration"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="202" relname="span"/>
+		<group id="182" type="span" />
+		<group id="184" type="span" parent="144" relname="elaboration"/>
+		<group id="185" type="span" parent="186" relname="same-unit"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="187" type="span" parent="197" relname="span"/>
+		<group id="188" type="span" parent="164" relname="joint"/>
+		<group id="191" type="span" parent="207" relname="joint"/>
+		<group id="192" type="span" />
+		<group id="193" type="span" parent="142" relname="joint"/>
+		<group id="195" type="span" parent="209" relname="joint"/>
+		<group id="196" type="span" parent="126" relname="span"/>
+		<group id="197" type="span" parent="188" relname="span"/>
+		<group id="198" type="multinuc" parent="200" relname="span"/>
+		<group id="200" type="span" />
+		<group id="201" type="multinuc" parent="182" relname="span"/>
+		<group id="202" type="span" parent="201" relname="joint"/>
+		<group id="203" type="span" parent="166" relname="joint"/>
+		<group id="204" type="multinuc" parent="198" relname="joint"/>
+		<group id="205" type="span" parent="204" relname="joint"/>
+		<group id="206" type="span" parent="127" relname="span"/>
+		<group id="207" type="multinuc" parent="206" relname="elaboration"/>
+		<group id="208" type="span" parent="156" relname="span"/>
+		<group id="209" type="multinuc" parent="170" relname="span"/>
+	</body>
+</rst>

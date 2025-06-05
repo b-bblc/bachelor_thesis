@@ -1,0 +1,148 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://ru-travel.livejournal.com/33777634.html</segment>
+		<segment id="2" >##### Тень Вендена: Цесис и его замок (Латвия).</segment>
+		<segment id="3" parent="65" relname="contrast">##### Ныне Цесис - маленький (всего 15 тыс. жителей) провинциальный городок в 90 км к северо-востоку от Риги.</segment>
+		<segment id="4" parent="64" relname="same-unit">В Средние же века он назывался Венденом и,</segment>
+		<segment id="5" parent="6" relname="condition">находясь на перекрёстке важных торговых путей между Русью, Литвой и Ливонией,</segment>
+		<segment id="6" parent="63" relname="span">играл очень важную роль.</segment>
+		<segment id="7" parent="66" relname="contrast">Местный замок служил резиденцией магистра Ливонского ордена.</segment>
+		<segment id="8" parent="66" relname="contrast">Теперь это крупнейший из сохранившихся в Латвии орденских замков.</segment>
+		<segment id="9" parent="65" relname="elaboration">##### IMG</segment>
+		<segment id="10" parent="69" relname="span">##### Как и большинство других замков той поры, до наших дней Цесисский (Венденский) замок дошел в виде руин,</segment>
+		<segment id="11" parent="10" relname="concession">дающих, тем не менее, хорошее представление о масштабах сооружения.</segment>
+		<segment id="12" parent="69" relname="elaboration">##### Далее 20 фото:</segment>
+		<segment id="13" parent="82" relname="sequence">##### Немного истории: Венденский замок был построен рыцарями ордена Меченосцев приблизительно в 1209-1213гг.,</segment>
+		<segment id="14" parent="116" relname="joint">а после его разгрома в 1237г перешел Ливонскому ордену (впоследствии Ливонскому ландмейстерству Тевтонского ордена)</segment>
+		<segment id="15" parent="116" relname="joint">и, наряду с Рижским замком, использовался как резиденция его магистра.</segment>
+		<segment id="16" parent="83" relname="elaboration">##### IMG На первом плане Южная башня, за ней Западная (с красной крышей).</segment>
+		<segment id="17" parent="18" relname="evaluation">##### История замка была очень бурной.</segment>
+		<segment id="18" parent="73" relname="span">Кто его только не осаждал - сначала местные племена, затем русичи, литовцы, Рижский архиепископ и так далее.</segment>
+		<segment id="19" parent="74" relname="contrast">Город Венден разрушался неоднократно,</segment>
+		<segment id="20" parent="74" relname="contrast">а вот замку почти все осады удавалось выдерживать.</segment>
+		<segment id="21" parent="117" relname="elaboration">##### IMG</segment>
+		<segment id="22" parent="76" relname="span">##### В 1577г в ходе Ливонской войны замок был взят войском Ивана Грозного,</segment>
+		<segment id="23" parent="22" relname="elaboration">причем оставшиеся защитники предпочли подорвать себя в пороховом погребе.</segment>
+		<segment id="24" parent="25" relname="cause">Но удержать замок, как и всю Ливонию, русские войска не смогли,</segment>
+		<segment id="25" parent="78" relname="span">и в конце концов эта местность досталась шведам.</segment>
+		<segment id="26" parent="86" relname="sequence">В 17-м веке Венденский замок несколько раз переходил из рук в руки в ходе польско-шведских войн,</segment>
+		<segment id="27" parent="86" relname="sequence">пока в 1703г во время Северной войны не был занят русскими войсками под командованием Петра I.</segment>
+		<segment id="28" parent="79" relname="joint">##### С этого времени замок утрачивает всякое военное значение,</segment>
+		<segment id="29" parent="79" relname="joint">приходит в упадок</segment>
+		<segment id="30" parent="79" relname="joint">и понемногу растаскивается на стройматериалы местными жителями.</segment>
+		<segment id="31" parent="79" relname="elaboration">##### IMG</segment>
+		<segment id="32" parent="81" relname="joint">##### Реставрационные работы впервые были проведены в 1912-13гг,</segment>
+		<segment id="33" parent="81" relname="joint">и с большими перерывами велись до наших дней.</segment>
+		<segment id="34" parent="122" relname="span">Лучше всего отреставрирована Западная башня:</segment>
+		<segment id="35" parent="122" relname="elaboration">##### IMG Внутренности замка за южной стеной - когда-то здесь находились парадные и жилые помещения: IMG Замковый двор, вид на восточную стену: IMG Вид на южную стену и Западную башню со двора: IMG</segment>
+		<segment id="36" parent="123" relname="span">##### В башню можно (и нужно) зайти.</segment>
+		<segment id="37" parent="96" relname="same-unit">Посетителям</segment>
+		<segment id="38" parent="39" relname="condition">при входе</segment>
+		<segment id="39" parent="95" relname="span">выдают фонарь (старинный, железный, со свечой внутри).</segment>
+		<segment id="40" parent="90" relname="contrast">Можно, конечно, его не брать,</segment>
+		<segment id="41" parent="91" relname="span">но тогда у вас обязательно должен быть фонарик,</segment>
+		<segment id="42" parent="41" relname="cause">т.к. искусственного освещения в башне нет.</segment>
+		<segment id="43" parent="124" relname="span">##### На узких винтовых лестницах - тьма кромешная:</segment>
+		<segment id="44" parent="43" relname="elaboration">##### IMG (фонарик обязателен!) ##### Второй этаж башни: IMG Потолок здесь был непростой: IMG Верхний этаж: IMG</segment>
+		<segment id="45" parent="100" relname="joint">##### Сверху есть еще галерея, накрытая деревянной шатровой крышей.</segment>
+		<segment id="46" parent="100" relname="joint">##### Вид с башни на замковый двор.</segment>
+		<segment id="47" parent="101" relname="background">В эпоху расцвета замок занимал заметно большую площадь - от внешнего кольца стен и башен почти ничего не осталось: IMG</segment>
+		<segment id="48" parent="102" relname="elaboration">##### Вид в сторону Южной башни. За ней видна красная крыша и башня Нового замка: IMG</segment>
+		<segment id="49" parent="127" relname="span">##### Рядом с Орденским замком находится Новый замок,</segment>
+		<segment id="50" parent="49" relname="background">построенный в 18-м веке IMG</segment>
+		<segment id="51" parent="126" relname="span">##### Внутри, кроме прочего, расположен небольшой музей:</segment>
+		<segment id="52" parent="51" relname="elaboration">##### IMG</segment>
+		<segment id="53" parent="130" relname="span">##### У Нового замка тоже есть башня, на которую можно подняться и обозреть город Цесис сверху:</segment>
+		<segment id="54" parent="53" relname="elaboration">##### IMG IMG</segment>
+		<segment id="55" parent="129" relname="span">##### Вид на юг, на церковь Св.Иоанна:</segment>
+		<segment id="56" parent="55" relname="elaboration">##### IMG</segment>
+		<segment id="57" parent="107" relname="contrast">##### Этот храм был в свое время главной церковью Ливонского ордена.</segment>
+		<segment id="58" parent="107" relname="contrast">Ныне это крупнейшая средневековая церковь в Латвии за пределами Риги.</segment>
+		<segment id="59" parent="108" relname="span">К большому сожалению, замечательные старинные витражи,</segment>
+		<segment id="60" parent="59" relname="background">некогда украшавшие её,</segment>
+		<segment id="61" parent="109" relname="same-unit">почти все были уничтожены во время Великой Отечественной войны.</segment>
+		<segment id="62" parent="131" relname="elaboration">##### IMG Ну и пара фото самого города Цесис: Площадь Vienibas (Единства) с обелиском в честь боев латышей и эстонцев против германского ландвера в 1919г: IMG Характерная улица в центре города: IMG</segment>
+		<group id="63" type="span" parent="64" relname="same-unit"/>
+		<group id="64" type="multinuc" parent="68" relname="span"/>
+		<group id="65" type="multinuc" parent="70" relname="span"/>
+		<group id="66" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="67" type="span" parent="65" relname="contrast"/>
+		<group id="68" type="span" parent="67" relname="span"/>
+		<group id="69" type="span" parent="72" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" />
+		<group id="72" type="span" parent="70" relname="elaboration"/>
+		<group id="73" type="span" parent="117" relname="span"/>
+		<group id="74" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="75" type="span" parent="89" relname="span"/>
+		<group id="76" type="span" parent="77" relname="contrast"/>
+		<group id="77" type="multinuc" parent="85" relname="sequence"/>
+		<group id="78" type="span" parent="77" relname="contrast"/>
+		<group id="79" type="multinuc" parent="118" relname="span"/>
+		<group id="81" type="multinuc" parent="34" relname="preparation"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="84" type="span" parent="75" relname="preparation"/>
+		<group id="85" type="multinuc" parent="119" relname="sequence"/>
+		<group id="86" type="multinuc" parent="85" relname="sequence"/>
+		<group id="89" type="span" />
+		<group id="90" type="multinuc" parent="96" relname="concession"/>
+		<group id="91" type="span" parent="90" relname="contrast"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" />
+		<group id="95" type="span" parent="96" relname="same-unit"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="97" type="span" parent="36" relname="elaboration"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="125" relname="elaboration"/>
+		<group id="105" type="span" parent="113" relname="span"/>
+		<group id="107" type="multinuc" parent="131" relname="span"/>
+		<group id="108" type="span" parent="109" relname="same-unit"/>
+		<group id="109" type="multinuc" parent="107" relname="elaboration"/>
+		<group id="110" type="span" parent="129" relname="elaboration"/>
+		<group id="113" type="span" />
+		<group id="114" type="span" parent="130" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="82" relname="sequence"/>
+		<group id="117" type="span" parent="75" relname="span"/>
+		<group id="118" type="span" parent="119" relname="sequence"/>
+		<group id="119" type="multinuc" />
+		<group id="120" type="span" parent="93" relname="preparation"/>
+		<group id="122" type="span" parent="120" relname="span"/>
+		<group id="123" type="span" parent="125" relname="span"/>
+		<group id="124" type="span" parent="123" relname="elaboration"/>
+		<group id="125" type="span" parent="93" relname="span"/>
+		<group id="126" type="span" parent="127" relname="elaboration"/>
+		<group id="127" type="span" parent="105" relname="span"/>
+		<group id="128" type="span" parent="105" relname="elaboration"/>
+		<group id="129" type="span" parent="114" relname="span"/>
+		<group id="130" type="span" parent="128" relname="span"/>
+		<group id="131" type="span" parent="110" relname="span"/>
+	</body>
+</rst>

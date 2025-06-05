@@ -1,0 +1,300 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Адрес статьи: www.gramota.net/materials/272015/5-1/23.html</segment>
+		<segment id="2" relname="antithesis">Источник  Филологические науки. Вопросы теории и практики</segment>
+		<segment id="3" relname="antithesis">Тамбов: Грамота, 2015. № 5 (47): в 2-х ч. Ч. I. C. 103-106. ISSN 1997-2911.</segment>
+		<segment id="4" relname="antithesis">Адрес журнала: www.gramota.net/editions/2.html</segment>
+		<segment id="5" relname="antithesis">Содержание данного номера журнала: www .gramota.net/mate rials/2/2015/5-1/</segment>
+		<segment id="6" relname="antithesis">© Издательство "Грамота"</segment>
+		<segment id="7" relname="antithesis">УДК 378.016:811.133.1 Педагогические науки</segment>
+		<segment id="8" relname="antithesis">Данная статья посвящена методическим вопросам обучения второму иностранному языку на языковом факультете.</segment>
+		<segment id="9" relname="antithesis">Проанализированы принципы обучения второму иностранному языку в языковом вузе, явления интерференции и переноса, возникающие в условиях трилингвизма.</segment>
+		<segment id="10" relname="antithesis">Рассмотрена специфика обучения французскому языку как второму иностранному при первом английском.</segment>
+		<segment id="11" relname="antithesis">Ключевые слова и фразы: второй иностранный язык; принципы обучения; трилингвизм; интерференция; перенос.</segment>
+		<segment id="12" relname="antithesis">Киреева Зарима Ренатовна, к. пед. н., доцент Галимова Халида Халитовна, к. пед. н., доцент</segment>
+		<segment id="13" relname="antithesis">Башкирский государственный педагогический университет им. М. Акмуллы</segment>
+		<segment id="14" relname="antithesis">metodika- fr@yandex.ru; khalidagalimova@rambler.ru</segment>
+		<segment id="15" relname="antithesis">ОСОБЕННОСТИ ОБУЧЕНИЯ ФРАНЦУЗСКОМУ ЯЗЫКУ КАК ВТОРОМУ ИНОСТРАННОМУ НА ЯЗЫКОВОМ ФАКУЛЬТЕТЕ ©</segment>
+		<segment id="16" relname="antithesis">В соответствии с учебными планами, студенты бакалавриата и магистратуры, осваивающие основную образовательную программу по направлению «Педагогическое образование», профиль «Иностранные языки» (программа «Языковое образование») и по направлению «Лингвистика», профиль «Перевод и переводо-ведение», «Теория и методика преподавания иностранных языков и культур» (программы «Теория и практика переводческой деятельности» и «Иностранные языки в международном туристическом бизнесе»), изучают два или три иностранных языка.</segment>
+		<segment id="17" parent="154" relname="preparation">В течение нескольких последних десятилетий проблемы обучения второму иностранному языку в образовательных учреждениях среднего и высшего образования являлись предметом научных изысканий многих отечественных исследователей (Н. В. Барышников, И. Л. Бим, Н. Д. Гальскова, И. И. Китросская, Б. А. Лапидус, А. В. Щепилова, Л. Н. Ястребова и др.).</segment>
+		<segment id="18" parent="152" relname="joint">Выявлены психолингвистические закономерности овладения вторым иностранным языком,</segment>
+		<segment id="19" parent="152" relname="joint">определены теоретические основы и концепция обучения второму иностранному языку,</segment>
+		<segment id="20" parent="152" relname="joint">изучены принципы и особенности обучения второму иностранному языку в школе и вузе.</segment>
+		<segment id="21" parent="153" relname="elaboration">В своих трудах методисты выделяют важнейшие принципы обучения второму иностранному языку.</segment>
+		<segment id="22" parent="158" relname="attribution">Согласно концепции И. Л. Бим,</segment>
+		<segment id="23" parent="158" relname="span">к последним следует отнести следующие основополагающие принципы:</segment>
+		<segment id="24" parent="156" relname="joint">1) коммуникативно-когнитивный;</segment>
+		<segment id="25" parent="156" relname="joint">2) дифференциации обучения;</segment>
+		<segment id="26" parent="156" relname="joint">3) социокультурной направленности;</segment>
+		<segment id="27" parent="156" relname="joint">4) усиление деятельностного характера обучения;</segment>
+		<segment id="28" parent="156" relname="joint">5) взаимосвязанного развития всех видов речевой деятельности;</segment>
+		<segment id="29" parent="156" relname="joint">6) сопоставительный подход, возведенный в ранг принципа;</segment>
+		<segment id="30" parent="156" relname="joint">7) интенсификации обучения [2].</segment>
+		<segment id="31" parent="161" relname="attribution">Н. В. Барышниковым выделены следующие принципы:</segment>
+		<segment id="32" parent="160" relname="joint">1) межкультурной направленности;</segment>
+		<segment id="33" parent="160" relname="joint">2) когнитивно-интеллектуальной направленности;</segment>
+		<segment id="34" parent="160" relname="joint">3) обстоятельности;</segment>
+		<segment id="35" parent="160" relname="joint">4) рационального сочетания сознательного и бессознательного;</segment>
+		<segment id="36" parent="160" relname="joint">5) учета искусственного субординативного трилингвизма;</segment>
+		<segment id="37" parent="160" relname="joint">6) учета лингвистического и учебного опыта обучающихся в обучении второму иностранному языку [1].</segment>
+		<segment id="38" parent="166" relname="evaluation">Представляют интерес результаты исследования Л. Н. Ястребовой,</segment>
+		<segment id="39" parent="165" relname="attribution">которая выявила следующие принципы обучения второму иностранному языку в языковом вузе:</segment>
+		<segment id="40" parent="164" relname="joint">1) опоры и комплиментарной связи с первым иностранным языком;</segment>
+		<segment id="41" parent="164" relname="joint">2) конструктивного сотрудничества преподавателя и студентов;</segment>
+		<segment id="42" parent="164" relname="joint">3) спиралевидной прогрессии, реализующий идеи интенсификации и экстенсификации обучения/изучения второго иностранного языка [10].</segment>
+		<segment id="43" parent="44" relname="attribution">По мнению Л. Н. Ястребовой,</segment>
+		<segment id="44" parent="168" relname="span">принцип опоры и комплиментарной связи с первым иностранным языком предполагает не только систематизацию имеющегося лингвистического опыта обучающихся в родном и изучаемых языках, но и аккумуляцию их методического опыта, необходимого будущим учителям для осуществления педагогической деятельности.</segment>
+		<segment id="45" parent="169" relname="joint">Реализация принципа конструктивного сотрудничества преподавателя и студентов возможна через активное вовлечение обучающихся в планирование и организацию образовательного процесса, развитие у них чувства ответственности за результаты совместной деятельности.</segment>
+		<segment id="46" parent="169" relname="joint">Принцип спиралевидной прогрессии предполагает цикличность изучения материала, возврат к ранее изученному с постепенным его углублением и расширением [Там же].</segment>
+		<segment id="47" parent="48" relname="preparation">Изучение вопросов, связанных с методикой обучения второму иностранному языку, требует анализа такого лингвистического явления как трилингвизм.</segment>
+		<segment id="48" parent="172" relname="span">Ученые определяют трилингвизм как сложное явление сосуществования трех языков в речевой и умственной сфере индивида (Л. С. Выготский, Е. М. Верещагин, И. А. Зимняя и др.).</segment>
+		<segment id="49" parent="50" relname="evidence">Результаты психологических и педагогических экспериментов свидетельствуют о том,</segment>
+		<segment id="50" parent="268" relname="span">что в условиях контактирования трех языков в процессе овладения вторым иностранным языком возникают две закономерности: \- проблемы интерференции как со стороны родного языка, так и со стороны первого иностранного; \- возможности для переноса.</segment>
+		<segment id="51" parent="177" relname="span">В научной литературе можно найти множество дефиниций данных понятий.</segment>
+		<segment id="52" parent="173" relname="span">В качестве рабочего определения понятия «интерференция» мы взяли трактовку Т. Н. Киселевой, которая рассматривает это явление как процесс конфликтного взаимодействия речевых механизмов, обусловленный объективными различиями,</segment>
+		<segment id="53" relname="antithesis">© Киреева З. Р., Галимова Х. Х., 2015</segment>
+		<segment id="54" parent="174" relname="span">который в речи проявляется в отклонении от закономерностей одного языка</segment>
+		<segment id="55" parent="176" relname="joint">под негативным влиянием другого</segment>
+		<segment id="56" parent="176" relname="joint">или вследствие внутриязыковых воздействий аналогичного характера [5].</segment>
+		<segment id="57" parent="185" relname="span">В методике под переносом понимают положительное влияние родного или первого иностранного языка на второй.</segment>
+		<segment id="58" parent="179" relname="joint">И. И. Китросская рассматривает перенос как сложное явление человеческой психики</segment>
+		<segment id="59" parent="179" relname="joint">и утверждает, что скрытый механизм межъязыкового переноса позволяет использовать в умственной и моторной деятельности то, что уже известно, в новых обстоятельствах.</segment>
+		<segment id="60" parent="183" relname="joint">На процесс межъязыкового переноса влияют сходство материала, степень его усвоения, уровень владения первым иностранным языком, лингвистический опыт и индивидуально-психологические особенности обучаемых и т.п. [6].</segment>
+		<segment id="61" parent="181" relname="span">Результаты многочисленных исследований подтверждают важность высокого уровня владения первым иностранным языком</segment>
+		<segment id="62" parent="61" relname="purpose">для эффективного переноса при изучении второго иностранного языка [2; 6; 7].</segment>
+		<segment id="63" parent="64" relname="evidence">Как показывает опыт,</segment>
+		<segment id="64" parent="276" relname="span">перенос возможен на речемыслительном, лингвистическом, социокультурном уровнях, а также на уровне учебных умений.</segment>
+		<segment id="65" parent="66" relname="preparation">В публикациях последних лет рассматриваются отдельные аспекты обучения второму иностранному языку в языковом вузе [3; 10].</segment>
+		<segment id="66" parent="186" relname="span">Предметом данной статьи является изучение методических вопросов формирования у студентов фонетических, лексических и грамматических навыков на французском языке при первом английском.</segment>
+		<segment id="67" parent="68" relname="evidence">Результаты ранее проведенных исследований свидетельствуют о том,</segment>
+		<segment id="68" parent="187" relname="span">что уже с первых занятий по второму иностранному языку можно начинать целенаправленную работу по распознаванию и анализу словарных совпадений русского и изучаемых иностранных языков.</segment>
+		<segment id="69" parent="70" relname="attribution">По мнению психологов,</segment>
+		<segment id="70" parent="189" relname="span">более эффективными и отвечающими особенностям возраста студентов оказываются аналитические формы работы, систематизация и сравнение языковых фактов.</segment>
+		<segment id="71" parent="194" relname="attribution">По подсчетам лингвистов,</segment>
+		<segment id="72" parent="195" relname="joint">лексический запас французского языка на 65% латинского происхождения,</segment>
+		<segment id="73" parent="195" relname="joint">слова, пришедшие из английского языка, составляют в нем около 2% лексики;</segment>
+		<segment id="74" parent="197" relname="comparison">в современном английском языке около 75% всех употребляемых слов по происхождению французские и латинские.</segment>
+		<segment id="75" parent="198" relname="elaboration">Кроме того, в активном словаре русского, английского и французского языков насчитывается около 10% интернациональной лексики.</segment>
+		<segment id="76" parent="200" relname="span">Именно поэтому можно утверждать, что умение выявлять и анализировать лексические совпадения русского, английского и французского языков облегчает процесс овладения данными языками.</segment>
+		<segment id="77" parent="203" relname="span">Однако следует подчеркнуть, что доля положительного переноса значительна лишь при зрительном восприятии и узнавании.</segment>
+		<segment id="78" parent="204" relname="span">Несовпадение объема значений слов во французском и английском языках порождает интерференцию как в рецепции, так и в продукции.</segment>
+		<segment id="79" parent="78" relname="elaboration">Например: Французский язык Английский язык caractre (характер) character (герой произведения) place (место, площадь) place (место) large (широкий) large (большой) rester (оставаться) to rest (отдыхать)</segment>
+		<segment id="80" parent="208" relname="attribution">По мнению исследователей,</segment>
+		<segment id="81" parent="207" relname="span">на выбор слов в речи на втором иностранном языке, т.е. в продуктивных видах речевой деятельности, первый иностранный язык оказывает влияние только в том случае,</segment>
+		<segment id="82" parent="81" relname="condition">если имеется формальное сходство (напр., звуковая и графическая форма) слов первого и второго иностранных языков [8].</segment>
+		<segment id="83" parent="210" relname="span">Таким образом, словарные совпадения можно разделить на две группы: звуковые и графические,</segment>
+		<segment id="84" parent="216" relname="span">которые, в свою очередь, могут быть полными и неполными.</segment>
+		<segment id="85" parent="211" relname="span">К полным графическим соответствиям можно отнести:</segment>
+		<segment id="86" parent="85" relname="elaboration">Французский язык Английский язык une question a question une table a table un village a village une page a page</segment>
+		<segment id="87" parent="212" relname="span">Неполные графические соответствия порождают интерференцию на письме:</segment>
+		<segment id="88" parent="87" relname="elaboration">Французский язык Английский язык un texte a text un verbe a verb un exercice an exercise un exemple an example une adresse an address une leon a lesson</segment>
+		<segment id="89" parent="213" relname="sequence">Методисты рекомендуют начинать с полных соответствий,</segment>
+		<segment id="90" parent="213" relname="sequence">а по мере выработки навыка узнавания переходить к работе с неполными совпадениями, используя проблемно-поисковую технологию концептуализации знания.</segment>
+		<segment id="91" parent="217" relname="span">В процессе формирования лексических навыков важно ознакомление обучающихся со словообразовательными механизмами французского языка.</segment>
+		<segment id="92" parent="91" relname="elaboration">Работу по обучению способам словообразования необходимо проводить на лексическом материале базового учебника.</segment>
+		<segment id="93" parent="218" relname="sequence">Преподавателю необходимо провести анализ подлежащего усвоению языкового материала</segment>
+		<segment id="94" parent="218" relname="sequence">и выделить явления, которые могут быть объектом переноса или же источником интерферирующего влияния со стороны родного или первого иностранного языка.</segment>
+		<segment id="95" parent="220" relname="span">Например, препозиция прилагательного в русском и английском языках служит источником интерференции при изучении французского как второго иностранного языка на базе английского.</segment>
+		<segment id="96" parent="95" relname="elaboration">В качестве примера приведем следующие словосочетания на трех языках: рус.: зеленое яблоко; англ.: a green apple; фр.: une pomme verte.</segment>
+		<segment id="97" parent="98" relname="evidence">Результаты ранее проведенных исследований свидетельствуют о том,</segment>
+		<segment id="98" parent="222" relname="span">что необходима специальная активизация элементов, совпадающих с родным языком, но не совпадающих с первым иностранным языком.</segment>
+		<segment id="99" parent="230" relname="background">Так, для русского и французского языков важным признаком атрибутивных словосочетаний является согласование.</segment>
+		<segment id="100" parent="229" relname="contrast">При изучении французского как первого иностранного языка специально не тренируется согласование прилагательного с существительным в роде и числе.</segment>
+		<segment id="101" parent="223" relname="condition">Но если эта практика переносится на методику обучения французскому языку на базе английского,</segment>
+		<segment id="102" parent="223" relname="span">то результатом будут устойчивые ошибки студентов</segment>
+		<segment id="103" parent="224" relname="span">вследствие интерферирующего влияния английского языка,</segment>
+		<segment id="104" parent="103" relname="elaboration">для которого характерно примыкание [4].</segment>
+		<segment id="105" parent="228" relname="span">Реализация сопоставительного подхода при обучении второму иностранному языку предполагает побуждение студентов к сравнению языков, выявлению черт сходства и различия между ними</segment>
+		<segment id="106" parent="226" relname="joint">для предотвращения интерференции</segment>
+		<segment id="107" parent="226" relname="joint">и осуществления положительного переноса.</segment>
+		<segment id="108" parent="240" relname="span">Наибольшие трудности подстерегают студентов, изучающих французский язык после английского, на фонетическом уровне.</segment>
+		<segment id="109" parent="235" relname="span">Речь идет о трудностях,</segment>
+		<segment id="110" parent="109" relname="cause">обусловленных интерференцией первого английского языка на второй французский.</segment>
+		<segment id="111" parent="238" relname="span">Фонетическая интерференция проявляется из-за:</segment>
+		<segment id="112" parent="236" relname="joint">1) разной степени специализации фонемных признаков;</segment>
+		<segment id="113" parent="236" relname="joint">2) особенностей распределения артикуляционного напряжения;</segment>
+		<segment id="114" parent="236" relname="joint">3) разной вариативности и количества артикуляционных движений, свойственных ранее изученным языкам [9].</segment>
+		<segment id="115" parent="241" relname="span">Влияние артикуляции английского языка на постановку французского произношения связано</segment>
+		<segment id="116" parent="244" relname="span">с распределением артикуляционного напряжения.</segment>
+		<segment id="117" parent="242" relname="comparison">Во французском языке большую роль играет лабиализация гласных звуков,</segment>
+		<segment id="118" parent="242" relname="comparison">в нем также больше губных согласных.</segment>
+		<segment id="119" parent="245" relname="span">Таким образом, во французском языке превалируют звуки, образуемые в передней части голосового аппарата.</segment>
+		<segment id="120" parent="246" relname="contrast">В английском языке, напротив, преобладают гласные звуки заднего ряда.</segment>
+		<segment id="121" parent="246" relname="contrast">В русском языке - среднего ряда.</segment>
+		<segment id="122" parent="272" relname="span">При изучении французского языка после английского обучаемые произносят передние гласные более глубоко, чем следует.</segment>
+		<segment id="123" parent="273" relname="span">Данная интерференция вызвана артикуляционной привычкой, сформированной речью на английском языке, так же, как и тенденция к дифтонгизации французских гласных, к редукции безударных гласных.</segment>
+		<segment id="124" parent="249" relname="restatement">На начальном этапе изучения французского языка после английского обучающиеся произносят французский [t] с английским придыханием,</segment>
+		<segment id="125" parent="249" relname="restatement">т.е. интерференция ведет к появлению в лингвистическом элементе признаков коррелирующего элемента другой системы [Там же].</segment>
+		<segment id="126" parent="258" relname="span">Влияние русского языка значительно в плане просодии.</segment>
+		<segment id="127" parent="252" relname="joint">Студенты ставят ударение на каждом слове, а не внутри ритмической группы,</segment>
+		<segment id="128" parent="252" relname="joint">не делают правильного восходящего тона и т.п.</segment>
+		<segment id="129" parent="254" relname="span">Так как становление фонетических механизмов мало зависит</segment>
+		<segment id="130" parent="256" relname="contrast">от когнитивного опыта человека,</segment>
+		<segment id="131" parent="256" relname="contrast">а в большей степени от индивидуальных, генетически определенных способностей человека,</segment>
+		<segment id="132" parent="257" relname="span">то основу методики обучения фонетической стороне речи должна составлять тренировка психических механизмов восприятия и фонетического кодирования звуков нового языка [Там же].</segment>
+		<segment id="133" parent="261" relname="span">Таким образом, методика формирования фонетических навыков в первом и во втором иностранных языках мало отличается.</segment>
+		<segment id="134" parent="135" relname="cause">Для становления произносительного навыка</segment>
+		<segment id="135" parent="263" relname="span">используются упражнения на многократное воспроизведение (повторение) изучаемого звука в стихах, песнях, рифмовках и скороговорках.</segment>
+		<segment id="136" parent="137" relname="purpose">Для развития ритмико-интонационных навыков</segment>
+		<segment id="137" parent="260" relname="span">важно обеспечить учащимся регулярное аудирование аутентичной речи.</segment>
+		<segment id="138" parent="267" relname="span">Таким образом, успешность овладения будущими учителями и будущими переводчиками французским языком обеспечивается методически грамотным построением образовательного процесса.</segment>
+		<segment id="139" parent="138" relname="elaboration">Эффективно организовать процесс обучения может преподаватель, знающий психолого-педагогические особенности овладения вторым иностранным языком, с одной стороны, и способный провести сопоставительный анализ типологически похожих и непохожих явлений, относящихся к одной и той же категории, трех контактирующих языков, с другой стороны.</segment>
+		<segment id="140" relname="antithesis">Список литературы</segment>
+		<segment id="141" relname="antithesis">1\. Барышников Н. В. Методика обучения второму иностранному языку в школе. М.: Просвещение, 2003. 159 с.</segment>
+		<segment id="142" relname="antithesis">2\. Бим И. Л. Концепция обучения второму иностранному языку (немецкому на базе английского): учебное пособие. Обнинск: Титул, 2001. 48 с.</segment>
+		<segment id="143" relname="antithesis">3\. Жовтюк Н. П. Особенности формирования лексической компетентности будущих</segment>
+		<segment id="144" relname="antithesis">учителей в процессе обучения английскому языку после немецкого // Филологические науки. Вопросы теории и практики. Тамбов: Грамота, 2014. № 2 (32). Ч. II. С. 86-89.</segment>
+		<segment id="145" relname="antithesis">4\. Киреева З. Р., Рябова Г. Ф. О подготовке учителей иностранных языков для полилингвальной образовательной сферы // Полилингвальное образование как основа сохранения языкового наследия и культурного разнообразия человечества: мат-лы II международной конференции. Владикавказ, 2008. С. 159-163.</segment>
+		<segment id="146" relname="antithesis">5\. Киселева Т. Н. Преодоление лексико-грамматической интерференции при обучении немецкому языку как второй специальности при первом английском: автореф. дисс. ... к. пед. н. М., 1989. 16 с.</segment>
+		<segment id="147" relname="antithesis">6\. Китросская И. И. Некоторые вопросы методики обучения иностранному языку (в свете психолингвистического анализа явлений переноса): дисс. ... к. пед. н. М., 1970. 227 с.</segment>
+		<segment id="148" relname="antithesis">7\. Лапидус Б. А. Обучение второму иностранному языку как специальности: учеб. пособие. М.: Высшая школа, 1980. 173 с.</segment>
+		<segment id="149" relname="antithesis">8\. Перестронина И. Л. Формирование языковой компетенции при обучении лексике второго иностранного языка (на примере англо-французских когнатов): автореф. дисс. ... к. пед. н. М., 2003. 20 с.</segment>
+		<segment id="150" relname="antithesis">9\. Щепилова А. В. Теория и методика обучения французскому языку как второму иностранному: учеб. пособие. М.: ВЛАДОС, 2005. 245 с.</segment>
+		<segment id="151" relname="antithesis">10\. Ястребова Л. Н. Принципы обучения второму иностранному языку как специальности в языковом вузе // Вестник Томского государственного педагогического университета. 2014. Вып. 8 (149). С. 75-78.</segment>
+		<group id="152" type="multinuc" parent="153" relname="span"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" parent="155" relname="span"/>
+		<group id="155" type="span" relname="antithesis"/>
+		<group id="156" type="multinuc" parent="157" relname="span"/>
+		<group id="157" type="span" parent="23" relname="elaboration"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" relname="antithesis"/>
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" relname="antithesis"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" parent="171" relname="span"/>
+		<group id="168" type="span" parent="169" relname="joint"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="170" type="span" parent="167" relname="elaboration"/>
+		<group id="171" type="span" relname="antithesis"/>
+		<group id="172" type="span" relname="antithesis"/>
+		<group id="173" type="span" parent="51" relname="elaboration"/>
+		<group id="174" type="span" parent="52" relname="elaboration"/>
+		<group id="175" type="span" parent="54" relname="cause"/>
+		<group id="176" type="multinuc" parent="175" relname="span"/>
+		<group id="177" type="span" relname="antithesis"/>
+		<group id="179" type="multinuc" parent="180" relname="span"/>
+		<group id="180" type="span" parent="183" relname="joint"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" relname="antithesis"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="184" type="span" parent="57" relname="elaboration"/>
+		<group id="185" type="span" relname="antithesis"/>
+		<group id="186" type="span" relname="antithesis"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="188" type="span" parent="202" relname="preparation"/>
+		<group id="189" type="span" parent="190" relname="joint"/>
+		<group id="190" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="76" relname="cause"/>
+		<group id="194" type="span" parent="198" relname="span"/>
+		<group id="195" type="multinuc" parent="196" relname="span"/>
+		<group id="196" type="span" parent="197" relname="comparison"/>
+		<group id="197" type="multinuc" parent="194" relname="span"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="190" relname="joint"/>
+		<group id="200" type="span" parent="201" relname="contrast"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="202" type="span" parent="206" relname="span"/>
+		<group id="203" type="span" parent="201" relname="contrast"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" parent="77" relname="evidence"/>
+		<group id="206" type="span" relname="antithesis"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" relname="antithesis"/>
+		<group id="210" type="span" relname="antithesis"/>
+		<group id="211" type="span" parent="84" relname="elaboration"/>
+		<group id="212" type="span" relname="antithesis"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="269" relname="joint"/>
+		<group id="216" type="span" parent="83" relname="elaboration"/>
+		<group id="217" type="span" parent="269" relname="joint"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="221" relname="span"/>
+		<group id="220" type="span" parent="219" relname="evidence"/>
+		<group id="221" type="span" relname="antithesis"/>
+		<group id="222" type="span" parent="233" relname="span"/>
+		<group id="223" type="span" parent="225" relname="span"/>
+		<group id="224" type="span" parent="102" relname="cause"/>
+		<group id="225" type="span" parent="229" relname="contrast"/>
+		<group id="226" type="multinuc" parent="227" relname="span"/>
+		<group id="227" type="span" parent="105" relname="purpose"/>
+		<group id="228" type="span" parent="233" relname="evaluation"/>
+		<group id="229" type="multinuc" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="222" relname="evidence"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" relname="antithesis"/>
+		<group id="235" type="span" parent="238" relname="background"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="111" relname="cause"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" parent="108" relname="elaboration"/>
+		<group id="240" type="span" relname="antithesis"/>
+		<group id="241" type="span" parent="247" relname="cause"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="116" relname="elaboration"/>
+		<group id="244" type="span" parent="115" relname="cause"/>
+		<group id="245" type="span" parent="246" relname="contrast"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="275" relname="span"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="123" relname="evidence"/>
+		<group id="252" type="multinuc" parent="253" relname="span"/>
+		<group id="253" type="span" parent="126" relname="evidence"/>
+		<group id="254" type="span" parent="132" relname="cause"/>
+		<group id="255" type="span" parent="129" relname="cause"/>
+		<group id="256" type="multinuc" parent="255" relname="span"/>
+		<group id="257" type="span" parent="259" relname="span"/>
+		<group id="258" type="span" parent="257" relname="preparation"/>
+		<group id="259" type="span" parent="133" relname="cause"/>
+		<group id="260" type="span" parent="266" relname="joint"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" relname="antithesis"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="266" relname="joint"/>
+		<group id="265" type="span" parent="261" relname="evidence"/>
+		<group id="266" type="multinuc" parent="265" relname="span"/>
+		<group id="267" type="span" relname="antithesis"/>
+		<group id="268" type="span" relname="antithesis"/>
+		<group id="269" type="multinuc" parent="270" relname="span"/>
+		<group id="270" type="span" relname="antithesis"/>
+		<group id="271" type="span" relname="antithesis"/>
+		<group id="272" type="span" parent="247" relname="elaboration"/>
+		<group id="273" type="span" parent="122" relname="elaboration"/>
+		<group id="274" type="multinuc" parent="271" relname="span"/>
+		<group id="275" type="span" parent="274" relname="comparison"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" relname="antithesis"/>
+  </body>
+</rst>

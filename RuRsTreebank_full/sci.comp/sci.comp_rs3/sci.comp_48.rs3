@@ -1,0 +1,422 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">КОМПЬЮТЕРНЫЕ СИСТЕМЫ И ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ</segment>
+		<segment id="2" relname="antithesis">УДК 658.512.011.56</segment>
+		<segment id="3" parent="216" relname="span">ВЫБОР И ОБОСНОВАНИЕ КРИТЕРИЯ ЭФФЕКТИВНОСТИ ПРИ ПРОЕКТИРОВАНИИ РАСПРЕДЕЛЕННЫХ БАЗ ДАННЫХ</segment>
+		<segment id="4" parent="3" relname="attribution">В.Б. Новосельский, Т.А. Павловская</segment>
+		<segment id="5" relname="antithesis">В статье рассматривается жизненный цикл проектирования распределенных баз данных (РБД), описываются этапы проектирования. На основании взаимозависимости этапов фрагментации данных, размещения данных и выбора стратегии исполнения запросов формулируется задача проектирования РБД. Производится выбор и обоснование критерия эффективности при проектировании РБД. Авторы рассматривают составляющие критерия и исследуют зависимость критерия от различных параметров. Ключевые слова: распределенные базы данных, фрагментация, размещение, распределенное исполнение запроса.</segment>
+		<segment id="6" parent="223" relname="preparation">Введение</segment>
+		<segment id="7" parent="218" relname="span">Создание распределенных информационных систем является весьма актуальной задачей.</segment>
+		<segment id="8" parent="7" relname="cause">Это связано с возрастающими потребностями в приложениях, доступ к которым осуществляется из различных географических местоположений.</segment>
+		<segment id="9" parent="219" relname="joint">Увеличиваются требования к оперативности и достоверности информации.</segment>
+		<segment id="10" parent="219" relname="joint">Управление информацией происходит с помощью баз данных (БД).</segment>
+		<segment id="11" parent="12" relname="purpose">Для достижения высокой производительности распределенных приложений,</segment>
+		<segment id="12" parent="409" relname="span">работающих с базами данных, необходимы эффективные методы проектирования распределенных баз данных (РБД).</segment>
+		<segment id="13" parent="415" relname="joint">В статье рассматривается жизненный цикл проектирования РБД,</segment>
+		<segment id="14" parent="415" relname="joint">описываются этапы проектирования.</segment>
+		<segment id="15" parent="221" relname="joint">На основании взаимозависимости этапов фрагментации данных, размещения данных и выбора стратегии исполнения запросов формулируется задача проектирования РБД.</segment>
+		<segment id="16" parent="221" relname="joint">Производится выбор и обоснование критерия эффективности проекта РБД.</segment>
+		<segment id="17" parent="220" relname="joint">Авторы рассматривают составляющие критерия</segment>
+		<segment id="18" parent="220" relname="joint">и исследуют зависимость критерия от различных параметров.</segment>
+		<segment id="19" parent="418" relname="preparation">Жизненный цикл проектирования РБД</segment>
+		<segment id="20" parent="417" relname="preparation">Жизненный цикл проектирования РБД состоит из двух фаз - начального проектирования и репроектирования.</segment>
+		<segment id="21" parent="381" relname="background">Большинство исследователей под начальным проектированием понимают фрагментацию БД и размещение фрагментов по узлам вычислительной сети (ВС).</segment>
+		<segment id="22" parent="228" relname="span">С течением времени возможно ухудшение производительности приложений, работающих с РБД,</segment>
+		<segment id="23" parent="22" relname="cause">вызванное изменениями в инфраструктуре распределенной среды (ИРС).</segment>
+		<segment id="24" parent="229" relname="joint">Под инфраструктурой понимаются физические и логические параметры функционирования системы, а именно - транзакции и их частоты, топология ВС, характеристики узлов ВС и т.д.</segment>
+		<segment id="25" parent="26" relname="condition">При возникновении таких изменений</segment>
+		<segment id="26" parent="410" relname="span">требуется репроектирова-ние РБД</segment>
+		<segment id="27" parent="410" relname="purpose">для сохранения производительности приложений.</segment>
+		<segment id="28" parent="226" relname="joint">Фаза репроектирования, помимо этапов, входящих в начальное проектирование, дополнительно содержит методы материализации обновленного дизайна.</segment>
+		<segment id="29" parent="225" relname="span">Жизненный цикл процесса проектирования изображен на [рис. 1].</segment>
+		<segment id="30" parent="226" relname="joint">Далее кратко описаны основные этапы проектирования. 4</segment>
+		<segment id="31" parent="29" relname="elaboration">[Рис. 1. Жизненный цикл проектирования РБД]</segment>
+		<segment id="32" parent="251" relname="preparation">Фрагментация данных</segment>
+		<segment id="33" parent="370" relname="span">Основной целью фрагментации является</segment>
+		<segment id="34" parent="33" relname="purpose">сужение пространства поиска при исполнении запроса.</segment>
+		<segment id="35" parent="385" relname="joint">Фрагментация данных допускает разбиение отношения на два или более сегмента или фрагмента.</segment>
+		<segment id="36" parent="385" relname="joint">Каждый фрагмент может храниться на любом узле ВС.</segment>
+		<segment id="37" parent="383" relname="span">Принято выделять две базовых стратегии фрагментации данных - горизонтальную и вертикальную фрагментации.</segment>
+		<segment id="38" parent="235" relname="comparison">Вертикальная фрагментация - это разделение атрибутов на группы,</segment>
+		<segment id="39" parent="40" relname="cause">горизонтальная фрагментация - разделение отношения на подмножества таким образом,</segment>
+		<segment id="40" parent="369" relname="span">что каждое подмножество содержит полный набор атрибутов.</segment>
+		<segment id="41" parent="239" relname="span">Примеры горизонтальной и вертикальной фрагментации показаны на [рис. 2, 3] соответственно.</segment>
+		<segment id="42" parent="238" relname="joint">[Рис. 2. Горизонтальная фрагментация]</segment>
+		<segment id="43" parent="238" relname="joint">[Рис. 3. Вертикальная фрагментация]</segment>
+		<segment id="44" parent="248" relname="preparation">Горизонтальная фрагментация разделяется на первичную (primary) и вторичную (derived) фрагментацию.</segment>
+		<segment id="45" parent="371" relname="span">Целью первичной горизонтальной фрагментации является</segment>
+		<segment id="46" parent="45" relname="purpose">оптимизация операций над множествами,</segment>
+		<segment id="47" parent="242" relname="joint">позволяющая, во-первых, сузить пространство поиска</segment>
+		<segment id="48" parent="242" relname="joint">и, во-вторых, обеспечить возможность параллельного выполнения операций.</segment>
+		<segment id="49" parent="373" relname="span">Целью же вторичной горизонтальной фрагментации является</segment>
+		<segment id="50" parent="245" relname="span">повышение скорости навигационных операций,</segment>
+		<segment id="51" parent="50" relname="cause">достигаемое за счет объединения множеств объектов различных типов.</segment>
+		<segment id="52" parent="263" relname="preparation">Размещение данных</segment>
+		<segment id="53" parent="374" relname="span">Размещение данных представляет собой процесс принятия решения о месте хранения данных</segment>
+		<segment id="54" parent="53" relname="purpose">с целью минимизации целевой функции при выполнении запросов.</segment>
+		<segment id="55" parent="257" relname="span">Выделяют следующие типы стратегии размещения данных:</segment>
+		<segment id="56" parent="253" relname="joint">\- централизованное размещение данных</segment>
+		<segment id="57" parent="253" relname="joint">- вся база данных хранится на одном узле;</segment>
+		<segment id="58" parent="253" relname="joint">\- секционированное размещение данных</segment>
+		<segment id="59" parent="253" relname="joint">- каждый фрагмент БД хранится на определенном узле;</segment>
+		<segment id="60" parent="253" relname="joint">\- реплицированное размещение данных</segment>
+		<segment id="61" parent="253" relname="joint">- одна или более копий фрагментов БД хранятся на нескольких узлах.</segment>
+		<segment id="62" parent="387" relname="preparation">Репликация данных связана с хранением копий данных на нескольких узлах сети.</segment>
+		<segment id="63" parent="259" relname="joint">Поскольку копии фрагментов повышают уровень доступности данных</segment>
+		<segment id="64" parent="259" relname="joint">и уменьшают время отклика,</segment>
+		<segment id="65" parent="260" relname="span">репликация уменьшает общие затраты на коммуникации при выполнении запросов.</segment>
+		<segment id="66" parent="276" relname="preparation">Критерий эффективности РБД</segment>
+		<segment id="67" parent="268" relname="span">Проектирование схем фрагментации и размещения отношений основывается на информации о способах и методах использования РБД.</segment>
+		<segment id="68" parent="267" relname="span">Методы использования зависят от стратегии исполнения запросов,</segment>
+		<segment id="69" parent="68" relname="condition">которая, в свою очередь, должна учитывать схемы фрагментации и размещения.</segment>
+		<segment id="70" parent="269" relname="span">Таким образом, проектирование фрагментации, размещения и стратегии исполнения запросов должно производиться одновременно.</segment>
+		<segment id="71" parent="266" relname="span">Следовательно, задачу проектирования РБД следует формулировать так:</segment>
+		<segment id="72" parent="377" relname="span">для данной логической схемы БД, множества запросов и конфигурации ВС описать схему фрагментации, схему размещения фрагментов и стратегии исполнения каждого запроса таким образом,</segment>
+		<segment id="73" parent="72" relname="purpose">чтобы оптимизировать целевую функцию.</segment>
+		<segment id="74" parent="378" relname="span">Целевой функцией этапа фрагментации данных является</segment>
+		<segment id="75" parent="74" relname="purpose">уменьшение времени исполнения запроса.</segment>
+		<segment id="76" parent="390" relname="background">В работах, посвященных размещению данных, в качестве критерия эффективности выбирается минимизация общего количества передаваемых по сети данных [1] или минимизация времени ответа на запрос [2].</segment>
+		<segment id="77" parent="376" relname="span">Целью репликации является</segment>
+		<segment id="78" parent="77" relname="purpose">повышение надежности и коэффициента готовности транзакций</segment>
+		<segment id="79" parent="80" relname="condition">[3, 4]. Коэффициент готовности транзакций отражает вероятность того,</segment>
+		<segment id="80" parent="273" relname="span">что транзакция успешно завершится за ожидаемое время.</segment>
+		<segment id="81" parent="82" relname="condition">При выборе стратегии исполнения запроса</segment>
+		<segment id="82" parent="401" relname="span">критерием эффективности выступает время исполнения запроса и коэффициент готовности транзакций [5]</segment>
+		<segment id="83" parent="84" relname="evidence">Производительность системы определяется отношением объема работы ко времени, за которое она была совершена.</segment>
+		<segment id="84" parent="278" relname="span">Следовательно, критерием эффективности РБД должно быть время ответа на запрос.</segment>
+		<segment id="85" parent="368" relname="span">Однако время ответа и коэффициент готовности транзакций взаимосвязаны:</segment>
+		<segment id="86" parent="85" relname="elaboration">с уменьшением времени ответа на запрос повышается загрузка ресурсов ВС,</segment>
+		<segment id="87" parent="280" relname="span">что приводит к уменьшению коэффициента готовности транзакций.</segment>
+		<segment id="88" parent="287" relname="span">Для учета этой зависимости формализуем критерий эффективности следующим образом:</segment>
+		<segment id="89" parent="286" relname="span">[формула]</segment>
+		<segment id="90" parent="282" relname="joint">где к - количество узлов ВС;</segment>
+		<segment id="91" parent="282" relname="joint">n - количество запросов;</segment>
+		<segment id="92" parent="282" relname="joint">f - частота возникновения j-го запроса в i-ом узле;</segment>
+		<segment id="93" parent="283" relname="span">Qj - временной коэффициент j-ого запроса,</segment>
+		<segment id="94" parent="93" relname="elaboration">порожденного в i-м узле;</segment>
+		<segment id="95" parent="284" relname="span">Wj - коэффициент использования ресурсов при обработке j-го запроса,</segment>
+		<segment id="96" parent="95" relname="elaboration">порожденного в i-м узле;</segment>
+		<segment id="97" parent="285" relname="span">ct и ca - коэффициенты важности времени ответа и готовности транзакции,</segment>
+		<segment id="98" parent="97" relname="condition">которые лежат в пределах [0,1].</segment>
+		<segment id="99" parent="290" relname="span">Значения коэффициентов определяются на основании требований к РБД,</segment>
+		<segment id="100" parent="99" relname="elaboration">например, для РБД реального времени ct=1, ca=0.</segment>
+		<segment id="101" parent="291" relname="restatement">Временной коэффициент j-го запроса определяется как [формула],</segment>
+		<segment id="102" parent="292" relname="span">т.е. равен отношению времени ответа на запрос, исполненный в РБД, к расчетному времени ответа на запрос, исполненный локально в узле i,</segment>
+		<segment id="103" parent="102" relname="condition">при условии наличия в узле всех необходимых фрагментов.</segment>
+		<segment id="104" parent="293" relname="joint">Коэффициент использования ресурсов равен сумме коэффициентов использования центрального процессора и внешнего запоминающего устройства узлов, вовлеченных в операцию, и коэффициента использования сетевых ресурсов.</segment>
+		<segment id="105" parent="295" relname="contrast">Такой критерий обеспечивает оптимальность решения,</segment>
+		<segment id="106" parent="294" relname="span">но не обеспечивает допустимость,</segment>
+		<segment id="107" parent="106" relname="cause">так как минимизируется общее время ответа системы в целом.</segment>
+		<segment id="108" parent="296" relname="span">Поэтому необходимо ввести ограничение на максимально допустимое время ответа на запрос в каждом узле,</segment>
+		<segment id="109" parent="298" relname="span">Qj [символ] Qj,</segment>
+		<segment id="110" parent="109" relname="elaboration">где [формула] - максимально допустимое время ответа на запрос j.</segment>
+		<segment id="111" parent="307" relname="preparation">Время ответа на запрос</segment>
+		<segment id="112" parent="421" relname="span">Время ответа в РБД имеет две составляющие: время локальной обработки и время ответа сети.</segment>
+		<segment id="113" parent="112" relname="elaboration">Время локальной обработки складывается из задержек в центральном процессоре и внешнем запоминающем устройстве, конкурентного доступа к сетевой среде и времени выборки и обработки данных.</segment>
+		<segment id="114" parent="300" relname="same-unit">Время ответа сети формируется из времени передачи данных, задержек в очередях и промежуточных узлах сети и</segment>
+		<segment id="115" parent="299" relname="restatement">латентности,</segment>
+		<segment id="116" parent="299" relname="restatement">т.е. задержки на передачу сигнала [2].</segment>
+		<segment id="117" parent="305" relname="joint">Время передачи данных зависит от пропускной способности сети.</segment>
+		<segment id="118" parent="303" relname="span">Задержки в очередях и промежуточных узлах вызваны обработкой,</segment>
+		<segment id="119" parent="302" relname="span">которая происходит в узлах,</segment>
+		<segment id="120" parent="301" relname="joint">находящихся между передающим</segment>
+		<segment id="121" parent="301" relname="joint">и принимающим узлами.</segment>
+		<segment id="122" parent="391" relname="span">Латентность напрямую зависит от расстояния между узлом-приемником и передатчиком.</segment>
+		<segment id="123" parent="122" relname="elaboration">Как отмечено в [2], эта составляющая особенно важна в высокоскоростных сетях передачи данных (СПД).</segment>
+		<segment id="124" parent="125" relname="cause">В РБД существует возможность параллельного доступа к ресурсам,</segment>
+		<segment id="125" parent="309" relname="span">поэтому для оценки времени ответа необходимо рассмотреть процесс исполнения запроса в распределенной среде.</segment>
+		<segment id="126" parent="323" relname="preparation">Распределенное исполнение запроса</segment>
+		<segment id="127" parent="313" relname="span">Наиболее часто план исполнения запроса представляется в виде дерева операторов,</segment>
+		<segment id="128" parent="127" relname="elaboration">в котором листья представляют отношения, которые участвуют в запросе, а промежуточные вершины - операторы.</segment>
+		<segment id="129" parent="312" relname="span">Параллельная обработка при таком описании разделяется на нескольких видов:</segment>
+		<segment id="130" parent="310" relname="joint">\- межоператорная (inter-operation) - параллельное исполнение операторов, лежащих на разных ветвях дерева;</segment>
+		<segment id="131" parent="311" relname="span">\- внутриоператорная (intra-operation) - параллельное исполнение на различных фрагментах одного отношения суб-операторов,</segment>
+		<segment id="132" parent="131" relname="elaboration">полученных в результате декомпозиции оператора;</segment>
+		<segment id="133" parent="310" relname="joint">\- конвейерная (pipeline) - узел дерева «потребитель» может начать выполнение до того, как «производитель» завершит свою работу.</segment>
+		<segment id="134" parent="402" relname="purpose">Для оценки взаимовлияния стратегии исполнения запроса и схем фрагментации и размещения</segment>
+		<segment id="135" parent="402" relname="span">оценим время исполнения одного оператора о</segment>
+		<segment id="136" parent="135" relname="condition">при локальном и распределенном исполнении.</segment>
+		<segment id="137" parent="315" relname="span">Процесс распределенного исполнения оператора на трех узлах показан на [рис. 4].</segment>
+		<segment id="138" parent="137" relname="elaboration">[Рис. 4. Диаграмма Ганта распределенного исполнения оператора]</segment>
+		<segment id="139" parent="317" relname="joint">Для простоты положим, что все узлы равноудалены от локального,</segment>
+		<segment id="140" parent="317" relname="joint">их скорость чтения одинакова</segment>
+		<segment id="141" parent="317" relname="joint">и равна скорости чтения в локальном узле,</segment>
+		<segment id="142" parent="317" relname="joint">на всех узлах достаточно ресурсов для параллельного доступа к сети.</segment>
+		<segment id="143" parent="320" relname="joint">Положим Q - общее количество читаемых данных,</segment>
+		<segment id="144" parent="320" relname="joint">- скорость чтения единицы данных в к-м узле.</segment>
+		<segment id="145" parent="146" relname="condition">Если все данные помещены в узел к,</segment>
+		<segment id="146" parent="319" relname="span">время выборки Т1ос = QQ.</segment>
+		<segment id="147" parent="325" relname="span">Разместим часть записей/(/=[0...1]) из выборки Q в п различных узлах,</segment>
+		<segment id="148" parent="322" relname="same-unit">причем,</segment>
+		<segment id="149" parent="150" relname="cause">так как все узлы равнозначны,</segment>
+		<segment id="150" parent="321" relname="span">в каждом узле будет размещена равная доля.</segment>
+		<segment id="151" parent="329" relname="span">На основании диаграммы процесса исполнения запроса запишем следующее равенство:</segment>
+		<segment id="152" parent="328" relname="span">[формула],</segment>
+		<segment id="153" parent="327" relname="joint">где Я - скорость передачи единицы данных по сети;</segment>
+		<segment id="154" parent="327" relname="joint">Р - время передачи запроса от /-го узла до узла к.</segment>
+		<segment id="155" parent="330" relname="joint">Обозначим разницу скоростей локального и сетевого чтения Я = А</segment>
+		<segment id="156" parent="392" relname="span">и выразим общее количество данных, считываемых с удаленных узлов.</segment>
+		<segment id="157" parent="393" relname="span">Оно прямо про- порционально сокращению времени ответа:</segment>
+		<segment id="158" parent="157" relname="elaboration">[формула].</segment>
+		<segment id="159" parent="333" relname="same-unit">Как видно</segment>
+		<segment id="160" parent="161" relname="elaboration">А PS</segment>
+		<segment id="161" parent="332" relname="span">из уравнения, ускорение будет наблюдаться только в том случае</segment>
+		<segment id="162" parent="334" relname="condition">когда —— [символ]; 1 .</segment>
+		<segment id="163" parent="338" relname="same-unit">Так как основным компонентом времени передачи небольшого сообщения,</segment>
+		<segment id="164" parent="337" relname="span">особенно в высокоскоростных сетях</segment>
+		<segment id="165" parent="164" relname="elaboration">(почти 90% в сети T1 при расстоянии 900 км, согласно [2]),</segment>
+		<segment id="166" parent="338" relname="same-unit">является задержка на распространение сигнала,</segment>
+		<segment id="167" parent="339" relname="span">то она может быть оценена из расстояния между узлами.</segment>
+		<segment id="168" parent="336" relname="joint">Например, при P = 5 мс, S = 50 Мб/с</segment>
+		<segment id="169" parent="336" relname="joint">данное неравенство будет выполняться при S [символ]; 250 Кб.</segment>
+		<segment id="170" parent="341" relname="span">График зависимости сокращения времени исполнения запроса от соотношения скоростей локального и сетевого чтения при чтении 1Мб данных ( —— = 0,25) приведен на [рис. 5].</segment>
+		<segment id="171" parent="170" relname="elaboration">[Рис. 5. График сокращения времени исполнения запроса]</segment>
+		<segment id="172" parent="342" relname="joint">Очевидно, что Т' [символ] 1 -, т.е. максимально возможное сокращение времени Q ответа определяется на основании физических характеристик сети и количества передаваемых данных.</segment>
+		<segment id="173" parent="398" relname="elaboration">Необходимо отметить, что чтение и обновление данных имеют различные временные характеристики, особенно в распределенной среде.</segment>
+		<segment id="174" parent="359" relname="preparation">Распределенное исполнение запроса на обновление</segment>
+		<segment id="175" parent="345" relname="contrast">Во многих работах (например, [1, 6]) не делается различия между запросами на выборку и запросами на обновление.</segment>
+		<segment id="176" parent="345" relname="contrast">Однако исполнение запроса на обновление в распределенной среде существенно отличается от выборки данных.</segment>
+		<segment id="177" parent="178" relname="condition">При обновлении распределенных фрагментов СУРБД</segment>
+		<segment id="178" parent="404" relname="span">в основном используют двухфазный протокол подтверждения транзакции:</segment>
+		<segment id="179" parent="343" relname="sequence">1\. всем узлам отсылается сообщение «подготовка к подтверждению транзакции»;</segment>
+		<segment id="180" parent="343" relname="sequence">2\. от всех узлов получается ответ «готов к подтверждению транзакции»;</segment>
+		<segment id="181" parent="343" relname="sequence">3\. всем узлам отсылается сообщение «подтвердить транзакцию»;</segment>
+		<segment id="182" parent="343" relname="sequence">4\. от всех узлов получается ответ «транзакция подтверждена».</segment>
+		<segment id="183" parent="346" relname="span">Вопрос параллельного исполнения обновления рассматривается в работе [7],</segment>
+		<segment id="184" parent="351" relname="span">в которой получена следующая аналитическая формула времени обновления:</segment>
+		<segment id="185" parent="350" relname="span">\+ ,</segment>
+		<segment id="186" parent="347" relname="span">где St i - время передачи запроса от узла-</segment>
+		<segment id="187" parent="186" relname="elaboration">[формула]</segment>
+		<segment id="188" parent="348" relname="same-unit">источника транзакции t до i-го узла;</segment>
+		<segment id="189" parent="349" relname="joint">Rjt - время передачи ответа от узла j до узла-источника транзакции t;</segment>
+		<segment id="190" parent="349" relname="joint">n - число узлов, на которых размещены фрагменты.</segment>
+		<segment id="191" parent="349" relname="joint">[символ] i вклю- чает время на передачу и задержки в сети,</segment>
+		<segment id="192" parent="349" relname="joint">Rjt ( состоит из задержки от t до j, времени обработки на узле /, времени передачи ответа от узла /.</segment>
+		<segment id="193" parent="353" relname="joint">Для простоты можно положить, что время передачи запроса до всех узлов одинаково</segment>
+		<segment id="194" parent="353" relname="joint">и сообщения отсылаются</segment>
+		<segment id="195" parent="353" relname="joint">и обрабатываются узлами параллельно,</segment>
+		<segment id="196" parent="354" relname="span">тогда время обновления [формула]</segment>
+		<segment id="197" parent="355" relname="restatement">Как видно из формул, время обновления существенно превышает время выборки,</segment>
+		<segment id="198" parent="355" relname="restatement">т.е. при уменьшении времени выборки за счет размещения фрагментов на разных узлах увеличивается время обновления и возрастает загрузка узлов и ВС.</segment>
+		<segment id="199" parent="200" relname="condition">Таким образом, при фрагментации и размещении</segment>
+		<segment id="200" parent="406" relname="span">необходимо учесть затраты на обновление данных</segment>
+		<segment id="201" parent="406" relname="condition">при увеличении количества реплик в соответствии с коэффициентами важности времени ответа и готовности транзакции.</segment>
+		<segment id="202" parent="365" relname="preparation">Заключение</segment>
+		<segment id="203" parent="364" relname="joint">В статье рассмотрен жизненный цикл проектирования РБД</segment>
+		<segment id="204" parent="364" relname="joint">и описаны его этапы.</segment>
+		<segment id="205" parent="364" relname="joint">Сформулирована задача проектирования РБД.</segment>
+		<segment id="206" parent="364" relname="joint">Выбран и обоснован критерий эффективности проекта РБД.</segment>
+		<segment id="207" parent="364" relname="joint">Рассмотрены составляющие времени распределенного исполнения оператора,</segment>
+		<segment id="208" parent="364" relname="joint">исследована их зависимость от различных параметров сети и узлов ВС.</segment>
+		<segment id="209" parent="210" relname="preparation">Литература</segment>
+		<segment id="210" relname="antithesis">1\. Apers P.M.G. Data allocation in distributed database systems // ACM Transactions on Database Systems. - 1988. - Vol. 13. - № 3. - Р. 263-304. 2\. Johansson J.M., March S.T., Naumann J.D. Modeling Network Latency and Parallel Processing in Distributed Database Design // Decision Sciences Journal. - 2003. - Vol. 34. - № 4. - Р. 677-706. 3\. Ma H., Schewe K.-D., Wang Q. A heuristic approach to cost-efficient derived horizontal fragmentation of complex value databases // Eighteenth conference on Australasian database. Ballarat, Australia. - 2007. - Р. 103-111. 4\. Mukkamala R., Bruell S.C., Shultz R.K. Design of partially replicated distributed database systems: an integrated methodology // ACM SIGMETRICS conference on Measurement and modeling of computer systems. Santa Fe, New Mexico, United States. - 1988. - Р. 187-196. 5\. Kossmann D. The state of the art in distributed query processing // ACM Computing Surveys. - 2000. - Vol. 32. - № 4. - Р. 422-469. 6\. Ma H., Schewe K.-D., Wang Q. A heuristic approach to cost-efficient fragmentation and allocation of complex value databases // 17th Australasian Database Conference. Hobart, Australia. - 2006. - Р. 183-192. 7\. Johansson J.M., March S.T., Naumann J.D. The effects of parallel processing on update response time in distributed database design // Twenty first international conference on Information systems. Brisbane, Queensland, Australia. - 2000. - Р. 187-196.</segment>
+		<segment id="211" parent="361" relname="span">Новосельский Вениамин Борисович</segment>
+		<segment id="212" parent="211" relname="elaboration">- ООО «ТиетоЭнатор», руководитель технической группы, veniaminn@gmail.com</segment>
+		<segment id="213" parent="363" relname="span">Павловская Татьяна Александровна</segment>
+		<segment id="214" parent="213" relname="elaboration">- Санкт-Петербургский государственный университет информационных технологий, механики и оптики, кандидат технических наук, доцент, профессор, mux@tp2055.spb.edu </segment>
+		<group id="216" type="span" parent="224" relname="preparation"/>
+		<group id="218" type="span" parent="379" relname="preparation"/>
+		<group id="219" type="multinuc" parent="379" relname="span"/>
+		<group id="220" type="multinuc" parent="221" relname="joint"/>
+		<group id="221" type="multinuc" parent="222" relname="joint"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" relname="antithesis"/>
+		<group id="225" type="span" parent="226" relname="joint"/>
+		<group id="226" type="multinuc" parent="412" relname="span"/>
+		<group id="228" type="span" parent="229" relname="joint"/>
+		<group id="229" type="multinuc" parent="381" relname="span"/>
+		<group id="231" type="span" parent="416" relname="joint"/>
+		<group id="235" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="240" relname="span"/>
+		<group id="238" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="239" type="span" parent="237" relname="elaboration"/>
+		<group id="240" type="span" parent="384" relname="span"/>
+		<group id="242" type="multinuc" parent="371" relname="purpose"/>
+		<group id="245" type="span" parent="49" relname="purpose"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="250" relname="joint"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="252" type="span" relname="antithesis"/>
+		<group id="253" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="375" relname="span"/>
+		<group id="259" type="multinuc" parent="65" relname="cause"/>
+		<group id="260" type="span" parent="387" relname="span"/>
+		<group id="262" type="multinuc" parent="263" relname="span"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" relname="antithesis"/>
+		<group id="266" type="span" parent="270" relname="span"/>
+		<group id="267" type="span" parent="67" relname="condition"/>
+		<group id="268" type="span" parent="70" relname="evidence"/>
+		<group id="269" type="span" parent="266" relname="evidence"/>
+		<group id="270" type="span" parent="275" relname="joint"/>
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="274" type="multinuc" parent="390" relname="span"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" relname="antithesis"/>
+		<group id="278" type="span" parent="281" relname="contrast"/>
+		<group id="280" type="span" parent="281" relname="contrast"/>
+		<group id="281" type="multinuc" parent="288" relname="joint"/>
+		<group id="282" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="283" type="span" parent="282" relname="joint"/>
+		<group id="284" type="span" parent="282" relname="joint"/>
+		<group id="285" type="span" parent="282" relname="joint"/>
+		<group id="286" type="span" parent="88" relname="elaboration"/>
+		<group id="287" type="span" parent="289" relname="joint"/>
+		<group id="288" type="multinuc" parent="275" relname="joint"/>
+		<group id="289" type="multinuc" parent="288" relname="joint"/>
+		<group id="290" type="span" parent="289" relname="joint"/>
+		<group id="291" type="multinuc" parent="293" relname="joint"/>
+		<group id="292" type="span" parent="291" relname="restatement"/>
+		<group id="293" type="multinuc" parent="275" relname="joint"/>
+		<group id="294" type="span" parent="295" relname="contrast"/>
+		<group id="295" type="multinuc" parent="296" relname="evidence"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="275" relname="joint"/>
+		<group id="298" type="span" parent="108" relname="elaboration"/>
+		<group id="299" type="multinuc" parent="300" relname="same-unit"/>
+		<group id="300" type="multinuc" parent="305" relname="joint"/>
+		<group id="301" type="multinuc" parent="119" relname="elaboration"/>
+		<group id="302" type="span" parent="118" relname="elaboration"/>
+		<group id="303" type="span" parent="305" relname="joint"/>
+		<group id="305" type="multinuc" parent="306" relname="joint"/>
+		<group id="306" type="multinuc" parent="307" relname="span"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" relname="antithesis"/>
+		<group id="309" type="span" parent="306" relname="joint"/>
+		<group id="310" type="multinuc" parent="129" relname="elaboration"/>
+		<group id="311" type="span" parent="310" relname="joint"/>
+		<group id="312" type="span" parent="314" relname="joint"/>
+		<group id="313" type="span" parent="314" relname="joint"/>
+		<group id="314" type="multinuc" parent="318" relname="joint"/>
+		<group id="315" type="span" parent="316" relname="joint"/>
+		<group id="316" type="multinuc" parent="318" relname="joint"/>
+		<group id="317" type="multinuc" parent="318" relname="joint"/>
+		<group id="318" type="multinuc" parent="323" relname="span"/>
+		<group id="319" type="span" parent="326" relname="sequence"/>
+		<group id="320" type="multinuc" parent="326" relname="sequence"/>
+		<group id="321" type="span" parent="322" relname="same-unit"/>
+		<group id="322" type="multinuc" parent="147" relname="condition"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" relname="antithesis"/>
+		<group id="325" type="span" parent="326" relname="sequence"/>
+		<group id="326" type="multinuc" parent="395" relname="evidence"/>
+		<group id="327" type="multinuc" parent="152" relname="elaboration"/>
+		<group id="328" type="span" parent="151" relname="elaboration"/>
+		<group id="329" type="span" parent="326" relname="sequence"/>
+		<group id="330" type="multinuc" parent="326" relname="sequence"/>
+		<group id="332" type="span" parent="333" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="394" relname="joint"/>
+		<group id="336" type="multinuc" parent="339" relname="elaboration"/>
+		<group id="337" type="span" parent="338" relname="same-unit"/>
+		<group id="338" type="multinuc" parent="167" relname="cause"/>
+		<group id="339" type="span" parent="340" relname="span"/>
+		<group id="340" type="span" parent="394" relname="joint"/>
+		<group id="341" type="span" parent="342" relname="joint"/>
+		<group id="342" type="multinuc" parent="398" relname="span"/>
+		<group id="343" type="multinuc" parent="404" relname="elaboration"/>
+		<group id="345" type="multinuc" parent="357" relname="joint"/>
+		<group id="346" type="span" parent="358" relname="joint"/>
+		<group id="347" type="span" parent="348" relname="same-unit"/>
+		<group id="348" type="multinuc" parent="349" relname="joint"/>
+		<group id="349" type="multinuc" parent="185" relname="elaboration"/>
+		<group id="350" type="span" parent="184" relname="elaboration"/>
+		<group id="351" type="span" parent="183" relname="elaboration"/>
+		<group id="353" type="multinuc" parent="196" relname="condition"/>
+		<group id="354" type="span" parent="358" relname="joint"/>
+		<group id="355" type="multinuc" parent="407" relname="evidence"/>
+		<group id="357" type="multinuc" parent="358" relname="joint"/>
+		<group id="358" type="multinuc" parent="359" relname="span"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" relname="antithesis"/>
+		<group id="361" type="span" parent="362" relname="joint"/>
+		<group id="362" type="multinuc" relname="antithesis"/>
+		<group id="363" type="span" parent="362" relname="joint"/>
+		<group id="364" type="multinuc" parent="365" relname="span"/>
+		<group id="365" type="span" parent="366" relname="span"/>
+		<group id="366" type="span" relname="antithesis"/>
+		<group id="368" type="span" parent="87" relname="cause"/>
+		<group id="369" type="span" parent="235" relname="comparison"/>
+		<group id="370" type="span" parent="385" relname="joint"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="247" relname="comparison"/>
+		<group id="373" type="span" parent="247" relname="comparison"/>
+		<group id="374" type="span" parent="258" relname="preparation"/>
+		<group id="375" type="span" parent="262" relname="joint"/>
+		<group id="376" type="span" parent="274" relname="joint"/>
+		<group id="377" type="span" parent="71" relname="elaboration"/>
+		<group id="378" type="span" parent="389" relname="preparation"/>
+		<group id="379" type="span" parent="380" relname="span"/>
+		<group id="380" type="span" parent="414" relname="span"/>
+		<group id="381" type="span" parent="231" relname="span"/>
+		<group id="383" type="span" parent="240" relname="preparation"/>
+		<group id="384" type="span" parent="386" relname="span"/>
+		<group id="385" type="multinuc" parent="384" relname="preparation"/>
+		<group id="386" type="span" parent="250" relname="joint"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="262" relname="joint"/>
+		<group id="389" type="span" parent="420" relname="span"/>
+		<group id="390" type="span" parent="389" relname="span"/>
+		<group id="391" type="span" parent="305" relname="joint"/>
+		<group id="392" type="span" parent="330" relname="joint"/>
+		<group id="393" type="span" parent="156" relname="elaboration"/>
+		<group id="394" type="multinuc" parent="395" relname="span"/>
+		<group id="395" type="span" parent="396" relname="span"/>
+		<group id="396" type="span" parent="318" relname="joint"/>
+		<group id="397" type="span" parent="394" relname="joint"/>
+		<group id="398" type="span" parent="397" relname="span"/>
+		<group id="399" type="span" parent="380" relname="elaboration"/>
+		<group id="401" type="span" parent="274" relname="joint"/>
+		<group id="402" type="span" parent="403" relname="span"/>
+		<group id="403" type="span" parent="316" relname="joint"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" parent="357" relname="joint"/>
+		<group id="406" type="span" parent="407" relname="span"/>
+		<group id="407" type="span" parent="408" relname="span"/>
+		<group id="408" type="span" parent="358" relname="joint"/>
+		<group id="409" type="span" parent="399" relname="span"/>
+		<group id="410" type="span" parent="411" relname="span"/>
+		<group id="411" type="span" parent="412" relname="preparation"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="416" relname="joint"/>
+		<group id="414" type="span" parent="222" relname="joint"/>
+		<group id="415" type="multinuc" parent="221" relname="joint"/>
+		<group id="416" type="multinuc" parent="417" relname="span"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" parent="419" relname="span"/>
+		<group id="419" type="span" relname="antithesis"/>
+		<group id="420" type="span" parent="275" relname="joint"/>
+		<group id="421" type="span" parent="306" relname="joint"/>
+  </body>
+</rst>

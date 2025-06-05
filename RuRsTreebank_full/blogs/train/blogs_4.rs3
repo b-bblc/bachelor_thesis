@@ -1,0 +1,720 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://kosmetista.ru/blog/pricheski/97137.html</segment>
+		<segment id="2" parent="680" relname="span">##### Из хенно-басменной леди в обесцвеченно-красную диву: сравнение ухода до и после, выводы и планы</segment>
+		<segment id="3" parent="2" relname="elaboration">##### IMG</segment>
+		<segment id="4" parent="627" relname="preparation">##### Всем привет.</segment>
+		<segment id="5" parent="372" relname="joint">Меня зовут Дарья,</segment>
+		<segment id="6" parent="372" relname="joint">и я новенький автор,</segment>
+		<segment id="7" parent="372" relname="evaluation">банально, не находите?)</segment>
+		<segment id="8" parent="374" relname="joint">и я люблю ухаживать за волосами.</segment>
+		<segment id="9" parent="375" relname="joint">А так же красить их, будь-то травами(хна и басма) или же перманентным красителем\прямым пигментом.</segment>
+		<segment id="10" parent="647" relname="span">В этом вступительном посте хочу рассказать о своих волосах,</segment>
+		<segment id="11" parent="648" relname="joint">об их изменениях за последние полгода,</segment>
+		<segment id="12" parent="648" relname="joint">о методах окрашивания,</segment>
+		<segment id="13" parent="648" relname="joint">об уходе за ними.</segment>
+		<segment id="14" parent="629" relname="joint">А так же пройдусь по актуальному уходу.</segment>
+		<segment id="15" parent="632" relname="preparation">##### Времена хны и басмы</segment>
+		<segment id="16" parent="376" relname="span">##### Я обладательница негустых, средне-русых волос.</segment>
+		<segment id="17" parent="18" relname="condition">Если выражаться парикмахерским языком,</segment>
+		<segment id="18" parent="377" relname="span">то 6-7 угт.</segment>
+		<segment id="19" parent="380" relname="span">То есть слишком темный оттенок,</segment>
+		<segment id="20" parent="379" relname="joint">чтобы поиграть на них яркими цветами без осветления\обесцвечивания</segment>
+		<segment id="21" parent="379" relname="joint">или же получить ярко-медный от хны без тех же манипуляций.</segment>
+		<segment id="22" parent="626" relname="span">Около трех лет я красилась хной и басмой раздельным способом.</segment>
+		<segment id="23" parent="382" relname="span">Такой метод,</segment>
+		<segment id="24" parent="381" relname="sequence">где ты сначала красишь волосы хной,</segment>
+		<segment id="25" parent="381" relname="sequence">потом смываешь,</segment>
+		<segment id="26" parent="381" relname="sequence">подсушиваешь</segment>
+		<segment id="27" parent="381" relname="sequence">и красишь поверх этого басмой,</segment>
+		<segment id="28" parent="383" relname="same-unit">дает возможность со временем, а иногда и сразу получить красивый черный цвет волос.</segment>
+		<segment id="29" parent="390" relname="solutionhood">Почему я пользовалась травяными красителями?</segment>
+		<segment id="30" parent="384" relname="joint">Мне нравился аромат хны</segment>
+		<segment id="31" parent="384" relname="joint">и совершенно не нравился запах басмы,</segment>
+		<segment id="32" parent="385" relname="contrast">но я обожаю черный цвет.</segment>
+		<segment id="33" parent="387" relname="span">Черный цвет на века,</segment>
+		<segment id="34" parent="386" relname="joint">который будет с тобой до конца твоих дней</segment>
+		<segment id="35" parent="386" relname="joint">или пока ты не срежешь его))</segment>
+		<segment id="36" parent="391" relname="elaboration">##### IMG</segment>
+		<segment id="37" parent="393" relname="span">##### Хну люблю ,</segment>
+		<segment id="38" parent="392" relname="span">точнее любила,</segment>
+		<segment id="39" parent="38" relname="cause">потому что сейчас я не на травяных красителях,</segment>
+		<segment id="40" parent="394" relname="same-unit">качественную, с мельчайшим помолом и интенсивным выделением пигмента.</segment>
+		<segment id="41" parent="395" relname="span">Как правило, это либо хна для мехенди,</segment>
+		<segment id="42" parent="41" relname="elaboration">которая максимальна в вышеперечисленных свойствах,</segment>
+		<segment id="43" parent="396" relname="span">либо хна,</segment>
+		<segment id="44" parent="43" relname="elaboration">которую можно найти в аюрведических салонах и таких же интернет-магазинах.</segment>
+		<segment id="45" parent="399" relname="comparison">Что до басмы, здесь те же критерии.</segment>
+		<segment id="46" parent="399" relname="elaboration">##### На фото хна брендов: Lady Henna, INDI BIRD, Nupur, Aroma-Zone, Hathi, Prem Dulhan, Kokila, период использования 2017-2018 года, на данный момент у меня нет этих средств в обиходе. Басма брендов: Kajal, Khadi, INDI BIRD, период использования те же 2017-2018 года, сейчас не использую. IMG</segment>
+		<segment id="47" parent="636" relname="attribution">##### Многие думают,</segment>
+		<segment id="48" parent="636" relname="joint">что хна, басма и прочие травы сушат волосы</segment>
+		<segment id="49" parent="636" relname="joint">и превращают в веник.</segment>
+		<segment id="50" parent="400" relname="joint">С таким же успехом можно говорить о том, что обесцвечивание портит волосы</segment>
+		<segment id="51" parent="400" relname="joint">и превращает в тот же веник, только другого цвета))</segment>
+		<segment id="52" parent="403" relname="condition">Да, конечно, если вы не ухаживаете за волосами,</segment>
+		<segment id="53" parent="403" relname="span">то даже натуральные волосы превратятся в невообразимое нечто,</segment>
+		<segment id="54" parent="402" relname="joint">которое можно только срезать</segment>
+		<segment id="55" parent="402" relname="joint">или закератинить,</segment>
+		<segment id="56" parent="402" relname="joint">а потом… тоже срезать.</segment>
+		<segment id="57" parent="408" relname="span">За любыми волосами нужен уход.</segment>
+		<segment id="58" parent="406" relname="comparison">Кому-то достаточно шампуня, кондиционера и одной несмывашки+масочка на длину 1 раз в неделю,</segment>
+		<segment id="59" parent="407" relname="span">а у кого-то шампунь+маска+кондей после маски+трехступенчатый несмываемый уход и обязательная укладка феном,</segment>
+		<segment id="60" parent="59" relname="cause">иначе волосы будут выглядеть совсем не должным образом.</segment>
+		<segment id="61" parent="634" relname="preparation">##### Я, если можно так выразиться, адепт профессионального ухода за волосами.</segment>
+		<segment id="62" parent="409" relname="span">##### В период окрашивания травами у меня был облегченный, но увлажняющий уход.</segment>
+		<segment id="63" parent="410" relname="joint">Волосы натуральные,</segment>
+		<segment id="64" parent="410" relname="joint">сверху покрыты травяными пигментами,</segment>
+		<segment id="65" parent="410" relname="joint">не нуждаются в таких компонентах, которые как воздух необходимы волосам, подверженным химическому окрашиванию.</segment>
+		<segment id="66" parent="413" relname="joint">Костяк моего тогдашнего ухода: шампунь, маска, масляная несмывашка.</segment>
+		<segment id="67" parent="412" relname="span">Сушка феном,</segment>
+		<segment id="68" parent="67" relname="cause">поскольку я не любитель влажных от волос маек и тяжелых тюрбанов из мокрого полотенца.</segment>
+		<segment id="69" parent="414" relname="elaboration">##### На фото средства времен лета 2018г: питательная маска с маслом монои Kaaral Maraes, увлажняющая маска с алоэ-вера Kaaral Hydra, еще одна маска с алоэ Ollin Full Forse, масло Kerastase Elixir Ultime для окрашенных волос, восстанавливающий шампунь Kaaral Purify Reale. Сейчас у меня осталась только маска Kaaral Maraes, это литр просто нескончаем. ##### IMG</segment>
+		<segment id="70" parent="415" relname="preparation">##### В августе 2018 года я захотела перемен в длине волос и в цвете.</segment>
+		<segment id="71" parent="415" relname="joint">Я отрезала волосы по плечи</segment>
+		<segment id="72" parent="415" relname="joint">и убрала из окрашивания басму, оставив хну.</segment>
+		<segment id="73" parent="416" relname="cause">Хотелось стать чуть посветлее, ярче, теплее, солнечнее.</segment>
+		<segment id="74" parent="75" relname="concession">Но какой бы шикарной не была хна,</segment>
+		<segment id="75" parent="603" relname="span">она не сделает имеющиеся волосы светлее.</segment>
+		<segment id="76" parent="420" relname="joint">Она лишь придаст им медный оттенок</segment>
+		<segment id="77" parent="420" relname="joint">и слегка затемнит.</segment>
+		<segment id="78" parent="418" relname="elaboration">##### IMG</segment>
+		<segment id="79" parent="423" relname="span">##### Теперь волосы требовали еще меньше ухода с моей стороны.</segment>
+		<segment id="80" parent="422" relname="joint">Относительно небольшая длина,</segment>
+		<segment id="81" parent="422" relname="joint">густой обновленный срез.</segment>
+		<segment id="82" parent="425" relname="span">Красота.</segment>
+		<segment id="83" parent="424" relname="joint">Отращивай</segment>
+		<segment id="84" parent="424" relname="joint">и не мучайся!</segment>
+		<segment id="85" parent="426" relname="evaluation">Однако меня уже понесло.</segment>
+		<segment id="86" parent="87" relname="cause">Я три года проходила с длинными волосами в режиме бесперебойного отращивания,</segment>
+		<segment id="87" parent="428" relname="span">поэтому мне это просто надоело.</segment>
+		<segment id="88" parent="89" relname="cause">И да, я устала от длины,</segment>
+		<segment id="89" parent="429" relname="span">захотелось перемен.</segment>
+		<segment id="90" parent="430" relname="span">И с такими мыслями я решаюсь на стрижку боб-каре.</segment>
+		<segment id="91" parent="92" relname="attribution">Как люблю я говорить,</segment>
+		<segment id="92" parent="638" relname="span">подлецу все к лицу, даже такие изменения.</segment>
+		<segment id="93" parent="431" relname="joint">Уход остается прежним.</segment>
+		<segment id="94" parent="434" relname="elaboration">##### IMG</segment>
+		<segment id="95" parent="96" relname="condition">##### Если меняться,</segment>
+		<segment id="96" parent="435" relname="span">то по полной программе.</segment>
+		<segment id="97" parent="436" relname="span">Что мы имеем: короткие волосы, 1см отросших родных корней, 7 см волос, окрашенных только хной и оставшаяся часть длины под хной и басмой, черной, непробиваемой, не смывающейся.</segment>
+		<segment id="98" parent="437" relname="span">Помимо черного цвета я обожаю красно-малиновые оттенки волос.</segment>
+		<segment id="99" parent="611" relname="span">Такой оттенок с огромным трудом можно добиться,</segment>
+		<segment id="100" parent="99" relname="condition">окрашиваясь травами, и то, с сильным затемнением.</segment>
+		<segment id="101" parent="605" relname="span">А мне захотелось яркости.</segment>
+		<segment id="102" parent="639" relname="span">В моем случае без обесцвечивания не обойтись.</segment>
+		<segment id="103" parent="102" relname="elaboration">Порошком и 3% оксигентом 2 раза и порошком и 1,8% оксигентом один раз.</segment>
+		<segment id="104" parent="639" relname="elaboration">Все это по длине, там, где была хна с басмой.</segment>
+		<segment id="105" parent="440" relname="contrast">Корни обесцвечивали на 1,8%,</segment>
+		<segment id="106" parent="440" relname="contrast">но в сложившейся ситуации можно было бы обойтись и без чистки корней. Порошочек и оксиды фирм Bouticle и Tefia (оксид 1,8%).</segment>
+		<segment id="107" parent="108" relname="condition">При смывании пудры</segment>
+		<segment id="108" parent="442" relname="span">я поразилась тому, что мои волосы не были убитыми.</segment>
+		<segment id="109" parent="442" relname="elaboration">Пальцы проходили сквозь волосы не застревая и не выдирая их.</segment>
+		<segment id="110" parent="443" relname="evaluation">Фантастика да и только.</segment>
+		<segment id="111" parent="445" relname="span">##### Что до цвета, то хна обесцветилась до желто-оранжевого цвета, а басма — сине-зеленое безобразие.</segment>
+		<segment id="112" parent="111" relname="elaboration">##### IMG</segment>
+		<segment id="113" parent="612" relname="span">##### Выход из хны и басмы путем обесцвечивания — весьма неоднозначная тема,</segment>
+		<segment id="114" parent="640" relname="joint">вокруг которой ведутся жаркие дебаты как мастеров,</segment>
+		<segment id="115" parent="640" relname="joint">так и простых обывателей.</segment>
+		<segment id="116" parent="449" relname="joint">Многие из вас, наверно, слышали, что обесцвечивание хны дает зелень,</segment>
+		<segment id="117" parent="449" relname="joint">после хны невозможно стать блондинкой\получить холодный блонд, и т.д.</segment>
+		<segment id="118" parent="449" relname="evaluation">Отчасти, это правда, отчасти — бред больной души.</segment>
+		<segment id="119" parent="120" relname="condition">Если будет время,</segment>
+		<segment id="120" parent="452" relname="span">напишу об этом отдельный пост.</segment>
+		<segment id="121" parent="613" relname="preparation">##### После всех очищающих цвет манипуляций покрасили волосы красителем Bouticle 8.55 по длине и 7.55 на корнях.</segment>
+		<segment id="122" parent="123" relname="condition">Уже при смывании краски с волос</segment>
+		<segment id="123" parent="613" relname="span">я ощутила колоссальную разницу между тем, какими были волосы после смывания пудры и какими сейчас.</segment>
+		<segment id="124" parent="642" relname="contrast">Пальцы с трудом проходили сквозь спутанные дебри волос,</segment>
+		<segment id="125" parent="126" relname="attribution">а я все яснее и яснее понимала,</segment>
+		<segment id="126" parent="641" relname="span">что окрашивание перманентом было явно лишним.</segment>
+		<segment id="127" parent="454" relname="span">Но дело сделано,</segment>
+		<segment id="128" parent="616" relname="span">теперь моя задача ухаживать за поврежденными волосами,</segment>
+		<segment id="129" parent="128" relname="condition">стараясь поддерживать цвет и качество волос на должном уровне.</segment>
+		<segment id="130" parent="615" relname="elaboration">##### IMG</segment>
+		<segment id="131" parent="457" relname="span">##### Я привыкла к блеску, упругости и мягкости волос,</segment>
+		<segment id="132" parent="456" relname="joint">такими я хочу их видеть</segment>
+		<segment id="133" parent="456" relname="joint">и ощущать даже после тройного обесцвечивания.</segment>
+		<segment id="134" parent="459" relname="attribution">Вы можете сказать мне что-то вроде:</segment>
+		<segment id="135" parent="644" relname="joint">«Ты же обесцветилась,</segment>
+		<segment id="136" parent="644" relname="joint">испортила волосы,</segment>
+		<segment id="137" parent="458" relname="joint">вот и терпи теперь,</segment>
+		<segment id="138" parent="458" relname="joint">срезай</segment>
+		<segment id="139" parent="458" relname="joint">и отращивай натуральный цвет»,</segment>
+		<segment id="140" parent="606" relname="span">- и будете вкорне не правы)</segment>
+		<segment id="141" parent="140" relname="cause">Поскольку даже такие волосы имеют возможность «восстать из пепла, подобно прекрасному фениксу».</segment>
+		<segment id="142" parent="462" relname="span">##### Теперь мне нужен совсем иной уход для волос+ постоянное тонирование,</segment>
+		<segment id="143" parent="142" relname="cause">поскольку ярко-красный такой же капризный и недолговечный, как пепельный блонд.</segment>
+		<segment id="144" parent="463" relname="joint">Но из-за того, что мои волосы обесцвечены три раза подряд,</segment>
+		<segment id="145" parent="463" relname="joint">и после последующего тонирования стали намного хуже себя чувствовать,</segment>
+		<segment id="146" parent="465" relname="span">я решила перейти на прямые пигменты,</segment>
+		<segment id="147" parent="464" relname="joint">это такие красители, которые продаются в готовом виде,</segment>
+		<segment id="148" parent="464" relname="joint">их не нужно смешивать.</segment>
+		<segment id="149" parent="467" relname="contrast">Они отлично ложатся на обесцвеченные волосы,</segment>
+		<segment id="150" parent="467" relname="contrast">но на натуральные могут не лечь.</segment>
+		<segment id="151" parent="469" relname="elaboration">##### На фото: слева пигмент прямого действия Kapous Professional Rain Bow (красный), оттеночный бальзам Kapous Professional Life Color (гранат), оттеночная маска Tefia (красный), эти три тюбика у меня закончились. Справа еще не открытые средства: оттеночная маска Ollin Matisse Color (гранат), пигмент прямого действия Estel X-tro (розовый) и пигмент прямого действия Ollin Matisse Color (красный), открою буквально на днях, поскольку подходит время для очередного обесцвечивания корней и тонирования. IMG</segment>
+		<segment id="152" parent="470" relname="span">##### Эти красители можно смешивать с кондиционером или маской</segment>
+		<segment id="153" parent="152" relname="purpose">для смягчения воздействия на волосы или разбавления цвета.</segment>
+		<segment id="154" parent="155" relname="cause">Но я стремлюсь добиться максимальной яркости и насыщенности цвета,</segment>
+		<segment id="155" parent="471" relname="span">использую пигменты в чистом виде.</segment>
+		<segment id="156" parent="475" relname="span">В моем арсенале красные и розовые(фуксия) оттенки,</segment>
+		<segment id="157" parent="474" relname="span">я их чередую,</segment>
+		<segment id="158" parent="159" relname="cause">меняться прикольно, кстати,</segment>
+		<segment id="159" parent="473" relname="span">никогда не соскучишься)</segment>
+		<segment id="160" parent="472" relname="elaboration">##### IMG</segment>
+		<segment id="161" parent="477" relname="sequence">##### А каждые месяц-полтора я прохожусь по корням обесцвечивающей пудрой, замешанной на 1,5% оксигенте,</segment>
+		<segment id="162" parent="645" relname="span">и после тонирую каким-нибудь прямым пигментом.</segment>
+		<segment id="163" parent="162" relname="elaboration">Чаще всего цветом «фуксия».</segment>
+		<segment id="164" parent="477" relname="elaboration">##### IMG</segment>
+		<segment id="165" parent="480" relname="preparation">##### Вернемся к уходу.</segment>
+		<segment id="166" parent="167" relname="condition">Если ранее он состоял из легкого и не самого мягкого шампуня, средненькой маскочки и масляной несмывашки,</segment>
+		<segment id="167" parent="480" relname="span">то теперь это мягенький шампунь с кучей смягчающих компонентов, обязательно мощная питательная маска, кондиционер(не всегда и только после маски), трехступенчатый несмываемый уход: увлажняющий спрей, кремовая термозащита и финишная масляная несмывашка.</segment>
+		<segment id="168" parent="646" relname="comparison">Раньше, до моего увлечения уходом за волосами, все это мне казалось таким сложным и запутанным,</segment>
+		<segment id="169" parent="646" relname="comparison">а сейчас как дважды два.</segment>
+		<segment id="170" parent="482" relname="joint">Я знаю, что за чем идет</segment>
+		<segment id="171" parent="482" relname="joint">и знаю, какое средство какой эффект в сцепке с другим средством дает.</segment>
+		<segment id="172" parent="482" relname="evaluation">И это прекрасно!</segment>
+		<segment id="173" parent="484" relname="elaboration">##### IMG</segment>
+		<segment id="174" parent="493" relname="preparation">##### Очень люблю смываемый уход от Angel Professional.</segment>
+		<segment id="175" parent="487" relname="span">Раньше не любила его шампуни,</segment>
+		<segment id="176" parent="486" relname="joint">т.к они мне утяжеляли волосы</segment>
+		<segment id="177" parent="486" relname="joint">и плохо промывали кожу головы,</segment>
+		<segment id="178" parent="491" relname="span">но сейчас я смогла найти себе по душе,</segment>
+		<segment id="179" parent="490" relname="span">который в сложившихся реалиях и промывает хорошо,</segment>
+		<segment id="180" parent="489" relname="joint">не способствуя загрязнению раньше времени,</segment>
+		<segment id="181" parent="489" relname="joint">и в то же время бережно промывая;</segment>
+		<segment id="182" parent="492" relname="joint">а ангельские маски что тогда, что сейчас для меня полнейший восторг)))</segment>
+		<segment id="183" parent="495" relname="span">Так же впечатлил меня спрей из новой серии</segment>
+		<segment id="184" parent="183" relname="purpose">для защиты цвета.</segment>
+		<segment id="185" parent="496" relname="span">Что до кремовой термозащиты, то тут нескончаемый силиконистый,</segment>
+		<segment id="186" parent="185" relname="evaluation">а другим он и не должен быть,</segment>
+		<segment id="187" parent="497" relname="same-unit">Kaaral Pink Up.</segment>
+		<segment id="188" parent="499" relname="span">Масляный финиш периодически меняется.</segment>
+		<segment id="189" parent="188" relname="elaboration">Сейчас у меня в любимчиках кератиновое золотое масло Tahe Gold Keratin.</segment>
+		<segment id="190" parent="498" relname="joint">##### Этот уход актуален на данный момент.</segment>
+		<segment id="191" parent="498" relname="joint">Расскажу о нем подробнее.</segment>
+		<segment id="192" parent="502" relname="span">##### Шампунь Angel Professional Color Protect Shampoo Защита цвета</segment>
+		<segment id="193" parent="192" relname="elaboration">##### IMG на фото литровый формат и формат 250мл</segment>
+		<segment id="194" parent="501" relname="joint">##### Шампунь предназначен для окрашенных волос</segment>
+		<segment id="195" parent="501" relname="joint">и должен выполнять функцию защиты цвета.</segment>
+		<segment id="196" parent="197" relname="cause">Он содержит в себе несколько мягких ПАВов, а так же SLES, но не на первом месте,</segment>
+		<segment id="197" parent="505" relname="span">за счет всего этого шампунь очень бережно, но вместе с тем достаточно хорошо промывает как волосы, так и кожу головы.</segment>
+		<segment id="198" parent="649" relname="joint">Никакого налета и преждевременного загрязнения не было выявлено,</segment>
+		<segment id="199" parent="649" relname="joint">так же, как и перхоти, зуда, выпадения и прочих проблем.</segment>
+		<segment id="200" parent="506" relname="comparison">Во время мытья им мои волосы не так сильно спутываются,</segment>
+		<segment id="201" parent="651" relname="same-unit">на более здоровых волосах,</segment>
+		<segment id="202" parent="203" relname="attribution">я думаю,</segment>
+		<segment id="203" parent="650" relname="span">этой проблемы не было бы вообще.</segment>
+		<segment id="204" parent="507" relname="span">Шампунь мне идеально подошел</segment>
+		<segment id="205" parent="204" relname="purpose">для постоянного использования,</segment>
+		<segment id="206" parent="507" relname="elaboration">а я голову мою через день.</segment>
+		<segment id="207" parent="510" relname="span">Что до защиты цвета окрашенных волос, то здесь, на мой взгляд, все стандартно:</segment>
+		<segment id="208" parent="207" relname="elaboration">краситель вымывается в прежнем режиме.</segment>
+		<segment id="209" parent="504" relname="elaboration">##### IMG</segment>
+		<segment id="210" parent="513" relname="span">##### Консистенция шампуня очень интересная:</segment>
+		<segment id="211" parent="210" relname="elaboration">этакий крем-гель нежно-розового цвета без посторонних вкраплений и добавок, тягучий и ароматный.</segment>
+		<segment id="212" parent="213" relname="cause">Кстати, аромат очень насыщенный,</segment>
+		<segment id="213" parent="514" relname="span">первое время может надоедать своей резкостью.</segment>
+		<segment id="214" parent="624" relname="contrast">К сожалению, у меня плохо получается детально описывать ароматы,</segment>
+		<segment id="215" parent="652" relname="same-unit">но</segment>
+		<segment id="216" parent="217" relname="attribution">на мой взгляд,</segment>
+		<segment id="217" parent="653" relname="span">он представляет собой адскую смесь дедушкиного одеколона и цветочного букета.</segment>
+		<segment id="218" parent="519" relname="span">И только от пользователя шампуня зависит, чем будут пахнуть его волосы:</segment>
+		<segment id="219" parent="220" relname="condition">нанесешь немного и смоешь хорошо,</segment>
+		<segment id="220" parent="516" relname="span">будет приятный аромат цветов,</segment>
+		<segment id="221" parent="517" relname="joint">если переборщишь</segment>
+		<segment id="222" parent="517" relname="joint">и плохо смоешь-привет, дедуля.</segment>
+		<segment id="223" parent="521" relname="elaboration">##### IMG</segment>
+		<segment id="224" parent="523" relname="span">##### Кому подойдет этот шампунь:</segment>
+		<segment id="225" parent="660" relname="joint">волосам окрашенным, прошедшим через обесцвечивание,</segment>
+		<segment id="226" parent="660" relname="joint">а так же часто подвергающимся укладкам термоприборами.</segment>
+		<segment id="227" parent="619" relname="joint">Натуральным и волосам, окрашенными травами может не подойти</segment>
+		<segment id="228" parent="229" relname="cause">из-за слишком насыщенного состава и мягкости мытья</segment>
+		<segment id="229" parent="618" relname="span">будет перегружать волосы.</segment>
+		<segment id="230" parent="525" relname="joint">##### Цена: 370р, 974р</segment>
+		<segment id="231" parent="525" relname="joint">##### Объем: 250мл, 1000мл</segment>
+		<segment id="232" parent="525" relname="joint">##### Оценка: 5</segment>
+		<segment id="233" parent="525" relname="joint">##### Срок тестирования: 2 месяца.</segment>
+		<segment id="234" parent="526" relname="span">##### Расход шампуня зависит от формата упаковки:</segment>
+		<segment id="235" parent="234" relname="elaboration">у маленькой бутылочке 250мл мне требовалось на 1 намыливание 3-5 нажатий дозатора, а у литровой бутылки — 1-2 нажатия.</segment>
+		<segment id="236" parent="527" relname="span">##### Маска для волос Angel Professional Color Protect Hair Mask Защита цвета</segment>
+		<segment id="237" parent="236" relname="elaboration">##### IMG</segment>
+		<segment id="238" parent="528" relname="span">##### Маска предназначена для окрашенных волос,</segment>
+		<segment id="239" parent="238" relname="purpose">для защиты цвета,</segment>
+		<segment id="240" parent="529" relname="contrast">однако она ценна лично для меня не этим.</segment>
+		<segment id="241" parent="657" relname="span">Содержит в себе жирные спирты, глицерин</segment>
+		<segment id="242" parent="655" relname="span">(шикарный увлажняющий компонент,</segment>
+		<segment id="243" parent="244" relname="attribution">не знаю,</segment>
+		<segment id="244" parent="654" relname="span">почему вокруг него столько шумихи),</segment>
+		<segment id="245" parent="656" relname="same-unit">масла виноградных косточек, арганы, макадамии, экстракты бурых водорослей и лепестков дикой сакуры, амодиметикон(силикон), кератин, гидролизованные протеины пшеницы.</segment>
+		<segment id="246" parent="658" relname="elaboration">##### IMG</segment>
+		<segment id="247" parent="532" relname="joint">##### Консистенция у маски похожа на нежнейший пудинг или густой йогурт розового цвета.</segment>
+		<segment id="248" parent="534" relname="contrast">Аромат такой же яркий, как у шампуня.</segment>
+		<segment id="249" parent="533" relname="joint">Но к нему я привыкла</segment>
+		<segment id="250" parent="533" relname="joint">и почти не замечаю.</segment>
+		<segment id="251" parent="532" relname="elaboration">##### IMG</segment>
+		<segment id="252" parent="536" relname="preparation">##### Маска дарит моим волосам все то, чего им не хватает: блеск, увлажнение, питание.</segment>
+		<segment id="253" parent="536" relname="joint">Трогаешь их</segment>
+		<segment id="254" parent="536" relname="joint">и ощущаешь приятную прохладу и нетипичную для обесцвеченного полотна волос мягкость.</segment>
+		<segment id="255" parent="539" relname="joint">Они не спутываются,</segment>
+		<segment id="256" parent="539" relname="joint">и в целом, выглядят очень даже ухоженными.</segment>
+		<segment id="257" parent="540" relname="joint">В ней нет ничего лишнего,</segment>
+		<segment id="258" parent="540" relname="joint">она не перегружает волосы</segment>
+		<segment id="259" parent="541" relname="span">и не способствует их преждевременному загрязнению</segment>
+		<segment id="260" parent="259" relname="concession">несмотря на то, что я ее наношу близко к корням.</segment>
+		<segment id="261" parent="538" relname="elaboration">##### IMG</segment>
+		<segment id="262" parent="544" relname="span">##### Расход в моем случае относительно большой,</segment>
+		<segment id="263" parent="262" relname="evidence">поллитровая банка за пару месяцев регулярного (после каждого мытья) использования опустела наполовину.</segment>
+		<segment id="264" parent="545" relname="comparison">Для более здоровых волос расход будет ощутимо меньше.</segment>
+		<segment id="265" parent="546" relname="span">##### Кому подойдет эта маска:</segment>
+		<segment id="266" parent="265" relname="elaboration">окрашенным и обесцвеченным волосам — однозначно.</segment>
+		<segment id="267" parent="547" relname="span">Неокрашенным и волосам, окрашенными травами — с осторожностью,</segment>
+		<segment id="268" parent="267" relname="cause">поскольку лишний кератин в составе маски с такими волосами может сыграть злую шутку.</segment>
+		<segment id="269" parent="661" relname="joint">##### Цена: 857р</segment>
+		<segment id="270" parent="661" relname="joint">##### Объем: 500мл</segment>
+		<segment id="271" parent="661" relname="joint">##### Оценка: 5</segment>
+		<segment id="272" parent="661" relname="joint">##### Срок тестирования: 2 месяца.</segment>
+		<segment id="273" parent="550" relname="span">##### Спрей-кондиционер Angel Professional Color Protect Защита цвета</segment>
+		<segment id="274" parent="273" relname="elaboration">##### IMG</segment>
+		<segment id="275" parent="551" relname="span">##### Спрей-кондиционер предназначен</segment>
+		<segment id="276" parent="662" relname="joint">для сохранения цвета окрашенных волос</segment>
+		<segment id="277" parent="662" relname="joint">и защиты от солнечных лучей</segment>
+		<segment id="278" parent="663" relname="span">и перегрева</segment>
+		<segment id="279" parent="278" relname="condition">при укладке.</segment>
+		<segment id="280" parent="608" relname="contrast">Но я человек упертый, который не верит в термозащитные свойства и силы спреев,</segment>
+		<segment id="281" parent="666" relname="joint">мне подавай более плотные текстуры</segment>
+		<segment id="282" parent="664" relname="same-unit">или</segment>
+		<segment id="283" parent="284" relname="condition">в особо запущенных случаях</segment>
+		<segment id="284" parent="665" relname="span">— трехступенчатую несмываемую систему.</segment>
+		<segment id="285" parent="286" relname="cause">##### Консистенция спрея двухфазная,</segment>
+		<segment id="286" parent="552" relname="span">поэтому перед применением нужно взболтать бутылку.</segment>
+		<segment id="287" parent="554" relname="joint">Распыление широким мелкодисперсным облаком</segment>
+		<segment id="288" parent="554" relname="elaboration">##### IMG</segment>
+		<segment id="289" parent="562" relname="span">##### Этот спрей очень хорош для моих волос.</segment>
+		<segment id="290" parent="558" relname="span">Мало того, что он облегчает расчесывание,</segment>
+		<segment id="291" parent="557" relname="joint">его много не надо,</segment>
+		<segment id="292" parent="621" relname="comparison">а так же нет необходимости обновлять каждые два часа,</segment>
+		<segment id="293" parent="620" relname="span">как всеми хваленый голубой спрей Kapous Professional,</segment>
+		<segment id="294" parent="293" relname="evaluation">который я считаю одним из самых отвратительных спреев.</segment>
+		<segment id="295" parent="559" relname="joint">Спрей Angel не сушит волосы</segment>
+		<segment id="296" parent="559" relname="joint">и не перегружает,</segment>
+		<segment id="297" parent="560" relname="restatement">т.е никаких слипшихся прядей или тусклое полотно волос я не наблюдаю, только легкость и блеск.</segment>
+		<segment id="298" parent="564" relname="span">##### Кому подойдет этот спрей:</segment>
+		<segment id="299" parent="563" relname="span">здесь точно так же:</segment>
+		<segment id="300" parent="299" relname="elaboration">поврежденным, окрашенным волосам подойдет идеально, а более здоровым волосам — постолько, поскольку.</segment>
+		<segment id="301" parent="668" relname="joint">##### Цена: 920р</segment>
+		<segment id="302" parent="668" relname="joint">##### Объем: 250мл</segment>
+		<segment id="303" parent="668" relname="joint">##### Оценка: 5</segment>
+		<segment id="304" parent="668" relname="joint">##### Срок тестирования: 2 месяца.</segment>
+		<segment id="305" parent="565" relname="span">##### Термозащитный крем</segment>
+		<segment id="306" parent="305" relname="purpose">для выпрямления Kaaral Pink Up</segment>
+		<segment id="307" parent="565" relname="elaboration">##### IMG</segment>
+		<segment id="308" parent="622" relname="span">##### Предназначен для защиты от высоких температур</segment>
+		<segment id="309" parent="308" relname="condition">при выпрямлении волос и сушки феном.</segment>
+		<segment id="310" parent="568" relname="contrast">Я не выпрямляю волосы,</segment>
+		<segment id="311" parent="568" relname="contrast">но сушка феном обязательный для меня ритуал.</segment>
+		<segment id="312" parent="569" relname="joint">Крем обладает плотной силиконистой текстурой,</segment>
+		<segment id="313" parent="569" relname="joint">и пахнет карамельками.</segment>
+		<segment id="314" parent="570" relname="elaboration">##### IMG</segment>
+		<segment id="315" parent="571" relname="span">##### На влажные чистые волосы я наношу немного крема, распределяя от прикорневой зоны до самых кончиков.</segment>
+		<segment id="316" parent="315" relname="elaboration">На мои короткие волосы достаточно трех таких дозировок, как на фото выше.</segment>
+		<segment id="317" parent="572" relname="sequence">Средство равномерно распределяется</segment>
+		<segment id="318" parent="623" relname="span">и быстро впитывается,</segment>
+		<segment id="319" parent="318" relname="condition">не оставляя после себя никакого налета.</segment>
+		<segment id="320" parent="573" relname="sequence">Волосы гораздо легче расчесать.</segment>
+		<segment id="321" parent="573" relname="sequence">Можно приступать к сушке волос и укладке.</segment>
+		<segment id="322" parent="577" relname="span">##### Кому подойдет этот крем:</segment>
+		<segment id="323" parent="576" relname="joint">всем тем, кто так или иначе пользуется термоприборами</segment>
+		<segment id="324" parent="575" relname="span">и не гнушается силиконами,</segment>
+		<segment id="325" parent="324" relname="evidence">а в средстве их много.</segment>
+		<segment id="326" parent="670" relname="joint">##### Цена: 600р+ (средство снято с производства)</segment>
+		<segment id="327" parent="670" relname="joint">##### Объем: 250мл</segment>
+		<segment id="328" parent="670" relname="joint">##### Оценка: 5</segment>
+		<segment id="329" parent="670" relname="joint">##### Срок тестирования: 13 месяцев больше года</segment>
+		<segment id="330" parent="578" relname="span">##### Аргановое масло для волос с частицами золота Tahe Keratin gold</segment>
+		<segment id="331" parent="330" relname="elaboration">##### IMG</segment>
+		<segment id="332" parent="579" relname="joint">##### Это масло разглаживает</segment>
+		<segment id="333" parent="579" relname="joint">и защищает мои волосы от прикорневой зоны и до самых кончиков покруче Kerastase для окрашенных волос,</segment>
+		<segment id="334" parent="580" relname="contrast">а вот с классическим золотым эликсиром еще не сравнивала конкретно на окрашенных волосах.</segment>
+		<segment id="335" parent="582" relname="joint">##### Масло содержит в себе силиконы, масло арганы и кератин,</segment>
+		<segment id="336" parent="582" relname="joint">пахнет пьянящими ананасами.</segment>
+		<segment id="337" parent="584" relname="contrast">На официальном сайте есть информация о том, что средство содержит в себе микрочастицы золота,</segment>
+		<segment id="338" parent="583" relname="span">однако мне в это верится с трудом,</segment>
+		<segment id="339" parent="338" relname="cause">поскольку масло абсолютно прозрачное, по консистенции средней густоты.</segment>
+		<segment id="340" parent="585" relname="elaboration">##### IMG</segment>
+		<segment id="341" parent="587" relname="span">##### Кому подойдет это масло:</segment>
+		<segment id="342" parent="586" relname="joint">всем тем, кто любит ухаживать за волосами</segment>
+		<segment id="343" parent="586" relname="joint">и не боится силиконов.</segment>
+		<segment id="344" parent="345" relname="attribution">Мне кажется,</segment>
+		<segment id="345" parent="672" relname="span">оно подойдет любому типу волос.</segment>
+		<segment id="346" parent="631" relname="joint">##### Цена: 1000р</segment>
+		<segment id="347" parent="631" relname="joint">##### Объем: 30мл</segment>
+		<segment id="348" parent="631" relname="joint">##### Оценка: 5</segment>
+		<segment id="349" parent="631" relname="joint">##### Срок тестирования: полгода</segment>
+		<segment id="350" parent="609" relname="solutionhood">##### Жалею ли я о содеянном?</segment>
+		<segment id="351" parent="609" relname="span">Ни капли.</segment>
+		<segment id="352" parent="589" relname="span">Меня наконец-то отпустил страх испортить волосы обесцвечиванием,</segment>
+		<segment id="353" parent="352" relname="cause">потому что уход способен творить чудеса.</segment>
+		<segment id="354" parent="590" relname="span">А так же есть полная уверенность в том, что я смогу отрастить длинные и ухоженные волосы,</segment>
+		<segment id="355" parent="354" relname="condition">не отказываясь от ярких оттенков волос.</segment>
+		<segment id="356" parent="590" relname="concession">Хоть и рано об этом говорить.</segment>
+		<segment id="357" parent="594" relname="joint">##### В мои планы входит сращивание и постепенное срезание остатков тройного обесцвечивания, которому подвергся тот промежуток волос, на котором остались хна и басма.</segment>
+		<segment id="358" parent="359" relname="attribution">Мне часто говорят</segment>
+		<segment id="359" parent="679" relname="span">о красоте перехода из темного в яркий на моих волосах,</segment>
+		<segment id="360" parent="593" relname="contrast">однако пятнистость невыводимой с волос басмы смотрится не очень красиво.</segment>
+		<segment id="361" parent="673" relname="span">##### В голубых мечтах сидит пунктик об окрашивании в разные цвета,</segment>
+		<segment id="362" parent="674" relname="joint">пастельные</segment>
+		<segment id="363" parent="674" relname="joint">и насыщенные,</segment>
+		<segment id="364" parent="365" relname="attribution">однако, чувствую,</segment>
+		<segment id="365" parent="676" relname="span">что перегорю,</segment>
+		<segment id="366" parent="596" relname="span">хотя, кто знает…</segment>
+		<segment id="367" parent="368" relname="cause">когда я начала краситься басмой,</segment>
+		<segment id="368" parent="677" relname="span">тоже уверяла себя, что с черным навсегда.</segment>
+		<segment id="369" parent="678" relname="joint">Не навсегда.</segment>
+		<segment id="370" parent="678" relname="joint">Все временно.</segment>
+		<segment id="371" >##### Всем спасибо за внимание)</segment>
+		<group id="372" type="multinuc" parent="627" relname="span"/>
+		<group id="373" type="span" parent="374" relname="joint"/>
+		<group id="374" type="multinuc" parent="375" relname="joint"/>
+		<group id="375" type="multinuc" parent="629" relname="preparation"/>
+		<group id="376" type="span" parent="625" relname="joint"/>
+		<group id="377" type="span" parent="378" relname="restatement"/>
+		<group id="378" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="379" type="multinuc" parent="19" relname="purpose"/>
+		<group id="380" type="span" parent="378" relname="restatement"/>
+		<group id="381" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="382" type="span" parent="383" relname="same-unit"/>
+		<group id="383" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="384" type="multinuc" parent="385" relname="contrast"/>
+		<group id="385" type="multinuc" parent="388" relname="span"/>
+		<group id="386" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="387" type="span" parent="388" relname="evaluation"/>
+		<group id="388" type="span" parent="389" relname="span"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="390" type="span" parent="599" relname="span"/>
+		<group id="391" type="multinuc" parent="632" relname="span"/>
+		<group id="392" type="span" parent="37" relname="elaboration"/>
+		<group id="393" type="span" parent="394" relname="same-unit"/>
+		<group id="394" type="multinuc" parent="398" relname="span"/>
+		<group id="395" type="span" parent="397" relname="same-unit"/>
+		<group id="396" type="span" parent="397" relname="same-unit"/>
+		<group id="397" type="multinuc" parent="394" relname="elaboration"/>
+		<group id="398" type="span" parent="399" relname="comparison"/>
+		<group id="399" type="multinuc" parent="600" relname="span"/>
+		<group id="400" type="multinuc" parent="601" relname="comparison"/>
+		<group id="401" type="span" parent="405" relname="span"/>
+		<group id="402" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="403" type="span" parent="404" relname="span"/>
+		<group id="404" type="span" parent="601" relname="elaboration"/>
+		<group id="405" type="span" />
+		<group id="406" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="407" type="span" parent="406" relname="comparison"/>
+		<group id="408" type="span" parent="401" relname="evaluation"/>
+		<group id="409" type="span" parent="411" relname="span"/>
+		<group id="410" type="multinuc" parent="409" relname="elaboration"/>
+		<group id="411" type="span" parent="634" relname="span"/>
+		<group id="412" type="span" parent="413" relname="joint"/>
+		<group id="413" type="multinuc" parent="411" relname="elaboration"/>
+		<group id="414" type="span" parent="602" relname="span"/>
+		<group id="415" type="multinuc" parent="416" relname="span"/>
+		<group id="416" type="span" parent="417" relname="span"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" parent="421" relname="span"/>
+		<group id="419" type="multinuc" parent="417" relname="elaboration"/>
+		<group id="420" type="multinuc" parent="419" relname="contrast"/>
+		<group id="421" type="span" parent="682" relname="span"/>
+		<group id="422" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="423" type="span" parent="426" relname="span"/>
+		<group id="424" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="425" type="span" parent="423" relname="evaluation"/>
+		<group id="426" type="span" parent="427" relname="span"/>
+		<group id="427" type="span" parent="434" relname="span"/>
+		<group id="428" type="span" parent="433" relname="joint"/>
+		<group id="429" type="span" parent="433" relname="joint"/>
+		<group id="430" type="span" parent="431" relname="joint"/>
+		<group id="431" type="multinuc" parent="432" relname="span"/>
+		<group id="432" type="span" parent="427" relname="elaboration"/>
+		<group id="433" type="multinuc" parent="431" relname="cause"/>
+		<group id="434" type="span" parent="635" relname="span"/>
+		<group id="435" type="span" parent="97" relname="preparation"/>
+		<group id="436" type="span" parent="438" relname="background"/>
+		<group id="437" type="span" parent="604" relname="contrast"/>
+		<group id="438" type="span" parent="448" relname="span"/>
+		<group id="439" type="span" parent="441" relname="joint"/>
+		<group id="440" type="multinuc" parent="441" relname="joint"/>
+		<group id="441" type="multinuc" parent="447" relname="sequence"/>
+		<group id="442" type="span" parent="443" relname="span"/>
+		<group id="443" type="span" parent="444" relname="span"/>
+		<group id="444" type="span" parent="446" relname="joint"/>
+		<group id="445" type="span" parent="446" relname="joint"/>
+		<group id="446" type="multinuc" parent="447" relname="sequence"/>
+		<group id="447" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="448" type="span" />
+		<group id="449" type="multinuc" parent="450" relname="span"/>
+		<group id="450" type="span" parent="451" relname="span"/>
+		<group id="451" type="span" parent="612" relname="elaboration"/>
+		<group id="452" type="span" parent="450" relname="elaboration"/>
+		<group id="453" type="span" />
+		<group id="454" type="span" parent="455" relname="contrast"/>
+		<group id="455" type="multinuc" parent="614" relname="elaboration"/>
+		<group id="456" type="multinuc" parent="131" relname="elaboration"/>
+		<group id="457" type="span" parent="461" relname="span"/>
+		<group id="458" type="multinuc" parent="459" relname="span"/>
+		<group id="459" type="span" parent="628" relname="span"/>
+		<group id="460" type="span" parent="457" relname="elaboration"/>
+		<group id="461" type="span" />
+		<group id="462" type="span" parent="469" relname="contrast"/>
+		<group id="463" type="multinuc" parent="465" relname="cause"/>
+		<group id="464" type="multinuc" parent="146" relname="elaboration"/>
+		<group id="465" type="span" parent="466" relname="span"/>
+		<group id="466" type="span" parent="468" relname="span"/>
+		<group id="467" type="multinuc" parent="466" relname="elaboration"/>
+		<group id="468" type="span" parent="469" relname="contrast"/>
+		<group id="469" type="multinuc" parent="607" relname="span"/>
+		<group id="470" type="span" parent="472" relname="contrast"/>
+		<group id="471" type="span" parent="476" relname="span"/>
+		<group id="472" type="multinuc" parent="681" relname="span"/>
+		<group id="473" type="span" parent="157" relname="evaluation"/>
+		<group id="474" type="span" parent="156" relname="elaboration"/>
+		<group id="475" type="span" parent="471" relname="elaboration"/>
+		<group id="476" type="span" parent="472" relname="contrast"/>
+		<group id="477" type="multinuc" parent="478" relname="span"/>
+		<group id="478" type="span" parent="479" relname="joint"/>
+		<group id="479" type="multinuc" />
+		<group id="480" type="span" parent="481" relname="span"/>
+		<group id="481" type="span" parent="484" relname="span"/>
+		<group id="482" type="multinuc" parent="483" relname="span"/>
+		<group id="483" type="span" parent="646" relname="elaboration"/>
+		<group id="484" type="span" parent="485" relname="span"/>
+		<group id="485" type="span" />
+		<group id="486" type="multinuc" parent="175" relname="cause"/>
+		<group id="487" type="span" parent="488" relname="contrast"/>
+		<group id="488" type="multinuc" parent="492" relname="joint"/>
+		<group id="489" type="multinuc" parent="179" relname="cause"/>
+		<group id="490" type="span" parent="178" relname="elaboration"/>
+		<group id="491" type="span" parent="488" relname="contrast"/>
+		<group id="492" type="multinuc" parent="493" relname="span"/>
+		<group id="493" type="span" parent="494" relname="span"/>
+		<group id="494" type="span" parent="500" relname="joint"/>
+		<group id="495" type="span" parent="500" relname="joint"/>
+		<group id="496" type="span" parent="497" relname="same-unit"/>
+		<group id="497" type="multinuc" parent="500" relname="joint"/>
+		<group id="498" type="multinuc" parent="500" relname="evaluation"/>
+		<group id="499" type="span" parent="500" relname="joint"/>
+		<group id="500" type="multinuc" parent="683" relname="span"/>
+		<group id="501" type="multinuc" parent="503" relname="span"/>
+		<group id="502" type="span" parent="685" relname="elaboration"/>
+		<group id="503" type="span" parent="504" relname="span"/>
+		<group id="504" type="span" parent="686" relname="span"/>
+		<group id="505" type="span" parent="509" relname="joint"/>
+		<group id="506" type="multinuc" parent="509" relname="joint"/>
+		<group id="507" type="span" parent="508" relname="span"/>
+		<group id="508" type="span" parent="512" relname="joint"/>
+		<group id="509" type="multinuc" parent="501" relname="elaboration"/>
+		<group id="510" type="span" parent="511" relname="span"/>
+		<group id="511" type="span" parent="512" relname="joint"/>
+		<group id="512" type="multinuc" parent="503" relname="evaluation"/>
+		<group id="513" type="span" parent="521" relname="span"/>
+		<group id="514" type="span" parent="515" relname="span"/>
+		<group id="515" type="span" parent="520" relname="span"/>
+		<group id="516" type="span" parent="518" relname="comparison"/>
+		<group id="517" type="multinuc" parent="518" relname="comparison"/>
+		<group id="518" type="multinuc" parent="218" relname="elaboration"/>
+		<group id="519" type="span" parent="515" relname="elaboration"/>
+		<group id="520" type="span" parent="513" relname="elaboration"/>
+		<group id="521" type="span" parent="522" relname="span"/>
+		<group id="522" type="span" parent="685" relname="joint"/>
+		<group id="523" type="span" parent="524" relname="contrast"/>
+		<group id="524" type="multinuc" />
+		<group id="525" type="multinuc" />
+		<group id="526" type="span" parent="525" relname="joint"/>
+		<group id="527" type="span" parent="659" relname="preparation"/>
+		<group id="528" type="span" parent="529" relname="contrast"/>
+		<group id="529" type="multinuc" parent="658" relname="joint"/>
+		<group id="530" type="span" parent="687" relname="joint"/>
+		<group id="531" type="span" />
+		<group id="532" type="multinuc" parent="535" relname="span"/>
+		<group id="533" type="multinuc" parent="534" relname="contrast"/>
+		<group id="534" type="multinuc" parent="532" relname="joint"/>
+		<group id="535" type="span" parent="530" relname="elaboration"/>
+		<group id="536" type="multinuc" parent="537" relname="span"/>
+		<group id="537" type="span" parent="538" relname="span"/>
+		<group id="538" type="span" parent="543" relname="span"/>
+		<group id="539" type="multinuc" parent="542" relname="joint"/>
+		<group id="540" type="multinuc" parent="542" relname="joint"/>
+		<group id="541" type="span" parent="540" relname="joint"/>
+		<group id="542" type="multinuc" parent="537" relname="elaboration"/>
+		<group id="543" type="span" parent="549" relname="joint"/>
+		<group id="544" type="span" parent="545" relname="comparison"/>
+		<group id="545" type="multinuc" parent="549" relname="joint"/>
+		<group id="546" type="span" parent="548" relname="comparison"/>
+		<group id="547" type="span" parent="548" relname="comparison"/>
+		<group id="548" type="multinuc" />
+		<group id="549" type="multinuc" parent="687" relname="joint"/>
+		<group id="550" type="span" parent="556" relname="preparation"/>
+		<group id="551" type="span" parent="553" relname="contrast"/>
+		<group id="552" type="span" parent="554" relname="joint"/>
+		<group id="553" type="multinuc" parent="556" relname="joint"/>
+		<group id="554" type="multinuc" parent="555" relname="span"/>
+		<group id="555" type="span" parent="556" relname="joint"/>
+		<group id="556" type="multinuc" parent="667" relname="span"/>
+		<group id="557" type="multinuc" parent="290" relname="elaboration"/>
+		<group id="558" type="span" parent="561" relname="joint"/>
+		<group id="559" type="multinuc" parent="560" relname="restatement"/>
+		<group id="560" type="multinuc" parent="561" relname="joint"/>
+		<group id="561" type="multinuc" parent="289" relname="evidence"/>
+		<group id="562" type="span" parent="556" relname="joint"/>
+		<group id="563" type="span" parent="298" relname="elaboration"/>
+		<group id="564" type="span" parent="556" relname="joint"/>
+		<group id="565" type="span" parent="566" relname="span"/>
+		<group id="566" type="span" parent="688" relname="preparation"/>
+		<group id="567" type="span" parent="570" relname="joint"/>
+		<group id="568" type="multinuc" parent="622" relname="elaboration"/>
+		<group id="569" type="multinuc" parent="570" relname="joint"/>
+		<group id="570" type="multinuc" parent="689" relname="span"/>
+		<group id="571" type="span" parent="574" relname="span"/>
+		<group id="572" type="multinuc" parent="573" relname="sequence"/>
+		<group id="573" type="multinuc" parent="571" relname="elaboration"/>
+		<group id="574" type="span" parent="688" relname="joint"/>
+		<group id="575" type="span" parent="576" relname="joint"/>
+		<group id="576" type="multinuc" parent="322" relname="elaboration"/>
+		<group id="577" type="span" parent="688" relname="joint"/>
+		<group id="578" type="span" parent="691" relname="preparation"/>
+		<group id="579" type="multinuc" parent="580" relname="contrast"/>
+		<group id="580" type="multinuc" parent="690" relname="span"/>
+		<group id="581" type="span" />
+		<group id="582" type="multinuc" parent="585" relname="joint"/>
+		<group id="583" type="span" parent="584" relname="contrast"/>
+		<group id="584" type="multinuc" parent="585" relname="joint"/>
+		<group id="585" type="multinuc" parent="671" relname="span"/>
+		<group id="586" type="multinuc" parent="341" relname="elaboration"/>
+		<group id="587" type="span" parent="588" relname="span"/>
+		<group id="588" type="span" parent="691" relname="joint"/>
+		<group id="589" type="span" parent="592" relname="joint"/>
+		<group id="590" type="span" parent="591" relname="span"/>
+		<group id="591" type="span" parent="592" relname="joint"/>
+		<group id="592" type="multinuc" parent="351" relname="evidence"/>
+		<group id="593" type="multinuc" parent="594" relname="joint"/>
+		<group id="594" type="multinuc" parent="598" relname="joint"/>
+		<group id="595" type="span" parent="366" relname="evidence"/>
+		<group id="596" type="span" parent="676" relname="concession"/>
+		<group id="597" type="multinuc" parent="598" relname="joint"/>
+		<group id="598" type="multinuc" />
+		<group id="599" type="span" parent="391" relname="joint"/>
+		<group id="600" type="span" />
+		<group id="601" type="multinuc" parent="401" relname="span"/>
+		<group id="602" type="span" />
+		<group id="603" type="span" parent="419" relname="contrast"/>
+		<group id="604" type="multinuc" parent="438" relname="span"/>
+		<group id="605" type="span" parent="604" relname="contrast"/>
+		<group id="606" type="span" parent="628" relname="evaluation"/>
+		<group id="607" type="span" />
+		<group id="608" type="multinuc" parent="553" relname="contrast"/>
+		<group id="609" type="span" parent="610" relname="span"/>
+		<group id="610" type="span" parent="598" relname="joint"/>
+		<group id="611" type="span" parent="98" relname="elaboration"/>
+		<group id="612" type="span" parent="453" relname="span"/>
+		<group id="613" type="span" parent="614" relname="span"/>
+		<group id="614" type="span" parent="615" relname="span"/>
+		<group id="615" type="span" parent="643" relname="span"/>
+		<group id="616" type="span" parent="127" relname="elaboration"/>
+		<group id="617" type="span" parent="481" relname="elaboration"/>
+		<group id="618" type="span" parent="619" relname="joint"/>
+		<group id="619" type="multinuc" parent="524" relname="contrast"/>
+		<group id="620" type="span" parent="621" relname="comparison"/>
+		<group id="621" type="multinuc" parent="557" relname="joint"/>
+		<group id="622" type="span" parent="567" relname="span"/>
+		<group id="623" type="span" parent="572" relname="sequence"/>
+		<group id="624" type="multinuc" parent="514" relname="evaluation"/>
+		<group id="625" type="multinuc" parent="391" relname="joint"/>
+		<group id="626" type="span" parent="625" relname="joint"/>
+		<group id="627" type="span" parent="373" relname="span"/>
+		<group id="628" type="span" parent="460" relname="span"/>
+		<group id="629" type="multinuc" parent="630" relname="span"/>
+		<group id="630" type="span" />
+		<group id="631" type="multinuc" parent="691" relname="joint"/>
+		<group id="632" type="span" parent="633" relname="span"/>
+		<group id="633" type="span" />
+		<group id="634" type="span" parent="414" relname="span"/>
+		<group id="635" type="span" parent="421" relname="elaboration"/>
+		<group id="636" type="multinuc" parent="637" relname="span"/>
+		<group id="637" type="span" parent="601" relname="comparison"/>
+		<group id="638" type="span" parent="90" relname="evaluation"/>
+		<group id="639" type="span" parent="439" relname="span"/>
+		<group id="640" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="641" type="span" parent="642" relname="contrast"/>
+		<group id="642" type="multinuc" parent="455" relname="contrast"/>
+		<group id="643" type="span" />
+		<group id="644" type="multinuc" parent="458" relname="cause"/>
+		<group id="645" type="span" parent="477" relname="sequence"/>
+		<group id="646" type="multinuc" parent="617" relname="span"/>
+		<group id="647" type="span" parent="629" relname="joint"/>
+		<group id="648" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="649" type="multinuc" parent="509" relname="joint"/>
+		<group id="650" type="span" parent="651" relname="same-unit"/>
+		<group id="651" type="multinuc" parent="506" relname="comparison"/>
+		<group id="652" type="multinuc" parent="624" relname="contrast"/>
+		<group id="653" type="span" parent="652" relname="same-unit"/>
+		<group id="654" type="span" parent="242" relname="elaboration"/>
+		<group id="655" type="span" parent="241" relname="evaluation"/>
+		<group id="656" type="multinuc" parent="658" relname="joint"/>
+		<group id="657" type="span" parent="656" relname="same-unit"/>
+		<group id="658" type="multinuc" parent="530" relname="span"/>
+		<group id="659" type="span" parent="531" relname="span"/>
+		<group id="660" type="multinuc" parent="224" relname="elaboration"/>
+		<group id="661" type="multinuc" />
+		<group id="662" type="multinuc" parent="275" relname="purpose"/>
+		<group id="663" type="span" parent="662" relname="joint"/>
+		<group id="664" type="multinuc" parent="666" relname="joint"/>
+		<group id="665" type="span" parent="664" relname="same-unit"/>
+		<group id="666" type="multinuc" parent="608" relname="contrast"/>
+		<group id="667" type="span" />
+		<group id="668" type="multinuc" parent="556" relname="joint"/>
+		<group id="669" type="span" />
+		<group id="670" type="multinuc" parent="688" relname="joint"/>
+		<group id="671" type="span" parent="580" relname="elaboration"/>
+		<group id="672" type="span" parent="587" relname="evaluation"/>
+		<group id="673" type="span" parent="597" relname="contrast"/>
+		<group id="674" type="multinuc" parent="361" relname="elaboration"/>
+		<group id="675" type="span" parent="597" relname="contrast"/>
+		<group id="676" type="span" parent="675" relname="span"/>
+		<group id="677" type="span" parent="595" relname="span"/>
+		<group id="678" type="multinuc" parent="677" relname="elaboration"/>
+		<group id="679" type="span" parent="593" relname="contrast"/>
+		<group id="680" type="span" />
+		<group id="681" type="span" parent="479" relname="joint"/>
+		<group id="682" type="span" />
+		<group id="683" type="span" />
+		<group id="684" type="span" />
+		<group id="685" type="multinuc" parent="684" relname="span"/>
+		<group id="686" type="span" parent="685" relname="joint"/>
+		<group id="687" type="multinuc" parent="659" relname="span"/>
+		<group id="688" type="multinuc" parent="669" relname="span"/>
+		<group id="689" type="span" parent="688" relname="joint"/>
+		<group id="690" type="span" parent="691" relname="joint"/>
+		<group id="691" type="multinuc" parent="581" relname="span"/>
+	</body>
+</rst>

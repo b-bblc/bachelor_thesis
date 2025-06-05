@@ -1,0 +1,474 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Адрес статьи: www.gramota.net/materials/2/2015/2-2/10.html</segment>
+		<segment id="2" relname="antithesis">Источник</segment>
+		<segment id="3" relname="antithesis">Филологические науки. Вопросы теории и практики</segment>
+		<segment id="4" relname="antithesis">Тамбов: Грамота, 2015. № 2 (44): в 2-х ч. Ч. II. C. 43-47. ISSN 1997-2911.</segment>
+		<segment id="5" relname="antithesis">Адрес журнала: www.gramota.net/editions/2.html</segment>
+		<segment id="6" relname="antithesis">Содержание данного номера журнала: www .gramota.net/mate rials/2/2015/2-2/</segment>
+		<segment id="7" relname="antithesis">© Издательство "Грамота"</segment>
+		<segment id="8" relname="antithesis">УДК 81'347.78.034 Филологические науки</segment>
+		<segment id="9" relname="antithesis">Переводы с японского языка отличаются особой сложностью</segment>
+		<segment id="10" relname="antithesis">вследствие значительных культурных и структурных особенностей.</segment>
+		<segment id="11" relname="antithesis">В данной статье рассматривается проблема передачи японской категории вежливости - одной из специфических черт японского языка - в переводах на французский и русский языки аниме-фильма Х. Миядзаки «Унесенные призраками».</segment>
+		<segment id="12" relname="antithesis">Анализ ряда фрагментов показывает,</segment>
+		<segment id="13" relname="antithesis">какие именно переводческие трансформации позволили максимально точно передать содержание, сохраняя коммуникативные интенции говорящих и эмоциональный фон высказываний.</segment>
+		<segment id="14" relname="antithesis">Ключевые слова и фразы: переводоведение; японоведение; переводческие трансформации; категория вежливости; грамматика; сопоставительное языкознание; киноискусство.</segment>
+		<segment id="15" relname="antithesis">Бубнова Анна Сергеевна, к. филол. н.</segment>
+		<segment id="16" relname="antithesis">Нижегородский государственный лингвистический университет им. Н. А. Добролюбова frenjap@yandex. ru</segment>
+		<segment id="17" relname="antithesis">ЯПОНСКАЯ КАТЕГОРИЯ ВЕЖЛИВОСТИ КАК ПЕРЕВОДЧЕСКАЯ ПРОБЛЕМА ВО ФРАНЦУЗСКОЙ И РУССКОЙ ВЕРСИЯХ АНИМЕ-ФИЛЬМА Х. МИЯДЗАКИ 千と千尋の神隠し/ «LE VOYAGE DE CHIHIRO» / «УНЕСЕННЫЕ ПРИЗРАКАМИ»©</segment>
+		<segment id="18" parent="221" relname="span">Когда при контакте двух или более культур процесс понимания речевого произведения осложняется</segment>
+		<segment id="19" parent="18" relname="cause">вследствие наличия промежуточного звена - переводчика,</segment>
+		<segment id="20" parent="222" relname="span">неизбежно встает вопрос о переводимости культурно обусловленных языковых явлений.</segment>
+		<segment id="21" parent="22" relname="attribution">И если одни исследователи утверждают,</segment>
+		<segment id="22" parent="223" relname="span">что практически все поддается переводу,</segment>
+		<segment id="23" parent="227" relname="same-unit">то,</segment>
+		<segment id="24" parent="225" relname="attribution">по мнению других,</segment>
+		<segment id="25" parent="224" relname="joint">передача смыслов между языками проблематична,</segment>
+		<segment id="26" parent="224" relname="joint">а иногда просто невозможна,</segment>
+		<segment id="27" parent="231" relname="cause">т.к. даже переформулирование внутри одного языка чревато искажениями и потерями [5].</segment>
+		<segment id="28" parent="233" relname="span">В данной статье рассматривается вопрос переводимости/непереводимости такого феномена как категория вежливости в японском языке.</segment>
+		<segment id="29" parent="234" relname="span">Своеобразие выражения этикетных отношений в японском языке проявляется в том,</segment>
+		<segment id="30" parent="235" relname="span">что задействуется при этом не только лексика, но и грамматика:</segment>
+		<segment id="31" parent="30" relname="elaboration">в каждом японском предложении сказуемое должно иметь определенную грамматическую форму в зависимости от отношения говорящего к собеседнику и/или к третьим лицам [2].</segment>
+		<segment id="32" parent="241" relname="span">При этом относить японскую категорию вежливости к явлениям строго грамматическим представляется не совсем корректным,</segment>
+		<segment id="33" parent="239" relname="span">поскольку лексическое значение слова может накладывать ограничения на использование грамматических форм,</segment>
+		<segment id="34" relname="antithesis">а грамматические формы - на выбор лексических средств</segment>
+		<segment id="35" parent="33" relname="evidence">(так, вежливые гоноративные лексемы не употребляются в форме повелительного просторечного наклонения).</segment>
+		<segment id="36" parent="240" relname="restatement">Японская категория вежливости представляет собой скорее многослойное языковое явление.</segment>
+		<segment id="37" parent="244" relname="span">В японском языке обычно выделяют две грамматические категории вежливости:</segment>
+		<segment id="38" parent="242" relname="contrast">одна передает отношение говорящего к собеседнику,</segment>
+		<segment id="39" parent="242" relname="contrast">другая - семантическому субъекту и/или объекту действия.</segment>
+		<segment id="40" parent="249" relname="attribution">В. М. Алпатов определяет их соответственно как категории адрессива и гоноратива.</segment>
+		<segment id="41" parent="247" relname="span">Первая состоит из адрессивных и не- адрессивных форм.</segment>
+		<segment id="42" parent="245" relname="contrast">Адрессивные указывают на почтительное отношение к собеседнику;</segment>
+		<segment id="43" parent="245" relname="contrast">неадрессивные обычно не несут в себе такой информации.</segment>
+		<segment id="44" parent="259" relname="span">Во второй категории выделяется три группы: гоноративные (почтительные), депрециативные (скромные) и нейтральные формы.</segment>
+		<segment id="45" parent="250" relname="span">Гоноративные относятся к мелиоративному типу уважительного отношения,</segment>
+		<segment id="46" parent="45" relname="condition">когда лексема «возвеличивает» объект уважительного отношения.</segment>
+		<segment id="47" parent="255" relname="span">Депрециативные представляют пейоративный тип уважительного отношения</segment>
+		<segment id="48" parent="253" relname="same-unit">- говорящий,</segment>
+		<segment id="49" parent="50" relname="cause">принижая себя,</segment>
+		<segment id="50" parent="252" relname="span">возвышает собеседника.</segment>
+		<segment id="51" parent="256" relname="joint">Нейтральные формы одновременно негоноративны</segment>
+		<segment id="52" parent="256" relname="joint">и недепрециативны [1].</segment>
+		<segment id="53" parent="261" relname="joint">Определяя не только отношение говорящего к собеседнику или лицу, о котором идет речь, но и принадлежность данного лица к кругу «своих» или «чужих»</segment>
+		<segment id="54" parent="261" relname="joint">и указывая на социально-личностные отношения коммуникантов,</segment>
+		<segment id="55" parent="263" relname="span">категория вежливости может влиять на восприятие как отдельных фрагментов, так и всего высказывания.</segment>
+		<segment id="56" parent="271" relname="span">Причем правила выбора той или иной формы этикетной вежливости в японском языке гораздо более стандартизованы, чем, казалось бы, сходные правила выбора местоимения в русском и французском языках.</segment>
+		<segment id="57" parent="265" relname="span">Иногда указывают на их соответствие [2],</segment>
+		<segment id="58" parent="270" relname="span">что отчасти признается верным, причем для русского языка даже больше, чем для французского:</segment>
+		<segment id="59" parent="266" relname="comparison">в русском есть «дружеское ты» и «начальническое ты»,</segment>
+		<segment id="60" parent="266" relname="comparison">что сходно с функциями японских простых форм,</segment>
+		<segment id="61" parent="268" relname="contrast">а в западных языках - обычно только первое [Ibidem].</segment>
+		<segment id="62" parent="272" relname="span">Замечено, что развитие диалога во многом определяется социальным статусом:</segment>
+		<segment id="63" parent="64" relname="cause">в рамках своей социальной роли человек вынужден действовать по предписанной схеме,</segment>
+		<segment id="64" parent="273" relname="span">что может порождать некооперативные диалоги, в том числе и без какой- либо особой подачи со стороны [3].</segment>
+		<segment id="65" parent="274" relname="span">Поскольку японская система иерархических отношений отличается особой сложностью</segment>
+		<segment id="66" parent="65" relname="elaboration">(более высокое положение не только у того, кто занимает высокую должность, но и у того, кто старше, имеет больший опыт в данном деле или просто относится к кругу «чужих»),</segment>
+		<segment id="67" parent="275" relname="span">практически все диалоги анализируемого фильма будут относиться к категории некооперативных.</segment>
+		<segment id="68" parent="278" relname="span">Иерархические отношения героев и, соответственно, их выбор между грамматическими формами можно представить следующим образом:</segment>
+		<segment id="69" parent="68" relname="elaboration">Рисунок 1. Иерархические отношения между героями фильма</segment>
+		<segment id="70" parent="281" relname="span">В некоторых случаях проблема перевода решается относительно легко:</segment>
+		<segment id="71" parent="279" relname="joint">переводчик просто подбирает эквиваленты на уровне ситуации</segment>
+		<segment id="72" parent="279" relname="joint">и использует конвенциональные высказывания.</segment>
+		<segment id="73" parent="74" relname="preparation">Возьмем, например, фреймы входа в общение:</segment>
+		<segment id="74" parent="282" relname="span">использование гоноративных форм в оригинале не создает никаких трудностей при переводе.</segment>
+		<segment id="75" parent="288" relname="span">Так, в сцене, где служащие приветствуют посетителей и Хаку</segment>
+		<segment id="76" parent="284" relname="joint">(Хаку занимает самое высокое положение после Юбабы,</segment>
+		<segment id="77" parent="284" relname="joint">а гости по определению выше хозяев),</segment>
+		<segment id="78" parent="286" relname="same-unit">используются следующие формы:</segment>
+		<segment id="79" parent="287" relname="elaboration">Таблица 1. Сцена приветствия гостей [Таблица]</segment>
+		<segment id="80" parent="295" relname="span">В оригинале мы видим гоноративную форму глаголов {ки, киги («идти, приходить») - irassyaru; tsuku («прибывать») - otsuкi(desu); modoru («возвращаться») - omodorikudasamase и депрециативную форму глагола matsu («ждать») - omatisuru.</segment>
+		<segment id="81" parent="293" relname="contrast">Аналогичных форм в языках перевода нет,</segment>
+		<segment id="82" parent="83" relname="cause">однако в данном случае трансформации</segment>
+		<segment id="83" parent="292" relname="span">не влекут за собой никакой потери смысла.</segment>
+		<segment id="84" parent="296" relname="span">Удачные решения были найдены и</segment>
+		<segment id="85" parent="84" relname="purpose">для перевода фрагментов разговора Хаку с Тихиро.</segment>
+		<segment id="86" parent="297" relname="span">В речи Хаку используются преимущественно простые формы:</segment>
+		<segment id="87" parent="86" relname="elaboration">в целом тональность его высказываний колеблется от снисходительно-покровительственной до резко-приказной.</segment>
+		<segment id="88" parent="300" relname="span">Так, глагольная форма ~па&amp;т используется для обращения к нижестоящим.</segment>
+		<segment id="89" parent="298" relname="joint">Это мягкий приказ, в чем-то увещевательный,</segment>
+		<segment id="90" parent="298" relname="joint">так часто обращаются родители к детям.</segment>
+		<segment id="91" parent="303" relname="span">Хаку как руководящее лицо должен проследить,</segment>
+		<segment id="92" parent="301" relname="joint">что Тихиро поставленную задачу поняла</segment>
+		<segment id="93" parent="301" relname="joint">и будет хорошо работать,</segment>
+		<segment id="94" parent="304" relname="restatement">т.е. он должен проявить определенную заботу.</segment>
+		<segment id="95" parent="308" relname="contrast">Глагольной формы с аналогичным значением ни в русском, ни во французском нет.</segment>
+		<segment id="96" parent="306" relname="span">Однако общую тональность фразы (в частности, при переводе на русский язык) удалось сохранить</segment>
+		<segment id="97" parent="307" relname="span">благодаря добавлению обращения, уступительного что ж и внутрикатего-риальной замены</segment>
+		<segment id="98" parent="97" relname="elaboration">(императив, исключающий говорящего, заменен на императив, включающий говорящего).</segment>
+		<segment id="99" parent="314" relname="elaboration">Таблица 2. Разговор Хаку и Тихиро [Таблица]</segment>
+		<segment id="100" parent="316" relname="span">Затем снисходительно-покровительствующий тон героя меняется на резко- приказной: императив в простой форме с частицей па и императив в форме 4-ой глагольной основы на ~е</segment>
+		<segment id="101" parent="100" relname="elaboration">(в японском языке, за исключением разговорного регистра, такие формы относятся к крайне категоричным).</segment>
+		<segment id="102" parent="317" relname="condition">При переводе,</segment>
+		<segment id="103" parent="104" relname="concession">несмотря на использование совершенно разных приемов,</segment>
+		<segment id="104" parent="317" relname="span">переводчикам вновь удалось эту тональность передать.</segment>
+		<segment id="105" parent="321" relname="span">Во французской версии категоричность в первом предложении оказалась отражена</segment>
+		<segment id="106" parent="320" relname="span">благодаря сложному приему морфо-синтаксической рекатегоризации в сочетании с функциональной транспозицией</segment>
+		<segment id="107" parent="106" relname="elaboration">(замена полного отрицательного побудительного предложения на эллиптическое неотрицательное изъявительное, в котором существительное выполняет функцию императива).</segment>
+		<segment id="108" parent="319" relname="span">Во втором предложении передать приказной тон позволяет залоговая функциональная транспозиция</segment>
+		<segment id="109" parent="108" relname="elaboration">(императив заменен на форму пассивного залога с функцией императива).</segment>
+		<segment id="110" parent="327" relname="same-unit">В русском переводе,</segment>
+		<segment id="111" parent="112" relname="purpose">чтобы первая реплика воспринималась как категоричный приказ,</segment>
+		<segment id="112" parent="326" relname="span">оказалось достаточным, после структурных преобразований, перенести наречие образа действия в препозицию к глаголу.</segment>
+		<segment id="113" parent="329" relname="joint">Во втором предложении была использована функциональная транспозиция: форма будущего времени с функцией императива.</segment>
+		<segment id="114" parent="330" relname="elaboration">Таблица 3. [Таблица]</segment>
+		<segment id="115" parent="332" relname="sequence">Мы рассмотрели случаи, когда категория вежливости при переводе была передана успешно.</segment>
+		<segment id="116" parent="332" relname="sequence">Перейдем теперь к тем моментам, когда данная категория отражения в переводе не нашла или была передана в искаженном виде.</segment>
+		<segment id="117" parent="334" relname="joint">Одним из примеров некооперативного диалога, когда между героями возникает конфликт, является беседа Тихиро и Юбабы во время их первой встречи,</segment>
+		<segment id="118" parent="334" relname="joint">а источником конфликта становится нарушение правил этикетной вежливости1.</segment>
+		<segment id="119" parent="336" relname="span">Диалог начинается с реплики Тихиро:</segment>
+		<segment id="120" parent="119" relname="elaboration">^^ТЩй^Г'ч^с^2</segment>
+		<segment id="121" parent="340" relname="span">В данной ситуа- ции она ведет себя не слишком вежливо по отношению к особе,</segment>
+		<segment id="122" parent="338" relname="joint">которая не только старше, но и выше по социальному положению,</segment>
+		<segment id="123" parent="338" relname="joint">и которую героиня собирается просить об одолжении.</segment>
+		<segment id="124" parent="341" relname="joint">Во-первых, Тихиро пытается войти без стука,</segment>
+		<segment id="125" parent="341" relname="joint">во-вторых, не произносит ожидаемых в этом случае извинений,</segment>
+		<segment id="126" parent="342" relname="span">в-третьих, сразу переходит к цели визита,</segment>
+		<segment id="127" parent="126" relname="evaluation">что, как правило, в японской культурной среде воспринимается как неучтивость.</segment>
+		<segment id="128" parent="337" relname="span">Наконец, императив &lt; даже в сочетании с каузативной (лежащей в основе многих гоноративных форм) формой глагола hataraku - hatarakaseru в данном случае не может считаться депрециативной формой, обязательной к употреблению</segment>
+		<segment id="129" parent="128" relname="attribution">согласно приведенной выше схеме.</segment>
+		<segment id="130" parent="346" relname="span">Именно таким поведением Тихиро отчасти и объясняются агрессивность и недоброжелательность Юбабы.</segment>
+		<segment id="131" parent="349" relname="same-unit">Казалось бы,</segment>
+		<segment id="132" parent="133" relname="cause">поскольку ранее эта категория при переводе была передана,</segment>
+		<segment id="133" parent="348" relname="span">и в этот раз особых сложностей возникнуть не должно.</segment>
+		<segment id="134" parent="354" relname="evaluation">Кажется вполне ожидаемым,</segment>
+		<segment id="135" parent="351" relname="joint">что в крайнем случае переводчик прибегнет к приему опущения</segment>
+		<segment id="136" parent="352" relname="joint">и либо сохранит исходный уровень вежливости,</segment>
+		<segment id="137" parent="352" relname="joint">либо понизит его.</segment>
+		<segment id="138" parent="359" relname="span">Однако происходит наоборот:</segment>
+		<segment id="139" parent="138" relname="elaboration">степень вежливости при переводе оказывается выше, чем в оригинале.</segment>
+		<segment id="140" parent="361" relname="span">Сравним:</segment>
+		<segment id="141" parent="140" relname="elaboration">Таблица 4. Первая встреча Тихиро и Юбабы [Таблица]</segment>
+		<segment id="142" parent="368" relname="cause">Как видно, в переводных версиях приемы рекатегоризации (смена направленности действия и использование Conditionnel) и добавления (приветствие и обращения) были использованы таким образом,</segment>
+		<segment id="143" parent="368" relname="span">что указанные выше смысловые оттенки оказались стерты</segment>
+		<segment id="144" parent="143" relname="elaboration">(это особенно заметно во французском переводе).</segment>
+		<segment id="145" parent="366" relname="attribution">Поэтому зрителю может показаться,</segment>
+		<segment id="146" parent="366" relname="span">что Юбаба - просто вздорная злая ведьма,</segment>
+		<segment id="147" parent="146" relname="elaboration">чья жестокость ничем не мотивирована,</segment>
+		<segment id="148" parent="367" relname="evaluation">т.е. не совсем точный перевод влияет не только на образ персонажа и зрительское восприятие, но и на определенную логику повествования.</segment>
+		<segment id="149" parent="364" relname="span">Этого не произошло бы,</segment>
+		<segment id="150" parent="149" relname="condition">если бы переводчики уделили больше внимания структурной особенности оригинала</segment>
+		<segment id="151" parent="362" relname="preparation">(представим,</segment>
+		<segment id="152" parent="362" relname="span">некто открывает дверь и с порога заявляет:</segment>
+		<segment id="153" parent="152" relname="elaboration">«Donnez-moi du travail» / «Дайте мне работу»).</segment>
+		<segment id="154" parent="384" relname="span">Еще одним примером того, как неточное отражение степени вежливости может привести к искажению зрительского представления о героях, становятся диалоги служанки Рин с Тихиро и дедом Камадзи.</segment>
+		<segment id="155" parent="156" relname="cause">Из них троих Рин занимает самое высокое положение,</segment>
+		<segment id="156" parent="374" relname="span">поэтому в ее речи используются исключительно простые формы.</segment>
+		<segment id="157" parent="378" relname="background">В оригинале Рин - по-своему добрая, но грубоватая девушка.</segment>
+		<segment id="158" parent="375" relname="span">В разговоре с Камадзи она всегда прибегает к разговорно-фамильярному регистру (разговорному</segment>
+		<segment id="159" parent="158" relname="cause">- т.к. она хорошо к нему относится,</segment>
+		<segment id="160" parent="376" relname="span">фамильярному</segment>
+		<segment id="161" parent="160" relname="cause">- т.к. он занимает более низкое положение).</segment>
+		<segment id="162" parent="163" relname="cause">Приемы добавления (обращение) и рекатегоризации (вопросительная форма) вместе с антонимичной конструкцией и эквивалентной заменой приводят к тому,</segment>
+		<segment id="163" parent="379" relname="span">что раздраженно-приказное замечание превращается в мягкий упрек-просьбу:</segment>
+		<segment id="164" parent="384" relname="elaboration">Таблица 5. Из разговора Рин и Камадзи [Таблица]</segment>
+		<segment id="165" parent="412" relname="span">С Тихиро ситуация несколько иная:</segment>
+		<segment id="166" parent="386" relname="joint">Тихиро Рин навязывают,</segment>
+		<segment id="167" parent="386" relname="joint">и Рин воспринимает это как наказание,</segment>
+		<segment id="168" parent="388" relname="span">поэтому и в речи превалируют приказные резкие формы,</segment>
+		<segment id="169" parent="389" relname="comparison">в русском языке это было бы так называемое «начальническое ты».</segment>
+		<segment id="170" parent="393" relname="cause">По мере развития сюжета ее отношение к Тихиро изменится,</segment>
+		<segment id="171" parent="393" relname="span">что немедленно отразится и в речи</segment>
+		<segment id="172" parent="391" relname="joint">(которая, впрочем, не станет более вежливой по форме,</segment>
+		<segment id="173" parent="391" relname="joint">скорее, более дружелюбной по интонациям).</segment>
+		<segment id="174" parent="397" relname="span">На этот раз нельзя не отметить некоторые плюсы французского перевода:</segment>
+		<segment id="175" parent="395" relname="joint">в нем характер героини передан более точно</segment>
+		<segment id="176" parent="395" relname="joint">и смена отношения выражена гораздо более ощутимо.</segment>
+		<segment id="177" parent="400" relname="same-unit">Тогда как в русском переводе</segment>
+		<segment id="178" parent="179" relname="cause">из-за изначально нечетко определенного уровня вежливости</segment>
+		<segment id="179" parent="399" relname="span">эти перемены прослеживаются не столь явно:</segment>
+		<segment id="180" parent="401" relname="elaboration">«дружеские ты» перемежаются с откровенной грубостью и даже оскорблениями.</segment>
+		<segment id="181" parent="402" relname="evidence">Так, вероятно, в качестве компенсации в русском варианте в дальнейшем при переводе реплик Рин периодически вставляются слова типа «тупица».</segment>
+		<segment id="182" parent="406" relname="span">Сравним:</segment>
+		<segment id="183" parent="404" relname="joint">Таблица 6. Стадия настороженно-негативного отношения [Таблица]</segment>
+		<segment id="184" parent="404" relname="joint">Таблица 7. Стадия дружеского отношения [Таблица]</segment>
+		<segment id="185" parent="418" relname="span">В качестве замечания в адрес французского перевода отметим тот факт, что смена отношения Рин к Тихиро выражена за счет формального повышения уровня вежливости речи,</segment>
+		<segment id="186" parent="416" relname="same-unit">чего,</segment>
+		<segment id="187" parent="188" relname="antithesis">на наш взгляд,</segment>
+		<segment id="188" parent="415" relname="span">делать не стоило.</segment>
+		<segment id="189" parent="419" relname="contrast">В оригинале в речи Рин на протяжении всего фильма используются исключительно простые формы,</segment>
+		<segment id="190" parent="419" relname="contrast">в то время как в переводе появляются условное наклонение, смягчающие вводные конструкции, вопросительные формы вместо повелительного наклонения.</segment>
+		<segment id="191" parent="421" relname="span">В итоге создается впечатление, что у Рин внезапно повысилась культура речи в целом.</segment>
+		<segment id="192" parent="424" relname="condition">Как видно, при переводе</segment>
+		<segment id="193" parent="423" relname="span">как французский и русский языки японская категория вежливости вызывает практически одинаковые сложности,</segment>
+		<segment id="194" parent="193" relname="elaboration">которые не объясняются исключительно структурными различиями.</segment>
+		<segment id="195" parent="427" relname="cause">Думается, что в отдельных случаях переводчики ограничились передачей внешних форм, не учитывая их места в системе,</segment>
+		<segment id="196" parent="426" relname="joint">что помешало точно определить степень вежливости реплик</segment>
+		<segment id="197" parent="426" relname="joint">и адекватно отразить этот момент,</segment>
+		<segment id="198" parent="429" relname="span">поэтому и получается, что превращения «грамматики слов» в «грамматику мысли» не произошло [4].</segment>
+		<segment id="199" parent="200" relname="evidence">Как мы смогли убедиться на первых примерах,</segment>
+		<segment id="200" parent="431" relname="span">японская категория вежливости вполне переводима.</segment>
+		<segment id="201" parent="432" relname="joint">При этом не стоит недооценивать сложность данного явления</segment>
+		<segment id="202" parent="434" relname="span">и злоупотреблять конвенциональными высказываниями,</segment>
+		<segment id="203" parent="202" relname="cause">обусловленными коммуникативной ситуацией языка перевода:</segment>
+		<segment id="204" parent="435" relname="joint">если в одном случае (приветствие гостей) они оказываются удачны</segment>
+		<segment id="205" parent="435" relname="joint">и приемлемы,</segment>
+		<segment id="206" parent="207" relname="cause">то в другом (диалог Юбабы и Тихиро) их использование</segment>
+		<segment id="207" parent="437" relname="span">может привести к искажениям.</segment>
+		<segment id="208" parent="443" relname="cause">Учитывая структурные ограничения, которыми в плане категориального выражения вежливости «связаны» французский и русский языки,</segment>
+		<segment id="209" parent="442" relname="joint">вероятно, следует чаще применять прием компенсации</segment>
+		<segment id="210" parent="442" relname="joint">и восполнять недостаточно «невежливые» грамматические формы за счет соответствующих лексических единиц и/или синтаксический моделей.</segment>
+		<segment id="211" parent="445" relname="joint">В противном случае это приводит к неточностям</segment>
+		<segment id="212" parent="445" relname="joint">и может повлиять на зрительскую оценку героев, а значит, и на восприятие фильма в целом и передачу авторского замысла.</segment>
+		<segment id="213" relname="antithesis">Список литературы</segment>
+		<segment id="214" relname="antithesis">1\. Алпатов В. М. Категория вежливости в современном японском языке. М.: Наука, 1973. 107 с.</segment>
+		<segment id="215" relname="antithesis">2\. Алпатов В. М. Япония. Язык и культура. М.: Языки славянских культур, 2008. 208 с.</segment>
+		<segment id="216" relname="antithesis">3\. Букин А. С. Фактор социального статуса при формировании некооперативного диалога // Филологические науки. Вопросы теории и практики. Тамбов: Грамота, 2014. № 6 (36). Ч. I. C. 40-44.</segment>
+		<segment id="217" relname="antithesis">4\. Выготский Л. С. Мышление и речь. М.: Лабиринт, 2007. 352 с.</segment>
+		<segment id="218" relname="antithesis">5\. Chandler D. Semiotics for Beginners [Электронный ресурс]. URL: http ://visual-memory.co.uk/daniel/Documents/S4B/ semiotic.html (дата обращения: 31.08.2014).</segment>
+		<group id="221" type="span" parent="20" relname="condition"/>
+		<group id="222" type="span" parent="232" relname="span"/>
+		<group id="223" type="span" parent="229" relname="comparison"/>
+		<group id="224" type="multinuc" parent="231" relname="span"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="227" relname="same-unit"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="229" relname="comparison"/>
+		<group id="229" type="multinuc" parent="230" relname="span"/>
+		<group id="230" type="span" parent="222" relname="elaboration"/>
+		<group id="231" type="span" parent="225" relname="span"/>
+		<group id="232" type="span" parent="28" relname="background"/>
+		<group id="233" type="span" relname="antithesis"/>
+		<group id="234" type="span" parent="237" relname="span"/>
+		<group id="235" type="span" parent="29" relname="evidence"/>
+		<group id="236" type="span" parent="234" relname="elaboration"/>
+		<group id="237" type="span" relname="antithesis"/>
+		<group id="239" type="span" parent="32" relname="cause"/>
+		<group id="240" type="multinuc" parent="236" relname="span"/>
+		<group id="241" type="span" parent="240" relname="restatement"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="37" relname="elaboration"/>
+		<group id="244" type="span" relname="antithesis"/>
+		<group id="245" type="multinuc" parent="246" relname="span"/>
+		<group id="246" type="span" parent="41" relname="elaboration"/>
+		<group id="247" type="span" parent="248" relname="joint"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="249" type="span" parent="260" relname="span"/>
+		<group id="250" type="span" parent="251" relname="joint"/>
+		<group id="251" type="multinuc" parent="258" relname="span"/>
+		<group id="252" type="span" parent="253" relname="same-unit"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" parent="47" relname="elaboration"/>
+		<group id="255" type="span" parent="251" relname="joint"/>
+		<group id="256" type="multinuc" parent="257" relname="span"/>
+		<group id="257" type="span" parent="251" relname="joint"/>
+		<group id="258" type="span" parent="44" relname="elaboration"/>
+		<group id="259" type="span" parent="248" relname="joint"/>
+		<group id="260" type="span" relname="antithesis"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" parent="55" relname="cause"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" relname="antithesis"/>
+		<group id="265" type="span" parent="56" relname="elaboration"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="contrast"/>
+		<group id="268" type="multinuc" parent="269" relname="span"/>
+		<group id="269" type="span" parent="58" relname="evidence"/>
+		<group id="270" type="span" parent="57" relname="evaluation"/>
+		<group id="271" type="span" parent="263" relname="elaboration"/>
+		<group id="272" type="span" parent="276" relname="background"/>
+		<group id="273" type="span" parent="62" relname="evidence"/>
+		<group id="274" type="span" parent="67" relname="cause"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" relname="antithesis"/>
+		<group id="278" type="span" parent="275" relname="elaboration"/>
+		<group id="279" type="multinuc" parent="280" relname="span"/>
+		<group id="280" type="span" parent="70" relname="elaboration"/>
+		<group id="281" type="span" parent="291" relname="span"/>
+		<group id="282" type="span" parent="289" relname="span"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="75" relname="elaboration"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="290" relname="span"/>
+		<group id="288" type="span" parent="286" relname="same-unit"/>
+		<group id="289" type="span" parent="281" relname="evidence"/>
+		<group id="290" type="span" parent="282" relname="evidence"/>
+		<group id="291" type="span" relname="antithesis"/>
+		<group id="292" type="span" parent="293" relname="contrast"/>
+		<group id="293" type="multinuc" parent="294" relname="span"/>
+		<group id="294" type="span" parent="80" relname="elaboration"/>
+		<group id="295" type="span" relname="antithesis"/>
+		<group id="296" type="span" parent="313" relname="preparation"/>
+		<group id="297" type="span" parent="313" relname="span"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="88" relname="elaboration"/>
+		<group id="300" type="span" parent="311" relname="span"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="91" relname="purpose"/>
+		<group id="303" type="span" parent="304" relname="restatement"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="310" relname="span"/>
+		<group id="306" type="span" parent="308" relname="contrast"/>
+		<group id="307" type="span" parent="96" relname="cause"/>
+		<group id="308" type="multinuc" parent="309" relname="span"/>
+		<group id="309" type="span" parent="311" relname="elaboration"/>
+		<group id="310" type="span" parent="300" relname="elaboration"/>
+		<group id="311" type="span" parent="312" relname="span"/>
+		<group id="312" type="span" parent="297" relname="evidence"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="315" relname="span"/>
+		<group id="315" type="span" relname="antithesis"/>
+		<group id="316" type="span" parent="325" relname="span"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="324" relname="span"/>
+		<group id="319" type="span" parent="322" relname="joint"/>
+		<group id="320" type="span" parent="105" relname="cause"/>
+		<group id="321" type="span" parent="322" relname="joint"/>
+		<group id="322" type="multinuc" parent="323" relname="span"/>
+		<group id="323" type="span" parent="318" relname="evidence"/>
+		<group id="324" type="span" parent="316" relname="solutionhood"/>
+		<group id="325" type="span" relname="antithesis"/>
+		<group id="326" type="span" parent="327" relname="same-unit"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="328" type="span" parent="329" relname="joint"/>
+		<group id="329" type="multinuc" parent="330" relname="span"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" relname="antithesis"/>
+		<group id="332" type="multinuc" parent="333" relname="span"/>
+		<group id="333" type="span" relname="antithesis"/>
+		<group id="334" type="multinuc" parent="335" relname="span"/>
+		<group id="335" type="span" parent="347" relname="span"/>
+		<group id="336" type="span" parent="345" relname="span"/>
+		<group id="337" type="span" parent="341" relname="joint"/>
+		<group id="338" type="multinuc" parent="339" relname="span"/>
+		<group id="339" type="span" parent="121" relname="elaboration"/>
+		<group id="340" type="span" parent="344" relname="span"/>
+		<group id="341" type="multinuc" parent="343" relname="span"/>
+		<group id="342" type="span" parent="341" relname="joint"/>
+		<group id="343" type="span" parent="340" relname="evidence"/>
+		<group id="344" type="span" parent="336" relname="evaluation"/>
+		<group id="345" type="span" parent="130" relname="cause"/>
+		<group id="346" type="span" parent="335" relname="elaboration"/>
+		<group id="347" type="span" relname="antithesis"/>
+		<group id="348" type="span" parent="349" relname="same-unit"/>
+		<group id="349" type="multinuc" parent="350" relname="span"/>
+		<group id="350" type="span" parent="356" relname="span"/>
+		<group id="351" type="multinuc" parent="354" relname="span"/>
+		<group id="352" type="multinuc" parent="353" relname="span"/>
+		<group id="353" type="span" parent="351" relname="joint"/>
+		<group id="354" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" parent="350" relname="elaboration"/>
+		<group id="356" type="span" parent="357" relname="contrast"/>
+		<group id="357" type="multinuc" parent="358" relname="span"/>
+		<group id="358" type="span" relname="antithesis"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" parent="357" relname="contrast"/>
+		<group id="361" type="span" parent="359" relname="evidence"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="364" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="371" relname="elaboration"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="372" relname="span"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="370" relname="cause"/>
+		<group id="370" type="span" parent="371" relname="span"/>
+		<group id="371" type="span" parent="373" relname="span"/>
+		<group id="372" type="span" parent="370" relname="span"/>
+		<group id="373" type="span" relname="antithesis"/>
+		<group id="374" type="span" parent="381" relname="span"/>
+		<group id="375" type="span" parent="377" relname="same-unit"/>
+		<group id="376" type="span" parent="377" relname="same-unit"/>
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="378" type="span" parent="380" relname="span"/>
+		<group id="379" type="span" parent="382" relname="contrast"/>
+		<group id="380" type="span" parent="374" relname="evidence"/>
+		<group id="381" type="span" parent="382" relname="contrast"/>
+		<group id="382" type="multinuc" parent="383" relname="span"/>
+		<group id="383" type="span" parent="154" relname="elaboration"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" relname="antithesis"/>
+		<group id="386" type="multinuc" parent="387" relname="span"/>
+		<group id="387" type="span" parent="168" relname="cause"/>
+		<group id="388" type="span" parent="389" relname="comparison"/>
+		<group id="389" type="multinuc" parent="390" relname="span"/>
+		<group id="390" type="span" parent="413" relname="span"/>
+		<group id="391" type="multinuc" parent="392" relname="span"/>
+		<group id="392" type="span" parent="171" relname="elaboration"/>
+		<group id="393" type="span" parent="394" relname="span"/>
+		<group id="394" type="span" parent="409" relname="sequence"/>
+		<group id="395" type="multinuc" parent="396" relname="span"/>
+		<group id="396" type="span" parent="174" relname="elaboration"/>
+		<group id="397" type="span" parent="398" relname="comparison"/>
+		<group id="398" type="multinuc" parent="407" relname="span"/>
+		<group id="399" type="span" parent="400" relname="same-unit"/>
+		<group id="400" type="multinuc" parent="401" relname="span"/>
+		<group id="401" type="span" parent="402" relname="span"/>
+		<group id="402" type="span" parent="403" relname="span"/>
+		<group id="403" type="span" parent="398" relname="comparison"/>
+		<group id="404" type="multinuc" parent="405" relname="span"/>
+		<group id="405" type="span" parent="182" relname="elaboration"/>
+		<group id="406" type="span" parent="407" relname="evidence"/>
+		<group id="407" type="span" parent="408" relname="span"/>
+		<group id="408" type="span" parent="414" relname="span"/>
+		<group id="409" type="multinuc" parent="410" relname="span"/>
+		<group id="410" type="span" parent="411" relname="span"/>
+		<group id="411" type="span" parent="408" relname="preparation"/>
+		<group id="412" type="span" parent="390" relname="preparation"/>
+		<group id="413" type="span" parent="409" relname="sequence"/>
+		<group id="414" type="span" relname="antithesis"/>
+		<group id="415" type="span" parent="416" relname="same-unit"/>
+		<group id="416" type="multinuc" parent="417" relname="span"/>
+		<group id="417" type="span" parent="185" relname="evaluation"/>
+		<group id="418" type="span" parent="422" relname="span"/>
+		<group id="419" type="multinuc" parent="420" relname="span"/>
+		<group id="420" type="span" parent="191" relname="cause"/>
+		<group id="421" type="span" parent="418" relname="elaboration"/>
+		<group id="422" type="span" relname="antithesis"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="424" type="span" parent="425" relname="span"/>
+		<group id="425" type="span" parent="430" relname="span"/>
+		<group id="426" type="multinuc" parent="427" relname="span"/>
+		<group id="427" type="span" parent="428" relname="span"/>
+		<group id="428" type="span" parent="198" relname="cause"/>
+		<group id="429" type="span" parent="425" relname="elaboration"/>
+		<group id="430" type="span" relname="antithesis"/>
+		<group id="431" type="span" parent="441" relname="span"/>
+		<group id="432" type="multinuc" parent="433" relname="span"/>
+		<group id="433" type="span" parent="431" relname="elaboration"/>
+		<group id="434" type="span" parent="440" relname="span"/>
+		<group id="435" type="multinuc" parent="436" relname="span"/>
+		<group id="436" type="span" parent="438" relname="contrast"/>
+		<group id="437" type="span" parent="438" relname="contrast"/>
+		<group id="438" type="multinuc" parent="439" relname="span"/>
+		<group id="439" type="span" parent="434" relname="elaboration"/>
+		<group id="440" type="span" parent="432" relname="joint"/>
+		<group id="441" type="span" parent="449" relname="span"/>
+		<group id="442" type="multinuc" parent="443" relname="span"/>
+		<group id="443" type="span" parent="444" relname="span"/>
+		<group id="444" type="span" parent="447" relname="comparison"/>
+		<group id="445" type="multinuc" parent="446" relname="span"/>
+		<group id="446" type="span" parent="447" relname="comparison"/>
+		<group id="447" type="multinuc" parent="448" relname="span"/>
+		<group id="448" type="span" parent="441" relname="elaboration"/>
+		<group id="449" type="span" relname="antithesis"/>
+  </body>
+</rst>

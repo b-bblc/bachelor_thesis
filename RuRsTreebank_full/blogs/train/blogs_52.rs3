@@ -1,0 +1,254 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://alexandr-rogers.livejournal.com/1162607.html</segment>
+		<segment id="2" parent="206" relname="span">##### 11:11 pm: Наркобарыги и ПМЭФ</segment>
+		<segment id="3" parent="2" relname="elaboration">##### IMG</segment>
+		<segment id="4" parent="124" relname="span">##### В эти дни на всю планету прогремел арест известного</segment>
+		<segment id="5" parent="4" relname="evaluation">(кому? я о нём впервые услышал)</segment>
+		<segment id="6" parent="125" relname="same-unit">журналиста Ивана Голунова.</segment>
+		<segment id="7" parent="199" relname="comparison">На фоне этого практически незамеченным (на уровне криминальной хроники) прошёл какой-то малозначительный Петербургский Международный Экономический Форум.</segment>
+		<segment id="8" parent="126" relname="joint">##### Что?! Должно быть наоборот!</segment>
+		<segment id="9" parent="126" relname="joint">Что вообще происходит?!</segment>
+		<segment id="10" parent="126" relname="joint">Что не так с российскими СМИ (и не только)?</segment>
+		<segment id="11" parent="127" relname="sequence">##### Главные события последних дней, имеющие геополитическое значение и поистине планетарные масштабы – это приезд Си Цзиньпина во главе практически всего китайского правительства в Москву,</segment>
+		<segment id="12" parent="127" relname="sequence">подписание на последовавшей затем встрече кучи стратегических договоров,</segment>
+		<segment id="13" parent="128" relname="span">а затем проведение ПМЭФ,</segment>
+		<segment id="14" parent="13" relname="elaboration">который в этом году побил все рекорды по суммам подписанных контрактов.</segment>
+		<segment id="15" parent="130" relname="span">И, конечно, ключевое событие последнего времени – это речь Путина на ПМЭФ,</segment>
+		<segment id="16" parent="129" relname="span">по значимости сопоставимая с его Мюнхенской речью</segment>
+		<segment id="17" parent="16" relname="elaboration">(и являющаяся её логическим развитием и продолжением).</segment>
+		<segment id="18" parent="207" relname="same-unit">##### Это то, что будет определять</segment>
+		<segment id="19" parent="208" relname="joint">как будущее экономическое благополучие России (это рабочие места, зарплаты, налоги, развитие инфраструктуры и так далее),</segment>
+		<segment id="20" parent="208" relname="joint">так и облик планеты на ближайшие десятилетия в целом.</segment>
+		<segment id="21" parent="134" relname="span">##### Но большинство СМИ сосредоточили своё внимание не на великом, а на ничтожном.</segment>
+		<segment id="22" parent="132" relname="span">Потому что задержание за наркоту журналиста третьесортного латвийского СМИ</segment>
+		<segment id="23" parent="22" relname="background">(да, «Медуза» зарегистрирована как СМИ исключительно в Латвии!)</segment>
+		<segment id="24" parent="133" relname="same-unit">– это обыденность и банальность.</segment>
+		<segment id="25" parent="135" relname="same-unit">##### Только за последние полгода</segment>
+		<segment id="26" parent="27" relname="cause">за изготовление, употребление, хранение и сбыт наркоты</segment>
+		<segment id="27" parent="136" relname="span">было задержано как минимум ПЯТЬ различных активистов Ходорковского.</segment>
+		<segment id="28" parent="29" relname="cause">Что особенного в данном конкретном случае,</segment>
+		<segment id="29" parent="137" relname="span">что из-за этого стоило игнорировать проведение ПМЭФ?</segment>
+		<segment id="30" parent="142" relname="span">##### Со стороны это выглядело примерно так:</segment>
+		<segment id="31" parent="139" relname="span">по улице бежит огромный великолепный чёрный ньюфаундленд</segment>
+		<segment id="32" parent="209" relname="span">(порода собак такая,</segment>
+		<segment id="33" parent="32" relname="evaluation">моя любимая),</segment>
+		<segment id="34" parent="140" relname="attribution">а окружающие в это время кричат</segment>
+		<segment id="35" parent="140" relname="joint">«Блоха!</segment>
+		<segment id="36" parent="140" relname="joint">Смотрите, он загрыз блоху!</segment>
+		<segment id="37" parent="140" relname="joint">У неё повреждена лапка!</segment>
+		<segment id="38" parent="140" relname="joint">Шестая слева сзади!</segment>
+		<segment id="39" parent="140" relname="joint">Вызывайте Гринпис и общество защиты ущербных!».</segment>
+		<segment id="40" parent="146" relname="contrast">##### Единственный косяк пресс-службы МВД в том, что она смешала в кучу фотографии с двух разных задержаний.</segment>
+		<segment id="41" parent="144" relname="cause">Но, зная как работают пресс-службы изнутри,</segment>
+		<segment id="42" parent="188" relname="same-unit">там скорее всего за компом сидит чья-то девочка с пухлыми губами</segment>
+		<segment id="43" parent="44" relname="purpose">(и, для равновесия в природе,</segment>
+		<segment id="44" parent="143" relname="span">с неразвитым мозгом),</segment>
+		<segment id="45" parent="188" relname="elaboration">которая всё и перепутала.</segment>
+		<segment id="46" parent="146" relname="evaluation">Никаких оснований раздувать из этого сенсацию не было.</segment>
+		<segment id="47" parent="149" relname="span">##### В соцсетях истерию поддерживали паблики типа «Мелодии Воронежа» или «Типичный Улан-Удэ»,</segment>
+		<segment id="48" parent="148" relname="attribution">готовые за сто рублей написать,</segment>
+		<segment id="49" parent="148" relname="joint">что земля имеет форму бублика</segment>
+		<segment id="50" parent="148" relname="joint">и стоит на спине Ольги Бузовой</segment>
+		<segment id="51" parent="201" relname="span">(и которые уже не в первый раз берут кровавые деньги Ходорковского</segment>
+		<segment id="52" parent="51" relname="cause">за попытки разжигания недовольства).</segment>
+		<segment id="53" parent="151" relname="attribution">##### Но и мейнстримные медиа зачастую вещали в том же ключе.</segment>
+		<segment id="54" parent="151" relname="joint">«Ой, у нашего наркопупсика синячок на ноге!</segment>
+		<segment id="55" parent="151" relname="joint">Кровавая гэбня грубыми берцами отдавила ему мизинчик!</segment>
+		<segment id="56" parent="151" relname="joint">Нужна срочная госпитализация, реанимация и дефибрилляция!».</segment>
+		<segment id="57" parent="190" relname="contrast">##### Что характерно, срочно проведённое обледование «жертвы режима» ничего, кроме одиночного синяка под глазом, не обнаружило.</segment>
+		<segment id="58" parent="202" relname="span">А плохо «журналисту» стало</segment>
+		<segment id="59" parent="58" relname="cause">из-за банальной ломки.</segment>
+		<segment id="60" parent="154" relname="span">С наркоманами такое бывает,</segment>
+		<segment id="61" parent="153" relname="span">странно было бы,</segment>
+		<segment id="62" parent="61" relname="condition">если бы ему стало хорошо.</segment>
+		<segment id="63" parent="156" relname="span">##### Тусовочка дружной грудью кинулась за защиту одного из своих</segment>
+		<segment id="64" parent="205" relname="span">(может быть, для части из них он даже был дилером, поставлявшим «честно и чистый»),</segment>
+		<segment id="65" parent="64" relname="cause">доказывая своё право на «илитарность» и неприкосновенность.</segment>
+		<segment id="66" parent="160" relname="span">##### Я вообще не понимаю этого визга.</segment>
+		<segment id="67" parent="68" relname="condition">Если он «журналист» (не российского СМИ, между прочим, а откровенно враждебного),</segment>
+		<segment id="68" parent="157" relname="span">то что теперь, ему можно торговать наркотиками?</segment>
+		<segment id="69" parent="212" relname="comparison">Может ещё и оргии с развращением малолетних устраивать можно,</segment>
+		<segment id="70" parent="212" relname="comparison">как другому оппозиционному активисту, также недавно арестованному?</segment>
+		<segment id="71" parent="213" relname="same-unit">##### И,</segment>
+		<segment id="72" parent="214" relname="evaluation">что особенно мерзко,</segment>
+		<segment id="73" parent="214" relname="span">система правосудия прогнулась,</segment>
+		<segment id="74" parent="73" relname="condition">отпустив наркодельца под домашний арест.</segment>
+		<segment id="75" parent="213" relname="evaluation">Не надо так!</segment>
+		<segment id="76" parent="163" relname="cause">##### Первый шаг на пути к госперевороту – это внушить правоохранителям, что «оппозиция неприкосновенна».</segment>
+		<segment id="77" parent="161" relname="joint">И тогда они будут с каждым разом заходить всё дальше и дальше,</segment>
+		<segment id="78" parent="162" relname="span">нарушать закон всё более жёстко и цинично</segment>
+		<segment id="79" parent="78" relname="concession">(хотя с наркотой это уже само по себе за гранью допустимого).</segment>
+		<segment id="80" parent="166" relname="span">На Украине всё тоже начиналось с того, что милиции и «Беркуту» запрещали предотвращать осуществляемые «оппозицией» провокации и преступления.</segment>
+		<segment id="81" parent="165" relname="sequence">Сначала разбитые витрины,</segment>
+		<segment id="82" parent="165" relname="sequence">затем избитые люди,</segment>
+		<segment id="83" parent="165" relname="sequence">затем сожженные автомобили,</segment>
+		<segment id="84" parent="216" relname="joint">а после уже начинают пытать</segment>
+		<segment id="85" parent="216" relname="joint">и убивать «лоялистов» и сотрудников МВД.</segment>
+		<segment id="86" parent="167" relname="joint">Ведь можно,</segment>
+		<segment id="87" parent="167" relname="joint">ведь особая каста – неприкосновенные!</segment>
+		<segment id="88" parent="172" relname="span">##### А как по мне, то наркобарыга должен сидеть в тюрьме.</segment>
+		<segment id="89" parent="169" relname="span">И ломка у него должна проходить в камере,</segment>
+		<segment id="90" parent="89" relname="condition">когда он прикован наручниками к батарее</segment>
+		<segment id="91" parent="170" relname="span">– так он быстрее выдаст подельников и всю цепочку поставок.</segment>
+		<segment id="92" parent="171" relname="joint">Иначе у вас завтра весь наркокартель будет ходить с корочками «Ганджубас Ньюз»,</segment>
+		<segment id="93" parent="171" relname="joint">и ржать в лицо полиции.</segment>
+		<segment id="94" parent="174" relname="span">##### Более того, у нас есть обоснованное подозрение, что вся шумиха вокруг наркодельца была инициирована</segment>
+		<segment id="95" parent="94" relname="purpose">именно для отвлечения внимания от приезда председателя Си, проведения ПМЭФ и от исторической речи Путина.</segment>
+		<segment id="96" parent="195" relname="span">##### Потому что даже те статьи, которые выходили в СМИ по поводу ПМЭФ, зачастую освещали его откровенно неадекватно.</segment>
+		<segment id="97" parent="175" relname="span">##### Например, «газета.ру» вышла с заголовком «Остался только страх: почему бизнес не верит России».</segment>
+		<segment id="98" parent="97" relname="condition">Ссылаясь на «слова неназванных участников форума в кулуарах».</segment>
+		<segment id="99" parent="100" relname="condition">Ссылаясь на такие «достоверные» источники</segment>
+		<segment id="100" parent="176" relname="span">я могу написать, что вся редакция «газеты.ру» по ночам подрабатывает на Ленинградке.</segment>
+		<segment id="101" parent="177" relname="joint">Причём исключительно за еду,</segment>
+		<segment id="102" parent="177" relname="joint">и чтобы не терять журналистской квалификации.</segment>
+		<segment id="103" parent="104" relname="evidence">##### Практика заключённых на ПМЭФ контрактов говорит нам,</segment>
+		<segment id="104" parent="226" relname="span">что это издание банально врёт.</segment>
+		<segment id="105" parent="219" relname="preparation">##### Или другой «кейс».</segment>
+		<segment id="106" parent="225" relname="same-unit">Принадлежащее «коммунистическому банкиру» Кумину издание «СВ-пресса» выпустило материал с заголовком</segment>
+		<segment id="107" parent="108" relname="attribution">«Силуанов дал понять бизнесу</segment>
+		<segment id="108" parent="224" relname="span">– с таким правительством будущего у него нет».</segment>
+		<segment id="109" parent="180" relname="joint">В самом материале ничего подобного нет,</segment>
+		<segment id="110" parent="179" relname="span">а Силуанов ничего подобного не говорил</segment>
+		<segment id="111" parent="110" relname="evaluation">– фактически его слова развернули на 180 градусов.</segment>
+		<segment id="112" parent="182" relname="solutionhood">##### И куда смотрит «Роскомнадзор»?</segment>
+		<segment id="113" parent="182" relname="span">Слишком занят безуспешными попытками блокирования торрентов</segment>
+		<segment id="114" parent="181" relname="span">(потому что передачу информации «p2p» заблокировать нереально</segment>
+		<segment id="115" parent="114" relname="evaluation">– это нужно просто отключать весь интернет)?</segment>
+		<segment id="116" parent="220" relname="span">##### В общем, «Это залёт, боец!».</segment>
+		<segment id="117" parent="221" relname="joint">И для МВД, прогнувшегося под оппозицию,</segment>
+		<segment id="118" parent="221" relname="joint">и для медиа-тусовки,</segment>
+		<segment id="119" parent="222" relname="span">и для «Роскомнадзора»,</segment>
+		<segment id="120" parent="119" relname="elaboration">который должен за ними присматривать.</segment>
+		<segment id="121" parent="184" relname="joint">##### Выводы должны быть сделаны,</segment>
+		<segment id="122" parent="223" relname="span">меры приняты.</segment>
+		<segment id="123" parent="122" relname="elaboration">С занесением в грудную клетку.</segment>
+		<group id="124" type="span" parent="125" relname="same-unit"/>
+		<group id="125" type="multinuc" parent="199" relname="comparison"/>
+		<group id="126" type="multinuc" parent="199" relname="evaluation"/>
+		<group id="127" type="multinuc" parent="131" relname="joint"/>
+		<group id="128" type="span" parent="127" relname="sequence"/>
+		<group id="129" type="span" parent="15" relname="evaluation"/>
+		<group id="130" type="span" parent="185" relname="span"/>
+		<group id="131" type="multinuc" parent="186" relname="contrast"/>
+		<group id="132" type="span" parent="133" relname="same-unit"/>
+		<group id="133" type="multinuc" parent="21" relname="cause"/>
+		<group id="134" type="span" parent="186" relname="contrast"/>
+		<group id="135" type="multinuc" parent="138" relname="contrast"/>
+		<group id="136" type="span" parent="135" relname="same-unit"/>
+		<group id="137" type="span" parent="187" relname="span"/>
+		<group id="138" type="multinuc" />
+		<group id="139" type="span" parent="141" relname="contrast"/>
+		<group id="140" type="multinuc" parent="210" relname="span"/>
+		<group id="141" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="142" type="span" parent="137" relname="evaluation"/>
+		<group id="143" type="span" parent="188" relname="same-unit"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="contrast"/>
+		<group id="146" type="multinuc" parent="147" relname="span"/>
+		<group id="147" type="span" />
+		<group id="148" type="multinuc" parent="211" relname="span"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" parent="152" relname="joint"/>
+		<group id="151" type="multinuc" parent="189" relname="span"/>
+		<group id="152" type="multinuc" />
+		<group id="153" type="span" parent="60" relname="evaluation"/>
+		<group id="154" type="span" parent="202" relname="elaboration"/>
+		<group id="155" type="span" parent="190" relname="contrast"/>
+		<group id="156" type="span" parent="159" relname="contrast"/>
+		<group id="157" type="span" parent="158" relname="joint"/>
+		<group id="158" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="159" type="multinuc" parent="191" relname="span"/>
+		<group id="160" type="span" parent="159" relname="contrast"/>
+		<group id="161" type="multinuc" parent="163" relname="span"/>
+		<group id="162" type="span" parent="161" relname="joint"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="168" relname="span"/>
+		<group id="165" type="multinuc" parent="217" relname="span"/>
+		<group id="166" type="span" parent="164" relname="evidence"/>
+		<group id="167" type="multinuc" parent="165" relname="cause"/>
+		<group id="168" type="span" />
+		<group id="169" type="span" parent="91" relname="condition"/>
+		<group id="170" type="span" parent="88" relname="elaboration"/>
+		<group id="171" type="multinuc" parent="173" relname="contrast"/>
+		<group id="172" type="span" parent="173" relname="contrast"/>
+		<group id="173" type="multinuc" />
+		<group id="174" type="span" parent="192" relname="span"/>
+		<group id="175" type="span" parent="193" relname="span"/>
+		<group id="176" type="span" parent="178" relname="span"/>
+		<group id="177" type="multinuc" parent="176" relname="purpose"/>
+		<group id="178" type="span" parent="175" relname="evaluation"/>
+		<group id="179" type="span" parent="180" relname="joint"/>
+		<group id="180" type="multinuc" parent="225" relname="evaluation"/>
+		<group id="181" type="span" parent="113" relname="evaluation"/>
+		<group id="182" type="span" parent="197" relname="span"/>
+		<group id="183" type="multinuc" parent="197" relname="evaluation"/>
+		<group id="184" type="multinuc" parent="183" relname="joint"/>
+		<group id="185" type="span" parent="131" relname="joint"/>
+		<group id="186" type="multinuc" />
+		<group id="187" type="span" parent="138" relname="contrast"/>
+		<group id="188" type="multinuc" parent="144" relname="span"/>
+		<group id="189" type="span" parent="152" relname="joint"/>
+		<group id="190" type="multinuc" />
+		<group id="191" type="span" />
+		<group id="192" type="span" />
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="196" relname="joint"/>
+		<group id="195" type="span" parent="174" relname="cause"/>
+		<group id="196" type="multinuc" parent="96" relname="elaboration"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" />
+		<group id="199" type="multinuc" parent="200" relname="span"/>
+		<group id="200" type="span" />
+		<group id="201" type="span" parent="149" relname="background"/>
+		<group id="202" type="span" parent="155" relname="span"/>
+		<group id="203" type="span" parent="159" relname="elaboration"/>
+		<group id="205" type="span" parent="63" relname="evaluation"/>
+		<group id="206" type="span" />
+		<group id="207" type="multinuc" parent="130" relname="elaboration"/>
+		<group id="208" type="multinuc" parent="207" relname="same-unit"/>
+		<group id="209" type="span" parent="31" relname="elaboration"/>
+		<group id="210" type="span" parent="141" relname="contrast"/>
+		<group id="211" type="span" parent="47" relname="elaboration"/>
+		<group id="212" type="multinuc" parent="158" relname="joint"/>
+		<group id="213" type="multinuc" parent="203" relname="span"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="213" relname="same-unit"/>
+		<group id="216" type="multinuc" parent="165" relname="sequence"/>
+		<group id="217" type="span" parent="80" relname="evidence"/>
+		<group id="218" type="span" parent="196" relname="joint"/>
+		<group id="219" type="span" parent="218" relname="span"/>
+		<group id="220" type="span" parent="183" relname="joint"/>
+		<group id="221" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="222" type="span" parent="221" relname="joint"/>
+		<group id="223" type="span" parent="184" relname="joint"/>
+		<group id="224" type="span" parent="225" relname="same-unit"/>
+		<group id="225" type="multinuc" parent="219" relname="span"/>
+		<group id="226" type="span" parent="193" relname="evaluation"/>
+	</body>
+</rst>

@@ -1,0 +1,166 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://kosmetista.ru/blog/otzivi/96908.html</segment>
+		<segment id="2" parent="3" relname="preparation">##### Мои непомадные помады.</segment>
+		<segment id="3" parent="139" relname="span">Relouis Velvet metallic 08 и Nyx Liquid Suede 02</segment>
+		<segment id="4" parent="120" relname="span">##### В этом посте я расскажу о помадах, которые я приобрела специально</segment>
+		<segment id="5" parent="4" relname="purpose">для использования не по прямому назначению.</segment>
+		<segment id="6" parent="120" relname="elaboration">##### IMG</segment>
+		<segment id="7" parent="119" relname="span">##### Начнем с помады с металлическим финишем Relouis velvet metallic в оттенке 08.</segment>
+		<segment id="8" parent="7" relname="elaboration">##### IMG</segment>
+		<segment id="9" parent="124" relname="span">##### Помада белорусского производителя Relouis,</segment>
+		<segment id="10" parent="123" relname="joint">хотя никаких опознавательных знаков об этом на пузырьке нет,</segment>
+		<segment id="11" parent="123" relname="joint">как и информации о составе-объеме.</segment>
+		<segment id="12" parent="76" relname="span">##### Это матовый металлик,</segment>
+		<segment id="13" parent="12" relname="background">популярный в последнее время.</segment>
+		<segment id="14" parent="140" relname="joint">##### Коричневато-бронзовый оттенок с деликатным блеском,</segment>
+		<segment id="15" parent="140" relname="joint">отлично ложится на губы,</segment>
+		<segment id="16" parent="78" relname="contrast">но я люблю использовать как кремовые тени.</segment>
+		<segment id="17" parent="79" relname="joint">##### В этом качестве продукт прекрасно тушуется</segment>
+		<segment id="18" parent="79" relname="joint">и отлично работает как в качестве подложки, так и самостоятельно.</segment>
+		<segment id="19" parent="81" relname="solutionhood">Почему я не купила просто тени в подобном не уникальном оттенке?</segment>
+		<segment id="20" parent="81" relname="joint">Просто этот продукт мне посоветовал визажист</segment>
+		<segment id="21" parent="81" relname="joint">и мне было интересно приобрести именно его,</segment>
+		<segment id="22" parent="81" relname="joint">тем более ценник очень бюджетный.</segment>
+		<segment id="23" parent="128" relname="span">##### Посмотрим как продукт выглядит в качестве теней.</segment>
+		<segment id="24" parent="23" relname="elaboration">##### IMG Нанесены на все подвижнее веко IMG Дополнены светлым оттенком в складке</segment>
+		<segment id="25" parent="26" relname="condition">##### Если взглянуть на Relouis Velvet metallic 08 как на помаду</segment>
+		<segment id="26" parent="83" relname="span">— для меня это клон помады L'oreal-Balmain в оттенке Glamazone, только с матовой текстурой и металлическим финишем.</segment>
+		<segment id="27" parent="83" relname="elaboration">##### IMG</segment>
+		<segment id="28" parent="29" relname="cause">##### Помада довольно стойкая,</segment>
+		<segment id="29" parent="91" relname="span">отлично переживет перекус.</segment>
+		<segment id="30" parent="85" relname="span">Удобный спонж</segment>
+		<segment id="31" parent="30" relname="purpose">для нанесения.</segment>
+		<segment id="32" parent="86" relname="contrast">##### Мои губы не сушит,</segment>
+		<segment id="33" parent="86" relname="contrast">но мне вообще редко что сушит прям до дискомфорта.</segment>
+		<segment id="34" parent="35" relname="cause">##### Но как помада по оттенку мне не очень нравится,</segment>
+		<segment id="35" parent="87" relname="span">поэтому в таком качестве не использую.</segment>
+		<segment id="36" parent="37" relname="evaluation">##### Линейка в части оттенков неплохая,</segment>
+		<segment id="37" parent="89" relname="span">можно что-то подобрать более носибельное именно как помада.</segment>
+		<segment id="38" parent="131" relname="joint">Отдушка легкая, химозно-сладковатая.</segment>
+		<segment id="39" parent="131" relname="elaboration">##### IMG</segment>
+		<segment id="40" parent="133" relname="joint">##### Цена 150 руб.</segment>
+		<segment id="41" parent="133" relname="joint">Оценка 5!</segment>
+		<segment id="42" parent="134" relname="span">##### Следующий на очереди Nyx Liquid Suede в оттенке 02.</segment>
+		<segment id="43" parent="42" relname="elaboration">##### IMG</segment>
+		<segment id="44" parent="93" relname="contrast">##### Не думала, что куплю помаду из этой линейки еще раз, после неудачной помады в очень удачном розовом оттенке ( пост здесь ).</segment>
+		<segment id="45" parent="143" relname="span">##### Но на мастер классе мы использовали данную помаду в качестве румян</segment>
+		<segment id="46" parent="45" relname="evaluation">и я просто влюбилась.</segment>
+		<segment id="47" parent="48" relname="cause">Поскольку кремовых румян у меня не было никаких,</segment>
+		<segment id="48" parent="96" relname="span">я решила, что помаде быть.</segment>
+		<segment id="49" parent="95" relname="joint">Тем более я нашла ее на распродаже</segment>
+		<segment id="50" parent="95" relname="joint">и ценник был привлекательным.</segment>
+		<segment id="51" parent="144" relname="elaboration">##### IMG</segment>
+		<segment id="52" parent="100" relname="joint">##### В качестве румян помада классно тушуется,</segment>
+		<segment id="53" parent="99" relname="span">создает супер свежий вид лица,</segment>
+		<segment id="54" parent="98" relname="contrast">как-будто уже не зима, а что ни на есть весна в разгаре,</segment>
+		<segment id="55" parent="98" relname="contrast">а вы отдохнувшая после майских праздников!</segment>
+		<segment id="56" parent="115" relname="span">##### Огромный плюс использования этой помады в качестве румян заключается в том, что она совершенно не разъедает тональную основу.</segment>
+		<segment id="57" parent="106" relname="contrast">##### Как румяна я наношу синтетической факелообразной кистью,</segment>
+		<segment id="58" parent="104" relname="span">но спонж</segment>
+		<segment id="59" parent="58" relname="purpose">для нанесения на губы</segment>
+		<segment id="60" parent="105" relname="same-unit">очень удобен.</segment>
+		<segment id="61" parent="62" relname="cause">##### Благодаря достаточной пигментированности</segment>
+		<segment id="62" parent="107" relname="span">хватит продукта надолго.</segment>
+		<segment id="63" parent="107" relname="elaboration">##### IMG Нанесла поядрёнее IMG Сверху кремовые текстуры я всегда перекрываю пудрой, поэтому яркости не боюсь</segment>
+		<segment id="64" parent="108" relname="joint">##### Отдушка у продукта почти отсутствует, слегка химическая.</segment>
+		<segment id="65" parent="108" relname="joint">Объем 4 мл.</segment>
+		<segment id="66" parent="110" relname="joint">##### Оттенок довольно ксеноновый</segment>
+		<segment id="67" parent="110" relname="joint">и такие я ношу редко,</segment>
+		<segment id="68" parent="109" relname="span">поэтому просто продемонстрирую</segment>
+		<segment id="69" parent="68" relname="purpose">для наглядности,</segment>
+		<segment id="70" parent="111" relname="concession">хотя качество покрытия представляет собой полный треш.</segment>
+		<segment id="71" parent="112" relname="elaboration">##### IMG Завершённый образ с румянами</segment>
+		<segment id="72" parent="138" relname="joint">##### Цена — 420 руб.,</segment>
+		<segment id="73" parent="138" relname="joint">оценка как для румян 5!</segment>
+		<segment id="74" parent="113" relname="span">##### А вы используете продукты не только по прямому назначению?</segment>
+		<segment id="75" parent="74" relname="elaboration">Если да, то интересно как и какие?</segment>
+		<group id="76" type="span" parent="80" relname="span"/>
+		<group id="77" type="span" parent="122" relname="span"/>
+		<group id="78" type="multinuc" parent="125" relname="span"/>
+		<group id="79" type="multinuc" parent="126" relname="span"/>
+		<group id="80" type="span" parent="124" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="82" type="span" parent="79" relname="elaboration"/>
+		<group id="83" type="span" parent="92" relname="span"/>
+		<group id="84" type="multinuc" parent="92" relname="evaluation"/>
+		<group id="85" type="span" parent="84" relname="joint"/>
+		<group id="86" type="multinuc" parent="88" relname="contrast"/>
+		<group id="87" type="span" parent="88" relname="contrast"/>
+		<group id="88" type="multinuc" parent="90" relname="span"/>
+		<group id="89" type="span" parent="131" relname="joint"/>
+		<group id="90" type="span" />
+		<group id="91" type="span" parent="84" relname="joint"/>
+		<group id="92" type="span" parent="129" relname="span"/>
+		<group id="93" type="multinuc" parent="101" relname="span"/>
+		<group id="94" type="span" parent="93" relname="contrast"/>
+		<group id="95" type="multinuc" parent="96" relname="cause"/>
+		<group id="96" type="span" parent="142" relname="span"/>
+		<group id="98" type="multinuc" parent="53" relname="evaluation"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="100" type="multinuc" parent="117" relname="preparation"/>
+		<group id="101" type="span" />
+		<group id="104" type="span" parent="105" relname="same-unit"/>
+		<group id="105" type="multinuc" parent="106" relname="contrast"/>
+		<group id="106" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="107" type="span" parent="136" relname="span"/>
+		<group id="108" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="109" type="span" parent="111" relname="span"/>
+		<group id="110" type="multinuc" parent="109" relname="cause"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="114" relname="span"/>
+		<group id="113" type="span" />
+		<group id="114" type="span" />
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" />
+		<group id="119" type="span" parent="77" relname="preparation"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="121" type="span" />
+		<group id="122" type="span" />
+		<group id="123" type="multinuc" parent="9" relname="concession"/>
+		<group id="124" type="span" parent="77" relname="span"/>
+		<group id="125" type="span" parent="76" relname="elaboration"/>
+		<group id="126" type="span" parent="78" relname="elaboration"/>
+		<group id="128" type="span" parent="129" relname="preparation"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="130" type="span" />
+		<group id="131" type="multinuc" parent="141" relname="span"/>
+		<group id="133" type="multinuc" />
+		<group id="134" type="span" parent="93" relname="preparation"/>
+		<group id="136" type="span" parent="115" relname="elaboration"/>
+		<group id="138" type="multinuc" />
+		<group id="139" type="span" />
+		<group id="140" type="multinuc" parent="78" relname="contrast"/>
+		<group id="141" type="span" parent="88" relname="evaluation"/>
+		<group id="142" type="span" parent="143" relname="elaboration"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="94" relname="span"/>
+	</body>
+</rst>

@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Город: В Чебоксарах состоялся первый фестиваль юношеских СМИ, фотоклубов, киностудий 2014 года</segment>
+		<segment id="2" parent="55" relname="joint">##### Ежегодно в России и странах СНГ проходит около ста фестивалей и слетов юношеских фотоклубов, киностудий и средств массовой информации.</segment>
+		<segment id="3" parent="43" relname="span">По традиции первыми принимает у себя будущих мастеров фотографии, телевидения, кино и печатных изданий – город Чебоксары,</segment>
+		<segment id="4" parent="3" relname="elaboration">где ежегодно проходит два фестиваля юношеских СМИ «Волжские встречи».</segment>
+		<segment id="5" parent="44" relname="span">##### В столицу Чувашии приехали представители 27 студий от Северодвинска до Краснодара и Пятигорска, от Калининграда до Иркутска и Читы.</segment>
+		<segment id="6" parent="5" relname="elaboration">«Волжские встречи» открыли для себя представители городов Лесной (Свердловская область), Кумертау (Башкортостан), Волжска (Марий Эл) и Копейска (Челябинская область).</segment>
+		<segment id="7" parent="45" relname="joint">##### Фестиваль поддержали Лига юных журналистов РФ, Творческое Агентство «Юнпресс» (Москва) и Всероссийский открытый форум детского и юношеского экранного творчества «Бумеранг».</segment>
+		<segment id="8" parent="45" relname="joint">Вновь на высоком уровне ребят и их руководителей принимал Физкультурно-оздоровительный центр "Росинка" – один из самых комфортабельных и современных оздоровительных центров для детей.</segment>
+		<segment id="9" parent="54" relname="joint">##### Программа мероприятия получилась насыщенной: интересные и полезные мастер-классы, деловые игры, творческая работа, неформальное общение.</segment>
+		<segment id="10" parent="53" relname="span">Всем запомнились занятия по технике речи и интервью ведущего Первого канала Михаила Верещагина.</segment>
+		<segment id="11" parent="50" relname="preparation">«Я учу детей и подростков культуре речи.</segment>
+		<segment id="12" parent="46" relname="span">Каждому человеку необходимо разрабатывать дикцию,</segment>
+		<segment id="13" parent="12" relname="evaluation">не зависимо от того, кем он хочет стать.</segment>
+		<segment id="14" parent="48" relname="span">Также в современной жизни мы очень часто забываем о правильном произношении слов и ударений в них.</segment>
+		<segment id="15" parent="47" relname="span">Все эти минусы можно перевести в плюсы,</segment>
+		<segment id="16" parent="15" relname="condition">было бы желание»,</segment>
+		<segment id="17" parent="51" relname="attribution">-  говорит Михаил Верещагин.</segment>
+		<segment id="18" parent="59" relname="joint">##### Участники фестиваля отметили высокий уровень мастер-классов от Карины Тимошенко (ВГИК), Романа Баканова (Казанский федеральный университет) и Владимира Семенова (фотостудия «Смена»).</segment>
+		<segment id="19" parent="59" relname="joint">Юные журналисты и фотографы готовили выпуски фестивальных газет, теледневников, кинофильмов и слайдшоу на заданные темы.</segment>
+		<segment id="20" parent="58" relname="span">Ежедневно проходили просмотр и обсуждение фотографий, видеоработ и печатных изданий,</segment>
+		<segment id="21" parent="20" relname="elaboration">которые участники привезли с собой.</segment>
+		<segment id="22" parent="63" relname="span">##### Два дня с ребятами проводил игры известный детский психолог и тренер Марчел Паскаль из Кишинева.</segment>
+		<segment id="23" parent="61" relname="sequence">В первый день участники провели дворовые игры в самом лагере «Росинка»,</segment>
+		<segment id="24" parent="60" relname="span">а на второй они поехали в сельскую школу в Канашский район,</segment>
+		<segment id="25" parent="24" relname="elaboration">где были организованы чувашские и русские игры для детей.</segment>
+		<segment id="26" parent="62" relname="joint">Участники также узнали много нового о традициях дворовых игр.</segment>
+		<segment id="27" parent="65" relname="joint">«Я посетила игру «Семь секретов общения»,</segment>
+		<segment id="28" parent="64" relname="span">и мне очень понравился Марчел:</segment>
+		<segment id="29" parent="28" relname="elaboration">он помог нам выразить свои эмоции.</segment>
+		<segment id="30" parent="66" relname="span">После полученной травмы мне было тяжело общаться с людьми,</segment>
+		<segment id="31" parent="30" relname="elaboration">я была очень замкнута,</segment>
+		<segment id="32" parent="67" relname="contrast">но благодаря этому тренингу все мои страхи остались в прошлом. Большое спасибо Марчелу  Паскалю за это»,</segment>
+		<segment id="33" parent="69" relname="attribution">- рассказала участница «Волжских Встреч» Наталья Мышева из Чебоксар.</segment>
+		<segment id="34" parent="72" relname="span">##### Жизнь на фестивале не затихала ни на час!</segment>
+		<segment id="35" parent="71" relname="joint">Даже ночью проходили мастер-классы по журналистике и фотографии,</segment>
+		<segment id="36" parent="71" relname="joint">в пресс-центре кипела работа над дневниками и газетой «Волжских встреч»,</segment>
+		<segment id="37" parent="71" relname="joint">а в 8 утра начинался новый день, полный открытий, эмоций и добрых встреч!</segment>
+		<segment id="38" parent="73" relname="preparation">##### С 1 по 5 мая в Чебоксарах состоится основная часть Международного фестиваля юношеских СМИ, киностудий и фотоклубов «Волжские встречи-25».</segment>
+		<segment id="39" parent="73" relname="joint">Столица Чувашии примет более 400 представителей юношеских редакции и студии телевидения, кино, печатных изданий и фотографии.</segment>
+		<segment id="40" parent="73" relname="joint">С ребятами поделятся знаниями и опытом более 30 тренеров.</segment>
+		<segment id="41" parent="73" relname="joint">Организаторы проекта готовят насыщенную программу и интересные сюрпризы!</segment>
+		<segment id="42" >##### За 25 летнюю историю в фестивалях «Волжские встречи» приняли участие более семи тысяч человек из более тысячи редакций и студий.</segment>
+		<group id="43" type="span" parent="55" relname="joint"/>
+		<group id="44" type="span" />
+		<group id="45" type="multinuc" />
+		<group id="46" type="span" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="14" relname="evaluation"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="10" relname="elaboration"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="54" type="multinuc" />
+		<group id="55" type="multinuc" />
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="59" type="multinuc" />
+		<group id="60" type="span" parent="61" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="62" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="63" type="span" />
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="65" type="multinuc" parent="68" relname="span"/>
+		<group id="66" type="span" parent="67" relname="contrast"/>
+		<group id="67" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="70" type="span" />
+		<group id="71" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="72" type="span" />
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="74" type="span" />
+	</body>
+</rst>

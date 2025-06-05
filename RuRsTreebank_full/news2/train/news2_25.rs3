@@ -1,0 +1,252 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="225" relname="span">##### Внешний долг России не представляет большой угрозы для экономики страны</segment>
+		<segment id="2" parent="1" relname="attribution">— эксперт</segment>
+		<segment id="3" parent="112" relname="span">##### Проблема внешнего долга России,</segment>
+		<segment id="4" parent="3" relname="evaluation">в которой некоторые зарубежные экономисты видят предвестника полномасштабного финансового кризиса в стране,</segment>
+		<segment id="5" parent="113" relname="same-unit">во многом преувеличена.</segment>
+		<segment id="6" parent="114" relname="attribution">К такому выводу пришел сотрудник программы по исследованию России и Евразии британского Королевского института международных отношений (Chatham House) Ричард Коннолли (Richard Connolly) в своей статье "Российские деньги не так уязвимы, как кажется", опубликованной в западной прессе.</segment>
+		<segment id="7" parent="196" relname="attribution">##### По его мнению,</segment>
+		<segment id="8" parent="9" relname="cause">зима 2014-2015 года отчетливо продемонстрировала ряд уязвимостей российской экономики, в том числе и от резкого падения нефтяных котировок,</segment>
+		<segment id="9" parent="196" relname="span">что привело к значительной девальвации.</segment>
+		<segment id="10" parent="11" relname="cause">##### "Однако снижение цен на нефть</segment>
+		<segment id="11" parent="191" relname="span">не стало первоочередной причиной для ослабления рубля в последнем квартале 2014 года.</segment>
+		<segment id="12" parent="119" relname="joint">Давление на российскую валюту также было вызвано резким ростом выплат по внешним долгам.</segment>
+		<segment id="13" parent="14" relname="cause">Из-за санкций, введенных странами Запада,</segment>
+		<segment id="14" parent="117" relname="span">многим корпорациям в РФ - причем не только тем, которые непосредственно стали их целью - был фактически закрыт доступ на европейские и американские рынки капитала",</segment>
+		<segment id="15" parent="192" relname="attribution">- пишет аналитик.</segment>
+		<segment id="16" parent="217" relname="attribution">##### Он напоминает,</segment>
+		<segment id="17" parent="122" relname="same-unit">что в итоге крупные российские фирмы,</segment>
+		<segment id="18" parent="19" relname="condition">лишившись возможности рефинансировать имеющиеся обязательства перед должниками,</segment>
+		<segment id="19" parent="121" relname="span">были вынуждены производить выплаты в срок.</segment>
+		<segment id="20" parent="207" relname="same-unit">##### "В результате суммарный внешний долг России,</segment>
+		<segment id="21" parent="206" relname="comparison">в январе 2014 года составлявший около 728 млрд. долларов,</segment>
+		<segment id="22" parent="206" relname="comparison">снизился до 597 млрд. долларов к концу года.</segment>
+		<segment id="23" parent="123" relname="span">Это резкое сокращение на 130 млрд. долларов произошло</segment>
+		<segment id="24" parent="23" relname="cause">из-за погашения обязательств (в основном перед западными банками) и снижения относительной ценности рублевых долгов в долларовом выражении",</segment>
+		<segment id="25" parent="209" relname="attribution">- отмечает Ричард Коннолли.</segment>
+		<segment id="26" parent="197" relname="attribution">##### По его мнению,</segment>
+		<segment id="27" parent="197" relname="span">именно эти факторы косвенно спровоцировали увеличение оттока частного капитала из страны,</segment>
+		<segment id="28" parent="27" relname="evaluation">которое привлекло внимание экономистов по всему миру в конце прошлого года.</segment>
+		<segment id="29" parent="30" relname="attribution">##### "По оценкам экспертов,</segment>
+		<segment id="30" parent="222" relname="span">за весь год объем [вывезенного частного капитала] достиг 154 млрд. долларов.</segment>
+		<segment id="31" parent="124" relname="span">Это в свою очередь привело к снижению российских валютных резервов,</segment>
+		<segment id="32" parent="126" relname="span">поскольку рубли обменивали на доллары и евро</segment>
+		<segment id="33" parent="32" relname="purpose">для выплат по внешним обязательствам.</segment>
+		<segment id="34" parent="127" relname="span">В результате золотовалютные запасы РФ,</segment>
+		<segment id="35" parent="34" relname="background">которые к началу 2014 года достигали 510 млрд. долларов,</segment>
+		<segment id="36" parent="128" relname="same-unit">к декабрю снизились до 388 млрд. долларов,</segment>
+		<segment id="37" parent="223" relname="same-unit">а на сегодняшний день,</segment>
+		<segment id="38" parent="39" relname="attribution">по оценкам экономистов,</segment>
+		<segment id="39" parent="224" relname="span">они составляют 356 млрд. долларов",</segment>
+		<segment id="40" parent="218" relname="attribution">- пишет сотрудник Королевского института международных отношений.</segment>
+		<segment id="41" parent="42" relname="attribution">##### Он подчеркивает также,</segment>
+		<segment id="42" parent="219" relname="span">что эта ситуация вызвала ряд пессимистичных прогнозов со стороны ряда западных финансовых аналитиков.</segment>
+		<segment id="43" parent="135" relname="attribution">Так, старший научный сотрудник по исследованию России при Институте мировой экономики Петерсона Андерс Аслунд (Anders Aslund) в декабре 2014 года предположил,</segment>
+		<segment id="44" parent="134" relname="same-unit">что сочетание снижающихся резервов</segment>
+		<segment id="45" parent="46" relname="condition">при большом внешнем долге</segment>
+		<segment id="46" parent="133" relname="span">рискует спровоцировать полномасштабный финансовый кризис.</segment>
+		<segment id="47" parent="199" relname="attribution">По его словам,</segment>
+		<segment id="48" parent="138" relname="same-unit">к такому развитию событий могут привести два фактора: недостаточная ликвидность имеющихся золотовалютных резервов</segment>
+		<segment id="49" parent="137" relname="span">и значительный размер долга,</segment>
+		<segment id="50" parent="49" relname="condition">превышающий объем легкодоступного капитала.</segment>
+		<segment id="51" parent="52" relname="attribution">##### Однако Ричард Коннолли считает,</segment>
+		<segment id="52" parent="140" relname="span">что оба эти утверждения легко опровергнуть имеющимися фактами.</segment>
+		<segment id="53" parent="142" relname="attribution">В частности, он ссылается на публикацию редактора информационного интернет-издания Business New Europe Бена Ариса (Ben Aris).</segment>
+		<segment id="54" parent="141" relname="comparison">В ней указывается, что по данным на апрель 2015 года 80% финансовых запасов страны, среди которых золото, бонды США и долговые обязательства Международного валютного фонда, составляли высоколиквидные активы,</segment>
+		<segment id="55" parent="141" relname="comparison">и на сегодняшний день их доля в резервах России продолжает расти.</segment>
+		<segment id="56" parent="212" relname="condition">##### Говоря о второй возможной предпосылке для возникновения финансового кризиса,</segment>
+		<segment id="57" parent="58" relname="attribution">аналитик отмечает,</segment>
+		<segment id="58" parent="212" relname="span">что размер внешнего долга РФ действительно является существенным.</segment>
+		<segment id="59" parent="60" relname="attribution">##### "Согласно сведениям, находящимся в свободном доступе на сайте Банка России,</segment>
+		<segment id="60" parent="146" relname="span">за 2015 года планируется выплатить чуть менее 75 млрд. долларов (из них 45 млрд. были перенесены с января-мая 2015 года), а в 2016 году - 68 млрд. долларов.</segment>
+		<segment id="61" parent="147" relname="restatement">Это означает, что за отрезок времени с сегодняшнего дня и по конец 2016 года России предстоит выплатить свыше 140 млрд. долларов.</segment>
+		<segment id="62" parent="148" relname="comparison">По сравнению с золотовалютными резервами государства, которые составляют 350 млрд. долларов,</segment>
+		<segment id="63" parent="149" relname="joint">эта цифра выглядит достаточно большой</segment>
+		<segment id="64" parent="149" relname="joint">и вызывает тревогу",</segment>
+		<segment id="65" parent="213" relname="attribution">- констатирует аналитик.</segment>
+		<segment id="66" parent="156" relname="span">##### В то же время он подчеркивает, что значительную часть внешнего долга страны составляют обязательства перед банками или корпорациями,</segment>
+		<segment id="67" parent="155" relname="joint">которые или владеют теми российскими компаниями, которые заняли у них деньги,</segment>
+		<segment id="68" parent="155" relname="joint">или тесно связаны с ними иным образом, причем об этом в зарубежных СМИ практически не упоминается.</segment>
+		<segment id="69" parent="158" relname="span">##### "Другими словами, здесь мы имеем крупный "внутригрупповой" долг,</segment>
+		<segment id="70" parent="157" relname="span">который возник из-за того, что российские фирмы занимают средства у своих "дочек", зарегистрированных в оффшорах,</segment>
+		<segment id="71" parent="70" relname="purpose">- скажем, для "оптимизации налогов".</segment>
+		<segment id="72" parent="159" relname="joint">Такие долги можно легко перенести на более позднюю дату,</segment>
+		<segment id="73" parent="159" relname="joint">и эти обязательства нельзя считать "жесткими",</segment>
+		<segment id="74" parent="160" relname="attribution">- пишет сотрудник программы по исследованию России и Евразии британского Королевского института международных отношений.</segment>
+		<segment id="75" parent="76" relname="attribution">##### По его словам,</segment>
+		<segment id="76" parent="201" relname="span">обязательства подобного рода представляют собой около четверти всего объема имеющихся иностранных задолженностей России.</segment>
+		<segment id="77" parent="163" relname="span">##### "Но, что гораздо важнее, они составляют приблизительно половину суммарного внешнего долга,</segment>
+		<segment id="78" parent="77" relname="condition">который подлежит уплате в 2015-2016 годах.</segment>
+		<segment id="79" parent="164" relname="span">А это означает, что итоговый объем "жесткого" внешнего долга,</segment>
+		<segment id="80" parent="79" relname="condition">который требуется погасить в течение ближайших 18 месяцев,</segment>
+		<segment id="81" parent="165" relname="same-unit">равен не 140 млрд. долларов, а около 70 млрд.</segment>
+		<segment id="82" parent="166" relname="joint">Поскольку российские золотовалютные резервы достаточно велики,</segment>
+		<segment id="83" parent="166" relname="joint">а многие компании продолжают генерировать значительный приток иностранной валюты в страну,</segment>
+		<segment id="84" parent="167" relname="span">у Кремля нет причин беспокоиться из-за долгов", - заключает аналитик.</segment>
+		<segment id="85" parent="204" relname="attribution">##### Согласно его прогнозам,</segment>
+		<segment id="86" parent="172" relname="joint">в ближайшие несколько лет следует ожидать постепенного сокращения внешнего долга страны в целом,</segment>
+		<segment id="87" parent="173" relname="span">а также увеличения относительной доли "внутригрупповой" задолженности</segment>
+		<segment id="88" parent="87" relname="cause">из-за переноса сроков выплат.</segment>
+		<segment id="89" parent="174" relname="span">##### "Следовательно, итоговая сумма подлежащего уплате краткосрочного внешнего долга вырастет,</segment>
+		<segment id="90" parent="89" relname="evaluation">и кому-то она может показаться очень большой.</segment>
+		<segment id="91" parent="176" relname="contrast">Но, как уже было упомянуто, тщательный анализ имеющихся данных позволяет снять тревогу по этому поводу", - подчеркивает автор публикации.</segment>
+		<segment id="92" parent="182" relname="span">##### В итоге он делает вывод, что вероятность возникновения полномасштабного финансового кризиса в РФ на сегодняшний день крайне мала.</segment>
+		<segment id="93" parent="177" relname="contrast">##### "Несомненно, очередное падение нефтяных котировок приведет к проблемам.</segment>
+		<segment id="94" parent="179" relname="condition">Но если цены на сырье останутся стабильными,</segment>
+		<segment id="95" parent="179" relname="comparison">груз внешнего долга вряд ли спровоцирует масштабный финансовый кризис,</segment>
+		<segment id="96" parent="179" relname="comparison">подобный тому, что России пришлось пережить в августе 1998 года",</segment>
+		<segment id="97" parent="177" relname="attribution">- пишет Ричард Коннолли.</segment>
+		<segment id="98" parent="99" relname="attribution">##### Вместе с тем он напоминает,</segment>
+		<segment id="99" parent="214" relname="span">что на сегодняшний день экономика государства по-прежнему находится в крайне затруднительном положении,</segment>
+		<segment id="100" parent="188" relname="span">о чем можно утверждать на основе ряда показателей.</segment>
+		<segment id="101" parent="187" relname="comparison">##### "Так, объем поступающих в страну прямых иностранных инвестиций (inward foreign direct investment, IFDI) опустился до угрожающе низкого уровня.</segment>
+		<segment id="102" parent="186" relname="span">Во второй половине 2014 года IFDI принял отрицательное значение.</segment>
+		<segment id="103" parent="185" relname="concession">Хотя это не первый такой случай в мире,</segment>
+		<segment id="104" parent="185" relname="span">подобная динамика в сочетании с масштабным сокращением инвестиционной активности говорит о весьма слабых перспективах</segment>
+		<segment id="105" parent="104" relname="purpose">для привлечения спонсоров из-за рубежа к участию в российских проектах",</segment>
+		<segment id="106" parent="189" relname="attribution">- констатирует автор публикации.</segment>
+		<segment id="107" parent="194" relname="attribution">##### По его словам,</segment>
+		<segment id="108" parent="202" relname="span">индикатор IFDI важен именно тем,</segment>
+		<segment id="109" parent="108" relname="cause">что от него напрямую зависит уровень технологий и производственных ноу-хау в государстве,</segment>
+		<segment id="110" parent="193" relname="span">и российскому правительству необходимо как можно скорее изменить эту ситуацию к лучшему,</segment>
+		<segment id="111" parent="193" relname="condition">иначе через несколько лет придется столкнуться с существенными трудностями в сферах промышленности и инноваций.</segment>
+		<group id="112" type="span" parent="113" relname="same-unit"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" />
+		<group id="116" type="span" parent="118" relname="contrast"/>
+		<group id="117" type="span" parent="119" relname="joint"/>
+		<group id="118" type="multinuc" />
+		<group id="119" type="multinuc" parent="191" relname="elaboration"/>
+		<group id="121" type="span" parent="122" relname="same-unit"/>
+		<group id="122" type="multinuc" parent="217" relname="span"/>
+		<group id="123" type="span" parent="208" relname="evaluation"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" parent="130" relname="cause"/>
+		<group id="126" type="span" parent="31" relname="cause"/>
+		<group id="127" type="span" parent="128" relname="same-unit"/>
+		<group id="128" type="multinuc" parent="129" relname="comparison"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="130" type="span" parent="218" relname="span"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" />
+		<group id="133" type="span" parent="134" relname="same-unit"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="136" type="span" parent="139" relname="span"/>
+		<group id="137" type="span" parent="138" relname="same-unit"/>
+		<group id="138" type="multinuc" parent="199" relname="span"/>
+		<group id="139" type="span" parent="152" relname="contrast"/>
+		<group id="140" type="span" parent="145" relname="span"/>
+		<group id="141" type="multinuc" parent="142" relname="span"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="143" type="span" parent="140" relname="elaboration"/>
+		<group id="144" type="span" parent="151" relname="preparation"/>
+		<group id="145" type="span" parent="152" relname="contrast"/>
+		<group id="146" type="span" parent="147" relname="restatement"/>
+		<group id="147" type="multinuc" parent="148" relname="comparison"/>
+		<group id="148" type="multinuc" parent="150" relname="span"/>
+		<group id="149" type="multinuc" parent="150" relname="evaluation"/>
+		<group id="150" type="span" parent="213" relname="span"/>
+		<group id="151" type="span" parent="162" relname="span"/>
+		<group id="152" type="multinuc" parent="153" relname="span"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" />
+		<group id="155" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="156" type="span" parent="161" relname="restatement"/>
+		<group id="157" type="span" parent="69" relname="cause"/>
+		<group id="158" type="span" parent="160" relname="span"/>
+		<group id="159" type="multinuc" parent="158" relname="evaluation"/>
+		<group id="160" type="span" parent="221" relname="span"/>
+		<group id="161" type="multinuc" />
+		<group id="162" type="span" />
+		<group id="163" type="span" parent="168" relname="restatement"/>
+		<group id="164" type="span" parent="165" relname="same-unit"/>
+		<group id="165" type="multinuc" parent="168" relname="restatement"/>
+		<group id="166" type="multinuc" parent="84" relname="cause"/>
+		<group id="167" type="span" parent="170" relname="evaluation"/>
+		<group id="168" type="multinuc" parent="169" relname="contrast"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" />
+		<group id="172" type="multinuc" parent="204" relname="span"/>
+		<group id="173" type="span" parent="172" relname="joint"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="175" type="span" parent="176" relname="contrast"/>
+		<group id="176" type="multinuc" parent="182" relname="evidence"/>
+		<group id="177" type="multinuc" parent="180" relname="span"/>
+		<group id="179" type="multinuc" parent="226" relname="span"/>
+		<group id="180" type="span" parent="92" relname="elaboration"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" />
+		<group id="184" type="span" parent="102" relname="evaluation"/>
+		<group id="185" type="span" parent="184" relname="span"/>
+		<group id="186" type="span" parent="187" relname="comparison"/>
+		<group id="187" type="multinuc" parent="189" relname="span"/>
+		<group id="188" type="span" parent="214" relname="evidence"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="195" relname="span"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="220" relname="span"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="203" relname="span"/>
+		<group id="195" type="span" parent="100" relname="elaboration"/>
+		<group id="196" type="span" parent="116" relname="span"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="131" relname="preparation"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="136" relname="cause"/>
+		<group id="201" type="span" parent="169" relname="contrast"/>
+		<group id="202" type="span" parent="110" relname="cause"/>
+		<group id="203" type="span" parent="190" relname="evaluation"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" parent="174" relname="cause"/>
+		<group id="206" type="multinuc" parent="207" relname="same-unit"/>
+		<group id="207" type="multinuc" parent="208" relname="span"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" />
+		<group id="212" type="span" parent="144" relname="span"/>
+		<group id="213" type="span" parent="151" relname="span"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" />
+		<group id="216" type="span" parent="210" relname="cause"/>
+		<group id="217" type="span" parent="216" relname="span"/>
+		<group id="218" type="span" parent="131" relname="span"/>
+		<group id="219" type="span" parent="153" relname="preparation"/>
+		<group id="220" type="span" parent="118" relname="contrast"/>
+		<group id="221" type="span" parent="161" relname="restatement"/>
+		<group id="222" type="span" parent="124" relname="cause"/>
+		<group id="223" type="multinuc" parent="129" relname="comparison"/>
+		<group id="224" type="span" parent="223" relname="same-unit"/>
+		<group id="225" type="span" />
+		<group id="226" type="span" parent="177" relname="contrast"/>
+	</body>
+</rst>

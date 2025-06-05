@@ -1,0 +1,280 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Адрес статьи: www.gramota.net/materials/272015/7-1/41.html Источник Филологические науки. Вопросы теории и практики Тамбов: Грамота, 2015. № 7 (49): в 2-х ч. Ч. I. C. 146-149. ISSN 1997-2911. Адрес журнала: www.gramota.net/editions/2.html Содержание данного номера журнала: www .gramota.net/mate rials/2/2015/7-1/ © Издательство "Грамота"</segment>
+		<segment id="2" relname="antithesis">УДК 811.11142:32 Филологические науки</segment>
+		<segment id="3" relname="antithesis">Данная работа посвящена выявлению основных признаков образа России и средств их актуализации в современных зарубежных СМИ. Было выявлено, что наиболее частотные из них - средства выражения эмоциональной оценки (33 ед. в корпусе), средства создания стереотипности (23 ед.), средства, реализующие категориальную биполярную оппозицию «свой - чужой» (34 ед.). Среди геополитических стереотипов присутствуют следующие: «великая страна», патриотизм русских, Россия - Азиатская страна, «Россия - медведь» и др. Ключевые слова и фразы: образ России; способы актуализации; стереотип; признак русского мира; дискурс.</segment>
+		<segment id="4" relname="antithesis">Орлова Олеся Геннадьевна, д. филол. н., доцент</segment>
+		<segment id="5" relname="antithesis">Кемеровский государственный университет orlovaog@mail</segment>
+		<segment id="6" relname="antithesis">ОБРАЗ РОССИИ В ЗАРУБЕЖНЫХ СМИ ©</segment>
+		<segment id="7" parent="267" relname="span">Данная работа</segment>
+		<segment id="8" parent="7" relname="purpose">посвящена выявлению основных признаков образа России и средств их актуализации в современных зарубежных СМИ.</segment>
+		<segment id="9" parent="139" relname="joint">В качестве материала использовались телевизионные передачи и также сайты.</segment>
+		<segment id="10" parent="269" relname="same-unit">Всего</segment>
+		<segment id="11" parent="12" relname="purpose">для анализа</segment>
+		<segment id="12" parent="268" relname="span">отобрано 108 фрагментов текстов, в которых присутствует наименование страны - Россия, Российская Федерация и пр., наименования других русских и российских реалий и персоналий, а также сопровождающие их разнообразные средства и способы актуализации признаков России и русского мира.</segment>
+		<segment id="13" parent="231" relname="preparation">В современной науке исследования образов России и русского представлены достаточно большим количеством работ.</segment>
+		<segment id="14" parent="143" relname="same-unit">Так, например,</segment>
+		<segment id="15" parent="283" relname="attribution">Ю. А. Сорокин составил</segment>
+		<segment id="16" parent="283" relname="span">автопортрет русского человека, который состоит из пяти слоев;</segment>
+		<segment id="17" parent="147" relname="joint">первый слой - супермелиоративный - включает такие качества, как гостеприимные, радушные, добрые, душевные, щедрые, открытые, доверчивые, талантливые, изобретательные.</segment>
+		<segment id="18" parent="145" relname="span">Второй и третий слои - субмелиоративные.</segment>
+		<segment id="19" parent="144" relname="joint">Второй слой представляет качество «терпение»: терпеливые, неприхотливые, жизнестойкие, умеют приспосабливаться.</segment>
+		<segment id="20" parent="144" relname="joint">К третьему слою относятся слова, выражающие «бунтарство»: нераз-буженные, когда-нибудь взорвутся, упрямые, непредсказуемые, агрессивные, лихие, бунтари.</segment>
+		<segment id="21" parent="146" relname="span">Четвертый и пятый слои - гиперпейоративные,</segment>
+		<segment id="22" parent="21" relname="elaboration">и в них представлены такие качества, как несчастные, отчаявшиеся, усталые, издерганные, серые, мрачные, закомплексованные, ленивые, безынициативные, ограниченные [10, с. 46].</segment>
+		<segment id="23" parent="24" relname="attribution">По мнению Т. А. Голиковой,</segment>
+		<segment id="24" parent="150" relname="span">в этнический автостереотип русских входят такие характеристики, как беспечность, гостеприимство, доброжелательность, доброта, душевность, лень, общительность, отзывчивость, открытость, простота, пьянство, терпимость, трудолюбие, честность, отсутствие культуры, наглость, высокомерие, болтливость [2, с. 19].</segment>
+		<segment id="25" parent="152" relname="attribution">В исследовании В. В. Воробьева</segment>
+		<segment id="26" parent="151" relname="joint">представлено лингвокультурологическое описание черт русского национального характера на основе анализа различных текстов, в которых изучались словосочетания с лексемами русский, российский, великорусский.</segment>
+		<segment id="27" parent="151" relname="joint">В итоге русскому человеку приписываются такие качества, как религиозность и противоречивость, широта души и соборность и др. [Цит. по: 1, с. 113].</segment>
+		<segment id="28" parent="29" relname="attribution">В докторской диссертации В. К. Трофимова</segment>
+		<segment id="29" parent="154" relname="span">ментальность русского человека представлена множественностью качеств, среди которых отмечаются такие, как парадоксальность мышления, устремленность к абсолюту, сердечность, стойкость, свободолюбие, коллективизм, повышенная терпимость [11, с. 12].</segment>
+		<segment id="30" parent="155" relname="contrast">Перечисленные выше результаты основаны на разных методологиях,</segment>
+		<segment id="31" parent="155" relname="contrast">но, в целом, наблюдается совпадение в выделении наиболее частотных признаков России и русского человека.</segment>
+		<segment id="32" parent="270" relname="span">Наше исследование</segment>
+		<segment id="33" parent="32" relname="purpose">было направлено на выявление стереотипов о России и русском, которые функционируют в американских масс-медиа.</segment>
+		<segment id="34" parent="157" relname="joint">Такой подход дает возможность сопоставить автопортрет и гетеропортрет русских</segment>
+		<segment id="35" parent="157" relname="joint">и выделить важные структурные элементы русско-американского дискурса.</segment>
+		<segment id="36" parent="158" relname="span">Так, в геополитическом поддискурсе американского публицистического дискурса мы выделили геополитические стереотипы:</segment>
+		<segment id="37" parent="36" relname="elaboration">«Россия - источник "холодной войны"», «Россия агрессивна», «Россия - особая страна»; «Россия - огромная, великая страна».</segment>
+		<segment id="38" parent="159" relname="span">Среди политических стереотипов политического поддискурса нами выделены следующие:</segment>
+		<segment id="39" parent="38" relname="elaboration">«в России ничего не меняется», «русские любят сильного правителя», «русские - несчастные и страдающие люди», «российская политика неразумна», «в России разруха», «в России нет свободы», «Россия - авторитарная страна», «русские политически неграмотны», «демократии в России нет».</segment>
+		<segment id="40" parent="233" relname="span">Социумные стереотипы - это стереотипы социокультурного дискурса о «коррумпированности общества», «бедности», «преступности», «отсталости», «национализме».</segment>
+		<segment id="41" parent="40" relname="elaboration">Эти стереотипы о России отражены также и в системе представлений о русском характере: склонность к аскетизму, противоречивость, патриотизм, консервативность мышления.</segment>
+		<segment id="42" parent="226" relname="span">Бытовые стереотипы - это зачастую предметные символы этнокультурного происхождения.</segment>
+		<segment id="43" parent="42" relname="elaboration">К ним мы относим такие стереотипы, как «баня», «дача», «самовар», «водка», «снег / зима», «тройка».</segment>
+		<segment id="44" parent="165" relname="joint">«Русский медведь» - достаточно старый русский символ, за которым закреплены такие характеристики русских и России, как агрессивность и варварство [5, с. 335-337].</segment>
+		<segment id="45" parent="275" relname="span">При сопоставлении образов русского мира,</segment>
+		<segment id="46" parent="45" relname="condition">полученных при составлении автопортрета и гетеропортрета, созданного другой нацией,</segment>
+		<segment id="47" parent="276" relname="span">возникает разница, связанная с вектором оценивания.</segment>
+		<segment id="48" parent="168" relname="comparison">Русские, как правило, оценивают сами себя чаще положительно, нежели отрицательно;</segment>
+		<segment id="49" parent="168" relname="comparison">известно, что американцы склонны оценивать русских чаще негативно, нежели положительно или нейтрально.</segment>
+		<segment id="50" parent="277" relname="span">В данной работе к изучению образа России мы подходим с позиций концептуальных исследований,</segment>
+		<segment id="51" parent="50" relname="elaboration">Россию изучаем как концепт, имеющий признаковую структуру.</segment>
+		<segment id="52" parent="170" relname="restatement">К изучению зарубежных СМИ мы применяем дискурсивный подход,</segment>
+		<segment id="53" parent="170" relname="restatement">имея в виду, что изучаемый дискурс принадлежит по типу к политической коммуникации.</segment>
+		<segment id="54" parent="55" relname="attribution">М. В. Пименовой предложено</segment>
+		<segment id="55" parent="284" relname="span">следующее понимание концепта и его признака.</segment>
+		<segment id="56" parent="57" relname="evidence">Концепт - это сложное представление о фрагменте мира или его части, выраженное группами признаков, которые, в свою очередь, в языке репрезентируются разными способами и средствами.</segment>
+		<segment id="57" parent="172" relname="span">Таким образом, структуру концепта формируют концептуальные признаки, отражающие категориальные, функциональные и ценностные знания некой культуры о мире [8, с. 10].</segment>
+		<segment id="58" parent="242" relname="span">В корпусе анализируемых фрагментов текстов мы выделили группы языковых единиц, репрезентирующих то или иное средство актуализации образа России.</segment>
+		<segment id="59" parent="240" relname="span">Одной из таких групп языковых единиц являются средства,</segment>
+		<segment id="60" parent="59" relname="purpose">используемые в целях усиления выразительности политического языка.</segment>
+		<segment id="61" parent="240" relname="elaboration">К ним мы относим средства выражения эмоциональной оценки (33 ед. в корпусе).</segment>
+		<segment id="62" parent="243" relname="span">Поскольку основной целью политического дискурса через убеждение и побуждение к действию</segment>
+		<segment id="63" parent="62" relname="purpose">является захват и удержание политической власти,</segment>
+		<segment id="64" parent="178" relname="joint">а главным средством влияния на общественное мнение служит оценка политических акторов и процессов,</segment>
+		<segment id="65" parent="179" relname="span">то чрезвычайно важно оценить степень насыщенности текстов оценочными средствами языка.</segment>
+		<segment id="66" parent="182" relname="joint">Оценка может быть положительной и отрицательной, общей и частной (эстетической, утилитарной, моральной, интеллектуальной, нормативной, идеологической).</segment>
+		<segment id="67" parent="180" relname="joint">Оценка делится по объектам оценивания,</segment>
+		<segment id="68" parent="180" relname="joint">бывает неаргументированной и аргументированной.</segment>
+		<segment id="69" parent="184" relname="comparison">Российский политический дискурс отличается безапелляционностью и негативностью оценок.</segment>
+		<segment id="70" parent="181" relname="span">Такие же свойства оценки мы обнаруживаем в дискурсе современных американских СМИ:</segment>
+		<segment id="71" parent="70" relname="elaboration">«...в американских фильмах русские изображаются или дураками, которые ничего не соображают, или опасными шпионами» [9].</segment>
+		<segment id="72" parent="183" relname="span">Следующим средством усиления выразительности политического языка являются метафоры (6 ед.):</segment>
+		<segment id="73" parent="72" relname="elaboration">«.Путин тоже хотел попасть в Западный клуб, однако он сильно разочаровался, потому что перед Россией продолжали захлопывать дверь» [Там же].</segment>
+		<segment id="74" parent="185" relname="span">Прецедентные феномены (7 ед.), используемые в корпусе изученных текстов, описывают Россию и российские реалии и персоналии в негативных образах, хорошо знакомых не только американской, но и международной аудитории.</segment>
+		<segment id="75" parent="74" relname="elaboration">Например, «Путина можно любить или ненавидеть, но никто не остается равнодушным &lt;...&gt; Западные СМИ ненавидят Владимира Путина, он Дарт Вейдер международной политики» [3].</segment>
+		<segment id="76" parent="186" relname="span">Эвфемизмы (1 ед.) в политической речи используются в целях маскирования невыгодных политику смыслов.</segment>
+		<segment id="77" parent="76" relname="elaboration">Так, в эвфемизме «отторгнуть "раковую болезнь" насильственного экстремизма» [16] могут быть обнаружены смыслы начала военных действий.</segment>
+		<segment id="78" parent="291" relname="preparation">Группой средств, противоположной средствам усиления выразительности политязыка, являются средства создания стереотипности (23 ед.).</segment>
+		<segment id="79" parent="80" relname="condition">При восприятии текста с высокой степенью стандартности</segment>
+		<segment id="80" parent="289" relname="span">нет необходимости тратить усилия для его интерпретации.</segment>
+		<segment id="81" parent="289" relname="elaboration">В таких текстах используется преимущественно общеупотребительная высокочастотная лексика.</segment>
+		<segment id="82" parent="227" relname="same-unit">К числу рассматриваемых средств относятся также «стертые»,</segment>
+		<segment id="83" parent="84" relname="cause">потерявшие образность метафоры,</segment>
+		<segment id="84" parent="188" relname="span">превратившиеся в штампы.</segment>
+		<segment id="85" parent="250" relname="elaboration">Соотношение между стандартностью и экспрессией зависит от политической эпохи, жанра, индивидуальности автора и множества других дискурсивных характеристик.</segment>
+		<segment id="86" parent="253" relname="span">Под стереотипом в данной работе понимается признак концепта, репрезентируемый одними и теми же средствами языка.</segment>
+		<segment id="87" parent="86" relname="elaboration">Этот признак отличается частотностью, национально-культурной спецификой и позицией терминала фрейма в структуре концепта [6, с. 46].</segment>
+		<segment id="88" parent="254" relname="span">Основные виды стереотипов, встречающиеся в изучаемом корпусе фрагментов текстов, - геополитические, политические, социокультурные.</segment>
+		<segment id="89" parent="190" relname="span">Бытовые стереотипы в исследуемом дискурсе,</segment>
+		<segment id="90" parent="89" relname="elaboration">который мы квалифицируем как политический,</segment>
+		<segment id="91" parent="191" relname="same-unit">не встречаются.</segment>
+		<segment id="92" parent="192" relname="span">Среди геополитических стереотипов превалирует стереотип «Россия - великая страна»,</segment>
+		<segment id="93" parent="92" relname="elaboration">совмещающий в себе как признаки величия, так и больших размеров.</segment>
+		<segment id="94" parent="193" relname="joint">Например, «.Путин хочет "разрушить" солидарность стран Запада и восстановить величие России... » [12];</segment>
+		<segment id="95" parent="193" relname="joint">«...такой политик, президент большой и сильной страны, говорит честно и прямо, это как глоток свежего воздуха» [3];</segment>
+		<segment id="96" parent="193" relname="joint">«... Россия самая большая страна в мире, очень богатая и с самым высоким уровнем образования» [9].</segment>
+		<segment id="97" parent="197" relname="span">Следующим по частотности является стереотип об авторитарности проводимой президентом В. В. Путиным политики и в целом о России как об авторитарной стране:</segment>
+		<segment id="98" parent="196" relname="span">«Для западных политиков это усвоено, наверное, на генетическом уровне - Россия, причем с любым общественным строем и кто бы ее ни возглавлял - царь- батюшка, генеральный секретарь или президент - априори является империей зла»,</segment>
+		<segment id="99" parent="98" relname="attribution">-сказал он газете «Взгляд» [16].</segment>
+		<segment id="100" parent="198" relname="joint">Также в текстах СМИ встречаются стереотипы о патриотизме русских,</segment>
+		<segment id="101" parent="198" relname="joint">о том, что Россия - Азиатская страна, и в том числе агрессивная страна,</segment>
+		<segment id="102" parent="198" relname="joint">а культура России - великая.</segment>
+		<segment id="103" parent="278" relname="span">Достаточно интересным является стереотип «Россия - медведь»;</segment>
+		<segment id="104" parent="199" relname="span">так, наиболее раннее упоминание этого образа</segment>
+		<segment id="105" parent="104" relname="attribution">в газете «The New York Times»</segment>
+		<segment id="106" parent="200" relname="same-unit">относится к 1851 году.</segment>
+		<segment id="107" parent="278" relname="elaboration">«Все больше разочаровываясь в Западе, Россия сближается с Китаем. Могут ли медведь и дракон противостоять Западной гегемонии?» [7].</segment>
+		<segment id="108" parent="206" relname="span">Следующая группа языковых средств, актуализирующих образ России, представляет собой комплекс средств манипуляции,</segment>
+		<segment id="109" parent="205" relname="joint">к которым мы относим, в том числе, и стереотипность политического дискурса,</segment>
+		<segment id="110" parent="256" relname="span">и такое свойство языка, как относительность политической лексики (2 ед.).</segment>
+		<segment id="111" parent="208" relname="span">Это свойство языка политического дискурса связано с тем,</segment>
+		<segment id="112" parent="207" relname="joint">что агенты данного вида дискурса являются идеологически ангажированными,</segment>
+		<segment id="113" parent="207" relname="joint">и, как правило, их идеологии вступают в противоречие друг с другом.</segment>
+		<segment id="114" parent="208" relname="elaboration">«... она ответила: "Конечно, мы поддерживаем деэскалацию. Но по большей части эскалации способствует российская сторона... ирoccийcкиe ceпaрaтиcты"... » [14].</segment>
+		<segment id="115" parent="257" relname="span">Цитаты в политическом дискурсе (2 ед.) выполняют функцию создания доверия и повышения убедительности текста.</segment>
+		<segment id="116" parent="115" relname="elaboration">Таких употреблений цитирований в корпусе анализируемых текстов выявлено 2 ед. (напр., [15]).</segment>
+		<segment id="117" parent="260" relname="preparation">Наиболее частотным средством манипуляции в изученном корпусе текста является пресуппозиция (18 ед.).</segment>
+		<segment id="118" parent="286" relname="attribution">0\. Л. Михалева отмечает,</segment>
+		<segment id="119" parent="286" relname="span">что пресуппозиция может эффективно использоваться</segment>
+		<segment id="120" parent="119" relname="purpose">для навязывания адресату мнений и точек зрения говорящего [4].</segment>
+		<segment id="121" parent="213" relname="joint">Благодаря таким качествам пресуппозиции, говорящим может быть инициировано</segment>
+		<segment id="122" parent="213" relname="joint">и проведено любое утверждение,</segment>
+		<segment id="123" parent="213" relname="joint">выдано за общеизвестное новое,</segment>
+		<segment id="124" parent="214" relname="sequence">которое впоследствии может стать стереотипом, в том числе необъективным (или предвзятым) мнением [5, с. 360].</segment>
+		<segment id="125" parent="216" relname="span">Наиболее частотный признак образа России, актуализируемый в виде безусловного - военного вмешательства в дела Украины.</segment>
+		<segment id="126" parent="125" relname="elaboration">«Однако, учитывая все более масштабное военное вмешательство России на востоке Украины, совершенно ясно, что необходимо усилить военную помощь Украине... » [13].</segment>
+		<segment id="127" parent="280" relname="span">Самой большой группой языковых средств, актуализирующих признаки образа России, является группа, реализующая категориальную биполярную оппозицию «свой - чужой» (34 ед.).</segment>
+		<segment id="128" parent="281" relname="span">Россия в данной оппозиции занимает сторону «чужой» по отношению к «Америке».</segment>
+		<segment id="129" parent="128" relname="elaboration">«Владимир Путин и Россия готовы противостоять воле Запада и Вашингтона»; «холодная война на самом деле никогда не заканчивалась»; «страх» [9].</segment>
+		<segment id="130" parent="220" relname="joint">Таким образом, посредством анализа основных способов и средств актуализации образа России в современных зарубежных СМИ мы можем не только описать эти способы и средства,</segment>
+		<segment id="131" parent="220" relname="joint">но и систематизировать важнейшие признаки концепта, репрезентированные при помощи языка.</segment>
+		<segment id="132" parent="264" relname="elaboration">Это следующие признаки: глупость, изолированность, опасность, величие, большие размеры, авторитарность, патриотизм, азиатскость, «медведь», агрессивность, империалистические намерения.</segment>
+		<segment id="133" parent="293" relname="span">Образ России в современных зарубежных СМИ является образом, живо откликающимся на актуальные геополитические события:</segment>
+		<segment id="134" parent="135" relname="cause">события на Украине актуализировали прецедент «холодная война»</segment>
+		<segment id="135" parent="225" relname="span">и стали причиной очередного витка негативизации образа страны.</segment>
+		<segment id="136" parent="137" relname="preparation">Список литературы</segment>
+		<segment id="137" relname="antithesis">1\. Березович Е. Л. Язык и культурная традиция. Этнолингвистические исследования. М., 2007. 600 с. 2\. Голикова Т. А. Психолингвистическая концепция исследования этнического сознания: автореф. дисс. ... д. филол. н. М., 2005. 50 с. 3\. Кто он, президент Путин? [Электронный ресурс]: CrossTalk с Питером Лавеллем от 6 ноября 2014 г. URL: http://doc. rt.com/filmy/kto-on-prezident- putin/ (дата обращения: 10.01.2015). 4\. Михалева О. Л. Политический дискурс как сфера реализации манипулятивного воздействия: автореф. дисс. ... к. филол. н. Иркутск, 2004. 18 с. 5\. Орлова О. Г. Дискурсивная теория стереотипа: дисс. ... д. филол. н. Кемерово, 2013. 388 с. 6\. Орлова О. Г. Стереотипы о России и русских. Кемерово, 2011. 154 с. 7\. От Запада к Востоку [Электронный ресурс]: CrossTalk с Питером Лавеллем от 17 сентября 2014 г. URL: http://partizzan1941. ucoz.ru/load/novosti_i_politika/crosstalk_ot_zapada_k_vostoku/14-1-0-20970 (дата обращения: 10.01.2015). 8\. Пименова М. В. Душа и дух: особенности концептуализации. Кемерово: ИПК «Графика», 2004. 386 с. 9\. Русофобия по-американски [Электронный ресурс]: CrossTalk с Питером Лавеллем от 25 сентября 2014 г. URL: http://doc.rt.com/filmy/rusofobiya-po- amerikanski/ (дата обращения: 10.01.2015). 10\. Сорокин Ю. А. Речевые маркеры этнических и институциональных портретов и автопортретов // Вопросы языкознания. 1995. № 6. С. 43-53. 11\. Трофимов В. К. Истоки и сущность русского национального менталитета (социально-философский аспект): автореф. дисс. ... д. филос. н. Екатеринбург, 2001. 43 с. 12\. http://inosmi.rU/russia/20141204/224696456.html#ixzz3NlXFcd5k (дата обращения: 10.01.2015). 13\. http://inosmi.rU/russia/20141204/224696456.html#ixzz3NlXlLiZc (дата обращения: 10.01.2015). 14\. http://ok.ru/politicheskoeshow/topic/62913012255606 (дата обращения: 10.01.2015). 15\. http://www.utro.ru/articles/2014/10/27/1219013.shtml (дата обращения: 10.01.2015). 16\. http://www.vz.ru/politics/2014/9/24/707299.html (дата обращения: 10.01.2015).</segment>
+		<group id="139" type="multinuc" parent="228" relname="span"/>
+		<group id="141" type="span" relname="antithesis"/>
+		<group id="143" type="multinuc" parent="163" relname="span"/>
+		<group id="144" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="145" type="span" parent="147" relname="joint"/>
+		<group id="146" type="span" parent="147" relname="joint"/>
+		<group id="147" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="150" type="span" parent="230" relname="joint"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="153" type="span" parent="230" relname="joint"/>
+		<group id="154" type="span" parent="230" relname="joint"/>
+		<group id="155" type="multinuc" parent="273" relname="preparation"/>
+		<group id="157" type="multinuc" parent="270" relname="elaboration"/>
+		<group id="158" type="span" parent="160" relname="joint"/>
+		<group id="159" type="span" parent="160" relname="joint"/>
+		<group id="160" type="multinuc" parent="232" relname="elaboration"/>
+		<group id="163" type="span" parent="230" relname="joint"/>
+		<group id="164" type="span" relname="antithesis"/>
+		<group id="165" type="multinuc" parent="160" relname="joint"/>
+		<group id="168" type="multinuc" parent="237" relname="span"/>
+		<group id="170" type="multinuc" parent="239" relname="joint"/>
+		<group id="172" type="span" parent="173" relname="span"/>
+		<group id="173" type="span" parent="285" relname="span"/>
+		<group id="178" type="multinuc" parent="65" relname="condition"/>
+		<group id="179" type="span" parent="245" relname="preparation"/>
+		<group id="180" type="multinuc" parent="182" relname="joint"/>
+		<group id="181" type="span" parent="184" relname="comparison"/>
+		<group id="182" type="multinuc" parent="244" relname="span"/>
+		<group id="183" type="span" parent="247" relname="joint"/>
+		<group id="184" type="multinuc" parent="244" relname="elaboration"/>
+		<group id="185" type="span" parent="247" relname="joint"/>
+		<group id="186" type="span" parent="247" relname="joint"/>
+		<group id="188" type="span" parent="227" relname="same-unit"/>
+		<group id="190" type="span" parent="191" relname="same-unit"/>
+		<group id="191" type="multinuc" parent="195" relname="joint"/>
+		<group id="192" type="span" parent="194" relname="span"/>
+		<group id="193" type="multinuc" parent="192" relname="elaboration"/>
+		<group id="194" type="span" parent="195" relname="joint"/>
+		<group id="195" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="196" type="span" parent="97" relname="elaboration"/>
+		<group id="197" type="span" parent="204" relname="joint"/>
+		<group id="198" type="multinuc" parent="204" relname="joint"/>
+		<group id="199" type="span" parent="200" relname="same-unit"/>
+		<group id="200" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="204" type="multinuc" relname="antithesis"/>
+		<group id="205" type="multinuc" parent="108" relname="elaboration"/>
+		<group id="206" type="span" parent="262" relname="joint"/>
+		<group id="207" type="multinuc" parent="111" relname="cause"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="110" relname="elaboration"/>
+		<group id="213" type="multinuc" parent="214" relname="sequence"/>
+		<group id="214" type="multinuc" parent="288" relname="span"/>
+		<group id="216" type="span" parent="263" relname="elaboration"/>
+		<group id="220" type="multinuc" parent="264" relname="span"/>
+		<group id="225" type="span" parent="133" relname="elaboration"/>
+		<group id="226" type="span" parent="165" relname="joint"/>
+		<group id="227" type="multinuc" parent="250" relname="span"/>
+		<group id="228" type="span" parent="141" relname="span"/>
+		<group id="230" type="multinuc" parent="231" relname="span"/>
+		<group id="231" type="span" parent="164" relname="span"/>
+		<group id="232" type="span" parent="273" relname="span"/>
+		<group id="233" type="span" parent="160" relname="joint"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" relname="antithesis"/>
+		<group id="239" type="multinuc" relname="antithesis"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="58" relname="elaboration"/>
+		<group id="242" type="span" parent="173" relname="elaboration"/>
+		<group id="243" type="span" parent="178" relname="joint"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="span"/>
+		<group id="246" type="span" relname="antithesis"/>
+		<group id="247" type="multinuc" relname="antithesis"/>
+		<group id="249" type="span" parent="290" relname="elaboration"/>
+		<group id="250" type="span" parent="249" relname="span"/>
+		<group id="253" type="span" parent="254" relname="preparation"/>
+		<group id="254" type="span" parent="255" relname="span"/>
+		<group id="255" type="span" relname="antithesis"/>
+		<group id="256" type="span" parent="205" relname="joint"/>
+		<group id="257" type="span" parent="262" relname="joint"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" relname="antithesis"/>
+		<group id="262" type="multinuc" relname="antithesis"/>
+		<group id="263" type="span" parent="259" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" relname="antithesis"/>
+		<group id="267" type="span" parent="228" relname="preparation"/>
+		<group id="268" type="span" parent="269" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="139" relname="joint"/>
+		<group id="270" type="span" parent="232" relname="span"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" relname="antithesis"/>
+		<group id="275" type="span" parent="47" relname="condition"/>
+		<group id="276" type="span" parent="237" relname="preparation"/>
+		<group id="277" type="span" parent="239" relname="joint"/>
+		<group id="278" type="span" parent="279" relname="span"/>
+		<group id="279" type="span" parent="204" relname="joint"/>
+		<group id="280" type="span" relname="antithesis"/>
+		<group id="281" type="span" parent="127" relname="elaboration"/>
+		<group id="282" type="span" parent="143" relname="same-unit"/>
+		<group id="283" type="span" parent="282" relname="span"/>
+		<group id="284" type="span" parent="172" relname="preparation"/>
+		<group id="285" type="span" relname="antithesis"/>
+		<group id="286" type="span" parent="287" relname="span"/>
+		<group id="287" type="span" parent="288" relname="cause"/>
+		<group id="288" type="span" parent="263" relname="span"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" parent="292" relname="span"/>
+		<group id="292" type="span" relname="antithesis"/>
+		<group id="293" type="span" parent="265" relname="evaluation"/>
+  </body>
+</rst>

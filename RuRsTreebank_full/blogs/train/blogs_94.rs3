@@ -1,0 +1,512 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://ru-travel.livejournal.com/33764838.html</segment>
+		<segment id="2" parent="442" relname="span">##### Бежецк, ч.2 - немного уютной старины</segment>
+		<segment id="3" parent="2" relname="elaboration">##### IMG</segment>
+		<segment id="4" parent="5" relname="preparation">##### И всё-таки есть что-то в чутье, в интуиции.</segment>
+		<segment id="5" parent="262" relname="span">Бежецк неуловимо и неотвратимо на протяжении всей моей прогулки, да и после неё, заставлял думать о Вологодчине, этакой южной части Русского Севера.</segment>
+		<segment id="6" parent="484" relname="span">В Вологодской области я никогда не был, на Русском Севере - только в Карелии,</segment>
+		<segment id="7" parent="6" relname="background">но это уже сам по себе регион достаточно самобытный.</segment>
+		<segment id="8" parent="268" relname="span">Тем страннее и необоснованнее были мои ощущения.</segment>
+		<segment id="9" parent="264" relname="cause">Но вот человек в комментариях высказал аналогичную мысль.</segment>
+		<segment id="10" parent="263" relname="joint">Я взял</segment>
+		<segment id="11" parent="263" relname="joint">и полистал фото малых городов Вологодчины</segment>
+		<segment id="12" parent="263" relname="evaluation">- блин, действительно похоже!</segment>
+		<segment id="13" parent="271" relname="span">Где-то в районе Кашина или Кесовой Горы я незаметно преодолел какую-то черту, когда средняя Россия стала уже немного другой, чуть более северной, деревянной, с более широкими реками и низким небом.</segment>
+		<segment id="14" parent="270" relname="span">С удовольствием предлагаю завершить прогулку по этому недооценённому городу, полному чудесной деревянной архитектуры и неиспорченного русского духа.</segment>
+		<segment id="15" parent="14" relname="elaboration">Тем более, что на сей раз нас ждёт наиболее привлекательная его часть.</segment>
+		<segment id="16" parent="274" relname="preparation">##### 1. Начнём, где остановились в прошлый раз, - в окрестностях центральной Советской площади.</segment>
+		<segment id="17" parent="274" relname="span">В квартале от неё среди частных домов затерялось значимое для города здание</segment>
+		<segment id="18" parent="273" relname="joint">- здесь во время частых визитов в Бежецк останавливались Николай Гумилёв и Анна Ахматова,</segment>
+		<segment id="19" parent="273" relname="joint">а также тут 12 лет прожил их сын Лев Гумилёв.</segment>
+		<segment id="20" parent="273" relname="evaluation">Эта семья, вероятно, - наиболее известные из связанных с Бежецком людей, но не единственные.</segment>
+		<segment id="21" parent="276" relname="sequence">В первой части много говорили про писателя В.Я. Шишкова,</segment>
+		<segment id="22" parent="276" relname="sequence">а далее столкнёмся ещё и с музыкальными талантами Бежецка:</segment>
+		<segment id="23" parent="277" relname="elaboration">##### IMG</segment>
+		<segment id="24" parent="445" relname="span">##### 2. Ещё один капитальный кирпичный склад, оставшийся от местного купечества времён Российской Империи.</segment>
+		<segment id="25" parent="24" relname="background">В первой части уже видели пару таких:</segment>
+		<segment id="26" parent="445" relname="elaboration">##### IMG</segment>
+		<segment id="27" parent="446" relname="span">##### 3. В каком-то советском здании помимо прочего расположилась кофейня. Не единственная в Бежецке.</segment>
+		<segment id="28" parent="27" relname="elaboration">Тренды больших городов ползут по стране.</segment>
+		<segment id="29" parent="446" relname="elaboration">##### IMG</segment>
+		<segment id="30" parent="282" relname="cause">##### 4. Цены тут, конечно, существенно ниже московских.</segment>
+		<segment id="31" parent="282" relname="span">Я позволил себе молочный коктейль</segment>
+		<segment id="32" parent="33" relname="cause">- выспался я вроде хорошо,</segment>
+		<segment id="33" parent="280" relname="span">потребности в кофеине не было,</segment>
+		<segment id="34" parent="281" relname="contrast">а вот прохладный напиток на жаре пришёлся весьма кстати.</segment>
+		<segment id="35" parent="285" relname="span">Внутри кофейни живёт игуана</segment>
+		<segment id="36" parent="284" relname="span">- блин, не каждое московское заведение на такое решится:</segment>
+		<segment id="37" parent="36" relname="elaboration">содержание экзотического зверя хлопотное и дорогое занятие.</segment>
+		<segment id="38" parent="39" relname="evaluation">Забавно, что</segment>
+		<segment id="39" parent="433" relname="span">на одном прилавке с кофе здесь ещё и семена продают.</segment>
+		<segment id="40" parent="287" relname="evaluation">Обожаю нашу глубинку!</segment>
+		<segment id="41" parent="447" relname="elaboration">##### IMG</segment>
+		<segment id="42" parent="289" relname="preparation">##### 5. В этот раз мы гуляем по главной улице города - Большой.</segment>
+		<segment id="43" parent="289" relname="joint">Здесь находятся самые красивые здания,</segment>
+		<segment id="44" parent="289" relname="joint">она ухоженна,</segment>
+		<segment id="45" parent="289" relname="joint">подкрашена</segment>
+		<segment id="46" parent="289" relname="joint">и вообще в обрамлении июньской зелени производит исключительно положительное впечатление.</segment>
+		<segment id="47" parent="290" relname="elaboration">##### IMG</segment>
+		<segment id="48" parent="292" relname="same-unit">##### 6. Переходим,</segment>
+		<segment id="49" parent="50" relname="background">как и было обещано,</segment>
+		<segment id="50" parent="434" relname="span">к музыкальным талантам Бежецка.</segment>
+		<segment id="51" parent="52" relname="cause">Родившийся в местной купеческой семье Василий Андреев в конце XIX-го века организовал первый в России оркестр народных инструментов,</segment>
+		<segment id="52" parent="293" relname="span">вызвав к последним немалый интерес в обществе.</segment>
+		<segment id="53" parent="294" relname="span">В первую очередь это, конечно, балалайка,</segment>
+		<segment id="54" parent="427" relname="joint">с его лёгкой руки ставшая одним из символов России</segment>
+		<segment id="55" parent="427" relname="joint">и ныне обязательно фигурирующая в каждой клюкве или пародии на неё, наряду с медведем и шапкой-ушанкой.</segment>
+		<segment id="56" parent="448" relname="elaboration">##### IMG</segment>
+		<segment id="57" parent="297" relname="span">##### 7. Сам Андреев был именно что виртуозом-балалаечником,</segment>
+		<segment id="58" parent="57" relname="concession">хотя инструментарий его оркестра был существенно шире.</segment>
+		<segment id="59" parent="302" relname="span">Памятник ему с прошлого кадра установлен около его же музея.</segment>
+		<segment id="60" parent="300" relname="span">В этом доме Андреев лишь проживал какое-то время.</segment>
+		<segment id="61" parent="60" relname="elaboration">Фамильный же особняк его отца будет далее.</segment>
+		<segment id="62" parent="298" relname="span">Почему музей открыли не там, а здесь</segment>
+		<segment id="63" parent="62" relname="evaluation">- не совсем понятно.</segment>
+		<segment id="64" parent="298" relname="evaluation">Видимо, вопросы частной собственности.</segment>
+		<segment id="65" parent="305" relname="joint">По другую руку от бюста - местный краеведческий, посвящённый, по сути, одному писателю Шишкову.</segment>
+		<segment id="66" parent="418" relname="contrast">Оба музея уже несколько лет закрыты "на реконструкцию",</segment>
+		<segment id="67" parent="418" relname="contrast">которой по факту, судя по всему, не проводится.</segment>
+		<segment id="68" parent="418" relname="evaluation">С точки зрения туризма, это жирная "двойка" Бежецку.</segment>
+		<segment id="69" parent="449" relname="elaboration">##### IMG</segment>
+		<segment id="70" parent="419" relname="span">##### 8. Некогда красивейшее здание Бежецка, дом нотариуса Тугаринова, в советское время потеряло всю свою прелесть:</segment>
+		<segment id="71" parent="70" relname="elaboration">##### IMG</segment>
+		<segment id="72" parent="308" relname="span">##### 8a. Вот собственно почему.</segment>
+		<segment id="73" parent="307" relname="span">До революции выглядело так,</segment>
+		<segment id="74" parent="73" relname="evaluation">тут комментарии излишни.</segment>
+		<segment id="75" parent="309" relname="span">Взято отсюда:</segment>
+		<segment id="76" parent="75" relname="attribution">http://www.etoretro.ru/pic9178.htm</segment>
+		<segment id="77" parent="450" relname="span">##### 9. Вероятно, самое красивое по состоянию на сегодняшний день деревянное здание Бежецка связывают с именем того же Тугаринова,</segment>
+		<segment id="78" parent="311" relname="joint">который в своё время купил его</segment>
+		<segment id="79" parent="311" relname="joint">и надстроил наиболее интересной частью:</segment>
+		<segment id="80" parent="450" relname="elaboration">##### IMG</segment>
+		<segment id="81" parent="313" relname="span">##### 10. Рядом с ним - памятник отцу и сыну Гумилёвым и Анне Ахматовой,</segment>
+		<segment id="82" parent="81" relname="background">о которых уже говорилось выше.</segment>
+		<segment id="83" parent="313" relname="background">С Бежецком их связало наличие имения семьи Гумилёвых в окрестностях города.</segment>
+		<segment id="84" parent="315" relname="comparison">Сам памятник выглядит странно,</segment>
+		<segment id="85" parent="315" relname="comparison">словно его собрали из отдельных не связанных друг с другом деталей:</segment>
+		<segment id="86" parent="316" relname="elaboration">##### IMG</segment>
+		<segment id="87" parent="451" relname="span">##### 11. Капитальная доска почёта:</segment>
+		<segment id="88" parent="87" relname="elaboration">##### IMG</segment>
+		<segment id="89" parent="452" relname="span">##### 12. В число почётных граждан Бежецка попали три памятника, вход в парк и колокольня:</segment>
+		<segment id="90" parent="89" relname="elaboration">##### IMG</segment>
+		<segment id="91" parent="319" relname="span">##### 13. Самое роскошное здание Бежецка, пожалуй, в принципе сильно превосходящее уровень города, - усадьба купца Неворотина.</segment>
+		<segment id="92" parent="453" relname="span">Сейчас такое помыслить невозможно</segment>
+		<segment id="93" parent="318" relname="contrast">даже не потому что, мол, так строить не умеют,</segment>
+		<segment id="94" parent="318" relname="contrast">а потому что люди с такими возможностями в маленьких городах уже не живут.</segment>
+		<segment id="95" parent="319" relname="elaboration">##### IMG</segment>
+		<segment id="96" parent="439" relname="span">##### 14. Скажу честно, Бежецк - город непростой</segment>
+		<segment id="97" parent="96" relname="purpose">для восприятия.</segment>
+		<segment id="98" parent="320" relname="joint">Он не разжёван</segment>
+		<segment id="99" parent="320" relname="joint">и не переварен туриндустрией, словно Суздаль, Зарайск или Коломна,</segment>
+		<segment id="100" parent="321" relname="joint">чтобы можно было сразу положить его в алчущий рот путешественника</segment>
+		<segment id="101" parent="321" relname="joint">и легко с аппетитом проглотить.</segment>
+		<segment id="102" parent="103" relname="condition">Во время прогулки стоило слегка отойти от центральной улицы,</segment>
+		<segment id="103" parent="324" relname="span">мне становилось зачастую не слишком комфортно.</segment>
+		<segment id="104" parent="440" relname="elaboration">##### IMG</segment>
+		<segment id="105" parent="326" relname="joint">##### 15. Целостность гражданской застройки тут высока,</segment>
+		<segment id="106" parent="326" relname="joint">сохранность лучше среднего.</segment>
+		<segment id="107" parent="327" relname="contrast">Но всё это вписано в обычную провинциальную жизнь, местами суровую и неприглядную.</segment>
+		<segment id="108" parent="428" relname="contrast">Как с Елабугой, примерно,</segment>
+		<segment id="109" parent="428" relname="contrast">только её ещё и причесали хорошо.</segment>
+		<segment id="110" parent="328" relname="span">Как итог, Бежецк,</segment>
+		<segment id="111" parent="110" relname="elaboration">оставивший бледные впечатления "на месте",</segment>
+		<segment id="112" parent="331" relname="span">дарит мощное послевкусие,</segment>
+		<segment id="113" parent="330" relname="span">появляющееся,</segment>
+		<segment id="114" parent="329" relname="joint">когда мысли в голове хорошенько осели</segment>
+		<segment id="115" parent="329" relname="joint">и разложились по полкам.</segment>
+		<segment id="116" parent="333" relname="evaluation">Теперь хочется его откровенно расхваливать.</segment>
+		<segment id="117" parent="457" relname="elaboration">##### IMG</segment>
+		<segment id="118" parent="458" relname="span">##### 16. Амбициозный плакат. Братва рвётся к власти?</segment>
+		<segment id="119" parent="118" relname="elaboration">##### IMG</segment>
+		<segment id="120" parent="336" relname="preparation">##### 17. Продолжаем прогулку по уютной тенистой Большой улице.</segment>
+		<segment id="121" parent="336" relname="contrast">Своей целостностью и красотой она определённо представляет собой прекрасный пример улицы маленького исторического русского города.</segment>
+		<segment id="122" parent="336" relname="contrast">Но ради неё одной, конечно, в Бежецк не поедешь.</segment>
+		<segment id="123" parent="337" relname="elaboration">##### IMG</segment>
+		<segment id="124" parent="459" relname="span">##### 18. Дом купцов Постниковых:</segment>
+		<segment id="125" parent="124" relname="elaboration">##### IMG</segment>
+		<segment id="126" parent="460" relname="span">##### 19. Ещё одна доска почёта, на сей раз - Героям СССР и Героям труда:</segment>
+		<segment id="127" parent="126" relname="elaboration">##### IMG</segment>
+		<segment id="128" parent="339" relname="span">##### 20. Рядом с заросшим сквером на перекрёстке двух пыльных дорог стоит красивая шатровая колокольня.</segment>
+		<segment id="129" parent="128" relname="evaluation">Выглядит всё это слегка странно.</segment>
+		<segment id="130" parent="339" relname="background">Сия колокольня 1680-х годов постройки - единственное, что осталось от располагавшегося здесь Введенского монастыря.</segment>
+		<segment id="131" parent="340" relname="elaboration">Сегодня это - старейшее здание Бежецка:</segment>
+		<segment id="132" parent="341" relname="elaboration">##### IMG</segment>
+		<segment id="133" parent="342" relname="span">##### 21. В излишне зареставрированном, но, судя по всему, не сильно исторически значимом доме открыли культурно-деловой центр "Дом Иванова".</segment>
+		<segment id="134" parent="133" relname="elaboration">Алексей Иванов - ещё один уроженец Бежецка, прославившийся в мире музыки.</segment>
+		<segment id="135" parent="136" relname="evaluation">Не совсем понятно,</segment>
+		<segment id="136" parent="343" relname="span">почему создатели этого объекта решили посвятить его именно оперному певцу.</segment>
+		<segment id="137" parent="345" relname="joint">Родился он в Бежецком районе,</segment>
+		<segment id="138" parent="345" relname="joint">и дом этот, вроде бы, отношения к нему не имеет.</segment>
+		<segment id="139" parent="346" relname="contrast">Но идея не самая плохая.</segment>
+		<segment id="140" parent="344" relname="elaboration">Сейчас здесь работает как минимум музей певца (частный, очевидно), магазин сувениров и кафе, в котором я вполне вкусно отобедал.</segment>
+		<segment id="141" parent="462" relname="elaboration">##### IMG</segment>
+		<segment id="142" parent="463" relname="span">##### 22. Памятник баритону расположен в квартале от культурно-делового центра.</segment>
+		<segment id="143" parent="421" relname="span">Придётся нарушить хронологию,</segment>
+		<segment id="144" parent="143" relname="purpose">дабы не запутаться в местных персоналиях:</segment>
+		<segment id="145" parent="463" relname="elaboration">##### IMG</segment>
+		<segment id="146" parent="464" relname="span">##### 23. К дореволюционному зданию земской управы в советское время пристроили два массивных крыльца.</segment>
+		<segment id="147" parent="350" relname="contrast">Не хочу навлечь на себя гнев эстетов,</segment>
+		<segment id="148" parent="350" relname="contrast">но по-моему здесь тот редкий случай, когда с советской пристройкой получилось даже лучше оригинала:</segment>
+		<segment id="149" parent="464" relname="elaboration">##### IMG</segment>
+		<segment id="150" parent="465" relname="span">##### 24. А вот и усадьба семьи Андреевых,</segment>
+		<segment id="151" parent="150" relname="background">про которую я говорил выше:</segment>
+		<segment id="152" parent="465" relname="elaboration">##### IMG</segment>
+		<segment id="153" parent="355" relname="span">##### 25. Неожиданно изобретательные и крупные для маленького городка автобусные остановки, аж в две секции!</segment>
+		<segment id="154" parent="353" relname="solutionhood">Хотя казалось бы, сколько тут маршрутов?</segment>
+		<segment id="155" parent="156" relname="attribution">Википедия пишет,</segment>
+		<segment id="156" parent="353" relname="span">что целых семь.</segment>
+		<segment id="157" parent="355" relname="elaboration">##### IMG</segment>
+		<segment id="158" parent="466" relname="span">##### 26. На линии курсирует жёлтый "Икарус".</segment>
+		<segment id="159" parent="160" relname="cause">В силу сокращения численности,</segment>
+		<segment id="160" parent="356" relname="span">скоро станет таким же объектом поклонения, как и 677-й ЛиАЗ:</segment>
+		<segment id="161" parent="466" relname="elaboration">##### IMG</segment>
+		<segment id="162" parent="467" relname="span">##### 27. Невзрачный центр народного творчества и досуга:</segment>
+		<segment id="163" parent="162" relname="elaboration">##### IMG</segment>
+		<segment id="164" parent="359" relname="span">##### 28. Что удивительно, Ленин в Бежецке представлен лишь бюстом в тихом укромном месте.</segment>
+		<segment id="165" parent="164" relname="background">Его перенесли сюда из сквера у колокольни.</segment>
+		<segment id="166" parent="358" relname="contrast">А полноценного Ильича, выходит, тут и не было?</segment>
+		<segment id="167" parent="358" relname="elaboration">##### IMG</segment>
+		<segment id="168" parent="486" relname="span">##### 29. Параллельно Большой тянется Липовая аллея - тихая уютная улочка с бульварной зоной и остатками брусчатки.</segment>
+		<segment id="169" parent="360" relname="span">Не удалось найти, как давно и по какому поводу она тут появилась.</segment>
+		<segment id="170" parent="169" relname="evaluation">Предположу, что в связи с располагавшимся здесь монастырём:</segment>
+		<segment id="171" parent="486" relname="elaboration">##### IMG</segment>
+		<segment id="172" parent="470" relname="span">##### 30. Часть аллеи небогато, но чистенько обустроена - плиточка, скамейки, урны и т.п.</segment>
+		<segment id="173" parent="364" relname="joint">Судя по имеющейся в сети информации, до конца года такой должна стать вся аллея целиком.</segment>
+		<segment id="174" parent="363" relname="span">Да и вообще озвученные планы по благоустройству Бежецка весьма обширные.</segment>
+		<segment id="175" parent="362" relname="span">Например, полузаброшенный сквер у показанной ранее колокольни должны привести в порядок, и много чего ещё.</segment>
+		<segment id="176" parent="175" relname="evaluation">Интересно, сделают?</segment>
+		<segment id="177" parent="470" relname="elaboration">##### IMG</segment>
+		<segment id="178" parent="367" relname="span">##### 31. На Липовой аллее сохранились остатки Благовещенского монастыря.</segment>
+		<segment id="179" parent="366" relname="sequence">Когда-то это был грандиозный ансамбль, достойный Нового Иерусалима или Нило-Столобенской пустыни.</segment>
+		<segment id="180" parent="366" relname="sequence">Но при советах храмы посносили, оставив лишь ограду бывшей обители.</segment>
+		<segment id="181" parent="366" relname="sequence">Внутри неё теперь располагается больница.</segment>
+		<segment id="182" parent="368" relname="span">Вид просто ошарашивающий:</segment>
+		<segment id="183" parent="182" relname="cause">где ещё за крепостной стеной с башенками можно увидеть типовой советский замок из силикатного кирпича?</segment>
+		<segment id="184" parent="369" relname="elaboration">##### IMG</segment>
+		<segment id="185" parent="370" relname="span">##### 32. Помимо стены от монастыря осталось несколько неприметных корпусов, сейчас используемых больницей, и обезглавленная Космодемьянская церковь (1878),</segment>
+		<segment id="186" parent="185" relname="elaboration">к которой пристыковали силикатный переход в основное здание лечебного учреждения.</segment>
+		<segment id="187" parent="370" relname="elaboration">Используется как поликлиника:</segment>
+		<segment id="188" parent="371" relname="elaboration">##### IMG</segment>
+		<segment id="189" parent="372" relname="span">##### 33. В конце Липовой аллеи - симпатичный памятник балалайке,</segment>
+		<segment id="190" parent="189" relname="background">установленный к 150-летию упомянутого ранее Василия Андреева:</segment>
+		<segment id="191" parent="372" relname="elaboration">##### IMG</segment>
+		<segment id="192" parent="373" relname="span">##### 34. В сквере у больницы, на карте громко обозначенном как "парк Победы", - монумент борцам, павшим за октябрь.</segment>
+		<segment id="193" parent="192" relname="background">Установлен на месте братского захоронения жертв Гражданской войны:</segment>
+		<segment id="194" parent="373" relname="elaboration">##### IMG</segment>
+		<segment id="195" parent="375" relname="span">##### 35. Здесь же - памятник солдату уже Великой Отечественной войны.</segment>
+		<segment id="196" parent="374" relname="contrast">Это не у меня руки из одного места,</segment>
+		<segment id="197" parent="374" relname="contrast">это памятник завалился:</segment>
+		<segment id="198" parent="375" relname="elaboration">##### IMG</segment>
+		<segment id="199" parent="435" relname="background">##### 36. Выше в контексте усадьбы Неворотина я говорил,</segment>
+		<segment id="200" parent="435" relname="span">что современных вычурных зданий в Бежецке уже вряд ли появится,</segment>
+		<segment id="201" parent="200" relname="cause">т.к. богатые люди тут не живут.</segment>
+		<segment id="202" parent="376" relname="contrast">Что ж, люди не живут,</segment>
+		<segment id="203" parent="376" relname="contrast">а организации работают.</segment>
+		<segment id="204" parent="377" relname="evidence">Сбербанк здесь себе небольшой дворец построил:</segment>
+		<segment id="205" parent="476" relname="elaboration">##### IMG</segment>
+		<segment id="206" parent="384" relname="preparation">##### 37. С площадями в Бежецке как-то не задалось.</segment>
+		<segment id="207" parent="380" relname="span">Очередная площадь, на сей раз Победы, представляет собой пустырь, заросший до состояния лесопарка.</segment>
+		<segment id="208" parent="379" relname="joint">До революции она называлась Рождественской,</segment>
+		<segment id="209" parent="379" relname="joint">а в центре её стоял одноимённый храм XVIII-го века.</segment>
+		<segment id="210" parent="382" relname="span">Сильно урезанное церковное здание - это в общем-то всё, что осталось от былого ансамбля.</segment>
+		<segment id="211" parent="210" relname="background">При советах в нём размещалась швейная фабрика.</segment>
+		<segment id="212" parent="381" relname="contrast">Церковь передали РПЦ вроде бы ещё десять лет назад,</segment>
+		<segment id="213" parent="425" relname="span">но значимых изменений не заметно.</segment>
+		<segment id="214" parent="213" relname="evidence">Деревья продолжают подступать к стенам храма:</segment>
+		<segment id="215" parent="385" relname="elaboration">##### IMG</segment>
+		<segment id="216" parent="386" relname="span">##### 38. Главное предприятие Бежецка - завод «Автоспецоборудование»,</segment>
+		<segment id="217" parent="216" relname="elaboration">производящий компрессоры.</segment>
+		<segment id="218" parent="388" relname="span">На удивление живой и бодрый.</segment>
+		<segment id="219" parent="220" relname="evaluation">Как-то не верится,</segment>
+		<segment id="220" parent="387" relname="span">но корпус с часами, говорят, ещё довоенный.</segment>
+		<segment id="221" parent="431" relname="span">Также где-то на его территории сохранились красивые кирпичные винные склады,</segment>
+		<segment id="222" parent="221" relname="background">где первоначально и разместились пулемётные мастерские, выросшие в нынешний завод:</segment>
+		<segment id="223" parent="390" relname="elaboration">##### IMG</segment>
+		<segment id="224" parent="391" relname="span">##### 39. Отдельным аппендиксом существует район Бежецксельмаш (официально - Шолмино), прям как именитый ростовский собрат!</segment>
+		<segment id="225" parent="224" relname="background">Находится он за железной дорогой относительно остального города, да ещё и в нескольких километрах в сторону.</segment>
+		<segment id="226" parent="432" relname="condition">Пока шёл туда,</segment>
+		<segment id="227" parent="432" relname="span">заприметил новый современный завод, который даже фотографировать не стал</segment>
+		<segment id="228" parent="227" relname="cause">ввиду безлюдности и серьёзного вида.</segment>
+		<segment id="229" parent="393" relname="contrast">Оказалось, всего лишь комбинат комбикормов,</segment>
+		<segment id="230" parent="393" relname="contrast">а я-то уж было подумал...</segment>
+		<segment id="231" parent="395" relname="elaboration">##### IMG</segment>
+		<segment id="232" parent="397" relname="span">##### 40. Въезд в район знаменует старенький ПАЗик на постаменте:</segment>
+		<segment id="233" parent="396" relname="span">здесь расположено местное ПАТП,</segment>
+		<segment id="234" parent="233" relname="elaboration">которые едва ли не в каждом городе считают своей обязанностью возвести себе подобный памятник, как паровоз на вокзалах или зенитка у военной части.</segment>
+		<segment id="235" parent="398" relname="joint">Хозяева ласково назвали его «Ветераном»,</segment>
+		<segment id="236" parent="398" relname="joint">но буквы на борту уже слегка ободрались:</segment>
+		<segment id="237" parent="480" relname="elaboration">##### IMG</segment>
+		<segment id="238" parent="401" relname="same-unit">##### 41. В советское время,</segment>
+		<segment id="239" parent="240" relname="condition">когда район этот строился для завода «Бежецксельмаш»,</segment>
+		<segment id="240" parent="400" relname="span">он считался передовым и современным.</segment>
+		<segment id="241" parent="402" relname="comparison">При капитализме же, ожидаемо, жизнь ушла в центр, где теперь даже деревянные дореволюционки смотрятся пободрее.</segment>
+		<segment id="242" parent="404" relname="span">А тут время словно застыло в годах постройки района</segment>
+		<segment id="243" parent="403" relname="joint">- большинство улиц даже не заасфальтированы,</segment>
+		<segment id="244" parent="403" relname="joint">на стадионе ржавеют социалистические лозунги:</segment>
+		<segment id="245" parent="405" relname="elaboration">##### IMG</segment>
+		<segment id="246" parent="483" relname="span">##### 42. На размашистом доме культуры до сих пор красуется серп-и-молот:</segment>
+		<segment id="247" parent="246" relname="elaboration">##### IMG</segment>
+		<segment id="248" parent="407" relname="span">##### Из «Бежецксельмаша» я дошёл до вокзала короткой тропой - по насыпи какого-то разобранного подъездного ж/д пути.</segment>
+		<segment id="249" parent="406" relname="contrast">Вроде бы и глухо тут, провинциальненько,</segment>
+		<segment id="250" parent="406" relname="contrast">а жизнь идёт какая-то своя, исключительно местная.</segment>
+		<segment id="251" parent="409" relname="span">На этом я с осмотром Бежецка и закончил.</segment>
+		<segment id="252" parent="251" relname="background">Вокзал я показывал в посте про дорогу до Москвы на поездах.</segment>
+		<segment id="253" parent="441" relname="span">Про Бежецк хочется сказать, что это в общем-то достойный</segment>
+		<segment id="254" parent="253" relname="purpose">для посещения</segment>
+		<segment id="255" parent="410" relname="same-unit">маленький русский город с неплохо сохранившейся застройкой и своими уникальными деталями.</segment>
+		<segment id="256" parent="257" relname="cause">Но сколько раз я уже говорил подобное?</segment>
+		<segment id="257" parent="438" relname="span">Выходит, наша страна вообще неплохо сохранилась несмотря ни на что?</segment>
+		<segment id="258" parent="411" relname="span">Только состояние местами подводит.</segment>
+		<segment id="259" parent="413" relname="span">##### За два дня я набрал материала аж на шесть объёмных постов.</segment>
+		<segment id="260" parent="412" relname="span">Поездочка вышла насыщенной.</segment>
+		<segment id="261" parent="260" relname="evaluation">Наконец-то я с ней закончил!</segment>
+		<group id="262" type="span" parent="267" relname="span"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="269" relname="contrast"/>
+		<group id="267" type="span" parent="271" relname="preparation"/>
+		<group id="268" type="span" parent="269" relname="contrast"/>
+		<group id="269" type="multinuc" parent="262" relname="elaboration"/>
+		<group id="270" type="span" parent="13" relname="elaboration"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" />
+		<group id="273" type="multinuc" parent="416" relname="span"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="277" relname="joint"/>
+		<group id="276" type="multinuc" parent="277" relname="joint"/>
+		<group id="277" type="multinuc" parent="444" relname="span"/>
+		<group id="278" type="span" parent="417" relname="joint"/>
+		<group id="279" type="span" parent="417" relname="joint"/>
+		<group id="280" type="span" parent="281" relname="contrast"/>
+		<group id="281" type="multinuc" parent="31" relname="cause"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="447" relname="span"/>
+		<group id="284" type="span" parent="35" relname="evaluation"/>
+		<group id="285" type="span" parent="286" relname="joint"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="283" relname="background"/>
+		<group id="289" type="multinuc" parent="290" relname="span"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" parent="417" relname="joint"/>
+		<group id="292" type="multinuc" parent="295" relname="preparation"/>
+		<group id="293" type="span" parent="295" relname="span"/>
+		<group id="294" type="span" parent="293" relname="elaboration"/>
+		<group id="295" type="span" parent="448" relname="span"/>
+		<group id="296" type="span" parent="417" relname="joint"/>
+		<group id="297" type="span" parent="303" relname="span"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="300" relname="evaluation"/>
+		<group id="300" type="span" parent="301" relname="span"/>
+		<group id="301" type="span" parent="59" relname="background"/>
+		<group id="302" type="span" parent="297" relname="elaboration"/>
+		<group id="303" type="span" parent="305" relname="joint"/>
+		<group id="304" type="span" parent="305" relname="elaboration"/>
+		<group id="305" type="multinuc" parent="449" relname="span"/>
+		<group id="306" type="span" parent="417" relname="joint"/>
+		<group id="307" type="span" parent="72" relname="background"/>
+		<group id="308" type="span" parent="310" relname="span"/>
+		<group id="309" type="span" parent="308" relname="evidence"/>
+		<group id="310" type="span" parent="419" relname="cause"/>
+		<group id="311" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="312" type="span" parent="417" relname="joint"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="315" relname="preparation"/>
+		<group id="315" type="multinuc" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="317" type="span" parent="417" relname="joint"/>
+		<group id="318" type="multinuc" parent="92" relname="evaluation"/>
+		<group id="319" type="span" parent="454" relname="span"/>
+		<group id="320" type="multinuc" parent="322" relname="span"/>
+		<group id="321" type="multinuc" parent="322" relname="purpose"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="325" relname="span"/>
+		<group id="324" type="span" parent="323" relname="elaboration"/>
+		<group id="325" type="span" parent="439" relname="elaboration"/>
+		<group id="326" type="multinuc" parent="327" relname="contrast"/>
+		<group id="327" type="multinuc" parent="429" relname="span"/>
+		<group id="328" type="span" parent="332" relname="same-unit"/>
+		<group id="329" type="multinuc" parent="113" relname="condition"/>
+		<group id="330" type="span" parent="112" relname="elaboration"/>
+		<group id="331" type="span" parent="332" relname="same-unit"/>
+		<group id="332" type="multinuc" parent="333" relname="span"/>
+		<group id="333" type="span" parent="334" relname="span"/>
+		<group id="334" type="span" parent="457" relname="span"/>
+		<group id="335" type="span" parent="456" relname="joint"/>
+		<group id="336" type="multinuc" parent="337" relname="span"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" parent="456" relname="joint"/>
+		<group id="339" type="span" parent="340" relname="span"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="461" relname="span"/>
+		<group id="342" type="span" parent="344" relname="span"/>
+		<group id="343" type="span" parent="347" relname="span"/>
+		<group id="344" type="span" parent="462" relname="span"/>
+		<group id="345" type="multinuc" parent="346" relname="contrast"/>
+		<group id="346" type="multinuc" parent="343" relname="background"/>
+		<group id="347" type="span" parent="342" relname="evaluation"/>
+		<group id="348" type="span" parent="422" relname="joint"/>
+		<group id="349" type="span" parent="422" relname="joint"/>
+		<group id="350" type="multinuc" parent="146" relname="evaluation"/>
+		<group id="351" type="span" parent="422" relname="joint"/>
+		<group id="352" type="span" parent="422" relname="joint"/>
+		<group id="353" type="span" parent="354" relname="span"/>
+		<group id="354" type="span" parent="153" relname="concession"/>
+		<group id="355" type="span" parent="423" relname="span"/>
+		<group id="356" type="span" parent="158" relname="elaboration"/>
+		<group id="357" type="span" parent="422" relname="joint"/>
+		<group id="358" type="multinuc" parent="468" relname="span"/>
+		<group id="359" type="span" parent="358" relname="contrast"/>
+		<group id="360" type="span" parent="168" relname="elaboration"/>
+		<group id="362" type="span" parent="174" relname="evidence"/>
+		<group id="363" type="span" parent="364" relname="joint"/>
+		<group id="364" type="multinuc" parent="172" relname="elaboration"/>
+		<group id="365" type="span" parent="422" relname="joint"/>
+		<group id="366" type="multinuc" parent="178" relname="background"/>
+		<group id="367" type="span" parent="369" relname="span"/>
+		<group id="368" type="span" parent="367" relname="evaluation"/>
+		<group id="369" type="span" parent="424" relname="span"/>
+		<group id="370" type="span" parent="371" relname="span"/>
+		<group id="371" type="span" parent="471" relname="span"/>
+		<group id="372" type="span" parent="473" relname="span"/>
+		<group id="373" type="span" parent="474" relname="span"/>
+		<group id="374" type="multinuc" parent="195" relname="elaboration"/>
+		<group id="375" type="span" parent="475" relname="span"/>
+		<group id="376" type="multinuc" parent="377" relname="span"/>
+		<group id="377" type="span" parent="378" relname="span"/>
+		<group id="378" type="span" parent="436" relname="elaboration"/>
+		<group id="379" type="multinuc" parent="207" relname="background"/>
+		<group id="380" type="span" parent="383" relname="span"/>
+		<group id="381" type="multinuc" parent="383" relname="elaboration"/>
+		<group id="382" type="span" parent="380" relname="elaboration"/>
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" parent="477" relname="span"/>
+		<group id="386" type="span" parent="388" relname="preparation"/>
+		<group id="387" type="span" parent="218" relname="elaboration"/>
+		<group id="388" type="span" parent="389" relname="span"/>
+		<group id="389" type="span" parent="390" relname="joint"/>
+		<group id="390" type="multinuc" parent="478" relname="span"/>
+		<group id="391" type="span" parent="395" relname="span"/>
+		<group id="392" type="span" parent="394" relname="span"/>
+		<group id="393" type="multinuc" parent="392" relname="elaboration"/>
+		<group id="394" type="span" parent="391" relname="elaboration"/>
+		<group id="395" type="span" parent="479" relname="span"/>
+		<group id="396" type="span" parent="232" relname="elaboration"/>
+		<group id="397" type="span" parent="480" relname="span"/>
+		<group id="398" type="multinuc" parent="397" relname="elaboration"/>
+		<group id="399" type="span" parent="472" relname="joint"/>
+		<group id="400" type="span" parent="401" relname="same-unit"/>
+		<group id="401" type="multinuc" parent="402" relname="comparison"/>
+		<group id="402" type="multinuc" parent="405" relname="contrast"/>
+		<group id="403" type="multinuc" parent="242" relname="evidence"/>
+		<group id="404" type="span" parent="405" relname="contrast"/>
+		<group id="405" type="multinuc" parent="481" relname="span"/>
+		<group id="406" type="multinuc" parent="248" relname="evaluation"/>
+		<group id="407" type="span" parent="408" relname="span"/>
+		<group id="408" type="span" parent="415" relname="span"/>
+		<group id="409" type="span" parent="407" relname="elaboration"/>
+		<group id="410" type="multinuc" parent="414" relname="contrast"/>
+		<group id="411" type="span" parent="414" relname="contrast"/>
+		<group id="412" type="span" parent="259" relname="evaluation"/>
+		<group id="413" type="span" parent="415" relname="background"/>
+		<group id="414" type="multinuc" parent="408" relname="evaluation"/>
+		<group id="415" type="span" parent="426" relname="span"/>
+		<group id="416" type="span" parent="17" relname="background"/>
+		<group id="417" type="multinuc" />
+		<group id="418" type="multinuc" parent="304" relname="span"/>
+		<group id="419" type="span" parent="420" relname="span"/>
+		<group id="420" type="span" parent="417" relname="joint"/>
+		<group id="421" type="span" parent="142" relname="elaboration"/>
+		<group id="422" type="multinuc" />
+		<group id="423" type="span" parent="422" relname="joint"/>
+		<group id="424" type="span" parent="472" relname="joint"/>
+		<group id="425" type="span" parent="381" relname="contrast"/>
+		<group id="426" type="span" />
+		<group id="427" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="428" type="multinuc" parent="429" relname="elaboration"/>
+		<group id="429" type="span" parent="430" relname="span"/>
+		<group id="430" type="span" parent="334" relname="cause"/>
+		<group id="431" type="span" parent="390" relname="joint"/>
+		<group id="432" type="span" parent="392" relname="span"/>
+		<group id="433" type="span" parent="286" relname="joint"/>
+		<group id="434" type="span" parent="292" relname="same-unit"/>
+		<group id="435" type="span" parent="436" relname="span"/>
+		<group id="436" type="span" parent="476" relname="span"/>
+		<group id="437" type="span" parent="472" relname="joint"/>
+		<group id="438" type="span" parent="258" relname="solutionhood"/>
+		<group id="439" type="span" parent="440" relname="span"/>
+		<group id="440" type="span" parent="455" relname="span"/>
+		<group id="441" type="span" parent="410" relname="same-unit"/>
+		<group id="442" type="span" />
+		<group id="443" type="span" parent="417" relname="joint"/>
+		<group id="444" type="span" parent="417" relname="joint"/>
+		<group id="445" type="span" parent="278" relname="span"/>
+		<group id="446" type="span" parent="279" relname="span"/>
+		<group id="447" type="span" parent="443" relname="span"/>
+		<group id="448" type="span" parent="296" relname="span"/>
+		<group id="449" type="span" parent="306" relname="span"/>
+		<group id="450" type="span" parent="312" relname="span"/>
+		<group id="451" type="span" parent="456" relname="joint"/>
+		<group id="452" type="span" parent="456" relname="joint"/>
+		<group id="453" type="span" parent="91" relname="elaboration"/>
+		<group id="454" type="span" parent="456" relname="joint"/>
+		<group id="455" type="span" parent="456" relname="joint"/>
+		<group id="456" type="multinuc" />
+		<group id="457" type="span" parent="335" relname="span"/>
+		<group id="458" type="span" parent="456" relname="joint"/>
+		<group id="459" type="span" parent="456" relname="joint"/>
+		<group id="460" type="span" parent="456" relname="joint"/>
+		<group id="461" type="span" parent="456" relname="joint"/>
+		<group id="462" type="span" parent="348" relname="span"/>
+		<group id="463" type="span" parent="349" relname="span"/>
+		<group id="464" type="span" parent="351" relname="span"/>
+		<group id="465" type="span" parent="352" relname="span"/>
+		<group id="466" type="span" parent="357" relname="span"/>
+		<group id="467" type="span" parent="422" relname="joint"/>
+		<group id="468" type="span" parent="422" relname="joint"/>
+		<group id="470" type="span" parent="365" relname="span"/>
+		<group id="471" type="span" parent="472" relname="joint"/>
+		<group id="472" type="multinuc" />
+		<group id="473" type="span" parent="472" relname="joint"/>
+		<group id="474" type="span" parent="472" relname="joint"/>
+		<group id="475" type="span" parent="472" relname="joint"/>
+		<group id="476" type="span" parent="437" relname="span"/>
+		<group id="477" type="span" parent="472" relname="joint"/>
+		<group id="478" type="span" parent="472" relname="joint"/>
+		<group id="479" type="span" parent="472" relname="joint"/>
+		<group id="480" type="span" parent="399" relname="span"/>
+		<group id="481" type="span" parent="482" relname="joint"/>
+		<group id="482" type="multinuc" />
+		<group id="483" type="span" parent="482" relname="joint"/>
+		<group id="484" type="span" parent="8" relname="cause"/>
+		<group id="485" type="span" parent="422" relname="joint"/>
+		<group id="486" type="span" parent="485" relname="span"/>
+	</body>
+</rst>

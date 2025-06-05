@@ -1,0 +1,317 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Адрес статьи: www.gramota.net/materials/272015/7-1/30.html Источник Филологические науки. Вопросы теории и практики Тамбов: Грамота, 2015. № 7 (49): в 2-х ч. Ч. I. C. 115-118. ISSN 1997-2911. Адрес журнала: www.gramota.net/editions/2.html Содержание данного номера журнала: www .gramota.net/mate rials/2/2015/7-1/ © Издательство "Грамота"</segment>
+		<segment id="2" relname="antithesis">УДК 81'25 Филологические науки</segment>
+		<segment id="3" relname="antithesis">Статья посвящена описанию гармонии как лингвопереводческой категории, выступающей дополнительной аксиологической доминантой перевода, наряду с адекватностью и эквивалентностью. Выбор гармонии в качестве высшего критерия оценки качества перевода позволяет изучать процесс перевода в рамках аксиологической лингвистики, акцентирующей внимание на асимметричной актуализации в тексте ценностных ориента-ций представителей взаимодействующих лингвокультур. В качестве иллюстрации теоретических положений использованы сказка К. И. Чуковского «Муха-Цокотуха» и ее переводы на французский и немецкий языки. Ключевые слова и фразы: синергетическая модель перевода; переводческое пространство; гармония; асимметрия; аксиология.</segment>
+		<segment id="4" relname="antithesis">Кушнина Людмила Вениаминовна, д. филол. н.,</segment>
+		<segment id="5" relname="antithesis">профессор Раскопина Лариса Павловна, к. пед. н.</segment>
+		<segment id="6" relname="antithesis">Пермский национальный исследовательский политехнический университет lkushnina@yandex. т; lraskopina@mail. т</segment>
+		<segment id="7" relname="antithesis">ИССЛЕДОВАНИЕ ПЕРЕВОДЧЕСКОЙ ГАРМОНИИ В АКСИОЛОГИЧЕСКОЙ ПАРАДИГМЕ©</segment>
+		<segment id="8" parent="157" relname="preparation">Предметом исследования данной статьи выступает категория гармонии как аксиологическая доминанта переводческого пространства - синергетической модели перевода [3; 4; 5].</segment>
+		<segment id="9" parent="157" relname="span">В основе нашего понимания гармонии лежит идея о том,</segment>
+		<segment id="10" parent="9" relname="elaboration">что адекватность и эквивалентность как критерии качественного перевода отражают лишь определенный спектр взаимоотношений, возникающих между исходным и производным текстами.</segment>
+		<segment id="11" parent="12" relname="cause">В связи с тем, что в современном переводоведении трактовка данных терминов неоднозначна,</segment>
+		<segment id="12" parent="158" relname="span">определим наше понимание.</segment>
+		<segment id="13" parent="160" relname="span">Адекватность мы понимаем как установление соответствия между лексическими, грамматическими, синтаксическими единицами,</segment>
+		<segment id="14" parent="310" relname="contrast">что не требует от переводчика серьезных усилий,</segment>
+		<segment id="15" parent="310" relname="contrast">а основано на знании лексики, грамматики и синтаксиса иностранного языка.</segment>
+		<segment id="16" parent="164" relname="joint">Такой уровень переводческих соответствий, во-первых, связывает незначительное число языковых единиц сравниваемых языков,</segment>
+		<segment id="17" parent="161" relname="restatement">во-вторых, является необходимым в процессе изучения иностранного языка, а не в процессе обучения технологии перевода,</segment>
+		<segment id="18" parent="161" relname="restatement">т.е. базируется на разных компетенциях переводящей личности,</segment>
+		<segment id="19" parent="162" relname="concession">что часто не учитывается исследователями.</segment>
+		<segment id="20" parent="165" relname="preparation">В рамках данной статьи приведем примеры из сказки К. И. Чуковского «Муха- Цокотуха» в оригинале и в переводе на французский и немецкий языки.</segment>
+		<segment id="21" parent="165" relname="span">Начнем с адекватных соответствий.</segment>
+		<segment id="22" parent="323" relname="span">Пошла муха на базар и купила самовар [8, с. 3]. I Et voici la mouche au bazar o elle achte un samovar [10, р. 3].</segment>
+		<segment id="23" parent="24" relname="condition">При переводе данного фрагмента</segment>
+		<segment id="24" parent="321" relname="span">переводчик А. Абриль выбрал словарные соответствия,</segment>
+		<segment id="25" parent="321" relname="condition">не совершая лексических трансформаций.</segment>
+		<segment id="26" parent="170" relname="span">Заметим, что в тексте имеются грамматические изменения,</segment>
+		<segment id="27" parent="26" relname="elaboration">а именно - прошедшее время сказуемого текста оригинала изменено на настоящее время текста перевода,</segment>
+		<segment id="28" parent="170" relname="cause">что мы объясняем необходимостью сохранения ритма оригинала.</segment>
+		<segment id="29" parent="172" relname="span">Мы придерживаемся позиции,</segment>
+		<segment id="30" parent="333" relname="span">что полной адекватности быть не может</segment>
+		<segment id="31" parent="30" relname="cause">ввиду устойчивых асимметричных отношений между языковыми системами русского и французского языков.</segment>
+		<segment id="32" parent="178" relname="span">Эквивалентность мы понимаем как установление тождественных отношений между единицами текстов оригинала и перевода,</segment>
+		<segment id="33" parent="32" relname="condition">обусловленное использованием различных переводческих приемов и трансформаций.</segment>
+		<segment id="34" parent="275" relname="span">Суть таких преобразований сводится к межъязыковым процессам,</segment>
+		<segment id="35" parent="177" relname="span">что требует владения некоторыми переводческими компетенциями,</segment>
+		<segment id="36" parent="35" relname="elaboration">которые имеют место в реальной переводческой практике.</segment>
+		<segment id="37" parent="38" relname="evidence">Как показали наши наблюдения,</segment>
+		<segment id="38" parent="311" relname="span">отношения между текстами оригинала и перевода носят преимущественно эквивалентный характер.</segment>
+		<segment id="39" parent="312" relname="span">Приведем два варианта перевода первых строк сказки на немецкий язык.</segment>
+		<segment id="40" parent="328" relname="joint">Первый вариант принадлежит профессиональному переводчику В. Новак,</segment>
+		<segment id="41" parent="328" relname="joint">второй выполнили студенты 5 курса специальности «Перевод и переводоведение» ПНИПУ:</segment>
+		<segment id="42" parent="326" relname="background">Напомним оригинал: Муха, Муха-Цокотуха, Позолоченное брюхо! Муха по полю пошла, Муха денежку нашла [8, с. 2].</segment>
+		<segment id="43" parent="183" relname="comparison">Первый вариант перевода: Es fliegt die Fliege Suse Sum Voll Neugier in der Luft herum. Sie sieht was glnzen dort im Feld Und hebt es auf - das ist ja Geld! [9, S. 3].</segment>
+		<segment id="44" parent="183" relname="comparison">Второй вариант перевода: Eine Fliege - klein und rege Mit 'nem guldern glanzend Bauch, Fand ganz unvermittelt auf dem Wege Eine Mnze und hob sie auf.</segment>
+		<segment id="45" parent="183" relname="comparison">А теперь приведем вариант перевода данного фрагмента на французский язык: Ah, petite mouche Zizzouche Aux reflets d'or et peu farouche! Un jour, au beau milieu d'un champ, Elle a trouv un peu d'argent [10, p. 2].</segment>
+		<segment id="46" parent="276" relname="span">Как видим, во всех вариантах точного адекватного соответствия нет,</segment>
+		<segment id="47" parent="46" relname="cause">т.к. это практически невозможно,</segment>
+		<segment id="48" parent="186" relname="joint">поэтому переводчики выполняют различные преобразования,</segment>
+		<segment id="49" parent="186" relname="joint">подбирая соответствующие эквивалентные формы.</segment>
+		<segment id="50" parent="188" relname="elaboration">Заметим, что повествовательная интонация оригинала сохранена во втором варианте перевода на немецкий язык и во французском тексте.</segment>
+		<segment id="51" parent="190" relname="condition">Если анализировать первый приведенный вариант,</segment>
+		<segment id="52" parent="189" relname="joint">то он представляется более экспрессивным, передающим радостные эмоции Мухи-Цокотухи,</segment>
+		<segment id="53" parent="189" relname="joint">а само предложение из повествовательного превращается в восклицательное.</segment>
+		<segment id="54" parent="198" relname="joint">Подбирая вариант к русскому слову денежка, переводчики используют либо нейтральное Geld - деньги, либо Mnze - монетка, либо un peu d'argent - немного денег.</segment>
+		<segment id="55" parent="197" relname="span">Сказочное прозвище Муха-Цокотуха также по-разному выражено: по-немецки Fliege Suse Sum и по-французски Mouche-Zizzouche.</segment>
+		<segment id="56" parent="196" relname="comparison">При этом французский переводчик сохранил рифму внутри номинации,</segment>
+		<segment id="57" parent="196" relname="comparison">в то время как немецкий переводчик ограничился боле свободной формой, имитирующей производимый насекомым звук.</segment>
+		<segment id="58" parent="199" relname="comparison">В первом варианте происходит транспозиция образа: позолоченное брюхо становится блестящей денежкой: was glnzen dort im Feld - что-то блестит на поле;</segment>
+		<segment id="59" parent="199" relname="comparison">в других вариантах - либо золотым отсветом - aux reflets d'or, либо сверкающим золотом брюшком -guldern glanzendBauch.</segment>
+		<segment id="60" parent="203" relname="span">Во французском тексте мы отмечаем также наличие большого числа эквивалентных соответствий.</segment>
+		<segment id="61" parent="60" relname="elaboration">Приведем пример: Вдруг откуда ни возьмись Маленький комарик А в руке его горит Маленький фонарик [8, с. 5]. Tout coup, apparait dans l'air Un moustique; Le sabre au ct, il a l'air Hroque... [10, p. 6].</segment>
+		<segment id="62" parent="208" relname="span">Мы констатируем, что в тексте перевода минимальное количество словарных соответствий.</segment>
+		<segment id="63" parent="204" relname="joint">В результате межъязыковых трансформаций переводчик заменил фонарик саблей,</segment>
+		<segment id="64" parent="204" relname="joint">а сам комарик в переводе назван героическим.</segment>
+		<segment id="65" parent="207" relname="span">Комар предстает героем и в немецком варианте сказки:</segment>
+		<segment id="66" parent="65" relname="elaboration">«Ruhm und Ehre dem Auserwhlten, Dem Brutigam, dem Mckenhelden!» [9, S. 10].</segment>
+		<segment id="67" parent="206" relname="span">Переводчик сохранил общий тон фрагмента - неожиданное появление комара,</segment>
+		<segment id="68" parent="205" relname="sequence">летящего навстречу Мухе-Цокотухе</segment>
+		<segment id="69" parent="205" relname="sequence">и спасающего ее.</segment>
+		<segment id="70" parent="212" relname="span">Эквивалентность мы признаем основным параметром перевода.</segment>
+		<segment id="71" parent="213" relname="span">В своих исследованиях мы выдвинули новую аксиологическую доминанту перевода - гармонию,</segment>
+		<segment id="72" parent="214" relname="span">предполагающую, что отношения между исходным и производным текстами строятся на смысловой соразмерности, смысловой согласованности,</segment>
+		<segment id="73" parent="72" relname="condition">которые обусловлены проявлением межъязыковой и межкультурной асимметрий.</segment>
+		<segment id="74" parent="216" relname="attribution">Как поясняет в своей работе «Язык и естественный интеллект» Н. К. Рябцева,</segment>
+		<segment id="75" parent="215" relname="joint">«асимметрия -это отсутствие единообразия в строении и функционировании.</segment>
+		<segment id="76" parent="215" relname="joint">...естественный язык асимметричен на всех своих уровнях, во всех своих единицах, их функциях и проявлениях, в парадигматике и синтагматике, в синхронии и диахронии: в строении, структуре, организации, употреблении, эволюции, в отношении к другому языку и своим подъязыкам и пр.» [7, с. 20-21].</segment>
+		<segment id="77" parent="221" relname="joint">Подчеркнем мысль ученого об асимметрии одного языка в отношении к другому языку.</segment>
+		<segment id="78" parent="330" relname="span">Представляется, что эта идея имеет кардинальное значение для осмысления закономерностей процесса перевода.</segment>
+		<segment id="79" parent="219" relname="condition">Если языки асимметричны по своей природе,</segment>
+		<segment id="80" parent="219" relname="span">то процесс воссоздания текста перевода может оказаться успешным</segment>
+		<segment id="81" parent="80" relname="condition">при условии воссоздания асимметрии.</segment>
+		<segment id="82" parent="223" relname="joint">Кроме того, изучение закономерностей языковой картины мира в сознании носителей разных языков и культур показало, что и культуры асимметричны.</segment>
+		<segment id="83" parent="335" relname="attribution">Так, О. А. Корнилов приводит</segment>
+		<segment id="84" parent="335" relname="span">многочисленные факты асимметричного отношения между культурами,</segment>
+		<segment id="85" parent="224" relname="span">начиная с простейших темпоральных проявлений,</segment>
+		<segment id="86" parent="85" relname="elaboration">когда приветствие добрый день по-разному выражается в русской, английской, испанской, французской, немецкой лингвокультурах [2].</segment>
+		<segment id="87" parent="229" relname="same-unit">В своем исследовании, посвященном разработке синергетической модели перевода - переводческому пространству, мы выделили так называемое</segment>
+		<segment id="88" parent="228" relname="span">фатическое поле,</segment>
+		<segment id="89" parent="88" relname="elaboration">в котором формируются имплицитные смыслы, или смыслы культуры, которые отражают этнокультурные расхождения представителей различных культур.</segment>
+		<segment id="90" parent="231" relname="span">Мы проанализировали данный феномен изначально на примере сопоставления русской и французской лингвокультур,</segment>
+		<segment id="91" parent="90" relname="cause">постижение которых переводчиком происходит в результате освоения интертекстуальных связей данного текста с другими текстами в рамках двух взаимодействующих культур.</segment>
+		<segment id="92" parent="298" relname="span">Именно в фати-ческом поле происходит взаимодействие смыслов культуры, их асимметризация,</segment>
+		<segment id="93" parent="92" relname="purpose">а результатом данного процесса является достижение смысловой гармонии.</segment>
+		<segment id="94" parent="233" relname="joint">Мы показали также, что переводческое пространство -синергетическая модель перевода, и асимметрия отражает суть межъязыковых и межкультурных расхождений,</segment>
+		<segment id="95" parent="233" relname="joint">а установление взаимодействия между языками, культурами, текстами и коммуникантами происходит благодаря синергии смыслов.</segment>
+		<segment id="96" parent="295" relname="elaboration">Этот процесс характеризуется приращением новых смыслов, приемлемых в принимающей культуре.</segment>
+		<segment id="97" parent="234" relname="span">Нам представляется, что устремления переводчика, вся сила его профессиональных компетенций должны быть</segment>
+		<segment id="98" parent="318" relname="joint">направлены на воссоздание асимметрии,</segment>
+		<segment id="99" parent="318" relname="joint">на синергетическое действие,</segment>
+		<segment id="100" parent="318" relname="joint">на гармонию,</segment>
+		<segment id="101" parent="234" relname="condition">что требует от переводчика значительных интеллектуальных и эмоциональных усилий [3; 5].</segment>
+		<segment id="102" parent="237" relname="joint">Приведем пример гармоничного перевода.</segment>
+		<segment id="103" parent="236" relname="span">Нас заинтересовала такая фраза в тексте перевода на французский язык:</segment>
+		<segment id="104" parent="103" relname="elaboration">Matre Fourmi, bien-sur, ne mnage pas ses chaussures, что в обратном буквальном переводе означает Господин муравей, разумеется, не жалеет своих башмаков.</segment>
+		<segment id="105" parent="238" relname="joint">Почему переводчик выбрал номинацию Matre Fourmi</segment>
+		<segment id="106" parent="238" relname="joint">и почему этот вариант мы признаем гармоничным?</segment>
+		<segment id="107" parent="239" relname="span">Если вспомнить не менее известную басню Ла Фонтена «Le Corbeau et le Renard» («Ворона и Лисица»),</segment>
+		<segment id="108" parent="107" relname="elaboration">поэтический перевод которой с французского языка на русский талантливо выполнен И. А. Крыловым,</segment>
+		<segment id="109" parent="240" relname="span">то можно заметить, что в оригинале французский баснописец называет своих героев Matre Corbeau и Matre Ranard - буквально: господин Ворон и господин Лис.</segment>
+		<segment id="110" parent="111" relname="cause">Как видим, для французского фольклора такая номинация является привычной,</segment>
+		<segment id="111" parent="241" relname="span">и поэтому была использована при переводе сказки с русского языка на французский.</segment>
+		<segment id="112" parent="244" relname="joint">Лингвокультурные традиции послужили основанием выбора переводческого решения.</segment>
+		<segment id="113" parent="114" relname="condition">Языковая и культурная асимметрии в результате синергии смыслов в переводческом пространстве обусловили переводческую гармонию,</segment>
+		<segment id="114" parent="243" relname="span">естественное вхождение текста перевода в принимающую культуру.</segment>
+		<segment id="115" parent="247" relname="span">Напомним, что наряду с гармонией как высшим критерием качественного перевода мы обосновали категорию дисгармонии,</segment>
+		<segment id="116" parent="115" relname="elaboration">характеризующую некачественный перевод, содержащий переводческие ошибки, несоответствия, погрешности и пр.</segment>
+		<segment id="117" parent="251" relname="joint">Здесь же подчеркнем, что гармония - это аксиологическая категория.</segment>
+		<segment id="118" parent="249" relname="purpose">Свою исследовательскую задачу мы видим в том, чтобы показать,</segment>
+		<segment id="119" parent="248" relname="span">что благодаря выдвижению гармонии в статус лингвопереводческой категории,</segment>
+		<segment id="120" parent="119" relname="elaboration">характеризующей высший уровень качества перевода,</segment>
+		<segment id="121" parent="249" relname="span">мы можем приступить к изучению аксиологического статуса самого переводоведения.</segment>
+		<segment id="122" parent="254" relname="span">Основанием этих предположений является формирование и поступательное развитие целого ряда новых направлений гуманитаристики, таких как аксиологическая лингвистика.</segment>
+		<segment id="123" parent="122" relname="elaboration">Исследования в этой области проводят такие ученые как Е. В. Аверьянова [1], Н. А. Сидорова [7] и др.</segment>
+		<segment id="124" parent="255" relname="attribution">В работе Е. В. Аверьяновой</segment>
+		<segment id="125" parent="126" relname="cause">исследуются семиолингвистические аспекты религиозного дискурса,</segment>
+		<segment id="126" parent="255" relname="span">что приводит автора к размышлениям об аксиологии церковнославянского и латинского религиозных дискурсов.</segment>
+		<segment id="127" parent="260" relname="span">Ученый следующим образом разграничивает понятия аксиологии и идеологии:</segment>
+		<segment id="128" parent="259" relname="span">«в семиотике принято различать парадиг-магическую взаимосвязь ценностей (аксиологию) от синтагматической (идеологии)» [1, с. 103].</segment>
+		<segment id="129" parent="257" relname="joint">Автор поясняет, что аксиологические ценности принадлежат глубинным структурам,</segment>
+		<segment id="130" parent="257" relname="joint">они виртуальны,</segment>
+		<segment id="131" parent="258" relname="comparison">а идеологические ценности актуализируются в речевой коммуникации.</segment>
+		<segment id="132" parent="261" relname="joint">Кроме того, различаются базовые и вспомогательные ценности.</segment>
+		<segment id="133" parent="263" relname="span">В рамках нашей работы представляет интерес лингвоаксиологическая концепция коммуникации, предложенная Н. А. Сидоровой [7].</segment>
+		<segment id="134" parent="133" relname="elaboration">Названное исследование развивает теорию речевых актов.</segment>
+		<segment id="135" parent="265" relname="span">Для нас важно, что автор изучает закономерности дискурсивного взаимодействия русскоязычных и англоязычных коммуникантов,</segment>
+		<segment id="136" parent="135" relname="condition">в ходе которого актуализируются ценности участников речевой коммуникации.</segment>
+		<segment id="137" parent="138" relname="attribution">Разработанная Н. А. Сидоровой концепция</segment>
+		<segment id="138" parent="266" relname="span">имеет непосредственное отношение к сопоставительной лингвистике и теории перевода.</segment>
+		<segment id="139" parent="266" relname="elaboration">Общеязыковая и общекультурная асимметрия выражается, среди прочего, в культуре ценностей.</segment>
+		<segment id="140" parent="317" relname="span">С позиций нашей концепции, фатическое поле - как поле культуры - изучается переводчиком</segment>
+		<segment id="141" parent="140" relname="purpose">с целью выявления ценностных ориентаций представителей двух взаимодействующих культур, двух текстов, находящихся в сфере единого переводческого пространства.</segment>
+		<segment id="142" parent="267" relname="joint">Мы акцентируем внимание на том, что ценности в рамках одной культуры теряют, полностью или частично, свою роль.</segment>
+		<segment id="143" parent="267" relname="joint">Их симметричная актуализация в тексте перевода может оказаться излишней,</segment>
+		<segment id="144" parent="270" relname="span">иными словами, базовые и вспомогательные ценности могут меняться ролями:</segment>
+		<segment id="145" parent="269" relname="comparison">то, что в одной культуре является базовой ценностью,</segment>
+		<segment id="146" parent="269" relname="comparison">в другой может оказаться вспомогательной, и наоборот.</segment>
+		<segment id="147" parent="309" relname="span">Мы предположили, что аксиологическая лингвистика может послужить теоретической базой для аксиологического переводоведения.</segment>
+		<segment id="148" parent="147" relname="purpose">Изучение аксиологической категории гармонии в переводе положит начало этому перспективному направлению.</segment>
+		<segment id="149" parent="150" relname="preparation">Список литературы</segment>
+		<segment id="150" relname="antithesis">1\. Аверьянова Е. В. Семиолингвистические аспекты религиозного дискурса. Тюмень, 2012. 196 с. 2\. Корнилов О. А. Языковые картины мира как производные национальных менталитетов. М.: ЧеРо, 2003. 349 с. 3\. Кушнина Л. В. Динамика переводческого пространства. Пермь, 2003. 232 с. 4\. Кушнина Л. В. Теория гармонизации: опыт когнитивного анализа переводческого пространства. Пермь, 2009. 196 с. 5\. Кушнина Л. В. Языки и культуры в переводческом пространстве. Пермь, 2004. 163 с. 6\. Рябцева Н. К. Язык и естественный интеллект. М., 2005. 640 с. 7\. Сидорова Н. А. Основы лингвоаксиологической концепции речевой коммуникации: автореф. дисс. ... д. филол. н. М., 2011. 59 с. 8\. Чуковский К. И. Муха-Цокотуха. М.: Малыш, 2005. 12 с. 9\. Tschukowski K Fliege Suse Sumsumsum. Verlag Malysch. M., 1977. 16 S. 10\. Tchoukovski K. La Mouche Zizouche traduit du russe par Henri Abril. M., 1990. 12 p.</segment>
+		<group id="157" type="span" parent="283" relname="span"/>
+		<group id="158" type="span" parent="280" relname="preparation"/>
+		<group id="160" type="span" parent="280" relname="span"/>
+		<group id="161" type="multinuc" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="164" relname="joint"/>
+		<group id="164" type="multinuc" parent="160" relname="elaboration"/>
+		<group id="165" type="span" parent="320" relname="span"/>
+		<group id="170" type="span" parent="274" relname="span"/>
+		<group id="172" type="span" parent="274" relname="evaluation"/>
+		<group id="177" type="span" parent="34" relname="condition"/>
+		<group id="178" type="span" parent="325" relname="span"/>
+		<group id="183" type="multinuc" parent="327" relname="span"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="188" type="span" parent="289" relname="span"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="314" relname="preparation"/>
+		<group id="196" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="197" type="span" parent="198" relname="joint"/>
+		<group id="198" type="multinuc" parent="315" relname="span"/>
+		<group id="199" type="multinuc" parent="315" relname="elaboration"/>
+		<group id="203" type="span" parent="208" relname="evidence"/>
+		<group id="204" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="205" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="206" type="span" parent="329" relname="joint"/>
+		<group id="207" type="span" parent="329" relname="joint"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="211" relname="comparison"/>
+		<group id="211" type="multinuc" parent="70" relname="evidence"/>
+		<group id="212" type="span" relname="antithesis"/>
+		<group id="213" type="span" parent="218" relname="joint"/>
+		<group id="214" type="span" parent="71" relname="condition"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="292" relname="span"/>
+		<group id="218" type="multinuc" relname="antithesis"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" parent="223" relname="joint"/>
+		<group id="221" type="multinuc" parent="217" relname="evaluation"/>
+		<group id="223" type="multinuc" parent="332" relname="span"/>
+		<group id="224" type="span" parent="84" relname="elaboration"/>
+		<group id="228" type="span" parent="229" relname="same-unit"/>
+		<group id="229" type="multinuc" parent="296" relname="preparation"/>
+		<group id="230" type="multinuc" parent="296" relname="span"/>
+		<group id="231" type="span" parent="293" relname="span"/>
+		<group id="233" type="multinuc" parent="295" relname="span"/>
+		<group id="234" type="span" parent="319" relname="span"/>
+		<group id="235" type="span" relname="antithesis"/>
+		<group id="236" type="span" parent="237" relname="joint"/>
+		<group id="237" type="multinuc" parent="300" relname="preparation"/>
+		<group id="238" type="multinuc" parent="300" relname="span"/>
+		<group id="239" type="span" parent="109" relname="condition"/>
+		<group id="240" type="span" parent="241" relname="evidence"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="244" relname="joint"/>
+		<group id="243" type="span" parent="244" relname="joint"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="span"/>
+		<group id="246" type="span" relname="antithesis"/>
+		<group id="247" type="span" parent="301" relname="background"/>
+		<group id="248" type="span" parent="121" relname="cause"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="joint"/>
+		<group id="251" type="multinuc" parent="301" relname="span"/>
+		<group id="254" type="span" parent="303" relname="preparation"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="260" relname="preparation"/>
+		<group id="257" type="multinuc" parent="258" relname="comparison"/>
+		<group id="258" type="multinuc" parent="261" relname="joint"/>
+		<group id="259" type="span" parent="127" relname="elaboration"/>
+		<group id="260" type="span" parent="303" relname="span"/>
+		<group id="261" type="multinuc" parent="128" relname="elaboration"/>
+		<group id="263" type="span" parent="307" relname="preparation"/>
+		<group id="264" type="multinuc" parent="307" relname="span"/>
+		<group id="265" type="span" parent="304" relname="span"/>
+		<group id="266" type="span" parent="305" relname="span"/>
+		<group id="267" type="multinuc" parent="268" relname="restatement"/>
+		<group id="268" type="multinuc" parent="264" relname="joint"/>
+		<group id="269" type="multinuc" parent="144" relname="elaboration"/>
+		<group id="270" type="span" parent="268" relname="restatement"/>
+		<group id="274" type="span" parent="288" relname="span"/>
+		<group id="275" type="span" parent="178" relname="elaboration"/>
+		<group id="276" type="span" parent="187" relname="evidence"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="290" relname="evidence"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" relname="antithesis"/>
+		<group id="283" type="span" parent="281" relname="background"/>
+		<group id="288" type="span" parent="323" relname="elaboration"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" relname="antithesis"/>
+		<group id="292" type="span" parent="218" relname="joint"/>
+		<group id="293" type="span" parent="230" relname="joint"/>
+		<group id="294" type="span" parent="230" relname="joint"/>
+		<group id="295" type="span" parent="294" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="319" relname="evidence"/>
+		<group id="298" type="span" parent="231" relname="elaboration"/>
+		<group id="299" type="span" parent="245" relname="solutionhood"/>
+		<group id="300" type="span" parent="299" relname="span"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="302" type="span" relname="antithesis"/>
+		<group id="303" type="span" parent="316" relname="span"/>
+		<group id="304" type="span" parent="264" relname="joint"/>
+		<group id="305" type="span" parent="265" relname="elaboration"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" relname="antithesis"/>
+		<group id="309" type="span" relname="antithesis"/>
+		<group id="310" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="311" type="span" parent="39" relname="preparation"/>
+		<group id="312" type="span" parent="277" relname="preparation"/>
+		<group id="313" type="span" parent="289" relname="elaboration"/>
+		<group id="314" type="span" parent="313" relname="span"/>
+		<group id="315" type="span" parent="314" relname="span"/>
+		<group id="316" type="span" relname="antithesis"/>
+		<group id="317" type="span" parent="264" relname="joint"/>
+		<group id="318" type="multinuc" parent="97" relname="purpose"/>
+		<group id="319" type="span" parent="235" relname="span"/>
+		<group id="320" type="span" relname="antithesis"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="22" relname="elaboration"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="21" relname="elaboration"/>
+		<group id="325" type="span" relname="antithesis"/>
+		<group id="326" type="span" parent="277" relname="span"/>
+		<group id="327" type="span" parent="326" relname="span"/>
+		<group id="328" type="multinuc" parent="327" relname="attribution"/>
+		<group id="329" type="multinuc" parent="211" relname="comparison"/>
+		<group id="330" type="span" parent="221" relname="joint"/>
+		<group id="331" type="span" parent="78" relname="elaboration"/>
+		<group id="332" type="span" parent="331" relname="span"/>
+		<group id="333" type="span" parent="29" relname="elaboration"/>
+		<group id="334" type="span" parent="332" relname="elaboration"/>
+		<group id="335" type="span" parent="334" relname="span"/>
+  </body>
+</rst>

@@ -1,0 +1,276 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://kosmetista.ru/blog/pricheski/94010.html</segment>
+		<segment id="2" parent="227" relname="span">##### Восточная сказка для волос с натуральной косметикой Zeitun</segment>
+		<segment id="3" parent="2" relname="elaboration">##### IMG</segment>
+		<segment id="4" parent="222" relname="preparation">##### Приветствую!</segment>
+		<segment id="5" parent="135" relname="span">Сегодня покажу набор для волос: шампунь и маска</segment>
+		<segment id="6" parent="5" relname="purpose">для гладкости и блеска волос,</segment>
+		<segment id="7" parent="136" relname="joint">а также крем-уход для волос «Пептиды шелка и иранская хна».</segment>
+		<segment id="8" parent="9" relname="condition">Если вас заинтересовала иорданская натуральная косметика Zeitun,</segment>
+		<segment id="9" parent="137" relname="span">то прошу под кат!</segment>
+		<segment id="10" parent="140" relname="span">##### Натуральная косметика Zeitun производилась в Сирии более 1300 лет тому назад.</segment>
+		<segment id="11" parent="139" relname="joint">##### Продукция создается по многовековым рецептам,</segment>
+		<segment id="12" parent="139" relname="joint">не содержит в себе никаких химических веществ, отдушек, красителей</segment>
+		<segment id="13" parent="139" relname="joint">и является гипоаллергенной.</segment>
+		<segment id="14" parent="15" relname="cause">##### Из-за разрушительных военных действий в Сирии,</segment>
+		<segment id="15" parent="141" relname="span">производство переместилось в Иорданию.</segment>
+		<segment id="16" parent="143" relname="joint">##### Я давно хотела познакомиться с продуктами этого восточного бренда</segment>
+		<segment id="17" parent="224" relname="span">и мой выбор пал на набор из трех средств по уходу за волосами,</segment>
+		<segment id="18" parent="17" relname="elaboration">которые обещают гладкость и силу прядям.</segment>
+		<segment id="19" parent="147" relname="cause">##### Мои длинные тёмные некрашеные и абсолютно прямые волосы находятся в хорошем состоянии,</segment>
+		<segment id="20" parent="147" relname="span">так что эта покупка была скорее баловством</segment>
+		<segment id="21" parent="20" relname="purpose">для поддержания красоты и здоровья прядей.</segment>
+		<segment id="22" parent="148" relname="elaboration">##### IMG</segment>
+		<segment id="23" parent="150" relname="span">##### Набор представляет собой крафтовую коробку,</segment>
+		<segment id="24" parent="23" relname="elaboration">стильно перевязанную джутовым шпагатом с алой фирменной сургучной печатью и наклейкой названия бренда.</segment>
+		<segment id="25" parent="151" relname="joint">##### Внутри, на наполнителе в виде красной бумажной стружки, располагаются три продукта,</segment>
+		<segment id="26" parent="151" relname="joint">а на внутренней стороне верхней части коробки есть приветственная наклейка от производителя.</segment>
+		<segment id="27" parent="152" relname="elaboration">##### IMG</segment>
+		<segment id="28" parent="154" relname="span">##### Серия выполнена в коричнево-золотистой гамме,</segment>
+		<segment id="29" parent="28" relname="elaboration">отличается лишь формой и цветом упаковки.</segment>
+		<segment id="30" >##### Теперь, подробнее о каждом средстве.</segment>
+		<segment id="31" parent="244" relname="preparation">##### Zeitun, шампунь для волос №9 «Гладкость и блеск» для тусклых и непослушных волос с пептидами шелка и эфирным маслом дамасской розы, 250 мл</segment>
+		<segment id="32" parent="33" relname="cause">##### Благодаря высокоэффективным ингредиентам,</segment>
+		<segment id="33" parent="158" relname="span">превращает волосы в блестящую гладкую материю.</segment>
+		<segment id="34" parent="158" relname="elaboration">##### IMG</segment>
+		<segment id="35" parent="160" relname="joint">##### Шампунь находится в бутылке из тёмно-коричневого, чуть прозрачного пластика с откидывающейся золотистой крышкой</segment>
+		<segment id="36" parent="161" relname="comparison">и представляет собой густой желтовато-прозрачный гель с выраженным травянисто-кисловатым, даже каким-то жирноватым ароматом бордовой розы,</segment>
+		<segment id="37" parent="161" relname="comparison">больше напоминающим розовое масло.</segment>
+		<segment id="38" parent="39" relname="cause">##### Пенится средне,</segment>
+		<segment id="39" parent="162" relname="span">в связи с этим, приходится намыливать волосы дважды,</segment>
+		<segment id="40" parent="163" relname="span">что увеличивает его расход.</segment>
+		<segment id="41" parent="228" relname="restatement">##### Очищает хорошо,</segment>
+		<segment id="42" parent="228" relname="restatement">так сказать «до скрипа»,</segment>
+		<segment id="43" parent="166" relname="joint">но делает волосы очень жесткими</segment>
+		<segment id="44" parent="166" relname="joint">и спутывает их.</segment>
+		<segment id="45" parent="170" relname="joint">##### После мытья шевелюра блестящая, напрочь лишенная хоть какого-то объема, без какой-то особенной сильной гладкости</segment>
+		<segment id="46" parent="170" relname="joint">и пачкается чрезвычайно быстро:</segment>
+		<segment id="47" parent="48" relname="condition">например, если я помыла голову сегодня вечером,</segment>
+		<segment id="48" parent="169" relname="span">то через сутки её снова нужно мыть.</segment>
+		<segment id="49" parent="173" relname="span">Точнее нет: Обязательно нужно мыть!</segment>
+		<segment id="50" parent="49" relname="condition">Даже если вы решите «замаскировать» волосы в «хвост».</segment>
+		<segment id="51" parent="171" relname="elaboration">##### IMG</segment>
+		<segment id="52" parent="230" relname="joint">##### 462₽ цена</segment>
+		<segment id="53" parent="230" relname="joint">##### 6/10 оценка</segment>
+		<segment id="54" parent="230" relname="joint">##### 2 месяца, 4 р/в неделю использование</segment>
+		<segment id="55" parent="246" relname="preparation">##### Zeitun, маска для волос «Гладкость и блеск» для тусклых, путающихся волос с пептидами шелка и эфирным маслом бей, 200 мл</segment>
+		<segment id="56" parent="178" relname="joint">##### Разглаживает</segment>
+		<segment id="57" parent="178" relname="joint">и придает роскошный блеск тусклым волосам,</segment>
+		<segment id="58" parent="178" relname="joint">укрощает</segment>
+		<segment id="59" parent="178" relname="joint">и распутывает непослушные пряди.</segment>
+		<segment id="60" parent="178" relname="elaboration">##### IMG</segment>
+		<segment id="61" parent="181" relname="contrast">##### Действительно, раз уж шампунь волосы запутал,</segment>
+		<segment id="62" parent="181" relname="contrast">надо бы масочкой их распутать!😆</segment>
+		<segment id="63" parent="184" relname="joint">##### Средство спрятано в банке из плотного коричневого пластика с откручивающейся крышкой.</segment>
+		<segment id="64" parent="184" relname="joint">##### Продукт представляет собой воздушный белый крем средней густоты с ненавязчивым травянистым лекарственным ароматом.</segment>
+		<segment id="65" parent="184" relname="joint">##### Расходуется экономично.</segment>
+		<segment id="66" parent="183" relname="sequence">##### Производитель советует нанести маску на чистые влажные волосы на 15 или более минут</segment>
+		<segment id="67" parent="183" relname="sequence">и смыть.</segment>
+		<segment id="68" parent="186" relname="contrast">##### Какого-то питательного эффекта от продукта я не заметила,</segment>
+		<segment id="69" parent="185" relname="span">только волосы действительно чуть-чуть распутывает,</segment>
+		<segment id="70" parent="69" relname="elaboration">делая их более гладкими и действительно ослепительно блестящими.</segment>
+		<segment id="71" parent="186" relname="evaluation">На этом всё.</segment>
+		<segment id="72" parent="73" relname="attribution">##### На мой взгляд,</segment>
+		<segment id="73" parent="232" relname="span">это больше бальзам, нежели дополнительный уход.</segment>
+		<segment id="74" parent="232" relname="elaboration">##### IMG</segment>
+		<segment id="75" parent="233" relname="joint">##### 510₽ цена</segment>
+		<segment id="76" parent="233" relname="joint">##### 6/10 оценка</segment>
+		<segment id="77" parent="233" relname="joint">##### 2 месяца, 4 р/в неделю использование</segment>
+		<segment id="78" parent="247" relname="preparation">##### Zeitun, крем-уход для волос «Пептиды шелка и иранская хна», гладкость и сила, 50 мл</segment>
+		<segment id="79" parent="191" relname="joint">##### Укрепляет волосы по всей длине,</segment>
+		<segment id="80" parent="191" relname="joint">разглаживает,</segment>
+		<segment id="81" parent="191" relname="joint">придает блеск,</segment>
+		<segment id="82" parent="191" relname="joint">облегчает расчесывание</segment>
+		<segment id="83" parent="192" relname="span">и защищает от термовоздействия</segment>
+		<segment id="84" parent="83" relname="condition">при использовании фена.</segment>
+		<segment id="85" parent="191" relname="elaboration">##### IMG</segment>
+		<segment id="86" parent="193" relname="elaboration">##### Крем для волос упакован в незатейливую тубу из белого пластика с удобным дозатором-помпой под прозрачной пластмассовой крышкой.</segment>
+		<segment id="87" parent="198" relname="span">##### Само средство представляет собой белый крем средней густоты с ярко-выраженным ароматом…</segment>
+		<segment id="88" parent="225" relname="sequence">я очень долго думала, чем же он пахнет…</segment>
+		<segment id="89" parent="225" relname="sequence">и, наконец, вспомнила!</segment>
+		<segment id="90" parent="235" relname="span">##### Летом,</segment>
+		<segment id="91" parent="90" relname="elaboration">в самый разгар «картошки» на дачном огороде</segment>
+		<segment id="92" parent="234" relname="same-unit">неоднократно приходилось собирать колорадских жуков с ботвы этой плодовой культуры,</segment>
+		<segment id="93" parent="196" relname="same-unit">так вот,</segment>
+		<segment id="94" parent="95" relname="condition">если одного из этих «полосатиков» раздавить,</segment>
+		<segment id="95" parent="195" relname="span">то вы почувствуете запах… как раз-таки этого крема для волос «Пептиды шелка и иранская хна» от Zeitun!</segment>
+		<segment id="96" parent="195" relname="evaluation">Серьезно!😆</segment>
+		<segment id="97" parent="202" relname="solutionhood">##### Аромат ужасен.</segment>
+		<segment id="98" parent="99" relname="attribution">Хочется надеяться,</segment>
+		<segment id="99" parent="236" relname="span">что кто-нибудь из производителей прочтет этот обзор.</segment>
+		<segment id="100" parent="101" relname="attribution">Пожалуйста, я понимаю,</segment>
+		<segment id="101" parent="237" relname="span">что это натуральная косметика,</segment>
+		<segment id="102" parent="200" relname="contrast">но, будьте лояльны к людям:</segment>
+		<segment id="103" parent="202" relname="span">добавьте сюда отдушку!😔</segment>
+		<segment id="104" parent="203" relname="sequence">##### Я делаю 4 нажатия на помпу</segment>
+		<segment id="105" parent="203" relname="sequence">и получившуюся порцию наношу от середины длины волос до кончиков.</segment>
+		<segment id="106" parent="204" relname="joint">Впитывается моментально,</segment>
+		<segment id="107" parent="205" relname="span">совершенно не жирнит волосы,</segment>
+		<segment id="108" parent="107" relname="evaluation">чего я крайне опасалась,</segment>
+		<segment id="109" parent="204" relname="joint">действительно питает</segment>
+		<segment id="110" parent="204" relname="joint">и укрепляет их.</segment>
+		<segment id="111" parent="206" relname="joint">##### Расход экономичный.</segment>
+		<segment id="112" parent="206" relname="joint">##### Разглаживания и особенного блеска прядей я не заметила.</segment>
+		<segment id="113" parent="209" relname="span">##### На счёт термозащиты сказать ничего не могу,</segment>
+		<segment id="114" parent="207" relname="span">так как феном и другими средствами</segment>
+		<segment id="115" parent="114" relname="purpose">для горячей укладки</segment>
+		<segment id="116" parent="208" relname="same-unit">практически не пользуюсь,</segment>
+		<segment id="117" parent="118" relname="attribution">но хочется верить,</segment>
+		<segment id="118" parent="240" relname="span">что она всё-таки присутствует.</segment>
+		<segment id="119" parent="210" relname="elaboration">##### IMG</segment>
+		<segment id="120" parent="226" relname="joint">##### 472₽ цена</segment>
+		<segment id="121" parent="226" relname="joint">##### 7/10 оценка</segment>
+		<segment id="122" parent="226" relname="joint">##### 2 месяца, 4 р/в неделю использование</segment>
+		<segment id="123" parent="217" relname="span">##### Сказка былью не оказалась.</segment>
+		<segment id="124" parent="215" relname="contrast">##### Набор обошелся мне в 1000 рублей,</segment>
+		<segment id="125" parent="126" relname="condition">а если бы я приобрела каждый продукт по-отдельности, за его полную стоимость,</segment>
+		<segment id="126" parent="213" relname="span">то была бы очень разочарована,</segment>
+		<segment id="127" parent="214" relname="span">ибо более-менее стоящим средством из трех оказался лишь крем для волос с неприятным запахом,</segment>
+		<segment id="128" parent="127" relname="evaluation">который, впрочем, я бы не повторила.</segment>
+		<segment id="129" parent="218" relname="joint">##### Продолжать знакомство с маркой</segment>
+		<segment id="130" parent="218" relname="joint">и пробовать уходовые продукты для лица желания нет.</segment>
+		<segment id="131" parent="248" relname="span">##### А вы пользовались косметикой Zeitun?</segment>
+		<segment id="132" parent="131" relname="elaboration">Есть какие-то продукты, которые пришлись по душе?</segment>
+		<segment id="133" parent="242" relname="joint">##### Спасибо, что прочли!</segment>
+		<segment id="134" parent="242" relname="joint">Буду рада оказаться полезной!</segment>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="136" type="multinuc" parent="222" relname="span"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="138" type="span" parent="145" relname="preparation"/>
+		<group id="139" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="140" type="span" parent="142" relname="span"/>
+		<group id="141" type="span" parent="140" relname="background"/>
+		<group id="142" type="span" parent="144" relname="background"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" />
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="149" relname="span"/>
+		<group id="149" type="span" parent="156" relname="background"/>
+		<group id="150" type="span" parent="155" relname="span"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="153" type="span" parent="150" relname="elaboration"/>
+		<group id="154" type="span" parent="155" relname="elaboration"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" />
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" parent="164" relname="joint"/>
+		<group id="160" type="multinuc" parent="164" relname="joint"/>
+		<group id="161" type="multinuc" parent="160" relname="joint"/>
+		<group id="162" type="span" parent="40" relname="cause"/>
+		<group id="163" type="span" parent="164" relname="elaboration"/>
+		<group id="164" type="multinuc" parent="243" relname="span"/>
+		<group id="165" type="multinuc" parent="175" relname="span"/>
+		<group id="166" type="multinuc" parent="165" relname="contrast"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="176" relname="span"/>
+		<group id="169" type="span" parent="172" relname="span"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="229" relname="span"/>
+		<group id="172" type="span" parent="170" relname="evidence"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="169" relname="evaluation"/>
+		<group id="175" type="span" parent="168" relname="evaluation"/>
+		<group id="176" type="span" parent="244" relname="joint"/>
+		<group id="177" type="span" />
+		<group id="178" type="multinuc" parent="179" relname="span"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="245" relname="span"/>
+		<group id="181" type="multinuc" parent="179" relname="evaluation"/>
+		<group id="182" type="span" parent="190" relname="span"/>
+		<group id="183" type="multinuc" parent="184" relname="joint"/>
+		<group id="184" type="multinuc" parent="187" relname="span"/>
+		<group id="185" type="span" parent="186" relname="contrast"/>
+		<group id="186" type="multinuc" parent="188" relname="span"/>
+		<group id="187" type="span" parent="180" relname="elaboration"/>
+		<group id="188" type="span" parent="189" relname="joint"/>
+		<group id="189" type="multinuc" parent="184" relname="evaluation"/>
+		<group id="190" type="span" />
+		<group id="191" type="multinuc" parent="193" relname="span"/>
+		<group id="192" type="span" parent="191" relname="joint"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="247" relname="joint"/>
+		<group id="195" type="span" parent="220" relname="span"/>
+		<group id="196" type="multinuc" parent="197" relname="span"/>
+		<group id="197" type="span" parent="199" relname="joint"/>
+		<group id="198" type="span" parent="239" relname="span"/>
+		<group id="199" type="multinuc" parent="198" relname="elaboration"/>
+		<group id="200" type="multinuc" parent="201" relname="span"/>
+		<group id="201" type="span" parent="103" relname="solutionhood"/>
+		<group id="202" type="span" parent="211" relname="span"/>
+		<group id="203" type="multinuc" parent="206" relname="joint"/>
+		<group id="204" type="multinuc" parent="206" relname="joint"/>
+		<group id="205" type="span" parent="204" relname="joint"/>
+		<group id="206" type="multinuc" parent="247" relname="joint"/>
+		<group id="207" type="span" parent="208" relname="same-unit"/>
+		<group id="208" type="multinuc" parent="113" relname="cause"/>
+		<group id="209" type="span" parent="210" relname="contrast"/>
+		<group id="210" type="multinuc" parent="241" relname="span"/>
+		<group id="211" type="span" parent="238" relname="span"/>
+		<group id="212" type="span" />
+		<group id="213" type="span" parent="216" relname="span"/>
+		<group id="214" type="span" parent="213" relname="cause"/>
+		<group id="215" type="multinuc" parent="123" relname="evidence"/>
+		<group id="216" type="span" parent="215" relname="contrast"/>
+		<group id="217" type="span" parent="218" relname="solutionhood"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" />
+		<group id="220" type="span" parent="196" relname="same-unit"/>
+		<group id="221" type="span" parent="137" relname="preparation"/>
+		<group id="222" type="span" parent="221" relname="span"/>
+		<group id="224" type="span" parent="143" relname="joint"/>
+		<group id="225" type="multinuc" parent="87" relname="evaluation"/>
+		<group id="226" type="multinuc" parent="247" relname="joint"/>
+		<group id="227" type="span" />
+		<group id="228" type="multinuc" parent="165" relname="contrast"/>
+		<group id="229" type="span" parent="165" relname="elaboration"/>
+		<group id="230" type="multinuc" parent="244" relname="joint"/>
+		<group id="231" type="span" parent="189" relname="joint"/>
+		<group id="232" type="span" parent="231" relname="span"/>
+		<group id="233" type="multinuc" parent="246" relname="joint"/>
+		<group id="234" type="multinuc" parent="196" relname="preparation"/>
+		<group id="235" type="span" parent="234" relname="same-unit"/>
+		<group id="236" type="span" parent="200" relname="evaluation"/>
+		<group id="237" type="span" parent="200" relname="contrast"/>
+		<group id="238" type="span" parent="199" relname="joint"/>
+		<group id="239" type="span" parent="247" relname="joint"/>
+		<group id="240" type="span" parent="210" relname="contrast"/>
+		<group id="241" type="span" parent="206" relname="joint"/>
+		<group id="242" type="multinuc" />
+		<group id="243" type="span" parent="167" relname="span"/>
+		<group id="244" type="multinuc" parent="177" relname="span"/>
+		<group id="245" type="span" parent="246" relname="joint"/>
+		<group id="246" type="multinuc" parent="182" relname="span"/>
+		<group id="247" type="multinuc" parent="212" relname="span"/>
+		<group id="248" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,235 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="108" relname="preparation">##### Местная валюта способна защитить от финансового кризиса и утечки капитала — Маррей Хантер</segment>
+		<segment id="2" parent="102" relname="span">##### Местная валюта,</segment>
+		<segment id="3" parent="101" relname="joint">поддерживаемая союзом локальных кооперативных банков</segment>
+		<segment id="4" parent="101" relname="joint">и привязанная по курсу к национальной,</segment>
+		<segment id="5" parent="103" relname="same-unit">может защитить конкретную территорию от финансового кризиса и утечки капитала.</segment>
+		<segment id="6" parent="104" relname="attribution">К такому выводу пришел бизнес-эксперт, автор ряда книг и исследований по предпринимательству, старший доцент Малазийского университета в Перлисе Маррей Хантер (Murray Hunter) в статье "Наступило ли время для местных валют?", опубликованной в зарубежных СМИ.</segment>
+		<segment id="7" parent="8" relname="attribution">##### Он напоминает,</segment>
+		<segment id="8" parent="174" relname="span">что до централизации экономики в начале XX века в мире существовало большое количество региональных и национальных валют.</segment>
+		<segment id="9" parent="107" relname="sequence">##### "Жители Австралии до федерализации страны в 1901 году пользовались несколькими видами колониальных денег.</segment>
+		<segment id="10" parent="106" relname="comparison">До основания американского Федерального резервного банка в 1913 году в США существовало множество типов банкнот, выпускавшихся частными финансовыми учреждениями,</segment>
+		<segment id="11" parent="106" relname="comparison">а в странах Европейского союза до введения евро в 1999 году имели хождение собственные валюты",</segment>
+		<segment id="12" parent="177" relname="attribution">- пишет автор публикации.</segment>
+		<segment id="13" parent="111" relname="attribution">##### По его словам,</segment>
+		<segment id="14" parent="110" relname="concession">несмотря на тенденцию стремления к "крупным и сильным" деньгам, например, доллару и евро,</segment>
+		<segment id="15" parent="110" relname="span">за последние годы по всему миру было запущено более 2 тыс. проектов местных валют,</segment>
+		<segment id="16" parent="15" relname="elaboration">ориентированных на жителей отдельных городов и регионов, постоянных покупателей и даже пользователей сети Интернет.</segment>
+		<segment id="17" parent="112" relname="span">##### "Многие не смогли закрепиться и ушли в небытие,</segment>
+		<segment id="18" parent="17" relname="condition">так и не достигнув достаточной популярности.</segment>
+		<segment id="19" parent="113" relname="span">Некоторые разделили участь динара штата Келантан в Малайзии,</segment>
+		<segment id="20" parent="19" relname="background">появившегося в 2006 году:</segment>
+		<segment id="21" parent="113" relname="elaboration">федеральное правительство страны фактически уничтожило проект неоднократными заявлениями о том, что динар Келантана не является законным платежным средством",</segment>
+		<segment id="22" parent="116" relname="attribution">- подчеркивает Маррей Хантер.</segment>
+		<segment id="23" parent="179" relname="attribution">##### В то же время он отмечает,</segment>
+		<segment id="24" parent="119" relname="joint">что ряду валют удалось преодолеть критический уровень недоверия населения и властей,</segment>
+		<segment id="25" parent="119" relname="joint">завоевать признание и уважение местного бизнеса.</segment>
+		<segment id="26" parent="120" relname="restatement">В качестве примера эксперт приводит "беркшеры" ("BerkShares"),</segment>
+		<segment id="27" parent="121" relname="span">также известные как "беркакции",</segment>
+		<segment id="28" parent="122" relname="sequence">которые появились в американском городе Южный Беркшир в 2006 году,</segment>
+		<segment id="29" parent="122" relname="sequence">а сейчас находятся в обороте уже нескольких населенных пунктов.</segment>
+		<segment id="30" parent="182" relname="same-unit">При этом,</segment>
+		<segment id="31" parent="180" relname="attribution">по его мнению,</segment>
+		<segment id="32" parent="180" relname="span">процветанию этих местных денег в значительной степени способствовала хорошо развитая туристическая индустрия и достаточно мощная сеть производителей товаров</segment>
+		<segment id="33" parent="32" relname="purpose">для внутреннего потребления.</segment>
+		<segment id="34" parent="127" relname="attribution">##### Маррей Хантер считает,</segment>
+		<segment id="35" parent="127" relname="span">что возможно и обратное развитие событий,</segment>
+		<segment id="36" parent="126" relname="same-unit">когда локальная валюта,</segment>
+		<segment id="37" parent="129" relname="condition">закрепившись на определенной территории,</segment>
+		<segment id="38" parent="129" relname="span">способна стать стимулом</segment>
+		<segment id="39" parent="130" relname="span">для развития малого и среднего бизнеса и повышения самодостаточности местных сообществ,</segment>
+		<segment id="40" parent="39" relname="evaluation">причем именно эти задачи в скором времени станут ключевыми в развитых и развивающихся странах.</segment>
+		<segment id="41" parent="184" relname="attribution">##### С его точки зрения,</segment>
+		<segment id="42" parent="133" relname="joint">централизация экономики в XX веке вывела на первый план вопросы международной кооперации,</segment>
+		<segment id="43" parent="132" relname="span">а исчезновение ранее существовавших валют можно объяснить тем,</segment>
+		<segment id="44" parent="43" relname="cause">что в условиях глобализации производства стало невыгодно ограничивать местных производителей только конкуренцией на национальном рынке.</segment>
+		<segment id="45" parent="134" relname="span">##### "Подобная стратегия противоречит политике макроэкономического развития большинства стран,</segment>
+		<segment id="46" parent="135" relname="joint">в рамках которой власти выступают за централизацию экономики</segment>
+		<segment id="47" parent="136" relname="span">и стимулируют трансформацию малых и средних предприятий в крупные корпорации</segment>
+		<segment id="48" parent="47" relname="purpose">для выхода на международный уровень",</segment>
+		<segment id="49" parent="134" relname="attribution">- подчеркивает старший доцент Малазийского университета в Перлисе.</segment>
+		<segment id="50" parent="187" relname="same-unit">##### Однако,</segment>
+		<segment id="51" parent="186" relname="attribution">по его словам,</segment>
+		<segment id="52" parent="186" relname="span">глобальное доминирование малого числа так называемых "сильных валют" способствовало возникновению ряда мировых финансовых кризисов,</segment>
+		<segment id="53" parent="52" relname="cause">которые были спровоцированы не только экономическими пузырями, но и банкротствами крупных банковских институтов.</segment>
+		<segment id="54" parent="138" relname="cause">##### "Сектор стал настолько централизованным,</segment>
+		<segment id="55" parent="138" relname="span">что власти большинства стран мира приложили все силы,</segment>
+		<segment id="56" parent="141" relname="span">чтобы остановить крах системообразующих национальных банков.</segment>
+		<segment id="57" parent="140" relname="joint">Эти приватизированные финансовые учреждения фактически оказались выше буквы закона,</segment>
+		<segment id="58" parent="140" relname="joint">а в отдельных случаях и вовсе поступают так, как им заблагорассудится.</segment>
+		<segment id="59" parent="143" relname="joint">Они стали предопределять условия финансирования, аспекты торговли, процентные ставки и прочие условия, связанные с экономикой.</segment>
+		<segment id="60" parent="142" relname="span">Никто так и не решился основательно взяться за контроль над ними после 2008 года,</segment>
+		<segment id="61" parent="60" relname="cause">поскольку задача была слишком сложной",</segment>
+		<segment id="62" parent="139" relname="attribution">- констатирует бизнес-аналитик.</segment>
+		<segment id="63" parent="188" relname="attribution">##### По его мнению,</segment>
+		<segment id="64" parent="188" relname="span">у местной валюты могут быть неплохие перспективы,</segment>
+		<segment id="65" parent="146" relname="joint">если кооперативные банки будут готовы предоставлять льготные условия по финансово-кредитным операциям в ней</segment>
+		<segment id="66" parent="146" relname="joint">и осуществлять ее обмен на национальную валюту.</segment>
+		<segment id="67" parent="147" relname="span">##### "Кредитные союзы существуют давно,</segment>
+		<segment id="68" parent="67" relname="elaboration">и их работа во многом схожа с предложенной выше системой,</segment>
+		<segment id="69" parent="149" relname="span">но поддержка крупных банков властями, поглощение мелких конкурентов и агрессивная коммерческая борьба привели к практически полному исчезновению таких союзов,</segment>
+		<segment id="70" parent="69" relname="cause">поскольку они мешали банкам получить контроль над экономикой через централизованное кредитование",</segment>
+		<segment id="71" parent="150" relname="attribution">- пишет Маррей Хантер.</segment>
+		<segment id="72" parent="191" relname="attribution">##### По его словам,</segment>
+		<segment id="73" parent="155" relname="same-unit">местная валюта, привязанная по курсу к национальной,</segment>
+		<segment id="74" parent="153" relname="condition">при достаточной популярности</segment>
+		<segment id="75" parent="153" relname="span">может создать благоприятные условия</segment>
+		<segment id="76" parent="75" relname="purpose">для притока капитала.</segment>
+		<segment id="77" parent="193" relname="comparison">Проводя аналогию с ситуацией на международном рынке,</segment>
+		<segment id="78" parent="79" relname="attribution">эксперт отмечает,</segment>
+		<segment id="79" parent="192" relname="span">что в современном мире собственная валюта постепенно становится средством обеспечения экономического суверенитета страны и защиты от утечки крупных финансовых потоков.</segment>
+		<segment id="80" parent="165" relname="attribution">##### "Как заметил автор книги "Священная экономика" Чарльз Айзенштайн (Charles Eisenstein),</segment>
+		<segment id="81" parent="163" relname="span">меры экономического протекционизма и импортозамещения</segment>
+		<segment id="82" parent="81" relname="purpose">для стимулирования местного производства на Тайване, в Японии и Южной Корее в 1980-х годах</segment>
+		<segment id="83" parent="156" relname="same-unit">привели к тому, что в настоящее время в этих странах процветает средний класс.</segment>
+		<segment id="84" parent="157" relname="span">Напротив, Мексика, которая создала все условия</segment>
+		<segment id="85" parent="84" relname="purpose">для свободной торговли и инвестиций извне,</segment>
+		<segment id="86" parent="158" relname="same-unit">на сегодняшний день практически лишена как собственных технологий, так и постоянного капитала.</segment>
+		<segment id="87" parent="160" relname="span">Отдельные страны, в числе которых Бразилия и Таиланд, сейчас стремятся защититься от притока дешевых долларов США и большого числа дельцов,</segment>
+		<segment id="88" parent="87" relname="elaboration">скупающих активы государств за американскую валюту",</segment>
+		<segment id="89" parent="206" relname="attribution">- утверждает автор статьи.</segment>
+		<segment id="90" parent="196" relname="same-unit">##### Однако,</segment>
+		<segment id="91" parent="194" relname="attribution">по его мнению,</segment>
+		<segment id="92" parent="194" relname="span">в первую очередь местная валюта выгодна тем,</segment>
+		<segment id="93" parent="173" relname="joint">что в случае успеха позволяет сплотить людей вокруг их собственной системы экономических отношений</segment>
+		<segment id="94" parent="173" relname="joint">и защитить от влияния глобальной монокультуры.</segment>
+		<segment id="95" parent="161" relname="joint">##### "Местная валюта служит своеобразной отличительной чертой территории, на которой имеет хождение.</segment>
+		<segment id="96" parent="198" relname="same-unit">Кроме того,</segment>
+		<segment id="97" parent="200" relname="attribution">по мнению сторонников подобных проектов,</segment>
+		<segment id="98" parent="162" relname="joint">местные деньги помогают сформировать у группы людей чувство общности</segment>
+		<segment id="99" parent="162" relname="joint">и дают толчок для появления новых бизнес-проектов, ориентированных на внутреннего потребителя",</segment>
+		<segment id="100" parent="197" relname="attribution">- резюмирует эксперт.</segment>
+		<group id="101" type="multinuc" parent="2" relname="condition"/>
+		<group id="102" type="span" parent="103" relname="same-unit"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="108" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="sequence"/>
+		<group id="107" type="multinuc" parent="177" relname="span"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" />
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="178" relname="span"/>
+		<group id="112" type="span" parent="115" relname="comparison"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" parent="115" relname="comparison"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" />
+		<group id="119" type="multinuc" parent="179" relname="span"/>
+		<group id="120" type="multinuc" parent="123" relname="elaboration"/>
+		<group id="121" type="span" parent="120" relname="restatement"/>
+		<group id="122" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="131" relname="joint"/>
+		<group id="125" type="span" parent="126" relname="same-unit"/>
+		<group id="126" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="128" type="span" />
+		<group id="129" type="span" parent="125" relname="span"/>
+		<group id="130" type="span" parent="38" relname="purpose"/>
+		<group id="131" type="multinuc" />
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="133" type="multinuc" parent="184" relname="span"/>
+		<group id="134" type="span" parent="137" relname="span"/>
+		<group id="135" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="136" type="span" parent="135" relname="joint"/>
+		<group id="137" type="span" parent="183" relname="elaboration"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" parent="205" relname="span"/>
+		<group id="140" type="multinuc" parent="145" relname="span"/>
+		<group id="141" type="span" parent="55" relname="purpose"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="143" type="multinuc" parent="145" relname="elaboration"/>
+		<group id="144" type="span" parent="56" relname="elaboration"/>
+		<group id="145" type="span" parent="144" relname="span"/>
+		<group id="146" type="multinuc" parent="64" relname="condition"/>
+		<group id="147" type="span" parent="148" relname="contrast"/>
+		<group id="148" type="multinuc" parent="150" relname="span"/>
+		<group id="149" type="span" parent="148" relname="contrast"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="166" relname="span"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" parent="155" relname="same-unit"/>
+		<group id="155" type="multinuc" parent="191" relname="span"/>
+		<group id="156" type="multinuc" parent="165" relname="span"/>
+		<group id="157" type="span" parent="158" relname="same-unit"/>
+		<group id="158" type="multinuc" parent="159" relname="comparison"/>
+		<group id="159" type="multinuc" parent="206" relname="span"/>
+		<group id="160" type="span" parent="159" relname="comparison"/>
+		<group id="161" type="multinuc" parent="197" relname="span"/>
+		<group id="162" type="multinuc" parent="200" relname="span"/>
+		<group id="163" type="span" parent="156" relname="same-unit"/>
+		<group id="164" type="span" parent="159" relname="comparison"/>
+		<group id="165" type="span" parent="164" relname="span"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" />
+		<group id="168" type="multinuc" parent="171" relname="solutionhood"/>
+		<group id="169" type="span" parent="168" relname="contrast"/>
+		<group id="170" type="span" parent="169" relname="span"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" />
+		<group id="173" type="multinuc" parent="92" relname="cause"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="175" type="span" parent="105" relname="background"/>
+		<group id="176" type="span" parent="174" relname="elaboration"/>
+		<group id="177" type="span" parent="176" relname="span"/>
+		<group id="178" type="span" parent="117" relname="preparation"/>
+		<group id="179" type="span" parent="123" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="182" relname="same-unit"/>
+		<group id="182" type="multinuc" parent="131" relname="joint"/>
+		<group id="183" type="span" parent="201" relname="span"/>
+		<group id="184" type="span" parent="183" relname="span"/>
+		<group id="185" type="span" parent="187" relname="same-unit"/>
+		<group id="186" type="span" parent="185" relname="span"/>
+		<group id="187" type="multinuc" parent="202" relname="span"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="166" relname="preparation"/>
+		<group id="190" type="span" parent="152" relname="evaluation"/>
+		<group id="191" type="span" parent="190" relname="span"/>
+		<group id="192" type="span" parent="193" relname="comparison"/>
+		<group id="193" type="multinuc" parent="170" relname="preparation"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="196" relname="same-unit"/>
+		<group id="196" type="multinuc" parent="168" relname="contrast"/>
+		<group id="197" type="span" parent="171" relname="span"/>
+		<group id="198" type="multinuc" parent="161" relname="joint"/>
+		<group id="199" type="span" parent="198" relname="same-unit"/>
+		<group id="200" type="span" parent="199" relname="span"/>
+		<group id="201" type="span" parent="204" relname="contrast"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="204" relname="contrast"/>
+		<group id="204" type="multinuc" />
+		<group id="205" type="span" parent="202" relname="elaboration"/>
+		<group id="206" type="span" parent="170" relname="span"/>
+	</body>
+</rst>

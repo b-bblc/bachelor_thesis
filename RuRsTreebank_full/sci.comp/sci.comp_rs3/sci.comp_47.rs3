@@ -1,0 +1,354 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">УДК 004.896</segment>
+		<segment id="2" parent="315" relname="span">В.В. ВИШНЕВСКИЙ*, В.Г. КАЛМЫКОВ*, Т.Н. РОМАНЕНКО*</segment>
+		<segment id="3" parent="171" relname="span">АППРОКСИМАЦИЯ ОДНО-, ДВУ- И ТРЕХМЕРНЫХ ДУГ КРИВЫХ ПАРАМЕТРИЧЕСКИМИ СПЛАЙНАМИ</segment>
+		<segment id="4" parent="2" relname="elaboration">Институт проблем математических машин и систем НАН Украины, Киев, Украина</segment>
+		<segment id="5" relname="antithesis">Анотаця. Обговорюеться алгоритм обчислення коефщгентгв параметричного сплайну, що апрок-симуе посл1довност1 експериментальних даних. Наведенi узагальнення, як дозволяють використо-вувати цей алгоритм для одно-, дво- та тривимiрного випадюв представлення експериментальних даних. Ключовi слова: контур, експериментальт дат, апроксимащя, параметричний сплайн, класифта-щя.</segment>
+		<segment id="6" relname="antithesis">Аннотация. Обсуждается алгоритм вычисления коэффициентов параметрического сплайна, аппроксимирующего последовательности экспериментальных данных. Приведены обобщения, позволяющие использовать данный алгоритм для одно-, дву- и трехмерного случаев представления экспериментальных данных. Ключевые слова: контур, экспериментальные данные, аппроксимация, параметрический сплайн, классификация.</segment>
+		<segment id="7" relname="antithesis">Abstract. We discuss the algorithm for calculating the coefficients of the parametric spline for approximating sequences of experimental data. We showed the generalizations, which allow using this algorithm for one-, two- and three-dimensional cases of the experimental data submission. Keywords: circuit, experimental data, approximation, parametric spline, classification.</segment>
+		<segment id="8" parent="185" relname="preparation">1\. Введение</segment>
+		<segment id="9" parent="373" relname="span">Очень часто исследователь сталкивается с задачей построения алгоритма классификации тех или иных объектов по их форме.</segment>
+		<segment id="10" parent="371" relname="span">Примеров таких задач можно привести множество.</segment>
+		<segment id="11" parent="10" relname="elaboration">Например, анализ формы временного ряда, анализ формы спектрограмм, анализ формы элементов циклических сигналов в медицине, классификация бинарных и полутоновых изображений по форме элементов контуров этих изображений и т.д.</segment>
+		<segment id="12" parent="179" relname="span">Объединяет все эти задачи одно обстоятельство:</segment>
+		<segment id="13" parent="12" relname="cause">все они, в конечном счете, могут быть сведены к задаче классификации формы одной или нескольких дуг кривых в одно-, дву- или трехмерном пространстве координат.</segment>
+		<segment id="14" parent="364" relname="span">В целом ряде статей мы уже рассматривали подходы к решению таких задач</segment>
+		<segment id="15" parent="14" relname="condition">при выделении признаков формы кривых, описывающих те или иные экспериментальные данные [1, 2].</segment>
+		<segment id="16" parent="365" relname="span">В этой статье решено привести обобщение алгоритмического базиса</segment>
+		<segment id="17" parent="16" relname="condition">при предварительной обработке данных,</segment>
+		<segment id="18" parent="365" relname="elaboration">которые могут быть описаны одной или несколькими дугами кривых, для всех случаев пространств координат.</segment>
+		<segment id="19" parent="366" relname="span">Заметим, что описываемые алгоритмы относятся к этапу предварительной обработки исходных данных и построения системы признаков, чувствительных к форме объектов,</segment>
+		<segment id="20" parent="19" relname="purpose">для решения задачи классификации [3, 4].</segment>
+		<segment id="21" parent="325" relname="contrast">Сама же классификация объектов по их форме в данной статье не рассматривается.</segment>
+		<segment id="22" parent="310" relname="preparation">2\. Постановка задачи</segment>
+		<segment id="23" parent="309" relname="span">Итак, пусть в результате некоего физического процесса мы получаем дискретные экспериментальные данные</segment>
+		<segment id="24" parent="187" relname="joint">[формула] для одномерного,</segment>
+		<segment id="25" parent="187" relname="joint">[формула] для двумерного и</segment>
+		<segment id="26" parent="187" relname="joint">[формула] для трехмерного случаев, которые исследователем воспринимаются как дискретные отсчеты некоей дуги кривой одномерной, плоской или пространственной.</segment>
+		<segment id="27" parent="189" relname="same-unit">Исследователю важно классифицировать форму этой дуги</segment>
+		<segment id="28" relname="antithesis">© Вишневский В.В., Калмыков В.Г., Романенко Т.Н., 2015 ISSN 1028-9763. Математичш машини i системи, 2015, № 4</segment>
+		<segment id="29" parent="189" relname="same-unit">кривой,</segment>
+		<segment id="30" parent="190" relname="contrast">но закон ее построения в общем случае не известен.</segment>
+		<segment id="31" parent="193" relname="span">Исходные экспериментальные данные могут быть заменены аналитическими кривыми,</segment>
+		<segment id="32" parent="192" relname="comparison">хорошо совпадающими по форме с кривой исходного контура</segment>
+		<segment id="33" parent="192" relname="comparison">и в то же время инвариантными относительно изменения масштаба, количества измерений, уровня помех.</segment>
+		<segment id="34" parent="194" relname="span">Такие кривые задаются функциями х(к), у(к),</segment>
+		<segment id="35" parent="34" relname="elaboration">которые представляют собой полиномы г -ной степени от параметра к :</segment>
+		<segment id="36" parent="194" relname="elaboration">[формула]</segment>
+		<segment id="37" parent="195" relname="elaboration">Выбор r -ной степени полиномов зависит от сложности аппроксимируемых контуров.</segment>
+		<segment id="38" parent="367" relname="span">Реализация такого подхода</segment>
+		<segment id="39" parent="38" relname="purpose">позволяет отобразить все существенные особенности формы кривой,</segment>
+		<segment id="40" parent="367" relname="condition">исключив влияние помех.</segment>
+		<segment id="41" parent="376" relname="span">Кроме того, вместо описаний контуров в пространстве сигналов можно рассматривать аппроксимирующие их полиномы в пространстве их коэффициентов.</segment>
+		<segment id="42" parent="41" relname="evaluation">Существенным преимуществом такого описания является его инвариантность относительно количества измеренных сигналов в каждом массиве экспериментальных данных.</segment>
+		<segment id="43" parent="332" relname="span">В качестве аппроксимирующего параметрического сплайна можно использовать кривую Безье, канонический сплайн (cardinal spline) [5].</segment>
+		<segment id="44" parent="43" relname="elaboration">В данной работе будет описано применение канонического сплайна третьего порядка.</segment>
+		<segment id="45" parent="200" relname="span">Канонический сплайн - это последовательность полиномов третьего порядка,</segment>
+		<segment id="46" parent="45" relname="elaboration">каждый из которых может быть записан параметрическим уравнением общего вида (2).</segment>
+		<segment id="47" parent="201" relname="sequence">Кривые, соответствующие полиномам, начинаются</segment>
+		<segment id="48" parent="201" relname="sequence">и заканчиваются в управляющих точках,</segment>
+		<segment id="49" parent="313" relname="span">образуя плавную односвязную кривую</segment>
+		<segment id="50" parent="344" relname="span">[(рис. 1)].</segment>
+		<segment id="51" parent="313" relname="elaboration">[формула]</segment>
+		<segment id="52" parent="53" relname="purpose">Для аппроксимации последовательности большого количества экспериментальных данных, являющихся реализацией кривых сложной формы,</segment>
+		<segment id="53" parent="380" relname="span">используют кардинальные кубические сплайны [5, 7].</segment>
+		<segment id="54" parent="207" relname="span">Кардинальные кубические сплайны являются последовательностью N кубических полиномов, которые определяются управляющими точками</segment>
+		<segment id="55" parent="206" relname="joint">[формула]</segment>
+		<segment id="56" parent="206" relname="joint">или [формула] [символ].</segment>
+		<segment id="57" parent="209" relname="same-unit">Каждое значение n в последовательности управляющих точек соответствует некоторому значению тп в</segment>
+		<segment id="58" parent="50" relname="elaboration">[Рис. 1]. Канонический</segment>
+		<segment id="59" parent="209" relname="same-unit">последовательности измерений.</segment>
+		<segment id="60" parent="378" relname="span">Будем рассматривать только сплайн корректные последовательности управляющих точек.</segment>
+		<segment id="61" parent="210" relname="span">Под кор- ректной последовательностью будем понимать такую последовательность,</segment>
+		<segment id="62" parent="61" relname="condition">при которой выполняется условие mn &lt; mn+1.</segment>
+		<segment id="63" parent="340" relname="span">Количество полиномов в последовательности определяется сложностью формы аппроксимируемой экспериментальной кривой.</segment>
+		<segment id="64" parent="63" relname="elaboration">Последовательность полиномов [формула] соответствует каждой из пространственных координат.</segment>
+		<segment id="65" parent="212" relname="span">Коэффициенты каждого из полиномов в последовательности, например, для координаты [формула], определяются значениями в управляющих точках</segment>
+		<segment id="66" parent="214" relname="span">[формула]</segment>
+		<segment id="67" parent="213" relname="span">где Т - натяжение</segment>
+		<segment id="68" parent="67" relname="condition">(при Т = 0 кривая вырождается в прямую).</segment>
+		<segment id="69" parent="214" relname="condition">Для большинства практических применений используют значение Т =0,5.</segment>
+		<segment id="70" parent="217" relname="preparation">Для незамкнутых кривых при [формула].</segment>
+		<segment id="71" parent="216" relname="restatement">Для аппроксимируемой последовательности экспериментальных данных находят такую кривую, которая наилучшим образом отображает ее форму,</segment>
+		<segment id="72" parent="216" relname="restatement">а это значит, что вычисляют координаты управляющих точек этой кривой и, следовательно, коэффициенты сплайна.</segment>
+		<segment id="73" parent="217" relname="span">В результате последовательность экспериментальных данных будет представлена вектором V, компонентами которого являются коэффициенты канонического сплайна (4).</segment>
+		<segment id="74" parent="343" relname="preparation">В качестве меры сходства аппроксимирующего сплайна и последовательности экспериментальных данных будем использовать оценку площади фигуры, ограниченной контуром, образованным расчетной кривой и ломаной линией, последовательно соединяющей экспериментальные данные (О, Р).</segment>
+		<segment id="75" parent="223" relname="same-unit">Тогда поиск сплайна, наилучшим образом аппроксимирующего последовательность экспериментальных данных, можно рассматривать как вычисление оптимальных</segment>
+		<segment id="76" parent="219" relname="span">коэффициентов vopt,</segment>
+		<segment id="77" parent="76" relname="condition">при которых минимизируется значение оценки площади (5).</segment>
+		<segment id="78" parent="225" relname="span">[формула]</segment>
+		<segment id="79" parent="221" relname="joint">где О - последовательность экспериментальных данных gm (х, у);</segment>
+		<segment id="80" parent="221" relname="joint">Р - точки аппроксимирующего сплайна рт (хрт, урт);</segment>
+		<segment id="81" parent="221" relname="joint">т = 0,М,</segment>
+		<segment id="82" parent="221" relname="joint">М - количество отсчетов в последовательности экспериментальных данных.</segment>
+		<segment id="83" parent="226" relname="condition">Минимизация указанной меры сходства (5) достигается методом градиентного спуска [6].</segment>
+		<segment id="84" parent="350" relname="span">Общий алгоритм итерационной процедуры аппроксимации экспериментальных данных параметрическими сплайнами с использованием итерационного метода градиентного спуска представлен на [рис. 2].</segment>
+		<segment id="85" parent="346" relname="condition">На старте алгоритма имеем произвольное приближение сплайна к последовательности экспериментальных точек.</segment>
+		<segment id="86" parent="229" relname="sequence">Оцениваем меру сходства</segment>
+		<segment id="87" parent="229" relname="sequence">и производим шаг градиентного спуска по одному из возможных направлений.</segment>
+		<segment id="88" parent="229" relname="sequence">Снова оцениваем меру сходства</segment>
+		<segment id="89" parent="229" relname="sequence">и делаем шаг в другом направлении градиентного спуска.</segment>
+		<segment id="90" parent="231" relname="span">Такая процедура выполняется до тех пор,</segment>
+		<segment id="91" parent="90" relname="condition">пока величина изменения меры сходства становится меньше некоторого заранее заданного значения е.</segment>
+		<segment id="92" parent="232" relname="condition">Возможная ситуация с отсутствием сходимости итерационного алгоритма блокируется заранее заданным максимальным количеством итераций. V</segment>
+		<segment id="93" parent="252" relname="preparation">3\. Аппроксимация одномерной последовательности экспериментальных данных</segment>
+		<segment id="94" parent="236" relname="span">Одномерную последовательность получим в том случае,</segment>
+		<segment id="95" parent="94" relname="condition">если экспериментальные данные будут представлены в виде последовательности измерений или таблицы, в которой с каждым отсчетом (или индексом в таблице) связано одно значение интересующей величины.</segment>
+		<segment id="96" parent="236" relname="elaboration">Примером таких данных могут быть измерения температуры воздуха или атмосферного давления через равные промежутки времени, измерения оптической плотности через рав- ные интервалы длин волн и т.п.</segment>
+		<segment id="97" parent="238" relname="joint">Ось ординат тогда будет отображать интересующую величину,</segment>
+		<segment id="98" parent="238" relname="joint">а ось абсцисс - номера отсчетов (или моменты времени измерений, длины волн для вышеприведенных примеров).</segment>
+		<segment id="99" parent="349" relname="elaboration">Характерным для такой дуги является ее однозначность относительно оси абсцисс.</segment>
+		<segment id="100" parent="240" relname="span">В этом случае вектор управляющих точек сплайна будет выглядеть как</segment>
+		<segment id="101" parent="100" relname="elaboration">(6) V ® (Л, К }. (6)</segment>
+		<segment id="102" parent="84" relname="elaboration">Рис. 2. Схема алгоритма аппроксимации экспериментальных данных параметрическими сплайнами</segment>
+		<segment id="103" parent="353" relname="span">На рис. 3 представлена иллюстрация работы алгоритма аппроксимации одномерной последовательности экспериментальных данных в наглядном виде.</segment>
+		<segment id="104" parent="244" relname="span">Начальное положение аппроксимирующей кривой</segment>
+		<segment id="105" parent="104" relname="elaboration">[формула]</segment>
+		<segment id="106" parent="245" relname="span">Точки на аппроксимирующей кривой Рп с шагом</segment>
+		<segment id="107" parent="106" relname="elaboration">[формула]</segment>
+		<segment id="108" parent="246" relname="span">Аппроксимируемая последовательность</segment>
+		<segment id="109" parent="108" relname="elaboration">[формула]</segment>
+		<segment id="110" parent="103" relname="elaboration">[Рис. 3]. Аппроксимация одномерной последовательности экспериментальных данных</segment>
+		<segment id="111" parent="319" relname="preparation">4\. Экспериментальная проверка алгоритма</segment>
+		<segment id="112" parent="254" relname="span">Алгоритм был экспериментально проверен для более 1000 реальных графиков спектрограмм медицинских препаратов крови,</segment>
+		<segment id="113" parent="112" relname="elaboration">полученных по методу «Онкотест» [2].</segment>
+		<segment id="114" parent="354" relname="span">На [рис. 4] представлены примеры аппроксимации спектрограмм.</segment>
+		<segment id="115" parent="255" relname="joint">Как видно из рисунка, по оси абсцисс отображена длина волны,</segment>
+		<segment id="116" parent="318" relname="span">причем интервалы между отдельными отсчетами по этой оси равны,</segment>
+		<segment id="117" parent="116" relname="purpose">что позволяет заменить значения длины волны на номер отсчета и рассматривать спектрограмму как пример одномерной последовательности экспериментальных данных.</segment>
+		<segment id="118" parent="114" relname="elaboration">[Рис. 4]. Примеры аппроксимации спектрограмм каноническими сплайнами</segment>
+		<segment id="119" parent="272" relname="preparation">5\. Аппроксимация двумерной последовательности экспериментальных данных</segment>
+		<segment id="120" parent="261" relname="span">Двумерную последовательность получим,</segment>
+		<segment id="121" parent="120" relname="condition">если экспериментальные данные представлены в виде таблицы, в которой с каждым отсчетом (или индексом) связана пара значений интересующих величин.</segment>
+		<segment id="122" parent="263" relname="span">Как пример такой последовательности может быть приведен плоский контур (контур бинарного изображения).</segment>
+		<segment id="123" parent="262" relname="span">В этом случае вектор управляющих точек сплайна будет выглядеть как (7)</segment>
+		<segment id="124" parent="123" relname="elaboration">[символ]}. (7)</segment>
+		<segment id="125" parent="357" relname="span">На рис. 5 представлена иллюстрация работы алгоритма аппроксимации двумерной последовательности экспериментальных данных в наглядном виде.</segment>
+		<segment id="126" parent="267" relname="span">Аппроксимируемый контур</segment>
+		<segment id="127" parent="126" relname="elaboration">[формула]</segment>
+		<segment id="128" parent="268" relname="span">Точки на аппроксимирующей кривой Рп - с шагом</segment>
+		<segment id="129" parent="128" relname="elaboration">[формула]</segment>
+		<segment id="130" parent="269" relname="span">Минимизируемый параметр</segment>
+		<segment id="131" parent="130" relname="elaboration">[формула]</segment>
+		<segment id="132" parent="125" relname="elaboration">[Рис. 5]. Аппроксимация двумерной последовательности экспериментальных данных</segment>
+		<segment id="133" parent="360" relname="preparation">6\. Экспериментальная проверка алгоритма</segment>
+		<segment id="134" parent="274" relname="joint">Алгоритм был использован для аппроксимации двумерных контуров,</segment>
+		<segment id="135" parent="358" relname="span">некоторые результаты представлены на [рис. 6].</segment>
+		<segment id="136" parent="275" relname="joint">В данном случае каждый отсчет последовательности экспериментальных данных характеризуется двумя значениями - по оси абсцисс и по оси ординат,</segment>
+		<segment id="137" parent="275" relname="joint">кроме того, такой контур не является односвязным по оси абсцисс,</segment>
+		<segment id="138" parent="276" relname="span">поэтому его можно рассматривать при аппроксимации как пример двумерной последовательности.</segment>
+		<segment id="139" parent="135" relname="elaboration">[Рис. 6]. Примеры аппроксимации двумерных контуров каноническими сплайнами</segment>
+		<segment id="140" parent="292" relname="preparation">7\. Аппроксимация трехмерной последовательности экспериментальных данных</segment>
+		<segment id="141" parent="280" relname="span">Трехмерную последовательность получим,</segment>
+		<segment id="142" parent="141" relname="condition">если экспериментальные данные представлены в виде таблицы, в которой с каждым отсчетом (или индексом) связана тройка значений интересующих величин.</segment>
+		<segment id="143" parent="286" relname="joint">Как пример можно привести электрокардиограмму в трех ортогональных отведениях [8].</segment>
+		<segment id="144" parent="285" relname="span">В этом случае вектор коэффициентов сплайна будет выглядеть как</segment>
+		<segment id="145" parent="288" relname="span">(8) [формула]. (8)</segment>
+		<segment id="146" parent="281" relname="span">Начальное положение аппроксимирующей кривой</segment>
+		<segment id="147" parent="146" relname="elaboration">[формула]</segment>
+		<segment id="148" parent="282" relname="span">Аппроксимируемая дуга</segment>
+		<segment id="149" parent="148" relname="elaboration">[формула]</segment>
+		<segment id="150" parent="283" relname="span">Точки на аппроксимирующей кривой Рп - с шагом</segment>
+		<segment id="151" parent="150" relname="elaboration">[формула]</segment>
+		<segment id="152" parent="362" relname="preparation">На [рис. 7] представлен алгоритм аппроксимации трехмерной последовательности экспериментальных данных (трехмерной дуги) в наглядном виде.</segment>
+		<segment id="153" parent="312" relname="restatement">В случае трехмерной последовательности каждый отсчет экспериментальных данных и каждая точка аппроксимирующего сплайна характеризуются тремя координатами.</segment>
+		<segment id="154" parent="155" relname="cause">Иными словами, и эксперимен- тальные данные, и аппроксимирующий сплайн представляют собой трехмерные дуги.</segment>
+		<segment id="155" parent="289" relname="span">Тогда в качестве меры их сходства нужно использовать оценку площади поверхности, ограниченной этими двумя пространственными кривыми.</segment>
+		<segment id="156" parent="303" relname="preparation">8\. Экспериментальная проверка алгоритма</segment>
+		<segment id="157" parent="301" relname="joint">Алгоритм был использован для аппроксимации электрокардиограмм в ортогональных отведениях.</segment>
+		<segment id="158" parent="299" relname="cause">Так как каждый отсчет такой электрокардиограммы характеризуется тремя значениями,</segment>
+		<segment id="159" parent="299" relname="span">ее можно использовать при аппроксимации как пример трехмерной последовательности экспериментальных данных (трехмерной дуги). На [рис. 8] изображена часть электрокардиограммы в виде трехмерной дуги,</segment>
+		<segment id="160" parent="298" relname="joint">построенная по трем ортогональным отведениям,</segment>
+		<segment id="161" parent="298" relname="joint">и аппроксимирующий ее канонический сплайн.</segment>
+		<segment id="162" parent="300" relname="elaboration">На [рис. 9] приведены две аппроксимированные каноническими сплайнами электрокардиограммы в ортогональных отведениях для различных пациентов.</segment>
+		<segment id="163" parent="296" relname="preparation">9\. Заключение</segment>
+		<segment id="164" parent="295" relname="joint">Предложенный алгоритм позволяет вычислить коэффициенты параметрического сплайна, аппроксимирующего последовательности экспериментальных данных и может быть использован для одно-, дву- и трехмерного случаев представления исходных экспериментальных данных.</segment>
+		<segment id="165" parent="369" relname="span">Применение данного алгоритма</segment>
+		<segment id="166" parent="165" relname="purpose">для предварительной обработки исходных данных</segment>
+		<segment id="167" parent="369" relname="purpose">позволяет построить систему признаков, чувствительных к форме объекта, которую удобно применять при решении задач классификации.</segment>
+		<segment id="168" parent="169" relname="preparation">СПИСОК ЛИТЕРАТУРЫ</segment>
+		<segment id="169" relname="antithesis">1\. Вишневский В.В. Аппроксимация экспериментальных данных кривыми Безье / В.В. Вишневский, В.Г. Калмыков, Т.Н. Романенко // XIII-th International Conference KDS-2007. -Varna, Bulgaria, 2007. - June. - P. 3 - 9. 2\. Вишневский В.В. Программно-аппаратный комплекс «0нкотест^М-01» / В.В. Вишневский, В.А. Владимиров, Т.Н. Романенко // Тезисы доклада II международной школы-семинара «Телемедицина - опыт и перспективы». - Донецк, 2006. - Т. 4, № 2. - С. 62 - 65. 3\. Вишневський В.В. Бюметрична щентифшащя за допомогою електрокардюграми / В.В. Вишневський, Т.М. Романенко, Л.А. Юзуб // V мiжнар. наук.-практ. конф. "1нформацшш технологи та комп'ютерна iнженерiя" 1ТК1 2015. - !вано-Франювськ, 2015. - С. 130 - 131. 4\. Вишневський В.В. Бюметрична iдентифiкацiя людини за електрокардiограмою / В.В. Вишневський, Т.М. Романенко, Л.А. Юзуб // III мiжнар. наук.-практ. конф. "Обчислювальний iнтелект (результати, проблеми, перспективи)" ComInt 2015. - Черкаси, 2015. - С. 295. 5\. Петцольд Ч. Программирование для Microsoft Windows на C#: в 2-х т. / Петцольд Ч.; пер. с англ. - М.: Русская редакция, 2002. - Т. 2. - С. 632 - 641. 6\. Корн Г. Справочник по математике / Г. Корн, Т. Корн. - М.: Наука, 1974. - С. 660 - 661. 7\. Vishnevskey V. Approximation of Planar and Spatial Experimental Curves by Splines that are Defined Parametrically / V. Vishnevskey, T. Romanenko, V. Kalmykov // Proc. of the international conference on applications of information and communication technology and statistics in economy and education ICAICTSEE-2014. - UNVE, Sofia, Bulgaria, 2014. - Ortober 24-25th. - P. 236 - 240. 8\. Орлов В.Н. Руководство по электрокардиографии / Орлов В.Н. - М.: Медицинское информационное агентство, 2012. - С. 58. Стаття над1шла до редакцИ' 24.09.2015 </segment>
+		<group id="171" type="span" parent="186" relname="preparation"/>
+		<group id="179" type="span" parent="372" relname="joint"/>
+		<group id="182" type="span" parent="183" relname="joint"/>
+		<group id="183" type="multinuc" parent="327" relname="span"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" relname="antithesis"/>
+		<group id="187" type="multinuc" parent="23" relname="condition"/>
+		<group id="189" type="multinuc" parent="190" relname="contrast"/>
+		<group id="190" type="multinuc" parent="308" relname="span"/>
+		<group id="192" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="193" type="span" parent="374" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="328" relname="span"/>
+		<group id="200" type="span" parent="334" relname="preparation"/>
+		<group id="201" type="multinuc" parent="333" relname="cause"/>
+		<group id="206" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="207" type="span" parent="337" relname="span"/>
+		<group id="209" type="multinuc" parent="378" relname="cause"/>
+		<group id="210" type="span" parent="339" relname="span"/>
+		<group id="212" type="span" parent="340" relname="elaboration"/>
+		<group id="213" type="span" parent="66" relname="elaboration"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="65" relname="elaboration"/>
+		<group id="216" type="multinuc" parent="73" relname="cause"/>
+		<group id="217" type="span" parent="341" relname="span"/>
+		<group id="219" type="span" parent="223" relname="same-unit"/>
+		<group id="221" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="223" type="multinuc" parent="227" relname="span"/>
+		<group id="225" type="span" parent="227" relname="elaboration"/>
+		<group id="226" type="span" parent="343" relname="span"/>
+		<group id="227" type="span" parent="226" relname="span"/>
+		<group id="229" type="multinuc" parent="346" relname="span"/>
+		<group id="230" type="span" parent="231" relname="evidence"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="345" relname="span"/>
+		<group id="236" type="span" parent="237" relname="span"/>
+		<group id="237" type="span" parent="239" relname="span"/>
+		<group id="238" type="multinuc" parent="349" relname="span"/>
+		<group id="239" type="span" parent="243" relname="joint"/>
+		<group id="240" type="span" parent="279" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="243" relname="joint"/>
+		<group id="243" type="multinuc" parent="251" relname="joint"/>
+		<group id="244" type="span" parent="247" relname="joint"/>
+		<group id="245" type="span" parent="247" relname="joint"/>
+		<group id="246" type="span" parent="247" relname="joint"/>
+		<group id="247" type="multinuc" parent="351" relname="span"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" relname="antithesis"/>
+		<group id="254" type="span" parent="317" relname="span"/>
+		<group id="255" type="multinuc" parent="355" relname="span"/>
+		<group id="261" type="span" parent="264" relname="span"/>
+		<group id="262" type="span" parent="122" relname="elaboration"/>
+		<group id="263" type="span" parent="261" relname="elaboration"/>
+		<group id="264" type="span" parent="323" relname="span"/>
+		<group id="265" type="multinuc" parent="272" relname="span"/>
+		<group id="266" type="multinuc" parent="270" relname="span"/>
+		<group id="267" type="span" parent="266" relname="joint"/>
+		<group id="268" type="span" parent="266" relname="joint"/>
+		<group id="269" type="span" parent="266" relname="joint"/>
+		<group id="270" type="span" parent="265" relname="joint"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" relname="antithesis"/>
+		<group id="274" type="multinuc" parent="359" relname="preparation"/>
+		<group id="275" type="multinuc" parent="138" relname="evidence"/>
+		<group id="276" type="span" parent="359" relname="span"/>
+		<group id="279" type="span" parent="241" relname="elaboration"/>
+		<group id="280" type="span" parent="287" relname="span"/>
+		<group id="281" type="span" parent="284" relname="joint"/>
+		<group id="282" type="span" parent="284" relname="joint"/>
+		<group id="283" type="span" parent="284" relname="joint"/>
+		<group id="284" type="multinuc" parent="145" relname="elaboration"/>
+		<group id="285" type="span" parent="286" relname="joint"/>
+		<group id="286" type="multinuc" parent="280" relname="elaboration"/>
+		<group id="287" type="span" parent="291" relname="joint"/>
+		<group id="288" type="span" parent="144" relname="elaboration"/>
+		<group id="289" type="span" parent="312" relname="restatement"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" relname="antithesis"/>
+		<group id="295" type="multinuc" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" relname="antithesis"/>
+		<group id="298" type="multinuc" parent="159" relname="elaboration"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="302" relname="span"/>
+		<group id="301" type="multinuc" parent="303" relname="span"/>
+		<group id="302" type="span" parent="301" relname="joint"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" relname="antithesis"/>
+		<group id="308" type="span" parent="310" relname="span"/>
+		<group id="309" type="span" parent="308" relname="condition"/>
+		<group id="310" type="span" parent="348" relname="span"/>
+		<group id="312" type="multinuc" parent="362" relname="span"/>
+		<group id="313" type="span" parent="333" relname="span"/>
+		<group id="315" type="span" parent="3" relname="attribution"/>
+		<group id="317" type="span" parent="319" relname="span"/>
+		<group id="318" type="span" parent="255" relname="joint"/>
+		<group id="319" type="span" parent="320" relname="span"/>
+		<group id="320" type="span" relname="antithesis"/>
+		<group id="323" type="span" parent="265" relname="joint"/>
+		<group id="325" type="multinuc" parent="183" relname="joint"/>
+		<group id="326" type="span" parent="184" relname="joint"/>
+		<group id="327" type="span" parent="326" relname="span"/>
+		<group id="328" type="span" parent="193" relname="elaboration"/>
+		<group id="332" type="span" parent="376" relname="elaboration"/>
+		<group id="333" type="span" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" relname="antithesis"/>
+		<group id="336" type="span" relname="antithesis"/>
+		<group id="337" type="span" parent="336" relname="span"/>
+		<group id="338" type="span" parent="207" relname="elaboration"/>
+		<group id="339" type="span" parent="60" relname="elaboration"/>
+		<group id="340" type="span" parent="379" relname="span"/>
+		<group id="341" type="span" relname="antithesis"/>
+		<group id="342" type="span" relname="antithesis"/>
+		<group id="343" type="span" parent="342" relname="span"/>
+		<group id="344" type="span" parent="49" relname="elaboration"/>
+		<group id="345" type="span" parent="347" relname="span"/>
+		<group id="346" type="span" parent="230" relname="span"/>
+		<group id="347" type="span" relname="antithesis"/>
+		<group id="348" type="span" relname="antithesis"/>
+		<group id="349" type="span" parent="241" relname="span"/>
+		<group id="350" type="span" parent="345" relname="preparation"/>
+		<group id="351" type="span" parent="352" relname="span"/>
+		<group id="352" type="span" parent="251" relname="joint"/>
+		<group id="353" type="span" parent="351" relname="preparation"/>
+		<group id="354" type="span" parent="355" relname="evidence"/>
+		<group id="355" type="span" parent="356" relname="span"/>
+		<group id="356" type="span" parent="317" relname="elaboration"/>
+		<group id="357" type="span" parent="264" relname="elaboration"/>
+		<group id="358" type="span" parent="274" relname="joint"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" relname="antithesis"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="291" relname="joint"/>
+		<group id="364" type="span" parent="327" relname="preparation"/>
+		<group id="365" type="span" parent="182" relname="span"/>
+		<group id="366" type="span" parent="325" relname="contrast"/>
+		<group id="367" type="span" parent="368" relname="span"/>
+		<group id="368" type="span" parent="375" relname="joint"/>
+		<group id="369" type="span" parent="370" relname="span"/>
+		<group id="370" type="span" parent="295" relname="joint"/>
+		<group id="371" type="span" parent="372" relname="joint"/>
+		<group id="372" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="373" type="span" parent="184" relname="joint"/>
+		<group id="374" type="span" relname="antithesis"/>
+		<group id="375" type="multinuc" relname="antithesis"/>
+		<group id="376" type="span" parent="377" relname="span"/>
+		<group id="377" type="span" parent="375" relname="joint"/>
+		<group id="378" type="span" parent="338" relname="span"/>
+		<group id="379" type="span" parent="210" relname="elaboration"/>
+		<group id="380" type="span" parent="337" relname="preparation"/>
+  </body>
+</rst>

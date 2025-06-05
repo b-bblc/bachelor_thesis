@@ -1,0 +1,152 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Сер. 9. 2007. Вып. 2. Ч. II</segment>
+		<segment id="2" relname="antithesis">ВЕСТНИК САНКТ-ПЕТЕРБУРГСКОГО УНИВЕРСИТЕТА</segment>
+		<segment id="3" relname="antithesis">H.H. Маслова</segment>
+		<segment id="4" relname="antithesis">ТЕРМИНОЭЛЕМЕНТ КАК ОСНОВА КЛАССИФИКАЦИИ МЕДИЦИНСКИХ ТЕРМИНОВ</segment>
+		<segment id="5" parent="72" relname="span">Целенаправленный характер терминологической номинации, конкретные ономасиологические потребности диктуют выбор наиболее оптимальных способов языкового выражения понятий, располагающих специальной информацией.</segment>
+		<segment id="6" parent="7" relname="purpose">Для терминологической номинации</segment>
+		<segment id="7" parent="120" relname="span">существенными являются языковые единицы разных уровней: морфемы, слова, словосочетания, а также регулярная повторяемость терминообразующих средств для выражения близких понятий определенной профессионально-научной отрасли.</segment>
+		<segment id="8" parent="73" relname="contrast">В терминологических системах языка медицины, в частности в кардиологии и пульмонологии, в качестве одного из возможных терминоэлементов может рассматриваться морфема - особая единица языка, определяемая как минимальный знак, в котором за определенной фонетической формой (означающим) закреплено содержание (означаемое) и которая не членится на более мелкие единицы того же рода1.</segment>
+		<segment id="9" parent="73" relname="contrast">Но в качестве терминоэлементов выступают не все морфемы, вычленяемые в термине, а лишь те, которые обусловлены признаком терминируемого понятия.</segment>
+		<segment id="10" relname="antithesis">Понятия этиологии, анатомии, физиологии и морфологии и их признаки получают в терминосистемах «кардиология» и «пульмонология» эксплицитное выражение в терми-ноэлементах, которые могут быть выделены в ходе анализа по непосредственно составляющим и последующей проверки результатов членения методом компонентного анализа.</segment>
+		<segment id="11" parent="12" relname="evaluation">Представляется очевидным,</segment>
+		<segment id="12" parent="75" relname="span">что наиболее четко осознается мотивированность звуковых комплексов, состоящих из регулярных терминоэлементов.</segment>
+		<segment id="13" parent="76" relname="span">В медицинской терминологии такими являются, как уже отмечалось, классические терминоэлементы, взятые из древнегреческого языка и латыни.</segment>
+		<segment id="14" parent="77" relname="span">Рассмотрим инвентарь морфемных терминоэлементов частных терминологических микротерминосистем - названий кардиологических и пульмонологических заболеваний и патологических процессов, образующих семантические поля.</segment>
+		<segment id="15" parent="14" relname="elaboration">В кардиологической тер-миносистеме данный инвентарь представлен корневой морфемой кард- - 'сердце'.</segment>
+		<segment id="16" parent="17" relname="cause">Эта морфема является основанием для образования терминов доминантной группы семантического поля «болезни и патологические процессы кардиологии»,</segment>
+		<segment id="17" parent="78" relname="span">в них всегда присутствует указание на признак понятия анатомии сердца.</segment>
+		<segment id="18" parent="78" relname="evidence">Например: стенокардия, перикардит, кардиомиопатия и т. д.</segment>
+		<segment id="19" parent="80" relname="span">Функцию мотивирующих терминоэлементов доминант указанного семантического поля могут выполнять и другие корневые морфемы греко-латинского происхождения,</segment>
+		<segment id="20" parent="19" relname="elaboration">например: мио- (греч, 'мышца'), пат- (греч. 'болезнь, страдание'), бради- (греч. 'медленный'), тахи- (греч. 'быстрый'), пери- (греч. 'снаружи'), стеноз- (греч. 'сужение') и т. п.</segment>
+		<segment id="21" parent="80" relname="elaboration">Они широко используются в сложных словах - доминантах составного термина, часто в соединении друг с другом, например: кардиомиопатия, брадикардия, стенокардия и т. д.</segment>
+		<segment id="22" parent="83" relname="same-unit">В пульмонологической терминосистеме инвентарь морфемных терминоэлементов, используемых для создания терминов, называющих болезни и патологические</segment>
+		<segment id="23" relname="antithesis">© H.H. Маслова, 2007</segment>
+		<segment id="24" parent="83" relname="same-unit">процессы, представлен корневыми морфемами пневм - легкое, бронх - дыхательное горло, плевр - оболочка легкого.</segment>
+		<segment id="25" parent="85" relname="span">Указанные морфемы являются основанием для образования терминов-доминант семантической группы «болезни и патологические состояния бронхо-легочного аппарата».</segment>
+		<segment id="26" parent="86" relname="span">В них присутствует указание на признак понятия анатомии бронхо- легочного аппарата.</segment>
+		<segment id="27" parent="26" relname="elaboration">Функцию мотивирующих терминоэлементов данной группы терминов-доминант могут выполнять и такие корневые морфемы, какмио- (гр. 'мышца'), эктаз- (гр. 'расширение'), склероз- (гр. 'уплотнение').</segment>
+		<segment id="28" parent="87" relname="sequence">Из морфемных терминоэлементов конструируются слова,</segment>
+		<segment id="29" parent="87" relname="sequence">а на их основе - составные термины.</segment>
+		<segment id="30" parent="89" relname="span">Сконструированные из терминоэлементов-морфем, термины-слова содержат несколько признаков понятия.</segment>
+		<segment id="31" parent="89" relname="elaboration">Например, бронхоэктаз: бронх - греч. корневая морфема «дыхательное горло», эктаз - греч.корневая морфема «расширение», т. о, бронхоэктаз - расширение ограниченных участков бронхов; эндокрадит: эндо - греч. корневая морфема «внутри», кард - греч. корневая морфема «сердце», ит - греч. суф. морфема со значением «воспалительный процесс», т. о,, эндокардит - воспаление внутренней оболочки сердца.</segment>
+		<segment id="32" parent="122" relname="span">Данные корневые морфемы, соединяясь, используются в сложных словах-терминах,</segment>
+		<segment id="33" parent="32" relname="elaboration">например: пневмосклероз, бронхоэктаз, плеврит и т. п.</segment>
+		<segment id="34" parent="35" relname="condition">При рассмотрении корневых морфем в качестве терминоэлементов кардиологической и пульмонологической терминосистем - названий болезней и патологических процессов сердца и бронхо-легочного аппарата -</segment>
+		<segment id="35" parent="123" relname="span">отмечается их семантическая неоднородность.</segment>
+		<segment id="36" parent="91" relname="comparison">Так, если корневая морфема кард- или пневм- называют анатомическое понятие, обозначающее орган, с заболеванием которого связана исследуемая система,</segment>
+		<segment id="37" parent="91" relname="comparison">то другие корневые морфемы {мио-, бради-, тахи-, стеноз-, эктаз-, склероз-) указывают не на орган, а на ткань, состояние, качество, свойство, связанное с отклонением от нормы в функционировании или структуре органа.</segment>
+		<segment id="38" parent="92" relname="joint">Они являются элементами понятий общей патологии</segment>
+		<segment id="39" parent="92" relname="joint">и в данных терминосистемах выражают более общие признаковые понятия.</segment>
+		<segment id="40" parent="41" relname="purpose">Для обозначения патологического процесса в органе</segment>
+		<segment id="41" parent="125" relname="span"> используются не только корневые, но и суффиксальные морфемы греко-латинского происхождения.</segment>
+		<segment id="42" parent="99" relname="span">Греческая по происхождению суффиксальная морфема -ит- используется в медицинской терминологии со значением «воспалительный процесс».</segment>
+		<segment id="43" parent="42" relname="elaboration">Например: миокардит (воспаление миокарда - сердечной мышцы), эндокардит, бронхит, плеврит и т. п.</segment>
+		<segment id="44" parent="98" relname="span">Греческая суффиксальная морфема -оз- имеет значение «патологическое состояние невоспалительного характера».</segment>
+		<segment id="45" parent="44" relname="elaboration">Например: миокардоз (общее название заболеваний сердечной мышцы), алъвеококкоз и т. п.</segment>
+		<segment id="46" parent="102" relname="span">Греческая суффиксальная морфема -ома- имеет строго обусловленное содержание «новообразование, опухоль».</segment>
+		<segment id="47" parent="46" relname="elaboration">Например: лейомиома, саркома и т. п.</segment>
+		<segment id="48" parent="103" relname="span">В функции терминоэлементов, указывающих на наличие патологического процесса в органе, употребляются греческие и латинские префиксальные морфемы со значением «отсутствие признака или качества» - греч. а-, лат. du-,</segment>
+		<segment id="49" parent="48" relname="elaboration">например, аритмия (нарушение функции), греч. дис~; например, дистрофия (нарушение питания).</segment>
+		<segment id="50" parent="51" relname="background">В медицинских терминах отмечается не только строгая закрепленность значения за определенным терминоэлементом, но и его закрепленность в определенной позиции в термине2,3.</segment>
+		<segment id="51" parent="104" relname="span">В зависимости от занимаемого термином положения, некоторые исследователи выделяют терминоэлементы начальные, срединные и конечные3.</segment>
+		<segment id="52" parent="109" relname="span">С семантической точки зрения все композиты можно описать как результат такого взаимодействия значений предыдущего и последующего элементов,</segment>
+		<segment id="53" parent="107" relname="contrast">в котором второй терминоэлемент образует опорное понятие,</segment>
+		<segment id="54" parent="105" relname="joint">а предшествующий ему терминоэлемент характеризует,</segment>
+		<segment id="55" parent="105" relname="joint">субкатегоризирует этот опорный терминоэлемент.</segment>
+		<segment id="56" parent="109" relname="elaboration">Предыдущие (первые) терминоэлементы указывают на признак того процесса, явления, которые названы вторым терминоэлементом4.</segment>
+		<segment id="57" parent="127" relname="span">В исследуемых терминосистемах функции терминоэлементов, представленных корневыми и аффиксальными морфемами, в семантике доминантного термина-слова неоднородны.</segment>
+		<segment id="58" parent="111" relname="joint">Терминоэлемент в финальной позиции образует опорное понятие процесса,</segment>
+		<segment id="59" parent="111" relname="joint">в дефиниции соотносится с родовым признаком.</segment>
+		<segment id="60" parent="117" relname="span">Например, терминоэлемент -um в составе терминов-доминант перикардит, бронхит.</segment>
+		<segment id="61" parent="115" relname="joint">В данных терминах суффиксальная морфема -um греческого происхождения, содержащая закрепленное значение «воспалительный процесс», объединяет все указанные термины в одну понятийную группу - «относящийся к воспалительному процессу».</segment>
+		<segment id="62" parent="115" relname="joint">Это опорное понятие приобретает индивидуальные признаки за счет начального терминоэлемента, выражающего признаки анатомии сердца и бронхо-легочного аппарата, в указанном случае - корневой морфемы перикард- (околосердечный) и корневой морфемы бронх- (дыхательное горло).</segment>
+		<segment id="63" parent="115" relname="joint">Корневой терминоэлемент в данном случае выполняет функцию конкретизации и уточнения.</segment>
+		<segment id="64" parent="65" relname="cause">Таким образом, терминоэлементы могут вступать не только в синтагматические, но и в парадигматические отношения, создавая терминообразовательные парадигмы,</segment>
+		<segment id="65" parent="114" relname="span">что служит важным фактором системной организации частноотраслевой терминологии.</segment>
+		<segment id="66" relname="antithesis">1 Маслов Ю.С. О некоторых расхождениях в понимании термина «морфема» // Проблемы языкознания. М., 1961. С. 10-17.</segment>
+		<segment id="67" relname="antithesis">2 Чернявский М. Н. Краткий очерк истории и проблемы упорядочения медицинской терминологии // Энциклопедический словарь медицинских терминов: В 3 т. Т. III. М., 1984. С. 415; Казарина С.Г. О типологических исследованиях в терминоведении // Филологические науки. 1998. Вып. 3. С. 81.</segment>
+		<segment id="68" relname="antithesis">3 Власова А. О. Структурно-семантическая характеристика психиатрической терминологии русского языка: Авто-реф. канд. дис. Л., 1988. С. 12.</segment>
+		<segment id="69" relname="antithesis">4Казарина С.Г. О типологических исследованиях в терминоведении // Филологические науки. 1998. Вып. 3. С. 81-83.</segment>
+		<segment id="70" relname="antithesis">Статья принята к печати 8 ноября 2006 г</segment>
+		<segment id="71" relname="antithesis"></segment>
+		<group id="72" type="span" relname="antithesis"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="74" type="span" relname="antithesis"/>
+		<group id="75" type="span" parent="13" relname="background"/>
+		<group id="76" type="span" relname="antithesis"/>
+		<group id="77" type="span" relname="antithesis"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="79" type="span" relname="antithesis"/>
+		<group id="80" type="span" parent="121" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="span"/>
+		<group id="84" type="span" relname="antithesis"/>
+		<group id="85" type="span" relname="antithesis"/>
+		<group id="86" type="span" parent="25" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="88" type="span" parent="30" relname="background"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="90" type="span" relname="antithesis"/>
+		<group id="91" type="multinuc" parent="94" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="93" type="span" parent="95" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="95" type="multinuc" parent="124" relname="span"/>
+		<group id="98" type="span" parent="100" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="101" type="span" parent="125" relname="elaboration"/>
+		<group id="102" type="span" parent="100" relname="joint"/>
+		<group id="103" type="span" relname="antithesis"/>
+		<group id="104" type="span" relname="antithesis"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="contrast"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="108" type="span" parent="52" relname="elaboration"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="110" type="span" relname="antithesis"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="113" type="span" parent="57" relname="elaboration"/>
+		<group id="114" type="span" relname="antithesis"/>
+		<group id="115" type="multinuc" parent="118" relname="span"/>
+		<group id="117" type="span" parent="119" relname="span"/>
+		<group id="118" type="span" parent="117" relname="elaboration"/>
+		<group id="119" type="span" parent="112" relname="elaboration"/>
+		<group id="120" type="span" parent="5" relname="elaboration"/>
+		<group id="121" type="span" relname="antithesis"/>
+		<group id="122" type="span" relname="antithesis"/>
+		<group id="123" type="span" parent="128" relname="span"/>
+		<group id="124" type="span" parent="123" relname="elaboration"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" relname="antithesis"/>
+		<group id="127" type="span" relname="antithesis"/>
+		<group id="128" type="span" relname="antithesis"/>
+  </body>
+</rst>

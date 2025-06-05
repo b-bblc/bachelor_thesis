@@ -1,0 +1,125 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution1" type="rst"/>
+			<rel name="attribution2" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-effect" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation-evaluation" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="non_volitional_cause" type="rst"/>
+			<rel name="non_volitional_effect" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="volitional_cause" type="rst"/>
+			<rel name="volitional_effect" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="79" relname="preparation">##### Мир подводит итоги стодневного пребывания Барака Обамы в кресле президента США.</segment>
+		<segment id="2" parent="3" relname="attribution">Американские эксперты и IT-журналисты приходят к выводу,</segment>
+		<segment id="3" parent="49" relname="span">что нынешний президент их страны — самый технологически продвинутый.</segment>
+		<segment id="4" parent="79" relname="joint">И это уже дает видимые результаты.</segment>
+		<segment id="5" parent="51" relname="same-unit">##### Всего за 100 дней пребывания на посту президента США Обама,</segment>
+		<segment id="6" parent="7" relname="attribution">полагают американские эксперты и IT-журналисты,</segment>
+		<segment id="7" parent="50" relname="span">зарекомендовал себя как самый технологически компетентный президент США и один из самых «продвинутых» президентов мира.</segment>
+		<segment id="8" parent="52" relname="span">Первый IT-проект президента — перезапуск портала "Английское название"</segment>
+		<segment id="9" parent="8" relname="elaboration">на котором всем простым американцам предложили задавать вопросы лично Бараку, его администрации и членам правительства.</segment>
+		<segment id="10" parent="54" relname="same-unit">Наличие таких возможностей,</segment>
+		<segment id="11" parent="12" relname="attribution">по мнению Обамы,</segment>
+		<segment id="12" parent="53" relname="span">— прямое доказательство открытости президента и признание им базового принципа демократии — открытости правительства.</segment>
+		<segment id="13" parent="72" relname="span">Всего за время существования ресурса американцы сформировали 1,8 млн обращений к своему лидеру.</segment>
+		<segment id="14" parent="55" relname="joint">Чаще всего американцы просили у президента легализовать марихуану,</segment>
+		<segment id="15" parent="55" relname="joint">позаботиться об их «финансовой стабильности»</segment>
+		<segment id="16" parent="55" relname="joint">и разобраться с бюджетом.</segment>
+		<segment id="17" parent="56" relname="span">##### Главное, что успел сделать Обама в сфере госуправления с точки зрения технологий, — постараться выйти на «новый уровень прозрачности» правительства перед народом,</segment>
+		<segment id="18" parent="17" relname="elaboration">которая предполагает не только открытость государственных органов, но и реальную доступность информации об их деятельности.</segment>
+		<segment id="19" parent="76" relname="same-unit">В том числе и поэтому</segment>
+		<segment id="20" parent="74" relname="sequence">почти сразу после вступления в должность</segment>
+		<segment id="21" parent="73" relname="span">Барак Обама выступил с инициативой построения общенациональной сети Wi-Fi,</segment>
+		<segment id="22" parent="21" relname="purpose">чтобы каждый американец мог бесплатно выходить в интернет в любой точке страны.</segment>
+		<segment id="23" parent="89" relname="span">##### В начале марта Барак Обама назначил Вивека Кундру на ранее не существовавший в президентской администрации пост CIO, ответственного за IT-технологии в Белом доме.</segment>
+		<segment id="24" parent="23" relname="elaboration">Задача чиновника — «переосмыслить принципы взаимодействия общества и правительства в новом информационном пространстве».</segment>
+		<segment id="25" parent="59" relname="span">Кундра уже создал ресурс "Английское название"</segment>
+		<segment id="26" parent="57" relname="joint">на котором любой американец может познакомиться с огромным количеством правительственных документов</segment>
+		<segment id="27" parent="57" relname="joint">и высказать свои соображения по их поводу.</segment>
+		<segment id="28" parent="88" relname="joint">Кундра уже завел для администрации аккаунты на вебдванольных сервисах социальных сетей и блогов Facebook, Twitter, MySpace, YouTube, Vimeo, Flickr и iTunes.</segment>
+		<segment id="29" parent="63" relname="preparation">##### Вивек Кундра, однако, не единственный помощник Обамы по IT-вопросам.</segment>
+		<segment id="30" parent="62" relname="span">Обама предложил исполнительному директору Google Эрику Шмидту</segment>
+		<segment id="31" parent="60" relname="joint">(тот, кстати, принимал активное участие в предвыборной кампании Обамы,</segment>
+		<segment id="32" parent="60" relname="joint">а Google выделяла миллионы долларов предвыборному штату)</segment>
+		<segment id="33" parent="63" relname="same-unit">и директору по исследованиям и стратегическим решениям Microsoft Крейгу Манди войти в состав Совета по науке и технологиям при президенте США.</segment>
+		<segment id="34" parent="64" relname="background">До сих пор ни один президент США такой тесной дружбы с крупным IT-бизнесом не водил.</segment>
+		<segment id="35" parent="107" relname="span">##### Стоит отметить, что Барак Обама проявил себя не только в сфере IT-технологий.</segment>
+		<segment id="36" parent="69" relname="span">Важной частью его предвыборной программы,</segment>
+		<segment id="37" parent="108" relname="span">которую он начал реализовывать,</segment>
+		<segment id="38" parent="37" relname="condition">став президентом,</segment>
+		<segment id="39" parent="70" relname="same-unit">была реформа американской энергетики.</segment>
+		<segment id="40" parent="41" relname="attribution">С точки зрения Обамы,</segment>
+		<segment id="41" parent="65" relname="span">именно этой отрасли суждено вывести мир из глубочайшего экономического кризиса.</segment>
+		<segment id="42" parent="66" relname="joint">За 100 дней Обама успел и представить программу по развитию энергетики,</segment>
+		<segment id="43" parent="66" relname="joint">и сделать шаги по ее воплощению в жизнь.</segment>
+		<segment id="44" parent="45" relname="attribution">Программа предполагает</segment>
+		<segment id="45" parent="104" relname="span">полный разворот энергетической отрасли США в сторону использования возобновляемых источников энергии.</segment>
+		<segment id="46" parent="94" relname="contrast">По плану уже к 2025 году четверть всей электроэнергии, которая потребляется США, должна быть добыта из альтернативных источников.</segment>
+		<segment id="47" parent="94" relname="contrast">Сейчас в энергобалансе США энергия, полученная от солнца и ветра, составляет всего лишь 2%.</segment>
+		<segment id="48" parent="96" relname="joint">Принятие решения об организации в рамках министерства энергетики сети центров передовых энергетических исследований в области энергетики и начало работы Агентства передовых исследований в области энергетики (ARPA-E) — одни из первых серьезных шагов по достижению поставленной Обамой цели.</segment>
+		<group id="49" type="span" parent="79" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="same-unit"/>
+		<group id="51" type="multinuc" parent="82" relname="preparation"/>
+		<group id="52" type="span" parent="84" relname="span"/>
+		<group id="53" type="span" parent="54" relname="same-unit"/>
+		<group id="54" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="56" type="span" parent="78" relname="span"/>
+		<group id="57" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="59" type="span" parent="88" relname="joint"/>
+		<group id="60" type="multinuc" parent="30" relname="background"/>
+		<group id="62" type="span" parent="63" relname="same-unit"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="64" type="span" parent="92" relname="span"/>
+		<group id="65" type="span" parent="70" relname="cause-effect"/>
+		<group id="66" type="multinuc" parent="95" relname="span"/>
+		<group id="69" type="span" parent="70" relname="same-unit"/>
+		<group id="70" type="multinuc" parent="99" relname="span"/>
+		<group id="72" type="span" parent="82" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="74" type="multinuc" parent="76" relname="same-unit"/>
+		<group id="76" type="multinuc" parent="56" relname="evidence"/>
+		<group id="78" type="span" />
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="80" type="span" />
+		<group id="82" type="multinuc" parent="106" relname="span"/>
+		<group id="84" type="span" parent="82" relname="joint"/>
+		<group id="88" type="multinuc" parent="91" relname="joint"/>
+		<group id="89" type="span" parent="91" relname="joint"/>
+		<group id="91" type="multinuc" />
+		<group id="92" type="span" />
+		<group id="94" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="95" type="span" parent="100" relname="joint"/>
+		<group id="96" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="99" type="span" parent="35" relname="elaboration"/>
+		<group id="100" type="multinuc" />
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="96" relname="joint"/>
+		<group id="106" type="span" />
+		<group id="107" type="span" parent="100" relname="joint"/>
+		<group id="108" type="span" parent="36" relname="elaboration"/>
+	</body>
+</rst>

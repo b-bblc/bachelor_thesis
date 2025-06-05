@@ -1,0 +1,280 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://kosmetista.ru/blog/uhodovaya-kosmetika/95993.html</segment>
+		<segment id="2" >##### Регенерация как она есть? Набор средств ухода Extra-Firming от Clarins</segment>
+		<segment id="3" parent="139" relname="span">##### Рассказ о наборе от Clarins я хотела бы начать с предыстории об имеющихся исходных данных.</segment>
+		<segment id="4" parent="3" relname="elaboration">##### IMG</segment>
+		<segment id="5" parent="141" relname="preparation">##### Исходные данные</segment>
+		<segment id="6" parent="255" relname="span">##### Мне не over-40,</segment>
+		<segment id="7" parent="270" relname="span">как рекомендует производитель</segment>
+		<segment id="8" parent="7" relname="purpose">для использования этой линейки,</segment>
+		<segment id="9" parent="140" relname="contrast">а всего лишь 25,</segment>
+		<segment id="10" parent="235" relname="span">но живу я в святой убежденности, что слова “antiage” в современном мире боятся только дураки.</segment>
+		<segment id="11" parent="145" relname="joint">##### Особенно если кожа тонкая,</segment>
+		<segment id="12" parent="144" relname="span">склонная к сухости и обезвоженности,</segment>
+		<segment id="13" parent="12" relname="elaboration">(из-за чего куда быстрее образуются мимические морщинки)</segment>
+		<segment id="14" parent="15" relname="condition">и без должной артиллерии ухода</segment>
+		<segment id="15" parent="256" relname="span">в нормальном состоянии она у вас не бывает.</segment>
+		<segment id="16" parent="145" relname="evaluation">Именно такая она у меня.</segment>
+		<segment id="17" parent="149" relname="span">##### Почему Clarins?</segment>
+		<segment id="18" parent="17" relname="elaboration">##### IMG</segment>
+		<segment id="19" parent="150" relname="span">##### Выбор на Clarins пал не случайно.</segment>
+		<segment id="20" parent="151" relname="joint">О заветных оранжевых баночках серии Extra-Firming положительных отзывов не читал только ленивый,</segment>
+		<segment id="21" parent="151" relname="joint">а тут ещё и повсеместные акции на продукцию бренда в преддверии Нового Года.</segment>
+		<segment id="22" parent="153" relname="span">К тому же, у марки есть весьма симпатичные варианты наборов,</segment>
+		<segment id="23" parent="22" relname="condition">когда по стоимости одного крема вы вместе с ним приобретаете миниатюры пары других продуктов.</segment>
+		<segment id="24" parent="152" relname="elaboration">##### Состав набора: — Регенерирующий дневной крем против морщин для любого типа кожи Extra-Firming, 50 мл — Регенерирующий ночной крем против морщин для любого типа кожи Extra-Firming, 15 мл — Омолаживающая маска, моментально устраняющая следы усталости и стресса Multi-Régénérant, 15 мл — Косметичка</segment>
+		<segment id="25" parent="271" relname="span">##### Начнем с главного виновника поста Clarins Extra-Firming Jour (Wrinkle control, firming day cream, all skin types)</segment>
+		<segment id="26" parent="25" relname="elaboration">##### IMG IMG</segment>
+		<segment id="27" parent="271" relname="elaboration">##### Состав Aqua/Water/Eau, Coco-Caprylate/Caprate, Glycerin, Cetearyl Ethylhexanoate, Cetearyl Alcohol, Butylene Glycol, Butyrospermum Parkii (Shea) Butter, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Propanediol, Ammonium Acryloyldimethyltaurarte/VP Copolymer, Cetearyl Glucoside, Phenoxyethanol, Methyl Methacrylate Crosspolymer, Parfum/Fragrance, Disacus Sylvestris Extract, CI 77891/Titanium Dioxide, Synthetic Flurphlogopite, Caprylyl Glycol, Ethylhexylglycerin, Tocopheryl Acetate, Cellulose, Disodium EDTA, Sodium Europaea Extract, Tetrasodium EDTA, Myrothamnus Flabellifolia Extract, Citric Acid, Lapsana Communis Flower/Leaf/Stem Extract, Furcellaria Lumbracalis Extract, Sodium Citrate, Potassium Sorbate, Ascorbic Acid, Glycolic Acid, Lactic Acid, Maris Sal/Sea Salt/Sel Maein, CI 1700/Red 4, CI 17200/Red 33, Polyvinyl Alcohol, Copper Palmitoyl Heptapeptide-14, Heptapeptide-15 Palmitate.</segment>
+		<segment id="28" parent="156" relname="joint">##### Внешний вид в лучших традициях марки.</segment>
+		<segment id="29" parent="238" relname="span">Увесистая стеклянная баночка в сочном апельсиновом оттенке с матовым покрытием.</segment>
+		<segment id="30" parent="157" relname="contrast">Казалось бы, ничего особенного,</segment>
+		<segment id="31" parent="157" relname="contrast">но её наличие на полке в ванной крайне радует взгляд.</segment>
+		<segment id="32" parent="239" relname="span">##### Под крышкой и защитной мембраной находится крем персикового оттенка с приятным, ненавязчивым ароматом.</segment>
+		<segment id="33" parent="164" relname="span">##### Текстура у крема средней плотности.</segment>
+		<segment id="34" parent="159" relname="span">Не могу назвать его ни легким, ни жирным.</segment>
+		<segment id="35" parent="257" relname="span">На моей обезвоженной коже он мгновенно впитывается,</segment>
+		<segment id="36" parent="258" relname="span">оставляя после себя матовое холёное свечение,</segment>
+		<segment id="37" parent="158" relname="span">что, на мой взгляд, является приятным бонусом,</segment>
+		<segment id="38" parent="37" relname="cause">потому как от уходовых средств никаких мгновенных визуальных преображений не жду.</segment>
+		<segment id="39" parent="160" relname="joint">##### При этом кожу лица не перегружает,</segment>
+		<segment id="40" parent="160" relname="joint">после себя плёнки не оставляет,</segment>
+		<segment id="41" parent="160" relname="evaluation">ну не молодец ли?</segment>
+		<segment id="42" parent="161" relname="elaboration">##### IMG IMG</segment>
+		<segment id="43" parent="175" relname="preparation">##### Результат</segment>
+		<segment id="44" parent="45" relname="cause">##### Сразу после нанесения кожа и правда становится более напитанной, упругой и увлажненной,</segment>
+		<segment id="45" parent="169" relname="span">за счет чего исчезают мелкие морщинки.</segment>
+		<segment id="46" parent="171" relname="joint">Заметно выравнивается тон кожи,</segment>
+		<segment id="47" parent="171" relname="joint">а цвет лица выглядит более свежим и здоровым.</segment>
+		<segment id="48" parent="259" relname="span">Если наносить крем по инструкции производителя</segment>
+		<segment id="49" parent="48" relname="elaboration">(совершая массажные поступательные движения),</segment>
+		<segment id="50" parent="172" relname="span">то овал лица и правда со временем станет более чётким,</segment>
+		<segment id="51" parent="173" relname="contrast">но тут дело техники и метода нанесения,</segment>
+		<segment id="52" parent="173" relname="contrast">а не заслуга крема самого по себе.</segment>
+		<segment id="53" parent="175" relname="joint">##### За время использования высыпаний, раздражений и покраснений крем не вызывал.</segment>
+		<segment id="54" parent="260" relname="preparation">##### Итог:</segment>
+		<segment id="55" parent="260" relname="span">По-настоящему хорошо работающий крем-отличник,</segment>
+		<segment id="56" parent="55" relname="elaboration">пользоваться которым на регулярной основе одно удовольствие</segment>
+		<segment id="57" parent="274" relname="joint">##### Время тестирования: 1 месяц, ежедневно утром</segment>
+		<segment id="58" parent="274" relname="joint">##### Цена: в районе 6500</segment>
+		<segment id="59" parent="275" relname="span">##### Оценка: 4+.</segment>
+		<segment id="60" parent="179" relname="span">Половину балла сняла исключительно за стоимость.</segment>
+		<segment id="61" parent="178" relname="contrast">Без акций выходит дороговато,</segment>
+		<segment id="62" parent="178" relname="contrast">но выловить его на скидках не такая большая проблема</segment>
+		<segment id="63" parent="181" relname="span">##### Clarins Extra-Firming Nuit (Night cream, all Skin Types) ##### IMG</segment>
+		<segment id="64" parent="63" relname="elaboration">Состав Aqua/Water/Eau, Caprylic/Capric Triglyceride, Cetearyl Isononanoate, Glycerin, Dicaprylyl Carbonate, Cetearyl Alcohol, Hydrogenated Coco-Glycerides, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Peg-100 Stearate, Propanediol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Glucoside, Phenoxyethanol, Caprylyl Glycol, Parfum/Fragrance, Disodium Edta, Ethylhexylglycerin, Tocopheryl Acetate, Caprylhydroxamic Acid, Anigozanthos Flavidus Extract, Betaine, Sorbitol, Butylene Glycol, Diospyros Mespiliformis Leaf Extract, Maltodextrin, Tromethamine, Sanicula Europaea Extract, Kalanchoe Pinnata Leaf Extract, Balanites Roxburghii Seed Oil, Mtracarpus Scaber Extract, Sodium Benzoate, Citric Acid, Hydrated Silica, Lapsana Communis Flower/Leaf/Stem Extract, Furcellaria Lumbricalis Extract, Potassium Sorbare, Maris Sal/Sea Salt/Sel Marin.</segment>
+		<segment id="65" parent="276" relname="preparation">##### Внешний вид</segment>
+		<segment id="66" parent="264" relname="cause">##### Этот красавчик попал ко мне в формате миниатюры на15мл,</segment>
+		<segment id="67" parent="264" relname="comparison">потому внешне существенно отличается от своего собрата,</segment>
+		<segment id="68" parent="264" relname="comparison">представляя собой небольшую пластиковую тубу того же оттенка, но теперь уже с глянцевым покрытием.</segment>
+		<segment id="69" parent="184" relname="span">Имя бренда, название линейки и крема выполнены в привычном стиле производителя.</segment>
+		<segment id="70" parent="183" relname="contrast">В целом лаконично и симпатично,</segment>
+		<segment id="71" parent="183" relname="contrast">но ничего необычного.</segment>
+		<segment id="72" parent="242" relname="joint">##### Текстура у ночной версии более густая и плотная.</segment>
+		<segment id="73" parent="187" relname="span">При этом ведет себя крем крайне прилежно:</segment>
+		<segment id="74" parent="186" relname="joint">впитывается за считанные мгновения,</segment>
+		<segment id="75" parent="186" relname="joint">не жирнит,</segment>
+		<segment id="76" parent="186" relname="joint">масляным блином светиться не заставляет,</segment>
+		<segment id="77" parent="186" relname="joint">с кожи не скатывается</segment>
+		<segment id="78" parent="241" relname="evaluation">и в принципе оставляет после себя крайне приятные и комфортные ощущения.</segment>
+		<segment id="79" parent="187" relname="evaluation">Никаких нареканий.</segment>
+		<segment id="80" parent="188" relname="elaboration">##### IMG</segment>
+		<segment id="81" parent="244" relname="preparation">##### Результат</segment>
+		<segment id="82" parent="83" relname="condition">##### При регулярном использовании</segment>
+		<segment id="83" parent="265" relname="span">кожа становится более мягкая, упругая и напитанная.</segment>
+		<segment id="84" parent="195" relname="span">Отсутствует чувство стянутости и дискомфорта,</segment>
+		<segment id="85" parent="194" relname="span">что немаловажно в отопительный сезон,</segment>
+		<segment id="86" parent="193" relname="joint">когда дома засуха,</segment>
+		<segment id="87" parent="193" relname="joint">а за окном температура уходит в минус.</segment>
+		<segment id="88" parent="197" relname="span">Для меня действие этого крема схоже с эффектом от хорошей увлажняющей маски,</segment>
+		<segment id="89" parent="196" relname="joint">когда наносишь средство на ночь,</segment>
+		<segment id="90" parent="196" relname="joint">успешно о нем забываешь,</segment>
+		<segment id="91" parent="196" relname="joint">а с утра невольно радуешься тому, какая нежная кожа на скулах.</segment>
+		<segment id="92" parent="197" relname="evaluation">##### Браво, Clarins!</segment>
+		<segment id="93" parent="94" relname="preparation">##### Итог:</segment>
+		<segment id="94" parent="203" relname="span">Достойная пара для дневного брата</segment>
+		<segment id="95" parent="201" relname="joint">##### Время тестирования: 1 месяц, ежедневно вечером</segment>
+		<segment id="96" parent="201" relname="joint">##### Цена: в районе 6800 до скидки</segment>
+		<segment id="97" parent="201" relname="joint">##### Оценка: 5</segment>
+		<segment id="98" parent="279" relname="span">##### Clarins Masque Multi-Regenerant Extra Firming Mask</segment>
+		<segment id="99" parent="98" relname="elaboration">##### IMG</segment>
+		<segment id="100" parent="279" relname="elaboration">Состав Aqua/Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Alcohol, Jojoba Esters, Butyrospermum Parkii (Shea) Butter, Polyglycerin-3, Palmitoyl Glycine, Pentaerythrityl Tetraisostearate, Glyceryl Stearate SE, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum/Fragrance, Butylene Glycol, Ethylhexylglycerin, Sodium Polyacrylate, Tocopheryl Acetate, Sodium Hydroxide, Sodium Hyaluronate, Acacia Decurrens Flower Wax, Helianthus Annuus (Sunflower) Seed Wax, Musa Sapientum (Banana) Fruit Extract, Thymus Citriodorus Flower/Leaf Extract, Malpighia Emarginata (Acerola) Seed Extract, Furcellaria Lumbricalis Extract, CI 17200/Red 33, Potassium Sorbate, CI 42090/Blue 1, Maris Sal/Sea Salt/Sel Marin [C2813A].</segment>
+		<segment id="101" parent="205" relname="contrast">##### Внешний видидентичен мини-версии ночного крема,</segment>
+		<segment id="102" parent="205" relname="contrast">но оформлениемаски выполнено в сиреневом оттенке.</segment>
+		<segment id="103" parent="280" relname="span">##### Само средство того же оттенка с приятной косметической отдушкой.</segment>
+		<segment id="104" parent="103" relname="evaluation">Для меня использование подобного сродни релакс-терапии.</segment>
+		<segment id="105" parent="280" relname="elaboration">##### IMG</segment>
+		<segment id="106" parent="214" relname="span">##### Текстуракомфортной средней плотности.</segment>
+		<segment id="107" parent="210" relname="sequence">Производитель рекомендует нанести маску на 10 минут,</segment>
+		<segment id="108" parent="210" relname="sequence">а после смыть,</segment>
+		<segment id="109" parent="110" relname="condition">но если при этом вы попробуете нанести ее тонким слоем,</segment>
+		<segment id="110" parent="211" relname="span">то смывать в сущности будет практически нечего,</segment>
+		<segment id="111" parent="211" relname="cause">потому что она впитается так же легко, как и крем (неплохой вариант для ленивых).</segment>
+		<segment id="112" parent="214" relname="elaboration">##### IMG</segment>
+		<segment id="113" parent="232" relname="preparation">##### Результат</segment>
+		<segment id="114" parent="216" relname="joint">##### Из всех вышеперечисленных средств в наборе эта маска показалась мне самой бесполезной</segment>
+		<segment id="115" parent="216" relname="joint">и и вызвала наименьший вау-эффект.</segment>
+		<segment id="116" parent="219" relname="joint">Не потому, что не работает,</segment>
+		<segment id="117" parent="219" relname="joint">откровенно бездарная или плохая,</segment>
+		<segment id="118" parent="220" relname="joint">а потому, что увлажнения с кремами и так достаточно,</segment>
+		<segment id="119" parent="267" relname="comparison">а иметь для этого третью дополнительную банку,</segment>
+		<segment id="120" parent="267" relname="comparison">примерно равную по результатам работы, не вижу смысла.</segment>
+		<segment id="121" parent="122" relname="attribution">##### В обещаниях производитель утверждает,</segment>
+		<segment id="122" parent="223" relname="span">что после использования маски ваше лицо будет выглядеть как после двух дней отдыха.</segment>
+		<segment id="123" parent="225" relname="condition">Ну, если воспользуетесь рекомендациями с самомассажем,</segment>
+		<segment id="124" parent="225" relname="joint">то мышцы, конечно, расслабятся,</segment>
+		<segment id="125" parent="225" relname="joint">отдушка лаванды приятно порадует,</segment>
+		<segment id="126" parent="224" relname="joint">но синяки под глазами не замажет,</segment>
+		<segment id="127" parent="224" relname="joint">взгляд более ясным не сделает</segment>
+		<segment id="128" parent="224" relname="joint">и крутой лифтинг-эффект не даст,</segment>
+		<segment id="129" parent="229" relname="contrast">так что отдых, конечно, не заменит,</segment>
+		<segment id="130" parent="229" relname="contrast">но на благо качества кожи поработает.</segment>
+		<segment id="131" parent="132" relname="preparation">##### Итог:</segment>
+		<segment id="132" parent="233" relname="span">Неплохая увлажняющая маска девчачье-сиреневого оттенка с приятным ароматом.</segment>
+		<segment id="133" parent="134" relname="condition">Если хотите побаловать себя чем-то эдаким</segment>
+		<segment id="134" parent="268" relname="span">— хороший вариант,</segment>
+		<segment id="135" parent="251" relname="contrast">но в целом полно аналогов за меньшие деньги.</segment>
+		<segment id="136" parent="282" relname="joint">##### Время тестирования: 1 месяц, 2-3 раза в неделю</segment>
+		<segment id="137" parent="282" relname="joint">##### Цена: полноразмерка в районе 5000 до скидки</segment>
+		<segment id="138" parent="282" relname="joint">##### Оценка: 4</segment>
+		<group id="139" type="span" parent="142" relname="preparation"/>
+		<group id="140" type="multinuc" parent="141" relname="contrast"/>
+		<group id="141" type="multinuc" parent="142" relname="span"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="143" type="span" />
+		<group id="144" type="span" parent="145" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="146" type="span" parent="10" relname="condition"/>
+		<group id="149" type="span" parent="19" relname="preparation"/>
+		<group id="150" type="span" parent="236" relname="cause"/>
+		<group id="151" type="multinuc" parent="236" relname="joint"/>
+		<group id="152" type="span" parent="154" relname="span"/>
+		<group id="153" type="span" parent="236" relname="joint"/>
+		<group id="154" type="span" />
+		<group id="155" type="span" parent="165" relname="preparation"/>
+		<group id="156" type="multinuc" parent="165" relname="joint"/>
+		<group id="157" type="multinuc" parent="29" relname="evaluation"/>
+		<group id="158" type="span" parent="36" relname="evaluation"/>
+		<group id="159" type="span" parent="163" relname="joint"/>
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="joint"/>
+		<group id="163" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="164" type="span" parent="32" relname="elaboration"/>
+		<group id="165" type="multinuc" parent="166" relname="span"/>
+		<group id="166" type="span" />
+		<group id="169" type="span" parent="175" relname="joint"/>
+		<group id="171" type="multinuc" parent="175" relname="joint"/>
+		<group id="172" type="span" parent="174" relname="contrast"/>
+		<group id="173" type="multinuc" parent="174" relname="contrast"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="175" type="multinuc" parent="272" relname="span"/>
+		<group id="178" type="multinuc" parent="60" relname="evaluation"/>
+		<group id="179" type="span" parent="59" relname="elaboration"/>
+		<group id="181" type="span" parent="277" relname="preparation"/>
+		<group id="183" type="multinuc" parent="69" relname="evaluation"/>
+		<group id="184" type="span" parent="276" relname="span"/>
+		<group id="186" type="multinuc" parent="241" relname="span"/>
+		<group id="187" type="span" parent="243" relname="span"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" />
+		<group id="193" type="multinuc" parent="85" relname="condition"/>
+		<group id="194" type="span" parent="84" relname="evaluation"/>
+		<group id="195" type="span" parent="199" relname="joint"/>
+		<group id="196" type="multinuc" parent="88" relname="condition"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="244" relname="comparison"/>
+		<group id="199" type="multinuc" parent="244" relname="comparison"/>
+		<group id="200" type="span" />
+		<group id="201" type="multinuc" />
+		<group id="203" type="span" parent="201" relname="joint"/>
+		<group id="204" type="span" parent="247" relname="preparation"/>
+		<group id="205" type="multinuc" parent="207" relname="joint"/>
+		<group id="206" type="span" parent="207" relname="joint"/>
+		<group id="207" type="multinuc" parent="247" relname="joint"/>
+		<group id="210" type="multinuc" parent="213" relname="contrast"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="contrast"/>
+		<group id="213" type="multinuc" parent="106" relname="elaboration"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="247" relname="joint"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="232" relname="joint"/>
+		<group id="219" type="multinuc" parent="221" relname="contrast"/>
+		<group id="220" type="multinuc" parent="221" relname="contrast"/>
+		<group id="221" type="multinuc" parent="216" relname="cause"/>
+		<group id="223" type="span" parent="231" relname="span"/>
+		<group id="224" type="multinuc" parent="228" relname="contrast"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="226" type="span" parent="228" relname="contrast"/>
+		<group id="228" type="multinuc" parent="229" relname="cause"/>
+		<group id="229" type="multinuc" parent="249" relname="span"/>
+		<group id="231" type="span" parent="232" relname="joint"/>
+		<group id="232" type="multinuc" parent="281" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="282" relname="joint"/>
+		<group id="235" type="span" parent="141" relname="contrast"/>
+		<group id="236" type="multinuc" parent="152" relname="span"/>
+		<group id="238" type="span" parent="156" relname="joint"/>
+		<group id="239" type="span" parent="165" relname="joint"/>
+		<group id="240" type="span" parent="73" relname="evidence"/>
+		<group id="241" type="span" parent="240" relname="span"/>
+		<group id="242" type="multinuc" parent="188" relname="span"/>
+		<group id="243" type="span" parent="242" relname="joint"/>
+		<group id="244" type="multinuc" parent="200" relname="span"/>
+		<group id="246" type="span" />
+		<group id="247" type="multinuc" parent="246" relname="span"/>
+		<group id="249" type="span" parent="223" relname="elaboration"/>
+		<group id="251" type="multinuc" parent="233" relname="elaboration"/>
+		<group id="255" type="span" parent="140" relname="contrast"/>
+		<group id="256" type="span" parent="145" relname="joint"/>
+		<group id="257" type="span" parent="34" relname="cause"/>
+		<group id="258" type="span" parent="35" relname="cause"/>
+		<group id="259" type="span" parent="50" relname="condition"/>
+		<group id="260" type="span" parent="273" relname="span"/>
+		<group id="263" type="span" parent="184" relname="preparation"/>
+		<group id="264" type="multinuc" parent="263" relname="span"/>
+		<group id="265" type="span" parent="199" relname="joint"/>
+		<group id="267" type="multinuc" parent="220" relname="joint"/>
+		<group id="268" type="span" parent="251" relname="contrast"/>
+		<group id="270" type="span" parent="6" relname="attribution"/>
+		<group id="271" type="span" parent="155" relname="span"/>
+		<group id="272" type="span" />
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="274" type="multinuc" />
+		<group id="275" type="span" parent="274" relname="joint"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" />
+		<group id="279" type="span" parent="204" relname="span"/>
+		<group id="280" type="span" parent="206" relname="span"/>
+		<group id="281" type="span" />
+		<group id="282" type="multinuc" />
+	</body>
+</rst>

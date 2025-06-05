@@ -1,0 +1,440 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Ю. И. Матвейкина</segment>
+		<segment id="2" relname="antithesis">МЕСТОИМЕНИЕ «ОН» КАК ЭКСПЛИКАТОР КОМПРЕССИИ СМЫСЛА (на материале текста романа В. Пелевина «Empire “V”»)</segment>
+		<segment id="3" parent="440" relname="preparation">В статье рассматриваются некоторые текстообразующие функции местоимения «он» и их проявление в современной постмодернистской прозе.</segment>
+		<segment id="4" parent="215" relname="span">Местоимение 3-го лица играет особую роль в системе личных местоимений.</segment>
+		<segment id="5" parent="214" relname="span">Это связано главным образом с историей его формирования:</segment>
+		<segment id="6" parent="5" relname="elaboration">местоимение «он» («она», «оно») и его падежные формы образуются из слияния указательного местоимения онт» (она, оно) с указательным местоимением с основой “je-” (н, га, к) [1, с. 27].</segment>
+		<segment id="7" parent="439" relname="span">Вследствие этого данное местоимение сохранило свойства местоимений указательных:</segment>
+		<segment id="8" parent="7" relname="elaboration">оно выполняет анафорическую, заместительную функцию.</segment>
+		<segment id="9" parent="221" relname="cause">Поскольку личное местоимение в чистом своем виде выступает только в первых двух лицах,</segment>
+		<segment id="10" parent="220" relname="same-unit">разбиение личных местоимений на две группы — собственно личные и</segment>
+		<segment id="11" parent="219" relname="span">личноуказательные</segment>
+		<segment id="12" parent="11" relname="elaboration">(данный термин отражает близость местоимений 3-го лица указательным местоимениям) [1, с. 28],</segment>
+		<segment id="13" parent="220" relname="same-unit">или анафорические [3, с. 143], — представляется вполне оправданным.</segment>
+		<segment id="14" parent="414" relname="span">Особый интерес</segment>
+		<segment id="15" parent="14" relname="purpose">для исследования</segment>
+		<segment id="16" parent="415" relname="same-unit">представляют те смысловые отношения, которые возникают в тексте между антецедентом и замещающим его анафорическим местоимением.</segment>
+		<segment id="17" parent="224" relname="same-unit">В настоящей статье предметом рассмотрения является такой тип отношений, который может быть обозначен как</segment>
+		<segment id="18" parent="374" relname="restatement">«компрессия смысла»,</segment>
+		<segment id="19" parent="374" relname="restatement">т. е. компрессия (сжатие, совмещение) смыслового наполнения, заключенного в предыдущей части текста, в антецеденте.</segment>
+		<segment id="20" parent="378" relname="elaboration">Данное явление исследуется на материале текста романа В. Пелевина «Empire “V”».</segment>
+		<segment id="21" parent="226" relname="span">В целом тексты В. Пелевина как образцы постмодернистского искусства отражают современную языковую ситуацию,</segment>
+		<segment id="22" parent="21" relname="elaboration">а именно деформацию сложившейся стилистической системы, колебание норм, связанное с ускорением процессов обновления и развития языка.</segment>
+		<segment id="23" parent="231" relname="same-unit">Кроме того,</segment>
+		<segment id="24" parent="229" relname="attribution">по замечанию И. П. Ильина,</segment>
+		<segment id="25" parent="228" relname="cause">чертой постмодернистских текстов является так называемая синтаксическая «неграмматикальность», открытость,</segment>
+		<segment id="26" parent="227" relname="joint">в результате которой предложение или высказывание оказывается оформленным не до конца с точки зрения законов грамматики,</segment>
+		<segment id="27" parent="227" relname="joint">и смысл фраз дополняется самим читателем [2, с. 180].</segment>
+		<segment id="28" parent="29" relname="cause">Явление компрессии, в свою очередь, демонстрирует неполную кореферентность местоимения и его антецедента, возможность для совмещения различных элементов смысла,</segment>
+		<segment id="29" parent="377" relname="span">и в связи с этим оно также может быть рассмотрено в рамках общей тенденции к неопределенности, открытости текста.</segment>
+		<segment id="30" parent="31" relname="condition">Иногда при попытке четко определить в контексте антецедент анафорического местоимения</segment>
+		<segment id="31" parent="443" relname="span">мы можем столкнуться с проблемой выбора антецедента,</segment>
+		<segment id="32" parent="240" relname="span">например: «Я вампир. А вампиры не бывают извращенцами. Иногда они выдают себя за извращенцев. Но у них совершенно другие интересы и цели»</segment>
+		<segment id="33" parent="236" relname="same-unit">[4, с. 8],—в данном случае при пер©</segment>
+		<segment id="34" relname="antithesis">Ю. И. Матвейкина, 2009</segment>
+		<segment id="35" parent="236" relname="same-unit">вой анафорической отсылке</segment>
+		<segment id="36" parent="237" relname="elaboration">(«они выдают себя за извращенцев»)</segment>
+		<segment id="37" parent="233" relname="span">антецедент («вампиры») идентифицируется легко,</segment>
+		<segment id="38" parent="37" relname="cause">так как данный объект сохраняет свой статус основного объекта описания;</segment>
+		<segment id="39" parent="234" relname="span">при последующей анафорической отсылке</segment>
+		<segment id="40" parent="39" relname="elaboration">(«но у них совершенно другие интересы и цели»)</segment>
+		<segment id="41" parent="442" relname="span">возникает проблема выбора объекта, о котором идет речь.</segment>
+		<segment id="42" parent="371" relname="preparation">В этом случае возможна двоякая идентификация:</segment>
+		<segment id="43" parent="370" relname="comparison">мы можем считать антецедентом как предыдущий и основной для смысла данного контекста объект — «вампиры»,</segment>
+		<segment id="44" parent="370" relname="comparison">так и объект, представленный позже (в составе характеристики основного объекта), — «извращенцы».</segment>
+		<segment id="45" parent="247" relname="span">Проблема выявления антецедента может иметь место в случае повышенной смысловой нагруженности контекста, в случае неоднозначности его интерпретации,</segment>
+		<segment id="46" parent="248" relname="span">например: «живая эмоциональная реакция укушенного во все времена была единственным сертификатом подлинности события. Поэтому вынимай из него всю клубничку, понял? Доставай то, что он прячет глубже всего... Выверни его наизнанку» [4, с. 260].</segment>
+		<segment id="47" parent="250" relname="span">Данный фрагмент является отражением довольно необычной ситуации,</segment>
+		<segment id="48" parent="249" relname="span">которая может быть понятна лишь в связи со стратегией целого произведения В. Пелевина</segment>
+		<segment id="49" parent="447" relname="span">(слова персонажа представляют собой нечто вроде инструкции, адресованной начинающему «вампиру»).</segment>
+		<segment id="50" parent="51" relname="condition">При выявлении антецедента местоименных отсылок</segment>
+		<segment id="51" parent="446" relname="span">в поле зрения попадают два основных объекта: «укушенный» (жертва вампира) и «событие» (укус вампира, представленный в контексте произведения как символически осмысленный акт).</segment>
+		<segment id="52" parent="253" relname="span">Два последних в данном примере лично- указательных местоимения в смысловом и грамматическом отношениях (эти местоимения мужского рода) могут относиться только к одушевленному объекту («укушенный»);</segment>
+		<segment id="53" parent="251" relname="joint">вторая отсылка — «выверни его наизнанку» — исходит из логики предыдущей,</segment>
+		<segment id="54" parent="251" relname="joint">подразумевает тот же одушевленный объект</segment>
+		<segment id="55" parent="252" relname="span">(поэтому местоимение здесь также является местоимением мужского рода).</segment>
+		<segment id="56" parent="254" relname="span">Совпадение форм мужского и среднего рода лично-указательного местоимения в косвенных падежах создает затруднение выбора антецедента лишь в случае первой отсылки</segment>
+		<segment id="57" parent="56" relname="elaboration">— «вынимай из него всю клубничку».</segment>
+		<segment id="58" parent="266" relname="joint">Согласно словарному толкованию слово «клубничка» обозначает нечто «непристойное, скабрезное» [5, с. 330].</segment>
+		<segment id="59" parent="266" relname="joint">«Клубничка» означает, как правило, особого рода информацию,</segment>
+		<segment id="60" parent="255" relname="span">и, следовательно, в большей степени данное понятие относится к различным источниками информации,</segment>
+		<segment id="61" parent="60" relname="elaboration">откуда оно извлекается (например, тексты).</segment>
+		<segment id="62" parent="257" relname="contrast">В качестве источника информации легче представить абстрактный объект (в данном случае «событие»),</segment>
+		<segment id="63" parent="265" relname="span">но логика развития контекста в рассматриваемом нами примере показывает, что говорящий во всех трех случаях местоименного указания отсылает к конкретному одушевленному объекту:</segment>
+		<segment id="64" parent="258" relname="span">все три действия, которые по указанию говорящего предполагается совершить над объектом</segment>
+		<segment id="65" parent="64" relname="elaboration">(«вынимать из него всю клубничку», «доставать то, что он прячет глубже всего», «вывернуть его наизнанку»),</segment>
+		<segment id="66" parent="259" relname="same-unit">связаны между собой в смысловом отношении,</segment>
+		<segment id="67" parent="260" relname="joint">имеют одну целевую направленность,</segment>
+		<segment id="68" parent="468" relname="span">отражают одну определенную идею говорящего, выраженную в волюнтивной форме и адресованную второму участнику ситуации</segment>
+		<segment id="69" parent="68" relname="elaboration">(говорящий в данном фрагменте требует от инструктируемого им собеседника совершить некоторые действия над объектом («укушенным»),</segment>
+		<segment id="70" parent="263" relname="joint">а именно произвести вторжение в интимную сферу человека,</segment>
+		<segment id="71" parent="263" relname="joint">извлечь из глубин его сознания информацию («клубничку»), характеризующую скрытые стороны его жизни).</segment>
+		<segment id="72" parent="457" relname="same-unit">В некоторых случаях</segment>
+		<segment id="73" parent="74" relname="condition">при определении антецедента анафорического местоимения</segment>
+		<segment id="74" parent="458" relname="span">мы можем сталкиваться с возможностью совмещения в местоименной отсылке смыслов, заложенных в нескольких потенциальных антецедентах:</segment>
+		<segment id="75" parent="273" relname="span">«Волшебный мир, где ты жил раньше, придумал прятавшийся в траве кузнечик. А потом пришла лягушка, которая его съела. И тебе стало сразу негде жить» [4, с. 9],</segment>
+		<segment id="76" parent="272" relname="joint">антецедентом местоименной отсылки с опорой на предшествующий контекст можно считать объект, обозначенный как «кузнечик»,</segment>
+		<segment id="77" parent="270" relname="span">и в этом случае содержащее отсылку предложение</segment>
+		<segment id="78" parent="77" relname="elaboration">(«А потом пришла лягушка, которая его съела»)</segment>
+		<segment id="79" parent="271" relname="same-unit">может быть воспринято буквально.</segment>
+		<segment id="80" parent="275" relname="span">Метафорический контекст понимания данного предложения формирует следующее за ним:</segment>
+		<segment id="81" parent="80" relname="elaboration">«И тебе стало сразу негде жить»,</segment>
+		<segment id="82" parent="276" relname="span">происходит отсылка к объекту, открывающему данный фрагмент</segment>
+		<segment id="83" parent="82" relname="elaboration">(«волшебный мир, где ты жил раньше»).</segment>
+		<segment id="84" parent="85" relname="condition">При местоименной отсылке</segment>
+		<segment id="85" parent="460" relname="span">значение этого абстрактного в данной ситуации объекта включается в смысл объекта более конкретного в контексте предложения с анафорическим указанием («кузнечик»),</segment>
+		<segment id="86" parent="460" relname="elaboration">который, в свою очередь, обретает метафорическое значение.</segment>
+		<segment id="87" parent="279" relname="condition">Заменяя лично-указательное местоимение его антецедентом,</segment>
+		<segment id="88" parent="279" relname="span">трансформировать предложение, содержащее анафорическую отсылку, можно было бы следующим образом:</segment>
+		<segment id="89" parent="88" relname="elaboration">«пришла лягушка, которая съела кузнечика, и, соответственно, придуманный им волшебный мир».</segment>
+		<segment id="90" parent="421" relname="evidence">Таким образом, характер использования анафорического указания в текстах показывает,</segment>
+		<segment id="91" parent="417" relname="same-unit">что часто автор (говорящий)</segment>
+		<segment id="92" parent="93" relname="condition">при анафорической отсылке</segment>
+		<segment id="93" parent="416" relname="span">демонстрирует сокращение или смысловую компрессию антецедента</segment>
+		<segment id="94" parent="281" relname="span">(о которой говорилось выше в связи с вопросом о выборе или определении антецедента):</segment>
+		<segment id="95" parent="280" relname="joint">«Одну стену занимала доходящая до потолка картотека из карельской березы, очень изысканного вида. На ней были таблички с разноцветными надписями и значками, а рядом стояла лестница-стремянка» [4, с. 5];</segment>
+		<segment id="96" parent="280" relname="joint">«Другим посланием из прошлого были серебряные ножи и вилки с гербом. Луком и стрелой и тремя летящими журавлями. Я нашел их в серванте»</segment>
+		<segment id="97" parent="286" relname="joint">[4, с. 19]—гово-рящим осуществляется анафорическая отсылка к объектам, впервые представленным описательно,</segment>
+		<segment id="98" parent="285" relname="joint">анафорическое местоимение при этом не просто заменяет собой довольно громоздкий для повтора описательный комплекс,</segment>
+		<segment id="99" parent="285" relname="joint">но и служит попытке говорящего обозначить только стержневое, сущностное звено этого комплекса.</segment>
+		<segment id="100" parent="288" relname="span">Контекст, следующий за анафорической отсылкой</segment>
+		<segment id="101" parent="100" relname="elaboration">(который относится в смысловом плане к антецеденту)</segment>
+		<segment id="102" parent="290" relname="span">часто определяется набором уже данных антецеденту признаков:</segment>
+		<segment id="103" parent="102" relname="elaboration">«группа халдеев вручила Локки подарок для его молчаливой спутницы — коробку, обернутую в несколько слоев золотой бумаги и перевязанную алым бантом. Ее долго открывали» [4, с. 286].</segment>
+		<segment id="104" parent="291" relname="span">В этом примере мы можем наблюдать не столько сокращение плана содержания антецедента, сколько компрессию признаков</segment>
+		<segment id="105" parent="104" relname="elaboration">(«обернутую в несколько слоев золотой бумаги и перевязанную алым бантом»),</segment>
+		<segment id="106" parent="291" relname="elaboration">которые относятся к объекту-антецеденту («коробка»), в отсылающем к этому объекту анафорическом местоимении.</segment>
+		<segment id="107" parent="293" relname="span">Дальнейшая информация об объекте,</segment>
+		<segment id="108" parent="107" relname="elaboration">данная при местоименной отсылке («Ее [коробку] долго открывали»),</segment>
+		<segment id="109" parent="295" relname="span">определяется существенностью вышеуказанных признаков</segment>
+		<segment id="110" parent="109" relname="elaboration">(«долго открывали», так как коробка была «обернута в несколько слоев бумаги и перевязана бантом»),</segment>
+		<segment id="111" parent="296" relname="span">и поэтому можно говорить о том, что анафорическое местоимение заключает в себе компрессию всего комплекса признаков.</segment>
+		<segment id="112" parent="298" relname="span">В случае, когда признак (или комплекс признаков), данный объекту-антецеденту при первом упоминании, оказывается не важным для дальнейшего контекста, сокращения как такового или компрессии содержания смыслового комплекса может и не происходить:</segment>
+		<segment id="113" parent="375" relname="span">«Кроме коротышек из мультфильма, никто толком не попрощался с несуразной страной, в которой я родился &lt;... &gt; три кита, на которых она держалась, сделали вид, что они тут ни при чем» [4, с. 18].</segment>
+		<segment id="114" parent="451" relname="span">В этом примере, как и в предыдущих, нельзя говорить о дубликате антецедента</segment>
+		<segment id="115" parent="114" relname="condition">при анафорической отсылке;</segment>
+		<segment id="116" parent="299" relname="joint">кроме того, набор признаков, данных объекту отсылки («страна»), свою значимость для дальнейшего контекста утрачивает.</segment>
+		<segment id="117" parent="402" relname="span">В данном случае можно говорить о том, что в сознании говорящего (и в сознании воспринимающего текст) к моменту отсылки осуществляется еще одна дополнительная логическая операция,</segment>
+		<segment id="118" parent="117" relname="purpose">позволяющая обозначить антецедент более конкретно.</segment>
+		<segment id="119" parent="452" relname="same-unit">Так, в последнем примере</segment>
+		<segment id="120" parent="121" relname="condition">при анафорической отсылке</segment>
+		<segment id="121" parent="453" relname="span">автор (с опорой на свои личные знания) переключается на повествование о конкретном объекте (конкретной «стране»), которое не связано с указанными автором выше признаками</segment>
+		<segment id="122" parent="454" relname="elaboration">(с определением «страны» как «несуразной страны»; с обозначением того факта, что в этой «стране» автор-рассказчик «родился»).</segment>
+		<segment id="123" parent="302" relname="span">Читатель, в свою очередь, также используя определенный опыт</segment>
+		<segment id="124" parent="123" relname="condition">(во многом этот опыт определяется самим текстом),</segment>
+		<segment id="125" parent="307" relname="span">конкретизирует в своем сознании объект отсылки:</segment>
+		<segment id="126" parent="304" relname="span">в сознании читателя оформляется важный для дальнейшего повествования факт:</segment>
+		<segment id="127" parent="126" relname="elaboration">«страна», о которой идет речь, — «Россия»</segment>
+		<segment id="128" parent="462" relname="purpose">(для идентификации объекта</segment>
+		<segment id="129" parent="462" relname="span">используется как общий опыт читателя, так и контекст всего произведения, а также ближайший контекст, в котором задан минимум признаков, необходимых для идентификации объекта,</segment>
+		<segment id="130" parent="129" relname="condition">при осуществляемой далее анафорической отсылке).</segment>
+		<segment id="131" parent="463" relname="same-unit">В контекстах отожествления того или иного объекта описания с другим объектом (явлением)</segment>
+		<segment id="132" parent="133" relname="condition">при отсылке</segment>
+		<segment id="133" parent="464" relname="span">анафорическое местоимение может заключать в себе смысловое соединение двух объектов:</segment>
+		<segment id="134" parent="309" relname="joint">еще не идентифицированного говорящим в полной мере</segment>
+		<segment id="135" parent="309" relname="joint">и того, который возник в контексте как результат идентификации:</segment>
+		<segment id="136" parent="314" relname="span">«Алтарь в следующей комнате оказался массивным канцелярским столом. На нем лежала стопка картонных папок с бумагами... Головы в его алтарном углублении не было вообще» [4, с. 243],</segment>
+		<segment id="137" parent="311" relname="joint">объект, определенный говорящим по функции («алтарь»), идентифицируется</segment>
+		<segment id="138" parent="311" relname="joint">и отожествляется с другим объектом («массивный канцелярский стол»).</segment>
+		<segment id="139" parent="318" relname="same-unit">Для дальнейшего контекста оказывается важным соединение двух признаков объекта:</segment>
+		<segment id="140" parent="316" relname="span">в большей степени внешнего, очевидного говорящему</segment>
+		<segment id="141" parent="315" relname="joint">(говорящий подчеркивает сходство объекта с «канцелярским столом»,</segment>
+		<segment id="142" parent="315" relname="joint">упоминая наличие на нем «картонных папок с бумагами»)</segment>
+		<segment id="143" parent="317" relname="span">и сугубо функционального</segment>
+		<segment id="144" parent="143" relname="elaboration">(далее идет речь о таком признаке, как «алтарное углубление» и функции объекта как «алтаря»).</segment>
+		<segment id="145" parent="319" relname="span">Рассматривая пример другого контекста отожествления:</segment>
+		<segment id="146" parent="145" relname="elaboration">«Алтарные комнаты восемнадцатого и девятнадцатого веков походили на маленькие музейные залы. В них было много картин, у стен стояли секретеры, а на алтарях лежали какие-то толстые фолианты с золотым тиснением» [4, с. 242],</segment>
+		<segment id="147" parent="320" relname="same-unit">мы можем отметить неполноту идентификации объекта.</segment>
+		<segment id="148" parent="321" relname="joint">Говорящий не осуществляет полного отожествления объектов — «алтарных комнат» и «музейных залов»,</segment>
+		<segment id="149" parent="321" relname="joint">отсылка подразумевает только главный для контекста объект, данный в его функциональном значении, важном для говорящего («алтарные комнаты»);</segment>
+		<segment id="150" parent="321" relname="joint">другой объект— «музейные залы» — вводится говорящим в контексте сравнения, как и другие признаки объекта, формирующие этот контекст (наличие «картин», «секретеров», «фолиантов с золотым тиснением»).</segment>
+		<segment id="151" parent="322" relname="span">Возможны и такие случаи компрессии смысла</segment>
+		<segment id="152" parent="151" relname="elaboration">(определяемого конситуацией высказывания),</segment>
+		<segment id="153" parent="324" relname="span">когда местоименная отсылка заключает в себе одновременно дейктические и анафорические признаки:</segment>
+		<segment id="154" parent="332" relname="span">«Маньяк, —подумал я. — Главное не нервничать... Отвлекать его разговором» [4, с. 7]</segment>
+		<segment id="155" parent="329" relname="joint">— в предлагаемой текстом конситуации данного высказывания находятся два участника;</segment>
+		<segment id="156" parent="331" relname="span">персонаж-рассказчик определенным образом характеризует второго участника («маньяк»),</segment>
+		<segment id="157" parent="158" relname="condition">и при осуществлении отсылки (в продолжение своей мысли о данном объекте)</segment>
+		<segment id="158" parent="436" relname="span">говорящий подразумевает как человека, находящегося непосредственно рядом с ним в пространстве конситуации</segment>
+		<segment id="159" parent="325" relname="span">(в подобных случаях возможна отсылка с помощью указательной группы:</segment>
+		<segment id="160" parent="159" relname="elaboration">«этого человека нужно отвлекать разговором»),</segment>
+		<segment id="161" parent="328" relname="span">так и обобщенный объект, связанный с обозначением, данным говорящим реальному участнику («маньяк») и соотнесенный с опытом говорящего</segment>
+		<segment id="162" parent="327" relname="span">(акцент на идентификации участника ситуации с «маньяком» позволила бы сделать отсылка с помощью указательной группы с местоимением «такой», которая часто употребляется в контекстах, обобщающих опыт и знания говорящего:</segment>
+		<segment id="163" parent="162" relname="elaboration">«таких людей нужно отвлекать разговором»).</segment>
+		<segment id="164" parent="336" relname="span">Сложность идентификации антецедента,</segment>
+		<segment id="165" parent="164" relname="elaboration">точного определения антецедента с конкретным наименованием в контексте</segment>
+		<segment id="166" parent="337" relname="joint">часто бывает обусловлена информативной загруженностью контекста (связанного с описанием данного антецедента)</segment>
+		<segment id="167" parent="337" relname="joint">и наличием нескольких отсылок к объекту:</segment>
+		<segment id="168" parent="341" relname="span">«Иван Григорьевич на дружеской ноге со многими финансовыми тузами и крупными бизнесменами, некоторые из которых здесь присутствуют. Все это очень богатые люди. Иван Григорьевич тоже известен им как крупный бизнесмен»</segment>
+		<segment id="169" parent="340" relname="span">[4, с. 266]—в данном примере компрессии анафорическое местоимение «им» представляет собой отсылку, объединившую в себе несколько предыдущих ступеней отсылок</segment>
+		<segment id="170" parent="169" relname="elaboration">(1. «некоторые из которых здесь присутствуют»; 2. «все это очень богатые люди»).</segment>
+		<segment id="171" parent="348" relname="span">Нельзя говорить о том, что лично-указательное местоимение «им» подразумевает какое-то конкретное из предшествующих обозначений объекта.</segment>
+		<segment id="172" parent="347" relname="span">«Им» может означать в данном случае:</segment>
+		<segment id="173" parent="346" relname="joint">1. «многим финансовым тузам и крупным бизнесменам»;</segment>
+		<segment id="174" parent="346" relname="joint">2. «финансовым тузам и крупным бизнесменам, которые здесь присутствуют»;</segment>
+		<segment id="175" parent="345" relname="span">3. «очень богатым людям» в целом,</segment>
+		<segment id="176" parent="342" relname="span">так как отсылка обобщающего характера</segment>
+		<segment id="177" parent="176" relname="elaboration">«все это очень богатые люди»</segment>
+		<segment id="178" parent="343" relname="same-unit">расширяет круг обозначаемых объектов.</segment>
+		<segment id="179" parent="180" relname="condition">В тех случаях, когда возникает сложность при идентификации антецедента,</segment>
+		<segment id="180" parent="466" relname="span">отсылку можно рассматривать как случай полной смысловой компрессии — компрессии всех потенциальных объектов и приписываемых им признаков.</segment>
+		<segment id="181" parent="353" relname="span">Кроме того, эти случаи предоставляют возможность выбора при идентификации наиболее важного объекта и его наименования,</segment>
+		<segment id="182" parent="355" relname="span">например: «Она [природа] считает, что люди — ее дети-уроды. Жуткие, неудачные. Но все-таки ее родные детки, которых ей надо кормить, поскольку иначе они будут страдать от голода»</segment>
+		<segment id="183" parent="357" relname="span">[4, с. 224]—в данном примере выбор наиболее важного наименования при анализе местоименной отсылки будет опираться на выбор одной из возможных точек зрения.</segment>
+		<segment id="184" parent="356" relname="comparison">С точки зрения участника ситуации («природа»), представленного автором в тексте, отсылка может заключать в себе объект, обозначенный как «родные детки»,</segment>
+		<segment id="185" parent="356" relname="comparison">с точки зрения автора (более отвлеченной и обобщающей), объект отсылки — прежде всего «люди».</segment>
+		<segment id="186" parent="358" relname="span">Случай затрудненной идентификации можно наблюдать и в следующем примере,</segment>
+		<segment id="187" parent="186" relname="elaboration">где комплекс приписываемых некоторым объектам признаков также формируется путем нескольких ступеней отсылок:</segment>
+		<segment id="188" parent="358" relname="elaboration">«Некоторые наши тоже увлеклись и стали опрощаться ... Таких сейчас мало осталось, но Озирис один из них» [4, с. 250].</segment>
+		<segment id="189" parent="456" relname="span">Затрудненность идентификации объясняется здесь не только прохождением объекта ступени отсылки с помощью качественно-выделительного местоимения «такой»,</segment>
+		<segment id="190" parent="189" relname="elaboration">которая заключает в себе приписанные объекту признаки («увлеклись и стали опрощаться»),</segment>
+		<segment id="191" parent="361" relname="same-unit">но и невозможностью замены анафорического местоимения объектом, представленным автором с помощью</segment>
+		<segment id="192" parent="360" relname="span">«слабоопределенного»</segment>
+		<segment id="193" parent="192" relname="attribution">(термин Е. В. Падучевой) [3, с. 212]</segment>
+		<segment id="194" parent="364" relname="span">кванторного местоимения «некоторый»</segment>
+		<segment id="195" parent="194" relname="elaboration">(«Озирис один из некоторых наших»).</segment>
+		<segment id="196" parent="197" relname="condition">При определении антецедента лично-указательного местоимения</segment>
+		<segment id="197" parent="424" relname="span">в этом случае необходимо осуществить компрессию смысла с опорой на отсылку с качественно-выделительным местоимением:</segment>
+		<segment id="198" parent="425" relname="elaboration">«Озирис один из таких, которые, как и некоторые наши, увлеклись и стали опрощаться (и которых сейчас осталось мало)».</segment>
+		<segment id="199" parent="200" relname="evidence">Исследуемые примеры в целом демонстрируют,</segment>
+		<segment id="200" parent="431" relname="span">каким образом местоимение 3-го лица выполняет анафорическую текстообразующую функцию.</segment>
+		<segment id="201" parent="429" relname="evidence">Представленный материал дает возможность утверждать,</segment>
+		<segment id="202" parent="422" relname="same-unit">что</segment>
+		<segment id="203" parent="204" relname="condition">при анафорической отсылке</segment>
+		<segment id="204" parent="423" relname="span">в тексте могут создаваться самые разные смысловые отношения между антецедентом и замещающим его местоимением.</segment>
+		<segment id="205" parent="467" relname="span">Одним из наиболее интересных примером усложнения этих отношений можно считать компрессию информации, связанной с объектом местоименной отсылки.</segment>
+		<segment id="206" parent="433" relname="same-unit">Компрессию смысла</segment>
+		<segment id="207" parent="208" relname="condition">при анафорической отсылке</segment>
+		<segment id="208" parent="432" relname="span">в данном случае следует рассматривать как одно из проявлений открытости, свободы в организации смыслового пространства современного текста.</segment>
+		<segment id="209" parent="210" relname="preparation">Список используемой литературы</segment>
+		<segment id="210" relname="antithesis">1\. Евтюхин В. Б. Местоимение: Учеб. пособие. СПб., 2001. 104 с. 2\. Ильин И. П. Постмодернизм. Словарь терминов. М., 2001. 384 с. 3\. Падучева Е. В. Высказывание и его соотнесенность с действительностью. М., 2002. 287 с. 4\. Пелевин В. О. Empire “V”. М., 2006. 408 с. 5\. Толковый словарь русского языка конца ХХ в.: языковые изменения / Под ред. Г. Н. Скляревской. СПб., 1998. 700 с. </segment>
+		<group id="214" type="span" parent="4" relname="cause"/>
+		<group id="215" type="span" parent="439" relname="cause"/>
+		<group id="219" type="span" parent="220" relname="same-unit"/>
+		<group id="220" type="multinuc" parent="221" relname="span"/>
+		<group id="221" type="span" parent="222" relname="span"/>
+		<group id="222" type="span" relname="antithesis"/>
+		<group id="224" type="multinuc" parent="378" relname="span"/>
+		<group id="225" type="multinuc" parent="380" relname="span"/>
+		<group id="226" type="span" parent="225" relname="joint"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="same-unit"/>
+		<group id="231" type="multinuc" parent="225" relname="joint"/>
+		<group id="233" type="span" parent="236" relname="same-unit"/>
+		<group id="234" type="span" parent="41" relname="condition"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" parent="239" relname="comparison"/>
+		<group id="239" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="240" type="span" parent="443" relname="elaboration"/>
+		<group id="244" type="span" parent="239" relname="comparison"/>
+		<group id="247" type="span" relname="antithesis"/>
+		<group id="248" type="span" parent="45" relname="elaboration"/>
+		<group id="249" type="span" parent="47" relname="elaboration"/>
+		<group id="250" type="span" parent="46" relname="evaluation"/>
+		<group id="251" type="multinuc" parent="55" relname="evidence"/>
+		<group id="252" type="span" parent="52" relname="elaboration"/>
+		<group id="253" type="span" parent="446" relname="elaboration"/>
+		<group id="254" type="span" parent="450" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="388" relname="evidence"/>
+		<group id="257" type="multinuc" parent="388" relname="span"/>
+		<group id="258" type="span" parent="259" relname="same-unit"/>
+		<group id="259" type="multinuc" parent="260" relname="joint"/>
+		<group id="260" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="263" type="multinuc" parent="468" relname="elaboration"/>
+		<group id="265" type="span" parent="257" relname="contrast"/>
+		<group id="266" type="multinuc" parent="391" relname="span"/>
+		<group id="270" type="span" parent="271" relname="same-unit"/>
+		<group id="271" type="multinuc" parent="272" relname="joint"/>
+		<group id="272" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="273" type="span" parent="459" relname="elaboration"/>
+		<group id="274" type="span" parent="396" relname="preparation"/>
+		<group id="275" type="span" parent="277" relname="joint"/>
+		<group id="276" type="span" parent="277" relname="joint"/>
+		<group id="277" type="multinuc" parent="287" relname="joint"/>
+		<group id="279" type="span" parent="283" relname="span"/>
+		<group id="280" type="multinuc" parent="94" relname="elaboration"/>
+		<group id="281" type="span" parent="420" relname="elaboration"/>
+		<group id="283" type="span" parent="287" relname="joint"/>
+		<group id="285" type="multinuc" parent="286" relname="joint"/>
+		<group id="286" type="multinuc" parent="418" relname="elaboration"/>
+		<group id="287" type="multinuc" parent="396" relname="span"/>
+		<group id="288" type="span" parent="289" relname="same-unit"/>
+		<group id="289" type="multinuc" parent="399" relname="span"/>
+		<group id="290" type="span" parent="289" relname="same-unit"/>
+		<group id="291" type="span" parent="292" relname="span"/>
+		<group id="292" type="span" parent="401" relname="joint"/>
+		<group id="293" type="span" parent="294" relname="same-unit"/>
+		<group id="294" type="multinuc" parent="111" relname="evidence"/>
+		<group id="295" type="span" parent="294" relname="same-unit"/>
+		<group id="296" type="span" parent="401" relname="joint"/>
+		<group id="298" type="span" parent="406" relname="span"/>
+		<group id="299" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="301" type="span" parent="404" relname="span"/>
+		<group id="302" type="span" parent="125" relname="condition"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="307" relname="purpose"/>
+		<group id="307" type="span" parent="403" relname="span"/>
+		<group id="309" type="multinuc" parent="312" relname="span"/>
+		<group id="310" type="span" relname="antithesis"/>
+		<group id="311" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="408" relname="span"/>
+		<group id="314" type="span" parent="407" relname="span"/>
+		<group id="315" type="multinuc" parent="140" relname="elaboration"/>
+		<group id="316" type="span" parent="318" relname="same-unit"/>
+		<group id="317" type="span" parent="318" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="314" relname="elaboration"/>
+		<group id="319" type="span" parent="320" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="334" relname="span"/>
+		<group id="321" type="multinuc" parent="334" relname="elaboration"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" relname="antithesis"/>
+		<group id="324" type="span" parent="322" relname="elaboration"/>
+		<group id="325" type="span" parent="436" relname="elaboration"/>
+		<group id="327" type="span" parent="161" relname="elaboration"/>
+		<group id="328" type="span" parent="330" relname="comparison"/>
+		<group id="329" type="multinuc" parent="154" relname="elaboration"/>
+		<group id="330" type="multinuc" parent="156" relname="elaboration"/>
+		<group id="331" type="span" parent="329" relname="joint"/>
+		<group id="332" type="span" parent="153" relname="elaboration"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="313" relname="elaboration"/>
+		<group id="336" type="span" parent="338" relname="span"/>
+		<group id="337" type="multinuc" parent="336" relname="condition"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" relname="antithesis"/>
+		<group id="340" type="span" parent="168" relname="elaboration"/>
+		<group id="341" type="span" parent="349" relname="span"/>
+		<group id="342" type="span" parent="343" relname="same-unit"/>
+		<group id="343" type="multinuc" parent="344" relname="span"/>
+		<group id="344" type="span" parent="175" relname="cause"/>
+		<group id="345" type="span" parent="346" relname="joint"/>
+		<group id="346" type="multinuc" parent="172" relname="elaboration"/>
+		<group id="347" type="span" parent="171" relname="cause"/>
+		<group id="348" type="span" parent="341" relname="elaboration"/>
+		<group id="349" type="span" parent="338" relname="elaboration"/>
+		<group id="353" type="span" parent="354" relname="joint"/>
+		<group id="354" type="multinuc" relname="antithesis"/>
+		<group id="355" type="span" parent="181" relname="elaboration"/>
+		<group id="356" type="multinuc" parent="183" relname="elaboration"/>
+		<group id="357" type="span" parent="182" relname="elaboration"/>
+		<group id="358" type="span" parent="359" relname="span"/>
+		<group id="359" type="span" parent="409" relname="span"/>
+		<group id="360" type="span" parent="361" relname="same-unit"/>
+		<group id="361" type="multinuc" parent="359" relname="cause"/>
+		<group id="364" type="span" parent="361" relname="same-unit"/>
+		<group id="370" type="multinuc" parent="371" relname="span"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="373" relname="joint"/>
+		<group id="373" type="multinuc" parent="244" relname="span"/>
+		<group id="374" type="multinuc" parent="224" relname="same-unit"/>
+		<group id="375" type="span" parent="112" relname="elaboration"/>
+		<group id="377" type="span" parent="444" relname="preparation"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="380" relname="preparation"/>
+		<group id="380" type="span" parent="381" relname="span"/>
+		<group id="381" type="span" parent="382" relname="span"/>
+		<group id="382" type="span" relname="antithesis"/>
+		<group id="388" type="span" parent="389" relname="span"/>
+		<group id="389" type="span" parent="254" relname="elaboration"/>
+		<group id="391" type="span" parent="255" relname="evidence"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" relname="antithesis"/>
+		<group id="399" type="span" parent="400" relname="span"/>
+		<group id="400" type="span" relname="antithesis"/>
+		<group id="401" type="multinuc" parent="399" relname="elaboration"/>
+		<group id="402" type="span" parent="405" relname="span"/>
+		<group id="403" type="span" parent="301" relname="elaboration"/>
+		<group id="404" type="span" parent="402" relname="elaboration"/>
+		<group id="405" type="span" parent="298" relname="elaboration"/>
+		<group id="406" type="span" relname="antithesis"/>
+		<group id="407" type="span" parent="312" relname="elaboration"/>
+		<group id="408" type="span" parent="465" relname="elaboration"/>
+		<group id="409" type="span" parent="426" relname="solutionhood"/>
+		<group id="414" type="span" parent="415" relname="same-unit"/>
+		<group id="415" type="multinuc" parent="381" relname="preparation"/>
+		<group id="416" type="span" parent="417" relname="same-unit"/>
+		<group id="417" type="multinuc" parent="420" relname="span"/>
+		<group id="418" type="span" parent="421" relname="span"/>
+		<group id="419" type="span" relname="antithesis"/>
+		<group id="420" type="span" parent="418" relname="span"/>
+		<group id="421" type="span" parent="419" relname="span"/>
+		<group id="422" type="multinuc" parent="428" relname="span"/>
+		<group id="423" type="span" parent="422" relname="same-unit"/>
+		<group id="424" type="span" parent="425" relname="span"/>
+		<group id="425" type="span" parent="426" relname="span"/>
+		<group id="426" type="span" parent="427" relname="span"/>
+		<group id="427" type="span" relname="antithesis"/>
+		<group id="428" type="span" parent="429" relname="span"/>
+		<group id="429" type="span" parent="430" relname="span"/>
+		<group id="430" type="span" parent="435" relname="span"/>
+		<group id="431" type="span" parent="430" relname="preparation"/>
+		<group id="432" type="span" parent="433" relname="same-unit"/>
+		<group id="433" type="multinuc" parent="205" relname="elaboration"/>
+		<group id="435" type="span" relname="antithesis"/>
+		<group id="436" type="span" parent="437" relname="span"/>
+		<group id="437" type="span" parent="330" relname="comparison"/>
+		<group id="438" type="span" parent="304" relname="elaboration"/>
+		<group id="439" type="span" parent="440" relname="span"/>
+		<group id="440" type="span" parent="441" relname="span"/>
+		<group id="441" type="span" relname="antithesis"/>
+		<group id="442" type="span" parent="373" relname="joint"/>
+		<group id="443" type="span" parent="444" relname="span"/>
+		<group id="444" type="span" parent="445" relname="span"/>
+		<group id="445" type="span" relname="antithesis"/>
+		<group id="446" type="span" parent="448" relname="span"/>
+		<group id="447" type="span" parent="48" relname="cause"/>
+		<group id="448" type="span" parent="449" relname="joint"/>
+		<group id="449" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="450" type="span" parent="449" relname="joint"/>
+		<group id="451" type="span" parent="299" relname="joint"/>
+		<group id="452" type="multinuc" parent="454" relname="span"/>
+		<group id="453" type="span" parent="452" relname="same-unit"/>
+		<group id="454" type="span" parent="301" relname="span"/>
+		<group id="456" type="span" parent="361" relname="same-unit"/>
+		<group id="457" type="multinuc" parent="459" relname="span"/>
+		<group id="458" type="span" parent="457" relname="same-unit"/>
+		<group id="459" type="span" parent="274" relname="span"/>
+		<group id="460" type="span" parent="461" relname="span"/>
+		<group id="461" type="span" parent="287" relname="joint"/>
+		<group id="462" type="span" parent="438" relname="span"/>
+		<group id="463" type="multinuc" parent="465" relname="span"/>
+		<group id="464" type="span" parent="463" relname="same-unit"/>
+		<group id="465" type="span" parent="310" relname="span"/>
+		<group id="466" type="span" parent="354" relname="joint"/>
+		<group id="467" type="span" parent="428" relname="elaboration"/>
+		<group id="468" type="span" parent="469" relname="span"/>
+		<group id="469" type="span" parent="260" relname="joint"/>
+  </body>
+</rst>

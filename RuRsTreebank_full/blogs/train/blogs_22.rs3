@@ -1,0 +1,939 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://odin-moy-den.livejournal.com/2214902.html</segment>
+		<segment id="2" >##### Субботний день эмигрантки в Праге.</segment>
+		<segment id="3" >##### Всем привет :)</segment>
+		<segment id="4" parent="479" relname="preparation">##### Это мой... первый пост в этом сообществе.</segment>
+		<segment id="5" parent="479" relname="contrast">Идея вообще-то крутилась давно,</segment>
+		<segment id="6" parent="480" relname="span">но я все время забывала:</segment>
+		<segment id="7" parent="482" relname="joint">то полдня пройдет, как я вспомню, что хотела фиксировать события дня,</segment>
+		<segment id="8" parent="481" relname="contrast">то начинала,</segment>
+		<segment id="9" parent="481" relname="contrast">но потом как все заверте!</segment>
+		<segment id="10" parent="827" relname="span">Наконец, ура, я сделала это!</segment>
+		<segment id="11" parent="801" relname="preparation">##### Представлюсь:</segment>
+		<segment id="12" parent="484" relname="joint">меня зовут Света,</segment>
+		<segment id="13" parent="484" relname="joint">мне 39</segment>
+		<segment id="14" parent="486" relname="span">и я живу в Праге.</segment>
+		<segment id="15" parent="485" relname="span">Переехала сюда недавно - 29 декабря прошлого года из Англии,</segment>
+		<segment id="16" parent="15" relname="background">где прожила более 7 лет.</segment>
+		<segment id="17" parent="486" relname="background">А родом я из Риги (привет землякам) :)</segment>
+		<segment id="18" parent="488" relname="span">Работаю в отделе комплаенс</segment>
+		<segment id="19" parent="18" relname="elaboration">(слежу за соответствием деятельности организации нормам и законам) фармакомпании.</segment>
+		<segment id="20" parent="491" relname="cause">Согласно политике компании,</segment>
+		<segment id="21" parent="489" relname="span">освещать внутреннюю среду и работу</segment>
+		<segment id="22" parent="21" relname="condition">без согласования</segment>
+		<segment id="23" parent="490" relname="same-unit">нельзя,</segment>
+		<segment id="24" parent="493" relname="span">поэтому для сообщества я выбрала выходной день,</segment>
+		<segment id="25" parent="496" relname="span">тем более, у нас сейчас каникулы</segment>
+		<segment id="26" parent="25" relname="elaboration">и на них запланировано все то, что частенько не влезает в рабочий день.</segment>
+		<segment id="27" parent="523" relname="span">Итак, под катом 63 фотографии выходного дня, 22 декабря 2018 года.</segment>
+		<segment id="28" parent="497" relname="cause">##### С 20 декабря у нас корпоративные каникулы</segment>
+		<segment id="29" parent="497" relname="joint">и это дает не только спокойно подготовиться к зимним праздникам,</segment>
+		<segment id="30" parent="497" relname="joint">но и отдохнуть (а на работу 2 января, да).</segment>
+		<segment id="31" parent="500" relname="cause">В Праге я первый год,</segment>
+		<segment id="32" parent="500" relname="joint">поэтому многие бытовые моменты еще не устаканились,</segment>
+		<segment id="33" parent="500" relname="joint">да и город я еще не досконально изучила.</segment>
+		<segment id="34" parent="499" relname="elaboration">##### IMG</segment>
+		<segment id="35" parent="842" relname="span">##### Утро начинается около 9.</segment>
+		<segment id="36" parent="502" relname="joint">Все будильники отключены,</segment>
+		<segment id="37" parent="502" relname="joint">графики сбиты,</segment>
+		<segment id="38" parent="502" relname="evaluation">ощущение свободы безгранично :)</segment>
+		<segment id="39" parent="842" relname="elaboration">##### IMG</segment>
+		<segment id="40" parent="843" relname="span">##### Как же без соц.сетей? :)</segment>
+		<segment id="41" parent="40" relname="elaboration">У меня невообразимый микс из новостей в ленте: новости от близких друзей, которых разбросало по всему миру, новости латвийские, чешские, мировые.</segment>
+		<segment id="42" parent="843" relname="elaboration">##### IMG</segment>
+		<segment id="43" parent="844" relname="span">##### Лохматое утро.</segment>
+		<segment id="44" parent="509" relname="span">В плане селфи я какой-то перфекционист.</segment>
+		<segment id="45" parent="507" relname="joint">То мне не нравится как близкая камера искажает лицо,</segment>
+		<segment id="46" parent="507" relname="joint">то не нравится одинаковая поза с вытянутой рукой :)</segment>
+		<segment id="47" parent="508" relname="span">Поэтому себяшек у меня мало (не только в этом посте, вообще).</segment>
+		<segment id="48" parent="844" relname="elaboration">##### IMG</segment>
+		<segment id="49" parent="512" relname="span">##### Минимальный завтрак: чай, творог с малиной</segment>
+		<segment id="50" parent="49" relname="concession">(нет, печенек не было, это обман зрения).</segment>
+		<segment id="51" parent="511" relname="joint">Минимальный потому, что иду в бассейн,</segment>
+		<segment id="52" parent="514" relname="span">а завтрак - потому что не могу не завтракать.</segment>
+		<segment id="53" parent="52" relname="concession">Хотя бы чай должен быть обязательно.</segment>
+		<segment id="54" parent="845" relname="span">По телевизору - ретро-музыка,</segment>
+		<segment id="55" parent="516" relname="span">это единственный канал, который я знаю</segment>
+		<segment id="56" parent="515" relname="joint">(тв не смотрю вообще,</segment>
+		<segment id="57" parent="515" relname="joint">в Англии у меня и телевизора-то не было).</segment>
+		<segment id="58" parent="847" relname="elaboration">##### IMG</segment>
+		<segment id="59" parent="517" relname="sequence">##### Надеваю теплый махровый халат</segment>
+		<segment id="60" parent="517" relname="sequence">и выхожу с чаем на балкон.</segment>
+		<segment id="61" parent="517" relname="background">Это почти ежеутренний ритуал (исключение - проливной дождь и ураганный ветер).</segment>
+		<segment id="62" parent="63" relname="cause">Сутки лил дождь,</segment>
+		<segment id="63" parent="519" relname="span">ковер еще не высох</segment>
+		<segment id="64" parent="520" relname="joint">- хочу его снять</segment>
+		<segment id="65" parent="520" relname="joint">и скрутить в рулон.</segment>
+		<segment id="66" parent="524" relname="cause">Осень была теплой</segment>
+		<segment id="67" parent="524" relname="joint">и я лишь в ноябре сняла подушки,</segment>
+		<segment id="68" parent="524" relname="joint">убрала шезлонг</segment>
+		<segment id="69" parent="524" relname="joint">и переставила цветы в комнаты.</segment>
+		<segment id="70" parent="526" relname="joint">Оставшиеся горшки надо убрать</segment>
+		<segment id="71" parent="526" relname="joint">и почистить</segment>
+		<segment id="72" parent="526" relname="evaluation">- это оставим на воскресенье.</segment>
+		<segment id="73" parent="531" relname="span">Погода так себе - ветерок и намечающийся дождь.</segment>
+		<segment id="74" parent="73" relname="background">Пражане давно уже не видели белого Рождества.</segment>
+		<segment id="75" parent="530" relname="elaboration">##### IMG</segment>
+		<segment id="76" parent="539" relname="preparation">##### Еще немного утренней прокрастинации.</segment>
+		<segment id="77" parent="533" relname="span">В октябре выбрались с подругой в Дрезден,</segment>
+		<segment id="78" parent="77" relname="background">от Праги тут два часа на автобусе,</segment>
+		<segment id="79" parent="533" relname="elaboration">погуляли по дрезденской галерее.</segment>
+		<segment id="80" parent="81" relname="cause">Репродукции Шоколадницы я видела давно, а вот в реале - впервые.</segment>
+		<segment id="81" parent="538" relname="span">Так что, недолго думая, приобрела паззл</segment>
+		<segment id="82" parent="536" relname="span">и оставила его до каникул</segment>
+		<segment id="83" parent="537" relname="span">(иначе бессонные ночи на рабочей неделе мне гарантированы</segment>
+		<segment id="84" parent="83" relname="cause">- в плане паззлов я азартна).</segment>
+		<segment id="85" parent="542" relname="sequence">Самое время приступить к собиранию. Недолго. И за сборы!</segment>
+		<segment id="86" parent="542" relname="elaboration">##### IMG</segment>
+		<segment id="87" parent="543" relname="span">##### Полгода я ходила в бассейн,</segment>
+		<segment id="88" parent="795" relname="span">что где-то в получасе езды от дома и от офиса.</segment>
+		<segment id="89" parent="88" relname="evaluation">Полчаса - для Праги это значительно :)</segment>
+		<segment id="90" parent="544" relname="span">Искала бассейны в округе.</segment>
+		<segment id="91" parent="90" relname="elaboration">Съездила в один - те же полчаса.</segment>
+		<segment id="92" parent="812" relname="attribution">А тут, коллеги рассказали</segment>
+		<segment id="93" parent="812" relname="span">- рядом с офисом отель,</segment>
+		<segment id="94" parent="93" relname="elaboration">в отеле спортзал с бассейном.</segment>
+		<segment id="95" parent="813" relname="elaboration">Вот сегодня я туда и иду на разведку.</segment>
+		<segment id="96" parent="548" relname="span">Да, уже 10:40.</segment>
+		<segment id="97" parent="546" relname="contrast">На работу я собираюсь за 40 минут,</segment>
+		<segment id="98" parent="99" relname="condition">но если у меня свободный режим</segment>
+		<segment id="99" parent="547" relname="span">- я черепашу. :)</segment>
+		<segment id="100" parent="850" relname="elaboration">##### IMG</segment>
+		<segment id="101" parent="552" relname="span">##### Живу я на стыке центра и спальных районов.</segment>
+		<segment id="102" parent="549" relname="span">Здесь смешение частного сектора и многоквартирных домов.</segment>
+		<segment id="103" parent="102" relname="background">Истинно спальные районы (со знакомыми всем многоэтажками и многоподъездниками) дальше на 4 станции метро.</segment>
+		<segment id="104" parent="105" relname="cause">Район выбирала только в ближнем радиусе от работы.</segment>
+		<segment id="105" parent="550" relname="span">И сейчас до работы мне 20 минут пешком или 10 минут на автобусе.</segment>
+		<segment id="106" parent="550" relname="evaluation">Идеально.</segment>
+		<segment id="107" parent="553" relname="elaboration">##### IMG</segment>
+		<segment id="108" parent="554" relname="preparation">##### Отели, дома, офисы вперемешку.</segment>
+		<segment id="109" parent="554" relname="span">Тепло. +8. Декабрь :)</segment>
+		<segment id="110" parent="796" relname="contrast">Хотя уже выпадал первый снег (в конце ноября), и даже второй (в начале декабря).</segment>
+		<segment id="111" parent="796" relname="contrast">А сейчас такая теплая и дождливая осень.</segment>
+		<segment id="112" parent="821" relname="contrast">Прогнозируют снижение температуры аж до +4 к концу месяца.</segment>
+		<segment id="113" parent="556" relname="span">В Праге я прожила все 4 сезона</segment>
+		<segment id="114" parent="555" relname="contrast">и кроме лета, которое вызвало у меня климатический шок (+35+38),</segment>
+		<segment id="115" parent="555" relname="contrast">особых потрясений не было.</segment>
+		<segment id="116" parent="557" relname="comparison">Влажность выше, чем в Англии,</segment>
+		<segment id="117" parent="557" relname="comparison">но ниже, чем в родной Риге.</segment>
+		<segment id="118" parent="558" relname="span">Ах да и снега в Праге больше, чем в Бирмингеме</segment>
+		<segment id="119" parent="118" relname="elaboration">(даже если в Праге он 5 раз за зиму). :))</segment>
+		<segment id="120" parent="829" relname="elaboration">##### IMG</segment>
+		<segment id="121" parent="853" relname="span">##### Неспешно к 11 утра я подошла к своей цели.</segment>
+		<segment id="122" parent="560" relname="span">Мне нужен 24-й этаж вот этого бежевого здания.</segment>
+		<segment id="123" parent="122" relname="background">А за V-образным зданием - моя работа.</segment>
+		<segment id="124" parent="853" relname="elaboration">##### IMG</segment>
+		<segment id="125" parent="126" relname="condition">##### Пока поднимаюсь в лифте,</segment>
+		<segment id="126" parent="856" relname="span">делаю на заметку фото со временем работы спортзала в празднчные дни.</segment>
+		<segment id="127" parent="831" relname="preparation">В Праге Рождество - это выходные 24, 25 и 26 декабря.</segment>
+		<segment id="128" parent="564" relname="attribution">В этом году был принят закон,</segment>
+		<segment id="129" parent="565" relname="joint">что в официальные праздничные выходные торговые центры и магазины площадью свыше 200 кв.м. должны быть закрыты.</segment>
+		<segment id="130" parent="563" relname="span">Маленькие частные магазинчики оставлены на усмотрение хозяев</segment>
+		<segment id="131" parent="130" relname="elaboration">- в основном, закрыты, как я успела заметить.</segment>
+		<segment id="132" parent="566" relname="restatement">Из продуктовых будут работать "вечерки"</segment>
+		<segment id="133" parent="567" relname="span">(или, как их тут называют "вьетнамки",</segment>
+		<segment id="134" parent="133" relname="cause">из-за хозяев-вьетнамцев).</segment>
+		<segment id="135" parent="136" relname="condition">Так что если вижу где расписание на Рождество</segment>
+		<segment id="136" parent="800" relname="span">- обязательно фиксирую.</segment>
+		<segment id="137" parent="857" relname="elaboration">##### IMG</segment>
+		<segment id="138" parent="569" relname="sequence">##### Получаю ключ от шкафчика</segment>
+		<segment id="139" parent="569" relname="sequence">и иду переодеваться.</segment>
+		<segment id="140" parent="570" relname="span">Шкафчики, душевые кабинки.</segment>
+		<segment id="141" parent="573" relname="span">Аккуратно, чисто.</segment>
+		<segment id="142" parent="571" relname="span">Почему я так щепетильна?</segment>
+		<segment id="143" parent="142" relname="elaboration">Ну, в отношении чистоты общественных мест - очень.</segment>
+		<segment id="144" parent="572" relname="span">К тому же был неприятный опыт в Бирмингеме, где приходилось мириться со своеобразным отношением к чистоте и гигиене.</segment>
+		<segment id="145" parent="858" relname="elaboration">##### IMG</segment>
+		<segment id="146" parent="574" relname="contrast">##### Спорткомплекс небольшой,</segment>
+		<segment id="147" parent="574" relname="contrast">но вмещает в себя всё: бассейн, джакузи, тренажерный зал, массажный кабинет.</segment>
+		<segment id="148" parent="581" relname="contrast">Весьма удобно.</segment>
+		<segment id="149" parent="577" relname="same-unit">Единственное но</segment>
+		<segment id="150" parent="151" relname="condition">- если отель переполнен,</segment>
+		<segment id="151" parent="576" relname="span">тут яблоку негде упасть.</segment>
+		<segment id="152" parent="808" relname="condition">Коллега была в начале декабря,</segment>
+		<segment id="153" parent="578" relname="attribution">говорит,</segment>
+		<segment id="154" parent="578" relname="contrast">в бассейне не плавала</segment>
+		<segment id="155" parent="578" relname="contrast">- ходила.</segment>
+		<segment id="156" parent="587" relname="contrast">Отель не сильно туристический,</segment>
+		<segment id="157" parent="586" relname="span">больше деловой</segment>
+		<segment id="158" parent="583" relname="joint">- приезжают делегации,</segment>
+		<segment id="159" parent="583" relname="joint">устраиваются конференции,</segment>
+		<segment id="160" parent="585" relname="same-unit">да и наши коллеги из других стран,</segment>
+		<segment id="161" parent="162" relname="condition">приезжая в командировку в Прагу,</segment>
+		<segment id="162" parent="584" relname="span">останавливаются здесь же.</segment>
+		<segment id="163" parent="590" relname="span">Ну что ж, в январе народу много не будет, а там посмотрим.</segment>
+		<segment id="164" parent="588" relname="joint">Расположение идеальное,</segment>
+		<segment id="165" parent="588" relname="joint">выбор активностей широкий.</segment>
+		<segment id="166" parent="588" relname="joint">А, да. И вид прекрасный (окно во весь размер зала).</segment>
+		<segment id="167" parent="825" relname="elaboration">##### IMG</segment>
+		<segment id="168" parent="591" relname="joint">##### С удовольствием поплавала,</segment>
+		<segment id="169" parent="591" relname="joint">повтыкала на вид.</segment>
+		<segment id="170" parent="592" relname="sequence">Пора собираться.</segment>
+		<segment id="171" parent="823" relname="span">Да, поясню, чем фотографирую</segment>
+		<segment id="172" parent="836" relname="span">- у меня два телефона.</segment>
+		<segment id="173" parent="172" relname="elaboration">Чешский и британский.</segment>
+		<segment id="174" parent="816" relname="span">В начале года было 3 (еще и латвийский).</segment>
+		<segment id="175" parent="593" relname="span">Латвийский закрыла,</segment>
+		<segment id="176" parent="175" relname="condition">как только поняла, что в Ригу уже не вернусь.</segment>
+		<segment id="177" parent="594" relname="contrast">От британского избавлюсь в марте.</segment>
+		<segment id="178" parent="179" relname="evaluation">А пока удобно</segment>
+		<segment id="179" parent="595" relname="span">- роуминга в Европе нет.</segment>
+		<segment id="180" parent="817" relname="elaboration">##### IMG</segment>
+		<segment id="181" parent="611" relname="sequence">##### Домой возвращаюсь той же дорогой.</segment>
+		<segment id="182" parent="613" relname="span">Проверяю почтовый ящик.</segment>
+		<segment id="183" parent="599" relname="span">К этому пришлось привыкнуть.</segment>
+		<segment id="184" parent="598" relname="same-unit">После 7,5 лет в Англии,</segment>
+		<segment id="185" parent="186" relname="condition">когда вся почта сваливается через почтовую щель прямо в квартиру,</segment>
+		<segment id="186" parent="597" relname="span">пришлось заново привыкать к почтовому ящику.</segment>
+		<segment id="187" parent="600" relname="span">В самом начале своей пражской жизни, я сделала еще одно открытие</segment>
+		<segment id="188" parent="601" relname="contrast">- пражане не пишут на почтовых ящиках номера квартир.</segment>
+		<segment id="189" parent="614" relname="span">Вместо них они пишут фамилии.</segment>
+		<segment id="190" parent="602" relname="joint">Квартиры сдаются,</segment>
+		<segment id="191" parent="602" relname="joint">снимаются</segment>
+		<segment id="192" parent="603" relname="span">- каждый раз лепится новая наклейка.</segment>
+		<segment id="193" parent="604" relname="span">Из-за этого многие ящики имеют непрезентабельный вид.</segment>
+		<segment id="194" parent="605" relname="joint">Я как-то задалась вопросом: что если почтальон новый,</segment>
+		<segment id="195" parent="605" relname="joint">а в его ведении многоподъездный, многоквартирный дом?</segment>
+		<segment id="196" parent="612" relname="span">Это ж каждый раз читать постоянно меняющиеся фамилии!</segment>
+		<segment id="197" parent="861" relname="span">Вот так ящики выглядят снаружи.</segment>
+		<segment id="198" parent="197" relname="elaboration">##### IMG</segment>
+		<segment id="199" parent="606" relname="contrast">##### А вот так внутри.</segment>
+		<segment id="200" parent="607" relname="attribution">Как мне объяснили,</segment>
+		<segment id="201" parent="202" relname="condition">если пакет объемный,</segment>
+		<segment id="202" parent="818" relname="span">то почтальон заходит внутрь</segment>
+		<segment id="203" parent="607" relname="sequence">и кладет его сверху, на ящики.</segment>
+		<segment id="204" parent="609" relname="same-unit">Или,</segment>
+		<segment id="205" parent="837" relname="condition">если почтальон ленив,</segment>
+		<segment id="206" parent="837" relname="sequence">оставляет извещение</segment>
+		<segment id="207" parent="837" relname="sequence">и за пакетом приходится идти в почтовое отделение.</segment>
+		<segment id="208" parent="833" relname="elaboration">##### IMG</segment>
+		<segment id="209" parent="210" relname="evaluation">##### Чехи знатно спамят</segment>
+		<segment id="210" parent="617" relname="span">- я проверяла ящик два дня назад.</segment>
+		<segment id="211" parent="621" relname="span">Множество буклетов, рекламок, скидочных талонов.</segment>
+		<segment id="212" parent="211" relname="evaluation">Я за год еще не выучила названия всех магазинов!</segment>
+		<segment id="213" parent="620" relname="contrast">Можно, конечно, швырнуть все в мусорку,</segment>
+		<segment id="214" parent="619" relname="same-unit">но</segment>
+		<segment id="215" parent="216" relname="condition">пока еще на этот адрес приходят письма хозяйке квартиры,</segment>
+		<segment id="216" parent="618" relname="span">приходится пролистывать всё.</segment>
+		<segment id="217" parent="625" relname="elaboration">##### IMG</segment>
+		<segment id="218" parent="628" relname="span">##### Как-то уже проголодалась.</segment>
+		<segment id="219" parent="626" relname="span">Не настолько,</segment>
+		<segment id="220" parent="219" relname="condition">чтобы полноценно готовить,</segment>
+		<segment id="221" parent="627" relname="span">поэтому доедаю пачку творога с малиной и бананом.</segment>
+		<segment id="222" parent="629" relname="joint">Ну и немного паззла :)</segment>
+		<segment id="223" parent="629" relname="elaboration">##### IMG</segment>
+		<segment id="224" parent="631" relname="span">##### Переодеваюсь и на выход.</segment>
+		<segment id="225" parent="224" relname="cause">У меня еще есть дела.</segment>
+		<segment id="226" parent="631" relname="elaboration">##### IMG</segment>
+		<segment id="227" parent="630" relname="span">##### Попытка селфи.</segment>
+		<segment id="228" parent="227" relname="evaluation">Непохожа на себя. Вообще :))</segment>
+		<segment id="229" parent="630" relname="elaboration">##### IMG</segment>
+		<segment id="230" parent="867" relname="span">##### Проверка времени и транспорта.</segment>
+		<segment id="231" parent="230" relname="elaboration">##### IMG</segment>
+		<segment id="232" parent="868" relname="span">##### Тот самый частный сектор.</segment>
+		<segment id="233" parent="232" relname="elaboration">##### IMG</segment>
+		<segment id="234" parent="636" relname="span">##### Мне нужен 118 автобус,</segment>
+		<segment id="235" parent="637" relname="span">поэтому иду с другой стороны, чем обычно,</segment>
+		<segment id="236" parent="635" relname="same-unit">но всегда,</segment>
+		<segment id="237" parent="238" relname="condition">проходя мимо этого дома,</segment>
+		<segment id="238" parent="634" relname="span">улыбаюсь.</segment>
+		<segment id="239" parent="636" relname="elaboration">##### IMG</segment>
+		<segment id="240" parent="871" relname="span">##### Карта Праги. Я живу вот тут.</segment>
+		<segment id="241" parent="240" relname="elaboration">##### IMG</segment>
+		<segment id="242" parent="645" relname="span">##### Сажусь в автобус.</segment>
+		<segment id="243" parent="644" relname="span">Транспорт в Праге - один из лучших, что я видела в Европе.</segment>
+		<segment id="244" parent="243" relname="elaboration">Короли, конечно, трамваи и метро.</segment>
+		<segment id="245" parent="652" relname="span">Очень удобная система проездных - не только месячный, но и годовой.</segment>
+		<segment id="246" parent="643" relname="span">Небольшая сравнительная характеристика.</segment>
+		<segment id="247" parent="639" relname="comparison">В Праге годовой проездной обойдется в 143 евро,</segment>
+		<segment id="248" parent="639" relname="comparison">в Бирмингеме - 805,</segment>
+		<segment id="249" parent="639" relname="comparison">в Риге - 600 евро.</segment>
+		<segment id="250" parent="640" relname="comparison">Одноразовые билеты: на полчаса стоит 24 кроны (0,95 евро),</segment>
+		<segment id="251" parent="640" relname="comparison">на 90 минут - 32,</segment>
+		<segment id="252" parent="640" relname="comparison">на весь день - 110 крон (4,30 евро),</segment>
+		<segment id="253" parent="640" relname="comparison">на 3 дня - 310.</segment>
+		<segment id="254" parent="642" relname="contrast">Правда, говорят, что с нового года подорожают.</segment>
+		<segment id="255" parent="646" relname="joint">Приобрести билеты у водителя невозможно,</segment>
+		<segment id="256" parent="647" relname="contrast">кондукторов тут тоже нет</segment>
+		<segment id="257" parent="647" relname="contrast">(контролеры, кстати, встречаются).</segment>
+		<segment id="258" parent="648" relname="span">Поэтому своим гостям я заранее покупаю несколько штук.</segment>
+		<segment id="259" parent="649" relname="joint">Компостируют билет вот в этих желтых ящиках со светящейся стрелочкой.</segment>
+		<segment id="260" parent="834" relname="elaboration">##### IMG</segment>
+		<segment id="261" parent="655" relname="sequence">##### Ехать минут 10, на другой берег Влтавы.</segment>
+		<segment id="262" parent="654" relname="span">Потом пересаживаюсь на желтую ветку метро.</segment>
+		<segment id="263" parent="653" relname="span">Люблю метро.</segment>
+		<segment id="264" parent="263" relname="elaboration">Точнее, люблю города, в которых есть метро :)</segment>
+		<segment id="265" parent="656" relname="span">В Праге оно неглубокое</segment>
+		<segment id="266" parent="265" relname="elaboration">и то и дело выныривает на поверхность.</segment>
+		<segment id="267" parent="655" relname="elaboration">##### IMG</segment>
+		<segment id="268" parent="658" relname="evaluation">##### Желтая ветка метро брутальна.</segment>
+		<segment id="269" parent="657" relname="joint">Немного напоминает питерскую - двери с грохотом закрываются,</segment>
+		<segment id="270" parent="657" relname="joint">вагоны с лязгом проносятся по тунелям.</segment>
+		<segment id="271" parent="660" relname="span">Моя обычная ветка - красная,</segment>
+		<segment id="272" parent="271" relname="evaluation">вся такая тишайшая, прилизанная :)))</segment>
+		<segment id="273" parent="661" relname="elaboration">##### IMG</segment>
+		<segment id="274" parent="874" relname="joint">##### Приехала.</segment>
+		<segment id="275" parent="874" relname="joint">Таймчек и наверх.</segment>
+		<segment id="276" parent="874" relname="elaboration">##### IMG</segment>
+		<segment id="277" parent="876" relname="span">##### Наверху внезапно взгляд цепляется за искусство :))</segment>
+		<segment id="278" parent="277" relname="elaboration">##### IMG</segment>
+		<segment id="279" parent="665" relname="span">##### Приехала я в район Смихов-Андел,</segment>
+		<segment id="280" parent="279" relname="background">где обычно бываю редко.</segment>
+		<segment id="281" parent="667" relname="joint">Смихов - промышленный район, Андел - экспатско-тусовочный.</segment>
+		<segment id="282" parent="667" relname="joint">Тут у меня две остановки.</segment>
+		<segment id="283" parent="284" relname="condition">Пока иду до нужного магазина,</segment>
+		<segment id="284" parent="666" relname="span">осматриваю окрестности.</segment>
+		<segment id="285" parent="672" relname="span">На любой, мало-мальски людной площади развернуты рождественские рыночки.</segment>
+		<segment id="286" parent="285" relname="elaboration">Тут есть все, в топе, конечно, горячее вино, трдельник (лакомство из теста с сахаром и корицей), хот-доги, да блюда из свинины на вертеле.</segment>
+		<segment id="287" parent="670" relname="contrast">Основная часть рождественских рыночков работает до конца года,</segment>
+		<segment id="288" parent="670" relname="contrast">но самые крупные в центре - до 6 января.</segment>
+		<segment id="289" parent="670" relname="elaboration">Наметила себе до конца года обойти их все :))</segment>
+		<segment id="290" parent="879" relname="elaboration">##### IMG</segment>
+		<segment id="291" parent="880" relname="span">##### А это - чисто чешское.</segment>
+		<segment id="292" parent="675" relname="span">За дня два до Рождества практически на всех углах стоят вот такие вот палатки.</segment>
+		<segment id="293" parent="674" relname="span">Здесь продают живых карпов.</segment>
+		<segment id="294" parent="673" relname="joint">Запеченный карп - главное блюдо чешского рождественского стола.</segment>
+		<segment id="295" parent="673" relname="joint">И продают их только до 24 числа.</segment>
+		<segment id="296" parent="880" relname="elaboration">##### IMG</segment>
+		<segment id="297" parent="682" relname="joint">##### Говорят, что в последнее время, 25-26 декабря все больше людей выходят на набережные Влтавы</segment>
+		<segment id="298" parent="679" relname="span">и выпускают в реку живых карпов,</segment>
+		<segment id="299" parent="681" relname="same-unit">которые</segment>
+		<segment id="300" parent="301" relname="cause">из милосердия</segment>
+		<segment id="301" parent="680" relname="span">не стали украшением праздничного стола.</segment>
+		<segment id="302" parent="303" relname="cause">Честно скажу - я рыбу не ем вообще (как и любые морепродукты),</segment>
+		<segment id="303" parent="822" relname="span">поэтому полюбопытствовала, но и только.</segment>
+		<segment id="304" parent="881" relname="elaboration">##### IMG</segment>
+		<segment id="305" parent="884" relname="span">##### Ёлочные базары тоже работают только до 24 числа.</segment>
+		<segment id="306" parent="819" relname="span">Цены на ёлки разные</segment>
+		<segment id="307" parent="306" relname="elaboration">- 1,5м стоит где-то 500-600 крон (20-25 евро).</segment>
+		<segment id="308" parent="884" relname="elaboration">##### IMG</segment>
+		<segment id="309" parent="684" relname="contrast">##### А вот и моя цель. Книжный супермаркет.</segment>
+		<segment id="310" parent="684" relname="contrast">Но я сюда за открытками пришла.</segment>
+		<segment id="311" parent="312" relname="solutionhood">Нужно докупить несколько,</segment>
+		<segment id="312" parent="686" relname="span">а в одном из сообществ прочитала, что тут просто открыточный рай.</segment>
+		<segment id="313" parent="685" relname="contrast">Что ж, всегда надо понимать, что то, что для одного вау,</segment>
+		<segment id="314" parent="685" relname="contrast">для другого - мда?.</segment>
+		<segment id="315" parent="688" relname="span">Рая не оказалось,</segment>
+		<segment id="316" parent="315" relname="condition">если не считать пару штативов с не очень большим выбором.</segment>
+		<segment id="317" parent="690" relname="contrast">Но может все распродали?</segment>
+		<segment id="318" parent="691" relname="sequence">Купила три штуки</segment>
+		<segment id="319" parent="691" relname="sequence">и покинула заведение.</segment>
+		<segment id="320" parent="693" relname="elaboration">##### IMG</segment>
+		<segment id="321" parent="695" relname="span">##### До второй цели я решила пройти пешком,</segment>
+		<segment id="322" parent="321" relname="condition">попутно глазея на дома.</segment>
+		<segment id="323" parent="696" relname="joint">Рельсы, рельсы.</segment>
+		<segment id="324" parent="696" relname="elaboration">##### IMG</segment>
+		<segment id="325" parent="699" relname="span">##### Церквей и костелов в Праге множество.</segment>
+		<segment id="326" parent="697" relname="joint">Их можно не заметить</segment>
+		<segment id="327" parent="697" relname="joint">и пройти мимо,</segment>
+		<segment id="328" parent="698" relname="contrast">или только их и замечать</segment>
+		<segment id="329" parent="699" relname="elaboration">##### IMG</segment>
+		<segment id="330" parent="331" relname="cause">##### Прага архитектурно напоминает мне Ригу,</segment>
+		<segment id="331" parent="887" relname="span">может поэтому я за неполный год почувствовала себя здесь как дома? :)</segment>
+		<segment id="332" parent="887" relname="elaboration">##### IMG</segment>
+		<segment id="333" parent="704" relname="span">##### Ищу нужный дом.</segment>
+		<segment id="334" parent="702" relname="span">Кстати. На пражских домах всегда два номера - на красной табличке и на синей.</segment>
+		<segment id="335" parent="703" relname="span">На красной - кадастровый номер дома, на синей - порядковый.</segment>
+		<segment id="336" parent="335" relname="elaboration">И номер на почтовых отправлениях всегда будет двойной- 506/48. ##### IMG</segment>
+		<segment id="337" parent="705" relname="joint">##### А мне сюда</segment>
+		<segment id="338" parent="705" relname="elaboration">##### IMG</segment>
+		<segment id="339" parent="713" relname="preparation">##### В Праге 4 котокафе.</segment>
+		<segment id="340" parent="706" relname="sequence">После переезда и встречи нового года, первое, куда я пошла после обзорной прогулки по городу - котокафе.</segment>
+		<segment id="341" parent="710" relname="span">Потом узнала о существовании еще трех :)</segment>
+		<segment id="342" parent="915" relname="span">Это второе.</segment>
+		<segment id="343" parent="707" relname="joint">##### Оно теснее, чем первое,</segment>
+		<segment id="344" parent="707" relname="joint">котов тут меньше,</segment>
+		<segment id="345" parent="707" relname="joint">посетителей больше.</segment>
+		<segment id="346" parent="890" relname="span">##### Котолежбище</segment>
+		<segment id="347" parent="346" relname="elaboration">##### IMG</segment>
+		<segment id="348" parent="891" relname="span">##### Котики быват разные</segment>
+		<segment id="349" parent="348" relname="elaboration">##### IMG</segment>
+		<segment id="350" parent="889" relname="span">##### Запостить в инстаграм, собрать лайки :)))</segment>
+		<segment id="351" parent="350" relname="elaboration">##### IMG</segment>
+		<segment id="352" parent="892" relname="span">##### На стене - список обитателей.</segment>
+		<segment id="353" parent="352" relname="elaboration">##### IMG</segment>
+		<segment id="354" parent="355" relname="condition">##### Пока жду заказ (домашний малиновый лимонад),</segment>
+		<segment id="355" parent="714" relname="span">записываю мысль.</segment>
+		<segment id="356" parent="714" relname="background">Одно из моих увлечений - написание рассказов.</segment>
+		<segment id="357" parent="715" relname="contrast">Иногда в голову приходит какая-то мысль,</segment>
+		<segment id="358" parent="715" relname="contrast">а полноценно писать нет времени.</segment>
+		<segment id="359" parent="798" relname="span">Для этого на телефоне есть заметки.</segment>
+		<segment id="360" parent="893" relname="elaboration">##### IMG</segment>
+		<segment id="361" parent="718" relname="contrast">##### Котиков можно постить бесконечно, хоть на весь пост,</segment>
+		<segment id="362" parent="718" relname="contrast">но лучше их гладить :))</segment>
+		<segment id="363" parent="721" relname="span">Ухожу из кафе с восстановившейся кармой :)))</segment>
+		<segment id="364" parent="363" relname="evaluation">Прошу прощения за качество, с часами вообще проблема оказалась.</segment>
+		<segment id="365" parent="720" relname="elaboration">##### IMG</segment>
+		<segment id="366" parent="367" relname="cause">##### Раз открыточки куплены,</segment>
+		<segment id="367" parent="722" relname="span">их надо отправить.</segment>
+		<segment id="368" parent="803" relname="sequence">Сажусь в трамвай</segment>
+		<segment id="369" parent="803" relname="sequence">и через три остановки оказываюсь у Чешской почты.</segment>
+		<segment id="370" parent="804" relname="elaboration">##### IMG</segment>
+		<segment id="371" parent="372" relname="condition">##### Если я бываю в центре,</segment>
+		<segment id="372" parent="723" relname="span">то всегда захожу в это отделение</segment>
+		<segment id="373" parent="723" relname="background">(работает, кстати, до полуночи).</segment>
+		<segment id="374" parent="724" relname="evaluation">Оно шикарное</segment>
+		<segment id="375" parent="726" relname="span">- жаль, в деталях фоткать не дают</segment>
+		<segment id="376" parent="377" relname="attribution">- строгий дядечка не разрешает</segment>
+		<segment id="377" parent="820" relname="span">даже говорить по телефону,</segment>
+		<segment id="378" parent="725" relname="joint">а уж фотографирование - это вовсе за гранью его понимания!</segment>
+		<segment id="379" parent="727" relname="contrast">Приходится тайком.</segment>
+		<segment id="380" parent="894" relname="elaboration">##### IMG</segment>
+		<segment id="381" parent="733" relname="span">##### Очередь оказывается длинной.</segment>
+		<segment id="382" parent="731" relname="contrast">У меня 350 номер,</segment>
+		<segment id="383" parent="731" relname="contrast">а сейчас на обслуживании 283,</segment>
+		<segment id="384" parent="799" relname="joint">при этом за 20 минут прошло только 10 номерков.</segment>
+		<segment id="385" parent="732" relname="sequence">Тогда я решаю зайти еще в одно местечко,</segment>
+		<segment id="386" parent="732" relname="sequence">а потом вернуться на почту.</segment>
+		<segment id="387" parent="736" relname="span">Местечко совсем рядом с почтой, на соседней улице</segment>
+		<segment id="388" parent="387" relname="elaboration">и называется оно музей Мухи.</segment>
+		<segment id="389" parent="737" relname="joint">Я люблю его постеры</segment>
+		<segment id="390" parent="737" relname="joint">и могу разглядывать их бесконечно.</segment>
+		<segment id="391" parent="895" relname="elaboration">##### IMG</segment>
+		<segment id="392" parent="738" relname="span">##### Сейчас в национальной галерее открыта выставка его грандиозной Славянской эпопеи,</segment>
+		<segment id="393" parent="392" relname="elaboration">отметила себе, что обязательно надо сходить.</segment>
+		<segment id="394" parent="739" relname="contrast">Но постеры - это моя любовь навечно.</segment>
+		<segment id="395" parent="739" relname="elaboration">##### IMG</segment>
+		<segment id="396" parent="743" relname="sequence">##### Быстро заскакиваю на почту,</segment>
+		<segment id="397" parent="743" relname="sequence">за 5 минут отправляю открыточки</segment>
+		<segment id="398" parent="744" relname="span">и с чувством выполненного долга смотрю на часы.</segment>
+		<segment id="399" parent="398" relname="evaluation">О! Восьмой час!</segment>
+		<segment id="400" parent="401" relname="evaluation">Неудивительно, что</segment>
+		<segment id="401" parent="809" relname="span">я вдруг проголодалась.</segment>
+		<segment id="402" parent="810" relname="elaboration">##### IMG</segment>
+		<segment id="403" parent="806" relname="span">##### Идти в ресторан не хочется</segment>
+		<segment id="404" parent="403" relname="elaboration">(особо времени нет),</segment>
+		<segment id="405" parent="745" relname="joint">кафешки к этому времени закрыты.</segment>
+		<segment id="406" parent="747" relname="span">Остается уличная еда,</segment>
+		<segment id="407" parent="408" relname="cause">но моросит противненький дождик</segment>
+		<segment id="408" parent="748" relname="span">и хочется внутрь.</segment>
+		<segment id="409" parent="899" relname="span">Тогда - общепит.</segment>
+		<segment id="410" parent="750" relname="span">Есть в Праге сетевое заведение Bageterie Boulevard,</segment>
+		<segment id="411" parent="410" relname="evaluation">весьма неплохое.</segment>
+		<segment id="412" parent="751" relname="joint">Иногда мы с коллегами выбираемся на обед (в фудкорт торгового центра рядом с офисом)</segment>
+		<segment id="413" parent="751" relname="joint">и частенько заходим в багетерию.</segment>
+		<segment id="414" parent="749" relname="elaboration">##### IMG</segment>
+		<segment id="415" parent="756" relname="span">##### Заказываю салат Цезарь и печеную картошку (169 крон, около 6,5 евро).</segment>
+		<segment id="416" parent="753" relname="span">Тут и выясняется отличие заведения в туристическом центре от такого же заведения, но в офисном квартале.</segment>
+		<segment id="417" parent="416" relname="elaboration">Соуса, больше похожего на майонез, чуть ли не столько же, сколько самой еды.</segment>
+		<segment id="418" parent="754" relname="span">Аккуратно скидываю этот типа соус,</segment>
+		<segment id="419" parent="418" relname="evaluation">за исключением него, вполне нормально.</segment>
+		<segment id="420" parent="807" relname="joint">Ем</segment>
+		<segment id="421" parent="807" relname="joint">и заодно читаю соц.сети.</segment>
+		<segment id="422" parent="757" relname="elaboration">##### IMG</segment>
+		<segment id="423" parent="765" relname="span">##### Последний пункт сегодняшней программы - кино.</segment>
+		<segment id="424" parent="760" relname="span">Искала что-нибудь старое рождественское,</segment>
+		<segment id="425" parent="424" relname="elaboration">нашлась только Love Actually (Реальная любовь - весьма странный перевод).</segment>
+		<segment id="426" parent="761" relname="span">Старое кино в Праге показывает один-два кинотеатра.</segment>
+		<segment id="427" parent="763" relname="span">Основной - кинотеатр Люцерн.</segment>
+		<segment id="428" parent="427" relname="elaboration">Тут же часто показывают и российское кино (обычно нечто конкурсное и т.д.).</segment>
+		<segment id="429" parent="762" relname="comparison">Вообще, кино в Праге бывает с субтитрами и дублированное.</segment>
+		<segment id="430" parent="762" relname="comparison">В Риге любое кино идет с субтитрами (российское с латышскими), английское (с русскими и латышскими).</segment>
+		<segment id="431" parent="767" relname="same-unit">Помню,</segment>
+		<segment id="432" parent="433" relname="condition">будучи в Питере,</segment>
+		<segment id="433" parent="766" relname="span">зашла в кино,</segment>
+		<segment id="434" parent="768" relname="joint">с удивлением увидела отметку (дублированное).</segment>
+		<segment id="435" parent="769" relname="contrast">В Праге - на любой вкус.</segment>
+		<segment id="436" parent="773" relname="span">Люцерн симпатичен - я тут впервые.</segment>
+		<segment id="437" parent="771" relname="joint">Начало в 20:30.</segment>
+		<segment id="438" parent="771" relname="joint">Зал был полный.</segment>
+		<segment id="439" parent="774" relname="elaboration">##### IMG</segment>
+		<segment id="440" parent="775" relname="preparation">##### Из кинотеатра я вышла в половине одиннадцатого.</segment>
+		<segment id="441" parent="442" relname="cause">Раз уж я в самом центре,</segment>
+		<segment id="442" parent="903" relname="span">то немного кадров из дождливой предрождественской Праги.</segment>
+		<segment id="443" parent="903" relname="background">Не так много народу на Пшикопе, улице с брендовыми магазинами и прочим пафосом.</segment>
+		<segment id="444" parent="902" relname="elaboration">##### IMG</segment>
+		<segment id="445" parent="904" relname="span">##### Вацлавская площадь.</segment>
+		<segment id="446" parent="776" relname="span">В последнее время ходит много слухов насчет того, чтобы снова пустить по площади трамваи,</segment>
+		<segment id="447" parent="446" relname="background">как это было раньше.</segment>
+		<segment id="448" parent="904" relname="elaboration">##### IMG</segment>
+		<segment id="449" parent="905" relname="span">##### Кому цветочек?</segment>
+		<segment id="450" parent="449" relname="elaboration">##### IMG</segment>
+		<segment id="451" parent="906" relname="span">##### Ёлки повсюду</segment>
+		<segment id="452" parent="451" relname="elaboration">##### IMG</segment>
+		<segment id="453" parent="908" relname="span">##### Пора домой.</segment>
+		<segment id="454" parent="453" relname="background">Тишайшая красная ветка метро.</segment>
+		<segment id="455" parent="908" relname="elaboration">##### IMG</segment>
+		<segment id="456" parent="910" relname="span">##### Таймчек.</segment>
+		<segment id="457" parent="456" relname="elaboration">##### IMG</segment>
+		<segment id="458" parent="911" relname="span">##### Ура. Я дома.</segment>
+		<segment id="459" parent="458" relname="evaluation">Натопала сегодня прилично :)</segment>
+		<segment id="460" parent="911" relname="elaboration">##### IMG</segment>
+		<segment id="461" parent="912" relname="span">##### В душ, смыть косметику.</segment>
+		<segment id="462" parent="461" relname="elaboration">##### IMG</segment>
+		<segment id="463" parent="783" relname="contrast">##### Пока спать не хочется.</segment>
+		<segment id="464" parent="785" relname="span">Хочется посмотреть чего-то милого, душевного.</segment>
+		<segment id="465" parent="784" relname="span">Как раз под мандаринки и пипаркукас</segment>
+		<segment id="466" parent="465" relname="elaboration">(латвийское пряное печенье - пеку его только на зимние праздники).</segment>
+		<segment id="467" parent="786" relname="span">Душевное и милое быстро находится.</segment>
+		<segment id="468" parent="467" relname="elaboration">Как украсть миллион. :)</segment>
+		<segment id="469" parent="787" relname="elaboration">##### IMG</segment>
+		<segment id="470" parent="790" relname="cause">##### Спать, как всегда, хочется за 15 минут до конца фильма.</segment>
+		<segment id="471" parent="790" relname="span">Значит, на сегодня все.</segment>
+		<segment id="472" parent="471" relname="evaluation">О! А сегодня уже завтра :))</segment>
+		<segment id="473" parent="788" relname="sequence">##### День получился насыщенным,</segment>
+		<segment id="474" parent="788" relname="sequence">воскресенье, скорее всего, будет ленивым,</segment>
+		<segment id="475" parent="789" relname="span">а затем снова насыщенные дни.</segment>
+		<segment id="476" parent="913" relname="span">В этом прелесть отпуска :))</segment>
+		<segment id="477" parent="476" relname="evaluation">Спасибо, что провели этот день со мной! :)</segment>
+		<segment id="478" >##### С наступающими праздниками! :)</segment>
+		<group id="479" type="multinuc" parent="483" relname="span"/>
+		<group id="480" type="span" parent="479" relname="contrast"/>
+		<group id="481" type="multinuc" parent="482" relname="joint"/>
+		<group id="482" type="multinuc" parent="6" relname="cause"/>
+		<group id="483" type="span" parent="10" relname="solutionhood"/>
+		<group id="484" type="multinuc" parent="801" relname="span"/>
+		<group id="485" type="span" parent="14" relname="elaboration"/>
+		<group id="486" type="span" parent="487" relname="span"/>
+		<group id="487" type="span" parent="484" relname="joint"/>
+		<group id="488" type="span" parent="494" relname="preparation"/>
+		<group id="489" type="span" parent="490" relname="same-unit"/>
+		<group id="490" type="multinuc" parent="491" relname="span"/>
+		<group id="491" type="span" parent="492" relname="span"/>
+		<group id="492" type="span" parent="24" relname="cause"/>
+		<group id="493" type="span" parent="494" relname="span"/>
+		<group id="494" type="span" parent="495" relname="span"/>
+		<group id="495" type="span" parent="824" relname="span"/>
+		<group id="496" type="span" parent="493" relname="cause"/>
+		<group id="497" type="multinuc" parent="498" relname="span"/>
+		<group id="498" type="span" parent="499" relname="span"/>
+		<group id="499" type="span" parent="841" relname="span"/>
+		<group id="500" type="multinuc" parent="501" relname="span"/>
+		<group id="501" type="span" parent="498" relname="background"/>
+		<group id="502" type="multinuc" parent="503" relname="span"/>
+		<group id="503" type="span" parent="35" relname="elaboration"/>
+		<group id="504" type="span" parent="506" relname="sequence"/>
+		<group id="505" type="span" parent="506" relname="sequence"/>
+		<group id="506" type="multinuc" />
+		<group id="507" type="multinuc" parent="47" relname="cause"/>
+		<group id="508" type="span" parent="44" relname="elaboration"/>
+		<group id="509" type="span" parent="43" relname="elaboration"/>
+		<group id="510" type="span" parent="506" relname="sequence"/>
+		<group id="511" type="multinuc" parent="512" relname="cause"/>
+		<group id="512" type="span" parent="846" relname="span"/>
+		<group id="513" type="span" parent="506" relname="sequence"/>
+		<group id="514" type="span" parent="511" relname="joint"/>
+		<group id="515" type="multinuc" parent="55" relname="cause"/>
+		<group id="516" type="span" parent="54" relname="elaboration"/>
+		<group id="517" type="multinuc" parent="518" relname="span"/>
+		<group id="518" type="span" parent="532" relname="preparation"/>
+		<group id="519" type="span" parent="914" relname="joint"/>
+		<group id="520" type="multinuc" parent="914" relname="joint"/>
+		<group id="521" type="span" parent="529" relname="sequence"/>
+		<group id="523" type="span" parent="495" relname="elaboration"/>
+		<group id="524" type="multinuc" parent="525" relname="span"/>
+		<group id="525" type="span" parent="914" relname="background"/>
+		<group id="526" type="multinuc" parent="527" relname="span"/>
+		<group id="527" type="span" parent="529" relname="sequence"/>
+		<group id="529" type="multinuc" parent="532" relname="span"/>
+		<group id="530" type="span" parent="848" relname="span"/>
+		<group id="531" type="span" parent="529" relname="background"/>
+		<group id="532" type="span" parent="530" relname="span"/>
+		<group id="533" type="span" parent="534" relname="span"/>
+		<group id="534" type="span" parent="535" relname="background"/>
+		<group id="535" type="multinuc" parent="539" relname="span"/>
+		<group id="536" type="span" parent="535" relname="joint"/>
+		<group id="537" type="span" parent="82" relname="cause"/>
+		<group id="538" type="span" parent="535" relname="joint"/>
+		<group id="539" type="span" parent="540" relname="span"/>
+		<group id="540" type="span" parent="542" relname="sequence"/>
+		<group id="542" type="multinuc" parent="849" relname="span"/>
+		<group id="543" type="span" parent="545" relname="comparison"/>
+		<group id="544" type="span" parent="545" relname="comparison"/>
+		<group id="545" type="multinuc" parent="850" relname="sequence"/>
+		<group id="546" type="multinuc" parent="96" relname="elaboration"/>
+		<group id="547" type="span" parent="546" relname="contrast"/>
+		<group id="548" type="span" parent="850" relname="sequence"/>
+		<group id="549" type="span" parent="101" relname="elaboration"/>
+		<group id="550" type="span" parent="551" relname="span"/>
+		<group id="551" type="span" parent="552" relname="elaboration"/>
+		<group id="552" type="span" parent="553" relname="span"/>
+		<group id="553" type="span" parent="828" relname="span"/>
+		<group id="554" type="span" parent="797" relname="span"/>
+		<group id="555" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="556" type="span" parent="830" relname="span"/>
+		<group id="557" type="multinuc" parent="559" relname="joint"/>
+		<group id="558" type="span" parent="559" relname="joint"/>
+		<group id="559" type="multinuc" parent="556" relname="elaboration"/>
+		<group id="560" type="span" parent="121" relname="elaboration"/>
+		<group id="561" type="span" parent="568" relname="sequence"/>
+		<group id="562" type="span" parent="568" relname="sequence"/>
+		<group id="563" type="span" parent="565" relname="joint"/>
+		<group id="564" type="span" parent="854" relname="span"/>
+		<group id="565" type="multinuc" parent="564" relname="span"/>
+		<group id="566" type="multinuc" parent="565" relname="joint"/>
+		<group id="567" type="span" parent="566" relname="restatement"/>
+		<group id="568" type="multinuc" />
+		<group id="569" type="multinuc" parent="582" relname="preparation"/>
+		<group id="570" type="span" parent="582" relname="span"/>
+		<group id="571" type="span" parent="144" relname="solutionhood"/>
+		<group id="572" type="span" parent="141" relname="elaboration"/>
+		<group id="573" type="span" parent="140" relname="evaluation"/>
+		<group id="574" type="multinuc" parent="575" relname="span"/>
+		<group id="575" type="span" parent="825" relname="joint"/>
+		<group id="576" type="span" parent="577" relname="same-unit"/>
+		<group id="577" type="multinuc" parent="580" relname="span"/>
+		<group id="578" type="multinuc" parent="808" relname="span"/>
+		<group id="579" type="span" parent="577" relname="evidence"/>
+		<group id="580" type="span" parent="581" relname="contrast"/>
+		<group id="581" type="multinuc" parent="574" relname="evaluation"/>
+		<group id="582" type="span" parent="858" relname="span"/>
+		<group id="583" type="multinuc" parent="157" relname="cause"/>
+		<group id="584" type="span" parent="585" relname="same-unit"/>
+		<group id="585" type="multinuc" parent="583" relname="joint"/>
+		<group id="586" type="span" parent="587" relname="contrast"/>
+		<group id="587" type="multinuc" parent="589" relname="span"/>
+		<group id="588" type="multinuc" parent="163" relname="elaboration"/>
+		<group id="589" type="span" parent="825" relname="joint"/>
+		<group id="590" type="span" parent="587" relname="evaluation"/>
+		<group id="591" type="multinuc" parent="592" relname="sequence"/>
+		<group id="592" type="multinuc" parent="817" relname="joint"/>
+		<group id="593" type="span" parent="596" relname="sequence"/>
+		<group id="594" type="multinuc" parent="596" relname="sequence"/>
+		<group id="595" type="span" parent="594" relname="contrast"/>
+		<group id="596" type="multinuc" parent="174" relname="elaboration"/>
+		<group id="597" type="span" parent="598" relname="same-unit"/>
+		<group id="598" type="multinuc" parent="183" relname="elaboration"/>
+		<group id="599" type="span" parent="182" relname="elaboration"/>
+		<group id="600" type="span" parent="616" relname="span"/>
+		<group id="601" type="multinuc" parent="187" relname="elaboration"/>
+		<group id="602" type="multinuc" parent="192" relname="cause"/>
+		<group id="603" type="span" parent="193" relname="cause"/>
+		<group id="604" type="span" parent="189" relname="evaluation"/>
+		<group id="605" type="multinuc" parent="196" relname="solutionhood"/>
+		<group id="606" type="multinuc" parent="612" relname="elaboration"/>
+		<group id="607" type="multinuc" parent="608" relname="span"/>
+		<group id="608" type="span" parent="610" relname="contrast"/>
+		<group id="609" type="multinuc" parent="610" relname="contrast"/>
+		<group id="610" type="multinuc" parent="623" relname="span"/>
+		<group id="611" type="multinuc" parent="600" relname="preparation"/>
+		<group id="612" type="span" parent="615" relname="span"/>
+		<group id="613" type="span" parent="611" relname="sequence"/>
+		<group id="614" type="span" parent="601" relname="contrast"/>
+		<group id="615" type="span" parent="610" relname="preparation"/>
+		<group id="616" type="span" parent="833" relname="span"/>
+		<group id="617" type="span" parent="622" relname="span"/>
+		<group id="618" type="span" parent="619" relname="same-unit"/>
+		<group id="619" type="multinuc" parent="620" relname="contrast"/>
+		<group id="620" type="multinuc" parent="624" relname="span"/>
+		<group id="621" type="span" parent="617" relname="elaboration"/>
+		<group id="622" type="span" parent="624" relname="solutionhood"/>
+		<group id="623" type="span" parent="616" relname="elaboration"/>
+		<group id="624" type="span" parent="625" relname="span"/>
+		<group id="625" type="span" parent="863" relname="span"/>
+		<group id="626" type="span" parent="221" relname="cause"/>
+		<group id="627" type="span" parent="218" relname="elaboration"/>
+		<group id="628" type="span" parent="629" relname="joint"/>
+		<group id="629" type="multinuc" parent="864" relname="span"/>
+		<group id="630" type="span" parent="866" relname="span"/>
+		<group id="631" type="span" parent="865" relname="span"/>
+		<group id="632" type="span" parent="870" relname="preparation"/>
+		<group id="633" type="multinuc" />
+		<group id="634" type="span" parent="635" relname="same-unit"/>
+		<group id="635" type="multinuc" parent="235" relname="evaluation"/>
+		<group id="636" type="span" parent="869" relname="span"/>
+		<group id="637" type="span" parent="234" relname="cause"/>
+		<group id="638" type="span" />
+		<group id="639" type="multinuc" parent="641" relname="joint"/>
+		<group id="640" type="multinuc" parent="641" relname="joint"/>
+		<group id="641" type="multinuc" parent="642" relname="contrast"/>
+		<group id="642" type="multinuc" parent="246" relname="elaboration"/>
+		<group id="643" type="span" parent="651" relname="span"/>
+		<group id="644" type="span" parent="242" relname="evaluation"/>
+		<group id="645" type="span" parent="245" relname="preparation"/>
+		<group id="646" type="multinuc" parent="258" relname="cause"/>
+		<group id="647" type="multinuc" parent="646" relname="joint"/>
+		<group id="648" type="span" parent="649" relname="joint"/>
+		<group id="649" type="multinuc" parent="650" relname="span"/>
+		<group id="650" type="span" parent="834" relname="span"/>
+		<group id="651" type="span" parent="650" relname="background"/>
+		<group id="652" type="span" parent="643" relname="evaluation"/>
+		<group id="653" type="span" parent="262" relname="evaluation"/>
+		<group id="654" type="span" parent="662" relname="span"/>
+		<group id="655" type="multinuc" parent="873" relname="span"/>
+		<group id="656" type="span" parent="654" relname="background"/>
+		<group id="657" type="multinuc" parent="658" relname="span"/>
+		<group id="658" type="span" parent="659" relname="span"/>
+		<group id="659" type="span" parent="661" relname="comparison"/>
+		<group id="660" type="span" parent="661" relname="comparison"/>
+		<group id="661" type="multinuc" parent="664" relname="span"/>
+		<group id="662" type="span" parent="655" relname="sequence"/>
+		<group id="663" type="multinuc" parent="668" relname="preparation"/>
+		<group id="664" type="span" parent="835" relname="span"/>
+		<group id="665" type="span" parent="878" relname="span"/>
+		<group id="666" type="span" parent="877" relname="span"/>
+		<group id="667" type="multinuc" parent="665" relname="elaboration"/>
+		<group id="668" type="span" parent="669" relname="span"/>
+		<group id="669" type="span" />
+		<group id="670" type="multinuc" parent="671" relname="span"/>
+		<group id="671" type="span" parent="672" relname="elaboration"/>
+		<group id="672" type="span" parent="677" relname="span"/>
+		<group id="673" type="multinuc" parent="293" relname="background"/>
+		<group id="674" type="span" parent="292" relname="elaboration"/>
+		<group id="675" type="span" parent="291" relname="elaboration"/>
+		<group id="676" type="span" parent="883" relname="span"/>
+		<group id="677" type="span" parent="666" relname="elaboration"/>
+		<group id="678" type="multinuc" />
+		<group id="679" type="span" parent="682" relname="joint"/>
+		<group id="680" type="span" parent="681" relname="same-unit"/>
+		<group id="681" type="multinuc" parent="298" relname="elaboration"/>
+		<group id="682" type="multinuc" parent="881" relname="span"/>
+		<group id="683" type="span" parent="678" relname="joint"/>
+		<group id="684" type="multinuc" parent="689" relname="preparation"/>
+		<group id="685" type="multinuc" parent="686" relname="evaluation"/>
+		<group id="686" type="span" parent="687" relname="span"/>
+		<group id="687" type="span" parent="689" relname="contrast"/>
+		<group id="688" type="span" parent="690" relname="contrast"/>
+		<group id="689" type="multinuc" parent="694" relname="span"/>
+		<group id="690" type="multinuc" parent="689" relname="contrast"/>
+		<group id="691" type="multinuc" parent="692" relname="span"/>
+		<group id="692" type="span" parent="693" relname="span"/>
+		<group id="693" type="span" parent="885" relname="span"/>
+		<group id="694" type="span" parent="692" relname="solutionhood"/>
+		<group id="695" type="span" parent="696" relname="joint"/>
+		<group id="696" type="multinuc" parent="886" relname="span"/>
+		<group id="697" type="multinuc" parent="698" relname="contrast"/>
+		<group id="698" type="multinuc" parent="325" relname="evaluation"/>
+		<group id="699" type="span" parent="701" relname="span"/>
+		<group id="700" type="span" parent="701" relname="evaluation"/>
+		<group id="701" type="span" parent="839" relname="span"/>
+		<group id="702" type="span" parent="333" relname="background"/>
+		<group id="703" type="span" parent="334" relname="elaboration"/>
+		<group id="704" type="span" parent="705" relname="joint"/>
+		<group id="705" type="multinuc" parent="888" relname="span"/>
+		<group id="706" type="multinuc" parent="713" relname="span"/>
+		<group id="707" type="multinuc" parent="342" relname="elaboration"/>
+		<group id="708" type="multinuc" parent="915" relname="elaboration"/>
+		<group id="710" type="span" parent="706" relname="sequence"/>
+		<group id="713" type="span" parent="840" relname="span"/>
+		<group id="714" type="span" parent="716" relname="span"/>
+		<group id="715" type="multinuc" parent="359" relname="solutionhood"/>
+		<group id="716" type="span" parent="893" relname="span"/>
+		<group id="717" type="span" />
+		<group id="718" type="multinuc" parent="720" relname="span"/>
+		<group id="719" type="span" />
+		<group id="720" type="span" parent="719" relname="span"/>
+		<group id="721" type="span" parent="718" relname="evaluation"/>
+		<group id="722" type="span" parent="803" relname="preparation"/>
+		<group id="723" type="span" parent="724" relname="span"/>
+		<group id="724" type="span" parent="728" relname="span"/>
+		<group id="725" type="multinuc" parent="375" relname="cause"/>
+		<group id="726" type="span" parent="727" relname="contrast"/>
+		<group id="727" type="multinuc" parent="728" relname="evaluation"/>
+		<group id="728" type="span" parent="894" relname="span"/>
+		<group id="729" type="span" parent="730" relname="span"/>
+		<group id="730" type="span" />
+		<group id="731" type="multinuc" parent="799" relname="joint"/>
+		<group id="732" type="multinuc" parent="742" relname="span"/>
+		<group id="733" type="span" parent="734" relname="cause"/>
+		<group id="734" type="span" parent="895" relname="span"/>
+		<group id="735" type="span" parent="896" relname="span"/>
+		<group id="736" type="span" parent="740" relname="span"/>
+		<group id="737" type="multinuc" parent="736" relname="evaluation"/>
+		<group id="738" type="span" parent="739" relname="contrast"/>
+		<group id="739" type="multinuc" parent="897" relname="span"/>
+		<group id="740" type="span" parent="741" relname="span"/>
+		<group id="741" type="span" parent="742" relname="elaboration"/>
+		<group id="742" type="span" parent="734" relname="span"/>
+		<group id="743" type="multinuc" parent="809" relname="preparation"/>
+		<group id="744" type="span" parent="743" relname="sequence"/>
+		<group id="745" type="multinuc" parent="406" relname="cause"/>
+		<group id="746" type="multinuc" parent="899" relname="solutionhood"/>
+		<group id="747" type="span" parent="746" relname="contrast"/>
+		<group id="748" type="span" parent="746" relname="contrast"/>
+		<group id="749" type="span" parent="811" relname="span"/>
+		<group id="750" type="span" parent="752" relname="span"/>
+		<group id="751" type="multinuc" parent="750" relname="background"/>
+		<group id="752" type="span" parent="409" relname="elaboration"/>
+		<group id="753" type="span" parent="754" relname="solutionhood"/>
+		<group id="754" type="span" parent="755" relname="span"/>
+		<group id="755" type="span" parent="415" relname="elaboration"/>
+		<group id="756" type="span" parent="757" relname="sequence"/>
+		<group id="757" type="multinuc" parent="900" relname="span"/>
+		<group id="758" type="span" parent="759" relname="span"/>
+		<group id="759" type="span" />
+		<group id="760" type="span" parent="423" relname="elaboration"/>
+		<group id="761" type="span" parent="764" relname="span"/>
+		<group id="762" type="multinuc" parent="770" relname="span"/>
+		<group id="763" type="span" parent="426" relname="elaboration"/>
+		<group id="764" type="span" parent="772" relname="span"/>
+		<group id="765" type="span" parent="772" relname="preparation"/>
+		<group id="766" type="span" parent="767" relname="same-unit"/>
+		<group id="767" type="multinuc" parent="768" relname="joint"/>
+		<group id="768" type="multinuc" parent="769" relname="contrast"/>
+		<group id="769" type="multinuc" parent="762" relname="comparison"/>
+		<group id="770" type="span" parent="761" relname="background"/>
+		<group id="771" type="multinuc" parent="436" relname="elaboration"/>
+		<group id="772" type="span" parent="774" relname="span"/>
+		<group id="773" type="span" parent="764" relname="evaluation"/>
+		<group id="774" type="span" parent="901" relname="span"/>
+		<group id="775" type="span" parent="902" relname="span"/>
+		<group id="776" type="span" parent="445" relname="elaboration"/>
+		<group id="777" type="span" parent="778" relname="sequence"/>
+		<group id="778" type="multinuc" parent="782" relname="span"/>
+		<group id="779" type="multinuc" parent="907" relname="elaboration"/>
+		<group id="780" type="span" parent="778" relname="sequence"/>
+		<group id="781" type="span" parent="778" relname="preparation"/>
+		<group id="782" type="span" />
+		<group id="783" type="multinuc" parent="786" relname="solutionhood"/>
+		<group id="784" type="span" parent="464" relname="elaboration"/>
+		<group id="785" type="span" parent="783" relname="contrast"/>
+		<group id="786" type="span" parent="787" relname="span"/>
+		<group id="787" type="span" parent="792" relname="span"/>
+		<group id="788" type="multinuc" parent="791" relname="evaluation"/>
+		<group id="789" type="span" parent="788" relname="sequence"/>
+		<group id="790" type="span" parent="791" relname="span"/>
+		<group id="791" type="span" parent="794" relname="span"/>
+		<group id="792" type="span" parent="793" relname="sequence"/>
+		<group id="793" type="multinuc" />
+		<group id="794" type="span" parent="793" relname="sequence"/>
+		<group id="795" type="span" parent="87" relname="background"/>
+		<group id="796" type="multinuc" parent="821" relname="contrast"/>
+		<group id="797" type="span" parent="829" relname="span"/>
+		<group id="798" type="span" parent="716" relname="purpose"/>
+		<group id="799" type="multinuc" parent="381" relname="elaboration"/>
+		<group id="800" type="span" parent="831" relname="span"/>
+		<group id="801" type="span" parent="802" relname="span"/>
+		<group id="802" type="span" parent="824" relname="preparation"/>
+		<group id="803" type="multinuc" parent="804" relname="span"/>
+		<group id="804" type="span" parent="805" relname="span"/>
+		<group id="805" type="span" parent="729" relname="preparation"/>
+		<group id="806" type="span" parent="745" relname="joint"/>
+		<group id="807" type="multinuc" parent="757" relname="sequence"/>
+		<group id="808" type="span" parent="579" relname="span"/>
+		<group id="809" type="span" parent="810" relname="span"/>
+		<group id="810" type="span" parent="898" relname="span"/>
+		<group id="811" type="span" parent="900" relname="preparation"/>
+		<group id="812" type="span" parent="813" relname="span"/>
+		<group id="813" type="span" parent="814" relname="span"/>
+		<group id="814" type="span" parent="545" relname="comparison"/>
+		<group id="815" type="span" parent="171" relname="elaboration"/>
+		<group id="816" type="span" parent="836" relname="background"/>
+		<group id="817" type="multinuc" parent="860" relname="span"/>
+		<group id="818" type="span" parent="607" relname="sequence"/>
+		<group id="819" type="span" parent="305" relname="elaboration"/>
+		<group id="820" type="span" parent="725" relname="joint"/>
+		<group id="821" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="822" type="span" parent="682" relname="evaluation"/>
+		<group id="823" type="span" parent="817" relname="joint"/>
+		<group id="824" type="span" parent="826" relname="span"/>
+		<group id="825" type="multinuc" parent="859" relname="span"/>
+		<group id="826" type="span" />
+		<group id="827" type="span" />
+		<group id="828" type="span" />
+		<group id="829" type="span" parent="852" relname="span"/>
+		<group id="830" type="span" parent="797" relname="elaboration"/>
+		<group id="831" type="span" parent="855" relname="span"/>
+		<group id="832" type="span" />
+		<group id="833" type="span" parent="862" relname="span"/>
+		<group id="834" type="span" parent="872" relname="span"/>
+		<group id="835" type="span" />
+		<group id="836" type="span" parent="815" relname="span"/>
+		<group id="837" type="multinuc" parent="838" relname="span"/>
+		<group id="838" type="span" parent="609" relname="same-unit"/>
+		<group id="839" type="span" />
+		<group id="840" type="span" />
+		<group id="841" type="span" parent="27" relname="elaboration"/>
+		<group id="842" type="span" parent="504" relname="span"/>
+		<group id="843" type="span" parent="505" relname="span"/>
+		<group id="844" type="span" parent="510" relname="span"/>
+		<group id="845" type="span" parent="846" relname="background"/>
+		<group id="846" type="span" parent="847" relname="span"/>
+		<group id="847" type="span" parent="513" relname="span"/>
+		<group id="848" type="span" />
+		<group id="849" type="span" />
+		<group id="850" type="multinuc" parent="851" relname="span"/>
+		<group id="851" type="span" />
+		<group id="852" type="span" />
+		<group id="853" type="span" parent="561" relname="span"/>
+		<group id="854" type="span" parent="800" relname="solutionhood"/>
+		<group id="855" type="span" parent="856" relname="elaboration"/>
+		<group id="856" type="span" parent="857" relname="span"/>
+		<group id="857" type="span" parent="562" relname="span"/>
+		<group id="858" type="span" parent="832" relname="span"/>
+		<group id="859" type="span" />
+		<group id="860" type="span" />
+		<group id="861" type="span" parent="606" relname="contrast"/>
+		<group id="862" type="span" />
+		<group id="863" type="span" />
+		<group id="864" type="span" parent="633" relname="sequence"/>
+		<group id="865" type="span" parent="633" relname="sequence"/>
+		<group id="866" type="span" parent="633" relname="sequence"/>
+		<group id="867" type="span" parent="632" relname="span"/>
+		<group id="868" type="span" parent="867" relname="background"/>
+		<group id="869" type="span" parent="870" relname="span"/>
+		<group id="870" type="span" parent="638" relname="span"/>
+		<group id="871" type="span" parent="869" relname="background"/>
+		<group id="872" type="span" />
+		<group id="873" type="span" parent="664" relname="preparation"/>
+		<group id="874" type="multinuc" parent="875" relname="span"/>
+		<group id="875" type="span" parent="663" relname="sequence"/>
+		<group id="876" type="span" parent="663" relname="sequence"/>
+		<group id="877" type="span" parent="878" relname="elaboration"/>
+		<group id="878" type="span" parent="879" relname="span"/>
+		<group id="879" type="span" parent="668" relname="span"/>
+		<group id="880" type="span" parent="676" relname="span"/>
+		<group id="881" type="span" parent="882" relname="span"/>
+		<group id="882" type="span" parent="676" relname="background"/>
+		<group id="883" type="span" parent="678" relname="joint"/>
+		<group id="884" type="span" parent="683" relname="span"/>
+		<group id="885" type="span" />
+		<group id="886" type="span" />
+		<group id="887" type="span" parent="700" relname="span"/>
+		<group id="888" type="span" />
+		<group id="889" type="span" parent="708" relname="joint"/>
+		<group id="890" type="span" parent="708" relname="joint"/>
+		<group id="891" type="span" parent="708" relname="joint"/>
+		<group id="892" type="span" parent="708" relname="joint"/>
+		<group id="893" type="span" parent="717" relname="span"/>
+		<group id="894" type="span" parent="729" relname="span"/>
+		<group id="895" type="span" parent="735" relname="span"/>
+		<group id="896" type="span" />
+		<group id="897" type="span" parent="735" relname="background"/>
+		<group id="898" type="span" parent="758" relname="preparation"/>
+		<group id="899" type="span" parent="749" relname="span"/>
+		<group id="900" type="span" parent="758" relname="span"/>
+		<group id="901" type="span" />
+		<group id="902" type="span" parent="781" relname="span"/>
+		<group id="903" type="span" parent="775" relname="span"/>
+		<group id="904" type="span" parent="777" relname="span"/>
+		<group id="905" type="span" parent="778" relname="sequence"/>
+		<group id="906" type="span" parent="778" relname="sequence"/>
+		<group id="907" type="span" parent="780" relname="span"/>
+		<group id="908" type="span" parent="907" relname="span"/>
+		<group id="909" type="span" parent="779" relname="sequence"/>
+		<group id="910" type="span" parent="779" relname="sequence"/>
+		<group id="911" type="span" parent="909" relname="span"/>
+		<group id="912" type="span" parent="793" relname="sequence"/>
+		<group id="913" type="span" parent="475" relname="evaluation"/>
+		<group id="914" type="multinuc" parent="521" relname="span"/>
+		<group id="915" type="span" parent="916" relname="span"/>
+		<group id="916" type="span" parent="341" relname="elaboration"/>
+	</body>
+</rst>

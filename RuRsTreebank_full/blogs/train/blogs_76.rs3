@@ -1,0 +1,229 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://veronikahlebova.ru/kak-rasskazat-detyam-o-granitsah/</segment>
+		<segment id="2" >##### Как рассказать детям о границах</segment>
+		<segment id="3" parent="110" relname="preparation">##### В школе произошло неприятное происшествие.</segment>
+		<segment id="4" parent="109" relname="joint">Подростки держали девочку за руки,</segment>
+		<segment id="5" parent="109" relname="joint">пачкали ее грязью и землей,</segment>
+		<segment id="6" parent="109" relname="joint">и снимали происходящее на видео,</segment>
+		<segment id="7" parent="109" relname="purpose">чтобы выложить на ютубе.</segment>
+		<segment id="8" parent="113" relname="contrast">Над девочкой совершалось насилие,</segment>
+		<segment id="9" parent="113" relname="contrast">но остальные считали происходящее «экспериментом».</segment>
+		<segment id="10" parent="114" relname="span">Взрослые в ужасе и гневе.</segment>
+		<segment id="11" parent="115" relname="span">Как рассказать детям о границах,</segment>
+		<segment id="12" parent="11" relname="condition">не превращаясь в насильников и паникеров?</segment>
+		<segment id="13" parent="116" relname="preparation">##### …Один мальчик (11 лет) хочет снять видео для ютуба.</segment>
+		<segment id="14" parent="182" relname="span">Ему приходит в голову идея:</segment>
+		<segment id="15" parent="14" relname="elaboration">снять одноклассницу в ролике.</segment>
+		<segment id="16" parent="117" relname="joint">Ее можно измазать грязью,</segment>
+		<segment id="17" parent="117" relname="joint">и снять это на камеру.</segment>
+		<segment id="18" parent="184" relname="elaboration">Он называет задумку словом «эксперимент».</segment>
+		<segment id="19" parent="119" relname="span">##### Он просит друзей помочь ему:</segment>
+		<segment id="20" parent="118" relname="joint">один будет держать девочку,</segment>
+		<segment id="21" parent="118" relname="joint">другой – соответственно, пачкать.</segment>
+		<segment id="22" parent="120" relname="span">Нет, двое будут держать,</segment>
+		<segment id="23" parent="22" relname="cause">иначе она убежит.</segment>
+		<segment id="24" parent="185" relname="span">##### Друзья начинают осуществлять свой план.</segment>
+		<segment id="25" parent="124" relname="span">Девочке совсем не нравится то, что происходит.</segment>
+		<segment id="26" parent="123" relname="joint">Она хочет вырваться</segment>
+		<segment id="27" parent="123" relname="joint">и убежать.</segment>
+		<segment id="28" parent="125" relname="span">Но мальчики входят в азарт:</segment>
+		<segment id="29" parent="28" relname="elaboration">эксперимент нужно продолжать.</segment>
+		<segment id="30" parent="126" relname="joint">##### Один из друзей не держит девочку:</segment>
+		<segment id="31" parent="126" relname="joint">он наблюдает.</segment>
+		<segment id="32" parent="127" relname="span">Другой уходит:</segment>
+		<segment id="33" parent="180" relname="span">«Я в этом не участвую»,</segment>
+		<segment id="34" parent="33" relname="attribution">— говорит он.</segment>
+		<segment id="35" parent="36" relname="cause">##### …Ролик снят;</segment>
+		<segment id="36" parent="187" relname="span">девочку отпускают.</segment>
+		<segment id="37" parent="188" relname="joint">Все расходятся по домам.</segment>
+		<segment id="38" parent="189" relname="sequence">На следующий день начинается скандал.</segment>
+		<segment id="39" parent="132" relname="preparation">##### Прислушайтесь к себе.</segment>
+		<segment id="40" parent="132" relname="joint">Какие чувства вызывает у вас эта история?</segment>
+		<segment id="41" parent="132" relname="joint">Что вы чувствуете к девочке? А к мальчикам?</segment>
+		<segment id="42" parent="133" relname="span">Как вам кажется, почему некоторые из них не остановились,</segment>
+		<segment id="43" parent="42" relname="condition">когда она просила ее отпустить?</segment>
+		<segment id="44" parent="136" relname="span">##### Конечно, возникают сильные чувства.</segment>
+		<segment id="45" parent="135" relname="span">В памяти начинают всплывать множество историй с собственным участием.</segment>
+		<segment id="46" parent="45" relname="evidence">Каждый из нас был когда-то жертвой, которая не могла уйти.</segment>
+		<segment id="47" parent="190" relname="joint">##### Многие из нас бывали и на другой стороне.</segment>
+		<segment id="48" parent="190" relname="joint">Многие бывали наблюдателями.</segment>
+		<segment id="49" parent="137" relname="joint">Мы ничего не знали о насилии,</segment>
+		<segment id="50" parent="137" relname="joint">где проходят границы,</segment>
+		<segment id="51" parent="137" relname="joint">и на что ориентироваться.</segment>
+		<segment id="52" parent="178" relname="span">##### Мы видели, насколько взрослым сносит крышу</segment>
+		<segment id="53" parent="52" relname="cause">от подобных историй.</segment>
+		<segment id="54" parent="191" relname="joint">Мы видели, как всплывали их страхи,</segment>
+		<segment id="55" parent="191" relname="joint">начинались угрозы, запугивания, обобщения…</segment>
+		<segment id="56" parent="179" relname="joint">Что мы пойдем по наклонной,</segment>
+		<segment id="57" parent="179" relname="joint">и станем преступниками. Или просто ужасными людьми.</segment>
+		<segment id="58" parent="194" relname="span">##### Мы узнавали, насколько мы ужасные,</segment>
+		<segment id="59" parent="139" relname="joint">что не вступились,</segment>
+		<segment id="60" parent="139" relname="joint">промолчали,</segment>
+		<segment id="61" parent="139" relname="joint">участвовали.</segment>
+		<segment id="62" parent="140" relname="joint">Мы переживали стыд, вину и плохость,</segment>
+		<segment id="63" parent="140" relname="joint">мы защищались отмораживанием чувств и агрессией.</segment>
+		<segment id="64" parent="141" relname="contrast">Но мы так и не поняли, где же проходят границы.</segment>
+		<segment id="65" parent="197" relname="span">##### …Между тем, такие случаи нужны</segment>
+		<segment id="66" parent="65" relname="purpose">именно для того, чтобы взрослые задумывались о том, что они рассказывают своим детям о границах личности.</segment>
+		<segment id="67" parent="143" relname="joint">Где они проходят,</segment>
+		<segment id="68" parent="143" relname="joint">и куда заходить нельзя.</segment>
+		<segment id="69" parent="145" relname="span">##### Как можно поступать,</segment>
+		<segment id="70" parent="69" relname="condition">если твои границы нарушают.</segment>
+		<segment id="71" parent="146" relname="span">Нам нужно знать, что не присоединяться к насилию можно,</segment>
+		<segment id="72" parent="71" relname="evaluation">и это хороший выбор.</segment>
+		<segment id="73" parent="147" relname="span">Нам нужно знать, что защищаться от насилия можно,</segment>
+		<segment id="74" parent="73" relname="evaluation">и это прекрасный выбор.</segment>
+		<segment id="75" parent="154" relname="span">##### ….В этой истории так все и случилось.</segment>
+		<segment id="76" parent="151" relname="joint">Одни перепуганные родители навешали ярлыков,</segment>
+		<segment id="77" parent="151" relname="joint">другие потребовали исключения.</segment>
+		<segment id="78" parent="152" relname="span">Учителя и администрация не отставали:</segment>
+		<segment id="79" parent="80" relname="cause">угроз и осуждения было достаточно</segment>
+		<segment id="80" parent="174" relname="span">для того, чтобы дети, совершившие ошибку, начали защищаться.</segment>
+		<segment id="81" parent="82" relname="solutionhood">##### Что же необходимо сделать, в первую очередь?</segment>
+		<segment id="82" parent="175" relname="span">Рассказать о границах.</segment>
+		<segment id="83" parent="198" relname="span">##### «Нельзя совершать с другим человеком такие действия, на которые он не давал согласия.</segment>
+		<segment id="84" parent="199" relname="span">Нельзя удерживать,</segment>
+		<segment id="85" parent="84" relname="condition">если он хочет уйти.</segment>
+		<segment id="86" parent="155" relname="span">Нельзя настаивать,</segment>
+		<segment id="87" parent="86" relname="condition">если он не хочет участвовать в эксперименте.</segment>
+		<segment id="88" parent="156" relname="span">Его «нет» является достаточным основанием,</segment>
+		<segment id="89" parent="88" relname="purpose">чтобы оставить его в покое.</segment>
+		<segment id="90" parent="91" relname="condition">Если над человеком совершают действия против его воли,</segment>
+		<segment id="91" parent="157" relname="span">это насилие.</segment>
+		<segment id="92" parent="158" relname="joint">Мы против насилия по отношению к кому бы то ни было, в том числе по отношению к тем, кто совершил ошибку.»</segment>
+		<segment id="93" parent="160" relname="span">##### Это хорошие ориентиры,</segment>
+		<segment id="94" parent="159" relname="joint">чтобы дети могли разобраться,</segment>
+		<segment id="95" parent="159" relname="joint">и опираться на них.</segment>
+		<segment id="96" parent="162" relname="span">Вина и стыд им не помогут:</segment>
+		<segment id="97" parent="161" relname="span">они оттягивают все душевные силы</segment>
+		<segment id="98" parent="97" relname="purpose">на то, чтобы справиться с этими чувствами.</segment>
+		<segment id="99" parent="165" relname="joint">##### Разберитесь со своими травмами, которые резонируют в подобных ситуациях.</segment>
+		<segment id="100" parent="165" relname="joint">Попробуйте увидеть, как вы мгновенно превращаетесь в жертв и насильников.</segment>
+		<segment id="101" parent="102" relname="condition">##### Если дети увидят адекватную реакцию взрослых,</segment>
+		<segment id="102" parent="166" relname="span">они смогут задуматься над уроком.</segment>
+		<segment id="103" parent="168" relname="span">И это единственный шанс усвоить урок:</segment>
+		<segment id="104" parent="167" relname="joint">взрослые должны быть взрослыми,</segment>
+		<segment id="105" parent="167" relname="joint">и реагировать по-взрослому.</segment>
+		<segment id="106" parent="169" relname="cause">Тогда и дети смогут быть детьми, которые могли чего-то не знать,</segment>
+		<segment id="107" parent="169" relname="joint">и научиться,</segment>
+		<segment id="108" parent="169" relname="joint">извлечь бесценный опыт для своей жизни.</segment>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="114" relname="background"/>
+		<group id="113" type="multinuc" parent="111" relname="elaboration"/>
+		<group id="114" type="span" parent="181" relname="span"/>
+		<group id="115" type="span" parent="10" relname="elaboration"/>
+		<group id="116" type="span" parent="183" relname="span"/>
+		<group id="117" type="multinuc" parent="182" relname="elaboration"/>
+		<group id="118" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="119" type="span" parent="121" relname="contrast"/>
+		<group id="120" type="span" parent="121" relname="contrast"/>
+		<group id="121" type="multinuc" parent="122" relname="sequence"/>
+		<group id="122" type="multinuc" />
+		<group id="123" type="multinuc" parent="25" relname="evidence"/>
+		<group id="124" type="span" parent="130" relname="contrast"/>
+		<group id="125" type="span" parent="129" relname="span"/>
+		<group id="126" type="multinuc" parent="128" relname="joint"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="128" type="multinuc" parent="186" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="contrast"/>
+		<group id="130" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="131" type="multinuc" />
+		<group id="132" type="multinuc" parent="134" relname="span"/>
+		<group id="133" type="span" parent="132" relname="joint"/>
+		<group id="134" type="span" parent="136" relname="solutionhood"/>
+		<group id="135" type="span" parent="44" relname="elaboration"/>
+		<group id="136" type="span" parent="173" relname="span"/>
+		<group id="137" type="multinuc" parent="190" relname="background"/>
+		<group id="138" type="multinuc" parent="193" relname="joint"/>
+		<group id="139" type="multinuc" parent="58" relname="cause"/>
+		<group id="140" type="multinuc" parent="141" relname="contrast"/>
+		<group id="141" type="multinuc" parent="195" relname="joint"/>
+		<group id="142" type="multinuc" />
+		<group id="143" type="multinuc" parent="197" relname="elaboration"/>
+		<group id="144" type="span" parent="150" relname="span"/>
+		<group id="145" type="span" parent="149" relname="span"/>
+		<group id="146" type="span" parent="148" relname="joint"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="148" type="multinuc" parent="145" relname="elaboration"/>
+		<group id="149" type="span" parent="144" relname="elaboration"/>
+		<group id="150" type="span" />
+		<group id="151" type="multinuc" parent="153" relname="joint"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="153" type="multinuc" parent="75" relname="evidence"/>
+		<group id="154" type="span" />
+		<group id="155" type="span" parent="200" relname="joint"/>
+		<group id="156" type="span" parent="200" relname="joint"/>
+		<group id="157" type="span" parent="158" relname="joint"/>
+		<group id="158" type="multinuc" parent="177" relname="span"/>
+		<group id="159" type="multinuc" parent="93" relname="purpose"/>
+		<group id="160" type="span" parent="163" relname="comparison"/>
+		<group id="161" type="span" parent="96" relname="elaboration"/>
+		<group id="162" type="span" parent="163" relname="comparison"/>
+		<group id="163" type="multinuc" parent="158" relname="elaboration"/>
+		<group id="164" type="multinuc" parent="176" relname="span"/>
+		<group id="165" type="multinuc" parent="164" relname="joint"/>
+		<group id="166" type="span" parent="172" relname="span"/>
+		<group id="167" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="168" type="span" parent="170" relname="condition"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" parent="166" relname="elaboration"/>
+		<group id="172" type="span" parent="164" relname="joint"/>
+		<group id="173" type="span" />
+		<group id="174" type="span" parent="78" relname="elaboration"/>
+		<group id="175" type="span" parent="164" relname="preparation"/>
+		<group id="176" type="span" />
+		<group id="177" type="span" parent="164" relname="joint"/>
+		<group id="178" type="span" parent="138" relname="joint"/>
+		<group id="179" type="multinuc" parent="191" relname="elaboration"/>
+		<group id="180" type="span" parent="32" relname="elaboration"/>
+		<group id="181" type="span" />
+		<group id="182" type="span" parent="184" relname="span"/>
+		<group id="183" type="span" parent="122" relname="sequence"/>
+		<group id="184" type="span" parent="116" relname="span"/>
+		<group id="185" type="span" parent="186" relname="joint"/>
+		<group id="186" type="multinuc" parent="131" relname="sequence"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="188" type="multinuc" parent="189" relname="sequence"/>
+		<group id="189" type="multinuc" parent="131" relname="sequence"/>
+		<group id="190" type="multinuc" parent="196" relname="span"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="138" relname="joint"/>
+		<group id="193" type="multinuc" parent="142" relname="joint"/>
+		<group id="194" type="span" parent="195" relname="joint"/>
+		<group id="195" type="multinuc" parent="193" relname="joint"/>
+		<group id="196" type="span" parent="142" relname="joint"/>
+		<group id="197" type="span" parent="144" relname="span"/>
+		<group id="198" type="span" parent="158" relname="joint"/>
+		<group id="199" type="span" parent="200" relname="joint"/>
+		<group id="200" type="multinuc" parent="83" relname="elaboration"/>
+	</body>
+</rst>

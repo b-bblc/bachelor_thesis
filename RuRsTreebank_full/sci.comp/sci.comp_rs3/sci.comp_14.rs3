@@ -1,0 +1,201 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">УДК 004.627</segment>
+		<segment id="2" relname="antithesis">DOI: 10.17586/0021-3454-2015-58-7-520-526</segment>
+		<segment id="3" parent="95" relname="span">МЕТОД СЖАТИЯ ВИДЕОПОСЛЕДОВАТЕЛЬНОСТЕЙ НА ОСНОВЕ ВНУТРИКАДРОВОГО ПРЕДСКАЗАНИЯ ЯРКОСТИ ПИКСЕЛОВ</segment>
+		<segment id="4" parent="94" relname="span">И. C. Рубина</segment>
+		<segment id="5" parent="4" relname="elaboration">Университет ИТМО, 197101, Санкт-Петербург, Россия E-mail: rubren@mail.ru</segment>
+		<segment id="6" relname="antithesis">Представлен анализ используемых в стандартах сжатия видеоданных H.265 и VP9 алгоритмов внутрикадрового предсказания яркости пикселов, исследованы особенности алгоритмов и выработаны рекомендации по их применению. Устранение информационной избыточности опорных кадров — одна из главных задач процесса видеокомпрессии, а основой кодирования опорных кадров является построение прогноза для отдельных пикселов или их групп. Показано, что эффективность алгоритмов устранения информационной избыточности обеспечивается путем повышения эффективности алгоритмов внутрикадрового предсказания. Особое внимание уделено изучению таких показателей, как качество и степень сжатия видеоданных и вычислительная сложность процесса сжатия. Установлено, что повышение гибкости механизма выбора процедуры прогнозирования позволяет существенно уменьшить вычислительные затраты при сохранении качества работы алгоритма предсказания. Предложен адаптивный метод внутрикадрового предсказания, базирующийся на алгоритме предсказания, введенном стандартом H.265, и инвариантный к изменению свойств видеосцены за счет относительного снижения качества получаемого видеоряда. Для оценки разработанного метода использован ряд видеопоследовательностей из тестового набора JCT-VC для стандарта H.265. Ключевые слова: сжатие видеоданных, HEVC, VP9, внутрикадровое предсказание, адаптивный режим.</segment>
+		<segment id="7" parent="198" relname="preparation">Введение.</segment>
+		<segment id="8" parent="9" relname="cause">Современный этап развития информационно-вычислительных систем характеризуется широким внедрением технологий мультимедиа,</segment>
+		<segment id="9" parent="179" relname="span">что обусловливает необходимость разработки методов и алгоритмов сжатия цифровых видеоизображений и видеопотоков.</segment>
+		<segment id="10" parent="179" relname="elaboration">Такие алгоритмы основаны на обработке групп изображений, имеющих информационную избыточность [1, 2].</segment>
+		<segment id="11" parent="99" relname="span">Первый кодек согласно стандарту нового поколения HEVC (High Efficiency VideoCoding) высокопроизводительного кодирования видеоданных [3] был представлен в феврале 2012 г.</segment>
+		<segment id="12" parent="11" relname="concession">Тем не менее для широкого круга специалистов представляет интерес разработка эффективных алгоритмов в рамках различных этапов кодирования.</segment>
+		<segment id="13" parent="218" relname="span">Существующие системы обработки видеоданных используют методы сжатия с потерями</segment>
+		<segment id="14" parent="13" relname="cause">за счет передачи опорных (I) кадров, сжатых по пространственным координатам, а также ссылочных (P и B) кадров, сжатых по пространственно-временным координатам [4].</segment>
+		<segment id="15" parent="218" relname="elaboration">При этом учитываются особенности восприятия подобного типа данных человеком [5].</segment>
+		<segment id="16" parent="103" relname="joint">На сегодняшний день устранение информационной избыточности опорных кадров — одна из главных задач процесса видеокомпрессии.</segment>
+		<segment id="17" parent="105" relname="joint">Основой кодирования опорных кадров является построение прогноза яркости для отдельных пикселов или их групп [6].</segment>
+		<segment id="18" parent="105" relname="joint">Проблеме обеспечения качества работы алгоритмов устранения информационной избыточности путем повышения эффективности алгоритмов внутрикадрового предсказания и посвящена настоящая статья.</segment>
+		<segment id="19" parent="129" relname="preparation">Схемы алгоритмов.</segment>
+		<segment id="20" parent="113" relname="span">Схематичное представление существующих алгоритмов [7] внут- рикадрового предсказания яркости пикселов приведено на рис. 1.</segment>
+		<segment id="21" parent="109" relname="span">В частности, на рис. 1, а, б представлены режимы V_PRED и H_PRED,</segment>
+		<segment id="22" parent="21" relname="elaboration">при реализации которых прогнозирование осуществляется дублированием значения соответствующей строки или столбца,</segment>
+		<segment id="23" parent="110" relname="comparison">а на рис. 1, в, г — режимы DC_PRED и TM_PRED кодека VP8 [8].</segment>
+		<segment id="24" parent="111" relname="elaboration">[Рис. 1]</segment>
+		<segment id="25" parent="116" relname="joint">В ходе предсказания по алгоритму DC_PRED прогнозируемое значение яркости каждого пиксела блока вычисляется как среднее арифметическое яркости пикселов, находящихся на границе (выше и левее) прогнозируемых семплов.</segment>
+		<segment id="26" parent="115" relname="span">В ходе обработки по алгоритму TM_PRED прогнозируемое значение яркости каждого из семплов вычисляется по формуле [1]</segment>
+		<segment id="27" parent="114" relname="span">[формула], (1)</segment>
+		<segment id="28" parent="27" relname="elaboration">где [символ] и [символ] — яркости семплов, расположенных по горизонтали и вертикали относительно текущего семпла и диагонали для блока, [формула].</segment>
+		<segment id="29" parent="117" relname="contrast">Как показали исследования, эти алгоритмы не могут быть эффективно применены для кадров с однородной текстурой и малым градиентом яркости.</segment>
+		<segment id="30" parent="31" relname="cause">Однако благодаря малой вычислительной сложности</segment>
+		<segment id="31" parent="219" relname="span">данные алгоритмы нашли свое применение при кодировании видеокадров с предельной эффективностью.</segment>
+		<segment id="32" parent="187" relname="span">Для улучшения показателя качества сжатия в рамках алгоритма H.264</segment>
+		<segment id="33" parent="32" relname="purpose">был предложен алгоритм внутрикадрового предсказания с 9 возможными режимами [9], представленный на рис. 1, д.</segment>
+		<segment id="34" parent="220" relname="cause">Благодаря учету градиента яркости по 9 направлениям</segment>
+		<segment id="35" parent="220" relname="span">эффективность предсказания повышена на 10 %</segment>
+		<segment id="36" parent="35" relname="cause">за счет более высоких вычислительных затрат [10].</segment>
+		<segment id="37" parent="119" relname="span">Малая значимость полученных результатов связана с тем,</segment>
+		<segment id="38" parent="195" relname="condition">что при высоких степенях сжатия, на которые ориентирован алгоритм H.264,</segment>
+		<segment id="39" parent="194" relname="same-unit">наиболее вероятными,</segment>
+		<segment id="40" parent="41" relname="concession">несмотря на более широкий диапазон режимов,</segment>
+		<segment id="41" parent="193" relname="span">оказались основные 4 режима кодека VP8.</segment>
+		<segment id="42" parent="127" relname="preparation">В этой связи в рамках стандарта HEVC подлагается использовать 35 режимов предсказания INTRA_ANGULAR (рис. 1, е), а именно 2 режима, „унаследованные" из алгоритма H.264, которые являются наиболее вероятными при высоких степенях сжатия, и 33 новых режима, основанные на выборе градиента яркости.</segment>
+		<segment id="43" parent="222" relname="span">При этом стандарт HEVC предусматривает выбор трех наиболее вероятных прогнозов для блока в зависимости от прогнозов для соседних блоков [11] путем подсчета RD- характеристики для всех режимов.</segment>
+		<segment id="44" parent="180" relname="contrast">Следует отметить, что использование RD- характеристики позволяет выбрать оптимальный режим внутрикадрового предсказания,</segment>
+		<segment id="45" parent="180" relname="contrast">однако расчет значения имеет высокую вычислительную сложность.</segment>
+		<segment id="46" parent="127" relname="span">Поэтому разработка менее вычислительно сложного подхода к выбору режимов внутрикадрового предсказания является оправданной.</segment>
+		<segment id="47" parent="214" relname="preparation">Разработанный метод.</segment>
+		<segment id="48" parent="206" relname="span">В ходе исследования было сделано предположение, что повышение гибкости механизма выбора процедуры прогнозирования</segment>
+		<segment id="49" parent="48" relname="purpose">позволит существенно уменьшить вычислительные затраты при сохранении качества работы алгоритма предсказания.</segment>
+		<segment id="50" parent="214" relname="span">Выбор режима предсказания предлагается осуществлять следующим образом.</segment>
+		<segment id="51" parent="132" relname="joint">1\. Осуществляется проход по всем семплам кадра.</segment>
+		<segment id="52" parent="53" relname="condition">Если определенный семпл не последний,</segment>
+		<segment id="53" parent="131" relname="span">то осуществляется переход к шагу 2.</segment>
+		<segment id="54" parent="143" relname="sequence">2\. Первые два наиболее подходящих режима предсказания, обозначенные как A и B, выбираются способом, описанным в тестовой модели кодека HEVC [12].</segment>
+		<segment id="55" parent="56" relname="condition">3\. Если А != В, то среди всех режимов, отличающихся от А и В,</segment>
+		<segment id="56" parent="134" relname="span">выбирается режим C, для которого используется критерий F: [формула].</segment>
+		<segment id="57" parent="135" relname="joint">Если A=B</segment>
+		<segment id="58" parent="135" relname="joint">и A=Intra_Angular[x],</segment>
+		<segment id="59" parent="136" relname="span">то поиск осуществляется только среди режимов Intra_Angular[x].</segment>
+		<segment id="60" parent="141" relname="joint">4\. Выбор среди угловых режимов предсказания осуществляется методом последовательного перебора в направлениях 1—8 и 17—33 одновременно (см. рис. 1, е).</segment>
+		<segment id="61" parent="140" relname="span">В качестве критерия F в настоящем исследовании используется оценка среднеквадратического отклонения яркости пикселов исходного изображения от предсказанного [2]:</segment>
+		<segment id="62" parent="139" relname="span">[формула], (2)</segment>
+		<segment id="63" parent="62" relname="elaboration">где m, n — размеры кадра; [символ] и [символ] — яркости соответствующих пикселов прогнозируемого и ссылочного кадров.</segment>
+		<segment id="64" parent="65" relname="condition">5\. В случае увеличения МБЕ</segment>
+		<segment id="65" parent="142" relname="span">в течение двух шагов выбирается режим предсказания, наиболее близкий по критерию Е.</segment>
+		<segment id="66" parent="202" relname="preparation">Эксперимент.</segment>
+		<segment id="67" parent="188" relname="span">Для тестирования разработанного метода</segment>
+		<segment id="68" parent="67" relname="purpose">был использован ряд видеопоследовательностей из тестового набора 1СТ-УС для стандарта Н.265 [13—15]:</segment>
+		<segment id="69" parent="188" relname="elaboration">1) Реор1еOnStreet, разрешение 2560x1600, 50 кадров/с; 2) БQТеrrace, разрешение 1920x1080, 50 кадров/с; 3) РаrtyScene, разрешение 832x480, 60 кадров/с.</segment>
+		<segment id="70" parent="223" relname="span">На рис. 2 приведена диаграмма, отражающая вероятность (Р) выбора конкретных режимов предсказания</segment>
+		<segment id="71" parent="70" relname="condition">при сжатии указанных тестовых видеопоследовательностей.</segment>
+		<segment id="72" parent="150" relname="contrast">Как видно, наиболее вероятными для всех видеопоследовательностей являются режимы предсказания Intra_DС и Intra_Planar.</segment>
+		<segment id="73" parent="74" relname="evidence">Однако для каждой видеопоследовательности существуют несколько угловых режимов предсказания с вероятностью Р > 4 %,</segment>
+		<segment id="74" parent="149" relname="span">что в целом оправдывает использование такого количества угловых режимов предсказания в стандарте Н.265.</segment>
+		<segment id="75" parent="223" relname="elaboration">[Рис. 2]</segment>
+		<segment id="76" parent="226" relname="span">На рис. 3 показано количество (в процентах) проанализированных режимов предсказания от общего числа просчитанных в тестовой модели НМ 13.0 режимов для видеопоследовательностей с различной степенью сжатия.</segment>
+		<segment id="77" parent="78" relname="condition">При использовании разработанного метода</segment>
+		<segment id="78" parent="225" relname="span">в среднем приходится просчитывать на 35 % режимов меньше, чем по тестовой модели НМ 13.0,</segment>
+		<segment id="79" parent="157" relname="span">что является существенным снижением вычислительной сложности этапа внутрикадрового сжатия изображения.</segment>
+		<segment id="80" parent="76" relname="elaboration">[Рис. 3]</segment>
+		<segment id="81" parent="228" relname="span">RD-зависимости для рассматриваемых тестовых видеопоследовательностей представлены на рис. 4, а—в: наибольшие потери в 1,05 % по качеству сжатия (пиковому отношению сигнал/шум — PSNR) были выявлены на видеопоследовательности Реор1еOnStreet;,</segment>
+		<segment id="82" parent="163" relname="comparison">а в среднем такие потери составили 0,77 % от качества сжатия с использованием тестовой модели НМ 13.0;</segment>
+		<segment id="83" parent="164" relname="comparison">наибольший выигрыш в 2,07 % по скорости сжатия (битрейт) был также получен на видеопоследовательности PeopleOnStreet,</segment>
+		<segment id="84" parent="164" relname="comparison">а в среднем выигрыш составил 1,89 % от скорости сжатия с использованием тестовой модели НМ 13.0.</segment>
+		<segment id="85" parent="81" relname="elaboration">[Рис. 4]</segment>
+		<segment id="86" parent="191" relname="preparation">Заключение.</segment>
+		<segment id="87" parent="189" relname="span">Представленный метод выбора режима внутрикадрового предсказания яркости пикселов для сжатия видеопоследовательностей</segment>
+		<segment id="88" parent="87" relname="purpose">позволяет значительно снизить вычислительные затраты.</segment>
+		<segment id="89" parent="90" relname="evidence">На основе полученных результатов можно утверждать,</segment>
+		<segment id="90" parent="203" relname="span">что путем дальнейшей оптимизации процедуры поиска может быть улучшено соотношение скорости сжатия к его качеству.</segment>
+		<segment id="91" parent="92" relname="preparation">СПИСОК ЛИТЕРАТУРЫ</segment>
+		<segment id="92" relname="antithesis">1\. Generic Coding of Moving Pictures and Associated Audio Information: Video: MPEG-2 ISO/IEC 13818-2. Intr. 1998.04.28. ITU, 1998. 202 p. 2\. Тропченко А. Ю, Тропченко А. A. Методы сжатия изображений, аудиосигналов и видео: Учеб. пособое. СПб: СПбГУ ИТМО, 2009. 108 с. 3\. Bross B. High Efficiency VideoCoding (HEVC) — Text Specification Draft 10 [Электронный ресурс]: &lt;http://phenix.int-evry.fr/jct/&gt;, 24.12.2014. 4\. Ватолин Д., Ратушняк А., Смирнов М. Методы сжатия данных. Устройство архиваторов, сжатие изображений и видео. М.: ДИАЛОГ-МИФИ, 2003. 384 с. 5\. Сэломон Д. Сжатие данных, изображений и звука. М.: Техносфера, 2004. 368 с. 6\. Ричардсон Я. Видеокодирование. H.264 и MPEG-4 — стандарты нового поколения. М.: Техносфера, 2005. 368 с. 7\. Grois D., Marpe D., Mulayoff Л., Hadar O. Performance comparison of H.265 /MPEG-HEVC, VP9, and H.264/MPEG-AVC encoders // Proc. of the 30th Picture Coding Symp. 2013. Vol. 6, N 4. P. 122—143. 8\. Bankoski J., Wilkins P., Xu Ya. Technical overview of VP8, an open source videocodec for the Web // Proc. of the IEEE Intern. Conf. on ICME. 2011. Vol. 14, N 4. P. 343—358. 9\. Richardson I. White Paper: H.264/AVC Intra Prediction [Электронный ресурс]: &lt;http://www.vcodex.com/ files/H264_intrapred_wp.pdf&gt;, 16.12.2014. 10\. H.264: Advanced Videocoding for Generic Audiovisual Services: Recommendation ITU-T. Intr. 2011.03.14. ITU, 2011. 686 p. 11\. Recommendation ITU-T H.265: High Efficiency Videocoding [Электронный ресурс]: &lt;http:// www.itu.int/ dms_pubrec/itu-t/rec/h/T-REC-H.265-201304-S!! SUM-HTM-E.htm&gt;, 01.02.2015. 12\. Тестовая модель кодека HM 13.0 стандарта H.265/HEVC [Электронный ресурс]: &lt;https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/&gt;, 11.01.2015. 13\. Тестовые видеопоследовательности исследовательской группы JCT-VC [Электронный ресурс]: &lt;ftp://ftp.tnt.uni-hannover.de/testsequences&gt;, 15.12.2014. 14\. Гонсалес Р., Вудс Р. Цифровая обработка изображений. М.: Техносфера, 2012. 1104 с. 15\. Bossen F. Common Test Conditions and Software Reference Configurations [Электронный ресурс]: &lt;http://phenix.it- sudparis.eu/jct/doc_end_user/documents/6_Torino/wg11/JCTVC-F900-v1.zip&gt;, 16.12.2014.</segment>
+		<segment id="93" relname="antithesis">Сведения об авторе Ирина Семеновна Рубина — канд. техн. наук; Университет ИТМО; кафедра вычислительной техни- ки; E-mail: rubren@mail.ru Рекомендована кафедрой Поступила в редакцию вычислительной техники 24.02.15 г. Ссылка для цитирования: Рубина И. C. Метод сжатия видеопоследовательностей на основе внутрикадрового предсказания яркости пикселов // Изв. вузов. Приборостроение. 2015. Т. 58, № 7. С. 520—526.  </segment>
+		<group id="94" type="span" parent="3" relname="attribution"/>
+		<group id="95" type="span" parent="213" relname="preparation"/>
+		<group id="99" type="span" parent="211" relname="background"/>
+		<group id="103" type="multinuc" parent="211" relname="span"/>
+		<group id="105" type="multinuc" relname="antithesis"/>
+		<group id="109" type="span" parent="110" relname="comparison"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="20" relname="elaboration"/>
+		<group id="113" type="span" parent="128" relname="joint"/>
+		<group id="114" type="span" parent="26" relname="elaboration"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="116" type="multinuc" parent="128" relname="joint"/>
+		<group id="117" type="multinuc" parent="128" relname="joint"/>
+		<group id="119" type="span" parent="121" relname="joint"/>
+		<group id="121" type="multinuc" parent="128" relname="joint"/>
+		<group id="127" type="span" parent="205" relname="span"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="130" type="span" relname="antithesis"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="132" type="multinuc" parent="143" relname="sequence"/>
+		<group id="134" type="span" parent="137" relname="joint"/>
+		<group id="135" type="multinuc" parent="59" relname="condition"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="137" type="multinuc" parent="143" relname="sequence"/>
+		<group id="139" type="span" parent="61" relname="elaboration"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="141" type="multinuc" parent="143" relname="sequence"/>
+		<group id="142" type="span" parent="143" relname="sequence"/>
+		<group id="143" type="multinuc" parent="181" relname="span"/>
+		<group id="149" type="span" parent="150" relname="contrast"/>
+		<group id="150" type="multinuc" parent="201" relname="span"/>
+		<group id="157" type="span" parent="227" relname="span"/>
+		<group id="160" type="multinuc" relname="antithesis"/>
+		<group id="163" type="multinuc" parent="165" relname="joint"/>
+		<group id="164" type="multinuc" parent="165" relname="joint"/>
+		<group id="165" type="multinuc" relname="antithesis"/>
+		<group id="179" type="span" parent="198" relname="span"/>
+		<group id="180" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="181" type="span" parent="216" relname="span"/>
+		<group id="187" type="span" parent="121" relname="joint"/>
+		<group id="188" type="span" parent="202" relname="span"/>
+		<group id="189" type="span" parent="190" relname="joint"/>
+		<group id="190" type="multinuc" parent="191" relname="span"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" relname="antithesis"/>
+		<group id="193" type="span" parent="194" relname="same-unit"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="196" type="span" parent="37" relname="elaboration"/>
+		<group id="198" type="span" parent="207" relname="span"/>
+		<group id="199" type="span" parent="103" relname="joint"/>
+		<group id="200" type="span" parent="204" relname="span"/>
+		<group id="201" type="span" parent="200" relname="span"/>
+		<group id="202" type="span" parent="217" relname="span"/>
+		<group id="203" type="span" parent="190" relname="joint"/>
+		<group id="204" type="span" parent="160" relname="joint"/>
+		<group id="205" type="span" relname="antithesis"/>
+		<group id="206" type="span" parent="50" relname="preparation"/>
+		<group id="207" type="span" parent="212" relname="preparation"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" relname="antithesis"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="181" relname="preparation"/>
+		<group id="216" type="span" relname="antithesis"/>
+		<group id="217" type="span" parent="200" relname="preparation"/>
+		<group id="218" type="span" parent="199" relname="span"/>
+		<group id="219" type="span" parent="117" relname="contrast"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="121" relname="joint"/>
+		<group id="222" type="span" parent="46" relname="evidence"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="201" relname="evidence"/>
+		<group id="225" type="span" parent="79" relname="evidence"/>
+		<group id="226" type="span" parent="157" relname="preparation"/>
+		<group id="227" type="span" parent="160" relname="joint"/>
+		<group id="228" type="span" parent="163" relname="comparison"/>
+  </body>
+</rst>

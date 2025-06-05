@@ -1,0 +1,99 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Новость: Выставка песчаной скульптуры "Волшебный песок"</segment>
+		<segment id="2" parent="49" relname="preparation">##### Уникальная выставка песчаной скульптуры "Волшебный песок" действует на пл.Речников (Речной порт).</segment>
+		<segment id="3" parent="4" relname="purpose">Для создания скульптур из капризного материала, как песок</segment>
+		<segment id="4" parent="41" relname="span">приехали скульпторы из Архангельска, Санкт-Петербурга, Ижевска, Екатеринбурга, Нижнего Тагила, Латвии,г.Лиепая,</segment>
+		<segment id="5" parent="41" relname="elaboration">так же участвовали скульпторы из Чебоксары.</segment>
+		<segment id="6" parent="42" relname="elaboration">Скульпторы из российских городов, Ижевска, Нижнего Тагила, Санкт-Петербурга, Архангельска, Чебоксар Латвии соорудили настоящие шедевры из песка.</segment>
+		<segment id="7" parent="43" relname="span">Конкуренцию им составили двое местных мастеров,</segment>
+		<segment id="8" parent="7" relname="elaboration">один из которых - организатор выставки Андрей Молоков.</segment>
+		<segment id="9" parent="45" relname="elaboration">И это было только начало.</segment>
+		<segment id="10" parent="47" relname="sequence">Через несколько дней отдельный конкурс был организован для чебоксарских студентов художественных факультетов и училищ.</segment>
+		<segment id="11" parent="51" relname="preparation">##### Тема выставки — «Песчаные замки».</segment>
+		<segment id="12" parent="51" relname="span">По условиям конкурса в композиции обязательно должны присутствовать элементы архитектуры.</segment>
+		<segment id="13" parent="52" relname="span">Это может быть что угодно: дома, замки, крепости</segment>
+		<segment id="14" parent="13" relname="evaluation">— всё, что подскажет фантазия автора.</segment>
+		<segment id="15" parent="60" relname="span">##### Песчаный город состоит из 16 больших композиций высотой 3 метра, и 5 маленьких — двухметровых.</segment>
+		<segment id="16" parent="54" relname="span">Сооружение песчаных скульптур — довольно быстрый процесс:</segment>
+		<segment id="17" parent="16" relname="elaboration">на воздвижение больших отводится 5 дней, маленьких — три.</segment>
+		<segment id="18" parent="55" relname="span">Жюри — местные скульпторы, архитекторы и художники — присудили первое место в конкурсе скульптур присудили Ирине Алимурзаевой из Санкт-Петербурга,</segment>
+		<segment id="19" parent="56" relname="span">её творение называется «Невидимая сила»,</segment>
+		<segment id="20" parent="19" relname="elaboration">представляет собой город, над которым «лик» Иисуса Христа.</segment>
+		<segment id="21" parent="75" relname="attribution">Ирина хочет,</segment>
+		<segment id="22" parent="75" relname="span">чтобы её композиция наталкивала посетителей выставки на философские размышления:</segment>
+		<segment id="23" parent="58" relname="span">«Моя идея заключается в том, что всё в руках Господа ― и архитектура, и жизни людей,</segment>
+		<segment id="24" parent="23" relname="cause">потому и название такое - «Невидимая сила»...»</segment>
+		<segment id="25" parent="65" relname="preparation">##### Второе место досталось скульптуре Сергея Поташева из Архангельска под названием «Дом ангела».</segment>
+		<segment id="26" parent="62" relname="joint">«Композиция соответствует своему названию,</segment>
+		<segment id="27" parent="62" relname="joint">имеет художественную ценность,</segment>
+		<segment id="28" parent="62" relname="joint">необычна,</segment>
+		<segment id="29" parent="64" relname="evaluation">выполнена мастерски — очень много сложных деталей...»,</segment>
+		<segment id="30" parent="63" relname="attribution">- рассказывает Андрей Молоков.</segment>
+		<segment id="31" parent="67" relname="preparation">##### Бронзовым призёром стал Айнарас Зигнис из латвийского города Лиепая со своей композицией «Сегодня в городе солнечная погода».</segment>
+		<segment id="32" parent="77" relname="span">В своей песчаной фантазии Айнарас воплотил свои любимые места Европы,</segment>
+		<segment id="33" parent="32" relname="background">где он бывал, запомнившиеся здания.</segment>
+		<segment id="34" parent="77" relname="elaboration">Тут и дома, которые поразили его в Швейцарии, Германии, пражские домики, и центральная церковь латышского города Лиепая...</segment>
+		<segment id="35" parent="73" relname="preparation">##### Выставка песчаных скульптур работает ежедневно без выходных с 9 до 22.00,</segment>
+		<segment id="36" parent="71" relname="cause">её закрытие планируется лишь в конце сентября.</segment>
+		<segment id="37" parent="71" relname="span">Так что в запасе есть еще достаточно времени,</segment>
+		<segment id="38" parent="70" relname="joint">чтобы полюбоваться песчаными шедеврами и,</segment>
+		<segment id="39" parent="70" relname="joint">может быть, вдохновиться на создание своего маленького замка из песка.</segment>
+		<segment id="40" parent="72" relname="background">телефон для справок 38-79-17</segment>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="48" relname="span"/>
+		<group id="43" type="span" parent="44" relname="comparison"/>
+		<group id="44" type="multinuc" parent="45" relname="span"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="47" relname="sequence"/>
+		<group id="47" type="multinuc" parent="49" relname="span"/>
+		<group id="48" type="span" parent="44" relname="comparison"/>
+		<group id="49" type="span" />
+		<group id="51" type="span" />
+		<group id="52" type="span" parent="12" relname="elaboration"/>
+		<group id="54" type="span" parent="15" relname="elaboration"/>
+		<group id="55" type="span" parent="59" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" parent="18" relname="elaboration"/>
+		<group id="58" type="span" parent="22" relname="elaboration"/>
+		<group id="59" type="span" />
+		<group id="60" type="span" parent="59" relname="preparation"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="64" type="span" parent="63" relname="span"/>
+		<group id="65" type="span" />
+		<group id="67" type="span" />
+		<group id="70" type="multinuc" parent="37" relname="purpose"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" />
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="56" relname="purpose"/>
+		<group id="77" type="span" parent="67" relname="span"/>
+	</body>
+</rst>

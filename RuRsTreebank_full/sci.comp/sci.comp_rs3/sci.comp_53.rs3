@@ -1,0 +1,289 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="245" relname="span">﻿ ОЦЕНКА ХАРАКТЕРИСТИК ФУНКЦИОНИРОВАНИЯ КОРПОРАТИВНЫХ ИНФОРМАЦИОННЫХ СИСТЕМ С НЕОДНОРОДНОЙ НАГРУЗКОЙ</segment>
+		<segment id="2" parent="244" relname="span">И.В. Калинин", Э. Махаревсь, Л.А. Муравьева- Витковская11</segment>
+		<segment id="3" parent="2" relname="elaboration">a Университет ИТМО, Санкт-Петербург, 197101, Российская Федерация ь Балтийская международная академия, Рига, LV-1019, Латвия Адрес для переписки: muravyeva- vitkovskaya@cs.ifmo.ru Информация о статье Поступила в редакцию 10.07.15, принята к печати 27.07.15 doi:10.17586/2226-1494-2015-15-5-863-868 Язык статьи - русский Ссылка для цитирования: Калинин И.В., Махаревс Э., Муравьева-Витковская Л.А.</segment>
+		<segment id="4" relname="antithesis">Оценка характеристик функционирования корпоративных информационных систем с неоднородной нагрузкой // Научно-технический вестник информационных технологий, механики и оптики. 2015. Т. 15. № 5. С. 863-868.</segment>
+		<segment id="5" relname="antithesis">Аннотация Рассматривается задача оценки характеристик корпоративных информационных систем на стадии проектирования. При проектировании корпоративных информационных систем наибольший интерес представляет не среднее время, а вероятность своевременной доставки сообщений разных типов (например, оперативных, служебных, диалоговых, файловых и т.п.) от отправителя к адресату. Кроме того, необходимо учитывать возможность использования приоритетного управления информационными потоками, построенного на базе дисциплин обслуживания общего вида со смешанными приоритетами. Для решения поставленной задачи используется разомкнутая сеть массового обслуживания с неоднородным потоком заявок. Предложен метод расчета характеристик корпоративных информационных систем, основанный на декомпозиции сетевой модели. При приоритетном управлении сообщениями конечные результаты являются приближенными, поскольку потоки сообщений разных классов на выходе узлов компьютерной системы, а следовательно, и на входе, отличаются от простейших. Однако, как показало имитационное моделирование, в широкой области значений параметров, соответствующих реальным корпоративным информационным системам, погрешности результатов предложенного аналитического метода находятся в приемлемых для инженерных расчетов пределах. Полученные результаты могут использоваться для решения задачи оптимизации сетей передачи данных современных корпоративных информационных систем, заключающейся в определении алгоритма маршрутизации и назначении приоритетов сообщениям разных классов, обеспечивающих заданное время доставки. Ключевые слова корпоративные информационные системы, расчет интенсивностей, время доставки сообщений, потоки сообщений, системы массового обслуживания.</segment>
+		<segment id="6" relname="antithesis">Благодарности Работа выполнена в рамках НИР № 610481 «Разработка методов и средств системотехнического проектирования информационных и управляющих вычислительных систем с распределенной архитектурой».</segment>
+		<segment id="7" parent="160" relname="preparation">Введение</segment>
+		<segment id="8" parent="261" relname="span">Специфичность современных корпоративных информационных систем (КИС)</segment>
+		<segment id="9" parent="262" relname="same-unit">обусловлена следующими факторами: многообразием сетевых технологий и архитектур;</segment>
+		<segment id="10" parent="141" relname="span">разнообразием требований к качеству передачи данных разных типов</segment>
+		<segment id="11" parent="10" relname="elaboration">(например, для текстовых файлов наиболее важным показателем является надежность доставки, гарантирующая отсутствие потерь и искажений данных в файлах, а для аудио- и видеоданных - колебания (джиттер) [1-3] задержки пакетов данных относительно требуемого момента поступления);</segment>
+		<segment id="12" parent="144" relname="span">неоднородностью трафика,</segment>
+		<segment id="13" parent="14" relname="purpose">для управления которым</segment>
+		<segment id="14" parent="263" relname="span">могут использоваться различные механизмы (методы доступа в Local Area Network (LAN), алгоритмы маршрутизации, способы установления соединений и т.п.),</segment>
+		<segment id="15" parent="265" relname="same-unit">направленные на предотвращение перегрузок и блокировок в сетях и обеспечивающие требуемое качество передачи данных,</segment>
+		<segment id="16" parent="265" relname="same-unit">а также различием сервисов и технологий, используемых в их разработке.</segment>
+		<segment id="17" parent="147" relname="joint">Современные КИС характеризуются разнообразием предоставляемых пользователям услуг, увеличением числа пользователей и объемов передаваемых данных, повышением уровня требований к качеству обслуживания пользователей.</segment>
+		<segment id="18" parent="269" relname="span">Реализация требований, предъявляемых к КИС, возможна</segment>
+		<segment id="19" parent="268" relname="span">за счет выбора структурно- функциональной организации сети,</segment>
+		<segment id="20" parent="19" relname="elaboration">включающей в себя такие вопросы, как выбор конкретной технологии передачи и обработки данных, определение наиболее рациональной топологии коммуникационной сети, выбор сетевого оборудования, механизмов управления трафиком, использования современных технологий разработки программного обеспечения [2, 4] и т.д.</segment>
+		<segment id="21" parent="278" relname="same-unit">В настоящее время</segment>
+		<segment id="22" parent="23" relname="cause">из-за интенсивного роста числа пользователей и различных приложений</segment>
+		<segment id="23" parent="279" relname="span">все большее распространение получают КИС, в которых существуют десятки разновидностей трафика [1],</segment>
+		<segment id="24" parent="270" relname="joint">вызванных внедрением новых информационных технологий</segment>
+		<segment id="25" parent="270" relname="joint">и использованием различных приложений -Интернета, IP-телефонии (VoIP), видеоконференц-связи, планирования ресурсов предприятия (ERP), управления взаимоотношениями с заказчиками (CRM) и др.</segment>
+		<segment id="26" parent="149" relname="span">Таким образом, одной из характерных особенностей современных КИС является неоднородность трафика [1].</segment>
+		<segment id="27" parent="150" relname="span">Неоднородность трафика заключается в передаче по телекоммуникационной сети пакетов нескольких типов (видео- и аудиопакетов, речевых пакетов, текстовых пакетов и т.д.),</segment>
+		<segment id="28" parent="27" relname="condition">к доставке которых предъявляются различные требования [3, 5, 6].</segment>
+		<segment id="29" parent="271" relname="span">Это обстоятельство необходимо учитывать администратору сети</segment>
+		<segment id="30" parent="29" relname="purpose">для повышения эффективности использования ресурсов КИС.</segment>
+		<segment id="31" parent="275" relname="elaboration">Одним из способов распределения сетевых ресурсов является распределение в соответствии с существующими на данный момент приоритетами, т.е. приоритизация трафика.</segment>
+		<segment id="32" parent="159" relname="joint">Алгоритмы обработки очередей составляют одну из основ механизмов обеспечения гарантированного качества обслуживания (Quality of Service, QoS) в сетевых элементах.</segment>
+		<segment id="33" parent="247" relname="span">Решение задач проектирования КИС предполагает использование эффективных моделей и математических методов [7-10],</segment>
+		<segment id="34" parent="33" relname="purpose">позволяющих проводить качественный и количественный анализ характеристик функционирования системы в зависимости от структурных, нагрузочных и функциональных параметров.</segment>
+		<segment id="35" parent="252" relname="joint">Одной из основных характеристик, определяемых в процессе анализа КИС, является время доставки сообщения от узла отправителя к узлу-адресату.</segment>
+		<segment id="36" parent="252" relname="joint">Результаты, представленные в [5], позволяют рассчитать лишь средние значения времени доставки сообщений разных типов.</segment>
+		<segment id="37" parent="277" relname="joint">В то же время на практике значительно больший интерес представляет не среднее время, а вероятность своевременной доставки сообщений разных типов (например, оперативных, служебных, диалоговых, файловых и т.п.) от узла-отправителя к узлу-адресату.</segment>
+		<segment id="38" parent="155" relname="same-unit">Кроме того, необходимо учитывать возможность использования приоритетных способов управления</segment>
+		<segment id="39" parent="154" relname="span">информационными потоками,</segment>
+		<segment id="40" parent="39" relname="elaboration">построенных на базе дисциплин обслуживания общего вида со смешанными приоритетами.</segment>
+		<segment id="41" parent="42" relname="purpose">Для решения поставленной задачи</segment>
+		<segment id="42" parent="273" relname="span">используем разомкнутую сетевую модель массового обслуживания (РСММО) [11-15] с неоднородным потоком заявок.</segment>
+		<segment id="43" parent="157" relname="span">Проиллюстрируем методику анализа и получения сравнительно простых результатов,</segment>
+		<segment id="44" parent="43" relname="condition">предположив, что в узлах передачи данных используется бесприоритетный способ управления информационными потоками.</segment>
+		<segment id="45" parent="174" relname="preparation">Постановка задачи</segment>
+		<segment id="46" parent="165" relname="joint">Пусть в сети КИС, содержащей n узлов, циркулируют сообщения К типов.</segment>
+		<segment id="47" parent="162" relname="span">Положим, что от абонентов, подключенных к узлу-отправителю h, с интенсивностью [символ]k (0|h, l) генерируется простейший поток сообщений типа к к конечному узлу-адресату I,</segment>
+		<segment id="48" parent="47" relname="elaboration">которые для краткости будем называть (h, /)-сообщениями типа к.</segment>
+		<segment id="49" parent="164" relname="span">Положим также, что на основе выбранного алгоритма маршрутизации заданы вероятности nк ([символ], [символ]|h,I) того,</segment>
+		<segment id="50" parent="163" relname="span">что (h, /)-сообщения типа к из узла / будут переданы в связанный с ним узел [символ], которые для каждого (h, /)-направления образуют матрицу вероятностей передач,</segment>
+		<segment id="51" parent="50" relname="elaboration">описывающую возможные пути передачи сообщения от узла h к узлу I ([символ], , h, I = 1, n; k = 1, К).</segment>
+		<segment id="52" parent="165" relname="joint">Длительность обслуживания сообщений в узле [символ], представляющую собой время обработки в узле и передачи сообщения в соседний узел, будем полагать распределенной по экспоненциальному закону со средним значением [символ]к ([символ]).</segment>
+		<segment id="53" parent="165" relname="joint">Сообщения разных типов обслуживаются в каждом узле сети в порядке поступления.</segment>
+		<segment id="54" parent="166" relname="span">Необходимо определить закон распределения времени передачи сообщений типа к,</segment>
+		<segment id="55" parent="54" relname="elaboration">направляемых от узла И к узлу I (к = 1, К;[символ], у, h, I = 1, n).</segment>
+		<segment id="56" parent="168" relname="joint">Методика анализа сети современной КИС базируется на декомпозиции сети</segment>
+		<segment id="57" parent="168" relname="joint">и сводится к расчету отдельных узлов РСММО как систем массового обслуживания (СМО) вида МК/МК/1 с бесприоритетным обслуживанием заявок.</segment>
+		<segment id="58" parent="257" relname="span">Такой подход позволяет получить точные результаты при [символ]к [формула] [формула] для всех к = 1, К и приближенные - в остальных случаях.</segment>
+		<segment id="59" parent="250" relname="span">При этом погрешность результатов уменьшается с увеличением числа типов сообщений, циркулирующих в системе, и их маршрутов, а также с уменьшением различий в длительностях обслуживания сообщений разных типов внутри одного узла.</segment>
+		<segment id="60" parent="61" relname="purpose">Для декомпозиции РСММО</segment>
+		<segment id="61" parent="281" relname="span">необходимо определить интенсивности потоков сообщений в каждом из узлов сети.</segment>
+		<segment id="62" parent="192" relname="preparation">Расчет интенсивностей потоков сообщений</segment>
+		<segment id="63" parent="178" relname="span">Интенсивность потока (И, /)-сообщений типа к в узлеу определяется из системы линейных уравнений</segment>
+		<segment id="64" parent="177" relname="span">[формула] (1) [формула]; [формула];</segment>
+		<segment id="65" parent="176" relname="span">где для всех</segment>
+		<segment id="66" parent="65" relname="elaboration">[формула] ; [формула]; [формула].</segment>
+		<segment id="67" parent="180" relname="span">Тогда суммарная интенсивность потока сообщений типа к в узелу равны</segment>
+		<segment id="68" parent="179" relname="span">[формула], (2) [формула]</segment>
+		<segment id="69" parent="68" relname="elaboration">где Хк (0) - интенсивность поступления в сеть сообщений типа к.</segment>
+		<segment id="70" parent="182" relname="span">На основе полученных значений интенсивностей могут быть рассчитаны вероятности передач сообщений в РСММО:</segment>
+		<segment id="71" parent="70" relname="elaboration">[формула]; [формула]; [формула]; (3) [формула]. [формула]</segment>
+		<segment id="72" parent="184" relname="span">Интенсивности потоков сообщений Хк (у) связаны очевидной зависимостью</segment>
+		<segment id="73" parent="72" relname="elaboration">[формула]. (4)</segment>
+		<segment id="74" parent="188" relname="same-unit">В выражениях (1)-(4) узел РСММО у = 0 соответствует</segment>
+		<segment id="75" parent="187" relname="span">внешней среде,</segment>
+		<segment id="76" parent="186" relname="joint">откуда сообщения поступают в сеть</segment>
+		<segment id="77" parent="185" relname="span">и куда они возвращаются,</segment>
+		<segment id="78" parent="77" relname="condition">покидая сеть.</segment>
+		<segment id="79" parent="215" relname="preparation">Расчет времени доставки сообщений</segment>
+		<segment id="80" parent="194" relname="span">Определим сначала время пребывания сообщения типа к в узле передачи данных ,</segment>
+		<segment id="81" parent="195" relname="span">рассматривая этот узел в виде СМО МК/МК/1,</segment>
+		<segment id="82" parent="196" relname="span">в которую поступают К простейших потоков сообщений с интенсивно- стями Хк (г)</segment>
+		<segment id="83" parent="82" relname="elaboration">([формула]; [формула]).</segment>
+		<segment id="84" parent="197" relname="span">В случае бесприоритетного обслуживания [16, 17] сообщений в узле г преобразование Лапласа плотности вероятности времени пребывания сообщения типа к определяется следующим образом [5]:</segment>
+		<segment id="85" parent="198" relname="span">[формула] (5) [формула]</segment>
+		<segment id="86" parent="85" relname="elaboration">где [формула]; [формула];[формула]; [формула]; [формула]. [формула]</segment>
+		<segment id="87" parent="199" relname="span">Преобразование Лапласа Кк (к, /,5) плотности вероятности времени доставки сообщений типа к из узла к в узел / определяется из системы уравнений</segment>
+		<segment id="88" parent="200" relname="span">[формула] (6) [формула]</segment>
+		<segment id="89" parent="88" relname="elaboration">причем [формула].</segment>
+		<segment id="90" parent="205" relname="span">Два первых начальных момента определяются из следующих систем уравнений:</segment>
+		<segment id="91" parent="201" relname="joint">[формула]; (7)</segment>
+		<segment id="92" parent="201" relname="joint">[формула] (8)</segment>
+		<segment id="93" parent="204" relname="span">где ик (к) и Ц2 (к) - соответственно первый и второй начальный моменты времени пребывания сообщений типа к в узле к,</segment>
+		<segment id="94" parent="93" relname="elaboration">определяемые дифференцированием (5) по 5 в точке 5 = 0.</segment>
+		<segment id="95" parent="207" relname="span">Используя преобразования Лапласа К*(к, /,или моменты Кк (к, /) и Кк2\к, /),</segment>
+		<segment id="96" parent="95" relname="attribution">рассчитанные по формулам (6), (7) и (8) соответственно,</segment>
+		<segment id="97" parent="208" relname="span">можно определить различные вероятностно-временные характеристики сети,</segment>
+		<segment id="98" parent="97" relname="elaboration">в частности, вероятность своевременной доставки сообщения [5].</segment>
+		<segment id="99" parent="100" relname="condition">Если функция старения сообщений - экспоненциальная и среднее время старения сообщений типа к равно 1/5,</segment>
+		<segment id="100" parent="210" relname="span">то вероятность своевременной доставки сообщения совпадает со значением преобразования Лапласа времени доставки, вычисленным при 5 = 5к .</segment>
+		<segment id="101" parent="230" relname="preparation">Пример применения методики расчета характеристик КИС</segment>
+		<segment id="102" parent="217" relname="span">Рассмотрим сеть, содержащую четыре узла,</segment>
+		<segment id="103" parent="102" relname="elaboration">в которой циркулируют сообщения двух типов.</segment>
+		<segment id="104" parent="218" relname="span">От абонентов, подключенных к узлу-отправителю к, с интенсивностью Хк (01 к, /) генерируется простейший поток сообщений типа к к конечному узлу- адресату /:</segment>
+		<segment id="105" parent="104" relname="elaboration">10,02 при k [символ]; / 10,03 при k [символ]; [формула] ; [формула] ; [формула]. 0,04 при k [символ]; / 0,01 при k [символ]; /</segment>
+		<segment id="106" parent="219" relname="joint">Длительности обслуживания сообщений в узлах одинаковы для всех сообщений</segment>
+		<segment id="107" parent="219" relname="joint">и составляют 2 с в каждом из узлов.</segment>
+		<segment id="108" parent="226" relname="joint">На времена доставки сообщений типа к из узла-отправителя к к узлу-адресату / накладываются ограничения Кк(к,/) = 50 с для всех к = 1,2; к,/ = 1,4, причем к ф /.</segment>
+		<segment id="109" parent="226" relname="joint">Среднее время старения сообщения типа к равно 10 с (к = 1,2).</segment>
+		<segment id="110" parent="221" relname="span">На основе выбранного алгоритма маршрутизации заданы вероятности пк (г,} | к, /),</segment>
+		<segment id="111" parent="258" relname="span">представленные в табл. 1,</segment>
+		<segment id="112" parent="258" relname="condition">причем [формула].</segment>
+		<segment id="113" parent="223" relname="span">Для данной сети с использованием формул (5)-(8) определены вероятности своевременной доставки сообщений</segment>
+		<segment id="114" parent="222" relname="span">Р(Vk(h,l) [символ]k(h,l)) (h,l = 1,4; k = 1,2),</segment>
+		<segment id="115" parent="259" relname="span">сведенные в табл. 2,</segment>
+		<segment id="116" parent="224" relname="span">а также вероятности своевременной доставки пакетов с учетом функции старения пакетов,</segment>
+		<segment id="117" parent="260" relname="span">сведенные в табл. 3.</segment>
+		<segment id="118" parent="241" relname="preparation">Заключение</segment>
+		<segment id="119" parent="236" relname="joint">Методика расчета характеристик сетей современных корпоративных информационных систем, основанная на декомпозиции, может быть использована также в случае приоритетного управления сообщениями разных классов в узлах.</segment>
+		<segment id="120" parent="121" relname="condition">При использовании управления сообщениями на основе смешанных приоритетов</segment>
+		<segment id="121" parent="274" relname="span">время пребывания сообщений в узлах определяется по формулам, приведенным в [5].</segment>
+		<segment id="122" parent="232" relname="span">Конечные результаты, полученные при таком подходе, являются приближенными,</segment>
+		<segment id="123" parent="122" relname="cause">поскольку в случае приоритетного управления потоки сообщений разных классов на выходе узлов,</segment>
+		<segment id="124" parent="233" relname="span">а следовательно, и на входе, отличаются от простейших.</segment>
+		<segment id="125" parent="126" relname="evidence">Однако как показало исследование характера потоков и их влияния на результаты расчета,</segment>
+		<segment id="126" parent="234" relname="span">в широкой области значений параметров, соответствующих реальным системам, погрешности результатов находятся в приемлемых для инженерных расчетов пределах.</segment>
+		<segment id="127" parent="282" relname="span">Полученные результаты могут использоваться</segment>
+		<segment id="128" parent="127" relname="purpose">для решения задачи оптимизации сетей современных корпоративных информационных систем,</segment>
+		<segment id="129" parent="251" relname="span">заключающейся в определении алгоритма маршрутизации (вероятностей передач пк (г,} | к,I)) и назначении приоритетов сообщениям разных классов,</segment>
+		<segment id="130" parent="129" relname="purpose">обеспечивающих заданное время доставки сообщений.</segment>
+		<segment id="131" parent="240" relname="joint">Описанная методика расчета характеристик функционирования корпоративных информационных систем реализована в виде комплекса программ.</segment>
+		<segment id="132" parent="111" relname="elaboration">[Таблица 1. Вероятности пк(г, ] | к,I): пк(г,] | к,I) = 1 для (г, j | к,I) = (1,2 11,2); (1,3 11,3); (3,4 11,4); (2,3 | 2,3); (3,11 2,1); (3,4 | 2,4); (2,11 3,1); (2,4 | 3,4); (3,2 | 3,2); (2,11 4,1); (3,4 | 2,4); (3,1| 4,1); (4,2 | 4,2); (4,3 | 4,3) и h = 1,2]</segment>
+		<segment id="133" parent="115" relname="elaboration">[Таблица 2. Вероятности своевременной доставки сообщений Р(к(к, 1) &lt; Ук(к, 1)) (к, 1 = 1,4; к = 1,2)]</segment>
+		<segment id="134" parent="117" relname="elaboration">[Таблица 3. Вероятности своевременной доставки сообщений Р(к(к,I) &lt; Ук(к,I)) (к,I = 1,4; к = 1,2) с учетом функции старения сообщений]</segment>
+		<segment id="135" parent="136" relname="preparation">Литература</segment>
+		<segment id="136" relname="antithesis">1\. Олифер В.Г., Олифер Н.А. Компьютерные сети. Принципы, технологии, протоколы. 4-е изд. СПб.: Питер, 2010. 944 с. 2\. Fowler M. Analysis Patterns: Reusable Object Models. Addison-Wesley Professional, 1996, 384 p. 3\. Aliev T.I., Nikulsky I.Y., Pyattaev V.O. Modeling of packet switching network with relative prioritization for different traffic types // Proc. 10th International Conference on Advanced Communication Technology, ICACT-2008. Phoenix Park, South Korea, 2008. Art. 4494220. P. 2174-2176. doi: 10.1109/ICACT.2008.4494220 4\. Dempsy B., Rinard M. Role-based exploration of object-oriented programs // Proc. 24rd International Conference on Software Engineering, ICSE 2002. Orlando, USA, 2002. P. 313-324. 5\. Алиев Т.И., Муравьева-Витковская Л.А. Приоритетные стратегии управления трафиком в мультисер-висных компьютерных сетях // Изв. вузов. Приборостроение. 2011. Т. 54. № 6. С. 44-48. 6\. ITU-T Recommendation Y.1541:2006. Network performance objectives for IP- based services. 7\. Алиев Т.И. Характеристики дисциплин обслуживания заявок с несколькими классами приоритетов // Известия Академии наук СССР. Техническая кибернетика. 1987. №6. С. 188-191. 8\. Алиев Т.И., Муравьева Л.А. Система с динамически изменяющимися смешанными приоритетами и ненадежным прибором // Автоматика и телемеханика. 1988. T. 49. № 7. С. 99-106. 9\. Алиев Т.И. Задача синтеза систем с потерями // Изв. вузов. Приборостроение. 2012. Т. 55. № 10. С. 57-63. 10\. Богатырев В.А., Богатырев С.В., Богатырев А.В. Оптимизация древовидной сети с резервированием коммуникационных узлов и связей // Телекоммуникации. 2013. № 2. С. 42-48. 11\. Bogatyrev V.A. An interval signal method of dynamic interrupt handling with load balancing // Automatic Control and Computer Sciences. 2000. V. 34. N 6. P. 51-57. 12\. Bogatyrev V.A. Probability estimate of total connectedness of local networks with partial accessibility of redundant trunks // Engineering Simulation. 2000. V. 17. N 5. P. 739-752. 13\. Bogatyrev V.A. Protocols for dynamic distribution of requests through a bus with variable logic ring for reception authority transfer // Automatic Control and Computer Sciences. 1999. V. 33. N 1. P. 57-63. 14\. Bogatyrev V.A. Increasing the fault tolerance of a multi-trunk channel by means of inter-trunk packet forwarding // Automatic Control and Computer Sciences. 1999. V. 33. N 2. P. 70-76. 15\. Bogatyrev V.A. On interconnection control in redundancy of local network buses with limited availability // Engineering Simulation. 1999. V. 16. N 4. P. 463-469. 16\. Алиев Т.И. Основы моделирования дискретных систем. СПб.: СПбГУ ИТМО, 2009. 363 с. 17\. Алиев Т.И. Аппроксимация вероятностных распределений в моделях массового обслуживания // Научно-технический вестник информационных технологий, механики и оптики. 2013. № 2 (84). С. 88-93 Калинин Игорь Владимирович Махаревс Эдуардс Муравьева-Витковская Людмила Александровна Igor V. Kalinin Eduards Maharevs LudmilaA Murav'yeva-Vitkovskaya аспирант, Университет ИТМО, Санкт-Петербург, 197101, Российская Федерация, igor.cribl@gmail.com доктор технических наук, хабилитированный доктор инженерных наук, профессор, профессор, Балтийская международная академия, Рига, LV-1019, Латвия, eduard@rostourism.lv кандидат технических наук, доцент, Университет ИТМО, Санкт-Петербург, 197101, Российская Федерация, muravyeva-vitkovskaya@cs.ifmo.ru postgraduate, ITMO University, Saint Petersburg, 197101, Russian Federation, igor.cribl@gmail.com D.Sc., Dr. Habil., Professor, Professor, Baltic International Academy, Riga, LV-1019, Latvia, eduard@rostourism.lv PhD, Associate professor, ITMO University, Saint Petersburg, 197101, Russian Federation, muravyeva-vitkovskaya@cs.ifmo.ru </segment>
+		<group id="141" type="span" parent="262" relname="same-unit"/>
+		<group id="144" type="span" parent="262" relname="same-unit"/>
+		<group id="147" type="multinuc" parent="159" relname="joint"/>
+		<group id="148" type="span" parent="26" relname="evidence"/>
+		<group id="149" type="span" parent="275" relname="span"/>
+		<group id="150" type="span" parent="271" relname="cause"/>
+		<group id="154" type="span" parent="155" relname="same-unit"/>
+		<group id="155" type="multinuc" parent="277" relname="joint"/>
+		<group id="157" type="span" parent="158" relname="joint"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="160" type="span" parent="161" relname="span"/>
+		<group id="161" type="span" relname="antithesis"/>
+		<group id="162" type="span" parent="165" relname="joint"/>
+		<group id="163" type="span" parent="49" relname="elaboration"/>
+		<group id="164" type="span" parent="165" relname="joint"/>
+		<group id="165" type="multinuc" parent="166" relname="condition"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" parent="171" relname="span"/>
+		<group id="168" type="multinuc" parent="248" relname="span"/>
+		<group id="171" type="span" parent="173" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="175" type="span" relname="antithesis"/>
+		<group id="176" type="span" parent="64" relname="elaboration"/>
+		<group id="177" type="span" parent="63" relname="elaboration"/>
+		<group id="178" type="span" parent="180" relname="cause"/>
+		<group id="179" type="span" parent="67" relname="elaboration"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="183" relname="evidence"/>
+		<group id="182" type="span" parent="189" relname="joint"/>
+		<group id="183" type="span" parent="190" relname="span"/>
+		<group id="184" type="span" parent="189" relname="joint"/>
+		<group id="185" type="span" parent="186" relname="joint"/>
+		<group id="186" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="191" relname="joint"/>
+		<group id="189" type="multinuc" parent="183" relname="span"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" relname="antithesis"/>
+		<group id="194" type="span" parent="212" relname="preparation"/>
+		<group id="195" type="span" parent="80" relname="condition"/>
+		<group id="196" type="span" parent="81" relname="condition"/>
+		<group id="197" type="span" parent="206" relname="joint"/>
+		<group id="198" type="span" parent="84" relname="elaboration"/>
+		<group id="199" type="span" parent="206" relname="joint"/>
+		<group id="200" type="span" parent="87" relname="elaboration"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="90" relname="elaboration"/>
+		<group id="204" type="span" parent="202" relname="elaboration"/>
+		<group id="205" type="span" parent="206" relname="joint"/>
+		<group id="206" type="multinuc" parent="212" relname="span"/>
+		<group id="207" type="span" parent="208" relname="condition"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="211" relname="joint"/>
+		<group id="210" type="span" parent="211" relname="joint"/>
+		<group id="211" type="multinuc" parent="214" relname="joint"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" parent="214" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" relname="antithesis"/>
+		<group id="217" type="span" parent="218" relname="preparation"/>
+		<group id="218" type="span" parent="229" relname="span"/>
+		<group id="219" type="multinuc" parent="227" relname="joint"/>
+		<group id="220" type="span" parent="110" relname="elaboration"/>
+		<group id="221" type="span" parent="228" relname="joint"/>
+		<group id="222" type="span" parent="113" relname="elaboration"/>
+		<group id="223" type="span" parent="225" relname="same-unit"/>
+		<group id="224" type="span" parent="225" relname="same-unit"/>
+		<group id="225" type="multinuc" parent="228" relname="joint"/>
+		<group id="226" type="multinuc" parent="227" relname="joint"/>
+		<group id="227" type="multinuc" parent="228" relname="joint"/>
+		<group id="228" type="multinuc" parent="230" relname="span"/>
+		<group id="229" type="span" parent="228" relname="joint"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" relname="antithesis"/>
+		<group id="232" type="span" parent="124" relname="evidence"/>
+		<group id="233" type="span" parent="235" relname="contrast"/>
+		<group id="234" type="span" parent="235" relname="contrast"/>
+		<group id="235" type="multinuc" parent="236" relname="joint"/>
+		<group id="236" type="multinuc" parent="240" relname="joint"/>
+		<group id="238" type="span" parent="240" relname="joint"/>
+		<group id="240" type="multinuc" parent="241" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" relname="antithesis"/>
+		<group id="244" type="span" parent="1" relname="attribution"/>
+		<group id="245" type="span" parent="161" relname="preparation"/>
+		<group id="247" type="span" parent="253" relname="preparation"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="173" relname="joint"/>
+		<group id="250" type="span" parent="58" relname="elaboration"/>
+		<group id="251" type="span" parent="282" relname="purpose"/>
+		<group id="252" type="multinuc" parent="253" relname="span"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="contrast"/>
+		<group id="255" type="multinuc" parent="159" relname="joint"/>
+		<group id="257" type="span" parent="248" relname="purpose"/>
+		<group id="258" type="span" parent="220" relname="span"/>
+		<group id="259" type="span" parent="114" relname="elaboration"/>
+		<group id="260" type="span" parent="116" relname="elaboration"/>
+		<group id="261" type="span" parent="159" relname="joint"/>
+		<group id="262" type="multinuc" parent="8" relname="condition"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="12" relname="elaboration"/>
+		<group id="265" type="multinuc" parent="263" relname="purpose"/>
+		<group id="268" type="span" parent="18" relname="cause"/>
+		<group id="269" type="span" parent="147" relname="joint"/>
+		<group id="270" type="multinuc" parent="280" relname="cause"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="149" relname="elaboration"/>
+		<group id="273" type="span" parent="158" relname="joint"/>
+		<group id="274" type="span" parent="236" relname="joint"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" parent="159" relname="joint"/>
+		<group id="277" type="multinuc" parent="255" relname="contrast"/>
+		<group id="278" type="multinuc" parent="280" relname="span"/>
+		<group id="279" type="span" parent="278" relname="same-unit"/>
+		<group id="280" type="span" parent="148" relname="span"/>
+		<group id="281" type="span" parent="59" relname="purpose"/>
+		<group id="282" type="span" parent="238" relname="span"/>
+  </body>
+</rst>

@@ -1,0 +1,111 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Искусство: Премия Avanmart parni — 2013</segment>
+		<segment id="2" parent="46" relname="preparation">##### Несомненной ценностью нашего весьма не простого бытия является свобода слова.</segment>
+		<segment id="3" parent="46" relname="span">Конечно, кто-то может возразить, какая там свобода…тут не так и там не сяк.</segment>
+		<segment id="4" parent="45" relname="span">Мохобыть, мохобыть, всё таки, с наших экранов и наушников иногда такое льётся…</segment>
+		<segment id="5" parent="6" relname="cause">Правильно, не нравится,</segment>
+		<segment id="6" parent="44" relname="span">не слушай.</segment>
+		<segment id="7" parent="49" relname="span">##### Но этих самых клоунов, пародистов-юмористов столько развелось,</segment>
+		<segment id="8" parent="48" relname="contrast">что не хочешь,</segment>
+		<segment id="9" parent="48" relname="contrast">а нарвёшься.</segment>
+		<segment id="10" parent="50" relname="joint">Вот и я что называется,</segment>
+		<segment id="11" parent="50" relname="joint">нарвался на « Аншлаг» в старый новый год …</segment>
+		<segment id="12" parent="52" relname="span">Юморист Геннадий Ветров изображает преподавателя музыки, принимающего экзамен.</segment>
+		<segment id="13" parent="51" relname="span">Хохмить, конечно, можно над всем.</segment>
+		<segment id="14" parent="13" relname="elaboration">На веселья жизнь наша богата.</segment>
+		<segment id="15" parent="54" relname="span">Объектом заколачивания гонорара на этот раз для господина Ветрова стали учителя труда.</segment>
+		<segment id="16" parent="53" relname="span">Не беда, что в школах такого предмета давно уже нет (а есть предмет технология).</segment>
+		<segment id="17" parent="16" relname="evaluation">Все понимают, о чём и о ком идет речь.</segment>
+		<segment id="18" parent="56" relname="span">##### Какая уж тут тайна,</segment>
+		<segment id="19" parent="18" relname="elaboration">не хватает в школах трудовиков-технологов. Особенно для мальчиков.</segment>
+		<segment id="20" parent="57" relname="joint">Современный учитель технологии должен уметь столярничать</segment>
+		<segment id="21" parent="57" relname="joint">и слесарничать,</segment>
+		<segment id="22" parent="57" relname="joint">разбираться в электричестве и сантехнике, в домашнем ремонте и в компьютерных технологиях и т.д. и т.п…,</segment>
+		<segment id="23" parent="24" relname="condition">а если прибавить сюда проблемы со снабжением школ всем необходимым для этих уроков начиная от молотка до станка</segment>
+		<segment id="24" parent="58" relname="span">и становится понятно, почему вымывается из школы эта категория учителей.</segment>
+		<segment id="25" parent="60" relname="span">Вовсе уже не диковина,</segment>
+		<segment id="26" parent="25" relname="elaboration">когда уроки технологии для мальчиков в школах ведут бабушки-пенсионерки.</segment>
+		<segment id="27" parent="61" relname="joint">Вслед за учителями из школы постепенно исчезает и сам предмет,</segment>
+		<segment id="28" parent="61" relname="joint">с каждым годом часов труда (технологии) в расписании становится всё меньше,</segment>
+		<segment id="29" parent="62" relname="comparison">скоро возможно совсем исчезнет,</segment>
+		<segment id="30" parent="62" relname="comparison">как исчез предмет «Черчение».</segment>
+		<segment id="31" parent="81" relname="evaluation">Понятно, что</segment>
+		<segment id="32" parent="67" relname="comparison">наших заслуженных артистов такие проблемы вовсе не интересуют,</segment>
+		<segment id="33" parent="67" relname="comparison">куда ценнее суммы гонораров.</segment>
+		<segment id="34" parent="68" relname="joint">Юмор, конечно дело тонкое,</segment>
+		<segment id="35" parent="68" relname="joint">да и шутить можно над чем угодно.</segment>
+		<segment id="36" parent="69" relname="span">Все-таки, невольно вспоминается мэтр этого жанра- Аркадий Райкин,</segment>
+		<segment id="37" parent="36" relname="elaboration">который даже про директора магазина и заднее крыльцо умел шутить не оскорбляя человеческого достоинства.</segment>
+		<segment id="38" parent="70" relname="joint">Эй, богу, не хочется долго говорить об уровне цинизма новоявленных «юмористов»,</segment>
+		<segment id="39" parent="70" relname="joint">а просто подарить господину Геннадию Ветрову, заслуженному артисту России антипремию Аванмарта за 2013 - жопу с ушами. Это вам от всех трудовиков, бывших и настоящих (а будущих, благодаря таким перлам скоро может и не стать вовсе).</segment>
+		<segment id="40" parent="71" relname="joint">Можете разделить её вместе с хозяйкой вашего шабаша под названием «Аншлаг» — Региной Дубовицкой, народной артисткой РФ ! Со старым новым годом!</segment>
+		<segment id="41" parent="42" relname="cause">##### Аван-премию за 2013 год хотелось бы вручить любимому писателю, поэту, публицисту и мыслителю современности, истинному мастеру доброго юмора — Фазилю Искандеру.</segment>
+		<segment id="42" parent="79" relname="span">По этому поводу начать строгать новую скульптуру из ольхового полена, когда-то привезённое из Абхазии, с озера Рица.</segment>
+		<segment id="43" parent="80" relname="joint">Свою работу посвящаю Вам, уважаемый Фазиль Абдулович, и за сказку «Кролики и удавы», и за статью «Государство и совесть» и за Поэму света и балладу о свободе… Низкий Вам поклон, маэстро!</segment>
+		<group id="44" type="span" parent="4" relname="evaluation"/>
+		<group id="45" type="span" parent="3" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" />
+		<group id="48" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="49" type="span" parent="65" relname="span"/>
+		<group id="50" type="multinuc" parent="49" relname="evidence"/>
+		<group id="51" type="span" parent="12" relname="elaboration"/>
+		<group id="52" type="span" parent="55" relname="span"/>
+		<group id="53" type="span" parent="15" relname="evaluation"/>
+		<group id="54" type="span" parent="52" relname="evidence"/>
+		<group id="55" type="span" parent="66" relname="span"/>
+		<group id="56" type="span" parent="72" relname="span"/>
+		<group id="57" type="multinuc" parent="59" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="60" type="span" parent="73" relname="joint"/>
+		<group id="61" type="multinuc" parent="63" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="evaluation"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="64" type="span" parent="73" relname="joint"/>
+		<group id="65" type="span" parent="55" relname="preparation"/>
+		<group id="66" type="span" />
+		<group id="67" type="multinuc" parent="81" relname="span"/>
+		<group id="68" type="multinuc" parent="74" relname="joint"/>
+		<group id="69" type="span" parent="75" relname="evidence"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="71" type="multinuc" parent="76" relname="evaluation"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="73" type="multinuc" parent="78" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="78" type="multinuc" />
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="80" type="multinuc" />
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="74" relname="joint"/>
+	</body>
+</rst>

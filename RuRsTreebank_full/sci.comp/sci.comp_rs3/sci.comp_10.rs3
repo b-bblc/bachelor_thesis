@@ -1,0 +1,268 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="133" relname="span">МЕТОДЫ ПОСТРОЕНИЯ АДАПТИВНОЙ РАСПРЕДЕЛЕННОЙ ОПТИКО-ЭЛЕКТРОННОЙ СИСТЕМЫ НЕРАЗРУШАЮЩЕГО КОНТРОЛЯ ДЕФОРМАЦИИ КРУПНОГАБАРИТНЫХ СООРУЖЕНИЙ</segment>
+		<segment id="2" parent="1" relname="attribution">А.Г. Анисимов, В.В. Коротаев, А.В. Краснящих</segment>
+		<segment id="3" relname="antithesis">Рассматриваются принципы и схемы построения адаптивных распределенных оптико- электронных систем (РОЭС). Сформулированы основные требования, предъявляемые к блокам, входящим в состав РОЭС, выделены основные функции, выполняемые блоками системы. Приведен принцип действия и устройство одного из измерительных каналов системы.</segment>
+		<segment id="4" parent="261" relname="preparation">Введение</segment>
+		<segment id="5" parent="134" relname="joint">Обеспечение безаварийной эксплуатации зданий, безотказной работы крупногабаритных конструкций и инженерных сооружений, а также экологически опасных объектов является одной из важнейших проблем нашего времени.</segment>
+		<segment id="6" parent="134" relname="joint">Непрерывный мониторинг их состояния с помощью распределенных оптико- электронных систем позволит обеспечить не только постоянное наблюдение за деформационной картиной указанных объектов, но и выработку необходимых решений при различных состояниях технической и физической среды.</segment>
+		<segment id="7" parent="134" relname="joint">Данная задача может быть реализована с помощью оптико-электронных систем контроля деформаций (ОЭСКД), в том числе и с применением телевизионных датчиков на основе фоточувствительных приборов с зарядовой связью (ФПЗС)[1].</segment>
+		<segment id="8" parent="135" relname="span">Для обеспечения непрерывного наблюдения за объектом необходимо,</segment>
+		<segment id="9" parent="8" relname="condition">чтобы контролирующая система имела возможность адаптироваться к изменяющимся внешним воздействиям.</segment>
+		<segment id="10" parent="11" relname="evidence">Для решения задач адаптации и выбора режимов работы системы предлагается использовать нейроподобные структуры, которые обладают возможностью обучения, выработки решения в нетипичных ситуациях.</segment>
+		<segment id="11" parent="259" relname="span">Такие свойства нейронных сетей, на данном этапе позволяют сделать вывод о возможности их применения к созданию адаптивных ОЭСКД.</segment>
+		<segment id="12" parent="140" relname="joint">Решение задачи автоматизированного контроля положения отдельных элементов контролируемых объектов представляется возможным на основе системы контрольных элементов, жестко связанных с исследуемым объектом.</segment>
+		<segment id="13" parent="140" relname="joint">Деформация объекта вызывает их смещение</segment>
+		<segment id="14" parent="141" relname="joint">Картина, создаваемая точечными объектами, регистрируется оптико-электронными датчиками с матричным ФПЗС</segment>
+		<segment id="15" parent="141" relname="joint">и анализируется с привлечением числовой обработки на ЭВМ.</segment>
+		<segment id="16" parent="252" relname="span">При этом предварительная обработка измерительной информации осуществляется в непосредственной близости от приемника оптического излучения,</segment>
+		<segment id="17" parent="237" relname="joint">что позволяет увеличить помехозащищенность системы в целом</segment>
+		<segment id="18" parent="237" relname="joint">и исключить избыточность информации.</segment>
+		<segment id="19" parent="146" relname="joint">Для обеспечения автоматизированного пространственного контроля деформации крупногабаритных инженерных сооружений предлагается реализовать распределенную оптико-электронную систему (РОЭС).</segment>
+		<segment id="20" parent="253" relname="span">РОЭС обеспечит многоточечный непрерывный контроль,</segment>
+		<segment id="21" parent="20" relname="purpose">что позволит получать более полную информацию о состоянии объекта.</segment>
+		<segment id="22" parent="263" relname="preparation">Принцип построения РОЭС</segment>
+		<segment id="23" parent="150" relname="span">Под РОЭС предложено понимать совокупность функционально объединенных оптико- электронных преобразователей (ОЭП),</segment>
+		<segment id="24" parent="23" relname="elaboration">определенным образом распределенных в пространстве, во времени, по спектральному диапазону используемого излучения, воспринимающих часть информации, содержащейся в оптическом сигнале об измеряемом объекте, преобразующих ее в электрический сигнал, передаваемый по каналу передачи данных (КПД) на центральный управляющий прибор (ЦУП).</segment>
+		<segment id="25" parent="155" relname="joint">Информация о распределении ОЭП и о взаимосвязи между ними известна до начала измерения.</segment>
+		<segment id="26" parent="151" relname="same-unit">ЦУП,</segment>
+		<segment id="27" parent="28" relname="cause">используя информацию о распределении ОЭП,</segment>
+		<segment id="28" parent="152" relname="span">восстанавливает общую информационную картину из частей, полученных от ОЭП,</segment>
+		<segment id="29" parent="153" relname="joint">а также осуществляет управление процессом собора, хранения и отображения измерительной информации.</segment>
+		<segment id="30" parent="254" relname="span">РОЭС необходимо строить по блочно-модульному принципу,</segment>
+		<segment id="31" parent="156" relname="joint">что позволит создать универсальную систему, способную решать различные измерительные задачи путем изменения набора блоков,</segment>
+		<segment id="32" parent="156" relname="joint">а также обеспечит экономию времени при ее разработке и обслуживании.</segment>
+		<segment id="33" parent="159" relname="joint">В дальнейшем ОЭП, входящий в РОЭС, в связке с источником оптического излучения будем называть измерительным каналом (ИК).</segment>
+		<segment id="34" parent="159" relname="joint">Помимо этого, в состав ИК должны входить блоки интерфейса (БИ), обеспечивающие двухстороннюю связь ИК с КПД.</segment>
+		<segment id="35" parent="160" relname="joint">ЦУП, помимо блоков, обеспечивающих сбор, отображение и хранение измерительной информации, должен обладать и БИ для подключения к КПД.</segment>
+		<segment id="36" parent="160" relname="joint">Дополнительные источники информации (ДИИ) могут подключаться напрямую к ЦУП или (и) через БИ к КПД.</segment>
+		<segment id="37" parent="160" relname="joint">Количество и принцип действия ДИИ определяется из задач, поставленных перед РОЭС.</segment>
+		<segment id="38" parent="161" relname="span">Данная схема реализации РОЭС представлена на рис.1.</segment>
+		<segment id="39" parent="38" relname="elaboration">[Рис. 1. Схема РОЭС]</segment>
+		<segment id="40" parent="165" relname="purpose">В качестве ЦУП удобно использовать персональные электронно-вычислительные машины (ПЭВМ),</segment>
+		<segment id="41" parent="164" relname="joint">что обеспечит гибкость настройки параметров системы</segment>
+		<segment id="42" parent="164" relname="joint">и позволит конфигурировать систему для решения различных измерительных задач.</segment>
+		<segment id="43" parent="166" relname="elaboration">На ПЭВМ в общем случае возлагается выбор режима работы ИК, сбор измерительной информации, восстановление общей измерительной картины, хранение полученных данных и др.</segment>
+		<segment id="44" parent="45" relname="cause">Накопление и обработка измерительной информации производятся по управляющим командам, поступающим с ЦУП.</segment>
+		<segment id="45" parent="168" relname="span">В связи с этим каждый ИК должен получить команду на накопление, обработку измерительной информации, а также пересылку результатов измерений.</segment>
+		<segment id="46" parent="47" relname="cause">В связи с тем, что задачи, решаемые РОЭС, чрезвычайно разнообразны,</segment>
+		<segment id="47" parent="240" relname="span">трудно составить универсальную схему ИК.</segment>
+		<segment id="48" parent="170" relname="span">Однако должны быть предусмотрены узлы,</segment>
+		<segment id="49" parent="48" relname="elaboration">обеспечивающие необходимый набор операций обработки информационного сигнала,</segment>
+		<segment id="50" parent="171" relname="span">а также узлы,</segment>
+		<segment id="51" parent="172" relname="restatement">позволяющие при переходе от одного режима работы к другому изменять структуру РОЭС,</segment>
+		<segment id="52" parent="172" relname="restatement">т. е. изменять набор операций и их последовательность.</segment>
+		<segment id="53" parent="242" relname="contrast">В качестве приемников оптического излучения в ИК можно использовать различные приборы,</segment>
+		<segment id="54" parent="243" relname="span">однако применение телевизионных датчиков (ТВД) на базе ФПЗС предпочтительнее,</segment>
+		<segment id="55" parent="54" relname="cause">так как для ФПЗС характерна жесткая геометрическая привязка фоточувствительных элементов растра к приборной системе координат,</segment>
+		<segment id="56" parent="243" relname="purpose">что облегчает задачу построения измерительной аппаратуры с высокой стабильностью метрологических характеристик.</segment>
+		<segment id="57" parent="58" relname="concession">Несмотря на дискретный характер ФПЗС,</segment>
+		<segment id="58" parent="178" relname="span">в плоскости анализа изображения возможна регистрация координат объекта с точностью до сотых долей элемента ФПЗС [2, 3].</segment>
+		<segment id="59" parent="269" relname="span">Во всех современных ТИС,</segment>
+		<segment id="60" parent="268" relname="joint">независимо от их типа</segment>
+		<segment id="61" parent="268" relname="joint">и назначения,</segment>
+		<segment id="62" parent="270" relname="same-unit">на начальном этапе предполагается преобразование аналоговых входных информационных оптических сигналов в совокупность дискретных электрических сигналов, пригодных для осуществления дальнейшей цифровой обработки изображений с применением средств вычислительной техники [4].</segment>
+		<segment id="63" parent="260" relname="span">Таким образом, в структурной схеме ТИС должны быть предусмотрены узлы, обеспечивающие необходимый набор операций обработки видеосигнала при каждом режиме работы системы.</segment>
+		<segment id="64" parent="65" relname="purpose">Для объединения ИК в измерительную сеть</segment>
+		<segment id="65" parent="271" relname="span">необходим набор протоколов, обеспечивающих связь различных сегментов РОЭС с ЦУП посредством канала передачи данных.</segment>
+		<segment id="66" parent="272" relname="span">Под протоколом будем понимать алгоритм взаимодействия устройств и подсистем обработки информации.</segment>
+		<segment id="67" parent="66" relname="elaboration">При этом протокол определяет форму сообщений или пакетов сообщений, виды сигналов об ошибках и отказах, способы обмена.</segment>
+		<segment id="68" parent="273" relname="span">Под интерфейсом в данном случае следует понимать физическую совокупность аппаратных и программных средств, обеспечивающих совместимость взаимодействующих объектов.</segment>
+		<segment id="69" parent="68" relname="elaboration">При этом интерфейс определяет протокол передачи данных, а также параметры канала связи.</segment>
+		<segment id="70" parent="277" relname="preparation">Канал связи представляет собой совокупность устройств для передачи сигналов.</segment>
+		<segment id="71" parent="185" relname="joint">При передаче сигналы всегда затухают вследствие поглощения и рассеяния энергии в среде,</segment>
+		<segment id="72" parent="185" relname="joint">а также искажаются.</segment>
+		<segment id="73" parent="188" relname="span">Кроме того, к сигналам примешиваются помехи различной природы.</segment>
+		<segment id="74" parent="187" relname="joint">Затухание может быть компенсировано усилением сигналов в приемо-передающей аппаратуре или в ретрансляторах.</segment>
+		<segment id="75" parent="279" relname="span">Значительно труднее ослабить помехи и искажения.</segment>
+		<segment id="76" parent="75" relname="elaboration">Удается добиться лишь частичной их компенсации, применяя сложные методы и технические средства.</segment>
+		<segment id="77" parent="234" relname="span">Описать построение канала связи при данной реализации РОЭС довольно сложно,</segment>
+		<segment id="78" parent="77" relname="cause">так как его формирование обусловливается условиями работы системы в целом.</segment>
+		<segment id="79" parent="190" relname="joint">Стоит отметить, что канал передачи данных системы может представлять собой набор фрагментов с различными линиями передачи данных,</segment>
+		<segment id="80" parent="190" relname="joint">а также включать в себя уже существующие системы передачи данных, например, локальные сети, сеть Internet, систему спутниковой связи.</segment>
+		<segment id="81" parent="82" relname="cause">Бурное развитие элементной базы и современных ПЭВМ</segment>
+		<segment id="82" parent="281" relname="span">в целом позволяет довольно легко реализовать РОЭС по программному принципу,</segment>
+		<segment id="83" parent="282" relname="joint">исключив при этом проблемы, связанные с проектированием аппаратной части.</segment>
+		<segment id="84" parent="195" relname="sequence">ПЭВМ под управлением специального программного обеспечения производит обработку полученного сигнала со всех ИК, извлекая из него измерительную информацию.</segment>
+		<segment id="85" parent="194" relname="same-unit">Далее ЦУП,</segment>
+		<segment id="86" parent="87" relname="condition">используя заранее известные данные о распределении измерительных каналов системы,</segment>
+		<segment id="87" parent="193" relname="span">производит восстановление полной информационной картины состояния объекта измерений, обработку информации, запись в базу данных, выдачу управляющих команд, результатов.</segment>
+		<segment id="88" parent="283" relname="contrast">К достоинствам РОЭС, построенной на базе ПЭВМ, следует отнести: промышленное производство аппаратных средств; возможность реализации различных алгоритмов обработки измерительной информации и гибкой их модернизации без изменения аппаратной части; возможность построения как автоматической, так и автоматизированной системы; возможность удаленного управления системой.</segment>
+		<segment id="89" parent="284" relname="span">К недостаткам рассматриваемого принципа построения РОЭС следует отнести большое энергопотребление, большие габаритные характеристики и дороговизну системы в целом.</segment>
+		<segment id="90" parent="196" relname="span">Скомпенсировать недостатки РОЭС, построенной на базе ПЭВМ, можно,</segment>
+		<segment id="91" parent="90" relname="condition">заменив ПЭВМ однокристальной электронно-вычислительной машиной (ОЭВМ),</segment>
+		<segment id="92" parent="197" relname="span">что позволит существенно снизить энергопотребление системы в целом, габариты устройств, входящих в состав системы, и уменьшить ее себестоимость.</segment>
+		<segment id="93" parent="94" relname="cause">Однако стоит учесть, что аппаратные возможности ОЭВМ гораздо уже, чем у ПЭВМ,</segment>
+		<segment id="94" parent="248" relname="span">что может привести к снижению быстродействия измерительных каналов системы и всей системы в целом.</segment>
+		<segment id="95" parent="200" relname="span">В качестве ЦУП может выступать особый блок, разработанный на базе ОЭВМ,</segment>
+		<segment id="96" parent="95" relname="evaluation">однако использование для этих целей ПЭВМ, очевидно, предпочтительнее.</segment>
+		<segment id="97" parent="235" relname="span">Стоит особо отметить то, что систему, построенную на базе ОЭВМ, на аппаратном уровне сложнее модернизировать,</segment>
+		<segment id="98" parent="97" relname="cause">так как весь комплекс аппаратных средств блока обработки измерительной информации при его реализации будет жестко связан с возможностями ОЭВМ.</segment>
+		<segment id="99" parent="215" relname="preparation">Исследование свойств ИК РОЭС</segment>
+		<segment id="100" parent="285" relname="span">ОСКД предназначена</segment>
+		<segment id="101" parent="100" relname="purpose">для измерения величины линейных смещений контролируемого объекта в вертикальной и горизонтальной плоскостях.</segment>
+		<segment id="102" parent="285" relname="elaboration">Авторефлексионная схема оптической части ИК приведена на рис. 2.</segment>
+		<segment id="103" parent="213" relname="joint">На ФПЗС 1, находящийся в приемном блоке 2, через объектив 3 и съемный светофильтр излучающей головки 5 проектируются изображения двух полупроводниковых излучающих диодов 4, закрепленных в ИГ.</segment>
+		<segment id="104" parent="213" relname="joint">В качестве КЭ используется трипельпризма 6 [4].</segment>
+		<segment id="105" parent="214" relname="elaboration">[Рис. 2. Схема автоколлимационной экспериментальной установки]</segment>
+		<segment id="106" parent="222" relname="joint">ОЭСКД включает в себя телевизионный датчик (ТВД) (рис. 3), контрольный элемент (КЭ), блок управления источниками излучения (БУИИ), блок предварительной обработки информации (БПИО), источник излучения (ИИ), персональный компьютер (ПЭВМ).</segment>
+		<segment id="107" parent="287" relname="span">БУИИ используется</segment>
+		<segment id="108" parent="107" relname="purpose">для управления источником излучения (ИИ).</segment>
+		<segment id="109" parent="287" relname="elaboration">В состав БУИИ входят микроконтроллер (МК2), модуль интерфейса (МИ2) и схема реализации широт-но-импульсной модуляции (ШИМ).</segment>
+		<segment id="110" parent="288" relname="span">БПОИ предназначен</segment>
+		<segment id="111" parent="110" relname="purpose">для формирования видеокадра и получения промежуточных измерительных данных.</segment>
+		<segment id="112" parent="219" relname="same-unit">В состав БПОИ входят аналого-цифровой преобразователь (АЦП), преобразующий аналоговый сигнал с ТВД в цифровой для последующей обработки, оперативное запоминающее устройство (ОЗУ), предназначенное для хранения видеоданных,</segment>
+		<segment id="113" parent="218" relname="span">блок управления памятью (БУП)</segment>
+		<segment id="114" parent="217" relname="span">(введен в схему,</segment>
+		<segment id="115" parent="114" relname="cause">так как используемый управляющий микроконтроллер (МК1) не имеет возможности обращения к внешней памяти),</segment>
+		<segment id="116" parent="219" relname="same-unit">модуль интерфейса (МИ1).</segment>
+		<segment id="117" parent="221" relname="joint">В рассматриваемой системе ОЭИП осуществляет предварительную обработку изображения, сформированного оптическим излучением, отраженным от КЭ, и передачу измерительной информации по последовательному каналу передачи в ПЭВМ.</segment>
+		<segment id="118" parent="221" relname="joint">КЭ подсвечивается ИИ, управляемой через БУИИ ПЭВМ.</segment>
+		<segment id="119" parent="266" relname="elaboration">[Рис. 3. Структурная схема ОЭСКД]</segment>
+		<segment id="120" parent="121" relname="evidence">Проведенные исследования показали,</segment>
+		<segment id="121" parent="291" relname="span">что экспериментальные значения погрешности хорошо согласуются с расчетными [5].</segment>
+		<segment id="122" parent="225" relname="joint">Систематическая составляющая погрешности составляет 0,221 мм на дистанции 2 м и 0,0153 мм на дистанции 5,8 м.</segment>
+		<segment id="123" parent="225" relname="joint">Вариация показаний прибора на дистанции 2 м составляет 0,0027 мм и 0,004 мм на дистанции 5,8 м.</segment>
+		<segment id="124" parent="225" relname="joint">СКО случайной составляющей основной погрешности составляет 0,0017 мм и 0,003 мм на дистанции 2 м и 5,8 м, соответственно [5].</segment>
+		<segment id="125" parent="226" relname="elaboration">Данная работа выполнена в рамках гранта молодых кандидатов наук вузов и академических институтов, расположенных на территории Санкт-Петербурга, 2005 г.</segment>
+		<segment id="126" parent="232" relname="preparation">Заключение</segment>
+		<segment id="127" parent="231" relname="joint">Изложены принципы построения распределенных оптико-электронных систем, обеспечивающих автоматизированный многоточечный непрерывный контроль параметров наблюдаемого объекта.</segment>
+		<segment id="128" parent="231" relname="joint">Проведены экспериментальные исследования макетов измерительных каналов распределенных ОЭСКД.</segment>
+		<segment id="129" parent="130" relname="preparation">Литература</segment>
+		<segment id="130" relname="antithesis">1\. Андреев А.Л., Коняхин И.А., Коротаев В.В., Мусяков В.Л., Панков Э.Д., Тимофеев А.Н. Проблемы создания оптико-электронных систем для определения взаимного положения разнесенных в пространстве объектов или их элементов. // Оптический журнал. 1995. № 5. С.8-12. 2\. Иванов А.Г., Коротаев В.В., Краснящих А.В. О построении оптико-электронных систем контроля прогиба. // Научно-технический вестник СПб ГИТМО (ТУ). Выпуск 5. Оптические приборы, системы и технологии / Главный редактор В.Н. Васильев. СПб: СПб ГИТМО(ТУ), 2002. С. 100-104. 3\. Краснящих А.В. Исследование возможности создания адаптивной оптико- электронной системы измерения деформаций крупногабаритных инженерных сооружений. // Седьмая Санкт-Петербургская ассамблея молодых ученых и специалистов. Аннотации работ по грантам Санкт-Петербургского конкурса 2002 г. СПб: Изд-во С.-Петерб. ун-та, 2002. 120 с. 4\. Крайлюк А.Д., Краснящих А.В., Мусяков В.Л., Тимофеев А.Н., Ярышев С.Н. Оптико-электронная система контроля положения центра корпусных деталей турбоагрегатов относительно оптической оси. // Изв. вузов. Приборостроение. 2003. Т. 46. №8. С. 61-63. 5\. Коротаев В.В, Краснящих А.В. Исследование макета оптико-электронной системы контроля деформации крупногабаритных инженерных сооружений. // V Международная конференция «Прикладная оптика» 15-17 октября 2002 г. Санкт- Петербург. Россия. Сборник трудов. Т.1. Оптическое приборостроение. СПб: Труды оптического общества им. Д.С. Рождественского, 2002. С. 70-74. </segment>
+		<group id="133" type="span" parent="262" relname="preparation"/>
+		<group id="134" type="multinuc" parent="261" relname="span"/>
+		<group id="135" type="span" parent="138" relname="joint"/>
+		<group id="138" type="multinuc" relname="antithesis"/>
+		<group id="140" type="multinuc" parent="144" relname="joint"/>
+		<group id="141" type="multinuc" parent="144" relname="joint"/>
+		<group id="144" type="multinuc" parent="250" relname="span"/>
+		<group id="146" type="multinuc" relname="antithesis"/>
+		<group id="150" type="span" parent="155" relname="joint"/>
+		<group id="151" type="multinuc" parent="153" relname="joint"/>
+		<group id="152" type="span" parent="151" relname="same-unit"/>
+		<group id="153" type="multinuc" parent="155" relname="joint"/>
+		<group id="155" type="multinuc" parent="204" relname="joint"/>
+		<group id="156" type="multinuc" parent="30" relname="purpose"/>
+		<group id="159" type="multinuc" parent="204" relname="joint"/>
+		<group id="160" type="multinuc" parent="256" relname="span"/>
+		<group id="161" type="span" parent="256" relname="elaboration"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="257" relname="span"/>
+		<group id="168" type="span" relname="antithesis"/>
+		<group id="170" type="span" parent="173" relname="same-unit"/>
+		<group id="171" type="span" parent="173" relname="same-unit"/>
+		<group id="172" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="173" type="multinuc" parent="241" relname="contrast"/>
+		<group id="178" type="span" parent="179" relname="joint"/>
+		<group id="179" type="multinuc" relname="antithesis"/>
+		<group id="184" type="multinuc" parent="277" relname="span"/>
+		<group id="185" type="multinuc" parent="184" relname="joint"/>
+		<group id="187" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="188" type="span" parent="184" relname="joint"/>
+		<group id="190" type="multinuc" parent="280" relname="joint"/>
+		<group id="193" type="span" parent="194" relname="same-unit"/>
+		<group id="194" type="multinuc" parent="195" relname="sequence"/>
+		<group id="195" type="multinuc" parent="203" relname="joint"/>
+		<group id="196" type="span" parent="92" relname="purpose"/>
+		<group id="197" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="247" relname="contrast"/>
+		<group id="200" type="span" parent="202" relname="joint"/>
+		<group id="202" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="203" type="multinuc" relname="antithesis"/>
+		<group id="204" type="multinuc" parent="263" relname="span"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="267" relname="span"/>
+		<group id="216" type="span" parent="222" relname="joint"/>
+		<group id="217" type="span" parent="113" relname="elaboration"/>
+		<group id="218" type="span" parent="219" relname="same-unit"/>
+		<group id="219" type="multinuc" parent="288" relname="elaboration"/>
+		<group id="221" type="multinuc" parent="266" relname="span"/>
+		<group id="222" type="multinuc" relname="antithesis"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="290" relname="span"/>
+		<group id="231" type="multinuc" parent="232" relname="span"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" relname="antithesis"/>
+		<group id="234" type="span" parent="280" relname="joint"/>
+		<group id="235" type="span" parent="202" relname="joint"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="16" relname="purpose"/>
+		<group id="240" type="span" parent="241" relname="contrast"/>
+		<group id="241" type="multinuc" relname="antithesis"/>
+		<group id="242" type="multinuc" parent="179" relname="joint"/>
+		<group id="243" type="span" parent="258" relname="span"/>
+		<group id="247" type="multinuc" parent="202" relname="joint"/>
+		<group id="248" type="span" parent="247" relname="contrast"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" relname="antithesis"/>
+		<group id="252" type="span" parent="250" relname="elaboration"/>
+		<group id="253" type="span" parent="146" relname="joint"/>
+		<group id="254" type="span" parent="204" relname="joint"/>
+		<group id="255" type="span" parent="204" relname="joint"/>
+		<group id="256" type="span" parent="255" relname="span"/>
+		<group id="257" type="span" relname="antithesis"/>
+		<group id="258" type="span" parent="242" relname="contrast"/>
+		<group id="259" type="span" parent="138" relname="joint"/>
+		<group id="260" type="span" relname="antithesis"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" relname="antithesis"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" relname="antithesis"/>
+		<group id="265" type="span" parent="222" relname="joint"/>
+		<group id="266" type="span" parent="265" relname="span"/>
+		<group id="267" type="span" relname="antithesis"/>
+		<group id="268" type="multinuc" parent="59" relname="concession"/>
+		<group id="269" type="span" parent="270" relname="same-unit"/>
+		<group id="270" type="multinuc" parent="63" relname="evidence"/>
+		<group id="271" type="span" parent="275" relname="preparation"/>
+		<group id="272" type="span" parent="274" relname="joint"/>
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="274" type="multinuc" parent="275" relname="span"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" relname="antithesis"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" relname="antithesis"/>
+		<group id="279" type="span" parent="187" relname="joint"/>
+		<group id="280" type="multinuc" parent="203" relname="joint"/>
+		<group id="281" type="span" parent="282" relname="joint"/>
+		<group id="282" type="multinuc" parent="203" relname="joint"/>
+		<group id="283" type="multinuc" relname="antithesis"/>
+		<group id="284" type="span" parent="283" relname="contrast"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" parent="213" relname="joint"/>
+		<group id="287" type="span" parent="216" relname="span"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="222" relname="joint"/>
+		<group id="290" type="span" relname="antithesis"/>
+		<group id="291" type="span" parent="227" relname="preparation"/>
+  </body>
+</rst>

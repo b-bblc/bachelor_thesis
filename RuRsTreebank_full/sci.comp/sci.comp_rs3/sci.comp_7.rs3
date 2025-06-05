@@ -1,0 +1,317 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">ПРЕДОТВРАЩЕНИЕ УГРОЗЫ ВИРУСНЫХ АТАК В АВТОМАТИЗИРОВАННЫХ СИСТЕМАХ</segment>
+		<segment id="2" relname="antithesis">С.В. Егоров, М.С. Иванов, Ю.И. Рядчин</segment>
+		<segment id="3" relname="antithesis">Научный руководитель - доктор технических наук, профессор Ю.А. Гатчин</segment>
+		<segment id="4" relname="antithesis">Антивирусные программы являются неотъемлемой частью любой системы защиты информации.</segment>
+		<segment id="5" relname="antithesis">В данной статье рассказывается про основные функции антивирусного программного обеспечения,</segment>
+		<segment id="6" relname="antithesis">выявляются типы этих программ,</segment>
+		<segment id="7" relname="antithesis">приводится аналитическое сравнение наиболее надежных и популярных программ, лучшая из которых была интегрирована в систему защиты информации автоматизированной системы ООО «Ленспецпроизводство».</segment>
+		<segment id="8" parent="162" relname="preparation">Введение</segment>
+		<segment id="9" parent="155" relname="same-unit">За последние годы локальные вычислительные сети (ЛВС),</segment>
+		<segment id="10" parent="11" relname="cause">совершив неоспоримый технологический прорыв,</segment>
+		<segment id="11" parent="154" relname="span">стали неотъемлемой составляющей производственно- технологической базы любой организации как крупного, так среднего и малого бизнеса не только в России, но и за рубежом.</segment>
+		<segment id="12" parent="156" relname="elaboration">Корпоративные информационные системы становятся сегодня одним из главных инструментов управления бизнесом и фактически важнейшим средством производства любой компании.</segment>
+		<segment id="13" parent="158" relname="joint">Однако новые информационные технологии, применяемые в ЛВС, не только значительно расширили возможности организаций,</segment>
+		<segment id="14" parent="158" relname="joint">но и сделали их более уязвимыми для вероятных нарушителей информационной безопасности.</segment>
+		<segment id="15" parent="162" relname="span">В сложившейся обстановке одна из важных и сложных научно-технических задач на ближайшую перспективу состоит в создании и внедрении современных систем защиты информации (СЗИ) ЛВС и АС, призванных обеспечить безопасность информации, обрабатываемой, передаваемой и хранимой в ЛВС и АС.</segment>
+		<segment id="16" parent="163" relname="span">При этом, решая данную задачу, необходимо четко осознавать, что для создания СЗИ недостаточно одной лишь установки различных средств защиты информации.</segment>
+		<segment id="17" parent="168" relname="span">Средства защиты, вне зависимости от их технических характеристик, сами по себе не способны обеспечить требуемый уровень информационной безопасности ЛВС.</segment>
+		<segment id="18" parent="164" relname="joint">Во- первых, эти средства необходимо квалифицированно настроить.</segment>
+		<segment id="19" parent="164" relname="joint">Во-вторых, в организации необходимо назначить персонал, который отвечал бы за администрирование этих средств защиты, в частности, и за защиту информацию в ЛВС в целом.</segment>
+		<segment id="20" parent="164" relname="joint">В-третьих, необходимо провести обучение пользователей ЛВС вопросам обеспечения безопасности информации.</segment>
+		<segment id="21" parent="272" relname="span">И, наконец, необходимо разработать комплект документов, образующий информационную систему защиты информации ЛВС, который бы четко и однозначно определял порядок установки, настройки и эксплуатации используемых в ЛВС средств защиты, состав объектов и субъектов доступа и их полномочий в системе, перечень защищаемых информационных ресурсов ЛВС, схему технологического процесса обработки защищаемой информации, а также права и обязанности пользователей и администраторов ЛВС.</segment>
+		<segment id="22" parent="21" relname="elaboration">Без наличия этих документов в организации говорить о созданной СЗИ ЛВС и/или АС невозможно.</segment>
+		<segment id="23" parent="172" relname="span">В данной статье речь пойдет об антивирусной защите ЛВС и АС.</segment>
+		<segment id="24" parent="170" relname="background">На сегодняшний день существует множество различных антивирусных программ.</segment>
+		<segment id="25" parent="169" relname="joint">В статье рассмотрены основные принципы работы такого программного обеспечения (ПО),</segment>
+		<segment id="26" parent="169" relname="joint">приведен список наиболее распространенных на сегодняшний день программных средств по антивирусной ЗИ</segment>
+		<segment id="27" parent="169" relname="joint">и обоснован выбор тех из них, которые были использованы для создания СЗИ АС ООО «Ленспецпроизводство».</segment>
+		<segment id="28" parent="174" relname="preparation">Функции антивирусного программного обеспечения</segment>
+		<segment id="29" parent="173" relname="background">На сегодняшний день перечень доступных антивирусных программ весьма обширен.</segment>
+		<segment id="30" parent="173" relname="span">Они различаются как по цене (от весьма дорогих до абсолютно бесплатных), так и по своим функциональным возможностям.</segment>
+		<segment id="31" parent="30" relname="elaboration">Наиболее мощные (и, как правило, наиболее дорогие) антивирусные программы представляют собой на самом деле пакеты специализированных утилит, способных при совместном их использовании поставить заслон практически любому виду зловредных программ.</segment>
+		<segment id="32" parent="177" relname="span">Вот типовой (но, возможно, неполный) перечень тех функций, которые способны выполнять такие антивирусные пакеты:</segment>
+		<segment id="33" parent="175" relname="joint">• сканирование памяти и содержимого дисков по расписанию;</segment>
+		<segment id="34" parent="175" relname="joint">• сканирование памяти компьютера, а также записываемых и читаемых файлов в реальном режиме времени с помощью резидентного модуля;</segment>
+		<segment id="35" parent="175" relname="joint">• выборочное сканирование файлов с измененными атрибутами;</segment>
+		<segment id="36" parent="175" relname="joint">• распознавание поведения, характерного для компьютерных вирусов;</segment>
+		<segment id="37" parent="175" relname="joint">• блокировка и/или удаление выявленных вирусов;</segment>
+		<segment id="38" parent="175" relname="joint">• восстановление зараженных информационных объектов;</segment>
+		<segment id="39" parent="175" relname="joint">• принудительная проверка подключенных к корпоративной сети компьютеров;</segment>
+		<segment id="40" parent="175" relname="joint">• удаленное обновление антивирусного программного обеспечения и баз данных с информацией о вирусах, в том числе автоматическое обновление баз данных по вирусам через Интернет;</segment>
+		<segment id="41" parent="175" relname="joint">• фильтрация трафика (внешний - Интернет, внутренний - сетевой) на предмет выявления вирусов в передаваемых программах и документах;</segment>
+		<segment id="42" parent="175" relname="joint">• выявление потенциально опасных Java-апплетов и модулей ActiveX;</segment>
+		<segment id="43" parent="175" relname="joint">• ведение протоколов, содержащих информацию о событиях, касающихся антивирусной защиты.</segment>
+		<segment id="44" parent="183" relname="span">К наиболее мощным и популярным на сегодняшний день (в России) антивирусным пакетам относятся:</segment>
+		<segment id="45" parent="178" relname="span">• Doctor Web (в документации часто именуется более кратко - Dr. Web)</segment>
+		<segment id="46" parent="45" relname="elaboration">- программа российской компании «ДиалогНаука»;</segment>
+		<segment id="47" parent="180" relname="span">• Антивирус Касперского (в документации именуется более кратко - AVP) -</segment>
+		<segment id="48" parent="47" relname="elaboration">разработка еще одной российской фирмы «Лаборатория Касперского»;</segment>
+		<segment id="49" parent="181" relname="span">• Norton AntiVirus корпорации Symantec</segment>
+		<segment id="50" parent="49" relname="elaboration">- сайт компании имеет русскоязычный раздел;</segment>
+		<segment id="51" parent="179" relname="joint">• McAfee VirusScan компании Network Associates.</segment>
+		<segment id="52" parent="184" relname="span">Популярность перечисленных пакетов обусловлена,</segment>
+		<segment id="53" parent="186" relname="span">прежде всего, тем, что в них реализован комплексный подход к борьбе с вредоносными программами.</segment>
+		<segment id="54" parent="55" relname="cause">Установив такой пакет на своем компьютере,</segment>
+		<segment id="55" parent="185" relname="span">вы избавляетесь от необходимости использовать какие-либо дополнительные антивирусные средства.</segment>
+		<segment id="56" parent="57" relname="concession">Последние версии антивирусных пакетов содержат в своем составе также и средства борьбы с вредоносными программами, проникающими из сети.</segment>
+		<segment id="57" parent="187" relname="span">Тем не менее, специализированные инструменты отражения «сетевых» угроз будут рассмотрены отдельно.</segment>
+		<segment id="58" parent="59" relname="preparation">Технологии выявления и нейтрализации вредоносных программ</segment>
+		<segment id="59" parent="274" relname="span">Так какие же, собственно, существуют технологии выявления и нейтрализации компьютерных вирусов?</segment>
+		<segment id="60" parent="284" relname="span">Специалисты в области антивирусной защиты (в частности, Е. Касперский) выделяют пять типов антивирусов, реализующих соответствующие технологии: сканеры, мониторы, ревизоры изменений, иммунизаторы и поведенческие блокираторы.</segment>
+		<segment id="61" parent="193" relname="span">Принцип работы антивирусного сканера состоит в том, что он просматривает файлы, оперативную память и загрузочные секторы дисков на предмет наличия вирусных масок, т.е. уникального программного кода вируса.</segment>
+		<segment id="62" parent="190" relname="cause">Вирусные маски (описания) известных вирусов содержатся в антивирусной базе данных сканера,</segment>
+		<segment id="63" parent="188" relname="same-unit">и</segment>
+		<segment id="64" parent="65" relname="condition">если он встречает программный код, совпадающий с одним из этих описаний,</segment>
+		<segment id="65" parent="189" relname="span">то он выдает сообщение об обнаружении соответствующего вируса.</segment>
+		<segment id="66" parent="191" relname="elaboration">В качестве маски вируса обычно используется так называемая «сигнатура», т.е. характерная для данного вируса последовательность байтов.</segment>
+		<segment id="67" parent="194" relname="joint">Недостаток любого сканера заключается в том, что он не способен обнаруживать новые (неизвестные) вирусы, о которых отсутствует информация в базе данных сканера.</segment>
+		<segment id="68" parent="194" relname="joint">Кроме того, сканер практически бессилен против полиморфных вирусов, каждая новая копия которых отличается от предыдущей.</segment>
+		<segment id="69" parent="276" relname="preparation">Мониторы являются разновидностью сканеров.</segment>
+		<segment id="70" parent="275" relname="joint">Монитор постоянно находится в памяти компьютера</segment>
+		<segment id="71" parent="275" relname="joint">и осуществляет автоматическую проверку всех используемых файлов в масштабе реального времени.</segment>
+		<segment id="72" parent="73" relname="cause">Современные мониторы проверяют программы в момент их открытия и закрытия.</segment>
+		<segment id="73" parent="200" relname="span">Благодаря этому исключается возможность запуска ранее инфицированных файлов и заражения новых файлов резидентным вирусом.</segment>
+		<segment id="74" parent="75" relname="purpose">Для включения антивирусной защиты</segment>
+		<segment id="75" parent="198" relname="span">пользователю достаточно загрузить монитор при запуске операционной системы или приложения.</segment>
+		<segment id="76" parent="198" relname="elaboration">Как правило, это делает сам антивирусный пакет в процессе его установки.</segment>
+		<segment id="77" parent="196" relname="contrast">В случае обнаружения вредоносной программы монитор, в зависимости от настроек, вылечит файл,</segment>
+		<segment id="78" parent="196" relname="contrast">заблокирует его выполнение</segment>
+		<segment id="79" parent="196" relname="contrast">или изолирует, переместив в специальную «карантинную» папку для дальнейшего исследования.</segment>
+		<segment id="80" parent="286" relname="span">В настоящее время реально используются мониторы трех типов: файловые мониторы, мониторы для почтовых программ и мониторы для специальных приложений.</segment>
+		<segment id="81" parent="287" relname="joint">Файловые мониторы работают как часть операционной системы, в масштабе реального времени проверяя все используемые объекты, вне зависимости от их происхождения и принадлежности какому-либо приложению.</segment>
+		<segment id="82" parent="204" relname="joint">Мониторы для почтовых программ интегрируются в программы обработки электронной почты (как серверные, так и клиентские)</segment>
+		<segment id="83" parent="204" relname="joint">и при поступлении нового письма автоматически проверяют его.</segment>
+		<segment id="84" parent="206" relname="span">Мониторы для специальных приложений также обеспечивают фоновую проверку объектов, но только в рамках приложения, для которого они предназначены.</segment>
+		<segment id="85" parent="84" relname="elaboration">Типичный пример - мониторы для MS Office.</segment>
+		<segment id="86" parent="206" relname="elaboration">Подобно своим «почтовым коллегам», они интегрируются в программу и находятся в памяти компьютера во время ее работы.</segment>
+		<segment id="87" parent="215" relname="span">Принцип работы ревизоров изменений основан на вычислении для файлов, системных секторов и системного реестра контрольных сверток (CRC).</segment>
+		<segment id="88" parent="209" relname="sequence">Они сохраняются в базе данных ревизора,</segment>
+		<segment id="89" parent="211" relname="sequence">и при следующем запуске ревизор сверяет «отпечатки» с их оригиналами</segment>
+		<segment id="90" parent="211" relname="sequence">и сообщает пользователю о выявленных отклонениях, обращая особое внимание на вирусоподобные изменения.</segment>
+		<segment id="91" parent="213" relname="span">При использовании ревизоров лечение зараженных объектов основывается не на опознании конкретного вируса, а на знании того, как должен выглядеть «чистый» файл или сектор:</segment>
+		<segment id="92" parent="91" relname="elaboration">любые отклонения от эталона регистрируются ревизором, который способен вернуть объект к исходному состоянию.</segment>
+		<segment id="93" parent="224" relname="span">Однако у ревизоров изменений имеются свои недостатки.</segment>
+		<segment id="94" parent="217" relname="contrast">Во-первых, они не способны поймать вирус в момент его появления в системе,</segment>
+		<segment id="95" parent="218" relname="span">а делают это лишь через некоторое время</segment>
+		<segment id="96" parent="95" relname="condition">- после того, как вирус заразит хотя бы один объект.</segment>
+		<segment id="97" parent="222" relname="span">Во- вторых, они не могут определить вирус в новых файлах,</segment>
+		<segment id="98" parent="97" relname="cause">поскольку для таких файлов в базе данных ревизора отсутствует эталонное значение CRC.</segment>
+		<segment id="99" parent="225" relname="span">Иммунизаторы, которые иногда называют также вакцинами, действуют подобно медицинским вакцинам:</segment>
+		<segment id="100" parent="99" relname="elaboration">они помещают в тело информационного объекта специальные метки, препятствующие заражению вирусом.</segment>
+		<segment id="101" parent="241" relname="span">Иммунизаторы бывают двух типов: информирующие и блокирующие.</segment>
+		<segment id="102" parent="227" relname="sequence">Первые обычно записываются в конец файлов (по принципу файлового вируса)</segment>
+		<segment id="103" parent="227" relname="sequence">и каждый раз при запуске файла проверяют его на изменение.</segment>
+		<segment id="104" parent="229" relname="span">Такие иммунизаторы имеют один существенный недостаток:</segment>
+		<segment id="105" parent="104" relname="elaboration">они не способны обнаружить заражение вирусами- невидимками.</segment>
+		<segment id="106" parent="107" relname="cause">Иммунизаторы второго типа защищают систему от заражения каким- либо определенным вирусом. Блокирующий иммунизатор помечает файлы таким же образом, как и нейтрализуемый вирус,</segment>
+		<segment id="107" parent="231" relname="span">благодаря чему тот считает их уже зараженными.</segment>
+		<segment id="108" parent="109" relname="purpose">Например, чтобы предотвратить заражение COM-файла вирусом Jerusalem,</segment>
+		<segment id="109" parent="232" relname="span">достаточно дописать в конец файла строку MSDos.</segment>
+		<segment id="110" parent="234" relname="purpose">Для защиты от резидентного вируса</segment>
+		<segment id="111" parent="233" relname="sequence">в память компьютера заносится программа, имитирующая копию вируса.</segment>
+		<segment id="112" parent="233" relname="sequence">При запуске вирус обнаруживает ее</segment>
+		<segment id="113" parent="233" relname="sequence">и считает, что система уже заражена.</segment>
+		<segment id="114" parent="115" relname="cause">Иммунизаторы не получили большого распространения</segment>
+		<segment id="115" parent="242" relname="span">и в настоящее время практически не используются.</segment>
+		<segment id="116" parent="243" relname="joint">Поведенческие блокираторы, в отличие от других антивирусных программ, не просто «смотрят»</segment>
+		<segment id="117" parent="243" relname="joint">и пытаются «узнавать» вирусы,</segment>
+		<segment id="118" parent="245" relname="joint">они еще и «думают».</segment>
+		<segment id="119" parent="247" relname="restatement">Принцип действия таких антивирусов основан на эвристическом анализе поведения активных программ и «подозрительных» событий, происходящих в системе.</segment>
+		<segment id="120" parent="247" relname="restatement">Другими словами, поведенческие блокираторы опираются в своей работе не на базу данных, а на базу знаний о том, что может происходить в системе в случае попадания в нее вредоносного программного обеспечения.</segment>
+		<segment id="121" parent="250" relname="span">Это делает поведенческие блокираторы универсальным оружием, которое может использоваться в борьбе не только с вирусами, но и, например, с программами-шпионами.</segment>
+		<segment id="122" parent="292" relname="span">Считается, что разработка поведенческих блокираторов, использующих методы искусственного интеллекта, - это наиболее перспективное направление в создании антивирусных средств.</segment>
+		<segment id="123" parent="251" relname="contrast">Существующие сегодня поведенческие блокираторы не предназначены для удаления вирусов.</segment>
+		<segment id="124" parent="251" relname="contrast">Их цель - обнаружение и предотвращение распространения вирусов.</segment>
+		<segment id="125" parent="253" relname="span">Поэтому их необходимо использовать совместно с антивирусным сканером, который способен уничтожить выявленный вирус.</segment>
+		<segment id="126" parent="260" relname="preparation">Решения по антивирусной защите в АС ООО «Ленспецпроизводство»</segment>
+		<segment id="127" parent="254" relname="joint">Для предотвращения несанкционированных и непреднамеренных воздействий,</segment>
+		<segment id="128" parent="254" relname="joint">утечки защищаемой информации за счет воздействия компьютерных вирусов</segment>
+		<segment id="129" parent="255" relname="joint">в рамках проектирования и внедрения СЗИ АС ООО «Ленспецпроизводство» было решено установить</segment>
+		<segment id="130" parent="255" relname="joint">и настроить на всех серверах и рабочих станциях АС антивирусную программу.</segment>
+		<segment id="131" parent="259" relname="span">Произведен выбор лучшего антивируса по соотношению «цена - эффективность - надежность».</segment>
+		<segment id="132" parent="281" relname="span">Для этого произведен анализ наиболее популярных и зарекомендовавших себя с точки зрения надежности антивирусных программ, имеющихся на российском рынке.</segment>
+		<segment id="133" parent="132" relname="elaboration">Результаты сравнения приведены в табл. 1.</segment>
+		<segment id="134" parent="263" relname="span">Из данных, приведенных в таблице, видно, что лучшим для использования в АС является антивирус Dr. Web.</segment>
+		<segment id="135" parent="261" relname="joint">Для АС целесообразным с точки зрения снижения накладных затрат на администрирование СЗИ АС является использование антивируса Dr. Web версии Enterprise, позволяющего производить централизованное управление всеми антивирусными средствами, установленными в АС.</segment>
+		<segment id="136" parent="261" relname="joint">Обязательной установке подлежит Spider, который должен функционировать на всех рабочих станциях и серверах резидентно.</segment>
+		<segment id="137" parent="269" relname="preparation">Заключение</segment>
+		<segment id="138" parent="269" relname="span">В статье рассмотрена такая важная компонента любой современной системы защиты информации в ЛВС и/или АС, как антивирусная защита.</segment>
+		<segment id="139" parent="268" relname="span">Выявлены основные функции антивирусного ПО:</segment>
+		<segment id="140" parent="264" relname="joint">фильтрация трафика (внешний - Интернет, внутренний -сетевой) на предмет выявления вирусов в передаваемых программах и документах;</segment>
+		<segment id="141" parent="264" relname="joint">сканирование памяти и содержимого дисков;</segment>
+		<segment id="142" parent="265" relname="joint">блокировка</segment>
+		<segment id="143" parent="265" relname="joint">и/или удаление выявленных вирусов;</segment>
+		<segment id="144" parent="264" relname="joint">протоколирование событий.</segment>
+		<segment id="145" parent="293" relname="joint">Антивирусное ПО можно разделить на пять типов, реализующих соответствующие технологии: сканеры, мониторы, ревизоры изменений, иммунизаторы и поведенческие блокираторы.</segment>
+		<segment id="146" parent="270" relname="span">В процессе разработки и внедрения СЗИ АС ООО «Ленспецпроизводство» было решено использовать антивирусное ПО Dr. Web Enterprise.</segment>
+		<segment id="147" parent="294" relname="span">Этот выбор лучшего антивируса по соотношению «цена - эффективность - надежность» мотивируется тщательным анализом существующих сегодня на российском рынке наиболее надежных и популярных средств антивирусной защиты.</segment>
+		<segment id="148" parent="147" relname="elaboration">[Таблица]</segment>
+		<segment id="149" relname="antithesis">Литература</segment>
+		<segment id="150" relname="antithesis">1\. Гультяев А. Восстановление данных. СПб: Питер, 2004. 336 с.</segment>
+		<segment id="151" relname="antithesis">2\. http://www.xakep.ru/post/26299/default.asp</segment>
+		<segment id="152" relname="antithesis">3\. http://www.securitylab.ru/analytics/216387.php</segment>
+		<segment id="153" relname="antithesis"></segment>
+		<group id="154" type="span" parent="155" relname="same-unit"/>
+		<group id="155" type="multinuc" parent="156" relname="span"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" parent="160" relname="contrast"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="159" type="span" parent="160" relname="contrast"/>
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="161" type="span" parent="15" relname="background"/>
+		<group id="162" type="span" parent="271" relname="span"/>
+		<group id="163" type="span" relname="antithesis"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="165" type="span" parent="17" relname="evidence"/>
+		<group id="168" type="span" parent="16" relname="cause"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" parent="23" relname="elaboration"/>
+		<group id="172" type="span" relname="antithesis"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="273" relname="span"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="176" type="span" parent="32" relname="elaboration"/>
+		<group id="177" type="span" relname="antithesis"/>
+		<group id="178" type="span" parent="179" relname="joint"/>
+		<group id="179" type="multinuc" parent="182" relname="span"/>
+		<group id="180" type="span" parent="179" relname="joint"/>
+		<group id="181" type="span" parent="179" relname="joint"/>
+		<group id="182" type="span" parent="44" relname="elaboration"/>
+		<group id="183" type="span" relname="antithesis"/>
+		<group id="184" type="span" relname="antithesis"/>
+		<group id="185" type="span" parent="283" relname="span"/>
+		<group id="186" type="span" parent="52" relname="cause"/>
+		<group id="187" type="span" parent="185" relname="elaboration"/>
+		<group id="188" type="multinuc" parent="190" relname="span"/>
+		<group id="189" type="span" parent="188" relname="same-unit"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="61" relname="elaboration"/>
+		<group id="193" type="span" parent="285" relname="span"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" parent="193" relname="evaluation"/>
+		<group id="196" type="multinuc" parent="197" relname="span"/>
+		<group id="197" type="span" parent="278" relname="span"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="201" relname="joint"/>
+		<group id="200" type="span" parent="201" relname="joint"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="202" type="span" parent="203" relname="elaboration"/>
+		<group id="203" type="span" parent="276" relname="span"/>
+		<group id="204" type="multinuc" parent="205" relname="span"/>
+		<group id="205" type="span" parent="287" relname="joint"/>
+		<group id="206" type="span" parent="279" relname="span"/>
+		<group id="209" type="multinuc" parent="210" relname="span"/>
+		<group id="210" type="span" parent="214" relname="span"/>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="212" type="span" parent="209" relname="sequence"/>
+		<group id="213" type="span" parent="210" relname="elaboration"/>
+		<group id="214" type="span" parent="87" relname="elaboration"/>
+		<group id="215" type="span" parent="289" relname="span"/>
+		<group id="217" type="multinuc" parent="220" relname="span"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="217" relname="contrast"/>
+		<group id="220" type="span" parent="221" relname="joint"/>
+		<group id="221" type="multinuc" parent="223" relname="span"/>
+		<group id="222" type="span" parent="221" relname="joint"/>
+		<group id="223" type="span" parent="93" relname="elaboration"/>
+		<group id="224" type="span" parent="215" relname="evaluation"/>
+		<group id="225" type="span" parent="290" relname="span"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="230" relname="span"/>
+		<group id="229" type="span" parent="228" relname="evaluation"/>
+		<group id="230" type="span" parent="239" relname="contrast"/>
+		<group id="231" type="span" parent="238" relname="span"/>
+		<group id="232" type="span" parent="236" relname="contrast"/>
+		<group id="233" type="multinuc" parent="234" relname="span"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" parent="236" relname="contrast"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="231" relname="elaboration"/>
+		<group id="238" type="span" parent="239" relname="contrast"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="101" relname="elaboration"/>
+		<group id="241" type="span" parent="225" relname="elaboration"/>
+		<group id="242" type="span" parent="290" relname="elaboration"/>
+		<group id="243" type="multinuc" parent="244" relname="span"/>
+		<group id="244" type="span" parent="245" relname="joint"/>
+		<group id="245" type="multinuc" parent="246" relname="span"/>
+		<group id="246" type="span" parent="249" relname="span"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="246" relname="elaboration"/>
+		<group id="249" type="span" parent="121" relname="cause"/>
+		<group id="250" type="span" parent="122" relname="cause"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="125" relname="cause"/>
+		<group id="253" type="span" relname="antithesis"/>
+		<group id="254" type="multinuc" parent="257" relname="span"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="258" relname="span"/>
+		<group id="257" type="span" parent="256" relname="purpose"/>
+		<group id="258" type="span" parent="260" relname="span"/>
+		<group id="259" type="span" parent="258" relname="solutionhood"/>
+		<group id="260" type="span" parent="280" relname="span"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" parent="134" relname="elaboration"/>
+		<group id="263" type="span" relname="antithesis"/>
+		<group id="264" type="multinuc" parent="267" relname="span"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="264" relname="joint"/>
+		<group id="267" type="span" parent="139" relname="elaboration"/>
+		<group id="268" type="span" parent="293" relname="joint"/>
+		<group id="269" type="span" parent="282" relname="span"/>
+		<group id="270" type="span" relname="antithesis"/>
+		<group id="271" type="span" relname="antithesis"/>
+		<group id="272" type="span" parent="164" relname="joint"/>
+		<group id="273" type="span" relname="antithesis"/>
+		<group id="274" type="span" parent="60" relname="preparation"/>
+		<group id="275" type="multinuc" parent="203" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" relname="antithesis"/>
+		<group id="278" type="span" parent="201" relname="joint"/>
+		<group id="279" type="span" parent="287" relname="joint"/>
+		<group id="280" type="span" relname="antithesis"/>
+		<group id="281" type="span" parent="131" relname="purpose"/>
+		<group id="282" type="span" relname="antithesis"/>
+		<group id="283" type="span" parent="53" relname="elaboration"/>
+		<group id="284" type="span" relname="antithesis"/>
+		<group id="285" type="span" relname="antithesis"/>
+		<group id="286" type="span" relname="antithesis"/>
+		<group id="287" type="multinuc" parent="288" relname="span"/>
+		<group id="288" type="span" parent="80" relname="elaboration"/>
+		<group id="289" type="span" relname="antithesis"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" relname="antithesis"/>
+		<group id="292" type="span" relname="antithesis"/>
+		<group id="293" type="multinuc" parent="138" relname="elaboration"/>
+		<group id="294" type="span" parent="146" relname="evaluation"/>
+  </body>
+</rst>

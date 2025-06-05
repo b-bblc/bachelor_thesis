@@ -1,0 +1,196 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="162" relname="span">ОСОБЕННОСТИ РАБОТЫ РЕДАКТОРА НАД ПЕРЕВОДНЫМ ИСКУССТВОВЕДЧЕСКИМ ИЗДАНИЕМ</segment>
+		<segment id="2" parent="161" relname="span">© Жидкова М.Е.1</segment>
+		<segment id="3" parent="2" relname="elaboration">Челябинский государственный институт культуры, г. Челябинск</segment>
+		<segment id="4" relname="antithesis">В статье раскрывается специфика работы редактора над переводным искусствоведческим изданием. Автор пишет о современном положении дел в области книгоиздания переводной литературы. Перечислены основные типы ошибок редактора и переводчика, а также сложности, которые возникают при работе с переводным искусствоведческим текстом. Ключевые слова книгоиздание, издания, переводная литература, искусствоведение, книги по искусству, допечатная подготовка.</segment>
+		<segment id="5" parent="189" relname="span">На современном российском книжном рынке переводные издания составляют примерно десятую часть из всей совокупности книг по названиям и тиражам.</segment>
+		<segment id="6" parent="97" relname="attribution">К примеру, по данным отраслевого доклада Федерального агентства по печати и массовым коммуникациям,</segment>
+		<segment id="7" parent="97" relname="span">за 2014 год переводных изданий было выпущено 11692 названия совокупным тиражом 61,5 млн. экземпляров,</segment>
+		<segment id="8" parent="7" relname="elaboration">что составило 10,4 % и 12,7 % из общего объема [7, с. 7].</segment>
+		<segment id="9" parent="99" relname="span">В СССР существовала государственная монополия на книгоиздание в целом</segment>
+		<segment id="10" parent="9" relname="elaboration">и, в особенности, это касалось отбора и выпуска переводной литературы.</segment>
+		<segment id="11" parent="101" relname="joint">С 90-х годов постепенно происходит демократизация во всех сферах,</segment>
+		<segment id="12" parent="101" relname="joint">появляются частные издательские фирмы,</segment>
+		<segment id="13" parent="101" relname="joint">развивается негосударственное книгоиздание.</segment>
+		<segment id="14" parent="101" relname="joint">Издательства становится сами вправе производить отбор произведений.</segment>
+		<segment id="15" parent="101" relname="joint">Расширяется тематика переводных изданий, в том числе и в разделе «Культура. Искусство».</segment>
+		<segment id="16" parent="175" relname="attribution">По мнению доктора филологических наук, профессора С.Г. Антоновой,</segment>
+		<segment id="17" parent="103" relname="comparison">переводная искусствоведческая литература до 1990-го года выполняла идеологическую функцию (как и все прочие издания),</segment>
+		<segment id="18" parent="174" relname="span">а, начиная с 90-х, основной функцией становится дополнительная.</segment>
+		<segment id="19" parent="18" relname="elaboration">Переводная литература как бы дополняет отечественное искусствоведческое знание [3, с. 178].</segment>
+		<segment id="20" parent="108" relname="span">Сейчас выпуском изданий по искусству и искусствоведческих серий занимаются крупнейшие универсальные издательства («Олма Медиа Групп», «АСТ», «Эксмо» «РИПОЛ Классик»), а также такие специализированные издательства, как «Слово», «Bestiary», «Арт-Родник», «Белый город», «Ad-MarginemPress» и другие.</segment>
+		<segment id="21" parent="107" relname="joint">К примеру, в издательстве «Белый город» выходит серия «Знаменитые художники мира»,</segment>
+		<segment id="22" parent="107" relname="joint">а «РИПОЛ Классик» с 2015 года выпускает серию «Искусство и действительность».</segment>
+		<segment id="23" relname="antithesis">1 Студент 2-го курса магистратуры по направлению «Издательское дело».</segment>
+		<segment id="24" parent="25" relname="attribution">По ГОСТ 7.60-2003,</segment>
+		<segment id="25" parent="109" relname="span">переводное издание является видом издания по оригинальности содержания и представляет собой «издание, содержащее произведение, переведенное с какого-либо иностранного языка на язык национальности, которой адресуется издание» [1].</segment>
+		<segment id="26" parent="111" relname="span">В 2014 году были переведены книги с 87 языков стран ближнего и дальнего зарубежья, а также народов России;</segment>
+		<segment id="27" parent="26" relname="elaboration">доля переводов с английского языка составила 57,6 %, с французского - 8,2 %, с немецкого - 6,2 %, с итальянского - 2 % [7, с. 11].</segment>
+		<segment id="28" parent="110" relname="joint">Искусствоведческие переводные издания также издаются на основе переводов с указанных языков и преимущественно - с английского.</segment>
+		<segment id="29" parent="114" relname="joint">Работа редактора над текстом перевода искусствоведческого издания -очень трудоемкий процесс.</segment>
+		<segment id="30" parent="114" relname="joint">Он усложнен как спецификой работы с искусствоведческим текстом (наличие оценочных характеристик и субъективного мнения автора, большого количества специальных терминов, особый стиль произведения), так и спецификой работы над переводным изданием.</segment>
+		<segment id="31" parent="197" relname="span">В первую очередь, необходимо тесное взаимодействие редактора с переводчиком, их постоянное сотрудничество.</segment>
+		<segment id="32" parent="117" relname="span">Желательно, чтобы редактор знал язык оригинала, с которого был сделан перевод, для проведения сверки текстов.</segment>
+		<segment id="33" parent="32" relname="cause">В тексте перевода могут содержаться непереводимые языковые конструкции, которые являются следствием различия культур [4, с. 111].</segment>
+		<segment id="34" parent="177" relname="joint">Поэтому редактор должен быть знаком также и с культурой страны, с языка которой делался перевод,</segment>
+		<segment id="35" parent="177" relname="joint">и, кроме того, разбираться в той области искусства, которой посвящена книга.</segment>
+		<segment id="36" parent="188" relname="span">Причиной ошибок переводчика и редактора</segment>
+		<segment id="37" parent="36" relname="cause">также может быть непонимание фразеологических оборотов.</segment>
+		<segment id="38" parent="210" relname="preparation">В переводе издания могут встречаться различные морфологические, лексические, синтаксические и стилистические ошибки.</segment>
+		<segment id="39" parent="126" relname="joint">В числе морфологических: неправильное употребление местоимений, употребление множественного числа вместо единственного, смешение слов, значение которых различается по родовому окончанию, ошибки в окончаниях.</segment>
+		<segment id="40" parent="185" relname="same-unit">Встречаемые лексические ошибки: неточность выбора слова, употребление слов, вызывающих нежелательные ассоциации,</segment>
+		<segment id="41" parent="186" relname="span">неверное употребление терминов, профессионализмов</segment>
+		<segment id="42" parent="41" relname="evaluation">(на это необходимо обращать особое внимание в искусствоведческих текстах),</segment>
+		<segment id="43" parent="185" relname="same-unit">слов с обобщающим значением.</segment>
+		<segment id="44" parent="126" relname="joint">В числе синтаксических и стилистических ошибок следует назвать неправильный порядок слов, неправильное употребление способов подчинительной связи в словосочетаниях, пропуск меняющих смысл фразы служебных слов, наличие пунктуационных ошибок, искажающих смысл текста, а также не подходящий для данного издания стиль [2, с. 19; 4, с. 111].</segment>
+		<segment id="45" parent="126" relname="joint">В искусствоведческом тексте, как правило, переплетаются элементы различных стилей: публицистического, научно- популярного, художественного, встречаются даже элементы разговорного стиля (в изданиях для широкого круга читателей).</segment>
+		<segment id="46" parent="128" relname="comparison">Публицистичность искусствоведческого текста проявляется в наличии большого количества фактов, имен, дат.</segment>
+		<segment id="47" parent="128" relname="comparison">Научный характер текста - в том, что он содержит художественные термины (название стилей и направлений в искусстве, материалов, техник, элементов рисунка и оборудования) и стилистически нейтральную лексику.</segment>
+		<segment id="48" parent="129" relname="span">Также искусствоведческий текст содержит авторскую оценку,</segment>
+		<segment id="49" parent="48" relname="elaboration">в нем могут присутствовать фразы-клише (такие, как «игра света и тени»), риторические вопросы, восклицания [5, с. 22].</segment>
+		<segment id="50" parent="187" relname="span">Для книг по искусству необходим перевод, близкий к художественному,</segment>
+		<segment id="51" parent="50" relname="cause">так как в нем содержится большое количество средств выразительности и образности.</segment>
+		<segment id="52" parent="187" relname="purpose">С помощью художественного перевода достигается передача уникального авторского стиля.</segment>
+		<segment id="53" parent="199" relname="preparation">Редактору необходимо производить тщательную проверку фактов, имен и наименований, сверку цитат и замену их на классические переводы, унифицировать все написания.</segment>
+		<segment id="54" parent="131" relname="joint">Стилистическая правка должна быть деликатной и грамотной и проводиться после тщательной проверки текста.</segment>
+		<segment id="55" parent="133" relname="span">Следует обращать внимание и на подрисуночные подписи,</segment>
+		<segment id="56" parent="55" relname="cause">так как в них зачастую содержатся значительные ошибки.</segment>
+		<segment id="57" parent="146" relname="joint">Может быть неправильно обозначено название произведения:</segment>
+		<segment id="58" parent="146" relname="joint">должно указываться общепринятое в искусствоведческой практике.</segment>
+		<segment id="59" parent="131" relname="joint">По словарям, каталогам и современным базам данных следует сверять время создания и место хранения произведения искусства.</segment>
+		<segment id="60" parent="201" relname="span">К примеру, в репринтном издании Вельфлин, Генрих. Основные понятия истории искусств. Проблема эволюции стиля в новом искусстве / Генрих Вельфлин; пер. А. Франковского. - М.: Шевчук В., 2013. - 344 с. - (АНШ^огу)</segment>
+		<segment id="61" parent="202" relname="span">фамилии художников приведены в устаревшей их форме произношения.</segment>
+		<segment id="62" parent="213" relname="contrast">Это было допустимо для перевода 1930-го года,</segment>
+		<segment id="63" parent="182" relname="span">но в новой редакции следовало привести современные написания имен</segment>
+		<segment id="64" parent="63" relname="elaboration">(Хугован дер Гус вместо Фан дер Гус, Вермеер вместо Фермер),</segment>
+		<segment id="65" parent="149" relname="joint">унифицировать наименования,</segment>
+		<segment id="66" parent="149" relname="joint">привести текст в соответствие с современным искусствознанием,</segment>
+		<segment id="67" parent="149" relname="joint">сопроводить разъясняющими комментариями.</segment>
+		<segment id="68" parent="139" relname="background">Аппарат переводных изданий особенно нуждается в адаптации и совершенствовании.</segment>
+		<segment id="69" parent="70" relname="evidence">Как правило, выпуск переводной книги осуществляется с опозданием после выхода в свет оригинала, иногда - со значительным.</segment>
+		<segment id="70" parent="139" relname="span">Поэтому необходим справочный аппарат, дающий возможность корректно вводить издание в современный контекст [3, с. 146].</segment>
+		<segment id="71" parent="72" relname="evidence">Любое иноязычное произведение словесного искусства будет более сложным для восприятия читателем, который был взращен своей родной языковой цивилизацией [8, с. 128].</segment>
+		<segment id="72" parent="142" relname="span">Поэтому в переводном издании очень важен сопроводительный аппарат, сделанный с целью облегчить читателю путь к иноязычной книге.</segment>
+		<segment id="73" parent="215" relname="span">Сопроводительные статьи и примечания являются связующим звеном между зарубежным автором и читателем.</segment>
+		<segment id="74" parent="144" relname="condition">Даже если в оригинальном издании уже существовали элементы аппарата,</segment>
+		<segment id="75" parent="143" relname="joint">их необходимо адаптировать,</segment>
+		<segment id="76" parent="143" relname="joint">проверить все наименования, библиографические ссылки и описания.</segment>
+		<segment id="77" parent="145" relname="evaluation">Подготовка издания должна осуществляться в соответствии с требованиями стандартов, действующих в стране.</segment>
+		<segment id="78" parent="208" relname="attribution">В соответствии с требованиями ГОСТ 7.04-2006 «Издания. Выходные сведения. Общие сведения и правила оформления»,</segment>
+		<segment id="79" parent="154" relname="joint">обязательно следует поместить на титульном листе, его обороте или контртитуле сведения о всех лицах, принимавших участие в создании издания: переводчиках, редакторах, иллюстраторах, составителях, оформителях, авторах сопроводительных статей (как оригинального, так и переводного издания).</segment>
+		<segment id="80" parent="154" relname="joint">Имена лиц приводят с указанием проделанной ими работы, также следует указать язык, с которого выполнен перевод [1].</segment>
+		<segment id="81" parent="173" relname="joint">Благодаря переводной литературе читатель получает возможность шире ознакомиться с творчеством мастеров зарубежного искусства, с собраниями зарубежных музеев и частными коллекциями.</segment>
+		<segment id="82" parent="155" relname="joint">Имена многих зарубежных авторов тоже стали известны в России благодаря переводам,</segment>
+		<segment id="83" parent="172" relname="span">стали доступны их взгляды на искусство.</segment>
+		<segment id="84" parent="83" relname="elaboration">Особенно полезна переводная искусствоведческая литература для студентов и преподавателей художественных учебных заведений.</segment>
+		<segment id="85" parent="206" relname="condition">При работе над искусствоведческим текстом,</segment>
+		<segment id="86" parent="204" relname="joint">тщательно выверяя текст,</segment>
+		<segment id="87" parent="204" relname="joint">исправляя все ошибки перевода,</segment>
+		<segment id="88" parent="205" relname="purpose">редактор обеспечивает высокое качество издания.</segment>
+		<segment id="89" parent="90" relname="preparation">Список литературы:</segment>
+		<segment id="90" relname="antithesis">1\. Стандарты по издательскому делу: сб. док. - 3-е изд., перераб. и доп. / Сост. А.А. Джиго, С.Ю. Калинин. - М.: Экономистъ, 2004. - 623 с. 2\. Степанов В.Г. Редакционная подготовка изданий переводной литературы: конспект лекций / В.Г. Степанов. - М.: МГАП «Мир книги», 1997. -43 с. 3\. Антонова С.Г. Подготовка переводных изданий / С.Г. Антонова // Переводные издания по искусству в отечественной книжной культуре XVIII-XXI вв.: книговедческий анализ. - М.: Агентство «Социальный проект», 2008. - 183 с. 4\. Горошко М.А. Особенности редакторской подготовки переводных изданий (на примере «Мифологики» К. Леви-Строса в 4-х томах) / М.А. Горошко // Вестник МГУП. - М., 2013. - № 8. - С. 109-118. 5\. Ведьманова Е.Е. Англоязычный аутентичный искусствоведческий комментарий как нежесткий тип текста / Е.Е. Ведьманова // Вестник ЧелГУ -2011. - № 3. - С. 20-23. 6\. Дмитриева М.А. Основные характеристики искусствоведческого текста как объекта письменного профессионально ориентированного перевода [Электронный ресурс] / М.А. Дмитриева // Молодежный вестник ИрГТУ: электрон. журнал. - 2012. - № 2. - Режим доступа: http://mvestnik.istu.irk.ru/ ?ш/рш"тк/2011/02. 7\. Книжный рынок России. Состояние, тенденции и перспективы развития [2014 год]: отраслевой доклад [Электронный ресурс] / Под общ.ред. В.В. Григорьева. - М.: Федеральное агентство по печати и массовым ком- муникациям, 2014. - Режим доступа: http://www.fapmc.ru/rospechat/activities/ reports/2014/books-in-russia.html. 8\. Певцова С.В. Особенности редакторской подготовки переводных изданий факсимильного типа / С.В. Певцова // Вестник МГУП. - 2013. - № 8. -С. 126-134.</segment>
+		<segment id="91" relname="antithesis">THE MEANING, USAGE AND TRANSLATION OF ENGLISH «FOOT» IDIOMS INTO TURKISH</segment>
+		<segment id="92" relname="antithesis">© Oktay Chetin1</segment>
+		<segment id="93" relname="antithesis">Osh state university, Kyrgyz Republic, Osh city As a body part foot is one of the most important organs of human being. We stand, walk and continue life by using our feet. This article may be accepted as a short comparative study which deals with the meaning of «foot» between the selected English and Turkish idioms. In addition, the article focuses on the similarities, differences in meaning, images and syntactical complex of both languages. Finally, the article touches upon the translation of English foot idioms into Turkish. Key words: idiom, foot, human body, English, Turkish, comparative, study, language, Similarities, differences in meaning, images, syntactical complex. Idioms occupy a very important place in our life. We usually express our feelings and expectations effectively by using the idioms. In other words, idioms encompass our life from all its aspects. The different situations of our daily life can be better communicated and described by the contribution of the idioms. It means that consciously or unconsciously, we often use them in the different walks of social life. As a natural bridge idioms carry the old traditions of a nation to present day and teach them to new generation with beautiful, attractive, short and effective expression. In addition, idioms are limitless treasure of moral and traditional values. Therefore, it can be said that all nations more or less learn some historical, cultural and traditional principles from the idioms. Hence, idioms may be accepted as important chain of advises for a nation from the ancestors. An idiom may be defined as follows: «idiom is an expression that cannot be readily understood according to the actual meanings of the words in the expression» [Wanda Kelly, Stephanie Bueh- ler, Аmerica Teachers Created Recourses, 2011. Page 36]. 1 Старший преподаватель. </segment>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="5" relname="elaboration"/>
+		<group id="99" type="span" parent="100" relname="sequence"/>
+		<group id="100" type="multinuc" parent="192" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="102" type="span" parent="100" relname="sequence"/>
+		<group id="103" type="multinuc" parent="175" relname="span"/>
+		<group id="107" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="108" type="span" relname="antithesis"/>
+		<group id="109" type="span" parent="112" relname="background"/>
+		<group id="110" type="multinuc" parent="112" relname="span"/>
+		<group id="111" type="span" parent="110" relname="joint"/>
+		<group id="112" type="span" parent="166" relname="span"/>
+		<group id="114" type="multinuc" parent="197" relname="preparation"/>
+		<group id="117" type="span" parent="178" relname="evidence"/>
+		<group id="126" type="multinuc" parent="210" relname="span"/>
+		<group id="128" type="multinuc" relname="antithesis"/>
+		<group id="129" type="span" parent="212" relname="span"/>
+		<group id="131" type="multinuc" parent="203" relname="span"/>
+		<group id="132" type="span" parent="131" relname="joint"/>
+		<group id="133" type="span" parent="132" relname="span"/>
+		<group id="134" type="span" parent="133" relname="elaboration"/>
+		<group id="139" type="span" parent="171" relname="span"/>
+		<group id="142" type="span" parent="215" relname="preparation"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" parent="214" relname="span"/>
+		<group id="146" type="multinuc" parent="134" relname="span"/>
+		<group id="149" type="multinuc" parent="213" relname="contrast"/>
+		<group id="154" type="multinuc" parent="208" relname="span"/>
+		<group id="155" type="multinuc" parent="173" relname="joint"/>
+		<group id="161" type="span" parent="1" relname="attribution"/>
+		<group id="162" type="span" parent="191" relname="motivation"/>
+		<group id="166" type="span" relname="antithesis"/>
+		<group id="171" type="span" relname="antithesis"/>
+		<group id="172" type="span" parent="155" relname="joint"/>
+		<group id="173" type="multinuc" relname="antithesis"/>
+		<group id="174" type="span" parent="103" relname="comparison"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="176" type="span" parent="192" relname="joint"/>
+		<group id="177" type="multinuc" parent="178" relname="span"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="31" relname="elaboration"/>
+		<group id="182" type="span" parent="149" relname="joint"/>
+		<group id="185" type="multinuc" parent="126" relname="joint"/>
+		<group id="186" type="span" parent="185" relname="same-unit"/>
+		<group id="187" type="span" parent="196" relname="span"/>
+		<group id="188" type="span" parent="179" relname="elaboration"/>
+		<group id="189" type="span" parent="190" relname="background"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" relname="antithesis"/>
+		<group id="192" type="multinuc" parent="190" relname="span"/>
+		<group id="196" type="span" parent="129" relname="elaboration"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" relname="antithesis"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" relname="antithesis"/>
+		<group id="201" type="span" parent="203" relname="elaboration"/>
+		<group id="202" type="span" parent="60" relname="elaboration"/>
+		<group id="203" type="span" parent="199" relname="span"/>
+		<group id="204" type="multinuc" parent="206" relname="span"/>
+		<group id="205" type="span" parent="207" relname="span"/>
+		<group id="206" type="span" parent="205" relname="span"/>
+		<group id="207" type="span" parent="173" relname="joint"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" relname="antithesis"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" relname="antithesis"/>
+		<group id="212" type="span" parent="128" relname="comparison"/>
+		<group id="213" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="214" type="span" parent="73" relname="elaboration"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" relname="antithesis"/>
+  </body>
+</rst>

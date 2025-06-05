@@ -1,0 +1,202 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://veronikahlebova.ru/chto-budet-s-obshhestvom-esli-my-ne-budem-perezhivat-vinu/</segment>
+		<segment id="2" >##### Что будет с обществом, если мы не будем переживать вину</segment>
+		<segment id="3" parent="4" relname="purpose">##### Для начала</segment>
+		<segment id="4" parent="166" relname="span">опишу распространенный страх, и даже ужас.</segment>
+		<segment id="5" parent="93" relname="span">##### Исчезает регулятор человеческих отношений.</segment>
+		<segment id="6" parent="7" relname="condition">Если человек, совершивший ошибку, преступление, правонарушение, не будет чувствовать вину,</segment>
+		<segment id="7" parent="94" relname="span">то будет продолжать совершать ошибки, преступления и правонарушения.</segment>
+		<segment id="8" parent="95" relname="joint">Люди будут думать только о своих удовольствиях,</segment>
+		<segment id="9" parent="95" relname="joint">и перестанут заботиться о других.</segment>
+		<segment id="10" parent="97" relname="span">Наступает апокалипсис.</segment>
+		<segment id="11" parent="155" relname="solutionhood">##### Откуда такие ужасы?.</segment>
+		<segment id="12" parent="155" relname="span">От того, что мы не знали другого опыта.</segment>
+		<segment id="13" parent="99" relname="joint">Мы мало видели людей,</segment>
+		<segment id="14" parent="99" relname="joint">или вообще не видели, которые осознавали, что такое ответственность.</segment>
+		<segment id="15" parent="100" relname="joint">Наши родители не признавали свои чувства, свои состояния,</segment>
+		<segment id="16" parent="100" relname="joint">и перекладывали ответственность на детей.</segment>
+		<segment id="17" parent="101" relname="restatement">То есть обвиняли.</segment>
+		<segment id="18" parent="102" relname="comparison">Такие же нормы приняты в школе, и в обществе вообще.</segment>
+		<segment id="19" parent="103" relname="joint">##### Если мы не видели осознанного отношения к себе,</segment>
+		<segment id="20" parent="103" relname="joint">и не видели, как старшие берут свою ответственность за свой вклад в отношения, или в свою работу,</segment>
+		<segment id="21" parent="167" relname="span">то мы не можем опереться на тот опыт,</segment>
+		<segment id="22" parent="21" relname="condition">которого не было.</segment>
+		<segment id="23" parent="105" relname="span">##### Преступления и правонарушения — это отдельная тема.</segment>
+		<segment id="24" parent="23" relname="evidence">За них предусмотрена ответственность по закону.</segment>
+		<segment id="25" parent="106" relname="span">##### А вот сфера человеческих отношений регулируется именно виной.</segment>
+		<segment id="26" parent="25" relname="elaboration">(Еще страхом и стыдом).</segment>
+		<segment id="27" parent="110" relname="span">##### Представьте себе, в своем детстве, нескольких человек, которые умели бы это делать.</segment>
+		<segment id="28" parent="29" relname="attribution">Могли бы говорить,</segment>
+		<segment id="29" parent="173" relname="span">что вот сейчас им нужно время побыть с собой,</segment>
+		<segment id="30" parent="109" relname="contrast">а не набрасывались бы на вас с упреками, что вы делаете их жизнь невыносимой.</segment>
+		<segment id="31" parent="111" relname="joint">##### Или учителя осознавали бы ваши ограничения (это тоже ответственность),</segment>
+		<segment id="32" parent="111" relname="joint">и не требовали бы от вас больше, чем вы можете.</segment>
+		<segment id="33" parent="113" relname="span">##### И другие люди, которые больше увлечены своей жизнью, чем вашей, не оценивали бы вас, насколько вы хороши или плохи.</segment>
+		<segment id="34" parent="112" relname="joint">##### При этом вас бы не обвиняли,</segment>
+		<segment id="35" parent="112" relname="joint">или не создавались бы такие ситуации, в которых вы чувствовали себя плохим.</segment>
+		<segment id="36" parent="115" relname="span">Что было бы?</segment>
+		<segment id="37" parent="116" relname="joint">##### Вы чувствовали бы себя хорошим,</segment>
+		<segment id="38" parent="116" relname="joint">что в вас верят,</segment>
+		<segment id="39" parent="116" relname="joint">и хотели бы проявиться в этом мире.</segment>
+		<segment id="40" parent="118" relname="span">И еще перенимали бы этот способ ответственности:</segment>
+		<segment id="41" parent="117" relname="joint">осознавали бы свои ограничения,</segment>
+		<segment id="42" parent="117" relname="joint">и не перекладывали бы за них ответственность на других людей и обстоятельства.</segment>
+		<segment id="43" parent="157" relname="condition">##### И все это без мучительных переживаний, без ощущения своей плохости, с которой еще нужно как-то справиться.</segment>
+		<segment id="44" parent="174" relname="span">##### Когда ребенок совершает ошибку</segment>
+		<segment id="45" parent="44" relname="evaluation">(даже ошибкой невозможно назвать временные ограничения или неопытность),</segment>
+		<segment id="46" parent="121" relname="span">это не значит, что он всегда будет делать такие ошибки.</segment>
+		<segment id="47" parent="122" relname="joint">##### Если он забыл про ваше поручение,</segment>
+		<segment id="48" parent="122" relname="joint">или получил двойку за урок,</segment>
+		<segment id="49" parent="122" relname="joint">или по неопытности кого-то подвел</segment>
+		<segment id="50" parent="123" relname="span">— это не навсегда.</segment>
+		<segment id="51" parent="127" relname="span">Это один эпизод,</segment>
+		<segment id="52" parent="126" relname="contrast">который он (ребенок) может взять в опыт,</segment>
+		<segment id="53" parent="125" relname="span">но может начать сопротивляться,</segment>
+		<segment id="54" parent="53" relname="condition">если его обвиняют.</segment>
+		<segment id="55" parent="130" relname="span">##### Последствия наступают:</segment>
+		<segment id="56" parent="57" relname="cause">он видит расстроенных родителей, или товарищей,</segment>
+		<segment id="57" parent="129" relname="span">и сам расстраивается.</segment>
+		<segment id="58" parent="168" relname="span">Напротив, ему больше всего нужна поддержка</segment>
+		<segment id="59" parent="58" relname="condition">в случае ошибки,</segment>
+		<segment id="60" parent="168" relname="purpose">чтобы научиться.</segment>
+		<segment id="61" parent="132" relname="joint">Усвоить этот опыт,</segment>
+		<segment id="62" parent="132" relname="joint">уложить причинно-следственные связи.</segment>
+		<segment id="63" parent="64" relname="condition">##### Если его начинают обвинять,</segment>
+		<segment id="64" parent="135" relname="span">он просто чувствует себя плохим,</segment>
+		<segment id="65" parent="136" relname="span">и его защиты начинают формироваться таким образом,</segment>
+		<segment id="66" parent="65" relname="purpose">чтобы больше не переживать вину.</segment>
+		<segment id="67" parent="138" relname="span">Улавливаете разницу?</segment>
+		<segment id="68" parent="139" relname="contrast">Не на то, чтобы усвоить опыт,</segment>
+		<segment id="69" parent="139" relname="contrast">а на то, чтобы избегать обвинений.</segment>
+		<segment id="70" parent="140" relname="joint">##### Он учится врать,</segment>
+		<segment id="71" parent="140" relname="joint">прятать,</segment>
+		<segment id="72" parent="140" relname="joint">учится подстраиваться под сильных, обладающих властью,</segment>
+		<segment id="73" parent="140" relname="joint">учится не чувствовать…</segment>
+		<segment id="74" parent="141" relname="span">А, будучи взрослым, такой человек не может признавать свою ответственность,</segment>
+		<segment id="75" parent="74" relname="cause">потому что это означает подставить себя под удар обвинений.</segment>
+		<segment id="76" parent="142" relname="span">А мы помним, что именно обвинений мы хотим избежать,</segment>
+		<segment id="77" parent="76" relname="condition">если выращены на вине.</segment>
+		<segment id="78" parent="145" relname="joint">##### Поэтому брать ответственность легко только с теми людьми, которые не нападают.</segment>
+		<segment id="79" parent="145" relname="joint">И чувствуют ценность ответственности.</segment>
+		<segment id="80" parent="146" relname="evidence">Это дети, это партнеры, которые тоже умеют брать ответственность.</segment>
+		<segment id="81" parent="82" relname="condition">##### Если, к примеру, я попадаю в обвиняющую среду,</segment>
+		<segment id="82" parent="148" relname="span">я не буду признавать свою ответственность,</segment>
+		<segment id="83" parent="149" relname="joint">потому что она будет истолкована как вина,</segment>
+		<segment id="84" parent="149" relname="joint">и я окажусь козлом отпущения.</segment>
+		<segment id="85" parent="86" relname="condition">Однако, если моя ответственность воспринимается как достаточная мера того, что я внесла в контакт,</segment>
+		<segment id="86" parent="151" relname="span">я, несомненно, буду опираться именно на нее. И с самой собой, и в отношениях.</segment>
+		<segment id="87" parent="153" relname="span">##### И я имею личный, довольно значительный опыт отношений со своими детьми, партнерами, клиентами,</segment>
+		<segment id="88" parent="87" relname="evidence">который мне показывает, что ответственность — это более зрелый регулятор человеческих отношений, нежели вина.</segment>
+		<segment id="89" parent="154" relname="attribution">##### Я убеждена,</segment>
+		<segment id="90" parent="154" relname="joint">что вина мешает отношениям,</segment>
+		<segment id="91" parent="154" relname="joint">вносит деструктивный вклад,</segment>
+		<segment id="92" parent="154" relname="joint">и совершенно не способствует выполнению тех задач, которые на нее возлагают.</segment>
+		<group id="93" type="span" parent="98" relname="span"/>
+		<group id="94" type="span" parent="96" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="96" type="multinuc" parent="10" relname="cause"/>
+		<group id="97" type="span" parent="5" relname="elaboration"/>
+		<group id="98" type="span" />
+		<group id="99" type="multinuc" parent="169" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="restatement"/>
+		<group id="101" type="multinuc" parent="102" relname="comparison"/>
+		<group id="102" type="multinuc" parent="169" relname="joint"/>
+		<group id="103" type="multinuc" parent="167" relname="cause"/>
+		<group id="104" type="span" parent="107" relname="joint"/>
+		<group id="105" type="span" parent="108" relname="contrast"/>
+		<group id="106" type="span" parent="108" relname="contrast"/>
+		<group id="107" type="multinuc" />
+		<group id="108" type="multinuc" />
+		<group id="109" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="110" type="span" parent="114" relname="joint"/>
+		<group id="111" type="multinuc" parent="114" relname="joint"/>
+		<group id="112" type="multinuc" parent="33" relname="condition"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="114" type="multinuc" parent="36" relname="preparation"/>
+		<group id="115" type="span" parent="158" relname="solutionhood"/>
+		<group id="116" type="multinuc" parent="119" relname="joint"/>
+		<group id="117" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="119" type="multinuc" parent="157" relname="span"/>
+		<group id="121" type="span" parent="124" relname="preparation"/>
+		<group id="122" type="multinuc" parent="50" relname="condition"/>
+		<group id="123" type="span" parent="128" relname="span"/>
+		<group id="124" type="multinuc" parent="161" relname="span"/>
+		<group id="125" type="span" parent="126" relname="contrast"/>
+		<group id="126" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="127" type="span" parent="123" relname="elaboration"/>
+		<group id="128" type="span" parent="124" relname="joint"/>
+		<group id="129" type="span" parent="55" relname="elaboration"/>
+		<group id="130" type="span" parent="134" relname="contrast"/>
+		<group id="131" type="span" parent="133" relname="joint"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="133" type="multinuc" parent="134" relname="contrast"/>
+		<group id="134" type="multinuc" parent="124" relname="joint"/>
+		<group id="135" type="span" parent="136" relname="cause"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="67" relname="preparation"/>
+		<group id="138" type="span" parent="163" relname="solutionhood"/>
+		<group id="139" type="multinuc" parent="163" relname="span"/>
+		<group id="140" type="multinuc" parent="143" relname="cause"/>
+		<group id="141" type="span" parent="143" relname="span"/>
+		<group id="142" type="span" parent="141" relname="background"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="147" relname="cause"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="165" relname="span"/>
+		<group id="148" type="span" parent="150" relname="span"/>
+		<group id="149" type="multinuc" parent="148" relname="cause"/>
+		<group id="150" type="span" parent="152" relname="contrast"/>
+		<group id="151" type="span" parent="152" relname="contrast"/>
+		<group id="152" type="multinuc" parent="171" relname="solutionhood"/>
+		<group id="153" type="span" parent="170" relname="joint"/>
+		<group id="154" type="multinuc" parent="176" relname="span"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="156" type="span" parent="107" relname="joint"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" />
+		<group id="161" type="span" />
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="175" relname="span"/>
+		<group id="165" type="span" parent="164" relname="elaboration"/>
+		<group id="166" type="span" parent="93" relname="preparation"/>
+		<group id="167" type="span" parent="104" relname="span"/>
+		<group id="168" type="span" parent="131" relname="span"/>
+		<group id="169" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" />
+		<group id="173" type="span" parent="109" relname="contrast"/>
+		<group id="174" type="span" parent="46" relname="condition"/>
+		<group id="175" type="span" />
+		<group id="176" type="span" parent="170" relname="joint"/>
+	</body>
+</rst>

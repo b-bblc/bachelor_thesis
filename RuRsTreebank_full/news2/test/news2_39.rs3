@@ -1,0 +1,394 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="206" relname="span">##### Вероятность отмены виз между Евросоюзом и Турцией близка к нулю</segment>
+		<segment id="2" parent="1" relname="attribution">— эксперты</segment>
+		<segment id="3" parent="203" relname="span">##### Европейский союз готов ускорить переговоры о послаблении визового режима с Турцией</segment>
+		<segment id="4" parent="3" relname="condition">в обмен на помощь в решении миграционного кризиса.</segment>
+		<segment id="5" parent="204" relname="span">Об этом заявил глава Еврокомиссии Жан-Клод Юнкер (Jean-Claude Juncker)</segment>
+		<segment id="6" parent="202" relname="span">по итогам очередного саммита глав государств и правительств стран ЕС,</segment>
+		<segment id="7" parent="6" relname="elaboration">завершившегося в Брюсселе 15 октября 2015 года.</segment>
+		<segment id="8" parent="208" relname="concession">##### "Мы договорились с турецкими партнерами, что процесс визовой либерализации будет ускорен.</segment>
+		<segment id="9" parent="361" relname="span">Это не означает, что мы отступим от базовых критериев,</segment>
+		<segment id="10" parent="9" relname="elaboration">которые являются правилами.</segment>
+		<segment id="11" parent="207" relname="span">Не будет других критериев для Турции,</segment>
+		<segment id="12" parent="11" relname="elaboration">мы будем оценивать достигнутый прогресс весной 2016 года",</segment>
+		<segment id="13" parent="209" relname="attribution">- сказал он в беседе с журналистами.</segment>
+		<segment id="14" parent="210" relname="attribution">##### В свою очередь канцлер ФРГ Ангела Меркель (Angela Merkel) заявила,</segment>
+		<segment id="15" parent="210" relname="span">что ЕС намерен выделить около 3 млрд. евро</segment>
+		<segment id="16" parent="15" relname="purpose">на помощь Турции в сдерживании потока сирийских беженцев в Европу.</segment>
+		<segment id="17" parent="211" relname="joint">##### "Турция взяла на себя большую ответственность за прием беженцев.</segment>
+		<segment id="18" parent="211" relname="joint">Мы знаем, что она не получала достаточной финансовой помощи от ЕС.</segment>
+		<segment id="19" parent="211" relname="joint">Мы готовы разделить с Турцией это бремя",</segment>
+		<segment id="20" parent="211" relname="attribution">- сказала немецкий политик.</segment>
+		<segment id="21" parent="365" relname="same-unit">##### Между тем,</segment>
+		<segment id="22" parent="23" relname="attribution">по словам турецкого премьер-министра Ахмета Давутоглу (Ahmet Davutoglu),</segment>
+		<segment id="23" parent="364" relname="span">Анкара рассматривает предложение Евросоюза о предоставлении этой суммы как приемлемое лишь на начальном уровне.</segment>
+		<segment id="24" parent="213" relname="contrast">##### "Сейчас идет речь о 3 млрд. евро.</segment>
+		<segment id="25" parent="213" relname="contrast">Но мы говорим о такой сумме лишь на первом этапе.</segment>
+		<segment id="26" parent="217" relname="span">Мы не хотим ее фиксировать,</segment>
+		<segment id="27" parent="214" relname="joint">поскольку потребности могут увеличиваться,</segment>
+		<segment id="28" parent="214" relname="joint">и они должны оцениваться ежегодно",</segment>
+		<segment id="29" parent="218" relname="attribution">― заявил он.</segment>
+		<segment id="30" parent="31" relname="attribution">##### Вместе с тем Анкара надеется,</segment>
+		<segment id="31" parent="366" relname="span">что турецкие граждане смогут посещать государства Евросоюза без виз уже будущим летом.</segment>
+		<segment id="32" parent="367" relname="span">##### "Мы рассчитываем, что договоры о безвизовых поездках граждан Турции в страны Шенгенской зоны и соглашение о реадмиссии одновременно вступят в силу в июле 2016 года",</segment>
+		<segment id="33" parent="34" relname="attribution">- заявил Ахмет Давутоглу,</segment>
+		<segment id="34" parent="352" relname="span">добавив, что Турция также планирует занять место на "семейной фотографии ЕС".</segment>
+		<segment id="35" parent="36" relname="attribution">##### Комментируя сложившуюся ситуацию, глава берлинского офиса Европейского совета по международным отношениям Йозеф Яннинг (Josef Janning) отметил,</segment>
+		<segment id="36" parent="234" relname="span">что шансы на отмену визового режима между двумя сторонами "довольно туманны".</segment>
+		<segment id="37" parent="368" relname="joint">##### "Для этого Турция должна будет поставить под жесткий контроль поток беженцев</segment>
+		<segment id="38" parent="368" relname="joint">и твердо придерживаться этого курса.</segment>
+		<segment id="39" parent="227" relname="joint">Кроме того, регулироваться должен и приток мигрантов из других стран.</segment>
+		<segment id="40" parent="229" relname="span">При этом роль турецкой политики может быть в значительной степени ослаблена,</segment>
+		<segment id="41" parent="369" relname="span">если беженцы будут использовать иные маршруты,</segment>
+		<segment id="42" parent="41" relname="purpose">чтобы попасть в Европу.</segment>
+		<segment id="43" parent="230" relname="evaluation">Скорее всего, [к 2016 году] могут быть достигнуты договоренности о послаблении визового режима для представителей ряда профессий",</segment>
+		<segment id="44" parent="231" relname="attribution">― сказал он в интервью ИА "PenzaNews".</segment>
+		<segment id="45" parent="370" relname="same-unit">##### Между тем,</segment>
+		<segment id="46" parent="236" relname="attribution">по словам аналитика,</segment>
+		<segment id="47" parent="235" relname="attribution">Евросоюз недвусмысленно дал понять,</segment>
+		<segment id="48" parent="235" relname="span">что готов рассматривать довольно обширный комплекс мер</segment>
+		<segment id="49" parent="48" relname="purpose">в обмен на улучшение контроля миграционных потоков на турецкой границе.</segment>
+		<segment id="50" parent="246" relname="span">##### "Частью этих мероприятий стала финансовая помощь Анкаре</segment>
+		<segment id="51" parent="50" relname="purpose">в борьбе с бременем беженцев.</segment>
+		<segment id="52" parent="238" relname="joint">Европа хотела бы, чтобы Турция открыла для них свой рынок труда</segment>
+		<segment id="53" parent="237" relname="span">и продумала программу натурализации</segment>
+		<segment id="54" parent="53" relname="purpose">с целью получения ими турецкого гражданства.</segment>
+		<segment id="55" parent="242" relname="joint">Внутри государства оба эти пункта не поддерживаются.</segment>
+		<segment id="56" parent="239" relname="joint">Между тем утверждение собственного статуса,</segment>
+		<segment id="57" parent="239" relname="joint">а также получение финансовой помощи</segment>
+		<segment id="58" parent="240" relname="purpose">― популярные меры, которые заставят правительство страны двигаться в данном направлении",</segment>
+		<segment id="59" parent="247" relname="attribution">― пояснил собеседник агентства.</segment>
+		<segment id="60" parent="61" relname="attribution">##### Он добавил,</segment>
+		<segment id="61" parent="252" relname="span">что решение визового вопроса займет гораздо более длительный срок.</segment>
+		<segment id="62" parent="63" relname="effect">##### "Поскольку это касается Шенгенской зоны в целом,</segment>
+		<segment id="63" parent="248" relname="span">изменение визового режима должно быть одобрено всеми странами, входящими в ее состав.</segment>
+		<segment id="64" parent="249" relname="contrast">Пока Евросоюз сигнализировал о готовности двигаться по данному вопросу лишь в рамках действующей визовой политики",</segment>
+		<segment id="65" parent="250" relname="attribution">― уточнил Йозеф Яннинг.</segment>
+		<segment id="66" parent="253" relname="attribution">##### По его мнению,</segment>
+		<segment id="67" parent="253" relname="span">ситуация осложняется тем,</segment>
+		<segment id="68" parent="67" relname="cause">что Анкара ожидает от Европы большего, чем просто равноценный "обмен" по беженцам.</segment>
+		<segment id="69" parent="256" relname="joint">##### "Реджеп Тайип Эрдоган (Recep Tayyip Erdogan) хочет добиться того, чтобы Турция играла важную роль в любых обсуждениях и переговорах по войне в Сирии.</segment>
+		<segment id="70" parent="255" relname="span">Кроме того, страна стремится получить признание Европы и поддержку в качестве региональной державы</segment>
+		<segment id="71" parent="254" relname="span">в возникающей борьбе с Ираном и Саудовской Аравией</segment>
+		<segment id="72" parent="71" relname="purpose">за влияние на Ближнем Востоке",</segment>
+		<segment id="73" parent="257" relname="attribution">― отметил эксперт.</segment>
+		<segment id="74" parent="259" relname="attribution">##### В свою очередь политолог, востоковед, экономист, президент Института Ближнего Востока Евгений Сатановский (Yevgeny Satanovsky) высказал мысль о том,</segment>
+		<segment id="75" parent="258" relname="contrast">что главной задачей турецкого правительства является не открытие границ,</segment>
+		<segment id="76" parent="258" relname="contrast">а получение финансовой помощи.</segment>
+		<segment id="77" parent="260" relname="span">##### "Речь не об отмене виз,</segment>
+		<segment id="78" parent="77" relname="cause">что крайне маловероятно с учетом текущей ситуации на Ближнем Востоке.</segment>
+		<segment id="79" parent="262" relname="span">Анкаре нужно выбить из Европы деньги под беженцев,</segment>
+		<segment id="80" parent="79" relname="elaboration">шантажируя ими ЕС,</segment>
+		<segment id="81" parent="263" relname="evaluation">― поток мигрантов через Грецию организован Турцией",</segment>
+		<segment id="82" parent="264" relname="attribution">― сказал аналитик.</segment>
+		<segment id="83" parent="373" relname="same-unit">##### Однако,</segment>
+		<segment id="84" parent="85" relname="attribution">по его словам,</segment>
+		<segment id="85" parent="372" relname="span">на практике это ни к чему не приведет.</segment>
+		<segment id="86" parent="265" relname="joint">##### "Никакого ускорения отмены виз с Евросоюзом у Турции не будет.</segment>
+		<segment id="87" parent="265" relname="joint">Хотеть можно чего угодно.</segment>
+		<segment id="88" parent="265" relname="joint">Вероятность близка к нулю",</segment>
+		<segment id="89" parent="266" relname="attribution">― подчеркнул политолог.</segment>
+		<segment id="90" parent="91" relname="attribution">##### Более того, на его взгляд,</segment>
+		<segment id="91" parent="270" relname="span">перспективы Анкары в вопросе вступления в Евросоюз также невелики.</segment>
+		<segment id="92" parent="356" relname="sequence">##### "После недавнего визита Реджепа Тайипа Эрдогана в Брюссель</segment>
+		<segment id="93" parent="94" relname="attribution">Ангела Меркель в очередной раз сказала,</segment>
+		<segment id="94" parent="269" relname="span">что не видит Турцию членом ЕС.</segment>
+		<segment id="95" parent="357" relname="evaluation">Вопрос де-факто закрыт надолго, если не навсегда",</segment>
+		<segment id="96" parent="358" relname="attribution">― отметил Евгений Сатановский.</segment>
+		<segment id="97" parent="98" relname="attribution">##### По мнению научного сотрудника Аналитического центра МГИМО МИД РФ, адвоката, эксперта Российского совета по международным делам Шарбатулло Содикова (Sharbatullo Sodikov),</segment>
+		<segment id="98" parent="374" relname="span">вхождение в Евросоюз для Турции является не долгосрочной стратегией или дипломатической игрой, а политическим выпадом антироссийского характера.</segment>
+		<segment id="99" parent="273" relname="cause">##### "Массированная борьба против терроризма на Ближнем Востоке послужила началом тому,</segment>
+		<segment id="100" parent="273" relname="joint">что президент Турции открыл новое дыхание политике двойных стандартов в стране</segment>
+		<segment id="101" parent="273" relname="joint">и захотел поблажек со стороны Евросоюза.</segment>
+		<segment id="102" parent="103" relname="purpose">Так, как бы в обмен на строительство лагерей для беженцев с территорий, занятых "Исламским государством" (ИГ),</segment>
+		<segment id="103" parent="278" relname="span">он не против безвизового режима со странами ЕС.</segment>
+		<segment id="104" parent="376" relname="span">Данное положение новейшей политики Турции, скорее всего,</segment>
+		<segment id="105" parent="104" relname="cause">своими корнями уходит в интересы раздутой турецкой бюрократии.</segment>
+		<segment id="106" parent="275" relname="joint">Необыкновенное растяжение "пирамиды власти"</segment>
+		<segment id="107" parent="275" relname="joint">― вместе с потерей российского рынка для стран ЕС</segment>
+		<segment id="108" parent="276" relname="span">― есть рождение нового политико-дипломатического контакта Турции и Евросоюза,</segment>
+		<segment id="109" parent="108" relname="elaboration">связанного с проблемой членства страны в ЕС",</segment>
+		<segment id="110" parent="375" relname="attribution">― сказал Шарбатулло Содиков.</segment>
+		<segment id="111" parent="377" relname="same-unit">##### При этом,</segment>
+		<segment id="112" parent="287" relname="attribution">по его словам,</segment>
+		<segment id="113" parent="286" relname="span">тесные экономические связи Турции с Россией,</segment>
+		<segment id="114" parent="285" relname="span">против которой первая выступила</segment>
+		<segment id="115" parent="114" relname="background">после начала точечных ударов ВВС РФ в Сирии по военным объектам ИГ,</segment>
+		<segment id="116" parent="287" relname="same-unit">будут непростительны для Евросоюза.</segment>
+		<segment id="117" parent="118" relname="attribution">##### Тем не менее, комментируя заявление премьер-министра Турции о возможной отмене виз с ЕС в 2016 году, эксперт подчеркнул,</segment>
+		<segment id="118" parent="353" relname="span">что такое развитие событий маловероятно.</segment>
+		<segment id="119" parent="379" relname="concession">##### "Переговоры продолжаются,</segment>
+		<segment id="120" parent="121" relname="attribution">но я убежден,</segment>
+		<segment id="121" parent="379" relname="span">что в ближайшие пять лет перейти к безвизовому режиму с Европейским союзом Турции не удастся.</segment>
+		<segment id="122" parent="289" relname="span">Слова Ахмета Давутоглу ― всего лишь нереалистичное обещание перед выборами,</segment>
+		<segment id="123" parent="122" relname="elaboration">похожее на сказки Шехерезады",</segment>
+		<segment id="124" parent="381" relname="attribution">― отметил Шарбатулло Содиков.</segment>
+		<segment id="125" parent="126" relname="attribution">##### Между тем журналист, политолог, декан факультета телевидения МГУ имени М.В. Ломоносова Виталий Третьяков (Vitaly Tretyakov) предположил,</segment>
+		<segment id="126" parent="297" relname="span">что Турция вряд ли будет готова увеличить число лагерей для беженцев из стран Ближнего Востока и Африки.</segment>
+		<segment id="127" parent="386" relname="contrast">##### "Не верю, что Турция готова будет разместить у себя всех или большинство тех, кто пытается бежать в ЕС.</segment>
+		<segment id="128" parent="129" relname="condition">А если это произойдет,</segment>
+		<segment id="129" parent="292" relname="span">то в любой момент из этих лагерей людей можно будет выпустить по направлению той же Европы.</segment>
+		<segment id="130" parent="385" relname="span">То есть Анкара приобретает в таком случае гигантский рычаг давления на Брюссель",</segment>
+		<segment id="131" parent="386" relname="attribution">― пояснил он.</segment>
+		<segment id="132" parent="299" relname="same-unit">##### При этом вероятность отмены визового режима между Турцией и Евросоюзом в обозримом будущем,</segment>
+		<segment id="133" parent="134" relname="attribution">по мнению политолога,</segment>
+		<segment id="134" parent="387" relname="span">практически равна нулю.</segment>
+		<segment id="135" parent="300" relname="joint">##### "В Европе и так много турок.</segment>
+		<segment id="136" parent="300" relname="joint">Думаю, что большинство немцев не поймут Ангелу Меркель",</segment>
+		<segment id="137" parent="300" relname="attribution">― сказал эксперт.</segment>
+		<segment id="138" parent="388" relname="same-unit">Кроме того,</segment>
+		<segment id="139" parent="140" relname="attribution">по его мнению,</segment>
+		<segment id="140" parent="306" relname="span">развитие ситуации будет зависеть</segment>
+		<segment id="141" parent="304" relname="joint">от того, какое правительство в 2016 году будет стоять во главе Турции,</segment>
+		<segment id="142" parent="304" relname="joint">а также от того, как пойдут дела у действующего канцлера ФРГ.</segment>
+		<segment id="143" parent="307" relname="preparation">##### "Шансы вступления Турции в Европейский союз минимальны.</segment>
+		<segment id="144" parent="307" relname="joint">Во-первых, это решение наверняка заблокируют несколько стран.</segment>
+		<segment id="145" parent="307" relname="joint">Во-вторых, ЕС и так уже не может переварить всех, кого в себя вобрал.</segment>
+		<segment id="146" parent="309" relname="span">В-третьих, в ближайшие годы он станет рассыпаться</segment>
+		<segment id="147" parent="146" relname="elaboration">― из него начнут уходить некоторые страны.</segment>
+		<segment id="148" parent="308" relname="span">И тут уж точно не до нового расширения,</segment>
+		<segment id="149" parent="148" relname="elaboration">да еще такого проблемного, как в случае с Турцией",</segment>
+		<segment id="150" parent="311" relname="attribution">― отметил Виталий Третьяков.</segment>
+		<segment id="151" parent="314" relname="attribution">##### В свою очередь эксперт Международного института стратегических исследований в Турции Фатьма Йылмаз Элмас (Fatma Yılmaz Elmas) напомнила,</segment>
+		<segment id="152" parent="314" relname="span">что лидеры Евросоюза и Турции уже согласовали план действий,</segment>
+		<segment id="153" parent="313" relname="span">призванный усилить сотрудничество,</segment>
+		<segment id="154" parent="153" relname="purpose">направленное на ограничение потока мигрантов между двумя странами.</segment>
+		<segment id="155" parent="316" relname="joint">##### "План основывается на диалоге о послаблении визового режима</segment>
+		<segment id="156" parent="315" relname="span">и обязательствах Евросоюза</segment>
+		<segment id="157" parent="156" relname="purpose">по дальнейшему финансированию инициатив Анкары.</segment>
+		<segment id="158" parent="322" relname="span">В сущности, данная материальная поддержка представляется платой</segment>
+		<segment id="159" parent="158" relname="purpose">в обмен на обязательства Турции не допустить беженцев к европейским границам.</segment>
+		<segment id="160" parent="323" relname="span">Таким образом, лидеры ЕС очень заинтересованы в этом сотрудничестве в особенности</segment>
+		<segment id="161" parent="317" relname="comparison">потому, что это политически и экономически дешевле,</segment>
+		<segment id="162" parent="317" relname="comparison">чем решать проблему у себя дома.</segment>
+		<segment id="163" parent="324" relname="span">Ангела Меркель вынуждена была отказаться от своей "политики гостеприимства" для беженцев</segment>
+		<segment id="164" parent="319" relname="joint">после того, как ей пришлось столкнуться с жесткой критикой</segment>
+		<segment id="165" parent="319" relname="joint">и ожиданием наплыва мигрантов к концу 2015 года",</segment>
+		<segment id="166" parent="326" relname="attribution">― сказала аналитик.</segment>
+		<segment id="167" parent="329" relname="attribution">##### Однако, на ее взгляд,</segment>
+		<segment id="168" parent="327" relname="span">политика Евросоюза по беженцам,</segment>
+		<segment id="169" parent="168" relname="elaboration">ориентированная на контроль,</segment>
+		<segment id="170" parent="328" relname="same-unit">будет оказывать негативное влияние на нормы и ценности, положенные в основу объединения с момента его создания.</segment>
+		<segment id="171" parent="330" relname="span">##### "Только прямое проецирование европейских ценностей и идеалов на управление миграционным кризисом способно положительно повлиять на роль ЕС в мировом масштабе",</segment>
+		<segment id="172" parent="171" relname="attribution">―подчеркнула эксперт.</segment>
+		<segment id="173" parent="174" relname="attribution">##### Фатьма Йылмаз Элмас добавила также,</segment>
+		<segment id="174" parent="331" relname="span">что безвизовый режим между сторонами не будет достигнут в краткосрочной перспективе.</segment>
+		<segment id="175" parent="333" relname="joint">##### "Ни принятие совместного плана действий, ни слова Ангелы Меркель не могут привнести ясность относительно точных сроков отмены виз.</segment>
+		<segment id="176" parent="333" relname="joint">Лидеры обсуждают ускорение переговоров по данному вопросу, а также преграды, которые предстоит преодолеть.</segment>
+		<segment id="177" parent="334" relname="span">Кроме того, внутри европейского общества следует ожидать жесткой дискуссии по вопросу открытия границ для Турции,</segment>
+		<segment id="178" parent="177" relname="elaboration">которая предоставила временное убежище около 2,5 млн. сирийцев.</segment>
+		<segment id="179" parent="333" relname="joint">Между тем греческий Кипр уже дал понять, что будет блокировать такой шаг",</segment>
+		<segment id="180" parent="335" relname="attribution">― пояснила эксперт.</segment>
+		<segment id="181" parent="394" relname="same-unit">##### При этом,</segment>
+		<segment id="182" parent="393" relname="attribution">по ее словам,</segment>
+		<segment id="183" parent="184" relname="concession">сам процесс по вхождению Турции в ЕС зашел в тупик,</segment>
+		<segment id="184" parent="393" relname="span">но перекладывать всю ответственность только на Анкару неправильно.</segment>
+		<segment id="185" parent="395" relname="cause">##### "Ввиду неясной политической и экономической обстановки</segment>
+		<segment id="186" parent="395" relname="span">Европейский союз долгое время не мог посылать Турции правильные сигналы,</segment>
+		<segment id="187" parent="186" relname="elaboration">которые способствовали бы продвижению по данному вопросу.</segment>
+		<segment id="188" parent="338" relname="span">Недавнее соглашение о сотрудничестве</segment>
+		<segment id="189" parent="337" relname="span">в условиях кризиса,</segment>
+		<segment id="190" parent="189" relname="effect">вызванного наплывам беженцев,</segment>
+		<segment id="191" parent="339" relname="same-unit">может показаться позитивным,</segment>
+		<segment id="192" parent="341" relname="contrast">но также не исключает коварную перспективу изменения самой основы европейско-турецких отношений и статуса Турции с кандидата в члены ЕС на буферное государство",</segment>
+		<segment id="193" parent="345" relname="attribution">― резюмировала Фатьма Йылмаз Элмас.</segment>
+		<segment id="194" parent="346" relname="sequence">##### Соглашение об ассоциации между ЕС и Турцией было подписано в 1963 году.</segment>
+		<segment id="195" parent="346" relname="sequence">Заявку на членство в ЕС Анкара подала в 1987 году.</segment>
+		<segment id="196" parent="346" relname="sequence">Переговоры о вступлении начались в 2005 году.</segment>
+		<segment id="197" parent="350" relname="span">##### С тех пор стороны согласовали 14 из 35 технических пунктов,</segment>
+		<segment id="198" parent="347" relname="span">которые должна выполнить Турция,</segment>
+		<segment id="199" parent="198" relname="purpose">чтобы достичь необходимых для членства в ЕС стандартов.</segment>
+		<segment id="200" parent="348" relname="comparison">17 пунктов остаются заблокированными,</segment>
+		<segment id="201" parent="348" relname="comparison">по четырем ведутся переговоры.</segment>
+		<group id="202" type="span" parent="5" relname="background"/>
+		<group id="203" type="span" parent="205" relname="span"/>
+		<group id="204" type="span" parent="203" relname="attribution"/>
+		<group id="205" type="span" />
+		<group id="206" type="span" />
+		<group id="207" type="span" parent="361" relname="elaboration"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" />
+		<group id="210" type="span" parent="362" relname="span"/>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="212" type="span" parent="362" relname="elaboration"/>
+		<group id="213" type="multinuc" parent="216" relname="span"/>
+		<group id="214" type="multinuc" parent="26" relname="cause"/>
+		<group id="216" type="span" parent="218" relname="span"/>
+		<group id="217" type="span" parent="216" relname="elaboration"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="365" relname="elaboration"/>
+		<group id="220" type="span" parent="222" relname="joint"/>
+		<group id="222" type="multinuc" />
+		<group id="223" type="span" parent="222" relname="joint"/>
+		<group id="227" type="multinuc" parent="230" relname="joint"/>
+		<group id="229" type="span" parent="230" relname="joint"/>
+		<group id="230" type="multinuc" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="234" relname="elaboration"/>
+		<group id="234" type="span" />
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="371" relname="span"/>
+		<group id="237" type="span" parent="238" relname="joint"/>
+		<group id="238" type="multinuc" parent="242" relname="joint"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="243" relname="span"/>
+		<group id="242" type="multinuc" parent="243" relname="preparation"/>
+		<group id="243" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="elaboration"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" />
+		<group id="248" type="span" parent="249" relname="contrast"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="252" relname="elaboration"/>
+		<group id="252" type="span" />
+		<group id="253" type="span" />
+		<group id="254" type="span" parent="70" relname="background"/>
+		<group id="255" type="span" parent="256" relname="joint"/>
+		<group id="256" type="multinuc" parent="257" relname="span"/>
+		<group id="257" type="span" />
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="259" type="span" />
+		<group id="260" type="span" parent="261" relname="contrast"/>
+		<group id="261" type="multinuc" parent="263" relname="span"/>
+		<group id="262" type="span" parent="261" relname="contrast"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" />
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="elaboration"/>
+		<group id="268" type="span" />
+		<group id="269" type="span" parent="356" relname="sequence"/>
+		<group id="270" type="span" parent="360" relname="span"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="281" relname="span"/>
+		<group id="275" type="multinuc" parent="277" relname="span"/>
+		<group id="276" type="span" parent="277" relname="evaluation"/>
+		<group id="277" type="span" parent="283" relname="span"/>
+		<group id="278" type="span" parent="274" relname="elaboration"/>
+		<group id="279" type="span" parent="281" relname="evaluation"/>
+		<group id="281" type="span" parent="375" relname="span"/>
+		<group id="282" type="span" />
+		<group id="283" type="span" parent="376" relname="elaboration"/>
+		<group id="285" type="span" parent="113" relname="elaboration"/>
+		<group id="286" type="span" parent="287" relname="same-unit"/>
+		<group id="287" type="multinuc" parent="288" relname="span"/>
+		<group id="288" type="span" parent="377" relname="same-unit"/>
+		<group id="289" type="span" parent="380" relname="evaluation"/>
+		<group id="292" type="span" parent="130" relname="cause"/>
+		<group id="297" type="span" parent="382" relname="span"/>
+		<group id="299" type="multinuc" parent="303" relname="span"/>
+		<group id="300" type="multinuc" parent="301" relname="span"/>
+		<group id="301" type="span" parent="299" relname="elaboration"/>
+		<group id="303" type="span" />
+		<group id="304" type="multinuc" parent="388" relname="condition"/>
+		<group id="306" type="span" parent="388" relname="same-unit"/>
+		<group id="307" type="multinuc" parent="311" relname="span"/>
+		<group id="308" type="span" parent="309" relname="evaluation"/>
+		<group id="309" type="span" parent="310" relname="span"/>
+		<group id="310" type="span" parent="307" relname="joint"/>
+		<group id="311" type="span" parent="390" relname="span"/>
+		<group id="313" type="span" parent="152" relname="purpose"/>
+		<group id="314" type="span" parent="391" relname="span"/>
+		<group id="315" type="span" parent="316" relname="joint"/>
+		<group id="316" type="multinuc" parent="325" relname="joint"/>
+		<group id="317" type="multinuc" parent="160" relname="cause"/>
+		<group id="319" type="multinuc" parent="163" relname="cause"/>
+		<group id="322" type="span" parent="325" relname="joint"/>
+		<group id="323" type="span" parent="325" relname="joint"/>
+		<group id="324" type="span" parent="325" relname="joint"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="392" relname="span"/>
+		<group id="327" type="span" parent="328" relname="same-unit"/>
+		<group id="328" type="multinuc" parent="329" relname="span"/>
+		<group id="329" type="span" />
+		<group id="330" type="span" parent="332" relname="joint"/>
+		<group id="331" type="span" parent="332" relname="joint"/>
+		<group id="332" type="multinuc" />
+		<group id="333" type="multinuc" parent="335" relname="span"/>
+		<group id="334" type="span" parent="333" relname="joint"/>
+		<group id="335" type="span" />
+		<group id="336" type="span" parent="394" relname="same-unit"/>
+		<group id="337" type="span" parent="188" relname="background"/>
+		<group id="338" type="span" parent="339" relname="same-unit"/>
+		<group id="339" type="multinuc" parent="341" relname="contrast"/>
+		<group id="341" type="multinuc" parent="344" relname="joint"/>
+		<group id="343" type="span" parent="344" relname="joint"/>
+		<group id="344" type="multinuc" parent="345" relname="span"/>
+		<group id="345" type="span" />
+		<group id="346" type="multinuc" />
+		<group id="347" type="span" parent="197" relname="elaboration"/>
+		<group id="348" type="multinuc" parent="349" relname="span"/>
+		<group id="349" type="span" parent="351" relname="comparison"/>
+		<group id="350" type="span" parent="351" relname="comparison"/>
+		<group id="351" type="multinuc" />
+		<group id="352" type="span" parent="32" relname="attribution"/>
+		<group id="353" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" />
+		<group id="356" type="multinuc" parent="357" relname="span"/>
+		<group id="357" type="span" parent="358" relname="span"/>
+		<group id="358" type="span" parent="359" relname="span"/>
+		<group id="359" type="span" parent="270" relname="elaboration"/>
+		<group id="360" type="span" />
+		<group id="361" type="span" parent="208" relname="span"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" />
+		<group id="364" type="span" parent="365" relname="same-unit"/>
+		<group id="365" type="multinuc" parent="220" relname="span"/>
+		<group id="366" type="span" parent="223" relname="span"/>
+		<group id="367" type="span" parent="366" relname="elaboration"/>
+		<group id="368" type="multinuc" parent="227" relname="joint"/>
+		<group id="369" type="span" parent="40" relname="condition"/>
+		<group id="370" type="multinuc" />
+		<group id="371" type="span" parent="370" relname="same-unit"/>
+		<group id="372" type="span" parent="373" relname="same-unit"/>
+		<group id="373" type="multinuc" parent="268" relname="span"/>
+		<group id="374" type="span" />
+		<group id="375" type="span" parent="282" relname="span"/>
+		<group id="376" type="span" parent="279" relname="span"/>
+		<group id="377" type="multinuc" />
+		<group id="378" type="span" parent="353" relname="elaboration"/>
+		<group id="379" type="span" parent="380" relname="span"/>
+		<group id="380" type="span" parent="381" relname="span"/>
+		<group id="381" type="span" parent="378" relname="span"/>
+		<group id="382" type="span" />
+		<group id="384" type="span" parent="297" relname="elaboration"/>
+		<group id="385" type="span" parent="386" relname="contrast"/>
+		<group id="386" type="multinuc" parent="384" relname="span"/>
+		<group id="387" type="span" parent="299" relname="same-unit"/>
+		<group id="388" type="multinuc" parent="389" relname="span"/>
+		<group id="389" type="span" />
+		<group id="390" type="span" />
+		<group id="391" type="span" />
+		<group id="392" type="span" parent="391" relname="elaboration"/>
+		<group id="393" type="span" parent="336" relname="span"/>
+		<group id="394" type="multinuc" />
+		<group id="395" type="span" parent="343" relname="span"/>
+	</body>
+</rst>

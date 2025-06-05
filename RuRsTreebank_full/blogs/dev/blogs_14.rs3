@@ -1,0 +1,437 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://my-first-time.livejournal.com/570846.html</segment>
+		<segment id="2" >##### Как мою тещу в первый раз развели</segment>
+		<segment id="3" parent="217" relname="span">##### 18 августа 2016 года вечером мне позвонила теща (70 лет),</segment>
+		<segment id="4" parent="3" relname="elaboration">которая проживает одна в частном доме в деревне</segment>
+		<segment id="5" parent="6" relname="attribution">и сказала,</segment>
+		<segment id="6" parent="378" relname="span">что у нее были газовщики.</segment>
+		<segment id="7" parent="219" relname="span">Я этому не удивился,</segment>
+		<segment id="8" parent="7" relname="cause">потому что в прошлом году мы перезаключили на новый срок договор на обслуживание газового оборудования с Газпром-газораспределение Нижний Новгород.</segment>
+		<segment id="9" parent="220" relname="joint">Срок действия договора составляет 3 (три года).</segment>
+		<segment id="10" parent="329" relname="span">Я спросил, что они сделали,</segment>
+		<segment id="11" parent="221" relname="contrast">так как газовщики имеют нехорошую привычку ничего не делать,</segment>
+		<segment id="12" parent="221" relname="contrast">но просить подписывать акт выполненных работ.</segment>
+		<segment id="13" parent="222" relname="span">Типа того: -распишитесь,</segment>
+		<segment id="14" parent="13" relname="purpose">что мы у Вас были.</segment>
+		<segment id="15" parent="408" relname="contrast">А на самом деле в акте куча якобы выполненных работ.</segment>
+		<segment id="16" parent="409" relname="contrast">Но речь сейчас не об этом.</segment>
+		<segment id="17" parent="411" relname="attribution">##### Теща мне и говорит,</segment>
+		<segment id="18" parent="226" relname="joint">что проверили наличие/отсутствие утечки газа</segment>
+		<segment id="19" parent="226" relname="joint">и установили датчик, сигнализирующий об утечке.</segment>
+		<segment id="20" parent="410" relname="span">За деньги естественно.</segment>
+		<segment id="21" parent="20" relname="elaboration">Стоимость его 5900 рублей.</segment>
+		<segment id="22" parent="405" relname="attribution">##### Я ей говорю,</segment>
+		<segment id="23" parent="399" relname="joint">зачем?</segment>
+		<segment id="24" parent="399" relname="joint">Кто тебе разрешил?</segment>
+		<segment id="25" parent="227" relname="joint">По проекту у нее в доме датчик не предусмотрен.</segment>
+		<segment id="26" parent="27" relname="attribution">И раньше ей было неоднократно сказано,</segment>
+		<segment id="27" parent="414" relname="span">что без меня никаких таких решений не принимать.</segment>
+		<segment id="28" parent="413" relname="joint">И вообще никого в дом не пускать.</segment>
+		<segment id="29" parent="30" relname="attribution">На что она мне сказала,</segment>
+		<segment id="30" parent="379" relname="span">что ей женщина представилась как сотрудник газовой службы,</segment>
+		<segment id="31" parent="415" relname="span">показала какое-то удостоверение, с фотографией и печатью</segment>
+		<segment id="32" parent="31" relname="evaluation">(святая простота, как же, официальный документ)</segment>
+		<segment id="33" parent="230" relname="condition">проверив каким-то прибором утечку газа</segment>
+		<segment id="34" parent="229" relname="attribution">сказала,</segment>
+		<segment id="35" parent="229" relname="span">что у нас все хорошо,</segment>
+		<segment id="36" parent="35" relname="cause">утечки нет.</segment>
+		<segment id="37" parent="234" relname="attribution">Но сказала,</segment>
+		<segment id="38" parent="381" relname="span">что газовая служба (газовщики) отказались обслуживать газовое оборудование</segment>
+		<segment id="39" parent="416" relname="span">(ага, в прошлом году газовщики такой хипеж подняли по поводу незаключенных договоров на обслуживание,</segment>
+		<segment id="40" parent="39" relname="evaluation">это было что то)</segment>
+		<segment id="41" parent="233" relname="span">и что теперь газовое оборудование будут обслуживать они</segment>
+		<segment id="42" parent="41" relname="evaluation">(кто они, хрен его знает).</segment>
+		<segment id="43" parent="420" relname="attribution">И еще сказала,</segment>
+		<segment id="44" parent="45" relname="cause">что газ сейчас поступает без запаха</segment>
+		<segment id="45" parent="420" relname="span">и при утечке его невозможно почувствовать.</segment>
+		<segment id="46" parent="47" relname="attribution">При этом уточнила,</segment>
+		<segment id="47" parent="385" relname="span">одна ли теща проживает.</segment>
+		<segment id="48" parent="49" relname="attribution">Теща сказала,</segment>
+		<segment id="49" parent="383" relname="span">что одна.</segment>
+		<segment id="50" parent="257" relname="sequence">Ну и понеслось.</segment>
+		<segment id="51" parent="423" relname="attribution">Мнимая сотрудница газовой службы говорит,</segment>
+		<segment id="52" parent="334" relname="same-unit">что по новым требованиям (чьим требованиям?),</segment>
+		<segment id="53" parent="54" relname="condition">ссылаясь на какое то неизвестное постановление правительства РФ,</segment>
+		<segment id="54" parent="333" relname="span">необходимо установить сигнализатор утечки газа,</segment>
+		<segment id="55" parent="334" relname="cause">иначе штраф (запугивание).</segment>
+		<segment id="56" parent="346" relname="attribution">И еще говорит,</segment>
+		<segment id="57" parent="241" relname="joint">что как раз у нее есть такой прибор</segment>
+		<segment id="58" parent="241" relname="joint">и что теще срочно необходимо его купить.</segment>
+		<segment id="59" parent="346" relname="joint">Всего за 5900 рублей.</segment>
+		<segment id="60" parent="242" relname="attribution">На что теща говорит,</segment>
+		<segment id="61" parent="242" relname="joint">что дорого,</segment>
+		<segment id="62" parent="242" relname="joint">да и денег у нее нет.</segment>
+		<segment id="63" parent="64" relname="attribution">А эта мнимая газовщица отвечает,</segment>
+		<segment id="64" parent="384" relname="span">а что сейчас дешево?</segment>
+		<segment id="65" parent="336" relname="span">И предлагает теще занять деньги у соседей.</segment>
+		<segment id="66" parent="425" relname="attribution">Да и еще, говорит,</segment>
+		<segment id="67" parent="425" relname="span">что всем уже в деревне поставили такой прибор,</segment>
+		<segment id="68" parent="426" relname="span">даже тем, у кого по проекту стоит,</segment>
+		<segment id="69" parent="243" relname="span">потому что у них уже устарел</segment>
+		<segment id="70" parent="69" relname="evaluation">(ага, устарел, щас),</segment>
+		<segment id="71" parent="246" relname="sequence">продемонстрировала пачку договоров</segment>
+		<segment id="72" parent="375" relname="attribution">и говорит,</segment>
+		<segment id="73" parent="375" relname="span">что уже закончили работать в деревне</segment>
+		<segment id="74" parent="244" relname="joint">(ага, всех стариков уже «развели»,</segment>
+		<segment id="75" parent="244" relname="joint">уезжают</segment>
+		<segment id="76" parent="244" relname="joint">и где потом их теща искать будет?</segment>
+		<segment id="77" parent="78" relname="attribution">А в начале разговора сказала,</segment>
+		<segment id="78" parent="386" relname="span">что будут обслуживать газовое оборудование).</segment>
+		<segment id="79" parent="249" relname="span">А у них типа новейший современный прибор,</segment>
+		<segment id="80" parent="247" relname="cause">у которого срок службы 5 лет,</segment>
+		<segment id="81" parent="247" relname="span">и что потом они заменять его бесплатно</segment>
+		<segment id="82" parent="337" relname="joint">(разбежались бесплатно менять,</segment>
+		<segment id="83" parent="337" relname="joint">держи карман шире, ну натуральный развод).</segment>
+		<segment id="84" parent="357" relname="preparation">И уговорила.</segment>
+		<segment id="85" parent="250" relname="joint">Теща побежала,</segment>
+		<segment id="86" parent="250" relname="joint">заняла деньги.</segment>
+		<segment id="87" parent="251" relname="sequence">Газовщица заполнила договор (один экземпляр),</segment>
+		<segment id="88" parent="431" relname="sequence">теща подписала</segment>
+		<segment id="89" parent="397" relname="span">и спрашивает</segment>
+		<segment id="90" parent="89" relname="background">(все-таки бывший директор школы),</segment>
+		<segment id="91" parent="398" relname="span">а ей экземпляр?</segment>
+		<segment id="92" parent="93" relname="attribution">На что газовщица говорит,</segment>
+		<segment id="93" parent="377" relname="span">да вам не нужно, незачем.</segment>
+		<segment id="94" parent="252" relname="sequence">Вобщем достала газовщица из коробки  приборчик, под названием универсальный детектор «Спасатель»,</segment>
+		<segment id="95" parent="252" relname="sequence">воткнула блок питания в розетку,</segment>
+		<segment id="96" parent="253" relname="span">что там изобразила,</segment>
+		<segment id="97" parent="96" relname="evaluation">якобы продемонстрировала его работу,</segment>
+		<segment id="98" parent="252" relname="sequence">закинула на кухонный шкафчик.</segment>
+		<segment id="99" parent="254" relname="sequence">Заполнила товарный чек,</segment>
+		<segment id="100" parent="254" relname="sequence">дала теще подписать.</segment>
+		<segment id="101" parent="433" relname="joint">И все…</segment>
+		<segment id="102" parent="263" relname="sequence">##### Я после звонка тещи возмутился этим фактом впаривания ненужного нам прибора,</segment>
+		<segment id="103" parent="263" relname="sequence">полез в интернет</segment>
+		<segment id="104" parent="263" relname="sequence">и вижу, что в магазинах аналогичные приборы стоят порядка 2 тысяч рублей.</segment>
+		<segment id="105" parent="264" relname="joint">И это в реальных магазинах, куда в случае чего можно прийти</segment>
+		<segment id="106" parent="264" relname="joint">и сдать неисправный прибор.</segment>
+		<segment id="107" parent="315" relname="contrast">А этих пойди найди.</segment>
+		<segment id="108" parent="347" relname="span">##### В ближайший выходной по приезде к теще я увидел, что это за прибор</segment>
+		<segment id="109" parent="108" relname="elaboration">(фото прилагается).</segment>
+		<segment id="110" parent="265" relname="contrast">Коробка красивая,</segment>
+		<segment id="111" parent="265" relname="contrast">прибор явно туфтовый, даже по внешнему виду.</segment>
+		<segment id="112" parent="266" relname="cause">Я попробовал этот прибор на его работоспособность.</segment>
+		<segment id="113" parent="436" relname="span">ОН НИЧЕГО НЕ ОБНАРУЖИВАЛ.</segment>
+		<segment id="114" parent="437" relname="span">Ни газ, не пары бензина, этанола и даже сигаретный дым,</segment>
+		<segment id="115" parent="114" relname="attribution">как написано на коробке и в руководстве по эксплуатации.</segment>
+		<segment id="116" parent="266" relname="joint">Ни реагировал даже на нажатие кнопки «Контроль».</segment>
+		<segment id="117" parent="270" relname="joint">Кстати произведен прибор ООО НПО «Биос», г.Смоленск, для ООО «Промтехресурс-Тула».</segment>
+		<segment id="118" parent="270" relname="joint">На коробке написано «Сертификат соответствия №РОСС RU.67.001.H0083, ТУ 6398-010-77934300-2011.</segment>
+		<segment id="119" parent="271" relname="span">Беру в руки товарный чек, подписанный тещей,</segment>
+		<segment id="120" parent="119" relname="evaluation">что она якобы получила полную информацию о товаре, его свойствах, функциях, назначению, комплектации, порядке обмена и возврата товара в наглядной и доступной форме.</segment>
+		<segment id="121" parent="351" relname="same-unit">С информацией о том, что</segment>
+		<segment id="122" parent="123" relname="attribution">согласно Постановления правительства РФ №55</segment>
+		<segment id="123" parent="350" relname="span">данный товар возврату и обмену не подлежит, ознакомлена,</segment>
+		<segment id="124" parent="272" relname="joint">исправность ей проверена,</segment>
+		<segment id="125" parent="272" relname="joint">товар надлежащего качества,</segment>
+		<segment id="126" parent="317" relname="joint">руководство по эксплуатации получено</segment>
+		<segment id="127" parent="317" relname="joint">и понятно,</segment>
+		<segment id="128" parent="272" relname="joint">претензий не имеет.</segment>
+		<segment id="129" parent="274" relname="joint">Ну что там она проверила,</segment>
+		<segment id="130" parent="274" relname="joint">сами понимаете.</segment>
+		<segment id="131" parent="284" relname="span">##### Вобщем сплошное разводилово.</segment>
+		<segment id="132" parent="276" relname="span">В чеке продавец обозначен как МРЦ Спасатель, ИП Саньков А.А.,</segment>
+		<segment id="133" parent="132" relname="elaboration">зарегистрированный МНС РФ по Рязанской области №5,</segment>
+		<segment id="134" parent="277" relname="joint">есть адрес, абонентский ящик и телефон для связи.</segment>
+		<segment id="135" parent="278" relname="span">Раньше кстати этим занималась ИП Клепикова В.И. г.Рязань ИНН 622700681929</segment>
+		<segment id="136" parent="135" relname="attribution">(сведения почерпнуты из социальных сетей, в частности Вконтакте),</segment>
+		<segment id="137" parent="279" relname="sequence">в августе она закрылась (по данным сайта egrul.nalog.ru)</segment>
+		<segment id="138" parent="280" relname="span">А в апреле открылся ИП Саньков А.А.</segment>
+		<segment id="139" parent="138" relname="elaboration">также зарегистрированный в г.Рязань.</segment>
+		<segment id="140" parent="320" relname="contrast">Я думаю что это подставные ИП, типа зицпредседателя Фунта.</segment>
+		<segment id="141" parent="282" relname="span">А на самом деле здесь основную роль играет ООО Промтехресурс-Тула,</segment>
+		<segment id="142" parent="141" relname="elaboration">по заказу которого и изготовляется данный прибор.</segment>
+		<segment id="143" parent="320" relname="background">Еще раньше данный ИП Клепикова «впаривала» пожилым людям фильтры для воды.</segment>
+		<segment id="144" parent="285" relname="joint">##### Я тещу конечно отругал как следует,</segment>
+		<segment id="145" parent="146" relname="attribution">жена ей лекцию прочитала,</segment>
+		<segment id="146" parent="438" relname="span">как себя вести в такой ситуации.</segment>
+		<segment id="147" parent="439" relname="sequence">Всего то нужно было мне позвонить</segment>
+		<segment id="148" parent="286" relname="joint">и я бы приехал</segment>
+		<segment id="149" parent="286" relname="joint">и все вопросы решил вовремя.</segment>
+		<segment id="150" parent="289" relname="joint">А она даже не поняла, что ее развели,</segment>
+		<segment id="151" parent="152" relname="evaluation">счастлива была,</segment>
+		<segment id="152" parent="440" relname="span">что купила такой прибор.</segment>
+		<segment id="153" parent="441" relname="sequence">##### Дальше я звоню участковому,</segment>
+		<segment id="154" parent="295" relname="attribution">который мне сказал,</segment>
+		<segment id="155" parent="388" relname="span">что он про эту фирму и продажи прибора знает,</segment>
+		<segment id="156" parent="293" relname="joint">что там все нормально,</segment>
+		<segment id="157" parent="293" relname="joint">у фирмы распродажа</segment>
+		<segment id="158" parent="292" relname="joint">и что типа теща моя купила прибор сама, добровольно,</segment>
+		<segment id="159" parent="292" relname="joint">что никто ее не заставлял,</segment>
+		<segment id="160" parent="295" relname="joint">и вообще ему некогда</segment>
+		<segment id="161" parent="441" relname="sequence">и бросил трубку.</segment>
+		<segment id="162" parent="443" relname="span">Параллельно я отправил сообщение об этой проблеме в блог губернатора, на местное телевидение</segment>
+		<segment id="163" parent="162" relname="elaboration">(в итоге результата ноль целых ноль десятых).</segment>
+		<segment id="164" parent="296" relname="joint">Вобщем некуда податься простому человеку.</segment>
+		<segment id="165" parent="296" relname="joint">Нет защиты от мошенников ни от кого, ни от полиции, ни от губернатора.</segment>
+		<segment id="166" parent="297" relname="joint">Я уж решил, что концов найти невозможно</segment>
+		<segment id="167" parent="297" relname="joint">и без особой надежды позвонил на телефон, указанный в товарном чеке.</segment>
+		<segment id="168" parent="169" relname="evaluation">И о чудо!</segment>
+		<segment id="169" parent="395" relname="span">Мне ответили, именно ИП Саньков.</segment>
+		<segment id="170" parent="298" relname="span">На мою претензию, на неработоспособность прибора</segment>
+		<segment id="171" parent="402" relname="span">(я не стал говорить про разводилово,</segment>
+		<segment id="172" parent="171" relname="cause">потому что бесполезно, формально вроде бы все по закону)</segment>
+		<segment id="173" parent="390" relname="attribution">сказали,</segment>
+		<segment id="174" parent="390" relname="sequence">пишите письменную претензию</segment>
+		<segment id="175" parent="390" relname="sequence">и присылайте на абонентский ящик.</segment>
+		<segment id="176" parent="446" relname="span">Претензию я отправил им ценным заказным письмом с описью, в течение 5 дней с момента покупки.</segment>
+		<segment id="177" parent="176" relname="elaboration">Все в установленные законодательством сроки.</segment>
+		<segment id="178" parent="339" relname="span">Ответ пришел,</segment>
+		<segment id="179" parent="178" relname="elaboration">правда без подписи,</segment>
+		<segment id="180" parent="299" relname="joint">но по сути, деньги вернуть отказались,</segment>
+		<segment id="181" parent="299" relname="joint">предложили обмен.</segment>
+		<segment id="182" parent="448" relname="joint">Меня этот вариант не устраивает категорически.</segment>
+		<segment id="183" parent="448" relname="joint">Неужели же нет на них управы?</segment>
+		<segment id="184" parent="185" relname="attribution">По закону ЗПП статья 18</segment>
+		<segment id="185" parent="340" relname="span">продавец обязан вернуть деньги в 10 дневный срок с момента получения претензии.</segment>
+		<segment id="186" parent="187" relname="attribution">В результате консультаций в Роспотребнадзоре и на форуме юристов</segment>
+		<segment id="187" parent="342" relname="span">получается, что нужно идти в суд.</segment>
+		<segment id="188" parent="302" relname="span">Вот ведь гады, на том и расчет строится,</segment>
+		<segment id="189" parent="449" relname="joint">что разведут пожилого человека,</segment>
+		<segment id="190" parent="301" relname="joint">он даже и не поймет этого,</segment>
+		<segment id="191" parent="301" relname="joint">а уж в суд из-за такой суммы мало кто пойдет.</segment>
+		<segment id="192" parent="303" relname="joint">Зла не хватает!</segment>
+		<segment id="193" parent="303" relname="joint">Сволочи!</segment>
+		<segment id="194" parent="451" relname="span">Меня попробовали бы развести.</segment>
+		<segment id="195" parent="194" relname="elaboration">Я б им показал.</segment>
+		<segment id="196" parent="197" relname="evidence">А в результате поисков в интернете выяснилось,</segment>
+		<segment id="197" parent="366" relname="span">что ребята работают по крупному, в разных регионах.</segment>
+		<segment id="198" parent="305" relname="attribution">На сайте Роспотребнадзора Брянской области даже висит предупреждение о том,</segment>
+		<segment id="199" parent="305" relname="joint">чтобы народ не велся на развод</segment>
+		<segment id="200" parent="305" relname="joint">и не покупал эту хрень.</segment>
+		<segment id="201" parent="202" relname="attribution">И в соцсетях и просто в  Интернете</segment>
+		<segment id="202" parent="344" relname="span">много есть отзывов об этих мошенниках.</segment>
+		<segment id="203" parent="404" relname="contrast">И никто, не полиция, ни власти никаких мер не принимают!</segment>
+		<segment id="204" parent="205" relname="attribution">##### Я, позвонив еще раз им  (ИП Саньков А.А.) по телефону,</segment>
+		<segment id="205" parent="452" relname="span">предложил добровольно вернуть деньги,</segment>
+		<segment id="206" parent="326" relname="contrast">на что они меня послали… в суд.</segment>
+		<segment id="207" parent="308" relname="evaluation">Делать нечего,</segment>
+		<segment id="208" parent="308" relname="sequence">собираю документы</segment>
+		<segment id="209" parent="308" relname="sequence">и готовлю исковое заявление в суд от имени тещи.</segment>
+		<segment id="210" parent="309" relname="joint">Собираюсь подать заявление в полицию, (мошенничество чистой воды, да еще и в масштабах страны),</segment>
+		<segment id="211" parent="309" relname="joint">написать в прокуратуру, министру МВД, на сайт Президенту,</segment>
+		<segment id="212" parent="309" relname="joint">обратиться в СМИ.</segment>
+		<segment id="213" parent="311" relname="span">Вобщем я так всего этого не оставлю.</segment>
+		<segment id="214" parent="310" relname="span">«С жульем допустим надо бороться!»</segment>
+		<segment id="215" parent="214" relname="attribution">сказал Папанов А.Д. в фильме «Берегись автомобиля»</segment>
+		<segment id="216" parent="310" relname="evaluation">и я с ним полностью согласен.</segment>
+		<group id="217" type="span" parent="218" relname="joint"/>
+		<group id="218" type="multinuc" parent="224" relname="preparation"/>
+		<group id="219" type="span" parent="220" relname="joint"/>
+		<group id="220" type="multinuc" parent="224" relname="joint"/>
+		<group id="221" type="multinuc" parent="10" relname="cause"/>
+		<group id="222" type="span" parent="408" relname="contrast"/>
+		<group id="224" type="multinuc" parent="225" relname="span"/>
+		<group id="225" type="span" />
+		<group id="226" type="multinuc" parent="411" relname="span"/>
+		<group id="227" type="multinuc" parent="400" relname="span"/>
+		<group id="228" type="multinuc" parent="256" relname="joint"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="380" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="419" relname="span"/>
+		<group id="241" type="multinuc" parent="346" relname="joint"/>
+		<group id="242" type="multinuc" parent="372" relname="span"/>
+		<group id="243" type="span" parent="68" relname="cause"/>
+		<group id="244" type="multinuc" parent="245" relname="contrast"/>
+		<group id="245" type="multinuc" parent="73" relname="evaluation"/>
+		<group id="246" type="multinuc" parent="428" relname="joint"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="79" relname="elaboration"/>
+		<group id="249" type="span" parent="356" relname="joint"/>
+		<group id="250" type="multinuc" parent="357" relname="sequence"/>
+		<group id="251" type="multinuc" parent="377" relname="solutionhood"/>
+		<group id="252" type="multinuc" parent="255" relname="sequence"/>
+		<group id="253" type="span" parent="252" relname="sequence"/>
+		<group id="254" type="multinuc" parent="433" relname="joint"/>
+		<group id="255" type="multinuc" parent="357" relname="sequence"/>
+		<group id="256" type="multinuc" parent="262" relname="joint"/>
+		<group id="257" type="multinuc" parent="332" relname="span"/>
+		<group id="258" type="multinuc" parent="261" relname="span"/>
+		<group id="261" type="span" parent="256" relname="joint"/>
+		<group id="262" type="multinuc" />
+		<group id="263" type="multinuc" parent="316" relname="span"/>
+		<group id="264" type="multinuc" parent="315" relname="contrast"/>
+		<group id="265" type="multinuc" parent="434" relname="span"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="joint"/>
+		<group id="269" type="multinuc" parent="265" relname="elaboration"/>
+		<group id="270" type="multinuc" parent="267" relname="elaboration"/>
+		<group id="271" type="span" parent="273" relname="span"/>
+		<group id="272" type="multinuc" parent="271" relname="elaboration"/>
+		<group id="273" type="span" parent="275" relname="span"/>
+		<group id="274" type="multinuc" parent="273" relname="evaluation"/>
+		<group id="275" type="span" parent="269" relname="joint"/>
+		<group id="276" type="span" parent="277" relname="joint"/>
+		<group id="277" type="multinuc" parent="283" relname="joint"/>
+		<group id="278" type="span" parent="279" relname="sequence"/>
+		<group id="279" type="multinuc" parent="281" relname="sequence"/>
+		<group id="280" type="span" parent="281" relname="sequence"/>
+		<group id="281" type="multinuc" parent="283" relname="joint"/>
+		<group id="282" type="span" parent="320" relname="contrast"/>
+		<group id="283" type="multinuc" parent="319" relname="span"/>
+		<group id="284" type="span" />
+		<group id="285" type="multinuc" parent="290" relname="span"/>
+		<group id="286" type="multinuc" parent="439" relname="sequence"/>
+		<group id="289" type="multinuc" parent="291" relname="contrast"/>
+		<group id="290" type="span" parent="291" relname="contrast"/>
+		<group id="291" type="multinuc" />
+		<group id="292" type="multinuc" parent="295" relname="joint"/>
+		<group id="293" type="multinuc" parent="155" relname="elaboration"/>
+		<group id="295" type="multinuc" parent="442" relname="span"/>
+		<group id="296" type="multinuc" parent="360" relname="evaluation"/>
+		<group id="297" type="multinuc" parent="444" relname="joint"/>
+		<group id="298" type="span" parent="391" relname="solutionhood"/>
+		<group id="299" type="multinuc" parent="322" relname="contrast"/>
+		<group id="300" type="span" parent="363" relname="sequence"/>
+		<group id="301" type="multinuc" parent="449" relname="joint"/>
+		<group id="302" type="span" parent="450" relname="span"/>
+		<group id="303" type="multinuc" parent="302" relname="evaluation"/>
+		<group id="304" type="multinuc" parent="365" relname="joint"/>
+		<group id="305" type="multinuc" parent="367" relname="span"/>
+		<group id="306" type="multinuc" />
+		<group id="308" type="multinuc" parent="327" relname="span"/>
+		<group id="309" type="multinuc" parent="454" relname="sequence"/>
+		<group id="310" type="span" parent="396" relname="span"/>
+		<group id="311" type="span" parent="313" relname="evaluation"/>
+		<group id="313" type="span" parent="455" relname="span"/>
+		<group id="315" type="multinuc" parent="263" relname="elaboration"/>
+		<group id="316" type="span" />
+		<group id="317" type="multinuc" parent="272" relname="joint"/>
+		<group id="319" type="span" parent="131" relname="evidence"/>
+		<group id="320" type="multinuc" parent="321" relname="span"/>
+		<group id="321" type="span" parent="283" relname="evaluation"/>
+		<group id="322" type="multinuc" parent="323" relname="span"/>
+		<group id="323" type="span" parent="446" relname="elaboration"/>
+		<group id="326" type="multinuc" parent="454" relname="preparation"/>
+		<group id="327" type="span" parent="454" relname="sequence"/>
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="330" type="span" parent="224" relname="joint"/>
+		<group id="332" type="span" parent="258" relname="cause"/>
+		<group id="333" type="span" parent="334" relname="same-unit"/>
+		<group id="334" type="multinuc" parent="423" relname="span"/>
+		<group id="336" type="span" parent="353" relname="contrast"/>
+		<group id="337" type="multinuc" parent="81" relname="evaluation"/>
+		<group id="339" type="span" parent="322" relname="contrast"/>
+		<group id="340" type="span" parent="304" relname="joint"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" parent="304" relname="joint"/>
+		<group id="344" type="span" parent="345" relname="joint"/>
+		<group id="345" type="multinuc" parent="366" relname="evidence"/>
+		<group id="346" type="multinuc" parent="371" relname="span"/>
+		<group id="347" type="span" parent="434" relname="preparation"/>
+		<group id="350" type="span" parent="351" relname="same-unit"/>
+		<group id="351" type="multinuc" parent="272" relname="joint"/>
+		<group id="352" type="multinuc" parent="353" relname="contrast"/>
+		<group id="353" type="multinuc" parent="354" relname="joint"/>
+		<group id="354" type="multinuc" parent="356" relname="joint"/>
+		<group id="356" type="multinuc" parent="429" relname="sequence"/>
+		<group id="357" type="multinuc" parent="430" relname="span"/>
+		<group id="360" type="multinuc" parent="445" relname="span"/>
+		<group id="363" type="multinuc" parent="364" relname="span"/>
+		<group id="364" type="span" parent="306" relname="sequence"/>
+		<group id="365" type="multinuc" parent="363" relname="evaluation"/>
+		<group id="366" type="span" parent="403" relname="span"/>
+		<group id="367" type="span" parent="345" relname="joint"/>
+		<group id="371" type="span" parent="352" relname="joint"/>
+		<group id="372" type="span" parent="352" relname="joint"/>
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" parent="246" relname="sequence"/>
+		<group id="377" type="span" parent="432" relname="span"/>
+		<group id="378" type="span" parent="218" relname="joint"/>
+		<group id="379" type="span" parent="228" relname="joint"/>
+		<group id="380" type="span" parent="228" relname="joint"/>
+		<group id="381" type="span" parent="233" relname="cause"/>
+		<group id="383" type="span" parent="422" relname="span"/>
+		<group id="384" type="span" parent="65" relname="solutionhood"/>
+		<group id="385" type="span" parent="383" relname="solutionhood"/>
+		<group id="386" type="span" parent="245" relname="contrast"/>
+		<group id="388" type="span" parent="295" relname="joint"/>
+		<group id="390" type="multinuc" parent="391" relname="span"/>
+		<group id="391" type="span" parent="392" relname="span"/>
+		<group id="392" type="span" parent="393" relname="span"/>
+		<group id="393" type="span" parent="363" relname="sequence"/>
+		<group id="395" type="span" parent="392" relname="attribution"/>
+		<group id="396" type="span" parent="213" relname="elaboration"/>
+		<group id="397" type="span" parent="91" relname="attribution"/>
+		<group id="398" type="span" parent="431" relname="sequence"/>
+		<group id="399" type="multinuc" parent="405" relname="span"/>
+		<group id="400" type="span" parent="262" relname="joint"/>
+		<group id="402" type="span" parent="170" relname="background"/>
+		<group id="403" type="span" parent="404" relname="contrast"/>
+		<group id="404" type="multinuc" parent="365" relname="joint"/>
+		<group id="405" type="span" parent="406" relname="span"/>
+		<group id="406" type="span" parent="227" relname="solutionhood"/>
+		<group id="408" type="multinuc" parent="409" relname="contrast"/>
+		<group id="409" type="multinuc" parent="329" relname="evidence"/>
+		<group id="410" type="span" parent="226" relname="elaboration"/>
+		<group id="411" type="span" parent="412" relname="span"/>
+		<group id="412" type="span" parent="262" relname="joint"/>
+		<group id="413" type="multinuc" parent="227" relname="joint"/>
+		<group id="414" type="span" parent="413" relname="joint"/>
+		<group id="415" type="span" parent="228" relname="joint"/>
+		<group id="416" type="span" parent="38" relname="background"/>
+		<group id="419" type="span" parent="256" relname="joint"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" parent="256" relname="joint"/>
+		<group id="422" type="span" parent="257" relname="sequence"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="424" type="span" parent="258" relname="joint"/>
+		<group id="425" type="span" parent="427" relname="span"/>
+		<group id="426" type="span" parent="67" relname="elaboration"/>
+		<group id="427" type="span" parent="428" relname="joint"/>
+		<group id="428" type="multinuc" parent="354" relname="joint"/>
+		<group id="429" type="multinuc" parent="258" relname="joint"/>
+		<group id="430" type="span" parent="429" relname="sequence"/>
+		<group id="431" type="multinuc" parent="251" relname="sequence"/>
+		<group id="432" type="span" parent="357" relname="sequence"/>
+		<group id="433" type="multinuc" parent="255" relname="sequence"/>
+		<group id="434" type="span" parent="435" relname="span"/>
+		<group id="435" type="span" />
+		<group id="436" type="span" parent="266" relname="joint"/>
+		<group id="437" type="span" parent="113" relname="elaboration"/>
+		<group id="438" type="span" parent="285" relname="joint"/>
+		<group id="439" type="multinuc" parent="285" relname="elaboration"/>
+		<group id="440" type="span" parent="289" relname="joint"/>
+		<group id="441" type="multinuc" parent="360" relname="joint"/>
+		<group id="442" type="span" parent="441" relname="sequence"/>
+		<group id="443" type="span" parent="360" relname="joint"/>
+		<group id="444" type="multinuc" parent="306" relname="sequence"/>
+		<group id="445" type="span" parent="444" relname="joint"/>
+		<group id="446" type="span" parent="300" relname="span"/>
+		<group id="448" type="multinuc" parent="322" relname="evaluation"/>
+		<group id="449" type="multinuc" parent="188" relname="elaboration"/>
+		<group id="450" type="span" parent="342" relname="elaboration"/>
+		<group id="451" type="span" parent="303" relname="joint"/>
+		<group id="452" type="span" parent="326" relname="contrast"/>
+		<group id="454" type="multinuc" parent="313" relname="span"/>
+		<group id="455" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,314 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://eax.me/avoid-new-toys/</segment>
+		<segment id="2" >##### Десять веских причин не тащить в продакшн новые игрушки</segment>
+		<segment id="3" parent="156" relname="span">##### Типичная ситуация.</segment>
+		<segment id="4" parent="152" relname="joint">Программист читает книжку о новом, или не таком уж и новом, языке программирования, базе данных или иной технологии</segment>
+		<segment id="5" parent="152" relname="joint">и сгорает от нетерпения поскорее ее попробовать.</segment>
+		<segment id="6" parent="154" relname="span">Возможно, он узнает о технологии или подходе не из книги, а из подкаста или доклада на конференции,</segment>
+		<segment id="7" parent="6" relname="evaluation">не суть важно.</segment>
+		<segment id="8" parent="161" relname="span">Другая похожая ситуация</segment>
+		<segment id="9" parent="158" relname="span">— «в нашем проекте все очень плохо,</segment>
+		<segment id="10" parent="157" relname="span">потому что мы используем DynamoDB</segment>
+		<segment id="11" parent="10" relname="elaboration">(пишем на Java),</segment>
+		<segment id="12" parent="159" relname="span">давайте все перенесем на PostgreSQL</segment>
+		<segment id="13" parent="12" relname="elaboration">(перепишем на Erlang)».</segment>
+		<segment id="14" parent="163" relname="span">В этой заметке я собрал веские причины не поддаваться соблазну протащить новые игрушки в продакшн.</segment>
+		<segment id="15" parent="168" relname="preparation">##### 1. Почти всегда внедрение новой технологии или переход с одной на другую — задача очень непростая и ресурсоемкая.</segment>
+		<segment id="16" parent="165" relname="span">Ваши эстимейты о том, что это якобы займет месяц или два, неверны,</segment>
+		<segment id="17" parent="164" relname="joint">потому что вы не учитываете необходимость поддерживать</segment>
+		<segment id="18" parent="164" relname="joint">и развивать то, что уже есть сейчас, миграцию данных, необходимость поправить десятки, если не сотни, багов, которые выявятся после перехода, и так далее.</segment>
+		<segment id="19" parent="166" relname="joint">Вы должны быть абсолютно уверены, что у вас фичфриз (не только на словах!)</segment>
+		<segment id="20" parent="166" relname="joint">и прямо сейчас нет более приоритетных задач.</segment>
+		<segment id="21" parent="167" relname="contrast">А такое бывает крайне редко.</segment>
+		<segment id="22" parent="181" relname="contrast">##### 2. Технология редко оказывается настоящим источником проблемы.</segment>
+		<segment id="23" parent="181" relname="contrast">Почти всегда дело в людях, не разобравшихся, как эту технологию правильно применять.</segment>
+		<segment id="24" parent="25" relname="condition">Если отовсюду лезут баги,</segment>
+		<segment id="25" parent="171" relname="span">попробуйте уже наконец начать писать тесты.</segment>
+		<segment id="26" parent="173" relname="condition">Если все тормозит,</segment>
+		<segment id="27" parent="172" relname="joint">сядьте</segment>
+		<segment id="28" parent="172" relname="joint">и обдумайте как следует оптимизацию,</segment>
+		<segment id="29" parent="173" relname="joint">заведите кэши, и так далее.</segment>
+		<segment id="30" parent="31" relname="condition">Если хоститься в Amazon слишком дорого,</segment>
+		<segment id="31" parent="175" relname="span">оптимизируйте расходы.</segment>
+		<segment id="32" parent="176" relname="span">За один рабочий день можно легко сократить стоимость размещения сервиса в AWS на 25-50%,</segment>
+		<segment id="33" parent="32" relname="condition">практически ничего при этом не потеряв,</segment>
+		<segment id="34" parent="176" relname="evidence">проверено!</segment>
+		<segment id="35" parent="281" relname="span">##### 3. Любая технология имеет слабые и сильные стороны.</segment>
+		<segment id="36" parent="35" relname="evaluation">Скорее всего, сейчас вы сосредоточены только на сильных.</segment>
+		<segment id="37" parent="183" relname="contrast">MongoDB может очень круто скейлиться,</segment>
+		<segment id="38" parent="183" relname="contrast">но насколько это реально удобно жить без схемы БД, транзакций и вьюх?</segment>
+		<segment id="39" parent="284" relname="span">Сегодня мы видим появление большого количества «убийц C/C++», таких же быстрых, но еще и безопасных.</segment>
+		<segment id="40" parent="187" relname="condition">Допустим, есть массив из 1000 объектов.</segment>
+		<segment id="41" parent="184" relname="purpose">Для безопасности</segment>
+		<segment id="42" parent="43" relname="condition">при инициализации массива</segment>
+		<segment id="43" parent="184" relname="span">нужно вызвать 1000 конструкторов,</segment>
+		<segment id="44" parent="45" relname="condition">а при обращении к элементам массива</segment>
+		<segment id="45" parent="186" relname="span">проверять, не вышли ли мы за его пределы.</segment>
+		<segment id="46" parent="189" relname="span">Либо скорость, либо безопасность.</segment>
+		<segment id="47" parent="188" relname="span">Что выбрали в Rust,</segment>
+		<segment id="48" parent="47" relname="elaboration">он безопасный или быстрый?</segment>
+		<segment id="49" parent="191" relname="joint">Всегда приходится делать какой-то компромисс.</segment>
+		<segment id="50" parent="202" relname="preparation">##### 4. У любой технологии помимо явных минусов всегда есть еще свои «тонкости и нюансы».</segment>
+		<segment id="51" parent="52" relname="condition">При переходе на новую базу данных, язык, фреймворк или методологию</segment>
+		<segment id="52" parent="194" relname="span">вы соберете все-все-все грабли и баги.</segment>
+		<segment id="53" parent="194" relname="evaluation">Невероятно, но в компиляторе вашего нового любимого языка программирования баги тоже есть!</segment>
+		<segment id="54" parent="200" relname="span">Помимо багов бывают и другие проблемы, например, сломанная обратная совместимость в новых релизах.</segment>
+		<segment id="55" parent="56" relname="condition">Если речь о базе данных,</segment>
+		<segment id="56" parent="196" relname="span">тогда вы можете потерять данные при нетсплитах.</segment>
+		<segment id="57" parent="58" relname="condition">Если об облачном хостинге,</segment>
+		<segment id="58" parent="198" relname="span">вы можете столкнуться с проблемой шумных соседей.</segment>
+		<segment id="59" parent="201" relname="span">То есть, помимо теории, речь о которой шла в предыдущем пункте, есть еще и практика.</segment>
+		<segment id="60" parent="59" relname="elaboration">Будьте ко всему этому морально готовы.</segment>
+		<segment id="61" parent="207" relname="preparation">##### 5. Инструментарий.</segment>
+		<segment id="62" parent="204" relname="span">Можно долго хаять C/C++,</segment>
+		<segment id="63" parent="62" relname="cause">что писать на нем не безопасно,</segment>
+		<segment id="64" parent="206" relname="span">но за годы существования у языка появились IDE, отладчики, статические анализаторы кода и другие стабильные, проверенные временем инструменты разработки,</segment>
+		<segment id="65" parent="64" relname="purpose">решающие очень многие практические проблемы.</segment>
+		<segment id="66" parent="211" relname="joint">У Rust и Haskell до сих пор нет нормальных IDE.</segment>
+		<segment id="67" parent="68" relname="condition">Если брать фреймворки,</segment>
+		<segment id="68" parent="208" relname="span">то Play Framework, к примеру, поддерживается существующими IDE тоже из рук вон плохо.</segment>
+		<segment id="69" parent="209" relname="contrast">Возможно, вам и в Vim неплохо пишется,</segment>
+		<segment id="70" parent="209" relname="contrast">но разделяют ли ваш энтузиазм в этом вопросе ваши коллеги и люди, приходящие на собеседования?</segment>
+		<segment id="71" parent="230" relname="preparation">##### 6. Библиотеки.</segment>
+		<segment id="72" parent="214" relname="condition">Если речь о базе данных,</segment>
+		<segment id="73" parent="213" relname="joint">для каких языков у нее есть клиенты</segment>
+		<segment id="74" parent="213" relname="joint">и насколько они хороши?</segment>
+		<segment id="75" parent="76" relname="condition">Если речь о языке,</segment>
+		<segment id="76" parent="216" relname="span">есть ли у него AWS SDK?</segment>
+		<segment id="77" parent="216" relname="elaboration">Как на этом языке нарисовать диаграмму?</segment>
+		<segment id="78" parent="217" relname="elaboration">Как построить отчет в Excel или PDF?</segment>
+		<segment id="79" parent="220" relname="joint">Очень во многих современных проектах есть потребность строить какие-то отчеты</segment>
+		<segment id="80" parent="220" relname="joint">и эти вопросы возникают очень быстро.</segment>
+		<segment id="81" parent="221" relname="span">Биндинги не решают проблему,</segment>
+		<segment id="82" parent="222" relname="span">так как зачастую они плохо взаимодействуют с рантаймом языка</segment>
+		<segment id="83" parent="82" relname="elaboration">(особенно если это язык с легковесными процессами, как Erlang или Go),</segment>
+		<segment id="84" parent="226" relname="joint">покрывают малую часть возможностей библиотеки,</segment>
+		<segment id="85" parent="226" relname="joint">завязаны на старую версию оригинальной библиотеки,</segment>
+		<segment id="86" parent="224" relname="span">просто сломаны</segment>
+		<segment id="87" parent="223" relname="span">(так было с биндингами к GD для Haskell,</segment>
+		<segment id="88" parent="87" relname="condition">когда я последний раз их смотрел),</segment>
+		<segment id="89" parent="225" relname="span">очень плохо документированы</segment>
+		<segment id="90" parent="89" relname="evidence">(попробуйте поработать с OpenGL на Haskell) и так далее.</segment>
+		<segment id="91" parent="230" relname="span">Недаром ведь в C++ предусмотрена возможность вызывать сишный код напрямую, а в языке Scala — код, написанный на Java.</segment>
+		<segment id="92" parent="232" relname="contrast">##### 7. Зоопарк технологий создает проблемы,</segment>
+		<segment id="93" parent="232" relname="contrast">как бы вам не хотелось верить в обратное.</segment>
+		<segment id="94" parent="233" relname="span">Казалось бы, риски минимальные,</segment>
+		<segment id="95" parent="94" relname="condition">если вы все построили на микросервисах.</segment>
+		<segment id="96" parent="97" relname="cause">Но написанные на разных языках микросервисы взаимодействуют друг с другом,</segment>
+		<segment id="97" parent="235" relname="span">а значит для каждого микросервиса нужно поддерживать несколько версий клиента на разных языках.</segment>
+		<segment id="98" parent="238" relname="joint">Если вы думаете, что написали очень маленький скрипт или сервис,</segment>
+		<segment id="99" parent="237" relname="span">и его не нужно «поддерживать»,</segment>
+		<segment id="100" parent="236" relname="joint">так как в случае чего проще выкинуть</segment>
+		<segment id="101" parent="236" relname="joint">и написать с нуля,</segment>
+		<segment id="102" parent="239" relname="span">то тоже ошибаетесь.</segment>
+		<segment id="103" parent="245" relname="span">В случае с сервисом потребуется миграция данных и бесшовное переключение.</segment>
+		<segment id="104" parent="105" relname="cause">Маленькие скрипты постепенно дописываются,</segment>
+		<segment id="105" parent="241" relname="span">в результате чего разрастаются</segment>
+		<segment id="106" parent="242" relname="span">и их становится не так уж просто переписать.</segment>
+		<segment id="107" parent="243" relname="joint">К тому же, даже в маленьких скриптах исправляются десятки багов,</segment>
+		<segment id="108" parent="243" relname="joint">и выкидывать проверенный временем, стабильный код — это большой риск.</segment>
+		<segment id="109" parent="252" relname="preparation">##### 8. Размер сообщества имеет значение.</segment>
+		<segment id="110" parent="251" relname="span">Вокруг новых технологий это сообщество, как правило, довольно невелико.</segment>
+		<segment id="111" parent="112" relname="condition">Если вы столкнетесь со сложной проблемой,</segment>
+		<segment id="112" parent="248" relname="span">то где будете просить помощи?</segment>
+		<segment id="113" parent="249" relname="joint">Написаны ли уже книги и документация, с которыми смогут ознакомиться ваши коллеги?</segment>
+		<segment id="114" parent="250" relname="span">Не забывайте, что все возникающие проблемы вам придется решать</segment>
+		<segment id="115" parent="114" relname="condition">в условиях авралов и дэдлайнов.</segment>
+		<segment id="116" parent="265" relname="preparation">##### 9. Велика вероятность, что вы решаете новым модным инструментом не ту задачу.</segment>
+		<segment id="117" parent="254" relname="span">У многих компаний не такой уж highload</segment>
+		<segment id="118" parent="117" relname="purpose">для использования NoSQL решений.</segment>
+		<segment id="119" parent="255" relname="contrast">Обычный PostgreSQL с репликами и, возможно, небольшим ручным шардированием, решит задачу куда лучше, чем этот ваш Riak.</segment>
+		<segment id="120" parent="256" relname="span">Также во многих компаниях не такой уж big data,</segment>
+		<segment id="121" parent="120" relname="purpose">чтобы использовать Hadoop.</segment>
+		<segment id="122" parent="123" relname="condition">Если речь идет о нескольких терабайтах данных в месяц,</segment>
+		<segment id="123" parent="258" relname="span">их будет намного быстрее обработать безо всяких там Hadoop.</segment>
+		<segment id="124" parent="260" relname="same-unit">Кроме того,</segment>
+		<segment id="125" parent="126" relname="condition">если сейчас вы пишите вебчик на Scala,</segment>
+		<segment id="126" parent="259" relname="span">то нет смысла переписывать все на Rust или Go,</segment>
+		<segment id="127" parent="261" relname="cause">так как эти языки, скорее всего, просто не дадут вам существенных преимуществ.</segment>
+		<segment id="128" parent="263" relname="joint">Что-то будет лучше,</segment>
+		<segment id="129" parent="263" relname="joint">а что-то намного хуже.</segment>
+		<segment id="130" parent="269" relname="joint">##### 10. Где вы будете искать программистов с опытом этого вашего модного Swift или Clojure?</segment>
+		<segment id="131" parent="267" relname="joint">Если сейчас вы протащите Cassandra в продакшн</segment>
+		<segment id="132" parent="267" relname="joint">и уйдете из проекта,</segment>
+		<segment id="133" parent="268" relname="span">кто потом сможет это поддерживать?</segment>
+		<segment id="134" parent="269" relname="joint">И кому, собственно, вы такой классный будете нужны со знанием этих странных и никому не нужных технологий?</segment>
+		<segment id="135" parent="270" relname="contrast">Не лучше ли инвестировать свое время в что-то более распространенное на практике?</segment>
+		<segment id="136" parent="271" relname="contrast">##### В общем и целом, перед протаскиванием новой технологии всегда нужно проявлять осторожность,</segment>
+		<segment id="137" parent="271" relname="contrast">иначе можно на ровном месте создать самому себе кучу проблем.</segment>
+		<segment id="138" parent="272" relname="joint">Сомневайтесь во всем, что вам говорят евангелисты.</segment>
+		<segment id="139" parent="276" relname="span">Не стесняйтесь (вежливо и без троллфейса!) задавать им неудобные вопросы вроде тех, что были приведенны выше.</segment>
+		<segment id="140" parent="273" relname="joint">В случая с языками хорошим признаком является возможность вызывать код на Си или Java напрямую, без биндингов.</segment>
+		<segment id="141" parent="273" relname="joint">Еще более хороший признак, если язык транслируется в C/C++ или Java.</segment>
+		<segment id="142" parent="274" relname="contrast">Это означает, что создатели языка подумали о минимизации рисков,</segment>
+		<segment id="143" parent="274" relname="contrast">а не то, что они не осилили православный LLVM. Скорее всего :)</segment>
+		<segment id="144" parent="283" relname="span">##### Подождите лет пять,</segment>
+		<segment id="145" parent="144" relname="condition">пока с технологией не поиграются другие</segment>
+		<segment id="146" parent="277" relname="joint">и не соберут все-все-все грабли.</segment>
+		<segment id="147" parent="148" relname="condition">Если после этого появятся саксесс сторис,</segment>
+		<segment id="148" parent="278" relname="span">возможно, технология действительно чем-то интересна.</segment>
+		<segment id="149" parent="280" relname="sequence">После этого поиграйтесь еще немного в своих пет проджектах, затем на некритичных проектах на работе (например, в админке или интеграционных тестах).</segment>
+		<segment id="150" parent="151" relname="condition">Если все хорошо,</segment>
+		<segment id="151" parent="279" relname="span">то можно постепенно, маленькими шажками, попробовать применить технологию уже там, где ходят пользователи.</segment>
+		<group id="152" type="multinuc" parent="153" relname="span"/>
+		<group id="153" type="span" parent="3" relname="elaboration"/>
+		<group id="154" type="span" parent="152" relname="elaboration"/>
+		<group id="156" type="span" parent="162" relname="joint"/>
+		<group id="157" type="span" parent="9" relname="cause"/>
+		<group id="158" type="span" parent="159" relname="solutionhood"/>
+		<group id="159" type="span" parent="160" relname="span"/>
+		<group id="160" type="span" parent="8" relname="elaboration"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="162" type="multinuc" parent="14" relname="solutionhood"/>
+		<group id="163" type="span" />
+		<group id="164" type="multinuc" parent="16" relname="cause"/>
+		<group id="165" type="span" parent="168" relname="contrast"/>
+		<group id="166" type="multinuc" parent="167" relname="contrast"/>
+		<group id="167" type="multinuc" parent="168" relname="contrast"/>
+		<group id="168" type="multinuc" parent="169" relname="span"/>
+		<group id="169" type="span" parent="286" relname="joint"/>
+		<group id="171" type="span" parent="179" relname="joint"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="174" type="span" parent="179" relname="joint"/>
+		<group id="175" type="span" parent="178" relname="span"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" parent="175" relname="elaboration"/>
+		<group id="178" type="span" parent="179" relname="joint"/>
+		<group id="179" type="multinuc" parent="180" relname="span"/>
+		<group id="180" type="span" parent="182" relname="span"/>
+		<group id="181" type="multinuc" parent="180" relname="preparation"/>
+		<group id="182" type="span" parent="286" relname="joint"/>
+		<group id="183" type="multinuc" parent="39" relname="solutionhood"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" parent="187" relname="contrast"/>
+		<group id="186" type="span" parent="187" relname="contrast"/>
+		<group id="187" type="multinuc" parent="190" relname="span"/>
+		<group id="188" type="span" parent="46" relname="evidence"/>
+		<group id="189" type="span" parent="191" relname="joint"/>
+		<group id="190" type="span" parent="284" relname="elaboration"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="286" relname="joint"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="197" relname="joint"/>
+		<group id="196" type="span" parent="199" relname="joint"/>
+		<group id="197" type="multinuc" parent="201" relname="solutionhood"/>
+		<group id="198" type="span" parent="199" relname="joint"/>
+		<group id="199" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="200" type="span" parent="197" relname="joint"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="286" relname="joint"/>
+		<group id="204" type="span" parent="205" relname="contrast"/>
+		<group id="205" type="multinuc" parent="207" relname="contrast"/>
+		<group id="206" type="span" parent="205" relname="contrast"/>
+		<group id="207" type="multinuc" parent="212" relname="span"/>
+		<group id="208" type="span" parent="210" relname="joint"/>
+		<group id="209" type="multinuc" parent="210" relname="joint"/>
+		<group id="210" type="multinuc" parent="211" relname="joint"/>
+		<group id="211" type="multinuc" parent="207" relname="contrast"/>
+		<group id="212" type="span" parent="286" relname="joint"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="219" relname="joint"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="218" type="span" parent="219" relname="joint"/>
+		<group id="219" type="multinuc" parent="228" relname="span"/>
+		<group id="220" type="multinuc" parent="227" relname="contrast"/>
+		<group id="221" type="span" parent="226" relname="joint"/>
+		<group id="222" type="span" parent="81" relname="cause"/>
+		<group id="223" type="span" parent="86" relname="evidence"/>
+		<group id="224" type="span" parent="226" relname="joint"/>
+		<group id="225" type="span" parent="226" relname="joint"/>
+		<group id="226" type="multinuc" parent="227" relname="contrast"/>
+		<group id="227" type="multinuc" parent="228" relname="elaboration"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="91" relname="solutionhood"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="286" relname="joint"/>
+		<group id="232" type="multinuc" parent="246" relname="preparation"/>
+		<group id="233" type="span" parent="234" relname="contrast"/>
+		<group id="234" type="multinuc" parent="240" relname="joint"/>
+		<group id="235" type="span" parent="234" relname="contrast"/>
+		<group id="236" type="multinuc" parent="99" relname="cause"/>
+		<group id="237" type="span" parent="238" relname="joint"/>
+		<group id="238" type="multinuc" parent="102" relname="condition"/>
+		<group id="239" type="span" parent="240" relname="joint"/>
+		<group id="240" type="multinuc" parent="246" relname="span"/>
+		<group id="241" type="span" parent="106" relname="cause"/>
+		<group id="242" type="span" parent="244" relname="joint"/>
+		<group id="243" type="multinuc" parent="244" relname="joint"/>
+		<group id="244" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="245" type="span" parent="240" relname="joint"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="286" relname="joint"/>
+		<group id="248" type="span" parent="249" relname="joint"/>
+		<group id="249" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="250" type="span" parent="252" relname="span"/>
+		<group id="251" type="span" parent="250" relname="solutionhood"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="286" relname="joint"/>
+		<group id="254" type="span" parent="255" relname="contrast"/>
+		<group id="255" type="multinuc" parent="257" relname="joint"/>
+		<group id="256" type="span" parent="257" relname="joint"/>
+		<group id="257" type="multinuc" parent="264" relname="solutionhood"/>
+		<group id="258" type="span" parent="257" relname="joint"/>
+		<group id="259" type="span" parent="260" relname="same-unit"/>
+		<group id="260" type="multinuc" parent="261" relname="span"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="257" relname="joint"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="286" relname="joint"/>
+		<group id="267" type="multinuc" parent="133" relname="condition"/>
+		<group id="268" type="span" parent="269" relname="joint"/>
+		<group id="269" type="multinuc" parent="270" relname="contrast"/>
+		<group id="270" type="multinuc" parent="286" relname="joint"/>
+		<group id="271" type="multinuc" parent="275" relname="joint"/>
+		<group id="272" type="multinuc" parent="275" relname="joint"/>
+		<group id="273" type="multinuc" parent="274" relname="cause"/>
+		<group id="274" type="multinuc" parent="282" relname="span"/>
+		<group id="275" type="multinuc" parent="287" relname="span"/>
+		<group id="276" type="span" parent="272" relname="joint"/>
+		<group id="277" type="multinuc" parent="280" relname="sequence"/>
+		<group id="278" type="span" parent="280" relname="sequence"/>
+		<group id="279" type="span" parent="280" relname="sequence"/>
+		<group id="280" type="multinuc" parent="275" relname="elaboration"/>
+		<group id="281" type="span" parent="192" relname="preparation"/>
+		<group id="282" type="span" parent="139" relname="elaboration"/>
+		<group id="283" type="span" parent="277" relname="joint"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="191" relname="solutionhood"/>
+		<group id="286" type="multinuc" />
+		<group id="287" type="span" />
+	</body>
+</rst>

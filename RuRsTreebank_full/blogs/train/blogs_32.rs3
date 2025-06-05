@@ -1,0 +1,282 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://daryakarelina.com/podschet-kalorij-ne-tochnaya-nauka</segment>
+		<segment id="2" >##### Подсчет калорий - не точная наука</segment>
+		<segment id="3" parent="149" relname="span">##### Современный мир правильного питания и фитнеса буквально крутится вокруг калорий.</segment>
+		<segment id="4" parent="5" relname="condition">Когда мы тренируемся,</segment>
+		<segment id="5" parent="129" relname="span">то думаем о том, сколько калорий сожгли.</segment>
+		<segment id="6" parent="7" relname="condition">Когда мучаемся желанием что-то съесть,</segment>
+		<segment id="7" parent="130" relname="span">то думаем, сколько калорий в течение дня наберем.</segment>
+		<segment id="8" parent="133" relname="span">Подсчет калорий большинством людей свято считается точным методом,</segment>
+		<segment id="9" parent="132" relname="joint">который помогает эффективно сжечь жир</segment>
+		<segment id="10" parent="132" relname="joint">или набрать мышечную массу.</segment>
+		<segment id="11" parent="135" relname="contrast">Но как бы мы не любили вещи, гарантирующие нам 100% успех,</segment>
+		<segment id="12" parent="136" relname="span">на самом деле это довольно условный способ,</segment>
+		<segment id="13" parent="146" relname="span">и на это есть несколько причин:</segment>
+		<segment id="14" parent="145" relname="joint">##### - Инструменты подсчета калорий являются неточными.</segment>
+		<segment id="15" parent="145" relname="joint">##### - Подсчет калорий не учитывает множество других факторов, которые могут влиять на суточное колебания веса (баланс жидкости, фекальные содержание кишечника и т.п.).</segment>
+		<segment id="16" parent="17" relname="condition">##### - При подсчете калорий</segment>
+		<segment id="17" parent="234" relname="span">использует значения, основанные на оценках, которые не всегда точны</segment>
+		<segment id="18" parent="137" relname="joint">и могут иметь погрешность в 20 и более процентов</segment>
+		<segment id="19" parent="140" relname="span">##### - Подсчет калорий не принимает во внимание вопрос поглощения пищи,</segment>
+		<segment id="20" parent="139" relname="span">которое зависит от многих факторов,</segment>
+		<segment id="21" parent="138" relname="joint">в том числе ее приготовления,</segment>
+		<segment id="22" parent="138" relname="joint">смешивания,</segment>
+		<segment id="23" parent="138" relname="joint">общего содержания жира и т.д.</segment>
+		<segment id="24" parent="141" relname="span">##### - Диетическое волокно (клетчатка),</segment>
+		<segment id="25" parent="24" relname="elaboration">которое часто воспринимается как не содержащее  калорий,</segment>
+		<segment id="26" parent="222" relname="span">на самом деле в отдельных случаях дает ~ 2 калорий на грамм,</segment>
+		<segment id="27" parent="26" relname="evaluation">и эти калории часто не учитываются.</segment>
+		<segment id="28" parent="150" relname="joint">##### Именно поэтому попытка считать калории и управлять энергетическим балансом на ежедневной основе сложна</segment>
+		<segment id="29" parent="150" relname="joint">и не настолько надежна.</segment>
+		<segment id="30" parent="151" relname="joint">Но почему же тогда это так популярно</segment>
+		<segment id="31" parent="151" relname="joint">и во многих случаях работает?</segment>
+		<segment id="32" parent="155" relname="span">##### Наш вес является фактором энергетического баланса.</segment>
+		<segment id="33" parent="154" relname="contrast">Люди хотят верить в причудливые диеты, таблетки, добавки и т.д., которые помогут каким-то образом избежать основных законов термодинамики,</segment>
+		<segment id="34" parent="153" relname="span">но ни один из них не работает,</segment>
+		<segment id="35" parent="34" relname="evidence">так как калория остается калорией.</segment>
+		<segment id="36" parent="156" relname="condition">##### Если говорить, об изменении композиции тела,</segment>
+		<segment id="37" parent="156" relname="span">то принцип энергетического баланса следующий:</segment>
+		<segment id="38" parent="39" relname="cause">##### - Потребление большего количества калорий/энергии, чем расходуется,</segment>
+		<segment id="39" parent="157" relname="span">приводит к набору веса.</segment>
+		<segment id="40" parent="41" relname="cause">##### - Потребление меньшего количества калорий/энергии, чем расходуется,</segment>
+		<segment id="41" parent="158" relname="span">приводит к потере веса.</segment>
+		<segment id="42" parent="161" relname="joint">##### Способ подсчета популярен</segment>
+		<segment id="43" parent="161" relname="joint">и приводит к успехам,</segment>
+		<segment id="44" parent="162" relname="cause">так как в его основе лежит принцип энергетического баланса.</segment>
+		<segment id="45" parent="164" relname="joint">Но сам по себе он имеет свои недостатки</segment>
+		<segment id="46" parent="164" relname="joint">и порой может оказаться абсолютно безнадежным.</segment>
+		<segment id="47" parent="48" relname="solutionhood">Почему?</segment>
+		<segment id="48" parent="223" relname="span">Читайте дальше.</segment>
+		<segment id="49" parent="169" relname="preparation">##### История возникновения калории и БЖУ</segment>
+		<segment id="50" parent="168" relname="joint">##### В 1896 году Уилбур О. Этуотер, отец пищевых калорий, отбирал образцы сотен продуктов</segment>
+		<segment id="51" parent="224" relname="span">и сжигал в калориметрической бомбе с целью расчета калорийности.</segment>
+		<segment id="52" parent="171" relname="span">Калориметрическая бомба – основная часть калориметра,</segment>
+		<segment id="53" parent="52" relname="purpose">предназначенного для определения теплоты сгорания жидкого, твердого и газообразного топлива,</segment>
+		<segment id="54" parent="173" relname="span">представляет собой герметичный толстостенный стальной цилиндр,</segment>
+		<segment id="55" parent="54" relname="elaboration">в котором сжигают исследуемое вещество.</segment>
+		<segment id="56" parent="175" relname="contrast">##### В результате этого исследования были получены определенные цифры для каждого продукта, которые используются и по сей день.</segment>
+		<segment id="57" parent="175" relname="contrast">Но проблема заключается в том, что широкий диапазон разных значений общей калорийности был получен даже для яблок, выращенных и хранящихся одинаково.</segment>
+		<segment id="58" parent="226" relname="attribution">В результате, в заявлении Продовольственной и сельскохозяйственной организации Объединенных Наций говорится:</segment>
+		<segment id="59" parent="60" relname="cause">“Продукты питания, являясь биологическими материалами, могут варьироваться по своей композиции;</segment>
+		<segment id="60" parent="226" relname="span">поэтому база данных не может точно предсказать состав любого отдельного образца пищи”.</segment>
+		<segment id="61" parent="178" relname="span">##### Система</segment>
+		<segment id="62" parent="61" relname="purpose">для определения энергетической ценности продуктов,</segment>
+		<segment id="63" parent="179" relname="same-unit">как вы уже поняли, была основана более 100 лет назад</segment>
+		<segment id="64" parent="179" relname="evaluation">и значения ее не являются очень точными.</segment>
+		<segment id="65" parent="180" relname="span">При этом общие факторы до сих пор широко применяются в пищевой индустрии</segment>
+		<segment id="66" parent="65" relname="purpose">для оценки содержания энергии в том или ином продукте.</segment>
+		<segment id="67" parent="68" relname="attribution">В 1955 году Merrill and Watt</segment>
+		<segment id="68" parent="235" relname="span">опубликовали отчет</segment>
+		<segment id="69" parent="235" relname="purpose">с целью обновить данные о содержании энергии в макроэлементах (белках, жирах, углеводах) в соответствии с классом пищи, в которой они были найдены,</segment>
+		<segment id="70" parent="237" relname="joint">и этот отчет был дополнительно обновлен в 1973 году.</segment>
+		<segment id="71" parent="254" relname="attribution">Ученые приняли во внимание то,</segment>
+		<segment id="72" parent="253" relname="span">что соединения в одном классе могут отличаться по количеству выделяемого тепла</segment>
+		<segment id="73" parent="72" relname="condition">при сгорании,</segment>
+		<segment id="74" parent="254" relname="joint">и макроэлементы, которые содержатся в различных продуктах питания могут также отличаться по усвояемости.</segment>
+		<segment id="75" parent="181" relname="joint">Предложенные ими коэффициенты усвояемости для белка широко варьировались от 20% до 97%, а для углеводов от 32% до 98%.</segment>
+		<segment id="76" parent="181" relname="joint">Значения энергетической ценности для белка (минус 1,25 ккал теряется в виде мочевины) колебалась от 3,75 до 4,55 ккал/г; для углеводов -  от 2,45 до 4,20 ккал/г.</segment>
+		<segment id="77" parent="182" relname="span">В противоположность этому, диапазоны расчетных значений для жира были значительно уже:</segment>
+		<segment id="78" parent="77" relname="elaboration">усвояемость в диапазоне 90-95%, энергетическая ценность  9,3-9,5 ккал/г.</segment>
+		<segment id="79" parent="185" relname="span">Интересным является факт,</segment>
+		<segment id="80" parent="184" relname="span">на который указывает много доказательств,</segment>
+		<segment id="81" parent="80" relname="elaboration">которые всплыли в процессе проведения экспериментов,</segment>
+		<segment id="82" parent="186" relname="comparison">что перевариваемость жира из целых орехов может быть значительно ниже,</segment>
+		<segment id="83" parent="186" relname="comparison">чем для других источников пищи.</segment>
+		<segment id="84" parent="262" relname="evaluation">Не зря они считаются одним из лучших источников жиров.</segment>
+		<segment id="85" parent="238" relname="span">В дополнение было обнаружено, что углеводы с высоким содержанием клетчатки имеют различные коэффициенты усвавиваемости</segment>
+		<segment id="86" parent="85" relname="condition">в зависимости от типа волокна, а также индивидуального состава кишечных бактерий.</segment>
+		<segment id="87" parent="192" relname="preparation">##### Так что же делать?</segment>
+		<segment id="88" parent="191" relname="cause">##### Как видите, идея того, что один грамм любого белка это 4 ккал, жира - 9 ккал, а углеводов - 4 ккал, является грубым упрощением,</segment>
+		<segment id="89" parent="191" relname="span">что может иметь значительные последствия</segment>
+		<segment id="90" parent="89" relname="condition">при попытке контролировать потребление пищи только за счет учета калорий.</segment>
+		<segment id="91" parent="195" relname="span">Рассчитанная дневная потребность не что иное, как ориентир,</segment>
+		<segment id="92" parent="194" relname="joint">самое главное - следить за результатами,</segment>
+		<segment id="93" parent="194" relname="joint">прислушиваться к своему организму</segment>
+		<segment id="94" parent="194" relname="joint">и манипулировать питанием и физическими нагрузками.</segment>
+		<segment id="95" parent="233" relname="joint">При этом очень важно знать принцип пищевой плотности и принцип плотности калорий.</segment>
+		<segment id="96" parent="198" relname="joint">##### Принцип плотности калорий очень прост в применении,</segment>
+		<segment id="97" parent="198" relname="joint">испытан</segment>
+		<segment id="98" parent="198" relname="joint">и проверен временем.</segment>
+		<segment id="99" parent="239" relname="span">Он помогает контролировать потребление калорий</segment>
+		<segment id="100" parent="99" relname="condition">без их подсчета.</segment>
+		<segment id="101" parent="202" relname="span">Плотность калорий это соотношение между калорийностью продукта и его весом.</segment>
+		<segment id="102" parent="201" relname="comparison">Например в 100 г куриной грудки около 113 ккал,</segment>
+		<segment id="103" parent="201" relname="comparison">а в 100 г пицца Маргарите около 208 ккал.</segment>
+		<segment id="104" parent="204" relname="joint">А теперь подумайте, после чего вы будете дольше чувствовать себя сытым</segment>
+		<segment id="105" parent="204" relname="joint">и получите качественную пищу?</segment>
+		<segment id="106" parent="107" relname="attribution">Принцип пищевой плотности лежит в той же плоскости.</segment>
+		<segment id="107" parent="247" relname="span">Он указывает на количество макро и микронутриентов, содержащихся в 100 ккал продукта.</segment>
+		<segment id="108" parent="249" relname="condition">Возвращаясь к предыдущему примеру,</segment>
+		<segment id="109" parent="110" relname="evaluation">очевидно, что</segment>
+		<segment id="110" parent="249" relname="span">100 г куриной грудки будет намного богаче необходимыми организму нутриентами, чем пицца.</segment>
+		<segment id="111" parent="250" relname="evaluation">Делая выбор в пользу подобной пищи, очень  легко построить грамотный рацион.</segment>
+		<segment id="112" parent="209" relname="preparation">##### Итоги</segment>
+		<segment id="113" parent="208" relname="joint">##### Подсчет калорий, безусловно, имеет свои преимущества,</segment>
+		<segment id="114" parent="242" relname="same-unit">и</segment>
+		<segment id="115" parent="116" relname="cause">зная, как применять его правильно,</segment>
+		<segment id="116" parent="240" relname="span">можно достичь результатов,</segment>
+		<segment id="117" parent="240" relname="elaboration">что используют диетологи и фитнес-профи.</segment>
+		<segment id="118" parent="119" relname="concession">Тем не менее, несмотря на то, что большинство людей думают, что дотошный подсчет калорий это панацея,</segment>
+		<segment id="119" parent="211" relname="span">увы это не так.</segment>
+		<segment id="120" parent="259" relname="span">Особенно это актуально с текущим увлечением приложениями,</segment>
+		<segment id="121" parent="212" relname="joint">считающими сколько вы сожгли калорий</segment>
+		<segment id="122" parent="212" relname="joint">и позволяющие считать, сколько вы потребили.</segment>
+		<segment id="123" parent="218" relname="span">Цифры должны быть ориентиром,</segment>
+		<segment id="124" parent="215" relname="joint">от которого можно</segment>
+		<segment id="125" parent="215" relname="joint">и нужно отходить</segment>
+		<segment id="126" parent="216" relname="condition">при необходимости.</segment>
+		<segment id="127" parent="243" relname="span">А результат принесет пища с низкой калорийной и высокой пищевой плотностью</segment>
+		<segment id="128" parent="127" relname="condition">в сочетании с качественными и регулярными физическими нагрузками.</segment>
+		<group id="129" type="span" parent="131" relname="joint"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="131" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="132" type="multinuc" parent="8" relname="purpose"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="147" relname="contrast"/>
+		<group id="135" type="multinuc" parent="147" relname="contrast"/>
+		<group id="136" type="span" parent="135" relname="contrast"/>
+		<group id="137" type="multinuc" parent="145" relname="joint"/>
+		<group id="138" type="multinuc" parent="20" relname="condition"/>
+		<group id="139" type="span" parent="19" relname="elaboration"/>
+		<group id="140" type="span" parent="145" relname="joint"/>
+		<group id="141" type="span" parent="142" relname="same-unit"/>
+		<group id="142" type="multinuc" parent="145" relname="joint"/>
+		<group id="145" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="146" type="span" parent="12" relname="cause"/>
+		<group id="147" type="multinuc" />
+		<group id="149" type="span" parent="133" relname="preparation"/>
+		<group id="150" type="multinuc" parent="152" relname="contrast"/>
+		<group id="151" type="multinuc" parent="152" relname="contrast"/>
+		<group id="152" type="multinuc" parent="245" relname="solutionhood"/>
+		<group id="153" type="span" parent="154" relname="contrast"/>
+		<group id="154" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="155" type="span" parent="244" relname="joint"/>
+		<group id="156" type="span" parent="252" relname="span"/>
+		<group id="157" type="span" parent="159" relname="joint"/>
+		<group id="158" type="span" parent="159" relname="joint"/>
+		<group id="159" type="multinuc" parent="252" relname="elaboration"/>
+		<group id="160" type="span" parent="244" relname="joint"/>
+		<group id="161" type="multinuc" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="167" relname="contrast"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="167" relname="contrast"/>
+		<group id="167" type="multinuc" parent="244" relname="joint"/>
+		<group id="168" type="multinuc" parent="169" relname="span"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="174" relname="span"/>
+		<group id="171" type="span" parent="172" relname="same-unit"/>
+		<group id="172" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="173" type="span" parent="172" relname="same-unit"/>
+		<group id="174" type="span" parent="177" relname="cause"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" parent="225" relname="span"/>
+		<group id="178" type="span" parent="179" relname="same-unit"/>
+		<group id="179" type="multinuc" parent="263" relname="span"/>
+		<group id="180" type="span" parent="230" relname="joint"/>
+		<group id="181" type="multinuc" parent="183" relname="contrast"/>
+		<group id="182" type="span" parent="188" relname="span"/>
+		<group id="183" type="multinuc" parent="189" relname="span"/>
+		<group id="184" type="span" parent="79" relname="elaboration"/>
+		<group id="185" type="span" parent="262" relname="span"/>
+		<group id="186" type="multinuc" parent="185" relname="elaboration"/>
+		<group id="187" type="span" parent="182" relname="elaboration"/>
+		<group id="188" type="span" parent="183" relname="contrast"/>
+		<group id="189" type="span" parent="261" relname="evidence"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="197" relname="span"/>
+		<group id="194" type="multinuc" parent="91" relname="evaluation"/>
+		<group id="195" type="span" parent="233" relname="joint"/>
+		<group id="196" type="span" parent="193" relname="elaboration"/>
+		<group id="197" type="span" />
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="203" relname="span"/>
+		<group id="201" type="multinuc" parent="101" relname="evidence"/>
+		<group id="202" type="span" parent="205" relname="span"/>
+		<group id="203" type="span" parent="206" relname="comparison"/>
+		<group id="204" type="multinuc" parent="202" relname="elaboration"/>
+		<group id="205" type="span" parent="200" relname="elaboration"/>
+		<group id="206" type="multinuc" />
+		<group id="207" type="span" parent="208" relname="joint"/>
+		<group id="208" type="multinuc" parent="209" relname="span"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" parent="214" relname="contrast"/>
+		<group id="211" type="span" parent="213" relname="span"/>
+		<group id="212" type="multinuc" parent="120" relname="elaboration"/>
+		<group id="213" type="span" parent="214" relname="contrast"/>
+		<group id="214" type="multinuc" parent="220" relname="span"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="123" relname="elaboration"/>
+		<group id="218" type="span" parent="219" relname="contrast"/>
+		<group id="219" type="multinuc" />
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" />
+		<group id="222" type="span" parent="142" relname="same-unit"/>
+		<group id="223" type="span" parent="165" relname="elaboration"/>
+		<group id="224" type="span" parent="168" relname="joint"/>
+		<group id="225" type="span" />
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="176" relname="evidence"/>
+		<group id="230" type="multinuc" parent="260" relname="span"/>
+		<group id="233" type="multinuc" parent="196" relname="span"/>
+		<group id="234" type="span" parent="137" relname="joint"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="237" relname="joint"/>
+		<group id="237" type="multinuc" parent="255" relname="preparation"/>
+		<group id="238" type="span" parent="183" relname="elaboration"/>
+		<group id="239" type="span" parent="199" relname="elaboration"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="242" relname="same-unit"/>
+		<group id="242" type="multinuc" parent="207" relname="span"/>
+		<group id="243" type="span" parent="219" relname="contrast"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="span"/>
+		<group id="246" type="span" />
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="206" relname="comparison"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="247" relname="elaboration"/>
+		<group id="252" type="span" parent="160" relname="span"/>
+		<group id="253" type="span" parent="254" relname="joint"/>
+		<group id="254" type="multinuc" parent="261" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="230" relname="elaboration"/>
+		<group id="259" type="span" parent="211" relname="evidence"/>
+		<group id="260" type="span" />
+		<group id="261" type="span" parent="255" relname="span"/>
+		<group id="262" type="span" parent="187" relname="span"/>
+		<group id="263" type="span" parent="230" relname="joint"/>
+	</body>
+</rst>

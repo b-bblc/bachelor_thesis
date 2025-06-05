@@ -1,0 +1,134 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Россия: Мы не так далеки друг от друга...</segment>
+		<segment id="2" parent="62" relname="span">##### ... На Волге,  в моей чувашской  деревне Сюндырь-станция  про  реки Лену и Обь, про остроги   Вилюя и Верхоянска знали с пугачевских времен,</segment>
+		<segment id="3" parent="2" relname="cause">потому что  по  Сибирской арестантской дороге, через  этапы и казематы, туда  увели  на вечное заточение наших предков-бунтарей.</segment>
+		<segment id="4" parent="61" relname="joint">Да и через века потом Красноярский и Иркутский края, Якутск,  Олекма, Колыма напоминали о себе судьбами декабристов, ссылками Чернышевского и Короленко, весточками подневольных чувашских  революционеров Алюнова, Хури, ложно репрессированных поэтов Юмана,  Митты, Шубоссини.</segment>
+		<segment id="5" >##### На светлых страницах якутско-чувашской дружбы написаны имена друживших между собой  якутских и чувашских артистов, выпускников Московского театрального училища имени Щепкина 1966 и 1985 годов, доктора   ветеринарных наук, заведующего кафедрой хирургии сельхозфакультета Якутского университета Николая Барсукова,   государственного советника 3 ранга в Саха-Якутии Анатолия Буинцева (родом из  с. Турмыши Янтиковского района Чувашии), заслуженного работника народного образования Республики Саха известного в стране этнопедагога Геннадия  Волкова, писателя, автора популярных романов «Полюс холода» и «Улыбка Мицара» Михаила Белова  (из Ойкасов Ядринского района), литературоведа и писателя, автора повести «Холодные звезды»  Афиногена Кузьмина (Чебаково Ядринского района ЧР),  переводчиков якутской литературы на чувашский язык  Аркадия Эсхеля, Георгия Ефимова, Василия Шашкара, Анатолия Смолина, Раисы Сарби, Михаила Юхмы и др.</segment>
+		<segment id="6" parent="68" relname="preparation">##### Славный поэт Семен Руфов перевел на якутский чувашскую поэму «Нарспи» Константина Иванова.</segment>
+		<segment id="7" parent="8" relname="cause">Когда   якутский поэт, лауреат Чувашской национальной премии  приехал на родину просветителя Ивана  Яковлева, героя Василия Чапаева, космонавта  Андрияна Николаева,</segment>
+		<segment id="8" parent="63" relname="span">в Чувашии состоялся необъявленный праздник саха культуры.</segment>
+		<segment id="9" parent="64" relname="joint">На волжском острове Амаксар чувашские юмзи (шаманы) били в бубен</segment>
+		<segment id="10" parent="103" relname="same-unit">и,</segment>
+		<segment id="11" parent="12" relname="elaboration">повернувшись на восток,</segment>
+		<segment id="12" parent="104" relname="span">приносили великий чюк (моление) с хлебом и питьем в честь древних сородичей, живущих   в стране далеких северных сияний.</segment>
+		<segment id="13" parent="65" relname="span">Пели   песню об оленях,</segment>
+		<segment id="14" parent="13" relname="concession">хотя в Чувашии  оленей нет:</segment>
+		<segment id="15" parent="106" relname="span">«ӗнтӗ пӑлан ишет, пӑлан ишет, мӑйракине шывран илмесӗр ...»</segment>
+		<segment id="16" parent="105" relname="joint">(Вот и плывет олень,</segment>
+		<segment id="17" parent="105" relname="joint">плывет олень,</segment>
+		<segment id="18" parent="105" relname="joint">рога не отнимая от воды).</segment>
+		<segment id="19" parent="71" relname="joint">##### В ответную благодарность поэту    чувашская девушка Раиса Сарби  составила</segment>
+		<segment id="20" parent="71" relname="joint">и выпустила сборник якутской поэзии «Жемчужина Сахи» (Саха ахахӗ, 1996),</segment>
+		<segment id="21" parent="108" relname="joint">в котором нашли место стихи Анемподиста Сафронова, Семена Данилова, 35 стихотворений  Семена Руфова,  19 - Василия Сивцева.</segment>
+		<segment id="22" parent="108" relname="joint">По несколько стихов Моисея Ефимова, Николая Босикова, Ивана Митякина, Анатолия Михайлова и короткие рассказы Петра Хорунского.</segment>
+		<segment id="23" parent="72" relname="contrast">Хоть книга маленькая,</segment>
+		<segment id="24" parent="72" relname="contrast">но радости она принесла большие.</segment>
+		<segment id="25" parent="73" relname="joint">Свет северного края,  природа и живность  Якутии запели в ней  свежим, чистым, задушевным голосом.</segment>
+		<segment id="26" parent="111" relname="joint">Некоторые стихи и рассказы вошли в школьные учебники чувашской литературы.</segment>
+		<segment id="27" parent="111" relname="joint">Творчество классиков якутской литературы,  народных писателей, Героя Социалистического Труда  Соуруна Омоллона (Сивцева) изучается в двух  Чувашских университетах им. И.Н Ульянова и И.Я.Яковлева.</segment>
+		<segment id="28" parent="78" relname="contrast">##### В древней давности наши пращуры  с Алтайских предгорий и Прибайкалья  разошлись в разные стороны на Лену и на Волгу,</segment>
+		<segment id="29" parent="78" relname="contrast">но языки и  менталитет сохранили  незыблемые корни мировидения.</segment>
+		<segment id="30" parent="80" relname="joint">Немало созвучий в эпосах Олонхо и  Улып,  единство в древнейших словах  - серэ – ҫӗрӗ (замля, страна), соул- ҫул ( дорога), сюри - ҫури, арҫури (дух, душа),  игире – йӗкӗре (двойня), хомус – купӑс (варган, гармоника),тюнгур – тункӑр (бубен),  каталык-хӑталӑк   (белый журавль или лебедь), гара – хура (черный), кыым – хӗм (искра), буол – пул (будь).</segment>
+		<segment id="31" parent="79" relname="span">И топонимика странным образом перекликается с Якутией -</segment>
+		<segment id="32" parent="31" relname="evidence">реки Чульман, Айхал,  Анабар, населенные пункты Отосурт, Пеледуй, Чекуры, Сюльдюкар, Сунтар, Эльдикан и  другие  ойконимы  рассыпаны на  карте Поволжья...</segment>
+		<segment id="33" parent="83" relname="joint">##### В разные годы чувашская пресса печатала произведения</segment>
+		<segment id="34" parent="83" relname="joint">и  писала  о якутских мастерах слова.</segment>
+		<segment id="35" parent="85" relname="span">Помнится,  в 1957 году журнал «Ялав» известил о поэте песеннике, фронтовике Кюннюка Урастырове.</segment>
+		<segment id="36" parent="84" relname="joint">У него была такая же трудная судьба, как у чувашского песенника Валентина Урдаша,</segment>
+		<segment id="37" parent="84" relname="joint">и это нам сразу запомнилось.</segment>
+		<segment id="38" parent="87" relname="joint">Ослепший  боец- писатель Эрилик Эристин напоминал нашего народного поэта Николая Шелеби и одновременно  «чувашского Островского» Альберта Канаша.</segment>
+		<segment id="39" parent="86" relname="joint">Стихотворение «Родина» Анемподиста Софронова  звенит в унисон стихам  пламенного чувашского  первоцвета  Михаила Сеспеля,</segment>
+		<segment id="40" parent="86" relname="joint">поэма Леонида Попова «Моей Республике»(1952) близка по духу поэме чувашского народного поэта Педера Хузангая «Сегодняшняя поэма» (1927).</segment>
+		<segment id="41" parent="87" relname="joint">Рассказы Н. Габышева,  стихи Серафима Элляя, И. Эртюкова («Говорит якут»),  сказания о Манчары обогащали наши знания о далекой Якутии.</segment>
+		<segment id="42" parent="90" relname="joint">##### 17 чувашских писателей  коротали по  17 лет</segment>
+		<segment id="43" parent="90" relname="joint">или сложили головы в   лагерях Сибири и Севера.</segment>
+		<segment id="44" parent="92" relname="span">А  куда же выслали  Кулаковского, Софронова, Неустроева и других  якутских «буржуазных националистов»?</segment>
+		<segment id="45" parent="91" relname="contrast">Как далеко  ни жили друг от друга,</segment>
+		<segment id="46" parent="91" relname="contrast">судьба во многом водила  нас одними путями.</segment>
+		<segment id="47" parent="96" relname="span">##### Сейчас открылся  новый этап нашей дружбы.</segment>
+		<segment id="48" parent="94" relname="joint">Саха Республика становится нам ближе с каждым годом.</segment>
+		<segment id="49" parent="94" relname="joint">Предприниматели, работники науки, культуры и искусства все  чаще и чаще стали посещать Якутск.</segment>
+		<segment id="50" parent="94" relname="joint">Побывали в Чувашии делегации Саха Республики.</segment>
+		<segment id="51" parent="94" relname="joint">Интернет открыл постоянную связь.</segment>
+		<segment id="52" parent="95" relname="span">В Саха успешно набирает силу  центр чувашской культурной автономии (председатель Петр Ильдеркин),</segment>
+		<segment id="53" parent="113" relname="span">объединяющий  чувашей   Якутии,</segment>
+		<segment id="54" parent="53" relname="elaboration">А их в краю  Полярной звезды  более трех тысяч.</segment>
+		<segment id="55" parent="97" relname="attribution">##### Надеюсь,</segment>
+		<segment id="56" parent="97" relname="joint">что возобновятся наши духовно-культурные связи,</segment>
+		<segment id="57" parent="97" relname="joint">на Чебоксарском фестивале «Родники России» зазвучат якутские песни</segment>
+		<segment id="58" parent="100" relname="joint">и почему бы в скором времени в Чувашии не состояться Дням якутской культуры?...</segment>
+		<segment id="59" parent="101" relname="span">##### Приложим же некоторые усилия</segment>
+		<segment id="60" parent="59" relname="purpose">для  возрождения наших родственных  отношений.</segment>
+		<group id="61" type="multinuc" />
+		<group id="62" type="span" parent="61" relname="joint"/>
+		<group id="63" type="span" parent="68" relname="span"/>
+		<group id="64" type="multinuc" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="67" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" />
+		<group id="71" type="multinuc" parent="74" relname="span"/>
+		<group id="72" type="multinuc" parent="110" relname="span"/>
+		<group id="73" type="multinuc" parent="72" relname="elaboration"/>
+		<group id="74" type="span" parent="109" relname="span"/>
+		<group id="78" type="multinuc" parent="80" relname="preparation"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="80" type="multinuc" parent="112" relname="span"/>
+		<group id="83" type="multinuc" parent="88" relname="span"/>
+		<group id="84" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="85" type="span" parent="87" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="evidence"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="89" type="span" />
+		<group id="90" type="multinuc" parent="93" relname="joint"/>
+		<group id="91" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="93" type="multinuc" />
+		<group id="94" type="multinuc" parent="47" relname="evidence"/>
+		<group id="95" type="span" parent="94" relname="joint"/>
+		<group id="96" type="span" />
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="98" type="span" parent="100" relname="joint"/>
+		<group id="100" type="multinuc" parent="102" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="102" type="multinuc" />
+		<group id="103" type="multinuc" parent="64" relname="joint"/>
+		<group id="104" type="span" parent="103" relname="same-unit"/>
+		<group id="105" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="106" type="span" parent="65" relname="elaboration"/>
+		<group id="108" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="109" type="span" />
+		<group id="110" type="span" parent="74" relname="elaboration"/>
+		<group id="111" type="multinuc" parent="73" relname="joint"/>
+		<group id="112" type="span" />
+		<group id="113" type="span" parent="52" relname="elaboration"/>
+	</body>
+</rst>

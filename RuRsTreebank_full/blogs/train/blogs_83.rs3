@@ -1,0 +1,108 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://t.me/corpequities/276</segment>
+		<segment id="2" parent="43" relname="span">##### «Компании делают что-то хорошее только там, где они делают что-то плохое», —</segment>
+		<segment id="3" parent="2" relname="attribution">отреагировала на днях на мою возвышенную речь об экологичности нашего производства собеседница, представляющая отдел закупок большого авиаперевозчика.</segment>
+		<segment id="4" parent="43" relname="evaluation">— «Это такая «отмывка совести», по большому счёту».</segment>
+		<segment id="5" parent="45" relname="joint">##### Распространённое и, увы, подкреплённое практикой взаимодействия производственных предприятий с местными сообществами мнение.</segment>
+		<segment id="6" parent="46" relname="span">А ещё — очень удобное,</segment>
+		<segment id="7" parent="6" relname="purpose">позволяющее заведомо обесценивать все, что корпорации делают сверх требований законодательства или отраслевых стандартов — например, экологических.</segment>
+		<segment id="8" parent="76" relname="span">##### За маркировку по экостандартам «первого уровня», охватывающим весь жизненный цикл продукта,</segment>
+		<segment id="9" parent="8" relname="purpose">как инструмент повышения доверия</segment>
+		<segment id="10" parent="76" relname="attribution">ратовали сегодня на комитете по #КСО Ассоциации менеджеров коллеги из #Opticom, крупнейшего производителя расходных офисных материалов.</segment>
+		<segment id="11" parent="77" relname="joint">##### О скепсисе ведущих мировых экспертов относительно способности систем маркировки</segment>
+		<segment id="12" parent="77" relname="joint">и прослеживаемости как-то восстанавливать разрушенную веру потребителей в бренды</segment>
+		<segment id="13" parent="79" relname="span">писала здесь уже не раз</segment>
+		<segment id="14" parent="13" relname="elaboration">(например, https://t.me/corpequities/234).</segment>
+		<segment id="15" parent="50" relname="joint">##### Мало того, что существующие «зелёные стандарты» никак не отражают такую существенную часть производственного цикла, как, например, использование предприятиями возобновляемой энергии или переработанных (вторичных) материалов в упаковке,</segment>
+		<segment id="16" parent="60" relname="span">они часто необоснованно перетягивают внимание и брендов, и покупателей на «безопасность» формулы продукта для здоровья человека в ущерб проблемам безопасности производства этого продукта и утилизации его отходов для планеты.</segment>
+		<segment id="17" parent="51" relname="joint">##### Скажем, прекрасный натуральный продукт без синтетических добавок — вода из именитого минерального источника или целебная грязь Мертвого моря — сам по себе может нести огромные преимущества для здоровья пользователя</segment>
+		<segment id="18" parent="51" relname="joint">и быть достойным всяческих знаков отличия.</segment>
+		<segment id="19" parent="54" relname="span">Однако процесс выкачивания (выгребания) исходного природного сырья в промышленных масштабах, фасовки в нерационально мелкую тару в заведомо не перерабатываемой и не разлагаемой упаковке, а также транспортировки неэкологичным способом за тридевять земель</segment>
+		<segment id="20" parent="80" relname="same-unit">— с приучением этого самого пользователя к тому, что</segment>
+		<segment id="21" parent="53" relname="joint">«так удобно,</segment>
+		<segment id="22" parent="53" relname="joint">так безопасно</segment>
+		<segment id="23" parent="53" relname="joint">или так и должно быть»</segment>
+		<segment id="24" parent="54" relname="evaluation">— будет ли когда-то приниматься в расчёт дотошными эко-сертификаторами?</segment>
+		<segment id="25" parent="56" relname="span">(О принципах этичного отношения к воде,</segment>
+		<segment id="26" parent="81" relname="joint">используемой для бутилирования</segment>
+		<segment id="27" parent="81" relname="joint">и экспорта из страны происхождения,</segment>
+		<segment id="28" parent="82" relname="comparison">в этом канале тоже написано немало,</segment>
+		<segment id="29" parent="83" relname="span">как, собственно, и о рациональном формате бутылки,</segment>
+		<segment id="30" parent="84" relname="cause">который, снизившись до 330 мл,</segment>
+		<segment id="31" parent="84" relname="joint">давно вытеснил со столов переговоров стеклянные стаканы,</segment>
+		<segment id="32" parent="84" relname="joint">а из умов жаждущих постоянно увлажнять организм изнутри и снаружи — мысли об ответственном потреблении.)</segment>
+		<segment id="33" parent="63" relname="attribution">##### Скромное пособие по истории и философии науки для аспирантов, найденное мной вчера в библиотеке Высшей школы менеджмента #СПБГУ, поразительно четко суммировало проблему ещё 10 лет назад:</segment>
+		<segment id="34" parent="63" relname="contrast">«Один ребёнок на Западе потребляет столько, сколько 125 человек на Востоке.</segment>
+		<segment id="35" parent="64" relname="span">И все же большинство жителей развитых стран не захотят отказаться от жизненных благ,</segment>
+		<segment id="36" parent="35" relname="concession">несмотря на то, что безудержный рост потребления составляет основную причину деградации природной среды в развивающихся странах.»</segment>
+		<segment id="37" parent="72" relname="same-unit">##### Экологическую безнравственность</segment>
+		<segment id="38" parent="39" relname="attribution">авторы пособия объясняли</segment>
+		<segment id="39" parent="71" relname="span">несколькими простыми психологическими причинами, а именно: эгоизмом, жадностью, невежеством и недальновидностью жителей развитых стран.</segment>
+		<segment id="40" parent="65" relname="span">Очевидно, за минувшие 10 лет болезнь, от которой постепенно пробуждаются западные потребители, широко распространилась на Востоке,</segment>
+		<segment id="41" parent="40" relname="condition">— и отнюдь не без содействия большого и малого бизнеса.</segment>
+		<segment id="42" parent="73" relname="evaluation">##### (И в мыслях не было никого обидеть, как говорится).</segment>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" parent="47" relname="span"/>
+		<group id="45" type="multinuc" parent="44" relname="evaluation"/>
+		<group id="46" type="span" parent="45" relname="joint"/>
+		<group id="47" type="span" />
+		<group id="49" type="span" parent="50" relname="preparation"/>
+		<group id="50" type="multinuc" parent="67" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="contrast"/>
+		<group id="52" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="80" relname="same-unit"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="55" type="span" parent="52" relname="contrast"/>
+		<group id="56" type="span" parent="57" relname="same-unit"/>
+		<group id="57" type="multinuc" parent="61" relname="span"/>
+		<group id="58" type="span" parent="29" relname="elaboration"/>
+		<group id="60" type="span" parent="50" relname="joint"/>
+		<group id="61" type="span" />
+		<group id="63" type="multinuc" parent="68" relname="span"/>
+		<group id="64" type="span" parent="63" relname="contrast"/>
+		<group id="65" type="span" parent="72" relname="evidence"/>
+		<group id="67" type="span" parent="57" relname="solutionhood"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" />
+		<group id="71" type="span" parent="72" relname="same-unit"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="73" type="span" parent="85" relname="span"/>
+		<group id="75" type="span" parent="49" relname="span"/>
+		<group id="76" type="span" parent="75" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="78" type="span" parent="75" relname="background"/>
+		<group id="79" type="span" parent="77" relname="attribution"/>
+		<group id="80" type="multinuc" parent="19" relname="condition"/>
+		<group id="81" type="multinuc" parent="25" relname="purpose"/>
+		<group id="82" type="multinuc" parent="57" relname="same-unit"/>
+		<group id="83" type="span" parent="82" relname="comparison"/>
+		<group id="84" type="multinuc" parent="58" relname="span"/>
+		<group id="85" type="span" parent="68" relname="evaluation"/>
+	</body>
+</rst>

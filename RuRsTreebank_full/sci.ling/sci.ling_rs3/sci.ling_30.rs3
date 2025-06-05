@@ -1,0 +1,292 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Адрес статьи: www.gramota.net/materials/272015/1-1/58.html</segment>
+		<segment id="2" relname="antithesis">Источник</segment>
+		<segment id="3" relname="antithesis">Филологические науки. Вопросы теории и практики</segment>
+		<segment id="4" relname="antithesis">Тамбов: Грамота, 2015. № 1 (43): в 2-х ч. Ч. I. C. 217-219. ISSN 1997-2911.</segment>
+		<segment id="5" relname="antithesis">Адрес журнала: www.gramota.net/editions/2.html</segment>
+		<segment id="6" relname="antithesis">Содержание данного номера журнала: www .gramota.net/mate rials/2/2015/1-1/</segment>
+		<segment id="7" relname="antithesis">© Издательство "Грамота"</segment>
+		<segment id="8" relname="antithesis">УДК 811.11: 81'373.43 Филологические науки</segment>
+		<segment id="9" relname="antithesis">Настоящая работа посвящена исследованию трансформированных фразеологических единиц, их окказиональной актуализации посредством индивидуально-авторского преобразования, а также использованию таких приемов лексической и структурно- семантической обработки фразеологизмов как имплицирование и эксплицирование.</segment>
+		<segment id="10" relname="antithesis">Фактическим иллюстративным материалом послужили примеры, взятые из произведений Джулиана Барнса, - одного из самых ярких прозаиков современной Великобритании.</segment>
+		<segment id="11" relname="antithesis">Ключевые слова и фразы: имплицирование; эксплицирование; актуализация; индивидуально-авторское преобразование; трансформация.</segment>
+		<segment id="12" relname="antithesis">Ярыгина Ольга Николаевна</segment>
+		<segment id="13" relname="antithesis">Белгородский государственный национальный исследовательский университет (НИУ «БелГУ») yarygina@bsu. edu. ги</segment>
+		<segment id="14" relname="antithesis">ИМПЛИЦИРОВАНИЕ И ЭКСПЛИЦИРОВАНИЕ КАК СПОСОБЫ АКТУАЛИЗАЦИИ ФРАЗЕОЛОГИЧЕСКИХ ЕДИНИЦ В ПРОЗАИЧЕСКОМ ДИСКУРСЕ©</segment>
+		<segment id="15" parent="144" relname="same-unit">Изучение методов имплицирования и эксплицирования</segment>
+		<segment id="16" parent="141" relname="joint">при употреблении</segment>
+		<segment id="17" parent="141" relname="joint">и толковании фразеологических единиц (ФЕ)</segment>
+		<segment id="18" parent="143" relname="span">восходит к исследованию устойчивых фраз, анализу их синтаксической структуры (И. А. Филипповская, С. Г. Варлакова, З. К. Тарланов, Л. П. Даниленко и др.).</segment>
+		<segment id="19" parent="145" relname="elaboration">Рассмотрение устойчивых фраз в трудах по фразеологии связано с решением вопросов о природе, семантических и структурных особенностях, лингвистическом статусе и знаковом характере этих образований (В. Л. Архангельский, В. П. Жуков, А. И. Молотков, А. В. Кунин, Н. Ф. Алефиренко, В. Н. Телия и др.).</segment>
+		<segment id="20" parent="21" relname="attribution">В. Л. Архангельский, основоположник учения об устойчивых фразах в русском языке, считает</segment>
+		<segment id="21" parent="147" relname="span">изучение их вариантности «одной из самых актуальных задач теории русской фразеологии» [1, с. 15].</segment>
+		<segment id="22" parent="148" relname="attribution">По его мнению,</segment>
+		<segment id="23" parent="148" relname="span">установление подлинной лингвистической сущности устойчивых фраз возможно</segment>
+		<segment id="24" parent="23" relname="cause">благодаря обращению к устойчивому (постоянному) и вариативному (переменному) в них.</segment>
+		<segment id="25" parent="26" relname="concession">Несмотря на то, что в последние десятилетия был проведен целый ряд исследований, посвященных анализу различных аспектов фразеологического и паремиологического варьирования (В. М. Мокиенко, А. М. Мелерович, Г. Ф. Благова, Е. И. Селиверстова, Н. Н. Федорова, О. Б. Абакумова и др.),</segment>
+		<segment id="26" parent="151" relname="span">некоторые вопросы остаются окончательно не решенными, дискуссионными, требующими дальнейшего изучения и уточнения.</segment>
+		<segment id="27" parent="151" relname="elaboration">К числу таких малоизученных вопросов относится проблема авторского преобразования компонентного состава фразеологических единиц путем использования приемов имплицирования и эксплицирования, что и является объектом нашего исследования.</segment>
+		<segment id="28" parent="153" relname="attribution">По словам Т. В. Гридневой,</segment>
+		<segment id="29" parent="153" relname="span">имплицирование и эксплицирование усиливают экспрессивность ФЕ «за счет неординарности фразеологической структуры»,</segment>
+		<segment id="30" parent="29" relname="cause">за счет нарушения принятого способа выражения [5, с. 9].</segment>
+		<segment id="31" parent="156" relname="attribution">По мнению А. В. Кунина,</segment>
+		<segment id="32" parent="155" relname="span">«высокий удельный вес имплицитной семантики во фразеологии связан с той исключительно важной ролью,</segment>
+		<segment id="33" parent="32" relname="elaboration">которую играет имплицитность в развитии языка,</segment>
+		<segment id="34" parent="155" relname="cause">поскольку языковой знак не способен эксплицитно обозначить все многообразие признаков обозначаемого предмета.</segment>
+		<segment id="35" parent="158" relname="elaboration">Тенденция к увеличению неактуализированных элементов связана с языковой экономией, т.е. с экономным использованием средств языка при его функционировании» [7, с. 225].</segment>
+		<segment id="36" parent="37" relname="attribution">В отношении эксплицирования В. М. Мокиенко в монографии «Славянская фразеология» весьма убедительно доказывает,</segment>
+		<segment id="37" parent="159" relname="span">что этот процесс является одним из активнейших способов фразеологического словообразования,</segment>
+		<segment id="38" parent="39" relname="attribution">отмечая при этом,</segment>
+		<segment id="39" parent="245" relname="span">что «недооценка эксплицитности особенно характерна для анализа взаимоотношений пословиц и фразеологических единиц» [8, с. 119].</segment>
+		<segment id="40" parent="160" relname="span">В данной работе под приемом импликации мы понимаем процесс сокращения языковых знаков фразеологического характера.</segment>
+		<segment id="41" parent="40" relname="elaboration">Одним из первых ученых, обратившим внимание на него и положившим в основу такого движения процесс «сгущения мысли», был А. А. Потебня [9, с. 520].</segment>
+		<segment id="42" parent="161" relname="contrast">В отличие от имплицирования, прием эксплицирования предполагает развертывание ФЕ, введения одного или нескольких компонентов - распространителей во внутрифразеологический контекст.</segment>
+		<segment id="43" parent="162" relname="elaboration">С точки зрения актуализации фразеологизмов в текстах художественной литературы данные процессы обладают как общими, так и специфическими особенностями.</segment>
+		<segment id="44" parent="164" relname="span">В основе имплицирования лежит способность фразеологизма к внутренней перегруппировке сем,</segment>
+		<segment id="45" parent="44" relname="elaboration">при которой «семантика утрачиваемого компонента поглощается значениями оставшихся компонентов» [8, с. 133].</segment>
+		<segment id="46" parent="165" relname="contrast">В то время как эксплицирование связано со способностью компонентов ФЕ присоединять «дополнительные» элементы, чаще всего актуализирующие коннотативную сему ФЕ.</segment>
+		<segment id="47" parent="169" relname="span">При имплицировании окказиональная актуализация фразеологизмов осуществляется</segment>
+		<segment id="48" parent="248" relname="span">за счет опоры на внешний контекст,</segment>
+		<segment id="49" parent="167" relname="joint">который позволяет не воспроизводить полностью весь состав ФЕ,</segment>
+		<segment id="50" parent="167" relname="joint">при этом с легкостью восстанавливать в памяти реципиента-читателя опущенные элементы.</segment>
+		<segment id="51" parent="170" relname="contrast">При эксплицировании индивидуально- авторское преобразование фразеологизмов проявляется на уровне внутреннего фразеологического контекста, конкретизирующего или уточняющего значение определенного компонента или всей ФЕ в целом.</segment>
+		<segment id="52" parent="265" relname="span">Имплицирование определяет два вида соотношения формальных изменений ФЕ с ее семантикой.</segment>
+		<segment id="53" parent="249" relname="span">1\. «Деформирование» / эллиптирование состава ФЕ при сохранении семантики фразеологизма.</segment>
+		<segment id="54" parent="53" relname="evidence">„Larry goes native - a joke, and a cynical one at that. Congratulations." „When in Rome ..." ,No, what 1'Ы talking about is why we, as non-fascist, non- nutters, believe what we believe' [12, р. 108]? / ...Ларри неплохо ассимилировался: уже цинично острит на эту тему. Поздравляю. - С волками жить. - Нет, меня другое интересует: почему мы, не фашисты и не параноики, верим в то, во что верим [4, с. 57]?</segment>
+		<segment id="55" parent="174" relname="comparison">В приведенном примере происходит сокращение компонентного состава всем хорошо известного выражения When in Rome, do as the Romans do. / J3 каком народе живешь, того обычая и держись';</segment>
+		<segment id="56" parent="172" relname="joint">~ ср. с волками жить - по-волчьи выть;</segment>
+		<segment id="57" parent="172" relname="joint">в чужой монастырь со своим уставом не ходят [6, с. 640].</segment>
+		<segment id="58" parent="176" relname="same-unit">Однако,</segment>
+		<segment id="59" parent="60" relname="concession">несмотря на эллиптирование,</segment>
+		<segment id="60" parent="177" relname="span">его семантическая нагрузка сохраняется,</segment>
+		<segment id="61" parent="180" relname="same-unit">а</segment>
+		<segment id="62" parent="63" relname="cause">за счет употребления автором во внешнем контексте другой ФЕ to go native ^этим.) перенять обычаи и образ жизни туземцев (о европейцах); перенять обычаи коренных жителей'</segment>
+		<segment id="63" parent="179" relname="span">у читателя-реципиента возникают образные ассоциации, в полной мере раскрывающие семантику сокращенных компонентов.</segment>
+		<segment id="64" parent="191" relname="span">Необходимо отметить тот факт, что данный пример представляет собой эллиптический вариант ФЕ с интонацией незавершенности.</segment>
+		<segment id="65" parent="189" relname="span">Как известно, такие эллипсисы характеризуются авторской недосказанностью, умолчанием.</segment>
+		<segment id="66" parent="65" relname="elaboration">На письме это выражается постановкой многоточия.</segment>
+		<segment id="67" parent="188" relname="span">Отличительной чертой подобных эллиптических вариантов является обязательное сохранение начального фрагмента фразы,</segment>
+		<segment id="68" parent="67" relname="evidence">подтверждением чему приведенный отрывок и является.</segment>
+		<segment id="69" parent="251" relname="span">2\. Изменение формы ФЕ и его семантики - расширение и модификация значения ФЕ.</segment>
+		<segment id="70" parent="69" relname="evidence">What a shambles it must have been that December night in Vienna. 1808, if memory served. Bloody hopeless patrons, under-rehearsed players, a dim and shivering audience [11, р. 46]. / .Какой бардак творился в тот декабрьский вечер в Вене. В 1808-м, если память не изменяет. Недоумки, меценаты, тупая, дрожащая от холода публика [2, с. 21].</segment>
+		<segment id="71" parent="192" relname="span">Анализируя на первый взгляд не подвергнутый «авторскому вмешательству» фразеологизм if memory served</segment>
+		<segment id="72" parent="71" relname="elaboration">(от if my memory serves me right =если память мне не изменяет') [6, с. 497],</segment>
+		<segment id="73" parent="193" relname="span">приходим к выводу о том, что даже незначительное сокращение компонентного состава данной ФЕ имеет свое авторское обоснование.</segment>
+		<segment id="74" parent="194" relname="attribution">На наш взгляд,</segment>
+		<segment id="75" parent="76" relname="cause">ее актуализация в контексте представленного художественного произведения и морфологические изменения предполагают,</segment>
+		<segment id="76" parent="194" relname="span">что субъектная сема данной трансформации выражена памятью не одного человека, а национальным сознанием, - памятью целого народа, ставшего свидетелем трагических событий того времени.</segment>
+		<segment id="77" parent="195" relname="evidence">Доказательством последнего может служить намеренное «опущение» личного местоимения my.</segment>
+		<segment id="78" parent="198" relname="restatement">Таким образом, мы проиллюстрировали процесс расширения и модификации значения приведенной выше ФЕ.</segment>
+		<segment id="79" parent="200" relname="joint">Процесс эксплицирования, в свою очередь, усиливая прагматический эффект,</segment>
+		<segment id="80" parent="200" relname="joint">оказывает большее воздействие на семантику ФЕ.</segment>
+		<segment id="81" parent="203" relname="span">В отличие от имплицирования он приводит к иным семантическим результатам.</segment>
+		<segment id="82" parent="254" relname="span">Семантические преобразования при эксплицировании, как правило, носят обобщающий характер, в частности:</segment>
+		<segment id="83" parent="252" relname="preparation">1\. Интенсификация значения, формирование избыточности значения ФЕ.</segment>
+		<segment id="84" parent="252" relname="span">No, he must keep moving, he must act, he must not wait for time, he must seize time by the throat. On, on [10, р. 48]! / .Нет, он должен двигаться дальше, действовать, не ждать подходящего времени - а схватить его за горло! Вперед, вперед [3, с. 23]!</segment>
+		<segment id="85" parent="204" relname="span">В данном примере увеличение интенсивности действия ФЕ catch by the throat =брать, взять за горло, принуждать, притеснять'</segment>
+		<segment id="86" parent="85" relname="cause">за счет использования автором лексической замены стилистически нейтрально окрашенного глагола catch на глагол seize, характеризующегося более ярко выраженной эмоциональной составляющей.</segment>
+		<segment id="87" parent="205" relname="joint">Прагматическое влияние довершается воздействием на реципиента- читателя параллельных синтаксических конструкций с применением лексических повторов модального глагола долженствования must.</segment>
+		<segment id="88" parent="255" relname="preparation">2\. Усиление оценочности ФЕ, конкретизация значения субстантивного компонента.</segment>
+		<segment id="89" parent="255" relname="span">And the smugness meant he wouldn " notice as she separated herself from hid reality. If he noticed any absence on her part, he would cockily presume it was his doing, that he was translating her to a further plane of pleasure, to seventh, eighth, ninth heaven [11, р. 55]. / .А самодовольство означало, что он и не заметит, как она абстрагируется от его реальности. И даже обратив внимание на ее отрешенность, только возгордится: вознес, дескать, подругу к новым вершинам блаженства, на пятое, шестое, седьмое небо [2, с. 28].</segment>
+		<segment id="90" parent="210" relname="span">В данной подвергшейся структурно-семантической трансформации ФЕ прослеживаются деривационные связи с такими фразеологизмами как: seventh heaven =верх блаженства'; in the seventh heaven, on cloud nine =на седьмом небе (от счастья, радости)' [6, с. 155, 378].</segment>
+		<segment id="91" parent="207" relname="joint">Использование атрибутивных компонентов seventh и eighth с субстантивным heaven,</segment>
+		<segment id="92" parent="207" relname="joint">а также добавление семы удовольствия plane of pleasure значительно</segment>
+		<segment id="93" parent="209" relname="span">усиливает ироничное отношение автора к самодовольному персонажу, явно переоценивающему себя и не замечающего никого, кроме собственного «Я».</segment>
+		<segment id="94" parent="257" relname="preparation">3\. Изменение стилистической окраски ФЕ, создание избыточности значения фразеологизма.</segment>
+		<segment id="95" parent="257" relname="span">And then there was another little difficulty. By some unhappy chance, our species had managed to smuggle seven members on board [10, р. 11]. / .Была и еще одна маленькая трудность. Представителей нашего вида, пробравшихся на борт контрабандой, благодаря несчастному совпадению оказалось именно семеро [3, с. 5].</segment>
+		<segment id="96" parent="214" relname="same-unit">В приведенном примере</segment>
+		<segment id="97" parent="212" relname="cause">добавление определяемых слов some и unhappy к компоненту chance</segment>
+		<segment id="98" parent="211" relname="joint">придает иронический оттенок ФЕ by chance =случайно' [6, с. 138],</segment>
+		<segment id="99" parent="211" relname="joint">меняет стилистическую окраску данного фразеологизма,</segment>
+		<segment id="100" parent="211" relname="joint">создает семантическую избыточность.</segment>
+		<segment id="101" parent="216" relname="joint">4\. Буквализация значения одного или двух компонентов ФЕ,</segment>
+		<segment id="102" parent="216" relname="joint">изменение оценочности фразеологизма.</segment>
+		<segment id="103" parent="259" relname="span">It has to be said that Noah, rain or shine, wasn " much of a sailor. He was picked for his piety rather than his navigational skills. He wasn't any good in a storm, and he wasn't much better when the seas were calm [10, р. 19]. / .Надо сказать, что Ной был плохим моряком и в дождь, и в ведро. Его избрали за набожность, а не за навигационные таланты. Во время шторма от него было мало проку, да и в ясную погоду немногим больше [3, с. 9].</segment>
+		<segment id="104" parent="220" relname="span">Данный отрывок иллюстрирует еще один способ использования приема эксплицирования,</segment>
+		<segment id="105" parent="218" relname="joint">при котором буквализируются компоненты ФЕ</segment>
+		<segment id="106" parent="218" relname="joint">и изменяется ее оценочность.</segment>
+		<segment id="107" parent="227" relname="span">Фразеологизм rain or shine ^в любую погоду; при любых обстоятельствах' [6, с. 618] раскрывает заурядные способности Ноя, как руководителя ковчега.</segment>
+		<segment id="108" parent="224" relname="span">Буквализация составляющих компонентов данного выражения наблюдается через призму эксплицитных сем in a storm и when the seas were calm, характеризующих крайности погодных условий и требующих от капитана судна соответствующих навыков мореплавания,</segment>
+		<segment id="109" parent="222" relname="same-unit">которыми,</segment>
+		<segment id="110" parent="111" relname="evidence">как видно из контекста,</segment>
+		<segment id="111" parent="221" relname="span">наш герой не обладает ни при каких обстоятельствах.</segment>
+		<segment id="112" parent="225" relname="span">Именно последний фактор и подтверждает обыгрывание буквальных значений двух компонентов ФЕ</segment>
+		<segment id="113" parent="112" relname="cause">в результате двойной актуализации,</segment>
+		<segment id="114" parent="226" relname="span">что свидетельствует об иронично-снисходительном отношении автора к способностям главного героя.</segment>
+		<segment id="115" parent="231" relname="cause">Таким образом, исследуемые в данной работе явления являются приемами лексико- структурного способа трансформаций ФЕ,</segment>
+		<segment id="116" parent="117" relname="condition">которые при намеренном «авторском вмешательстве»</segment>
+		<segment id="117" parent="231" relname="span">могут привести к противоположным по структурной направленности семантическим результатам.</segment>
+		<segment id="118" parent="230" relname="cause">Подвергшийся имплицированию фразеологизм становится более компактным, лаконичным,</segment>
+		<segment id="119" parent="229" relname="joint">что усиливает его обобщенность,</segment>
+		<segment id="120" parent="229" relname="joint">способствует расширению его значения.</segment>
+		<segment id="121" parent="235" relname="joint">Кроме того, он позволяет выявить</segment>
+		<segment id="122" parent="235" relname="joint">и конкретизировать прямое значение компонентов фразеологизма.</segment>
+		<segment id="123" parent="242" relname="span">Использование таких приемов</segment>
+		<segment id="124" parent="240" relname="joint">при создании</segment>
+		<segment id="125" parent="240" relname="joint">и актуализации индивидуально-авторских преобразований фразеологизмов в прозаическом дискурсе</segment>
+		<segment id="126" parent="242" relname="cause">обусловлено в каждом отдельном случае семантическими, стилистическими и прагматическими интенциями автора.</segment>
+		<segment id="127" relname="antithesis">Список литературы</segment>
+		<segment id="128" relname="antithesis">1\. Архангельский В. Л. Устойчивые фразы в современном русском языке. Основы теории устойчивых фраз и проблемы общей фразеологии. Ростов н/Д: Изд-во Рост. ун-та, 1964. 315 с.</segment>
+		<segment id="129" relname="antithesis">2\. Барнс Дж. Англия, Англия [Электронный ресурс] / пер. С. Силакова. URL: http://royaUib.ru/book/bams_dgulian/angliya_ angliya.html (дата обращения: 22.10.2014).</segment>
+		<segment id="130" relname="antithesis">3\. Барнс Дж. История мира в 10,5 главах [Электронный ресурс] / пер. Е.</segment>
+		<segment id="131" relname="antithesis">Петрова. URL: http://royallib.ru/</segment>
+		<segment id="132" relname="antithesis">book/barns_dgulian/istoriya_mira_v_105_glavah.html (дата обращения: 22.10.2014).</segment>
+		<segment id="133" relname="antithesis">4\. Барнс Дж. Пульс [Электронный ресурс] / пер. Е. Петрова. URL: http://royallib.ru/book/barns_dgulian/puls.html (дата обращения: 22.10.2014).</segment>
+		<segment id="134" relname="antithesis">5\. Гриднева Т. В. Фразеологические средства выражения категории интенсивности: автореф. дисс. . к. филол. н. Волгоград, 1997. 18 с.</segment>
+		<segment id="135" relname="antithesis">6\. Кунин А. В. Англо-русский фразеологический словарь / лит. ред. М. Д. Литвинова. Изд-е 4-е, перераб. и доп. М.: Рус. яз., 1984. 944 с.</segment>
+		<segment id="136" relname="antithesis">7\. Кунин А. В. Курс фразеологии современного английского языка: уч. пос. для ин-тов и фак. иностран. яз. Изд-е 3-е, стереотип. Дубна: Феникс+, 2005. 488 с.</segment>
+		<segment id="137" relname="antithesis">8\. Мокиенко В. М. Славянская фразеология. М.: Высшая школа, 1980. 207 с.</segment>
+		<segment id="138" relname="antithesis">9\. Потебня А. А. Из лекций по теории словесности // Эстетика и поэтика. М.: Искусство, 1976. С. 464-560.</segment>
+		<segment id="139" relname="antithesis">10\. Barnes J. A History of the World in 10 / Chapters. London: Vintage, 2009. 297 p. 11\. Barnes J. England, England. London: Vintage, 2008. 266 p.</segment>
+		<segment id="140" relname="antithesis">12\. Barnes J. Pulse. London: Vintage, 2011. 225 p.</segment>
+		<group id="141" type="multinuc" parent="142" relname="span"/>
+		<group id="142" type="span" parent="18" relname="condition"/>
+		<group id="143" type="span" parent="144" relname="same-unit"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" relname="antithesis"/>
+		<group id="147" type="span" parent="149" relname="preparation"/>
+		<group id="148" type="span" parent="149" relname="span"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" relname="antithesis"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" relname="antithesis"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" relname="antithesis"/>
+		<group id="155" type="span" parent="158" relname="span"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" relname="antithesis"/>
+		<group id="158" type="span" parent="156" relname="span"/>
+		<group id="159" type="span" parent="246" relname="joint"/>
+		<group id="160" type="span" parent="161" relname="contrast"/>
+		<group id="161" type="multinuc" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" relname="antithesis"/>
+		<group id="164" type="span" parent="165" relname="contrast"/>
+		<group id="165" type="multinuc" parent="166" relname="span"/>
+		<group id="166" type="span" relname="antithesis"/>
+		<group id="167" type="multinuc" parent="168" relname="span"/>
+		<group id="168" type="span" parent="48" relname="elaboration"/>
+		<group id="169" type="span" parent="170" relname="contrast"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" relname="antithesis"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="174" relname="comparison"/>
+		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<group id="175" type="span" parent="186" relname="contrast"/>
+		<group id="176" type="multinuc" parent="185" relname="span"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" parent="183" relname="joint"/>
+		<group id="179" type="span" parent="180" relname="same-unit"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="181" type="span" parent="183" relname="joint"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="184" type="span" parent="176" relname="same-unit"/>
+		<group id="185" type="span" parent="186" relname="contrast"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="187" type="span" parent="249" relname="elaboration"/>
+		<group id="188" type="span" parent="189" relname="elaboration"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="64" relname="elaboration"/>
+		<group id="191" type="span" parent="250" relname="elaboration"/>
+		<group id="192" type="span" parent="73" relname="cause"/>
+		<group id="193" type="span" parent="197" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="196" type="span" parent="193" relname="elaboration"/>
+		<group id="197" type="span" parent="198" relname="restatement"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="251" relname="elaboration"/>
+		<group id="200" type="multinuc" parent="201" relname="span"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="202" type="span" relname="antithesis"/>
+		<group id="203" type="span" parent="201" relname="elaboration"/>
+		<group id="204" type="span" parent="205" relname="joint"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="84" relname="elaboration"/>
+		<group id="207" type="multinuc" parent="208" relname="span"/>
+		<group id="208" type="span" parent="93" relname="cause"/>
+		<group id="209" type="span" parent="90" relname="elaboration"/>
+		<group id="210" type="span" parent="89" relname="elaboration"/>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" parent="214" relname="same-unit"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="215" type="span" parent="95" relname="elaboration"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="259" relname="preparation"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="104" relname="elaboration"/>
+		<group id="220" type="span" parent="261" relname="span"/>
+		<group id="221" type="span" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="108" relname="elaboration"/>
+		<group id="224" type="span" parent="107" relname="elaboration"/>
+		<group id="225" type="span" parent="114" relname="evidence"/>
+		<group id="226" type="span" parent="227" relname="elaboration"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="220" relname="elaboration"/>
+		<group id="229" type="multinuc" parent="230" relname="span"/>
+		<group id="230" type="span" parent="237" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="233" relname="cause"/>
+		<group id="233" type="span" parent="239" relname="span"/>
+		<group id="235" type="multinuc" parent="236" relname="span"/>
+		<group id="236" type="span" parent="238" relname="joint"/>
+		<group id="237" type="span" parent="238" relname="joint"/>
+		<group id="238" type="multinuc" parent="233" relname="span"/>
+		<group id="239" type="span" parent="244" relname="span"/>
+		<group id="240" type="multinuc" parent="241" relname="span"/>
+		<group id="241" type="span" parent="123" relname="condition"/>
+		<group id="242" type="span" parent="243" relname="span"/>
+		<group id="243" type="span" parent="239" relname="evaluation"/>
+		<group id="244" type="span" relname="antithesis"/>
+		<group id="245" type="span" parent="246" relname="joint"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" relname="antithesis"/>
+		<group id="248" type="span" parent="47" relname="cause"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="263" relname="span"/>
+		<group id="251" type="span" parent="262" relname="span"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="82" relname="elaboration"/>
+		<group id="254" type="span" parent="81" relname="elaboration"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" relname="antithesis"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" relname="antithesis"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" relname="antithesis"/>
+		<group id="261" type="span" parent="103" relname="elaboration"/>
+		<group id="262" type="span" parent="264" relname="joint"/>
+		<group id="263" type="span" parent="264" relname="joint"/>
+		<group id="264" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="265" type="span" relname="antithesis"/>
+  </body>
+</rst>

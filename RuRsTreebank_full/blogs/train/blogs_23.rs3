@@ -1,0 +1,376 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://my-first-time.livejournal.com/575558.html</segment>
+		<segment id="2" >##### Привет, сообщество.</segment>
+		<segment id="3" parent="184" relname="joint">##### Я набрела на вас относительно недавно,</segment>
+		<segment id="4" parent="184" relname="joint">почитала записи,</segment>
+		<segment id="5" parent="185" relname="span">прониклась,</segment>
+		<segment id="6" parent="5" relname="cause">так как очень интересно пишут люди тут</segment>
+		<segment id="7" parent="184" relname="joint">и решила тоже рассказать про свой "Первый раз".</segment>
+		<segment id="8" parent="186" relname="joint">##### Про то, как мне доверили более 200 тонн металла, скомпонованных в вагоны, которые способны двигаться со скоростью 130 км/ч</segment>
+		<segment id="9" parent="308" relname="contrast">##### Пассажиров в поезде не было.</segment>
+		<segment id="10" parent="308" relname="contrast">Были машинист, я, мой молодой человек и кондуктор.</segment>
+		<segment id="11" parent="186" relname="joint">Поезд шел резервом.</segment>
+		<segment id="12" parent="187" relname="joint">##### Позвольте приступить к рассказу? :)</segment>
+		<segment id="13" parent="189" relname="preparation">##### Дело было в 2017-м году, в ноябре.</segment>
+		<segment id="14" parent="189" relname="joint">##### Я сидела дома</segment>
+		<segment id="15" parent="189" relname="joint">и переписывалась со знакомым, который работал машинистом(он и сейчас работает).</segment>
+		<segment id="16" parent="190" relname="joint">Болтали обо всякой фигне,</segment>
+		<segment id="17" parent="190" relname="joint">обсуждали классику русского рока,</segment>
+		<segment id="18" parent="190" relname="joint">смеялись.</segment>
+		<segment id="19" parent="20" relname="attribution">##### И черт меня дернул ему обмолвится,</segment>
+		<segment id="20" parent="338" relname="span">что я мечтаю попробовать поуправлять поездом. Когда-нибудь, где-нибудь...</segment>
+		<segment id="21" parent="191" relname="joint">Просто сказала,</segment>
+		<segment id="22" parent="191" relname="joint">не придала этому значения.</segment>
+		<segment id="23" parent="192" relname="joint">Знакомый многозначительно посмеялся</segment>
+		<segment id="24" parent="25" relname="attribution">и сказал,</segment>
+		<segment id="25" parent="340" relname="span">что запомнит мои слова.</segment>
+		<segment id="26" parent="205" relname="preparation">##### Прошло время, будучи на прогулке ощущаю легкую вибрацию телефона в кармане.</segment>
+		<segment id="27" parent="203" relname="span">Туда упало сообщение в Whatsapp,</segment>
+		<segment id="28" parent="29" relname="condition">мол "если все сростется</segment>
+		<segment id="29" parent="197" relname="span">- поведешь поезд из Скулте в Ригу"</segment>
+		<segment id="30" parent="200" relname="contrast">##### Я долго думала,</segment>
+		<segment id="31" parent="199" relname="cause">а потом меня осенило, что я обмолвилась о своем желании знакомому,</segment>
+		<segment id="32" parent="198" relname="joint">а он взял</segment>
+		<segment id="33" parent="198" relname="joint">и обо всем договорился.</segment>
+		<segment id="34" parent="201" relname="span">##### Под сердцем ёкнуло.</segment>
+		<segment id="35" parent="34" relname="evaluation">Мечта сбудется хоть на миг.</segment>
+		<segment id="36" parent="209" relname="preparation">##### И вот настал день, а точнее вечер X</segment>
+		<segment id="37" parent="207" relname="sequence">##### Вечером мы с молодым человеком приехали в Ригу на электричке из Тукумса,</segment>
+		<segment id="38" parent="207" relname="sequence">подождали пока приедет знакомый.</segment>
+		<segment id="39" parent="208" relname="sequence">Подсели к нему</segment>
+		<segment id="40" parent="208" relname="sequence">и отправились в сторону Скулте вдоль Балтийского моря.</segment>
+		<segment id="41" parent="211" relname="span">##### Ехать до Скулте со всеми остановками около часа,</segment>
+		<segment id="42" parent="210" relname="joint">так как линия в ту сторону длиной всего 56 километров,</segment>
+		<segment id="43" parent="210" relname="joint">а скорость движения электропоезда по этой линии достигает до 100 км/ч.</segment>
+		<segment id="44" parent="212" relname="sequence">##### Пока ехали,</segment>
+		<segment id="45" parent="212" relname="sequence">за окном темнело,</segment>
+		<segment id="46" parent="212" relname="sequence">в кабине играл Цой со своей "Кукушкой"...</segment>
+		<segment id="47" parent="213" relname="span">Машинист был весьма неразговорчив.</segment>
+		<segment id="48" parent="47" relname="evaluation">Он по натуре такой.</segment>
+		<segment id="49" parent="336" relname="sequence">##### Подъезжаем к конечной,</segment>
+		<segment id="50" parent="216" relname="attribution">знакомый говорит,</segment>
+		<segment id="51" parent="216" relname="joint">- "Садись на мое место,</segment>
+		<segment id="52" parent="216" relname="joint">тормоза хоть опробуешь перед прибытием"</segment>
+		<segment id="53" parent="217" relname="span">##### Я немного затупила,</segment>
+		<segment id="54" parent="53" relname="cause">так как думала, что меня посадят только на обратном пути за пульт,</segment>
+		<segment id="55" parent="219" relname="span">но радость в мозгу играла,</segment>
+		<segment id="56" parent="218" relname="span">что я вообще опять в кабине, уютном пространстве,</segment>
+		<segment id="57" parent="56" relname="elaboration">где локомотивные бригады проводят большую часть своего времени.</segment>
+		<segment id="58" parent="219" relname="evaluation">##### Кровь бурлила.</segment>
+		<segment id="59" parent="222" relname="joint">##### Мы приближались к станции,</segment>
+		<segment id="60" parent="222" relname="joint">тяги на двигателях не было,</segment>
+		<segment id="61" parent="222" relname="joint">под колесами начались первые стрелки.</segment>
+		<segment id="62" parent="223" relname="comparison">Вагон мотало по сторонам,</segment>
+		<segment id="63" parent="223" relname="comparison">качало словно на волнах.</segment>
+		<segment id="64" parent="225" relname="span">##### Я начала тормозить, используя навыки торможения,</segment>
+		<segment id="65" parent="224" relname="span">которые были в памяти после железнодорожных симуляторов после езды на скриптованных электропоездах,</segment>
+		<segment id="66" parent="65" relname="elaboration">где управление приближено к реальному.</segment>
+		<segment id="67" parent="225" relname="evaluation">##### В принципе, получалось.</segment>
+		<segment id="68" parent="227" relname="span">Машинист почти ничего не говорил,</segment>
+		<segment id="69" parent="68" relname="evaluation">а это означало лишь то, что я пока делаю все правильно.</segment>
+		<segment id="70" parent="342" relname="condition">##### Проследовав последние стрелки и причаливая к платформе</segment>
+		<segment id="71" parent="72" relname="attribution">мне сказали,</segment>
+		<segment id="72" parent="341" relname="span">чтоб я пустила машиниста обратно на место,</segment>
+		<segment id="73" parent="341" relname="cause">так как был риск, что поезд может проехать мимо ограничительных знаков конца контактной сети.</segment>
+		<segment id="74" parent="230" relname="condition">Если бы я поехала дальше</segment>
+		<segment id="75" parent="229" relname="joint">- я бы пропустила конец провода</segment>
+		<segment id="76" parent="229" relname="joint">и оставила бы поезд без тока, обломав ему "рога"(токоприемники).</segment>
+		<segment id="77" parent="232" relname="joint">Они бы просто выстрелили вверх без опоры провода</segment>
+		<segment id="78" parent="232" relname="joint">и поломались.</segment>
+		<segment id="79" parent="236" relname="span">##### Момент со стоянкой опустим,</segment>
+		<segment id="80" parent="235" relname="joint">так как машинист обходил состав,</segment>
+		<segment id="81" parent="234" relname="span">стучал молотком по буквам и колесам</segment>
+		<segment id="82" parent="81" relname="purpose">для выявления дефектов.</segment>
+		<segment id="83" parent="247" relname="preparation">##### Настало время отправления в обратный путь. В Ригу.</segment>
+		<segment id="84" parent="239" relname="joint">##### "Ну, садись...</segment>
+		<segment id="85" parent="238" relname="joint">Будешь тормоза опять пробовать,</segment>
+		<segment id="86" parent="238" relname="joint">и поедем",</segment>
+		<segment id="87" parent="239" relname="attribution">- сказал машинист.</segment>
+		<segment id="88" parent="241" relname="joint">##### Я села, рядом молодой человек,</segment>
+		<segment id="89" parent="241" relname="joint">в кресле помощника сидел машинист.</segment>
+		<segment id="90" parent="243" relname="span">Перед этим произошел забавный в последствии факт</segment>
+		<segment id="91" parent="242" relname="joint">- машинист закрутил ручку стояночного тормоза</segment>
+		<segment id="92" parent="242" relname="joint">и положил сверху сумку,</segment>
+		<segment id="93" parent="242" relname="joint">все про это благополучно забыли.</segment>
+		<segment id="94" parent="244" relname="joint">##### Хихи-Хаха, разговоры, я пробую тормоза,</segment>
+		<segment id="95" parent="244" relname="joint">мой молодой человек протягивает ленту в скоростемере(рисуем планочки торможения во время пробы).</segment>
+		<segment id="96" parent="246" relname="span">##### И вот, все формальности пройдены,</segment>
+		<segment id="97" parent="328" relname="contrast">я сижу с ногой на педали бдительности(был вариант поехать с браслетом,</segment>
+		<segment id="98" parent="328" relname="contrast">но мне не разрешили),</segment>
+		<segment id="99" parent="329" relname="span">бдительность отбиваю</segment>
+		<segment id="100" parent="99" relname="condition">по зажиганию сигнальной лампы.</segment>
+		<segment id="101" parent="346" relname="span">##### "Поехали",</segment>
+		<segment id="102" parent="101" relname="attribution">- словно Гагарин в ракете скомандовал машинист,</segment>
+		<segment id="103" parent="248" relname="joint">а я и поехала.</segment>
+		<segment id="104" parent="249" relname="joint">Без задней мысли, что стояночный тормоз ЗАТЯНУТ...</segment>
+		<segment id="105" parent="250" relname="comparison">##### Поезд тронулся, легко и непринужденно,</segment>
+		<segment id="106" parent="250" relname="comparison">словно его ничего не сковывало.</segment>
+		<segment id="107" parent="251" relname="contrast">Мне еще показалось, что он как-то туговато идет,</segment>
+		<segment id="108" parent="251" relname="contrast">но так и должно быть.</segment>
+		<segment id="109" parent="256" relname="span">ЭР2Т - не пушинка.</segment>
+		<segment id="110" parent="255" relname="span">Быстро разогнаться не очень может.</segment>
+		<segment id="111" parent="252" relname="span">Нужно выставить уставку,</segment>
+		<segment id="112" parent="111" relname="purpose">чтоб поезд разгонялся медленнее или быстрее и еще куча нюансов.</segment>
+		<segment id="113" parent="114" relname="condition">Если обо всем рассказывать,</segment>
+		<segment id="114" parent="253" relname="span">то я выйду за лимит в 1000 слов :D</segment>
+		<segment id="115" parent="259" relname="span">##### Движение 4-х вагонного электропоезда я сравнила с катером на волнах.</segment>
+		<segment id="116" parent="117" relname="condition">При проследовании стрелок</segment>
+		<segment id="117" parent="330" relname="span">на станции вагоны качались,</segment>
+		<segment id="118" parent="258" relname="joint">ты сам еще на подрессоренном сидении подпрыгиваешь как мячик.</segment>
+		<segment id="119" parent="120" relname="concession">##### Не смотря на затянутый ручник,</segment>
+		<segment id="120" parent="331" relname="span">поезд шел легко,</segment>
+		<segment id="121" parent="332" relname="comparison">я поддавала "газку"</segment>
+		<segment id="122" parent="332" relname="comparison">словно стегая коня кнутом</segment>
+		<segment id="123" parent="260" relname="contrast">- состав дергало,</segment>
+		<segment id="124" parent="260" relname="contrast">но не критично.</segment>
+		<segment id="125" parent="264" relname="joint">##### Этим и отличается ЭР2Т от простой электрички ЭР2 - мягкостью хода, плавным троганием, и моторные вагоны</segment>
+		<segment id="126" parent="127" relname="condition">при переключении позиций</segment>
+		<segment id="127" parent="263" relname="span">не так сильно толкаются.</segment>
+		<segment id="128" parent="266" relname="joint">##### Я разогнала на перегоне наш электрокатер почти до сотни,</segment>
+		<segment id="129" parent="266" relname="joint">сбросила тягу</segment>
+		<segment id="130" parent="315" relname="span">и как-то сама автоматом приняла типичную позу машиниста.</segment>
+		<segment id="131" parent="130" relname="elaboration">Одна рука на ручке контроллера, вторая - на кране машиниста.</segment>
+		<segment id="132" parent="269" relname="joint">##### Кровь бурлит,</segment>
+		<segment id="133" parent="269" relname="joint">в животе ехал уже пятый товарняк(бабочки уже не актуальны)</segment>
+		<segment id="134" parent="270" relname="span">##### Эмоции шкалили</segment>
+		<segment id="135" parent="134" relname="evidence">- мечта сбылась наконец-то!</segment>
+		<segment id="136" parent="272" relname="cause">Я веду поезд, пусть самый простой пригородный и пусть без пассажиров.</segment>
+		<segment id="137" parent="278" relname="joint">##### Мы летели сквозь темноту, разрезая пространство лучом прожектора.</segment>
+		<segment id="138" parent="274" relname="contrast">Тихонько играла музыка,</segment>
+		<segment id="139" parent="274" relname="contrast">но в голове у меня раскатами разносились другие мелодии.</segment>
+		<segment id="140" parent="317" relname="span">Воображение уже нарисовало картинку,</segment>
+		<segment id="141" parent="275" relname="joint">словно я снимаюсь в кино,</segment>
+		<segment id="142" parent="275" relname="joint">и сейчас идет самая эпичная сцена в моей жизни.</segment>
+		<segment id="143" parent="144" relname="solutionhood">##### "Да что ты стесняешься?</segment>
+		<segment id="144" parent="280" relname="span">Дай шунта!",</segment>
+		<segment id="145" parent="279" relname="joint">- машинист рукой дотянулся до ручки контроллера</segment>
+		<segment id="146" parent="279" relname="joint">и толкнул её в 4-ю позицию.</segment>
+		<segment id="147" parent="283" relname="joint">Краем глаза я увидела</segment>
+		<segment id="148" parent="282" relname="joint">как он уголками рта улыбнулся</segment>
+		<segment id="149" parent="282" relname="joint">и хищно сверкнул глазами.</segment>
+		<segment id="150" parent="284" relname="joint">##### Из приоткрытых форточек раздался гул двигателей на перебой с редуторами,</segment>
+		<segment id="151" parent="333" relname="span">поезд поддал вперед</segment>
+		<segment id="152" parent="151" relname="cause">вжимая меня в кресло.</segment>
+		<segment id="153" parent="285" relname="joint">##### В висках от эйфории пульсировали вены,</segment>
+		<segment id="154" parent="285" relname="joint">кровь пошла в руки</segment>
+		<segment id="155" parent="285" relname="joint">- пальцы сжали рычаги управления сильнее.</segment>
+		<segment id="156" parent="286" relname="joint">Гул редукторов пьянил.</segment>
+		<segment id="157" parent="322" relname="cause">##### Увидев, что стрелка скоростемера встала вертикально(скорость 100-110),</segment>
+		<segment id="158" parent="288" relname="joint">я убрала тягу</segment>
+		<segment id="159" parent="288" relname="joint">и слушала глухой перестук колес откуда-то снизу.</segment>
+		<segment id="160" parent="323" relname="evaluation">##### Самые приятные звуки для железнодорожного фаната.</segment>
+		<segment id="161" parent="290" relname="span">##### Пришло время опробовать тормоза на эффективность в пути следования,</segment>
+		<segment id="162" parent="289" relname="joint">я еще немного позволила составу проследовать до участка с буквой B(участок начала торможения),</segment>
+		<segment id="163" parent="289" relname="joint">и рука начала отсчитывать позиции контроллера в тормозном диапазоне... T1...T2...T3...</segment>
+		<segment id="164" parent="291" relname="joint">##### Признак того, что тормоза схватились - рёв ТЭДов с понижением,</segment>
+		<segment id="165" parent="291" relname="joint">и тело плавно бросает вперед.</segment>
+		<segment id="166" parent="292" relname="evaluation">Тут главное не переборщить.</segment>
+		<segment id="167" parent="299" relname="span">##### Мы почти прибыли в Ригу...</segment>
+		<segment id="168" parent="295" relname="joint">перед глазами показалась затяжная кривая,</segment>
+		<segment id="169" parent="295" relname="joint">вагоны наклонились,</segment>
+		<segment id="170" parent="295" relname="joint">скорость падала,</segment>
+		<segment id="171" parent="335" relname="same-unit">и тут я понимаю, что я</segment>
+		<segment id="172" parent="173" relname="cause">из-за темноты</segment>
+		<segment id="173" parent="334" relname="span">промахнулась вместо Т3 сунула в Т4,</segment>
+		<segment id="174" parent="296" relname="restatement">а это равносильно экстренному.</segment>
+		<segment id="175" parent="302" relname="sequence">##### Машинист дернулся к тумблеру "отпуск".</segment>
+		<segment id="176" parent="300" relname="joint">Предотвратил резкую остановку,</segment>
+		<segment id="177" parent="301" relname="span">а я догадалась сбросить тягу,</segment>
+		<segment id="178" parent="177" relname="purpose">чтобы состав пошел накатом.</segment>
+		<segment id="179" parent="305" relname="joint">##### Прям на ходу мы с машинистом поменялись местами,</segment>
+		<segment id="180" parent="305" relname="joint">наш состав причалил в Ригу.</segment>
+		<segment id="181" parent="306" relname="evaluation">##### Все прошло более чем благополучно.</segment>
+		<segment id="182" parent="325" relname="contrast">##### Ручник, кстати, почти на половине пути был отпущен,</segment>
+		<segment id="183" parent="325" relname="contrast">иначе в Ригу бы мы приехали с краснючими колесами от перегрева и трения :D</segment>
+		<group id="184" type="multinuc" parent="187" relname="preparation"/>
+		<group id="185" type="span" parent="184" relname="joint"/>
+		<group id="186" type="multinuc" parent="187" relname="joint"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="188" type="span" />
+		<group id="189" type="multinuc" parent="193" relname="span"/>
+		<group id="190" type="multinuc" parent="195" relname="span"/>
+		<group id="191" type="multinuc" parent="338" relname="evaluation"/>
+		<group id="192" type="multinuc" parent="327" relname="sequence"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="196" relname="span"/>
+		<group id="195" type="span" parent="193" relname="elaboration"/>
+		<group id="196" type="span" />
+		<group id="197" type="span" parent="27" relname="elaboration"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="309" relname="span"/>
+		<group id="200" type="multinuc" parent="202" relname="span"/>
+		<group id="201" type="span" parent="202" relname="evaluation"/>
+		<group id="202" type="span" parent="204" relname="span"/>
+		<group id="203" type="span" parent="205" relname="span"/>
+		<group id="204" type="span" parent="203" relname="elaboration"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" />
+		<group id="207" type="multinuc" parent="209" relname="sequence"/>
+		<group id="208" type="multinuc" parent="209" relname="sequence"/>
+		<group id="209" type="multinuc" parent="347" relname="span"/>
+		<group id="210" type="multinuc" parent="41" relname="evidence"/>
+		<group id="211" type="span" parent="215" relname="joint"/>
+		<group id="212" type="multinuc" parent="214" relname="joint"/>
+		<group id="213" type="span" parent="214" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="215" type="multinuc" />
+		<group id="216" type="multinuc" parent="337" relname="span"/>
+		<group id="217" type="span" parent="220" relname="contrast"/>
+		<group id="218" type="span" parent="55" relname="cause"/>
+		<group id="219" type="span" parent="311" relname="span"/>
+		<group id="220" type="multinuc" parent="221" relname="sequence"/>
+		<group id="221" type="multinuc" parent="310" relname="joint"/>
+		<group id="222" type="multinuc" parent="228" relname="joint"/>
+		<group id="223" type="multinuc" parent="228" relname="joint"/>
+		<group id="224" type="span" parent="64" relname="elaboration"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="312" relname="span"/>
+		<group id="227" type="span" parent="226" relname="evaluation"/>
+		<group id="228" type="multinuc" parent="221" relname="sequence"/>
+		<group id="229" type="multinuc" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="233" relname="span"/>
+		<group id="232" type="multinuc" parent="231" relname="evidence"/>
+		<group id="233" type="span" parent="343" relname="cause"/>
+		<group id="234" type="span" parent="235" relname="joint"/>
+		<group id="235" type="multinuc" parent="79" relname="cause"/>
+		<group id="236" type="span" parent="348" relname="joint"/>
+		<group id="238" type="multinuc" parent="239" relname="joint"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="247" relname="sequence"/>
+		<group id="241" type="multinuc" parent="247" relname="sequence"/>
+		<group id="242" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="243" type="span" parent="247" relname="sequence"/>
+		<group id="244" type="multinuc" parent="247" relname="sequence"/>
+		<group id="245" type="multinuc" parent="96" relname="evidence"/>
+		<group id="246" type="span" parent="247" relname="sequence"/>
+		<group id="247" type="multinuc" parent="349" relname="span"/>
+		<group id="248" type="multinuc" parent="249" relname="joint"/>
+		<group id="249" type="multinuc" parent="247" relname="sequence"/>
+		<group id="250" type="multinuc" parent="257" relname="span"/>
+		<group id="251" type="multinuc" parent="250" relname="evaluation"/>
+		<group id="252" type="span" parent="254" relname="span"/>
+		<group id="253" type="span" parent="252" relname="evaluation"/>
+		<group id="254" type="span" parent="110" relname="cause"/>
+		<group id="255" type="span" parent="109" relname="elaboration"/>
+		<group id="256" type="span" />
+		<group id="257" type="span" />
+		<group id="258" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="259" type="span" parent="265" relname="joint"/>
+		<group id="260" type="multinuc" parent="332" relname="effect"/>
+		<group id="261" type="span" parent="262" relname="joint"/>
+		<group id="262" type="multinuc" parent="313" relname="span"/>
+		<group id="263" type="span" parent="264" relname="joint"/>
+		<group id="264" type="multinuc" parent="313" relname="elaboration"/>
+		<group id="265" type="multinuc" />
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="316" relname="joint"/>
+		<group id="269" type="multinuc" parent="271" relname="joint"/>
+		<group id="270" type="span" parent="271" relname="joint"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="267" relname="evaluation"/>
+		<group id="274" type="multinuc" parent="276" relname="span"/>
+		<group id="275" type="multinuc" parent="140" relname="elaboration"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="278" relname="joint"/>
+		<group id="278" type="multinuc" parent="316" relname="joint"/>
+		<group id="279" type="multinuc" parent="319" relname="sequence"/>
+		<group id="280" type="span" parent="318" relname="span"/>
+		<group id="281" type="span" parent="287" relname="sequence"/>
+		<group id="282" type="multinuc" parent="283" relname="joint"/>
+		<group id="283" type="multinuc" parent="287" relname="sequence"/>
+		<group id="284" type="multinuc" parent="320" relname="span"/>
+		<group id="285" type="multinuc" parent="286" relname="joint"/>
+		<group id="286" type="multinuc" parent="320" relname="evaluation"/>
+		<group id="287" type="multinuc" />
+		<group id="288" type="multinuc" parent="322" relname="span"/>
+		<group id="289" type="multinuc" parent="161" relname="elaboration"/>
+		<group id="290" type="span" parent="294" relname="joint"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="294" relname="joint"/>
+		<group id="294" type="multinuc" />
+		<group id="295" type="multinuc" parent="167" relname="elaboration"/>
+		<group id="296" type="multinuc" parent="297" relname="span"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="295" relname="joint"/>
+		<group id="299" type="span" parent="303" relname="preparation"/>
+		<group id="300" type="multinuc" parent="302" relname="sequence"/>
+		<group id="301" type="span" parent="300" relname="joint"/>
+		<group id="302" type="multinuc" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" />
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="326" relname="span"/>
+		<group id="308" type="multinuc" parent="186" relname="joint"/>
+		<group id="309" type="span" parent="200" relname="contrast"/>
+		<group id="310" type="multinuc" />
+		<group id="311" type="span" parent="220" relname="contrast"/>
+		<group id="312" type="span" parent="221" relname="sequence"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="265" relname="joint"/>
+		<group id="315" type="span" parent="266" relname="joint"/>
+		<group id="316" type="multinuc" />
+		<group id="317" type="span" parent="276" relname="elaboration"/>
+		<group id="318" type="span" parent="319" relname="sequence"/>
+		<group id="319" type="multinuc" parent="281" relname="span"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="287" relname="sequence"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="287" relname="sequence"/>
+		<group id="325" type="multinuc" parent="307" relname="elaboration"/>
+		<group id="326" type="span" />
+		<group id="327" type="multinuc" parent="190" relname="elaboration"/>
+		<group id="328" type="multinuc" parent="245" relname="joint"/>
+		<group id="329" type="span" parent="245" relname="joint"/>
+		<group id="330" type="span" parent="258" relname="joint"/>
+		<group id="331" type="span" parent="262" relname="joint"/>
+		<group id="332" type="multinuc" parent="261" relname="span"/>
+		<group id="333" type="span" parent="284" relname="joint"/>
+		<group id="334" type="span" parent="335" relname="same-unit"/>
+		<group id="335" type="multinuc" parent="296" relname="restatement"/>
+		<group id="336" type="multinuc" parent="310" relname="joint"/>
+		<group id="337" type="span" parent="336" relname="sequence"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="327" relname="sequence"/>
+		<group id="340" type="span" parent="192" relname="joint"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" parent="348" relname="joint"/>
+		<group id="346" type="span" parent="248" relname="joint"/>
+		<group id="347" type="span" />
+		<group id="348" type="multinuc" />
+		<group id="349" type="span" />
+	</body>
+</rst>

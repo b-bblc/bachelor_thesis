@@ -35,4 +35,4 @@ for filename in os.listdir(rs3_folder):
         print(f'Processed file: {filename}, extracted EDU count: {len(edu_texts)}')
 
 
-print("hi")
+

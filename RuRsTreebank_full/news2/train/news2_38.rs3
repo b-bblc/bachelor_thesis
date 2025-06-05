@@ -1,0 +1,499 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Проект по созданию объединенных арабских ВС требует перезапуска — Флоренс Гауб</segment>
+		<segment id="2" parent="249" relname="span">##### Проект по созданию объединенных арабских вооруженных сил,</segment>
+		<segment id="3" parent="248" relname="span">отложенный на неопределенный срок</segment>
+		<segment id="4" parent="246" relname="joint">из-за разногласий между членами Лиги арабских государств (ЛАГ)</segment>
+		<segment id="5" parent="246" relname="joint">и недостаточной проработки законодательной базы,</segment>
+		<segment id="6" parent="250" relname="same-unit">нуждается в перезапуске в новом формате и с уточненными целями.</segment>
+		<segment id="7" parent="255" relname="attribution">К такому выводу пришла старший аналитик Института Европейского союза по вопросам безопасности (EUISS) Флоренс Гауб (Florence Gaub) в статье "Застряли в бараках: объединенные арабские вооруженные силы".</segment>
+		<segment id="8" parent="254" relname="attribution">##### Она напоминает,</segment>
+		<segment id="9" parent="253" relname="joint">что в январе 2015 года секретариат ЛАГ вышел за рамки ранее обсуждавшихся ограниченных военных альянсов</segment>
+		<segment id="10" parent="251" relname="span">и предложил сформировать единые межарабские силы быстрого реагирования,</segment>
+		<segment id="11" parent="10" relname="elaboration">ориентированные на борьбу с терроризмом,</segment>
+		<segment id="12" parent="252" relname="same-unit">на основании договора о совместной обороне и экономическом сотрудничестве от 1950 года.</segment>
+		<segment id="13" parent="261" relname="span">##### "На этот проект вскоре обратил внимание президент Египта Абдель Фаттах ас-Сиси (Abdel Fattah el-Sisi),</segment>
+		<segment id="14" parent="15" relname="attribution">который заявил,</segment>
+		<segment id="15" parent="256" relname="span">что "с каждым днем мы все острее нуждаемся в объединенных арабских вооруженных силах".</segment>
+		<segment id="16" parent="260" relname="sequence">Инициативу поддержал король Бахрейна шейх Хамад ибн Иса аль-Халифа (Hamad bin Isa Al Khalifa),</segment>
+		<segment id="17" parent="259" relname="span">а уже на сессии в марте 2015 года участники саммита ЛАГ одобрили инициативу по созданию объединенных сил,</segment>
+		<segment id="18" parent="257" relname="same-unit">что,</segment>
+		<segment id="19" parent="20" relname="attribution">как выразился генеральный секретарь лиги [Набиль аль-Араби (Nabil Elaraby)],</segment>
+		<segment id="20" parent="258" relname="span">стало "историческим событием".</segment>
+		<segment id="21" parent="265" relname="span">Увы, но движение внезапно прекратилось в конце августа,</segment>
+		<segment id="22" parent="21" relname="cause">когда Саудовская Аравия при поддержке других государств Персидского залива отложила на неопределенный срок проведение встречи по формированию объединенных арабских вооруженных сил.</segment>
+		<segment id="23" parent="263" relname="joint">Что же пошло не так?</segment>
+		<segment id="24" parent="263" relname="joint">Неужели проект обречен?"</segment>
+		<segment id="25" parent="267" relname="attribution">- задается вопросами аналитик.</segment>
+		<segment id="26" parent="268" relname="span">##### Ниже ИА "PenzaNews" приводит полностью статью Флоренс Гауб,</segment>
+		<segment id="27" parent="26" relname="elaboration">ранее опубликованную в ряде зарубежных СМИ,</segment>
+		<segment id="28" parent="269" relname="same-unit">в собственном переводе.</segment>
+		<segment id="29" parent="300" relname="preparation">##### Компоненты вооруженных сил</segment>
+		<segment id="30" parent="299" relname="span">##### Инициативу создания объединенных вооруженных сил встретили с большой долей иронии</segment>
+		<segment id="31" parent="270" relname="span">- что не так уж и удивительно,</segment>
+		<segment id="32" parent="31" relname="condition">если вспомнить, сколько раз арабские государства пытались сделать нечто подобное в прошлом.</segment>
+		<segment id="33" parent="298" relname="span">Однако на этот раз в качестве скрепы была названа террористическая угроза.</segment>
+		<segment id="34" parent="297" relname="span">Задачей новых вооруженных сил должно было стать "проведение скоростных боевых операций и других мер</segment>
+		<segment id="35" parent="271" relname="span">для противостояния вызовам безопасности, непосредственно угрожающим странам арабского мира,</segment>
+		<segment id="36" parent="35" relname="elaboration">в том числе по борьбе с террористическими организациями".</segment>
+		<segment id="37" parent="38" relname="evaluation">##### Что необычно,</segment>
+		<segment id="38" parent="276" relname="span">в первую очередь совет ЛАГ поспешил внести поправки в устав Межарабского совета мира и безопасности для организации встреч на правительственном уровне два раза в год.</segment>
+		<segment id="39" parent="272" relname="span">Ранее эта структура,</segment>
+		<segment id="40" parent="39" relname="elaboration">основанная в 2006 году,</segment>
+		<segment id="41" parent="273" relname="joint">не имела никаких полномочий</segment>
+		<segment id="42" parent="273" relname="joint">и состояла всего из пяти выборных членов.</segment>
+		<segment id="43" parent="307" relname="span">Перед советом была поставлена задача</segment>
+		<segment id="44" parent="275" relname="span">- подготовить стратегии</segment>
+		<segment id="45" parent="44" relname="elaboration">по сохранению мира в регионе и укреплению безопасности в арабских странах.</segment>
+		<segment id="46" parent="415" relname="span">##### Кроме того, по итогам саммита генеральному секретарю ЛАГ было поручено наладить контакт с начальниками штабов армий арабских государств по вопросам реализации намеченных планов.</segment>
+		<segment id="47" parent="280" relname="concession">Хотя конкретные цифры неизвестны,</segment>
+		<segment id="48" parent="278" relname="span">в первых версиях резолюции шла речь о вооруженных силах численностью до 40 тыс. военнослужащих</segment>
+		<segment id="49" parent="48" relname="elaboration">(около 35 тыс. в наземных силах, порядка 5 тыс. во флоте и от 500 до 1 тыс. в авиации)</segment>
+		<segment id="50" parent="279" relname="same-unit">под началом генерала-саудита со штаб-квартирой в Египте.</segment>
+		<segment id="51" parent="281" relname="joint">##### Планировалось, что членство в этой организации будет добровольным,</segment>
+		<segment id="52" parent="283" relname="span">а структура управления - интегрированной и постоянной по аналогии с НАТО</segment>
+		<segment id="53" parent="282" relname="span">- с четким делением на отдельные компоненты ведения военных действий:</segment>
+		<segment id="54" parent="53" relname="elaboration">авиация, флот, наземные силы, войска специального назначения.</segment>
+		<segment id="55" parent="284" relname="joint">Как и в Североатлантическом альянсе, основные расходы на армию должны были лечь на участников объединения,</segment>
+		<segment id="56" parent="284" relname="joint">а организационные структуры - финансироваться за счет Совета сотрудничества арабских государств Персидского залива (ССАГПЗ).</segment>
+		<segment id="57" parent="310" relname="span">Также предусматривалось создание арабских миротворческих сил</segment>
+		<segment id="58" parent="285" relname="span">- групп из числа граждан стран альянса,</segment>
+		<segment id="59" parent="58" relname="elaboration">готовых к немедленному реагированию по местам базирования.</segment>
+		<segment id="60" parent="287" relname="span">##### Вертикаль управления должна была состоять из четырех звеньев,</segment>
+		<segment id="61" parent="286" relname="span">включая два постоянных</segment>
+		<segment id="62" parent="61" relname="elaboration">(верховный совет обороны и комитет начальников штабов армий),</segment>
+		<segment id="63" parent="288" relname="comparison">в то время как объединенное общее командование и полевое командование планировалось формировать при необходимости.</segment>
+		<segment id="64" parent="304" relname="joint">При этом предусматривалось расширение функций уже существующего верховного совета обороны.</segment>
+		<segment id="65" parent="301" relname="span">Во главе объединенного общего командования должен был встать генерал,</segment>
+		<segment id="66" parent="65" relname="elaboration">назначаемый верховным советом на двухлетний срок,</segment>
+		<segment id="67" parent="303" relname="span">и вспомогательный комитет начальников штабов армий,</segment>
+		<segment id="68" parent="67" relname="elaboration">представляющих все страны альянса.</segment>
+		<segment id="69" parent="305" relname="span">Войскового командира планировалось избирать по решению этого комитета</segment>
+		<segment id="70" parent="69" relname="condition">с обязательным согласованием кандидатуры с властями запросившей помощь страны и командующим объединенными арабскими ВС.</segment>
+		<segment id="71" parent="291" relname="attribution">##### Согласно проекту,</segment>
+		<segment id="72" parent="289" relname="same-unit">власти любой страны альянса</segment>
+		<segment id="73" parent="74" relname="purpose">для получения поддержки</segment>
+		<segment id="74" parent="290" relname="span">должны были адресовать запрос Лиге арабских государств.</segment>
+		<segment id="75" parent="294" relname="condition">Если сделать это не представлялось возможным,</segment>
+		<segment id="76" parent="292" relname="span">то решение</segment>
+		<segment id="77" parent="76" relname="elaboration">о выделении военной помощи</segment>
+		<segment id="78" parent="293" relname="same-unit">должно было приниматься генеральным секретарем ЛАГ.</segment>
+		<segment id="79" parent="295" relname="span">В то же время ряд моментов,</segment>
+		<segment id="80" parent="79" relname="elaboration">включая соглашение о статусе вооруженных сил,</segment>
+		<segment id="81" parent="296" relname="same-unit">еще только предстояло оформить окончательно.</segment>
+		<segment id="82" parent="315" relname="span">На встречах, которые последовали за первоначальным заявлением, арабские страны прорабатывали оставшиеся вопросы,</segment>
+		<segment id="83" parent="82" relname="purpose">чтобы предоставить совету ЛАГ финальный протокол о формировании объединенных сил к концу лета 2015 года.</segment>
+		<segment id="84" parent="417" relname="preparation">##### От "исторического события" к повторению истории?</segment>
+		<segment id="85" parent="416" relname="preparation">##### Однако в последних числах августа проект был внезапно отложен на неопределенный срок.</segment>
+		<segment id="86" parent="319" relname="span">Саудовская Аравия,</segment>
+		<segment id="87" parent="86" relname="elaboration">которую поддержали Бахрейн, Кувейт, Катар, Объединенные Арабские Эмираты и Ирак,</segment>
+		<segment id="88" parent="321" relname="span">отказалась подписывать последний ключевой документ,</segment>
+		<segment id="89" parent="318" relname="span">необходимый</segment>
+		<segment id="90" parent="89" relname="purpose">для продолжения процесса.</segment>
+		<segment id="91" parent="416" relname="span">В результате деятельность по созданию сил региональной безопасности в очередной раз зашла в тупик.</segment>
+		<segment id="92" parent="328" relname="span">##### В первую очередь работа над объединенными арабскими вооруженными силами прекратилась</segment>
+		<segment id="93" parent="92" relname="cause">из-за разногласий между саудитами и египтянами по вопросу правомерности ввода войск в Ливию - или на территорию любого другого государства, где идет борьба за власть.</segment>
+		<segment id="94" parent="326" relname="span">Этот вопрос беспокоит и другие страны региона, такие как Алжир,</segment>
+		<segment id="95" parent="322" relname="span">которые считают,</segment>
+		<segment id="96" parent="460" relname="span">что объединенные силы могут быть использованы</segment>
+		<segment id="97" parent="96" relname="purpose">не для обеспечения безопасности,</segment>
+		<segment id="98" parent="324" relname="span">а как предлог</segment>
+		<segment id="99" parent="98" relname="purpose">для вторжения на чужую территорию.</segment>
+		<segment id="100" parent="325" relname="joint">Именно по этой причине в Тунисе весь план назвали "нереальным и неосуществимым".</segment>
+		<segment id="101" parent="325" relname="joint">Даже власти Марокко, формально поддерживая проект, рассматривали его скорее как инструмент предотвращения агрессии, нежели военного вмешательства.</segment>
+		<segment id="102" parent="347" relname="span">##### Вместе с тем проект потерпел неудачу</segment>
+		<segment id="103" parent="102" relname="cause">не только из-за недостатка взаимного доверия среди членов Лиги арабских государств.</segment>
+		<segment id="104" parent="348" relname="span">Задачи, поставленные перед объединенными арабскими вооруженными силами, были весьма расплывчатыми.</segment>
+		<segment id="105" parent="106" relname="cause">Более того, многим обозревателям новый проект показался более амбициозным и масштабным, чем предлагавшиеся ранее концепции сил коллективной безопасности,</segment>
+		<segment id="106" parent="344" relname="span">что нашло отражение в выступлении генерального секретаря ЛАГ в ходе первой подготовительной встречи начальников штабов армий.</segment>
+		<segment id="107" parent="108" relname="purpose">Стремясь, по всей видимости, развеять возможные слухи и опасения,</segment>
+		<segment id="108" parent="329" relname="span">он заявил,</segment>
+		<segment id="109" parent="341" relname="span">что "объединенные арабские вооруженные силы не станут очередным военным альянсом или армией, направленной против какой-либо страны".</segment>
+		<segment id="110" parent="333" relname="same-unit">Вместо этого,</segment>
+		<segment id="111" parent="332" relname="attribution">по его словам,</segment>
+		<segment id="112" parent="331" relname="condition">"новые ВС будут ориентированы на борьбу с терроризмом, защиту национальной безопасности арабских стран и обеспечение региональной стабильности",</segment>
+		<segment id="113" parent="330" relname="joint">что "позволит остановить любого внешнего врага</segment>
+		<segment id="114" parent="330" relname="joint">и пресечь внутренние конфликты".</segment>
+		<segment id="115" parent="343" relname="span">##### Однако в его заявлении был весьма точно отражен неоднозначный характер новых вооруженных сил.</segment>
+		<segment id="116" parent="338" relname="span">Чем же все-таки должен был быть новый альянс?</segment>
+		<segment id="117" parent="335" relname="span">Договором коллективной обороны по образцу НАТО</segment>
+		<segment id="118" parent="117" relname="purpose">ради защиты его членов от внешних угроз?</segment>
+		<segment id="119" parent="337" relname="span">Системой коллективной безопасности в стиле ООН,</segment>
+		<segment id="120" parent="119" relname="purpose">направленной на разрешение межгосударственных (или даже внутренних) конфликтов?</segment>
+		<segment id="121" parent="336" relname="joint">Или же сотрудничеством стран в рамках одного органа по типу ЕС по ряду тем, в том числе по вопросам внутренней безопасности?</segment>
+		<segment id="122" parent="340" relname="span">И каким образом борьба с террористической угрозой будет вписываться в эти структуры,</segment>
+		<segment id="123" parent="124" relname="attribution">если арабские страны до сих пор не могут договориться,</segment>
+		<segment id="124" parent="463" relname="span">что именно считать терроризмом?</segment>
+		<segment id="125" parent="350" relname="span">##### Если авторы проекта объединенных вооруженных сил планируют решить одним разом целых три задачи</segment>
+		<segment id="126" parent="349" relname="joint">- противостояние внешней агрессии,</segment>
+		<segment id="127" parent="349" relname="joint">пресечение внутренних конфликтов на территории арабского пространства безопасности</segment>
+		<segment id="128" parent="349" relname="joint">и противодействие таким угрозам, как терроризм,</segment>
+		<segment id="129" parent="351" relname="span">- то получается, что они пытаются стать похожими на НАТО, ООН и ЕС одновременно.</segment>
+		<segment id="130" parent="352" relname="span">Это весьма закономерный шаг,</segment>
+		<segment id="131" parent="130" relname="condition">если вспомнить, насколько тесно в регионе переплелись вопросы внутренней и внешней безопасности.</segment>
+		<segment id="132" parent="353" relname="contrast">Однако для выполнения этих задач арабским странам понадобится пойти на гораздо более масштабный отказ от собственного суверенитета, чем кому-либо еще в мире.</segment>
+		<segment id="133" parent="412" relname="preparation">##### Арабская коллективная безопасность и/или оборона?</segment>
+		<segment id="134" parent="354" relname="joint">##### На сегодняшний день концепции различных уровней безопасности принципиально взаимосвязаны,</segment>
+		<segment id="135" parent="354" relname="joint">и для каждой требуется отдельная законодательная база.</segment>
+		<segment id="136" parent="137" relname="condition">##### Если говорить о системе коллективной обороны, предназначенной для защиты от внешней агрессии,</segment>
+		<segment id="137" parent="355" relname="span">то необходимый для нее документ уже существует.</segment>
+		<segment id="138" parent="139" relname="attribution">Согласно договору о совместной обороне 1950 года,</segment>
+		<segment id="139" parent="356" relname="span">акт агрессии, направленный против любого члена Лиги арабских государств, расценивается как акт агрессии против всей международной организации - как и в НАТО.</segment>
+		<segment id="140" parent="357" relname="contrast">Однако проблема кроется не в отсутствии правовой определенности,</segment>
+		<segment id="141" parent="360" relname="span">а в недостатке взаимного доверия:</segment>
+		<segment id="142" parent="358" relname="span">в прошлом отдельные государства уже подвергались нападению извне</segment>
+		<segment id="143" parent="142" relname="elaboration">(Египет в 1956 году, Ирак в 2003 году),</segment>
+		<segment id="144" parent="359" relname="contrast">однако так и не дождались какой-либо военной помощи со стороны своих предполагаемых союзников.</segment>
+		<segment id="145" parent="146" relname="condition">##### Если считать, что в основе любого оборонного соглашения в первую очередь лежит уверенность в его соблюдении всеми остальными союзниками,</segment>
+		<segment id="146" parent="403" relname="span">то здесь авторы проекта угодили в крупную ловушку.</segment>
+		<segment id="147" parent="148" relname="attribution">Более того, арабские государства так и не сошлись во мнении,</segment>
+		<segment id="148" parent="464" relname="span">кого именно считать вероятным внешним агрессором:</segment>
+		<segment id="149" parent="361" relname="contrast">некоторые называют главным врагом Иран,</segment>
+		<segment id="150" parent="361" relname="contrast">тогда как другие указывают на Израиль или совсем иные страны.</segment>
+		<segment id="151" parent="362" relname="span">##### Система коллективной безопасности,</segment>
+		<segment id="152" parent="151" relname="purpose">предназначенная для ограничения применения силы при разрешении внутренних споров,</segment>
+		<segment id="153" parent="363" relname="same-unit">в теории тоже существует,</segment>
+		<segment id="154" parent="364" relname="concession">хотя в уставе ЛАГ есть лазейки, позволяющие избежать наказания.</segment>
+		<segment id="155" parent="365" relname="contrast">В общем и целом насилие как средство разрешения споров подвергается осуждению,</segment>
+		<segment id="156" parent="365" relname="contrast">однако полномочия совета Лиги арабских государств в части мер воздействия на страну-агрессора весьма ограничены.</segment>
+		<segment id="157" parent="366" relname="span">##### Статья 6 устава ЛАГ,</segment>
+		<segment id="158" parent="157" relname="elaboration">которая касается вопросов территориальной целостности и суверенитета,</segment>
+		<segment id="159" parent="367" relname="same-unit">требует единогласного решения</segment>
+		<segment id="160" parent="368" relname="purpose">для назначения меры воздействия</segment>
+		<segment id="161" parent="369" relname="condition">(без учета голоса страны-агрессора).</segment>
+		<segment id="162" parent="372" relname="span">Однако в статье 5 того же документа описана совершенно иная процедура,</segment>
+		<segment id="163" parent="162" relname="condition">применимая в тех случаях, когда спор не был сопряжен с нарушениями суверенитета.</segment>
+		<segment id="164" parent="370" relname="span">Решение по статье 5 принимается большинством голосов</segment>
+		<segment id="165" parent="164" relname="condition">без участия вовлеченных сторон</segment>
+		<segment id="166" parent="371" relname="joint">и является обязательным только для тех, кто его поддержал.</segment>
+		<segment id="167" >Здесь можно выделить три проблемы.</segment>
+		<segment id="168" parent="377" relname="span">Во-первых, достичь единодушия при голосовании уже само по себе нелегко,</segment>
+		<segment id="169" parent="376" relname="span">особенно когда государств много,</segment>
+		<segment id="170" parent="169" relname="elaboration">как в случае с ЛАГ.</segment>
+		<segment id="171" parent="382" relname="span">Во-вторых, неясно, как именно определять, связан ли тот или иной конфликт с нарушением суверенитета.</segment>
+		<segment id="172" parent="379" relname="span">Этот вопрос уже приводил к спорной ситуации между Ливаном и Сирией в 1958 году,</segment>
+		<segment id="173" parent="172" relname="elaboration">когда стороны требовали рассматривать политический кризис по разным статьям [устава ЛАГ].</segment>
+		<segment id="174" parent="380" relname="sequence">В итоге власти Ливана обратились в ООН,</segment>
+		<segment id="175" parent="380" relname="sequence">и американская морская пехота десантировалась в Бейруте.</segment>
+		<segment id="176" parent="389" relname="span">В-третьих, существующий механизм введения санкций против вероятного агрессора показал себя неэффективным.</segment>
+		<segment id="177" parent="385" relname="span">Во время иракского вторжения,</segment>
+		<segment id="178" parent="383" relname="same-unit">которое,</segment>
+		<segment id="179" parent="180" relname="attribution">как утверждали в Багдаде,</segment>
+		<segment id="180" parent="384" relname="span">было направлено на восстановление суверенитета Ирака,</segment>
+		<segment id="181" parent="386" relname="joint">Кувейт оказался практически беззащитным,</segment>
+		<segment id="182" parent="386" relname="joint">а Ливан в условиях сирийской оккупации так и не получил никакой помощи от других арабских государств.</segment>
+		<segment id="183" parent="398" relname="span">##### Все эти законодательные и принципиальные трудности не были рассмотрены в рамках проекта по созданию объединенных арабских вооруженных сил.</segment>
+		<segment id="184" parent="390" relname="span">Если у Организации Объединенных Наций</segment>
+		<segment id="185" parent="184" relname="evaluation">(которая, бесспорно, далека от совершенства)</segment>
+		<segment id="186" parent="392" relname="span">есть Совет безопасности,</segment>
+		<segment id="187" parent="186" relname="elaboration">который выносит обязательные к исполнению резолюции,</segment>
+		<segment id="188" parent="393" relname="joint">то решения ЛАГ принимаются на пленарных заседаниях</segment>
+		<segment id="189" parent="393" relname="joint">и обязательны только для тех стран, которые проголосовали в их пользу.</segment>
+		<segment id="190" parent="395" relname="elaboration">Это не предусмотрено ни в НАТО, ни в ООН.</segment>
+		<segment id="191" parent="399" relname="span">В результате проект коллективной безопасности арабских государств постоянно терпит неудачи</segment>
+		<segment id="192" parent="396" relname="joint">из-за необходимости добиваться единодушия по важным вопросам</segment>
+		<segment id="193" parent="396" relname="joint">и/или отсутствия мер воздействия - как экономического, так и военного характера.</segment>
+		<segment id="194" parent="450" relname="preparation">##### Будущее вооруженных сил</segment>
+		<segment id="195" parent="448" relname="span">##### Новые объединенные вооруженные силы также планировалось задействовать в разрешении вопросов внутренней безопасности, включая борьбу с терроризмом.</segment>
+		<segment id="196" parent="447" relname="span">В целом арабские страны поддерживают эту инициативу,</segment>
+		<segment id="197" parent="196" relname="cause">так как многие из них - особенно после 2011 года - были серьезно затронуты действиями радикальных исламистов.</segment>
+		<segment id="198" parent="446" relname="span">Однако на пути к сотрудничеству им еще предстоит преодолеть ряд трудностей.</segment>
+		<segment id="199" parent="200" relname="attribution">##### Во-первых, арабские страны не могут прийти к единому мнению о том,</segment>
+		<segment id="200" parent="466" relname="span">кого и при каких условиях следует считать террористами.</segment>
+		<segment id="201" parent="466" relname="elaboration">Даже официальные толкования самого термина "терроризм" заметно различаются.</segment>
+		<segment id="202" parent="418" relname="contrast">Так, например, движение "Братья-мусульмане" было признано террористической организацией в Сирии, Египте, Саудовской Аравии и ОАЭ</segment>
+		<segment id="203" parent="419" relname="span">- но не в других арабских государствах:</segment>
+		<segment id="204" parent="203" relname="elaboration">в Тунисе местный рупор "Братьев-мусульман" - партия "Ан-Нахда" ("Возрождение") - и вовсе входит в правительство.</segment>
+		<segment id="205" parent="420" relname="span">То же самое можно сказать о движении "Хезболла" в Ливане,</segment>
+		<segment id="206" parent="205" relname="elaboration">где оно также является частью руководства страны,</segment>
+		<segment id="207" parent="208" relname="attribution">при этом ССАГПЗ признал его</segment>
+		<segment id="208" parent="469" relname="span">радикальной группировкой.</segment>
+		<segment id="209" parent="425" relname="contrast">##### Кроме того, в рамках объединенных арабских вооруженных сил борьбу с терроризмом планировалось вести военными методами с активным применением войск.</segment>
+		<segment id="210" parent="423" relname="span">Однако большинство инициатив по международному сотрудничеству в этой сфере носят невоенный характер.</segment>
+		<segment id="211" parent="210" relname="elaboration">В основном они ориентированы на обмен информацией и разведданными, а также на взаимное согласование законов о терроризме и борьбе с ним.</segment>
+		<segment id="212" parent="423" relname="elaboration">Даже Европейский союз как межгосударственная организация, которая дальше всех продвинулась в этом вопросе, не имеет полномочий на отправку войск в другие страны Европы.</segment>
+		<segment id="213" parent="444" relname="span">Однако в проекте единых межарабских вооруженных сил в качестве первоочередного средства борьбы с терроризмом названо именно военное вмешательство.</segment>
+		<segment id="214" parent="441" relname="span">##### Причины этого кроются в достаточно широком понимании проблемы в регионе.</segment>
+		<segment id="215" parent="216" relname="attribution">Некоторые арабские страны считают,</segment>
+		<segment id="216" parent="428" relname="span">что крах системы безопасности в Ливии, мятежи в Йемене и захват территорий боевиками "Исламского государства" (ИГ) являются терактами.</segment>
+		<segment id="217" parent="430" relname="span">Неотступно преследуемый сирийский режим заходит еще дальше:</segment>
+		<segment id="218" parent="219" relname="attribution">по мнению Дамаска,</segment>
+		<segment id="219" parent="427" relname="span">нынешняя гражданская война в стране также является длительной террористической операцией.</segment>
+		<segment id="220" parent="442" relname="span">Так или иначе, арабские государства до сих пор не наладили взаимное антитеррористическое сотрудничество даже на самом низшем уровне</segment>
+		<segment id="221" parent="220" relname="cause">- во многом из-за взаимного недоверия друг к другу и страха потерять собственный суверенитет.</segment>
+		<segment id="222" parent="223" relname="attribution">##### Как понятно из первых вариантов резолюции о создании объединенных сил,</segment>
+		<segment id="223" parent="431" relname="span">военная помощь предоставляется по запросу члена ЛАГ.</segment>
+		<segment id="224" parent="225" relname="condition">Однако если легитимность правительства страны вызывает вопросы,</segment>
+		<segment id="225" parent="438" relname="span">возникает затруднительная ситуация.</segment>
+		<segment id="226" parent="435" relname="span">Так, к примеру, летом 2015 года одна из двух групп, соперничающих за власть в Ливии, запросила военную помощь у мирового и регионального сообщества.</segment>
+		<segment id="227" parent="432" relname="contrast">Хотя на международном уровне новые власти считают легитимными,</segment>
+		<segment id="228" parent="433" relname="span">на национальном уровне возникли серьезные противоречия,</segment>
+		<segment id="229" parent="230" relname="attribution">поскольку Верховный суд Ливии признал</segment>
+		<segment id="230" parent="470" relname="span">парламент страны незаконным.</segment>
+		<segment id="231" parent="434" relname="span">##### Следовательно, для военного вмешательства в Ливии потребовалась бы санкция Совбеза ООН.</segment>
+		<segment id="232" parent="436" relname="span">Аналогичная ситуация сложилась и в Сирии,</segment>
+		<segment id="233" parent="232" relname="elaboration">где публично оспаривается легитимность нынешнего правительства.</segment>
+		<segment id="234" parent="459" relname="preparation">##### Перезапуск проекта по созданию объединенных арабских ВС</segment>
+		<segment id="235" parent="457" relname="contrast">##### На проекте единой арабской системы коллективной безопасности еще не поставлен крест,</segment>
+		<segment id="236" parent="457" relname="contrast">но он нуждается в полномасштабном перезапуске.</segment>
+		<segment id="237" parent="458" relname="span">Необходимо уточнить цели и формат объединенных вооруженных сил.</segment>
+		<segment id="238" parent="451" relname="joint">Возможно, лучше начать с меньшего числа членов планируемого альянса или более скромных задач вроде коллективной обороны?</segment>
+		<segment id="239" parent="452" relname="span">Какая именно законодательная база потребуется</segment>
+		<segment id="240" parent="239" relname="purpose">для высадки вооруженных сил в стране, где идет полномасштабная гражданская война?</segment>
+		<segment id="241" parent="453" relname="span">Кроме того, аналогичных результатов можно достичь и в рамках военного сотрудничества,</segment>
+		<segment id="242" parent="241" relname="purpose">направленного на повышение оперативной совместимости и укрепление взаимного доверия.</segment>
+		<segment id="243" parent="455" relname="evidence">Как показывает война против ИГ,</segment>
+		<segment id="244" parent="454" relname="joint">узкие коалиции не менее эффективны</segment>
+		<segment id="245" parent="454" relname="joint">и при этом не требуют дорогостоящих и обременительных мероприятий по созданию единых вооруженных сил.</segment>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="3" relname="cause"/>
+		<group id="248" type="span" parent="2" relname="elaboration"/>
+		<group id="249" type="span" parent="250" relname="same-unit"/>
+		<group id="250" type="multinuc" parent="255" relname="span"/>
+		<group id="251" type="span" parent="252" relname="same-unit"/>
+		<group id="252" type="multinuc" parent="253" relname="joint"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" />
+		<group id="255" type="span" />
+		<group id="256" type="span" parent="13" relname="elaboration"/>
+		<group id="257" type="multinuc" parent="17" relname="evaluation"/>
+		<group id="258" type="span" parent="257" relname="same-unit"/>
+		<group id="259" type="span" parent="260" relname="sequence"/>
+		<group id="260" type="multinuc" parent="262" relname="sequence"/>
+		<group id="261" type="span" parent="262" relname="sequence"/>
+		<group id="262" type="multinuc" parent="264" relname="contrast"/>
+		<group id="263" type="multinuc" parent="266" relname="span"/>
+		<group id="264" type="multinuc" parent="266" relname="cause"/>
+		<group id="265" type="span" parent="264" relname="contrast"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" />
+		<group id="268" type="span" parent="269" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="413" relname="preparation"/>
+		<group id="270" type="span" parent="30" relname="evaluation"/>
+		<group id="271" type="span" parent="34" relname="purpose"/>
+		<group id="272" type="span" parent="274" relname="same-unit"/>
+		<group id="273" type="multinuc" parent="274" relname="same-unit"/>
+		<group id="274" type="multinuc" parent="276" relname="background"/>
+		<group id="275" type="span" parent="43" relname="elaboration"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="414" relname="span"/>
+		<group id="278" type="span" parent="279" relname="same-unit"/>
+		<group id="279" type="multinuc" parent="280" relname="span"/>
+		<group id="280" type="span" parent="308" relname="span"/>
+		<group id="281" type="multinuc" parent="309" relname="joint"/>
+		<group id="282" type="span" parent="52" relname="elaboration"/>
+		<group id="283" type="span" parent="281" relname="joint"/>
+		<group id="284" type="multinuc" parent="309" relname="joint"/>
+		<group id="285" type="span" parent="57" relname="elaboration"/>
+		<group id="286" type="span" parent="60" relname="elaboration"/>
+		<group id="287" type="span" parent="288" relname="comparison"/>
+		<group id="288" type="multinuc" parent="306" relname="span"/>
+		<group id="289" type="multinuc" parent="291" relname="span"/>
+		<group id="290" type="span" parent="289" relname="same-unit"/>
+		<group id="291" type="span" parent="312" relname="span"/>
+		<group id="292" type="span" parent="293" relname="same-unit"/>
+		<group id="293" type="multinuc" parent="294" relname="span"/>
+		<group id="294" type="span" parent="314" relname="span"/>
+		<group id="295" type="span" parent="296" relname="same-unit"/>
+		<group id="296" type="multinuc" parent="315" relname="cause"/>
+		<group id="297" type="span" parent="300" relname="span"/>
+		<group id="298" type="span" parent="297" relname="cause"/>
+		<group id="299" type="span" parent="33" relname="concession"/>
+		<group id="300" type="span" parent="413" relname="span"/>
+		<group id="301" type="span" parent="302" relname="joint"/>
+		<group id="302" type="multinuc" parent="304" relname="joint"/>
+		<group id="303" type="span" parent="302" relname="joint"/>
+		<group id="304" type="multinuc" parent="306" relname="elaboration"/>
+		<group id="305" type="span" parent="304" relname="joint"/>
+		<group id="306" type="span" parent="311" relname="span"/>
+		<group id="307" type="span" parent="277" relname="elaboration"/>
+		<group id="308" type="span" parent="309" relname="joint"/>
+		<group id="309" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="310" type="span" parent="309" relname="joint"/>
+		<group id="311" type="span" parent="309" relname="joint"/>
+		<group id="312" type="span" parent="313" relname="contrast"/>
+		<group id="313" type="multinuc" parent="317" relname="joint"/>
+		<group id="314" type="span" parent="313" relname="contrast"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="joint"/>
+		<group id="317" type="multinuc" />
+		<group id="318" type="span" parent="88" relname="elaboration"/>
+		<group id="319" type="span" parent="320" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="91" relname="cause"/>
+		<group id="321" type="span" parent="320" relname="same-unit"/>
+		<group id="322" type="span" parent="461" relname="attribution"/>
+		<group id="323" type="multinuc" parent="461" relname="span"/>
+		<group id="324" type="span" parent="323" relname="contrast"/>
+		<group id="325" type="multinuc" parent="326" relname="elaboration"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="328" relname="elaboration"/>
+		<group id="328" type="span" />
+		<group id="329" type="span" parent="109" relname="attribution"/>
+		<group id="330" type="multinuc" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="334" relname="span"/>
+		<group id="333" type="multinuc" parent="342" relname="joint"/>
+		<group id="334" type="span" parent="333" relname="same-unit"/>
+		<group id="335" type="span" parent="336" relname="joint"/>
+		<group id="336" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="337" type="span" parent="336" relname="joint"/>
+		<group id="338" type="span" parent="339" relname="joint"/>
+		<group id="339" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="340" type="span" parent="339" relname="joint"/>
+		<group id="341" type="span" parent="342" relname="joint"/>
+		<group id="342" type="multinuc" parent="344" relname="elaboration"/>
+		<group id="343" type="span" parent="346" relname="contrast"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="345" type="span" parent="346" relname="contrast"/>
+		<group id="346" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="347" type="span" />
+		<group id="348" type="span" parent="347" relname="elaboration"/>
+		<group id="349" type="multinuc" parent="125" relname="elaboration"/>
+		<group id="350" type="span" parent="129" relname="condition"/>
+		<group id="351" type="span" />
+		<group id="352" type="span" parent="353" relname="contrast"/>
+		<group id="353" type="multinuc" parent="351" relname="evaluation"/>
+		<group id="354" type="multinuc" parent="401" relname="span"/>
+		<group id="355" type="span" parent="400" relname="span"/>
+		<group id="356" type="span" parent="355" relname="evidence"/>
+		<group id="357" type="multinuc" parent="404" relname="span"/>
+		<group id="358" type="span" parent="359" relname="contrast"/>
+		<group id="359" type="multinuc" parent="141" relname="elaboration"/>
+		<group id="360" type="span" parent="357" relname="contrast"/>
+		<group id="361" type="multinuc" parent="464" relname="elaboration"/>
+		<group id="362" type="span" parent="363" relname="same-unit"/>
+		<group id="363" type="multinuc" parent="364" relname="span"/>
+		<group id="364" type="span" parent="407" relname="span"/>
+		<group id="365" type="multinuc" parent="408" relname="span"/>
+		<group id="366" type="span" parent="367" relname="same-unit"/>
+		<group id="367" type="multinuc" parent="368" relname="span"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="373" relname="span"/>
+		<group id="370" type="span" parent="371" relname="joint"/>
+		<group id="371" type="multinuc" parent="372" relname="elaboration"/>
+		<group id="372" type="span" parent="375" relname="span"/>
+		<group id="373" type="span" parent="374" relname="contrast"/>
+		<group id="374" type="multinuc" parent="410" relname="elaboration"/>
+		<group id="375" type="span" parent="374" relname="contrast"/>
+		<group id="376" type="span" parent="168" relname="condition"/>
+		<group id="377" type="span" parent="378" relname="joint"/>
+		<group id="378" type="multinuc" parent="167" relname="elaboration"/>
+		<group id="379" type="span" parent="381" relname="span"/>
+		<group id="380" type="multinuc" parent="379" relname="solutionhood"/>
+		<group id="381" type="span" parent="171" relname="elaboration"/>
+		<group id="382" type="span" parent="378" relname="joint"/>
+		<group id="383" type="multinuc" parent="177" relname="purpose"/>
+		<group id="384" type="span" parent="383" relname="same-unit"/>
+		<group id="385" type="span" parent="387" relname="background"/>
+		<group id="386" type="multinuc" parent="387" relname="span"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="176" relname="elaboration"/>
+		<group id="389" type="span" parent="378" relname="joint"/>
+		<group id="390" type="span" parent="391" relname="same-unit"/>
+		<group id="391" type="multinuc" parent="394" relname="comparison"/>
+		<group id="392" type="span" parent="391" relname="same-unit"/>
+		<group id="393" type="multinuc" parent="394" relname="comparison"/>
+		<group id="394" type="multinuc" parent="395" relname="span"/>
+		<group id="395" type="span" parent="397" relname="span"/>
+		<group id="396" type="multinuc" parent="191" relname="cause"/>
+		<group id="397" type="span" parent="183" relname="elaboration"/>
+		<group id="398" type="span" parent="399" relname="cause"/>
+		<group id="399" type="span" />
+		<group id="400" type="span" parent="402" relname="span"/>
+		<group id="401" type="span" parent="400" relname="preparation"/>
+		<group id="402" type="span" parent="411" relname="contrast"/>
+		<group id="403" type="span" parent="404" relname="evaluation"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" parent="406" relname="joint"/>
+		<group id="406" type="multinuc" parent="411" relname="contrast"/>
+		<group id="407" type="span" parent="409" relname="joint"/>
+		<group id="408" type="span" parent="409" relname="joint"/>
+		<group id="409" type="multinuc" parent="410" relname="span"/>
+		<group id="410" type="span" />
+		<group id="411" type="multinuc" parent="412" relname="span"/>
+		<group id="412" type="span" />
+		<group id="413" type="span" />
+		<group id="414" type="span" />
+		<group id="415" type="span" />
+		<group id="416" type="span" parent="417" relname="span"/>
+		<group id="417" type="span" />
+		<group id="418" type="multinuc" parent="422" relname="joint"/>
+		<group id="419" type="span" parent="418" relname="contrast"/>
+		<group id="420" type="span" parent="421" relname="contrast"/>
+		<group id="421" type="multinuc" parent="422" relname="joint"/>
+		<group id="422" type="multinuc" parent="467" relname="elaboration"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="424" type="span" parent="425" relname="contrast"/>
+		<group id="425" type="multinuc" parent="426" relname="span"/>
+		<group id="426" type="span" parent="213" relname="concession"/>
+		<group id="427" type="span" parent="217" relname="elaboration"/>
+		<group id="428" type="span" parent="429" relname="joint"/>
+		<group id="429" type="multinuc" parent="214" relname="elaboration"/>
+		<group id="430" type="span" parent="429" relname="joint"/>
+		<group id="431" type="span" parent="439" relname="contrast"/>
+		<group id="432" type="multinuc" parent="231" relname="cause"/>
+		<group id="433" type="span" parent="432" relname="contrast"/>
+		<group id="434" type="span" parent="226" relname="elaboration"/>
+		<group id="435" type="span" parent="437" relname="joint"/>
+		<group id="436" type="span" parent="437" relname="joint"/>
+		<group id="437" type="multinuc" parent="438" relname="elaboration"/>
+		<group id="438" type="span" parent="440" relname="span"/>
+		<group id="439" type="multinuc" parent="443" relname="joint"/>
+		<group id="440" type="span" parent="439" relname="contrast"/>
+		<group id="441" type="span" parent="444" relname="cause"/>
+		<group id="442" type="span" parent="443" relname="joint"/>
+		<group id="443" type="multinuc" parent="198" relname="elaboration"/>
+		<group id="444" type="span" parent="445" relname="span"/>
+		<group id="445" type="span" parent="443" relname="joint"/>
+		<group id="446" type="span" parent="449" relname="contrast"/>
+		<group id="447" type="span" parent="195" relname="elaboration"/>
+		<group id="448" type="span" parent="449" relname="contrast"/>
+		<group id="449" type="multinuc" parent="450" relname="span"/>
+		<group id="450" type="span" />
+		<group id="451" type="multinuc" parent="237" relname="elaboration"/>
+		<group id="452" type="span" parent="451" relname="joint"/>
+		<group id="453" type="span" parent="451" relname="joint"/>
+		<group id="454" type="multinuc" parent="455" relname="span"/>
+		<group id="455" type="span" parent="456" relname="span"/>
+		<group id="456" type="span" parent="451" relname="joint"/>
+		<group id="457" type="multinuc" parent="459" relname="span"/>
+		<group id="458" type="span" parent="457" relname="elaboration"/>
+		<group id="459" type="span" />
+		<group id="460" type="span" parent="323" relname="contrast"/>
+		<group id="461" type="span" parent="462" relname="span"/>
+		<group id="462" type="span" parent="94" relname="elaboration"/>
+		<group id="463" type="span" parent="122" relname="condition"/>
+		<group id="464" type="span" parent="465" relname="span"/>
+		<group id="465" type="span" parent="406" relname="joint"/>
+		<group id="466" type="span" parent="467" relname="span"/>
+		<group id="467" type="span" parent="468" relname="span"/>
+		<group id="468" type="span" parent="443" relname="joint"/>
+		<group id="469" type="span" parent="421" relname="contrast"/>
+		<group id="470" type="span" parent="228" relname="cause"/>
+	</body>
+</rst>

@@ -1,0 +1,146 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Новость: В Башкирии поставили спектакль «Серебряное войско» М.Карягиной</segment>
+		<segment id="2" parent="116" relname="preparation">##### Конкурсную программу V Международного фестиваля тюркоязычных театров «Туганлык» в Уфе 7 сентября открыл спектакль Чувашского государственного театра юного зрителя имени М. Сеспеля «Серебряное войско» М.Карягиной.</segment>
+		<segment id="3" parent="116" relname="span">##### Публика на спектакль собралась разная.</segment>
+		<segment id="4" parent="63" relname="span">В зрительном зале Государственного академического русского драматического театра присутствовали критики, члены жюри, коллеги из других театров, представители чувашской диаспоры, приехавшие из разных уголков Башкортостана, молодежь.</segment>
+		<segment id="5" parent="62" relname="joint">Заявленная тема оказалась весьма актуальной не только в контексте чувашской культуры,</segment>
+		<segment id="6" parent="62" relname="joint">но вызвала весьма широкий профессиональный и зрительский интерес.</segment>
+		<segment id="7" parent="65" relname="span">##### В спектакле задействован практически весь состав Чувашского государственного театра юного зрителя,</segment>
+		<segment id="8" parent="64" relname="joint">эту постановку артисты любят</segment>
+		<segment id="9" parent="64" relname="joint">и всегда с большим вдохновением выходят на сцену.</segment>
+		<segment id="10" parent="67" relname="span">Счастливой оказалась и фестивальная история спектакля,</segment>
+		<segment id="11" parent="66" relname="span">он стал лауреатом трех международных фестивалей:</segment>
+		<segment id="12" parent="11" relname="evidence">в городах Конья (Турция), Казань (Республика Татарстан), Саранск (Республика Мордовия), высоко оценили его театральные критики.</segment>
+		<segment id="13" parent="70" relname="span">##### Однако новый выход на сцену всегда — новый экзамен, с которым труппа в очередной раз успешно справилась.</segment>
+		<segment id="14" parent="69" relname="joint">Новые сильные интонации прозвучали в образе главной героини Эльбану в исполнении Натальи Шамбулиной,</segment>
+		<segment id="15" parent="69" relname="joint">свежо зазвучал голос Шелеби (Ольга Мацуцына),</segment>
+		<segment id="16" parent="69" relname="joint">сила духа и напористость амазонок, ни капли не сомневавшихся в успехе, передавались зрительному залу, аплодировавшему каждому выходу артистов на сцену.</segment>
+		<segment id="17" parent="87" relname="span">##### Трагедия оставила сильные впечатления.</segment>
+		<segment id="18" parent="72" relname="span">«Спектакль очень интересный,</segment>
+		<segment id="19" parent="71" relname="joint">тем более я в первый раз в жизни вижу чувашский театр,</segment>
+		<segment id="20" parent="71" relname="joint">слышу чувашскую речь.</segment>
+		<segment id="21" parent="72" relname="evaluation">Искусство разных народов – это всегда интересно»,</segment>
+		<segment id="22" parent="73" relname="attribution">- отметил один из уфимцев.</segment>
+		<segment id="23" parent="76" relname="attribution">Другая зрительница призналась,</segment>
+		<segment id="24" parent="75" relname="joint">что с чувашами ее связывает многое – это чувашские корни,</segment>
+		<segment id="25" parent="75" relname="joint">ей было приятно увидеть театр в гостях в Башкирии.</segment>
+		<segment id="26" parent="27" relname="attribution">Молодой Владимир, художественный руководитель театра-студии «Птица»  рассказал,</segment>
+		<segment id="27" parent="78" relname="span">что давно интересуется чувашской культурой.</segment>
+		<segment id="28" parent="29" relname="cause">«Я был на Днях чувашской культуры в Башкирии в июне этого года</segment>
+		<segment id="29" parent="79" relname="span">и потому мой выбор чувашского спектакля не случаен.</segment>
+		<segment id="30" parent="80" relname="joint">Мне интересен чувашский этнос,</segment>
+		<segment id="31" parent="80" relname="joint">хотелось больше узнать историю этого народа.</segment>
+		<segment id="32" parent="81" relname="joint">Постановка интересна своей сценографией, динамикой развития сюжета,</segment>
+		<segment id="33" parent="81" relname="joint">чувствуется любовь автора и исполнителей к материалу, своему народу»,</segment>
+		<segment id="34" parent="84" relname="attribution">— заметил он.</segment>
+		<segment id="35" parent="96" relname="attribution">##### На обсуждении заслуженный деятель искусств России Сергей Яшин еще раз отметил высокую степень актуальности поднятой темы.</segment>
+		<segment id="36" parent="88" relname="joint">«Еще 15 лет назад этот спектакль, наверное, не звучал бы так актуально</segment>
+		<segment id="37" parent="88" relname="joint">и нужно.</segment>
+		<segment id="38" parent="91" relname="joint">Напоминание о корнях, традициях,  которые веками передавались от сердца к сердцу, чрезвычайно важно.</segment>
+		<segment id="39" parent="89" relname="joint">К сожалению, человечество страдает забывчивостью,</segment>
+		<segment id="40" parent="89" relname="joint">и необходимо время от времени напоминать о том, откуда мы.</segment>
+		<segment id="41" parent="90" relname="joint">Спектакль «Серебряное войско» мне показался удивительно современным со временем</segment>
+		<segment id="42" parent="90" relname="joint">и очень нужным.</segment>
+		<segment id="43" parent="94" relname="joint">Тем более в исполнении ТЮЗа, обращенного к юным людям, это вдвойне важно»,</segment>
+		<segment id="44" parent="95" relname="attribution">- подчеркнул он.</segment>
+		<segment id="45" parent="99" relname="joint">##### Какую оценку «Серебряному войску» даст жюри,</segment>
+		<segment id="46" parent="99" relname="joint">станет известно через несколько дней.</segment>
+		<segment id="47" parent="100" relname="joint">Торжественная церемония закрытия фестиваля состоится 13 сентября.</segment>
+		<segment id="48" parent="104" relname="span">##### Чувашский театр преподнес еще один подарок своим сородичам из Башкортостана.</segment>
+		<segment id="49" parent="102" relname="cause">В селе Бижбуляк артисты показали спектакль «Шăпа» Маргариты Михайловой.</segment>
+		<segment id="50" parent="101" relname="joint">Жители Бижбулякского района благодарили артистов не только горячими аплодисментами,</segment>
+		<segment id="51" parent="101" relname="joint">слезы на глазах говорили о многом.</segment>
+		<segment id="52" parent="105" relname="span">##### «Для нас это очень большое событие,</segment>
+		<segment id="53" parent="52" relname="elaboration">театры бывают у нас не так часто.</segment>
+		<segment id="54" parent="107" relname="span">Спектакль «Шăпа» просто потряс нас,</segment>
+		<segment id="55" parent="106" relname="joint">мы плакали</segment>
+		<segment id="56" parent="106" relname="joint">и радовались вместе с артистами.</segment>
+		<segment id="57" parent="108" relname="joint">Хочется пожелать театру больших успехов,</segment>
+		<segment id="58" parent="108" relname="joint">пусть Бог помогает вам во всем»,</segment>
+		<segment id="59" parent="110" relname="span">— благословил отец Георгий,</segment>
+		<segment id="60" parent="59" relname="elaboration">приехавший посмотреть постановку за много километров.</segment>
+		<segment id="61" parent="113" relname="evaluation">Безусловно, этот спектакль станет лучшей памятью о теплой встрече чувашей на башкирской земле.</segment>
+		<group id="62" type="multinuc" parent="4" relname="evaluation"/>
+		<group id="63" type="span" parent="3" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="65" type="span" parent="68" relname="joint"/>
+		<group id="66" type="span" parent="10" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="68" type="multinuc" />
+		<group id="69" type="multinuc" parent="13" relname="evidence"/>
+		<group id="70" type="span" parent="68" relname="joint"/>
+		<group id="71" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" parent="86" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" parent="86" relname="joint"/>
+		<group id="78" type="span" parent="85" relname="attribution"/>
+		<group id="79" type="span" parent="83" relname="span"/>
+		<group id="80" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="83" type="span" parent="82" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" parent="98" relname="span"/>
+		<group id="86" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="87" type="span" />
+		<group id="88" type="multinuc" parent="91" relname="joint"/>
+		<group id="89" type="multinuc" parent="92" relname="contrast"/>
+		<group id="90" type="multinuc" parent="94" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="contrast"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="93" type="span" parent="95" relname="span"/>
+		<group id="94" type="multinuc" parent="93" relname="evaluation"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="115" relname="joint"/>
+		<group id="98" type="span" parent="86" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="100" type="multinuc" parent="115" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="48" relname="elaboration"/>
+		<group id="104" type="span" />
+		<group id="105" type="span" parent="112" relname="joint"/>
+		<group id="106" type="multinuc" parent="54" relname="evidence"/>
+		<group id="107" type="span" parent="112" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="span"/>
+		<group id="109" type="span" parent="111" relname="span"/>
+		<group id="110" type="span" parent="109" relname="attribution"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" />
+		<group id="115" type="multinuc" />
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,305 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">﻿3 АНАЛИЗ И СИНТЕЗ СЛОЖНЫХ СИСТЕМ</segment>
+		<segment id="2" relname="antithesis">УДК 62-50</segment>
+		<segment id="3" parent="145" relname="span">ОБЕСПЕЧЕНИЕ ПАРАМЕТРИЧЕСКОЙ 8-ИНВАРИАНТНОСТИ ВЫХОДА СИСТЕМЫ ПРИ НЕОПРЕДЕЛЕННОСТИ ОБЪЕКТА УПРАВЛЕНИЯ</segment>
+		<segment id="4" parent="3" relname="attribution">С.А. Александрова, А.А. Мусаев, О.В. Слита, А.В. Ушаков</segment>
+		<segment id="5" relname="antithesis">Ставится задача обеспечения параметрической е -инвариантности выхода непрерывной системы при неопределенности матрицы состояния исходного объекта. Задача решается для случая матрицы состояния объекта, заданной в сопровождающей форме, для которой оказываются невыполнимыми условия достижения абсолютной параметрической инвариантности. Результаты иллюстрируются примером. Ключевые слова: неопределенность задания матрицы, сопровождающая форма, параметрическая е -инвариантность, собственные значения и векторы.</segment>
+		<segment id="6" parent="281" relname="preparation">Введение</segment>
+		<segment id="7" parent="278" relname="span">Современные методы анализа и синтеза динамических систем позволяют решать задачи управления ими</segment>
+		<segment id="8" parent="7" relname="condition">в условиях системных неопределенностей задания модели объекта [1-5].</segment>
+		<segment id="9" parent="280" relname="span">Одной из постановочных версий управления</segment>
+		<segment id="10" parent="11" relname="condition">в условиях неопределенности</segment>
+		<segment id="11" parent="279" relname="span">является задача обеспечения инвариантности выхода системы к неопределенности параметров модели исходного объекта [4, 5] или параметрической инвариантности.</segment>
+		<segment id="12" parent="149" relname="joint">В работе приводятся алгебраические условия достижимости абсолютной параметрической инвариантности [2, 4, 5]</segment>
+		<segment id="13" parent="147" relname="span">и делается переход к ситуации,</segment>
+		<segment id="14" parent="13" relname="condition">когда полученные алгебраические условия оказываются невыполнимыми,</segment>
+		<segment id="15" parent="147" relname="purpose">что явилось мотивацией к постановке задачи обеспечения е -инвариантности выхода системы с заданной оценкой величины е .</segment>
+		<segment id="16" parent="191" relname="preparation">Алгебраические условия обеспечения абсолютной параметрической инвариантности выхода системы</segment>
+		<segment id="17" parent="156" relname="span">Рассматривается непрерывный объект управления (ОУ)</segment>
+		<segment id="18" parent="155" relname="span">[формула] , [формула], [формула], (1)</segment>
+		<segment id="19" parent="154" relname="joint">где х [символ] R[символ], и [символ] R[символ], у [символ] R[символ]; х, и, у - векторы состояния, управления и выхода</segment>
+		<segment id="20" parent="264" relname="span">А [символ] R[символ], В [символ] R[символ], С [символ] R[символ], А, В, С - матрицы состояния, управления и выхода,</segment>
+		<segment id="21" parent="20" relname="condition">при этом (А, В) и (А, С) образуют соответственно управляемую и наблюдаемую пары;</segment>
+		<segment id="22" parent="154" relname="joint">[символ]А [символ] R[символ] - неопределенность задания матрицы состояния.</segment>
+		<segment id="23" parent="158" relname="span">Закон управления (ЗУ) объектом (1) формируется в виде</segment>
+		<segment id="24" parent="157" relname="span">[формула], (2)</segment>
+		<segment id="25" parent="160" relname="span">где g (?)- задающее воздействие, матрица К с использованием метода модального управления [6] находится с помощью системы уравнений</segment>
+		<segment id="26" parent="159" relname="span">[формула], (3) [формула],</segment>
+		<segment id="27" parent="26" relname="elaboration">в которых наблюдаемая пара матриц (Л,Н) модальной модели задает желаемые динамические свойства системы (путем назначения структуры собственных чисел диагональной матрицы Л).</segment>
+		<segment id="28" parent="29" relname="condition">Следует отметить, что если известны матрицы А, В, Л, Н ,</segment>
+		<segment id="29" parent="161" relname="span">то уравнение (3) решается относительно матрицы М ,</segment>
+		<segment id="30" parent="162" relname="condition">а если известны А,В, Л, М ,</segment>
+		<segment id="31" parent="162" relname="span">то уравнение (3) решается относительно матрицы Н в форме</segment>
+		<segment id="32" parent="31" relname="elaboration">[формула].</segment>
+		<segment id="33" parent="166" relname="span">Замкнутая система, образованная ОУ (1) и ЗУ (2), записывается как</segment>
+		<segment id="34" parent="33" relname="elaboration">[формула]; х(0); (4) [формула]; [формула] , [формула], [формула] .</segment>
+		<segment id="35" parent="284" relname="span">ЗУ (2) должен обеспечивать желаемые показатели качества замкнутой системы</segment>
+		<segment id="36" parent="35" relname="condition">при наличии в исходном объекте параметрической неопределенности, т.е. параметрическую инвариантность ее выхода.</segment>
+		<segment id="37" parent="38" relname="purpose">Для целей дальнейших исследований</segment>
+		<segment id="38" parent="285" relname="span">представим сигнальный компонент [символ]Fх(?) в декомпозированной форме:</segment>
+		<segment id="39" parent="285" relname="elaboration">[формула]. (5)</segment>
+		<segment id="40" parent="168" relname="span">Вектор параметрического воздействия t) сформирован на правых мультипликативных компонентах элементов разложения [символ]Fx(t) в форме (5) в силу представления</segment>
+		<segment id="41" parent="169" relname="span">[формула] (6)</segment>
+		<segment id="42" parent="41" relname="elaboration">где (AA)j - j -ая строка матрицы AA .</segment>
+		<segment id="43" parent="170" relname="span">На левых сомножителях слагаемых этого выражения сформируем матрицу параметрического воздействия</segment>
+		<segment id="44" parent="43" relname="elaboration">[формула]; [формула] .</segment>
+		<segment id="45" parent="173" relname="span">С использованием (6) запишем уравнение (4) системы в виде</segment>
+		<segment id="46" parent="45" relname="elaboration">[формула]; [формула] . (7)</segment>
+		<segment id="47" parent="174" relname="span">Представление (7) системы (4) позволяет переформулировать задачу обеспечения абсолютной параметрической инвариантности  как задачу обеспечения сигнальной инвариантности [формула][4, 7]</segment>
+		<segment id="48" parent="47" relname="elaboration">[формула] . (8)</segment>
+		<segment id="49" parent="175" relname="span">Запишем выражение (8) в терминах преобразований Лапласа и передаточных функций (матриц)</segment>
+		<segment id="50" parent="177" relname="span">[формула], (9)</segment>
+		<segment id="51" parent="176" relname="joint">где g (s) - Лапласов образ задающего воздействия g (t);</segment>
+		<segment id="52" parent="176" relname="joint">n(s) - Лапласов образ «параметрического» воздействия л(( );</segment>
+		<segment id="53" parent="176" relname="joint">Ф y[символ] (s) - передаточная функция (матрица) отношения «задающее воздействие-выход системы»;</segment>
+		<segment id="54" parent="176" relname="joint">Фул (s) - передаточная функция (матрица) отношения «параметрическое» воздействие-выход системы».</segment>
+		<segment id="55" parent="179" relname="span">Очевидно, что равенство (9) при n(s) Ф 0 выполняется,</segment>
+		<segment id="56" parent="181" relname="span">когда Ф [символ] (s) = 0. (10)</segment>
+		<segment id="57" parent="180" relname="span">Соотношение (10) представляет собой «сигнальный» аналог инвариантности выхода (ошибки) к неопределенностям задания матрицы состояния исходного объекта,</segment>
+		<segment id="58" parent="57" relname="condition">которое выполняется при любых реализациях внешнего задающего воздействия g (t).</segment>
+		<segment id="59" parent="178" relname="sequence">Приведем утверждение, одно из положений которого базируется на структуре собственных векторов [8] матрицы состояния проектируемой системы.</segment>
+		<segment id="60" parent="272" relname="preparation">Утверждение 1. [3, 5].</segment>
+		<segment id="61" parent="183" relname="joint">Для того чтобы система (4) обладала абсолютной параметрической инвариантностью выхода к неопределенности задания матрицы исходного объекта</segment>
+		<segment id="62" parent="182" relname="restatement">или чтобы система (10) обладала сигнальной инвариантностью выхода относительно внешнего «параметрического» воздействия n(t) в смысле условий (8), (9),</segment>
+		<segment id="63" parent="182" relname="restatement">т.е. чтобы передаточная функция (матрица) «параметрический» вход п -выход системы y » Фул (s) была бы нулевой и выполнялось равенство (10), [формула]; [формула]; p [символ]; [формула],</segment>
+		<segment id="64" parent="186" relname="span">достаточно, чтобы</segment>
+		<segment id="65" parent="185" relname="joint">1\. столбцы Dj матрицы D были собственными векторами матрицы F ;</segment>
+		<segment id="66" parent="184" relname="restatement">2\. столбцы Dj принадлежали ядру матрицы C ,</segment>
+		<segment id="67" parent="184" relname="restatement">т.е. чтобы выполнялось соотношение CDj = 0.</segment>
+		<segment id="68" parent="260" relname="preparation">Проблема параметрической е -инвариантности</segment>
+		<segment id="69" parent="198" relname="span">Проблема параметрической е -инвариантности возникает в случае,</segment>
+		<segment id="70" parent="197" relname="restatement">когда невозможно достижение абсолютной параметрической инвариантности,</segment>
+		<segment id="71" parent="197" relname="restatement">т.е. когда не выполняется какое-либо из условий утверждения 1.</segment>
+		<segment id="72" parent="201" relname="span">Проиллюстрируем эту ситуацию [9] на примере объекта управления, заданного в сопровождающем управляемом базисе</segment>
+		<segment id="73" parent="72" relname="elaboration">[формула]</segment>
+		<segment id="74" parent="200" relname="span">В этом случае любые системные неопределенности АЛ возмущают только последнюю строчку матрицы состояния,</segment>
+		<segment id="75" parent="74" relname="elaboration">и • [ Аа0 Аа1 Аа2 ... Аап-1 ],</segment>
+		<segment id="76" parent="199" relname="span">откуда для матрицы Б получаем представление в виде матрицы-столбца</segment>
+		<segment id="77" parent="76" relname="elaboration">Б = [0 0 ••• 0 1]. (12)</segment>
+		<segment id="78" parent="205" relname="span">В силу канонической сопровождающей формы задания матрицы Л и вида матрицы В (11) ЗУ (2) сохраняет каноническую сопровождающую форму матрицы состояния Р системы [9],</segment>
+		<segment id="79" parent="206" relname="span">которая имеет собственные вектора 5,, формируемые по схеме Вандермонда:</segment>
+		<segment id="80" parent="79" relname="elaboration">[формула]. (13)</segment>
+		<segment id="81" parent="275" relname="span">Как видно из структуры (13) собственных векторов, матрица-столбец Б (12) не совпадает ни с одним из собственных векторов Р .</segment>
+		<segment id="82" parent="83" relname="condition">Таким образом, при представлении матрицы состояния в форме (11)</segment>
+		<segment id="83" parent="288" relname="span">первое условие утверждения 1 выполнено не будет.</segment>
+		<segment id="84" parent="209" relname="span">Следовательно, абсолютная параметрическая инвариантность выхода для случая матрицы состояния, заданной в сопровождающей форме, недостижима.</segment>
+		<segment id="85" parent="210" relname="span">В этом случае следует перейти к обеспечению е - инвариантности выхода проектируемой системы.</segment>
+		<segment id="86" parent="228" relname="preparation">Оценка е величины параметрической е -инвариантности</segment>
+		<segment id="87" parent="227" relname="preparation">Задачу формирования оценки е величины параметрической е -инвариантности решим в два этапа.</segment>
+		<segment id="88" parent="216" relname="preparation">Этап 1.</segment>
+		<segment id="89" parent="215" relname="same-unit">Модификация представления собственных векторов, построенных по схеме Вандермонда;</segment>
+		<segment id="90" parent="214" relname="span">им придается вид</segment>
+		<segment id="91" parent="90" relname="elaboration">[формула].</segment>
+		<segment id="92" parent="224" relname="preparation">Этап 2.</segment>
+		<segment id="93" parent="218" relname="span">Представление матрицы-столбца Б (12) в виде проекции на собственный вектор 51 в форме а5[ = Б,</segment>
+		<segment id="94" parent="93" relname="elaboration">в которой коэффициент а ищется с помощью алгоритма Грама [10]</segment>
+		<segment id="95" parent="218" relname="condition">из условия [формула]</segment>
+		<segment id="96" parent="221" relname="span">Определим оценку е на основе нормы невязки представления матрицы-столбца Б его проекцией</segment>
+		<segment id="97" parent="96" relname="elaboration">Б([символ]) = а5;</segment>
+		<segment id="98" parent="220" relname="span">на вектор 51 в форме</segment>
+		<segment id="99" parent="98" relname="elaboration">[формула].</segment>
+		<segment id="100" parent="298" relname="preparation">Пример</segment>
+		<segment id="101" parent="230" relname="span">В качестве ОУ рассмотрим электропривод,</segment>
+		<segment id="102" parent="101" relname="elaboration">исполнительный двигатель которого обладает механической характеристикой, содержащей восходящий участок [11].</segment>
+		<segment id="103" parent="234" relname="span">Представление ОУ в виде (1) характери- зуется матрицами</segment>
+		<segment id="104" parent="103" relname="elaboration">[формула]</segment>
+		<segment id="105" parent="231" relname="span">с медианной составляющей</segment>
+		<segment id="106" parent="105" relname="elaboration">[формула]</segment>
+		<segment id="107" parent="232" relname="span">и интервальной</segment>
+		<segment id="108" parent="107" relname="elaboration">[формула].</segment>
+		<segment id="109" parent="236" relname="span">Зададим требования к переходному процессу в виде его длительности</segment>
+		<segment id="110" parent="109" relname="elaboration">/пп = 2,4 с</segment>
+		<segment id="111" parent="237" relname="span">и величины перерегулирования</segment>
+		<segment id="112" parent="111" relname="elaboration">ст = 0 %</segment>
+		<segment id="113" parent="238" relname="same-unit">в системе, в которую войдет объект.</segment>
+		<segment id="114" parent="239" relname="sequence">Синтезируем закон модального управле- ния для номинального ОУ на основе биномиальной модальной модели, в которой [формула].</segment>
+		<segment id="115" parent="240" relname="span">Тогда 0" 4 .</segment>
+		<segment id="116" parent="276" relname="span">Результаты моделирования, представленные кривыми ошибки воспроизведения задающего воздействия</segment>
+		<segment id="117" parent="303" relname="span">[символ]) = t</segment>
+		<segment id="118" parent="302" relname="span">при медианном и двух угловых реализациях параметров ОУ</segment>
+		<segment id="119" parent="304" relname="span">([символ](1), [символ]) - значения ошибки е[символ]),</segment>
+		<segment id="120" parent="119" relname="elaboration">соответствующие угловым значениям интервальной матрицы состояния),</segment>
+		<segment id="121" parent="308" relname="span">показывают (рисунок, а),</segment>
+		<segment id="122" parent="306" relname="span">что выход системы не обладает абсолютной параметрической инвариантностью,</segment>
+		<segment id="123" parent="307" relname="comparison">а параметрическая е -инвариантность характеризуется заметной величиной е.</segment>
+		<segment id="124" parent="243" relname="span">Синтезируем закон модального управления,</segment>
+		<segment id="125" parent="242" relname="span">задавая значения</segment>
+		<segment id="126" parent="125" relname="elaboration">[формула] .</segment>
+		<segment id="127" parent="294" relname="span">Результаты моделирования представлены на рисунке, б [формула], рисунке, в [формула] и рисунке, г [формула],</segment>
+		<segment id="128" parent="127" relname="elaboration">каждый из которых получен при медианных и двух угловых реализациях параметров исходного ОУ.</segment>
+		<segment id="129" parent="245" relname="contrast">Ни в одном из случаев не достигается абсолютная параметрическая инвариантность,</segment>
+		<segment id="130" parent="277" relname="span">но наблюдается заметное уменьшение величины е параметрической инвариантности по мере уменьшения величины е невязки аппроксимации вектора Б собственным вектором, формируемым по схеме Ван-дермонда (таблица).</segment>
+		<segment id="131" parent="121" relname="elaboration">[Рисунок. Ошибка по выходу для номинальной и угловых версий системы, спроектированной с помощью модального управления: [формула]; [формула]; [формула]; [формула]; [формула]; [формула]; [формула]]</segment>
+		<segment id="132" parent="255" relname="preparation">Заключение</segment>
+		<segment id="133" parent="250" relname="span">Показано, что для случая,</segment>
+		<segment id="134" parent="133" relname="condition">когда матрица состояния исходного объекта задана в таком базисе, в котором недостижимо первое условие обеспечения абсолютной параметрической инвариантности,</segment>
+		<segment id="135" parent="251" relname="same-unit">задача инвариантности выхода относительно неопределенности задания матрицы состояния объекта может быть решена в форме достижения параметрической е -инвариантности с заданной е .</segment>
+		<segment id="136" parent="252" relname="joint">Исследование выполнено при поддержке Министерства образования и науки Российской Федерации, соглашение 14. B37.21.0406 «Разработка многофункционального малогабаритного мультиротацион-ного летательного аппарата».</segment>
+		<segment id="137" parent="253" relname="joint">[формула] Матрица состояния спроектированной системы (медианная составляющая)</segment>
+		<segment id="138" parent="253" relname="joint">Собственный вектор Величина е невязки представления матрицы-столбца D Матрица управления спроектированной системы</segment>
+		<segment id="139" parent="253" relname="joint">Величина е параметрической инвариантности по ошибке</segment>
+		<segment id="140" parent="130" relname="elaboration">[Таблица. Показатели параметрически е -инвариантных систем]</segment>
+		<segment id="141" parent="142" relname="preparation">Литература</segment>
+		<segment id="142" relname="antithesis">1\. Буков В.Н., Бронников А.М. Условия инвариантности выхода линейных систем // Автоматика и телемеханика. - 2005. - № 2. - С. 23-35. 2\. Никифоров В.О., Ушаков А.В. Управление в условиях неопределенности: чувствительность, адаптация, робастность. - СПб: СПб ГИТМО (ТУ), 2002. - 232 с. 3\. Ackermann J. Robust control systems with uncertain physical parameters. - London: Springer-Verlag, 1993. - 406 p. 4\. Слита О.В., Ушаков А.В. Обеспечение инвариантности выхода непрерывной системы относительно экзогенных сигнальных и эндогенных параметрических возмущений: алгебраический подход // Изв. РАН. Теория и системы управления. - 2008 - № 4. - С. 24-32. 5\. Слита О.В., Ушаков А.В. Достаточные алгебраические условия параметрической инвариантности выхода линейной стационарной системы в первом приближении // Изв. РАН. Теория и системы управления. - 2010. - № 6. - С. 16-22. 6\. Слита О.В., Ушаков А.В. Модальное управление: два способа реализации концепции подобия // Ме-хатроника, автоматизация, управление. - 2008. - № 9. - С. 7-13. 7\. Дударенко Н.А., Полякова М.В., Ушаков А.В. Алгебраическая организация условий обобщенной син-хронизируемости многоагрегатных динамических объектов // Научно-технический вестник СПбГУ ИТМО. - 2010. - № 2 (66). - С. 30-36. 8\. Дударенко Н.А., Ушаков А.В. Структура собственных векторов матриц состояния многоканальных систем как вырождающий фактор // Научно-технический вестник информационных технологий, механики и оптики. - 2012. - № 5 (81). - С. 52-58. 9\. Слита О.В., Ушаков А.В. Модельное представление объекта управления в задаче параметрической инвариантности// Изв. вузов. Приборостроение. - 2006. - Т. 49. - № 1. - С. 14-20. 10\. Гантмахер Ф.Р. Теория матриц. - М.: Наука, 1973. - 575 с. 11\. Ковчин С. А., Сабинин Ю.А. Теория электропривода. - СПб: Энергоатомиздат, 1994. - 496 с.</segment>
+		<segment id="143" relname="antithesis">Александрова Софья Александровна - Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики, студент, alexan- drova_sophie@mail.ru Мусаев Андрей Александрович - Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики, студент, brein7@mail.ru Слита Ольга Валерьевна - Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики, кандидат технических наук, доцент, o-slita@yandex.ru Ушаков Анатолий Владимирович - Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики, доктор технических наук, профессор, ushakov-AVG@yandex.ru</segment>
+		<group id="145" type="span" parent="282" relname="preparation"/>
+		<group id="147" type="span" parent="262" relname="span"/>
+		<group id="149" type="multinuc" parent="301" relname="joint"/>
+		<group id="154" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="155" type="span" parent="17" relname="elaboration"/>
+		<group id="156" type="span" parent="271" relname="preparation"/>
+		<group id="157" type="span" parent="23" relname="elaboration"/>
+		<group id="158" type="span" parent="171" relname="sequence"/>
+		<group id="159" type="span" parent="165" relname="span"/>
+		<group id="160" type="span" parent="24" relname="elaboration"/>
+		<group id="161" type="span" parent="164" relname="comparison"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="164" relname="comparison"/>
+		<group id="164" type="multinuc" parent="159" relname="elaboration"/>
+		<group id="165" type="span" parent="25" relname="elaboration"/>
+		<group id="166" type="span" parent="171" relname="sequence"/>
+		<group id="168" type="span" parent="286" relname="elaboration"/>
+		<group id="169" type="span" parent="40" relname="elaboration"/>
+		<group id="170" type="span" parent="172" relname="sequence"/>
+		<group id="171" type="multinuc" parent="271" relname="span"/>
+		<group id="172" type="multinuc" parent="269" relname="span"/>
+		<group id="173" type="span" parent="172" relname="sequence"/>
+		<group id="174" type="span" parent="266" relname="preparation"/>
+		<group id="175" type="span" parent="179" relname="evidence"/>
+		<group id="176" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="177" type="span" parent="49" relname="elaboration"/>
+		<group id="178" type="multinuc" parent="266" relname="span"/>
+		<group id="179" type="span" parent="258" relname="span"/>
+		<group id="180" type="span" parent="56" relname="elaboration"/>
+		<group id="181" type="span" parent="55" relname="condition"/>
+		<group id="182" type="multinuc" parent="183" relname="joint"/>
+		<group id="183" type="multinuc" parent="186" relname="purpose"/>
+		<group id="184" type="multinuc" parent="185" relname="joint"/>
+		<group id="185" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="186" type="span" parent="272" relname="span"/>
+		<group id="190" type="multinuc" parent="191" relname="span"/>
+		<group id="191" type="span" parent="257" relname="span"/>
+		<group id="197" type="multinuc" parent="69" relname="condition"/>
+		<group id="198" type="span" parent="204" relname="span"/>
+		<group id="199" type="span" parent="202" relname="span"/>
+		<group id="200" type="span" parent="199" relname="cause"/>
+		<group id="201" type="span" parent="274" relname="span"/>
+		<group id="202" type="span" parent="201" relname="elaboration"/>
+		<group id="204" type="span" parent="289" relname="preparation"/>
+		<group id="205" type="span" parent="81" relname="evidence"/>
+		<group id="206" type="span" parent="78" relname="elaboration"/>
+		<group id="209" type="span" parent="85" relname="cause"/>
+		<group id="210" type="span" parent="260" relname="span"/>
+		<group id="214" type="span" parent="215" relname="same-unit"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="226" relname="sequence"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="223" relname="joint"/>
+		<group id="220" type="span" parent="222" relname="same-unit"/>
+		<group id="221" type="span" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="223" relname="joint"/>
+		<group id="223" type="multinuc" parent="224" relname="span"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" parent="226" relname="sequence"/>
+		<group id="226" type="multinuc" parent="227" relname="span"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" relname="antithesis"/>
+		<group id="230" type="span" parent="235" relname="joint"/>
+		<group id="231" type="span" parent="233" relname="same-unit"/>
+		<group id="232" type="span" parent="233" relname="same-unit"/>
+		<group id="233" type="multinuc" parent="235" relname="joint"/>
+		<group id="234" type="span" parent="233" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="298" relname="span"/>
+		<group id="236" type="span" parent="238" relname="same-unit"/>
+		<group id="237" type="span" parent="238" relname="same-unit"/>
+		<group id="238" type="multinuc" parent="239" relname="sequence"/>
+		<group id="239" type="multinuc" parent="115" relname="condition"/>
+		<group id="240" type="span" parent="309" relname="cause"/>
+		<group id="242" type="span" parent="124" relname="condition"/>
+		<group id="243" type="span" parent="293" relname="sequence"/>
+		<group id="245" type="multinuc" parent="296" relname="elaboration"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="252" relname="joint"/>
+		<group id="252" type="multinuc" parent="255" relname="span"/>
+		<group id="253" type="multinuc" relname="antithesis"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" relname="antithesis"/>
+		<group id="257" type="span" relname="antithesis"/>
+		<group id="258" type="span" parent="178" relname="sequence"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" relname="antithesis"/>
+		<group id="262" type="span" parent="149" relname="joint"/>
+		<group id="264" type="span" parent="154" relname="joint"/>
+		<group id="265" type="span" parent="190" relname="joint"/>
+		<group id="266" type="span" parent="265" relname="span"/>
+		<group id="268" type="span" parent="190" relname="joint"/>
+		<group id="269" type="span" parent="268" relname="span"/>
+		<group id="270" type="span" parent="190" relname="joint"/>
+		<group id="271" type="span" parent="270" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="190" relname="joint"/>
+		<group id="274" type="span" parent="198" relname="elaboration"/>
+		<group id="275" type="span" parent="288" relname="evidence"/>
+		<group id="276" type="span" parent="305" relname="same-unit"/>
+		<group id="277" type="span" parent="245" relname="contrast"/>
+		<group id="278" type="span" parent="280" relname="preparation"/>
+		<group id="279" type="span" parent="9" relname="purpose"/>
+		<group id="280" type="span" parent="283" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" relname="antithesis"/>
+		<group id="283" type="span" parent="301" relname="joint"/>
+		<group id="284" type="span" parent="269" relname="preparation"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" parent="287" relname="span"/>
+		<group id="287" type="span" parent="172" relname="sequence"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="290" type="span" parent="84" relname="evidence"/>
+		<group id="293" type="multinuc" parent="295" relname="evidence"/>
+		<group id="294" type="span" parent="296" relname="span"/>
+		<group id="295" type="span" parent="297" relname="span"/>
+		<group id="296" type="span" parent="295" relname="span"/>
+		<group id="297" type="span" parent="300" relname="span"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="297" relname="preparation"/>
+		<group id="300" type="span" relname="antithesis"/>
+		<group id="301" type="multinuc" parent="281" relname="span"/>
+		<group id="302" type="span" parent="117" relname="condition"/>
+		<group id="303" type="span" parent="116" relname="elaboration"/>
+		<group id="304" type="span" parent="118" relname="elaboration"/>
+		<group id="305" type="multinuc" parent="122" relname="evidence"/>
+		<group id="306" type="span" parent="307" relname="comparison"/>
+		<group id="307" type="multinuc" parent="309" relname="span"/>
+		<group id="308" type="span" parent="305" relname="same-unit"/>
+		<group id="309" type="span" parent="310" relname="span"/>
+		<group id="310" type="span" parent="293" relname="sequence"/>
+  </body>
+</rst>

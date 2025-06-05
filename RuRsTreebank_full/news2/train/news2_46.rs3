@@ -1,0 +1,539 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Россия не простит Турции гибель военнослужащих в Сирии и пособничества террористам</segment>
+		<segment id="2" parent="267" relname="restatement">##### Россия не забудет</segment>
+		<segment id="3" parent="267" relname="restatement">и не простит Турции гибель своих военнослужащих в Сирии и пособничества террористам.</segment>
+		<segment id="4" parent="269" relname="span">Об этом заявил президент РФ Владимир Путин (Vladimir Putin),</segment>
+		<segment id="5" parent="4" relname="background">выступая с ежегодным посланием к Федеральному Собранию 3 декабря.</segment>
+		<segment id="6" parent="276" relname="span">##### Сама церемония оглашения началась с минуты молчания в память о пилоте Олеге Пешкове (Oleg Peshkov),</segment>
+		<segment id="7" parent="274" relname="span">погибшем 24 ноября при крушении российского фронтового бомбардировщика Су-24М,</segment>
+		<segment id="8" parent="273" relname="sequence">который возвращался на базу Хмеймим</segment>
+		<segment id="9" parent="273" relname="sequence">после нанесения ударов по позициям радикальных исламистов в Сирии близ границы с Турцией,</segment>
+		<segment id="10" parent="429" relname="span">и о морском пехотинце Александре Позыниче (Alexander Pozynich),</segment>
+		<segment id="11" parent="10" relname="elaboration">убитом боевиками в ходе военно-спасательной операции.</segment>
+		<segment id="12" parent="271" relname="joint">##### "Сегодня здесь, в Георгиевском зале, историческом зале русской воинской славы, присутствуют боевые летчики, представители Вооруженных сил - участники антитеррористической операции в Сирии.</segment>
+		<segment id="13" parent="272" relname="span">Присоединиться к нам нашли в себе силы Гелена Юрьевна Пешкова и Ирина Владимировна Позынич,</segment>
+		<segment id="14" parent="13" relname="elaboration">которые потеряли мужей в войне с террором.</segment>
+		<segment id="15" parent="272" relname="evaluation">Низкий поклон вам и родителям наших героев",</segment>
+		<segment id="16" parent="277" relname="attribution">- сказал Владимир Путин.</segment>
+		<segment id="17" parent="282" relname="attribution">##### Он отметил,</segment>
+		<segment id="18" parent="282" relname="span">что Россия не ставит знака равенства между простыми жителями Турции и частью правящей верхушки,</segment>
+		<segment id="19" parent="432" relname="span">которая несет прямую ответственность за "подлое военное преступление".</segment>
+		<segment id="20" parent="280" relname="restatement">##### "Мы не забудем этого пособничества террористам.</segment>
+		<segment id="21" parent="485" relname="joint">Всегда считали</segment>
+		<segment id="22" parent="485" relname="joint">и будем считать</segment>
+		<segment id="23" parent="486" relname="span">предательство самым последним и постыдным делом.</segment>
+		<segment id="24" parent="281" relname="span">Пусть знают это те в Турции,</segment>
+		<segment id="25" parent="279" relname="joint">кто стрелял в спину нашим летчикам,</segment>
+		<segment id="26" parent="278" relname="joint">кто лицемерно пытается оправдать себя, свои действия</segment>
+		<segment id="27" parent="278" relname="joint">и прикрыть преступления террористов.</segment>
+		<segment id="28" parent="286" relname="span">Я вообще, уважаемые коллеги, не понимаю, зачем они это сделали.</segment>
+		<segment id="29" parent="285" relname="joint">Любые вопросы, любые проблемы, любые противоречия, которых мы даже и не видели, можно было решить совершенно другим способом.</segment>
+		<segment id="30" parent="284" relname="restatement">Более того, мы были готовы сотрудничать с Турцией по самым чувствительным для нее вопросам</segment>
+		<segment id="31" parent="284" relname="restatement">и готовы были пойти так далеко, как их союзники не желали делать.</segment>
+		<segment id="32" parent="468" relname="preparation">Только, наверное, Аллах знает, зачем они это сделали.</segment>
+		<segment id="33" parent="468" relname="span">И, видимо, Аллах решил наказать правящую клику в Турции,</segment>
+		<segment id="34" parent="33" relname="elaboration">лишив ее разума и рассудка",</segment>
+		<segment id="35" parent="469" relname="attribution">- подчеркнул российский президент.</segment>
+		<segment id="36" parent="293" relname="span">##### Он также жестко раскритиковал политику двойных стандартов.</segment>
+		<segment id="37" parent="290" relname="joint">##### "Мы знаем, например, кто в Турции набивает свой карман</segment>
+		<segment id="38" parent="289" relname="span">и дает заработать террористам на продаже награбленной в Сирии нефти.</segment>
+		<segment id="39" parent="288" relname="joint">Именно на эти деньги бандиты вербуют наемников,</segment>
+		<segment id="40" parent="288" relname="joint">закупают оружие,</segment>
+		<segment id="41" parent="467" relname="span">организуют бесчеловечные теракты,</segment>
+		<segment id="42" parent="41" relname="elaboration">направленные против наших граждан, против граждан Франции, Ливана, Мали, других государств.</segment>
+		<segment id="43" parent="291" relname="span">Мы помним и то, что именно в Турции укрывались и получали моральную, материальную поддержку боевики,</segment>
+		<segment id="44" parent="287" relname="sequence">которые орудовали на Северном Кавказе в 1990-х и в 2000-х годах.</segment>
+		<segment id="45" parent="287" relname="sequence">И сейчас еще их там замечаем",</segment>
+		<segment id="46" parent="290" relname="attribution">- сказал Владимир Путин,</segment>
+		<segment id="47" parent="292" relname="attribution">добавив при этом,</segment>
+		<segment id="48" parent="292" relname="joint">что РФ не собирается и не будет нервно реагировать на происходящее,</segment>
+		<segment id="49" parent="292" relname="joint">а также "бряцать оружием".</segment>
+		<segment id="50" parent="470" relname="cause">##### Атака на российский бомбардировщик Су-24,</segment>
+		<segment id="51" parent="294" relname="sequence">первоначально вызвавшая шок в политическом, экспертном и медиасообществе,</segment>
+		<segment id="52" parent="294" relname="sequence">даже по прошествии почти трех недель остается одной из самых обсуждаемых тем.</segment>
+		<segment id="53" parent="54" relname="attribution">Так, бразильский журналист-международник, обозреватель ряда новостных изданий Пепе Эскобар (Pepe Escobar) предположил,</segment>
+		<segment id="54" parent="466" relname="span">что инцидент 24 ноября был геополитическим маневром.</segment>
+		<segment id="55" parent="297" relname="span">##### "Настоящей целью был не самолет, а возросшая после парижских терактов вероятность формирования реальной коалиции - США, Великобритании и Франции с одной стороны, и группы "4+1" (России, Сирии, Ирана, Ирака и "Хезболлы") с другой</segment>
+		<segment id="56" parent="296" relname="span">- ради единой борьбы против "Исламского государства"</segment>
+		<segment id="57" parent="56" relname="elaboration">(ИГ, в арабском варианте - ДАИШ; группировка запрещена в РФ)",</segment>
+		<segment id="58" parent="297" relname="attribution">- отметил он.</segment>
+		<segment id="59" parent="299" relname="attribution">##### С точки зрения эксперта,</segment>
+		<segment id="60" parent="299" relname="span">Анкара эксплуатирует туркоманов и многочисленных террористов, в том числе боевиков ДАИШ,</segment>
+		<segment id="61" parent="60" relname="purpose">для подавления курдов, свержения правящего режима в Дамаске и подчинения себе новых земель.</segment>
+		<segment id="62" parent="304" relname="evaluation">##### "Стратегическую значимость туркоманов в Сирии невозможно переоценить.</segment>
+		<segment id="63" parent="301" relname="span">Именно на территории их проживания, которая уходит вглубь на целых 35 км, Анкара хочет установить так называемую "безопасную зону".</segment>
+		<segment id="64" parent="300" relname="span">На практике это будет бесполетная зона на сирийской земле,</segment>
+		<segment id="65" parent="64" relname="elaboration">где якобы расселят сирийских беженцев,</segment>
+		<segment id="66" parent="302" relname="span">причем все это с 1 января [2016 года] будет оплачено ЕС</segment>
+		<segment id="67" parent="66" relname="elaboration">- Еврокомиссия уже разблокировала на эти цели 3 млрд. евро.</segment>
+		<segment id="68" parent="303" relname="joint">Сейчас же главным препятствием для турецкой бесполетной зоны, очевидно, является Россия",</segment>
+		<segment id="69" parent="305" relname="attribution">- констатировал Пепе Эскобар.</segment>
+		<segment id="70" parent="462" relname="attribution">##### На этом фоне, по его словам,</segment>
+		<segment id="71" parent="462" relname="span">решение президента Турции Реджепа Тайипа Эрдогана (Recep Tayyip Erdogan) открыть огонь стало "самоубийственной" мерой</segment>
+		<segment id="72" parent="306" relname="span">в попытке воспрепятствовать действиям российских летчиков,</segment>
+		<segment id="73" parent="72" relname="cause">"превращающих прибыльные активы [Анкары] в пепел".</segment>
+		<segment id="74" parent="75" relname="attribution">##### В то же время член парламента Нидерландов, пресс-секретарь по иностранным делам Народной партии за свободу и демократию Хан Тен Броеке (Han Ten Broeke) заявил,</segment>
+		<segment id="75" parent="458" relname="span">что он был неприятно удивлен новостью о сбитом российском Су-24.</segment>
+		<segment id="76" parent="308" relname="restatement">##### "У меня нет причин подвергать сомнению мнение НАТО.</segment>
+		<segment id="77" parent="308" relname="restatement">У Турции есть право на самозащиту.</segment>
+		<segment id="78" parent="459" relname="span">Тем не менее это весьма досадный инцидент,</segment>
+		<segment id="79" parent="311" relname="sequence">поскольку он произошел на фоне попыток стран мира сформировать единый фронт борьбы против ИГ после терактов в Париже. [...]</segment>
+		<segment id="80" parent="310" relname="span">В последний раз нечто подобное происходило 60 лет тому назад,</segment>
+		<segment id="81" parent="80" relname="evaluation">когда [18 ноября 1952 года] США отправили группу палубных истребителей F9F на перехват русских "МиГов",</segment>
+		<segment id="82" parent="310" relname="attribution">- напомнил политик.</segment>
+		<segment id="83" parent="475" relname="attribution">##### По его мнению,</segment>
+		<segment id="84" parent="475" relname="span">ситуация осложняется тем,</segment>
+		<segment id="85" parent="314" relname="joint">что Анкара, Москва и Вашингтон продолжают выступать с противоречивыми заявлениями по инциденту,</segment>
+		<segment id="86" parent="472" relname="span">а границу между Сирией и Турцией крайне трудно определить с необходимой точностью</segment>
+		<segment id="87" parent="86" relname="condition">даже при наличии соответствующего радиолокационного оборудования на земле.</segment>
+		<segment id="88" parent="317" relname="attribution">##### Хан Тен Броеке призвал</segment>
+		<segment id="89" parent="315" relname="joint">тщательно расследовать как инцидент с российским самолетом,</segment>
+		<segment id="90" parent="457" relname="span">так и проверить информацию о сотрудничестве боевиков ДАИШ с турецкими властями.</segment>
+		<segment id="91" parent="313" relname="span">##### "На этот счет действительно имеются многочисленные свидетельства.</segment>
+		<segment id="92" parent="312" relname="joint">Я уже выступал с публичным заявлением о наших подозрениях относительно того,</segment>
+		<segment id="93" parent="312" relname="joint">что Турция ведет торговлю с ИГ,</segment>
+		<segment id="94" parent="312" relname="joint">закупает нефть,</segment>
+		<segment id="95" parent="312" relname="joint">снабжает боевиков</segment>
+		<segment id="96" parent="312" relname="joint">и недостаточно контролирует границы не только с Сирией, но и с Европой",</segment>
+		<segment id="97" parent="313" relname="attribution">- подчеркнул представитель голландского парламента.</segment>
+		<segment id="98" parent="322" relname="attribution">##### С его точки зрения,</segment>
+		<segment id="99" parent="100" relname="concession">несмотря на кардинальные противоречия политики России и Турции по ряду проблем,</segment>
+		<segment id="100" parent="322" relname="span">Москва и Анкара должны обратить основное внимание на вопрос создания международной коалиции по борьбе с ДАИШ.</segment>
+		<segment id="101" parent="329" relname="span">##### Вместе с тем заведующий отделом Ближнего Востока немецкого Общества защиты угнетенных народов Камаль Сидо (Kamal Sido) решительно осудил политику Турции в регионе,</segment>
+		<segment id="102" parent="101" relname="evidence">которая изначально не предполагала мирного решения сирийского конфликта.</segment>
+		<segment id="103" parent="331" relname="sequence">##### "До 2011 года Турция поддерживала Башара Асада (Bashar Assad),</segment>
+		<segment id="104" parent="331" relname="sequence">но потом турецкое правительство стало поддерживать в первую очередь исламских боевиков - "Исламское государство", "Джебхат ан-Нусра", "Ахрар аш-Шам", все эти радикальные группировки.</segment>
+		<segment id="105" parent="318" relname="joint">Они прибывали через Турцию,</segment>
+		<segment id="106" parent="318" relname="joint">уезжали в Сирию и в Европу.</segment>
+		<segment id="107" parent="318" relname="joint">Через турецкие банки приходят деньги из разных стран - Саудовской Аравии, Катара - для исламских боевиков.</segment>
+		<segment id="108" parent="318" relname="joint">[...] В эти часы, в эти минуты исламские боевики наносят удары по земле, где я родился,</segment>
+		<segment id="109" parent="318" relname="joint">нападают на курдов, христиан, армян и езидов",</segment>
+		<segment id="110" parent="321" relname="span">- напомнил правозащитник,</segment>
+		<segment id="111" parent="320" relname="sequence">который вырос в курдском регионе Сирии Африн,</segment>
+		<segment id="112" parent="320" relname="sequence">но с 1990 года живет в ФРГ.</segment>
+		<segment id="113" parent="333" relname="attribution">##### Он подчеркнул,</segment>
+		<segment id="114" parent="332" relname="joint">что страны, которые в своих публичных заявлениях говорят об одних и тех же целях, не должны допускать никакой агрессии в отношении друг друга.</segment>
+		<segment id="115" parent="332" relname="joint">##### Также представитель Общества защиты угнетенных народов призвал разрушить каналы снабжения радикальных исламистов в Сирии.</segment>
+		<segment id="116" parent="117" relname="attribution">##### По его словам,</segment>
+		<segment id="117" parent="492" relname="span">крайне важным сейчас являются переговоры всех заинтересованных сторон, включая Россию, США, Саудовскую Аравию, Иран и другие государства.</segment>
+		<segment id="118" parent="334" relname="joint">##### "Самое главное, чтобы венский процесс продолжался общими усилиями,</segment>
+		<segment id="119" parent="334" relname="joint">чтобы курды участвовали в нем.</segment>
+		<segment id="120" parent="335" relname="joint">Турция выступает против этого",</segment>
+		<segment id="121" parent="335" relname="attribution">- напомнил Камаль Сидо,</segment>
+		<segment id="122" parent="123" relname="attribution">добавив,</segment>
+		<segment id="123" parent="515" relname="span">что нынешний президент Сирии Башар Асад "тоже несет ответственность за эту войну".</segment>
+		<segment id="124" parent="125" relname="concession">##### "Когда-то он должен уйти,</segment>
+		<segment id="125" parent="513" relname="span">но вместо него не должен прийти ставленник турецкого правительства.</segment>
+		<segment id="126" parent="340" relname="restatement">На месте Асада должен быть демократ, а не исламский фундаменталист",</segment>
+		<segment id="127" parent="340" relname="attribution">- подчеркнул правозащитник.</segment>
+		<segment id="128" parent="129" relname="attribution">##### В свою очередь директор исследовательских программ французского Института демократии и сотрудничества Джон Локленд (John Laughland) сказал,</segment>
+		<segment id="129" parent="348" relname="span">что он был глубоко шокирован известием об атаке на российский бомбардировщик.</segment>
+		<segment id="130" parent="346" relname="span">##### "Российский самолет, безусловно, не представлял никакой угрозы для Турции</segment>
+		<segment id="131" parent="345" relname="restatement">- он совершал полет над Сирией.</segment>
+		<segment id="132" parent="345" relname="restatement">Турция не имеет никакого права контролировать воздушное пространство над Сирией",</segment>
+		<segment id="133" parent="346" relname="attribution">- подчеркнул эксперт,</segment>
+		<segment id="134" parent="135" relname="attribution">добавив,</segment>
+		<segment id="135" parent="517" relname="span">что инцидент 24 ноября вполне мог быть намеренной провокацией.</segment>
+		<segment id="136" parent="451" relname="attribution">##### По его словам,</segment>
+		<segment id="137" parent="452" relname="span">Анкара оказывает всевозможную поддержку террористам и радикальным группировкам в Сирии,</segment>
+		<segment id="138" parent="137" relname="background">пользуясь членством НАТО как прикрытием,</segment>
+		<segment id="139" parent="452" relname="evaluation">что в высшей степени неприемлемо.</segment>
+		<segment id="140" parent="512" relname="attribution">##### При этом Джон Локленд высказал мысль о том,</segment>
+		<segment id="141" parent="512" relname="span">что радикальные исламисты на сегодняшний день не являются террористами в полном смысле этого слова,</segment>
+		<segment id="142" parent="141" relname="cause">поскольку они видят свою основную задачу не в организации и проведении терактов, а в захвате новых территорий,</segment>
+		<segment id="143" parent="350" relname="span">в то время как Анкара не гнушается использовать их для ослабления позиций Ирана и Шиитского полумесяца</segment>
+		<segment id="144" parent="453" relname="span">[территория от Ирана через Ирак до Ливана, на которую гипотетически будет распространяться власть шиитов;</segment>
+		<segment id="145" parent="144" relname="elaboration">термин впервые сформулирован королем Иордании Абдаллой II в 2004 году].</segment>
+		<segment id="146" parent="352" relname="span">##### "Несомненно, Турция проводит политику двойных стандартов,</segment>
+		<segment id="147" parent="146" relname="cause">поддерживая некоторых боевиков в Сирии,</segment>
+		<segment id="148" parent="149" relname="attribution">и я подозреваю,</segment>
+		<segment id="149" parent="353" relname="span">что сведения о том, что они снабжали даже ИГ через третьих лиц, являются истиной",</segment>
+		<segment id="150" parent="354" relname="attribution">- сказал эксперт.</segment>
+		<segment id="151" parent="519" relname="span">##### Он также одобрительно отозвался о решении Москвы не прибегать к полномасштабному военному ответу на инцидент,</segment>
+		<segment id="152" parent="153" relname="attribution">добавив,</segment>
+		<segment id="153" parent="518" relname="span">что именно Россия в этом контексте является пострадавшей стороной.</segment>
+		<segment id="154" parent="155" relname="attribution">##### В свою очередь член Датской народной партии, депутат Фолькетинга, вице-председатель парламентского комитета по европейским делам Кеннет Кристенсен Берт (Kenneth Kristensen Berth) констатировал,</segment>
+		<segment id="155" parent="449" relname="span">что уничтожение российского бомбардировщика кардинально изменило обстановку вокруг операции в Сирии.</segment>
+		<segment id="156" parent="497" relname="evaluation">##### "Честно говоря, ситуация очень скверная:</segment>
+		<segment id="157" parent="496" relname="cause">сейчас мы ведем войну против "Исламского государства",</segment>
+		<segment id="158" parent="159" relname="attribution">и я считаю,</segment>
+		<segment id="159" parent="496" relname="span">что это может помешать самому главному - скоординированному удару по ИГ",</segment>
+		<segment id="160" parent="498" relname="attribution">- заметил представитель парламента Дании.</segment>
+		<segment id="161" parent="360" relname="span">##### Говоря о нежелании Анкары извиниться за инцидент 24 ноября,</segment>
+		<segment id="162" parent="447" relname="span">политик назвал это поведение "типичным примером турецкой гордости".</segment>
+		<segment id="163" parent="448" relname="span">##### "Турция всегда с огромным трудом признает свои ошибки.</segment>
+		<segment id="164" parent="361" relname="span">Аналогичная ситуация, к примеру, с геноцидом армян:</segment>
+		<segment id="165" parent="359" relname="span">турецкое правительство уже долгие годы отрицает факт его существования,</segment>
+		<segment id="166" parent="165" relname="concession">хотя для всех нас это совершенно очевидно",</segment>
+		<segment id="167" parent="448" relname="attribution">- подчеркнул Кеннет Кристенсен Берт.</segment>
+		<segment id="168" parent="367" relname="span">##### Он также счел обвинения Турции в связях с ИГ и другими террористическими группировками поводом</segment>
+		<segment id="169" parent="474" relname="span">для проведения максимально тщательного расследования всех имеющихся фактов.</segment>
+		<segment id="170" parent="363" relname="restatement">##### "Я уже некоторое время слышу об этих подозрениях,</segment>
+		<segment id="171" parent="363" relname="restatement">и я знаю, что целый ряд СМИ освещали эту тему.</segment>
+		<segment id="172" parent="173" relname="condition">Если страна в составе НАТО действительно помогает террористической организации,</segment>
+		<segment id="173" parent="364" relname="span">это будет беспрецедентным шоком.</segment>
+		<segment id="174" parent="446" relname="attribution">По моему мнению,</segment>
+		<segment id="175" parent="446" relname="span">крайне важно узнать, правда это или нет,</segment>
+		<segment id="176" parent="177" relname="condition">поскольку, само собой, если Турция не прилагает всех усилий для противодействия ИГ,</segment>
+		<segment id="177" parent="368" relname="span">то Анкара нарушает условия соглашения НАТО",</segment>
+		<segment id="178" parent="369" relname="attribution">- заявил вице-председатель комитета Фолькетинга по европейским делам.</segment>
+		<segment id="179" parent="501" relname="contrast">##### При этом он затруднился давать прогнозы по поводу того, как события могут развиваться в дальнейшем,</segment>
+		<segment id="180" parent="181" relname="attribution">но отметил,</segment>
+		<segment id="181" parent="500" relname="span">что в первую очередь "России и Турции необходимо самим разобрать этот вопрос до конца".</segment>
+		<segment id="182" parent="183" relname="attribution">##### В то же время основатель и президент Американского университета в Москве, американский политолог российского происхождения Эдуард Лозанский (Edward Lozansky) предположил,</segment>
+		<segment id="183" parent="444" relname="span">что Реджеп Тайип Эрдоган и его ближайшие союзники, скорее всего, не просчитали всех последствий нападения на Су-24.</segment>
+		<segment id="184" parent="185" relname="attribution">##### "Череда противоречивых заявлений турецкого диктатора Эрдогана говорит</segment>
+		<segment id="185" parent="505" relname="span">о его некоторой растерянности.</segment>
+		<segment id="186" parent="483" relname="evaluation">Понятно, что,</segment>
+		<segment id="187" parent="483" relname="span">сбивая российский самолет,</segment>
+		<segment id="188" parent="187" relname="background">он рассчитывал по крайней мере на моральную и политическую поддержку Вашингтона и НАТО.</segment>
+		<segment id="189" parent="373" relname="span">Однако создается впечатление, что он явно не просчитал всех последствий этой безрассудной акции.</segment>
+		<segment id="190" parent="375" relname="contrast">Разумеется, в своих публичных заявлениях Барак Обама (Barack Obama) и руководство НАТО выразили поддержку права Турции на защиту своего воздушного пространства,</segment>
+		<segment id="191" parent="375" relname="contrast">но в частных телефонных и других переговорах без свидетелей и прессы, судя по всему, никаких дифирамбов ему не прозвучало",</segment>
+		<segment id="192" parent="478" relname="attribution">- предположил аналитик.</segment>
+		<segment id="193" parent="378" relname="attribution">##### Он также отметил,</segment>
+		<segment id="194" parent="377" relname="sequence">что Вашингтон и НАТО наконец-то поддержали предложение Москвы закрыть турецкую границу с Сирией для боевиков и поставок оружия,</segment>
+		<segment id="195" parent="377" relname="sequence">о чем раньше речи не шло.</segment>
+		<segment id="196" parent="197" relname="attribution">##### По его мнению,</segment>
+		<segment id="197" parent="376" relname="span">восстановление отношений между Россией и Турцией произойдет только после публичных извинений за инцидент, компенсаций погибшим летчикам и обязательств сделать все возможное для недопущения таких случаев в будущем.</segment>
+		<segment id="198" parent="443" relname="attribution">##### Вместе с тем работающий в Лондоне обозреватель, политолог, эксперт по Ираку, Турции, Сирии и Ближнему Востоку Башдар Исмаил (Bashdar Ismaeel) обратил внимание,</segment>
+		<segment id="199" parent="443" relname="span">что инцидент произошел именно в тот ключевой период,</segment>
+		<segment id="200" parent="199" relname="elaboration">когда между Россией и американской коалицией наметились реальные перспективы по расширению сотрудничества в борьбе против ДАИШ и других террористических организаций.</segment>
+		<segment id="201" parent="384" relname="span">##### "Представляется совершенно очевидным, что Турция хотела серьезно припугнуть Россию,</segment>
+		<segment id="202" parent="439" relname="span">и здесь можно усмотреть целый ряд причин.</segment>
+		<segment id="203" parent="382" relname="span">Россия наносила удары по повстанцам-туркоманам на севере Сирии,</segment>
+		<segment id="204" parent="203" relname="attribution">о которых уже предупреждала Анкара.</segment>
+		<segment id="205" parent="440" relname="span">Россия в критический момент вмешалась в события в Сирии</segment>
+		<segment id="206" parent="441" relname="span">и в определенной мере укрепила позиции ее президента Башара Асада,</segment>
+		<segment id="207" parent="206" relname="elaboration">который в Турции остается первой целью после ИГ.</segment>
+		<segment id="208" parent="386" relname="joint">Анкара попыталась продемонстрировать свою роль в регионе</segment>
+		<segment id="209" parent="386" relname="joint">и дать понять, что Сирия находится в ее зоне влияния,</segment>
+		<segment id="210" parent="385" relname="span">что война в Сирии не будет решена до тех пор,</segment>
+		<segment id="211" parent="210" relname="condition">пока Турция не будет ключевым членом коалиции",</segment>
+		<segment id="212" parent="387" relname="attribution">- предположил аналитик.</segment>
+		<segment id="213" parent="394" relname="attribution">##### Он отметил,</segment>
+		<segment id="214" parent="394" relname="span">что сирийские курды при поддержке Турции и других вооруженных группировок уже давно могли бы перекрыть каналы снабжения боевиков на границе,</segment>
+		<segment id="215" parent="214" relname="condition">если бы не ожесточенное сопротивление Анкары.</segment>
+		<segment id="216" parent="390" relname="span">##### "Турция уже дала понять, что она скорее готова мириться с "Исламским государством",</segment>
+		<segment id="217" parent="216" relname="cause">с которым можно справиться,</segment>
+		<segment id="218" parent="391" relname="contrast">чем с набирающими мощь курдами",</segment>
+		<segment id="219" parent="391" relname="attribution">- пояснил эксперт,</segment>
+		<segment id="220" parent="221" relname="attribution">добавив,</segment>
+		<segment id="221" parent="520" relname="span">что на сегодняшний день грань между террористами и так называемой "умеренной оппозицией" фактически отсутствует.</segment>
+		<segment id="222" parent="523" relname="preparation">##### Говоря о последствиях инцидента с российским Су-24,</segment>
+		<segment id="223" parent="224" relname="attribution">он отметил,</segment>
+		<segment id="224" parent="407" relname="span">что этот поступок обошелся Анкаре дорогой ценой.</segment>
+		<segment id="225" parent="226" relname="concession">##### "В НАТО, несомненно, будут из чувства долга защищать Турцию,</segment>
+		<segment id="226" parent="395" relname="span">однако вряд ли в альянсе оценят такое обострение в столь щекотливый момент,</segment>
+		<segment id="227" parent="395" relname="evidence">которое сводит на нет все попытки достичь компромисса с Россией.</segment>
+		<segment id="228" parent="396" relname="span">Вторжение в воздушное пространство Турции</segment>
+		<segment id="229" parent="228" relname="condition">- если оно вообще имело место -</segment>
+		<segment id="230" parent="397" relname="same-unit">было не больше нескольких секунд,</segment>
+		<segment id="231" parent="398" relname="span">и Анкара вполне могла не открывать огонь</segment>
+		<segment id="232" parent="399" relname="joint">и вместо этого выразить решительный протест,</segment>
+		<segment id="233" parent="400" relname="span">тем самым сохранив политические, стратегические и экономические связи с РФ",</segment>
+		<segment id="234" parent="401" relname="attribution">- подчеркнул Башдар Исмаил,</segment>
+		<segment id="235" parent="236" relname="elaboration">добавив,</segment>
+		<segment id="236" parent="524" relname="span">что ответные меры Москвы не стали для него неожиданностью.</segment>
+		<segment id="237" parent="510" relname="same-unit">##### Кроме того,</segment>
+		<segment id="238" parent="508" relname="attribution">по его мнению,</segment>
+		<segment id="239" parent="405" relname="joint">международная обстановка на фоне атаки на российский бомбардировщик продолжает накаляться,</segment>
+		<segment id="240" parent="405" relname="joint">и очередной подобный инцидент может привести к совершенно непредсказуемым последствиям.</segment>
+		<segment id="241" parent="406" relname="joint">##### "В небе над Сирией определенно тесновато,</segment>
+		<segment id="242" parent="406" relname="joint">и всегда существовала угроза "несчастного случая",</segment>
+		<segment id="243" parent="434" relname="span">однако сейчас все факты налицо.</segment>
+		<segment id="244" parent="409" relname="joint">Российский самолет якобы залетел в турецкое воздушное пространство,</segment>
+		<segment id="245" parent="408" relname="joint">и здесь не может быть никаких сомнений по поводу действий Турции</segment>
+		<segment id="246" parent="408" relname="joint">и осведомленности о принадлежности самолета.</segment>
+		<segment id="247" parent="410" relname="solutionhood">Этот инцидент однозначно можно было предотвратить",</segment>
+		<segment id="248" parent="411" relname="attribution">- заключил эксперт.</segment>
+		<segment id="249" parent="413" relname="sequence">##### 24 ноября 2015 года фронтовой бомбардировщик Су-24М ВКС России, входивший в российскую авиационную группу в Сирии, был сбит ракетой класса "воздух-воздух" с истребителя F-16C ВВС Турции в районе сирийско-турецкой границы на высоте около 6 тыс. метров</segment>
+		<segment id="250" parent="413" relname="sequence">и упал на территории сирийской провинции Латакия в районе Байырбуджак.</segment>
+		<segment id="251" parent="412" relname="span">##### В результате инцидента погиб командир экипажа самолета подполковник Олег Пешков,</segment>
+		<segment id="252" parent="251" relname="elaboration">который был расстрелян террористами в воздухе после катапультирования.</segment>
+		<segment id="253" parent="416" relname="joint">Кроме того, во время спасательной операции погиб один из членов экипажа вертолета - морской пехотинец матрос Александр Позынич.</segment>
+		<segment id="254" parent="415" relname="sequence">Штурман капитан Константин Мурахтин приземлился вне зоны обстрела</segment>
+		<segment id="255" parent="415" relname="sequence">и был эвакуирован российским и сирийским спецназом на авиационную базу "Хмеймим".</segment>
+		<segment id="256" parent="418" relname="attribution">##### В тот же день после заседания Совета безопасности Турции президент страны Реджеп Тайип Эрдоган заявил,</segment>
+		<segment id="257" parent="417" relname="joint">что Су-24 якобы нарушил воздушную границу государства,</segment>
+		<segment id="258" parent="417" relname="joint">и летчикам в течение 5 минут было сделано 10 предупреждений.</segment>
+		<segment id="259" parent="260" relname="attribution">Однако позднее в западных СМИ появилась информация,</segment>
+		<segment id="260" parent="420" relname="span">что российский самолет находился в небе над Турцией всего 17 секунд.</segment>
+		<segment id="261" parent="422" relname="attribution">В то же время, по данным объективного контроля Минобороны РФ,</segment>
+		<segment id="262" parent="421" relname="joint">бомбардировщик Су-24 вообще не пересекал границу,</segment>
+		<segment id="263" parent="421" relname="joint">а истребитель F-16 во время атаки вторгся в воздушное пространство Сирии на 40 секунд,</segment>
+		<segment id="264" parent="421" relname="joint">при этом пилоты не получали никаких предупреждений.</segment>
+		<segment id="265" parent="426" relname="joint">##### Действия Анкары вызвали жесткую реакцию со стороны Москвы</segment>
+		<segment id="266" parent="426" relname="joint">и привели к значительному ухудшению российско-турецких отношений.</segment>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" />
+		<group id="269" type="span" parent="267" relname="attribution"/>
+		<group id="270" type="span" parent="271" relname="joint"/>
+		<group id="271" type="multinuc" parent="277" relname="span"/>
+		<group id="272" type="span" parent="270" relname="span"/>
+		<group id="273" type="multinuc" parent="7" relname="background"/>
+		<group id="274" type="span" parent="6" relname="elaboration"/>
+		<group id="275" type="multinuc" parent="430" relname="sequence"/>
+		<group id="276" type="span" parent="275" relname="joint"/>
+		<group id="277" type="span" parent="431" relname="span"/>
+		<group id="278" type="multinuc" parent="279" relname="joint"/>
+		<group id="279" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="280" type="multinuc" parent="19" relname="evaluation"/>
+		<group id="281" type="span" parent="433" relname="elaboration"/>
+		<group id="282" type="span" parent="433" relname="span"/>
+		<group id="283" type="span" parent="469" relname="span"/>
+		<group id="284" type="multinuc" parent="285" relname="joint"/>
+		<group id="285" type="multinuc" parent="28" relname="background"/>
+		<group id="286" type="span" parent="283" relname="solutionhood"/>
+		<group id="287" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="288" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="289" type="span" parent="290" relname="joint"/>
+		<group id="290" type="multinuc" parent="489" relname="span"/>
+		<group id="291" type="span" parent="290" relname="joint"/>
+		<group id="292" type="multinuc" parent="487" relname="span"/>
+		<group id="293" type="span" />
+		<group id="294" type="multinuc" parent="470" relname="span"/>
+		<group id="295" type="span" parent="464" relname="span"/>
+		<group id="296" type="span" parent="55" relname="purpose"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="466" relname="elaboration"/>
+		<group id="299" type="span" parent="461" relname="span"/>
+		<group id="300" type="span" parent="63" relname="elaboration"/>
+		<group id="301" type="span" parent="303" relname="joint"/>
+		<group id="302" type="span" parent="303" relname="joint"/>
+		<group id="303" type="multinuc" parent="304" relname="span"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="460" relname="span"/>
+		<group id="306" type="span" parent="71" relname="purpose"/>
+		<group id="307" type="span" parent="295" relname="elaboration"/>
+		<group id="308" type="multinuc" parent="459" relname="concession"/>
+		<group id="309" type="span" parent="326" relname="span"/>
+		<group id="310" type="span" parent="511" relname="span"/>
+		<group id="311" type="multinuc" parent="325" relname="joint"/>
+		<group id="312" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="313" type="span" parent="316" relname="span"/>
+		<group id="314" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="315" type="multinuc" parent="317" relname="span"/>
+		<group id="316" type="span" parent="90" relname="evidence"/>
+		<group id="317" type="span" parent="324" relname="span"/>
+		<group id="318" type="multinuc" parent="319" relname="span"/>
+		<group id="319" type="span" parent="330" relname="span"/>
+		<group id="320" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="321" type="span" parent="319" relname="attribution"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="327" relname="joint"/>
+		<group id="324" type="span" parent="327" relname="joint"/>
+		<group id="325" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="326" type="span" parent="328" relname="background"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="328" type="span" />
+		<group id="329" type="span" parent="343" relname="span"/>
+		<group id="330" type="span" parent="104" relname="elaboration"/>
+		<group id="331" type="multinuc" parent="338" relname="background"/>
+		<group id="332" type="multinuc" parent="333" relname="span"/>
+		<group id="333" type="span" parent="336" relname="span"/>
+		<group id="334" type="multinuc" parent="335" relname="joint"/>
+		<group id="335" type="multinuc" parent="493" relname="span"/>
+		<group id="336" type="span" parent="337" relname="joint"/>
+		<group id="337" type="multinuc" parent="338" relname="span"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="329" relname="elaboration"/>
+		<group id="340" type="multinuc" parent="514" relname="span"/>
+		<group id="343" type="span" parent="344" relname="joint"/>
+		<group id="344" type="multinuc" />
+		<group id="345" type="multinuc" parent="130" relname="cause"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" parent="454" relname="span"/>
+		<group id="348" type="span" parent="454" relname="evaluation"/>
+		<group id="349" type="span" parent="351" relname="joint"/>
+		<group id="350" type="span" parent="351" relname="joint"/>
+		<group id="351" type="multinuc" parent="482" relname="joint"/>
+		<group id="352" type="span" parent="354" relname="joint"/>
+		<group id="353" type="span" parent="354" relname="joint"/>
+		<group id="354" type="multinuc" parent="355" relname="span"/>
+		<group id="355" type="span" parent="357" relname="joint"/>
+		<group id="357" type="multinuc" />
+		<group id="358" type="span" parent="516" relname="evidence"/>
+		<group id="359" type="span" parent="164" relname="elaboration"/>
+		<group id="360" type="span" parent="371" relname="joint"/>
+		<group id="361" type="span" parent="163" relname="evidence"/>
+		<group id="362" type="span" parent="162" relname="elaboration"/>
+		<group id="363" type="multinuc" parent="365" relname="span"/>
+		<group id="364" type="span" parent="365" relname="evaluation"/>
+		<group id="365" type="span" parent="366" relname="span"/>
+		<group id="366" type="span" parent="474" relname="cause"/>
+		<group id="367" type="span" parent="169" relname="cause"/>
+		<group id="368" type="span" parent="175" relname="cause"/>
+		<group id="369" type="span" parent="445" relname="span"/>
+		<group id="370" type="multinuc" parent="371" relname="joint"/>
+		<group id="371" type="multinuc" parent="450" relname="background"/>
+		<group id="372" type="span" parent="502" relname="evaluation"/>
+		<group id="373" type="span" parent="374" relname="joint"/>
+		<group id="374" type="multinuc" parent="477" relname="joint"/>
+		<group id="375" type="multinuc" parent="477" relname="joint"/>
+		<group id="376" type="span" />
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="380" relname="joint"/>
+		<group id="380" type="multinuc" parent="444" relname="elaboration"/>
+		<group id="381" type="span" parent="376" relname="evaluation"/>
+		<group id="382" type="span" parent="383" relname="joint"/>
+		<group id="383" type="multinuc" parent="202" relname="elaboration"/>
+		<group id="384" type="span" parent="389" relname="purpose"/>
+		<group id="385" type="span" parent="386" relname="joint"/>
+		<group id="386" type="multinuc" parent="387" relname="span"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" />
+		<group id="389" type="span" parent="442" relname="span"/>
+		<group id="390" type="span" parent="391" relname="contrast"/>
+		<group id="391" type="multinuc" parent="392" relname="span"/>
+		<group id="392" type="span" parent="393" relname="span"/>
+		<group id="393" type="span" parent="521" relname="elaboration"/>
+		<group id="394" type="span" parent="521" relname="span"/>
+		<group id="395" type="span" parent="435" relname="span"/>
+		<group id="396" type="span" parent="397" relname="same-unit"/>
+		<group id="397" type="multinuc" parent="231" relname="cause"/>
+		<group id="398" type="span" parent="399" relname="joint"/>
+		<group id="399" type="multinuc" parent="233" relname="cause"/>
+		<group id="400" type="span" parent="401" relname="contrast"/>
+		<group id="401" type="multinuc" parent="402" relname="span"/>
+		<group id="402" type="span" parent="403" relname="span"/>
+		<group id="403" type="span" parent="404" relname="joint"/>
+		<group id="404" type="multinuc" parent="407" relname="elaboration"/>
+		<group id="405" type="multinuc" parent="508" relname="span"/>
+		<group id="406" type="multinuc" parent="434" relname="concession"/>
+		<group id="407" type="span" parent="523" relname="span"/>
+		<group id="408" type="multinuc" parent="409" relname="joint"/>
+		<group id="409" type="multinuc" parent="243" relname="elaboration"/>
+		<group id="410" type="span" parent="411" relname="span"/>
+		<group id="411" type="span" />
+		<group id="412" type="span" parent="414" relname="span"/>
+		<group id="413" type="multinuc" parent="412" relname="cause"/>
+		<group id="414" type="span" parent="416" relname="joint"/>
+		<group id="415" type="multinuc" parent="416" relname="joint"/>
+		<group id="416" type="multinuc" parent="425" relname="sequence"/>
+		<group id="417" type="multinuc" parent="418" relname="span"/>
+		<group id="418" type="span" parent="419" relname="span"/>
+		<group id="419" type="span" parent="424" relname="joint"/>
+		<group id="420" type="span" parent="424" relname="joint"/>
+		<group id="421" type="multinuc" parent="422" relname="span"/>
+		<group id="422" type="span" parent="423" relname="span"/>
+		<group id="423" type="span" parent="424" relname="joint"/>
+		<group id="424" type="multinuc" parent="425" relname="sequence"/>
+		<group id="425" type="multinuc" parent="427" relname="cause"/>
+		<group id="426" type="multinuc" parent="427" relname="span"/>
+		<group id="427" type="span" />
+		<group id="429" type="span" parent="275" relname="joint"/>
+		<group id="430" type="multinuc" />
+		<group id="431" type="span" parent="430" relname="sequence"/>
+		<group id="432" type="span" parent="18" relname="elaboration"/>
+		<group id="433" type="span" />
+		<group id="434" type="span" parent="410" relname="span"/>
+		<group id="435" type="span" parent="401" relname="contrast"/>
+		<group id="436" type="span" />
+		<group id="439" type="span" parent="201" relname="cause"/>
+		<group id="440" type="span" parent="383" relname="joint"/>
+		<group id="441" type="span" parent="205" relname="elaboration"/>
+		<group id="442" type="span" />
+		<group id="443" type="span" parent="389" relname="span"/>
+		<group id="444" type="span" parent="381" relname="span"/>
+		<group id="445" type="span" parent="370" relname="restatement"/>
+		<group id="446" type="span" parent="369" relname="span"/>
+		<group id="447" type="span" parent="161" relname="evaluation"/>
+		<group id="448" type="span" parent="362" relname="span"/>
+		<group id="449" type="span" parent="450" relname="span"/>
+		<group id="450" type="span" parent="372" relname="span"/>
+		<group id="451" type="span" parent="358" relname="span"/>
+		<group id="452" type="span" parent="451" relname="span"/>
+		<group id="453" type="span" parent="143" relname="elaboration"/>
+		<group id="454" type="span" parent="516" relname="span"/>
+		<group id="455" type="span" parent="482" relname="joint"/>
+		<group id="457" type="span" parent="315" relname="joint"/>
+		<group id="458" type="span" parent="309" relname="evaluation"/>
+		<group id="459" type="span" parent="309" relname="span"/>
+		<group id="460" type="span" parent="461" relname="elaboration"/>
+		<group id="461" type="span" parent="307" relname="span"/>
+		<group id="462" type="span" parent="463" relname="span"/>
+		<group id="463" type="span" parent="464" relname="evaluation"/>
+		<group id="464" type="span" parent="465" relname="span"/>
+		<group id="465" type="span" parent="471" relname="elaboration"/>
+		<group id="466" type="span" parent="295" relname="span"/>
+		<group id="467" type="span" parent="288" relname="joint"/>
+		<group id="468" type="span" parent="283" relname="span"/>
+		<group id="469" type="span" />
+		<group id="470" type="span" parent="471" relname="span"/>
+		<group id="471" type="span" />
+		<group id="472" type="span" parent="314" relname="joint"/>
+		<group id="473" type="span" parent="370" relname="restatement"/>
+		<group id="474" type="span" parent="473" relname="span"/>
+		<group id="475" type="span" parent="476" relname="span"/>
+		<group id="476" type="span" parent="325" relname="joint"/>
+		<group id="477" type="multinuc" parent="478" relname="span"/>
+		<group id="478" type="span" parent="479" relname="span"/>
+		<group id="479" type="span" parent="380" relname="joint"/>
+		<group id="482" type="multinuc" />
+		<group id="483" type="span" parent="484" relname="span"/>
+		<group id="484" type="span" parent="189" relname="concession"/>
+		<group id="485" type="multinuc" parent="23" relname="attribution"/>
+		<group id="486" type="span" parent="280" relname="restatement"/>
+		<group id="487" type="span" parent="489" relname="evaluation"/>
+		<group id="489" type="span" parent="490" relname="span"/>
+		<group id="490" type="span" parent="36" relname="elaboration"/>
+		<group id="492" type="span" parent="495" relname="joint"/>
+		<group id="493" type="span" parent="494" relname="span"/>
+		<group id="494" type="span" parent="495" relname="joint"/>
+		<group id="495" type="multinuc" parent="337" relname="joint"/>
+		<group id="496" type="span" parent="497" relname="span"/>
+		<group id="497" type="span" parent="498" relname="span"/>
+		<group id="498" type="span" parent="499" relname="span"/>
+		<group id="499" type="span" parent="449" relname="elaboration"/>
+		<group id="500" type="span" parent="501" relname="contrast"/>
+		<group id="501" type="multinuc" parent="502" relname="span"/>
+		<group id="502" type="span" parent="504" relname="span"/>
+		<group id="504" type="span" />
+		<group id="505" type="span" parent="374" relname="joint"/>
+		<group id="508" type="span" parent="509" relname="span"/>
+		<group id="509" type="span" parent="510" relname="same-unit"/>
+		<group id="510" type="multinuc" parent="404" relname="joint"/>
+		<group id="511" type="span" parent="311" relname="sequence"/>
+		<group id="512" type="span" parent="349" relname="span"/>
+		<group id="513" type="span" parent="340" relname="restatement"/>
+		<group id="514" type="span" parent="344" relname="joint"/>
+		<group id="515" type="span" parent="493" relname="elaboration"/>
+		<group id="516" type="span" parent="455" relname="span"/>
+		<group id="517" type="span" parent="347" relname="elaboration"/>
+		<group id="518" type="span" parent="151" relname="evaluation"/>
+		<group id="519" type="span" parent="357" relname="joint"/>
+		<group id="520" type="span" parent="392" relname="elaboration"/>
+		<group id="521" type="span" parent="522" relname="span"/>
+		<group id="522" type="span" />
+		<group id="523" type="span" parent="436" relname="span"/>
+		<group id="524" type="span" parent="402" relname="elaboration"/>
+	</body>
+</rst>

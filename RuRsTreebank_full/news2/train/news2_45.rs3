@@ -1,0 +1,440 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Эксперты и политики призывают США и НАТО отказаться от планов по ядерной модернизации</segment>
+		<segment id="2" parent="202" relname="joint">##### Национальное управление ядерной безопасности (НУЯБ) при министерстве энергетики США 16 ноября проинформировало о третьем - заключительном - испытании высокоточной атомной бомбы с переменным уровнем мощности заряда B61-12 - модернизированной версии созданной в 1960-х годах B61.</segment>
+		<segment id="3" parent="201" relname="same-unit">##### При этом,</segment>
+		<segment id="4" parent="5" relname="attribution">как говорится в сообщении на сайте ведомства,</segment>
+		<segment id="5" parent="200" relname="span">сами испытания состоялись около месяца назад - 20 октября.</segment>
+		<segment id="6" parent="204" relname="span">Тогда истребитель-бомбардировщик F-15E поразил боеприпасом без ядерного заряда цель на полигоне Тонопа в американском штате Невада "в условиях управляемого полета, близких к реальности".</segment>
+		<segment id="7" parent="203" relname="joint">##### "По предварительным сведениям, были успешно проведены все запланированные мероприятия,</segment>
+		<segment id="8" parent="203" relname="joint">собраны данные телеметрии</segment>
+		<segment id="9" parent="203" relname="joint">и сделаны видеозаписи.</segment>
+		<segment id="10" parent="366" relname="span">Прошедшие испытания стали очередным подтверждением надежности разрабатываемого оружия в преддверии перехода к стадии организации производства в 2016 году",</segment>
+		<segment id="11" parent="10" relname="attribution">- говорится в отчете.</segment>
+		<segment id="12" parent="13" relname="attribution">##### В свою очередь заместитель руководителя НУЯБ, бывший помощник министра обороны США по глобальным стратегическим вопросам Мадлен Кридон (Madelyn Creedon) заявила,</segment>
+		<segment id="13" parent="221" relname="span">что завершение испытаний атомной бомбы явилось "доказательством неизменной приверженности безопасности страны, ее союзников и партнеров".</segment>
+		<segment id="14" parent="210" relname="attribution">##### Согласно официальным данным,</segment>
+		<segment id="15" parent="210" relname="span">Вашингтон до конца 2019 года планирует израсходовать не менее 1 млрд. долларов</segment>
+		<segment id="16" parent="220" relname="span">на модернизацию ядерного арсенала в Европе, а также на переоборудование военных самолетов под новые снаряды.</segment>
+		<segment id="17" parent="212" relname="span">Авиабомбы B61-12,</segment>
+		<segment id="18" parent="17" relname="elaboration">массовое производство которых начнется после 2020 года,</segment>
+		<segment id="19" parent="213" relname="same-unit">будут оснащены управляемой хвостовой частью вместо парашютной системы.</segment>
+		<segment id="20" parent="216" relname="attribution">По оценкам специалистов Федерации американских ученых (FAS),</segment>
+		<segment id="21" parent="215" relname="comparison">мощность каждой из них составит до 50 килотонн,</segment>
+		<segment id="22" parent="214" relname="span">что в 3-4 раза больше ядерного боезаряда,</segment>
+		<segment id="23" parent="22" relname="background">сброшенного на Хиросиму 6 августа 1945 года.</segment>
+		<segment id="24" parent="223" relname="span">##### Тема модернизации американского атомного арсенала оказалась под пристальным вниманием международного сообщества еще в конце сентября,</segment>
+		<segment id="25" parent="24" relname="elaboration">когда немецкий телеканал ZDF распространил информацию о возможном размещении бомб B61-12 на авиабазе Бюхель в федеральной земле Рейнланд-Пфальц уже к концу 2015 года на основании данных бюджета США и документов, опубликованных на сайте WikiLeaks.</segment>
+		<segment id="26" parent="27" relname="attribution">Вскоре представители НУЯБ пояснили,</segment>
+		<segment id="27" parent="224" relname="span">что модернизированные бомбы появятся на территории Европы значительно позже,</segment>
+		<segment id="28" parent="29" relname="attribution">а посол Германии в России Рюдигер фон Фрич (Ruediger von Fritsch) уточнил,</segment>
+		<segment id="29" parent="225" relname="span">что речь идет не о размещении нового оружия, а о замене старых компонентов и узлов с истекшим сроком службы.</segment>
+		<segment id="30" parent="226" relname="sequence">##### Тем не менее информация вызвала оживленную реакцию в экспертной и политической среде по обе стороны океана,</segment>
+		<segment id="31" parent="226" relname="sequence">а полемика относительного того, являются ли действия США и ФРГ нарушением договора о нераспространении ядерного оружия (ДНЯО), продолжается по сей день.</segment>
+		<segment id="32" parent="367" relname="attribution">##### Как напоминают аналитики,</segment>
+		<segment id="33" parent="367" relname="span">программа модернизации затронет шесть авиабаз США,</segment>
+		<segment id="34" parent="33" relname="elaboration">которые расположены на территории Германии, Италии, Бельгии, Нидерландов и Турции.</segment>
+		<segment id="35" parent="228" relname="attribution">В частности, ведущий сотрудник американской Ассоциации по контролю за вооружением Грег Тельман (Greg Thielmann) пояснил,</segment>
+		<segment id="36" parent="227" relname="comparison">что всего в Европе будет размещено не менее 180 новых авиабомб,</segment>
+		<segment id="37" parent="227" relname="comparison">что почти в 10 раз меньше предполагаемого количества российских тактических ядерных боеголовок.</segment>
+		<segment id="38" parent="230" relname="joint">##### "Программа по реконструкции снарядов типа B61 в единую линейку B61-12 никак не повлияет на количество имеющихся американских атомных боеголовок,</segment>
+		<segment id="39" parent="230" relname="joint">а ядерная стабильность и соотношение военной мощи в Европе не претерпят значительных изменений",</segment>
+		<segment id="40" parent="231" relname="attribution">- сказал он в интервью ИА "PenzaNews".</segment>
+		<segment id="41" parent="42" relname="attribution">##### В то же время Грег Тельман выразил сожаление по поводу того,</segment>
+		<segment id="42" parent="395" relname="span">что администрация президента Соединенных Штатов Барака Обамы (Barack Obama) отказалась от менее дорогостоящих программ по модернизации,</segment>
+		<segment id="43" parent="239" relname="same-unit">добавив, что достижение повышенной точности бомбы</segment>
+		<segment id="44" parent="45" relname="cause">за счет принципиально новых конструктивных решений</segment>
+		<segment id="45" parent="241" relname="span">вызывает вопросы о соблюдении США обязательств не разрабатывать</segment>
+		<segment id="46" parent="240" relname="joint">и не производить новые виды атомного оружия.</segment>
+		<segment id="47" parent="371" relname="same-unit">##### На этом фоне</segment>
+		<segment id="48" parent="49" relname="attribution">эксперт призвал</segment>
+		<segment id="49" parent="370" relname="span">представителей вооруженных сил России и стран НАТО как можно скорее наладить полноценные контакты</segment>
+		<segment id="50" parent="243" relname="span">и обговорить условия военного взаимодействия авиации и флота</segment>
+		<segment id="51" parent="50" relname="purpose">для предотвращения дальнейшей эскалации.</segment>
+		<segment id="52" parent="373" relname="same-unit">##### Кроме того,</segment>
+		<segment id="53" parent="54" relname="attribution">он напомнил</segment>
+		<segment id="54" parent="372" relname="span">о необходимости возобновить всеобъемлющий диалог по ряду других ключевых вопросов, таких как дальнейшее сокращение стратегических ядерных вооружений в рамках договора СНВ-3 и введение дополнительных ограничений на тактическое атомное оружие.</segment>
+		<segment id="55" parent="246" relname="contrast">##### "Оно больше не играет такой роли,</segment>
+		<segment id="56" parent="246" relname="contrast">как в годы холодной войны, когда оно служило для восстановления паритета между Североатлантическим альянсом и Организацией Варшавского договора.</segment>
+		<segment id="57" parent="247" relname="evaluation">На сегодняшний день ядерное оружие имеет преимущественно политическое значение",</segment>
+		<segment id="58" parent="248" relname="attribution">- заметил ведущий сотрудник американской Ассоциации по контролю за вооружением.</segment>
+		<segment id="59" parent="254" relname="attribution">##### В то же время член Бундестага от Левой партии Германии Инге Хегер (Inge Hoeger) подчеркнула,</segment>
+		<segment id="60" parent="252" relname="span">что каждая ядерная бомба представляет угрозу для всего человечества</segment>
+		<segment id="61" parent="60" relname="condition">вне зависимости от того, какой стране она принадлежит,</segment>
+		<segment id="62" parent="253" relname="span">и поэтому всему миру необходимо работать над тем,</segment>
+		<segment id="63" parent="62" relname="purpose">чтобы отказаться от атомного оружия.</segment>
+		<segment id="64" parent="65" relname="attribution">##### По ее словам,</segment>
+		<segment id="65" parent="375" relname="span">ядерная стратегия НАТО препятствует прогрессу в вопросе ядерного разоружения.</segment>
+		<segment id="66" parent="67" relname="cause">##### "Очевидно, что размещение модернизированного атомного оружия в ФРГ равноценно наращиванию арсенала перед лицом вероятной российской угрозы.</segment>
+		<segment id="67" parent="256" relname="span">В лучшем случае это приведет к очередной гонке ядерных вооружений и росту напряженности",</segment>
+		<segment id="68" parent="256" relname="attribution">- сказала член Бундестага.</segment>
+		<segment id="69" parent="378" relname="same-unit">##### При этом сам факт наличия американского арсенала на территории ФРГ,</segment>
+		<segment id="70" parent="71" relname="attribution">по ее мнению,</segment>
+		<segment id="71" parent="377" relname="span">является нарушением договора о нераспространении ядерного оружия.</segment>
+		<segment id="72" parent="260" relname="concession">##### "Как вы знаете, дело не просто в атомных бомбах на территории Германии.</segment>
+		<segment id="73" parent="74" relname="evidence">Немецких пилотов учат использовать эти бомбы.</segment>
+		<segment id="74" parent="259" relname="span">ФРГ уже не на бумаге, а на практике стала ядерной державой,</segment>
+		<segment id="75" parent="258" relname="contrast">что противоречит ДНЯО.</segment>
+		<segment id="76" parent="262" relname="span">Что касается новых модернизированных атомных бомб,</segment>
+		<segment id="77" parent="76" relname="evaluation">то они, несомненно, станут очередным нарушением договора,</segment>
+		<segment id="78" parent="263" relname="span">поэтому я всецело выступаю против этого",</segment>
+		<segment id="79" parent="263" relname="attribution">- заявила Инге Хегер.</segment>
+		<segment id="80" parent="81" relname="attribution">##### По ее словам,</segment>
+		<segment id="81" parent="409" relname="span">Берлину необходимо подать всему остальному миру пример.</segment>
+		<segment id="82" parent="265" relname="joint">##### "Я уверена, что в Германии должны выступить против модернизации ядерного арсенала в ФРГ</segment>
+		<segment id="83" parent="266" relname="joint">и настоять, чтобы эти бомбы были вывезены из страны,</segment>
+		<segment id="84" parent="266" relname="joint">обезврежены</segment>
+		<segment id="85" parent="267" relname="span">и разобраны на максимально безвредные компоненты,</segment>
+		<segment id="86" parent="85" relname="purpose">чтобы их уже нельзя было использовать как атомное оружие",</segment>
+		<segment id="87" parent="268" relname="attribution">- пояснила депутат немецкого парламента.</segment>
+		<segment id="88" parent="283" relname="attribution">##### В то же время специалист в сфере противоракетной обороны и баллистических ракет, почетный профессор Массачусетского технологического института в области науки, технологий и политики национальной безопасности Теодор Постол (Theodore Postol) отметил,</segment>
+		<segment id="89" parent="90" relname="concession">что нынешний курс России далеко не идеален,</segment>
+		<segment id="90" parent="274" relname="span">однако реакцию американских и натовских политиков и СМИ на действия Москвы нельзя назвать соразмерной.</segment>
+		<segment id="91" parent="275" relname="restatement">##### "Западу</segment>
+		<segment id="92" parent="275" relname="restatement">- я имею в виду Соединенные Штаты и НАТО</segment>
+		<segment id="93" parent="276" relname="same-unit">- имеет смысл умерить антироссийскую риторику.</segment>
+		<segment id="94" parent="95" relname="attribution">Я не считаю,</segment>
+		<segment id="95" parent="397" relname="span">что воссоединение с Крымом было хорошим решением,</segment>
+		<segment id="96" parent="280" relname="span">но в то же время уверен, что это не оправдывает риск возникновения ядерного конфликта",</segment>
+		<segment id="97" parent="282" relname="attribution">- сказал военный эксперт.</segment>
+		<segment id="98" parent="381" relname="attribution">##### Он добавил,</segment>
+		<segment id="99" parent="381" relname="span">что регулярно появляющиеся в западных СМИ обвинения в адрес России,</segment>
+		<segment id="100" parent="99" relname="elaboration">в которых говорится о злоупотреблении РФ своим статусом ядерной державы,</segment>
+		<segment id="101" parent="278" relname="same-unit">не выдерживают проверки фактами,</segment>
+		<segment id="102" parent="279" relname="contrast">в то время как американская политика по расширению системы противоракетной обороны по-прежнему создает напряженность в отношениях как с Москвой, так и с Пекином.</segment>
+		<segment id="103" parent="298" relname="attribution">##### Теодор Постол призвал</segment>
+		<segment id="104" parent="285" relname="joint">западное политическое сообщество признать российские интересы на международной арене</segment>
+		<segment id="105" parent="285" relname="joint">и активнее сотрудничать с РФ в тех сферах, где это возможно.</segment>
+		<segment id="106" parent="287" relname="attribution">##### "На Западе в унисон заявляют,</segment>
+		<segment id="107" parent="286" relname="span">что Россия якобы начала операцию в Сирии,</segment>
+		<segment id="108" parent="107" relname="purpose">чтобы поднять свой международный авторитет</segment>
+		<segment id="109" parent="288" relname="contrast">- как будто в Москве совершенно не опасаются эскалации радикального исламизма в собственной стране!"</segment>
+		<segment id="110" parent="289" relname="attribution">- заметил профессор.</segment>
+		<segment id="111" parent="112" relname="attribution">##### По его мнению,</segment>
+		<segment id="112" parent="384" relname="span">на фоне существующих разногласий между Россией и Западом модернизация ядерного арсенала в Европе станет неосторожным шагом.</segment>
+		<segment id="113" parent="291" relname="span">##### "Это увеличивает вероятность форс-мажоров</segment>
+		<segment id="114" parent="290" relname="joint">- как при обращении с таким оружием,</segment>
+		<segment id="115" parent="290" relname="joint">так и в случае эскалации ситуации между сторонами,</segment>
+		<segment id="116" parent="292" relname="span">что может привести к ядерному конфликту.</segment>
+		<segment id="117" parent="118" relname="attribution">Я считаю,</segment>
+		<segment id="118" parent="399" relname="span">что на это нет никаких объективных причин",</segment>
+		<segment id="119" parent="399" relname="attribution">- подчеркнул американский специалист в сфере ПРО.</segment>
+		<segment id="120" parent="121" relname="attribution">##### В свою очередь бывший депутат Европарламента, глава Финского союза защиты мира Тарья Кронберг (Tarja Cronberg) выступила</segment>
+		<segment id="121" parent="317" relname="span">решительно против программы модернизации атомного вооружения.</segment>
+		<segment id="122" parent="306" relname="attribution">##### "В статье 6 [ДНЯО] сказано,</segment>
+		<segment id="123" parent="302" relname="same-unit">что</segment>
+		<segment id="124" parent="125" relname="purpose">для размещения ядерного оружия в Европе</segment>
+		<segment id="125" parent="301" relname="span">необходимо единогласное решение целого ряда стран,</segment>
+		<segment id="126" parent="303" relname="span">и всякая модернизация,</segment>
+		<segment id="127" parent="126" relname="condition">где бы она ни проводилась,</segment>
+		<segment id="128" parent="304" relname="same-unit">является ее нарушением",</segment>
+		<segment id="129" parent="385" relname="attribution">- пояснила финский политик.</segment>
+		<segment id="130" parent="309" relname="attribution">##### По ее мнению,</segment>
+		<segment id="131" parent="132" relname="cause">односторонняя позиция США и заявления со стороны России о существовавшем риске применения ядерного оружия</segment>
+		<segment id="132" parent="308" relname="span">привели к росту напряженности,</segment>
+		<segment id="133" parent="308" relname="elaboration">что заметнее всего проявилось в акватории Балтийского моря.</segment>
+		<segment id="134" parent="310" relname="joint">##### "Поэтому очень важно добиться деэскалации сохраняющейся ситуации между НАТО и РФ</segment>
+		<segment id="135" parent="310" relname="joint">и не доводить дело до ядерных угроз",</segment>
+		<segment id="136" parent="311" relname="attribution">- заявила глава Финского союза защиты мира.</segment>
+		<segment id="137" parent="387" relname="attribution">##### Она также призвала</segment>
+		<segment id="138" parent="387" relname="span">Россию и Североатлантический альянс провести отдельную встречу</segment>
+		<segment id="139" parent="138" relname="purpose">для разрешения разногласий,</segment>
+		<segment id="140" parent="314" relname="span">а также пересмотреть стратегии безопасности,</segment>
+		<segment id="141" parent="140" relname="purpose">чтобы исключить "бряцание ядерным оружием" в дальнейшем.</segment>
+		<segment id="142" parent="323" relname="attribution">##### Вместе с тем исполнительный директор Британско-американского совета по информационной безопасности (BASIC) Пол Ингрэм (Paul Ingram) подчеркнул,</segment>
+		<segment id="143" parent="323" relname="span">что США являются единственной атомной державой, которая разместила часть своего ядерного арсенала на территории стран-союзников.</segment>
+		<segment id="144" parent="321" relname="span">##### "[Соединенные Штаты] договорились в случае войны передать его своим союзникам -</segment>
+		<segment id="145" parent="413" relname="same-unit">странам, которые</segment>
+		<segment id="146" parent="147" relname="attribution">согласно ДНЯО</segment>
+		<segment id="147" parent="412" relname="span">не владеют ядерным оружием</segment>
+		<segment id="148" parent="320" relname="joint">и не имеют права получать его от других.</segment>
+		<segment id="149" parent="322" relname="span">Следовательно, есть серьезные основания говорить о нарушении договора",</segment>
+		<segment id="150" parent="322" relname="attribution">- сказал эксперт.</segment>
+		<segment id="151" parent="392" relname="same-unit">##### Кроме того,</segment>
+		<segment id="152" parent="153" relname="attribution">по его мнению,</segment>
+		<segment id="153" parent="391" relname="span">текущая ядерная стратегия Североатлантического альянса ограничивает западных союзников в выборе курса на международной арене.</segment>
+		<segment id="154" parent="155" relname="cause">##### "Совместное использование этого оружия фактически вынуждает страны НАТО придерживаться жесткой ядерной позиции,</segment>
+		<segment id="155" parent="325" relname="span">что подрывает доверие к их заявлениям о соблюдении международных договоренностей по разоружению",</segment>
+		<segment id="156" parent="401" relname="attribution">- сказал Пол Ингрэм,</segment>
+		<segment id="157" parent="328" relname="span">добавив, что противоречия по этому вопросу</segment>
+		<segment id="158" parent="157" relname="condition">в случае возникновения критической ситуации</segment>
+		<segment id="159" parent="329" relname="same-unit">грозят расколоть альянс.</segment>
+		<segment id="160" parent="404" relname="attribution">##### Он также напомнил,</segment>
+		<segment id="161" parent="403" relname="span">что оборонная стратегия НАТО базируется на политике взаимного ядерного сдерживания,</segment>
+		<segment id="162" parent="161" relname="elaboration">основанной на принципе неотвратимости ответного удара,</segment>
+		<segment id="163" parent="403" relname="concession">которая утрачивает актуальность в современных реалиях.</segment>
+		<segment id="164" parent="331" relname="contrast">##### "Да, в отдельных случаях такая странная логика работает,</segment>
+		<segment id="165" parent="332" relname="joint">однако она вызывает ряд проблем</segment>
+		<segment id="166" parent="333" relname="span">и напрямую зависит от человеческого здравого смысла,</segment>
+		<segment id="167" parent="166" relname="concession">который, как мы знаем, далеко не совершенен.</segment>
+		<segment id="168" parent="169" relname="cause">Акцент на политике ядерного сдерживания в дальнейшем грозит привести к атомной войне со всеми вытекающими последствиями</segment>
+		<segment id="169" parent="334" relname="span">- миллионами жертв, уничтожением наций, непоправимым уроном для окружающей среды.</segment>
+		<segment id="170" parent="334" relname="condition">Это лишь вопрос времени",</segment>
+		<segment id="171" parent="335" relname="attribution">- предположил Пол Ингрэм.</segment>
+		<segment id="172" parent="349" relname="attribution">##### В свою очередь его коллега, старший консультант BASIC, бывший советник по контролю над вооружениями в представительстве США при НАТО в Брюсселе Тед Сии (Ted Seay) отметил,</segment>
+		<segment id="173" parent="339" relname="joint">что стратегия Североатлантического альянса сводит на нет весь потенциал позитивных взаимоотношений с Москвой</segment>
+		<segment id="174" parent="339" relname="joint">и мешает вести нормальный диалог с целым рядом государств.</segment>
+		<segment id="175" parent="340" relname="contrast">##### "Мы пытаемся убедить другие страны отказаться от военного атома,</segment>
+		<segment id="176" parent="341" relname="span">но в то же время НАТО, Европа и США участвуют в программе совместного использования ядерного оружия,</segment>
+		<segment id="177" parent="176" relname="evaluation">что противоречит самой сути ДНЯО.</segment>
+		<segment id="178" parent="342" relname="span">Имеем ли мы в этом случае моральное право обращаться к другим странам с подобными заявлениями?"</segment>
+		<segment id="179" parent="407" relname="attribution">- задался вопросом эксперт,</segment>
+		<segment id="180" parent="354" relname="attribution">добавив, что он сам так не считает.</segment>
+		<segment id="181" parent="343" relname="span">##### "С моей точки зрения, это никоим образом не будет способствовать любому прогрессу.</segment>
+		<segment id="182" parent="346" relname="span">Это кошмарный пережиток прошлого.</segment>
+		<segment id="183" parent="182" relname="background">Со стороны НАТО крайне глупо по-прежнему держать эти бомбы в Европе в XXI веке - столько лет после окончания холодной войны.</segment>
+		<segment id="184" parent="345" relname="same-unit">Тот факт,</segment>
+		<segment id="185" parent="186" relname="cause">что это оружие - американское оружие - размещено далеко от границ США в непосредственной близости к территории России,</segment>
+		<segment id="186" parent="344" relname="span">является неоправданной провокацией в адрес Москвы.</segment>
+		<segment id="187" parent="351" relname="contrast">При этом российское оперативно-тактическое ядерное вооружение аналогичного класса расположено исключительно на территории самой страны.</segment>
+		<segment id="188" parent="352" relname="evaluation">В этом и заключается коренное отличие",</segment>
+		<segment id="189" parent="355" relname="attribution">- подчеркнул Тед Сии.</segment>
+		<segment id="190" parent="191" relname="attribution">##### Он также призвал</segment>
+		<segment id="191" parent="394" relname="span">Североатлантический альянс отказаться от клишированных заявлений</segment>
+		<segment id="192" parent="357" relname="span">и приступить к серьезным и детальным переговорам с Российской Федерацией</segment>
+		<segment id="193" parent="192" relname="purpose">по взаимному отказу от ядерного вооружения.</segment>
+		<segment id="194" parent="358" relname="span">##### "В этом ключе, по моему мнению, наилучшим первым шагом для США и НАТО было бы в одностороннем порядке вывезти все бомбы типа B61 с территории Европы</segment>
+		<segment id="195" parent="194" relname="condition">без каких-либо условий.</segment>
+		<segment id="196" parent="360" relname="span">После этого уже можно встретиться лицом к лицу с нашими партнерами</segment>
+		<segment id="197" parent="196" relname="background">- ведь НАТО и Российская Федерация формально остаются партнерами</segment>
+		<segment id="198" parent="361" relname="joint">- и обсудить дальнейшие шаги по укреплению транспарентности и взаимного доверия",</segment>
+		<segment id="199" parent="362" relname="attribution">- добавил экс-советник по контролю над вооружениями в представительстве США при НАТО в Брюсселе.</segment>
+		<group id="200" type="span" parent="201" relname="same-unit"/>
+		<group id="201" type="multinuc" parent="207" relname="span"/>
+		<group id="202" type="multinuc" />
+		<group id="203" type="multinuc" parent="6" relname="elaboration"/>
+		<group id="204" type="span" parent="366" relname="evidence"/>
+		<group id="205" type="span" parent="207" relname="elaboration"/>
+		<group id="206" type="span" parent="202" relname="joint"/>
+		<group id="207" type="span" parent="206" relname="span"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" parent="222" relname="span"/>
+		<group id="212" type="span" parent="213" relname="same-unit"/>
+		<group id="213" type="multinuc" parent="218" relname="span"/>
+		<group id="214" type="span" parent="215" relname="comparison"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="218" relname="elaboration"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="16" relname="elaboration"/>
+		<group id="220" type="span" parent="15" relname="purpose"/>
+		<group id="221" type="span" parent="211" relname="preparation"/>
+		<group id="222" type="span" />
+		<group id="223" type="span" parent="235" relname="sequence"/>
+		<group id="224" type="span" parent="234" relname="span"/>
+		<group id="225" type="span" parent="224" relname="elaboration"/>
+		<group id="226" type="multinuc" parent="236" relname="contrast"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="233" relname="span"/>
+		<group id="230" type="multinuc" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="229" relname="evaluation"/>
+		<group id="233" type="span" parent="368" relname="elaboration"/>
+		<group id="234" type="span" parent="235" relname="sequence"/>
+		<group id="235" type="multinuc" parent="236" relname="contrast"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" />
+		<group id="239" type="multinuc" parent="240" relname="joint"/>
+		<group id="240" type="multinuc" parent="395" relname="attribution"/>
+		<group id="241" type="span" parent="239" relname="same-unit"/>
+		<group id="242" type="multinuc" parent="251" relname="joint"/>
+		<group id="243" type="span" parent="242" relname="joint"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" />
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="374" relname="elaboration"/>
+		<group id="250" type="span" parent="251" relname="joint"/>
+		<group id="251" type="multinuc" parent="244" relname="span"/>
+		<group id="252" type="span" parent="253" relname="cause"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="span"/>
+		<group id="255" type="span" parent="273" relname="preparation"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="375" relname="elaboration"/>
+		<group id="258" type="multinuc" parent="260" relname="span"/>
+		<group id="259" type="span" parent="258" relname="contrast"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" parent="271" relname="joint"/>
+		<group id="262" type="span" parent="78" relname="cause"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="271" relname="joint"/>
+		<group id="265" type="multinuc" parent="268" relname="span"/>
+		<group id="266" type="multinuc" parent="265" relname="joint"/>
+		<group id="267" type="span" parent="266" relname="joint"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="409" relname="elaboration"/>
+		<group id="270" type="multinuc" parent="273" relname="span"/>
+		<group id="271" type="multinuc" parent="380" relname="elaboration"/>
+		<group id="272" type="span" parent="410" relname="solutionhood"/>
+		<group id="273" type="span" parent="272" relname="span"/>
+		<group id="274" type="span" parent="398" relname="preparation"/>
+		<group id="275" type="multinuc" parent="276" relname="same-unit"/>
+		<group id="276" type="multinuc" parent="281" relname="span"/>
+		<group id="277" type="multinuc" parent="281" relname="elaboration"/>
+		<group id="278" type="multinuc" parent="279" relname="contrast"/>
+		<group id="279" type="multinuc" parent="96" relname="elaboration"/>
+		<group id="280" type="span" parent="277" relname="contrast"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="398" relname="span"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" parent="296" relname="solutionhood"/>
+		<group id="285" type="multinuc" parent="295" relname="span"/>
+		<group id="286" type="span" parent="288" relname="contrast"/>
+		<group id="287" type="span" parent="289" relname="span"/>
+		<group id="288" type="multinuc" parent="287" relname="span"/>
+		<group id="289" type="span" parent="383" relname="span"/>
+		<group id="290" type="multinuc" parent="113" relname="condition"/>
+		<group id="291" type="span" parent="116" relname="cause"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="299" relname="span"/>
+		<group id="295" type="span" parent="298" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" />
+		<group id="298" type="span" parent="296" relname="span"/>
+		<group id="299" type="span" parent="300" relname="contrast"/>
+		<group id="300" type="multinuc" parent="295" relname="evaluation"/>
+		<group id="301" type="span" parent="302" relname="same-unit"/>
+		<group id="302" type="multinuc" parent="305" relname="cause"/>
+		<group id="303" type="span" parent="304" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" parent="385" relname="span"/>
+		<group id="307" type="span" parent="316" relname="span"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="386" relname="span"/>
+		<group id="310" type="multinuc" parent="311" relname="span"/>
+		<group id="311" type="span" parent="312" relname="span"/>
+		<group id="312" type="span" parent="315" relname="span"/>
+		<group id="313" type="multinuc" parent="318" relname="span"/>
+		<group id="314" type="span" parent="389" relname="joint"/>
+		<group id="315" type="span" parent="313" relname="joint"/>
+		<group id="316" type="span" parent="318" relname="solutionhood"/>
+		<group id="317" type="span" parent="307" relname="preparation"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" />
+		<group id="320" type="multinuc" parent="144" relname="condition"/>
+		<group id="321" type="span" parent="149" relname="evidence"/>
+		<group id="322" type="span" parent="390" relname="span"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" />
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="330" relname="span"/>
+		<group id="328" type="span" parent="329" relname="same-unit"/>
+		<group id="329" type="multinuc" parent="401" relname="span"/>
+		<group id="330" type="span" />
+		<group id="331" type="multinuc" parent="337" relname="span"/>
+		<group id="332" type="multinuc" parent="331" relname="contrast"/>
+		<group id="333" type="span" parent="338" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="333" relname="elaboration"/>
+		<group id="337" type="span" parent="405" relname="elaboration"/>
+		<group id="338" type="span" parent="332" relname="joint"/>
+		<group id="339" type="multinuc" parent="348" relname="span"/>
+		<group id="340" type="multinuc" parent="178" relname="cause"/>
+		<group id="341" type="span" parent="340" relname="contrast"/>
+		<group id="342" type="span" parent="393" relname="span"/>
+		<group id="343" type="span" parent="347" relname="joint"/>
+		<group id="344" type="span" parent="345" relname="same-unit"/>
+		<group id="345" type="multinuc" parent="351" relname="contrast"/>
+		<group id="346" type="span" parent="181" relname="evaluation"/>
+		<group id="347" type="multinuc" parent="355" relname="span"/>
+		<group id="348" type="span" parent="349" relname="span"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" />
+		<group id="351" type="multinuc" parent="352" relname="span"/>
+		<group id="352" type="span" parent="353" relname="span"/>
+		<group id="353" type="span" parent="347" relname="joint"/>
+		<group id="354" type="span" parent="407" relname="span"/>
+		<group id="355" type="span" parent="354" relname="span"/>
+		<group id="356" type="multinuc" parent="364" relname="span"/>
+		<group id="357" type="span" parent="356" relname="joint"/>
+		<group id="358" type="span" parent="359" relname="sequence"/>
+		<group id="359" type="multinuc" parent="362" relname="span"/>
+		<group id="360" type="span" parent="361" relname="joint"/>
+		<group id="361" type="multinuc" parent="359" relname="sequence"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="364" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" />
+		<group id="366" type="span" parent="205" relname="span"/>
+		<group id="367" type="span" parent="368" relname="span"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="237" relname="elaboration"/>
+		<group id="370" type="span" parent="371" relname="same-unit"/>
+		<group id="371" type="multinuc" parent="242" relname="joint"/>
+		<group id="372" type="span" parent="373" relname="same-unit"/>
+		<group id="373" type="multinuc" parent="374" relname="span"/>
+		<group id="374" type="span" parent="250" relname="span"/>
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" parent="270" relname="joint"/>
+		<group id="377" type="span" parent="378" relname="same-unit"/>
+		<group id="378" type="multinuc" parent="380" relname="span"/>
+		<group id="379" type="span" parent="270" relname="joint"/>
+		<group id="380" type="span" parent="379" relname="span"/>
+		<group id="381" type="span" parent="382" relname="span"/>
+		<group id="382" type="span" parent="278" relname="same-unit"/>
+		<group id="383" type="span" parent="300" relname="contrast"/>
+		<group id="384" type="span" parent="294" relname="preparation"/>
+		<group id="385" type="span" parent="307" relname="span"/>
+		<group id="386" type="span" parent="312" relname="cause"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="389" relname="joint"/>
+		<group id="389" type="multinuc" parent="313" relname="joint"/>
+		<group id="390" type="span" parent="143" relname="elaboration"/>
+		<group id="391" type="span" parent="392" relname="same-unit"/>
+		<group id="392" type="multinuc" parent="327" relname="preparation"/>
+		<group id="393" type="span" parent="348" relname="elaboration"/>
+		<group id="394" type="span" parent="356" relname="joint"/>
+		<group id="395" type="span" parent="396" relname="span"/>
+		<group id="396" type="span" parent="244" relname="solutionhood"/>
+		<group id="397" type="span" parent="277" relname="contrast"/>
+		<group id="398" type="span" parent="283" relname="span"/>
+		<group id="399" type="span" parent="400" relname="span"/>
+		<group id="400" type="span" parent="293" relname="attribution"/>
+		<group id="401" type="span" parent="402" relname="span"/>
+		<group id="402" type="span" parent="325" relname="attribution"/>
+		<group id="403" type="span" parent="404" relname="span"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" parent="406" relname="span"/>
+		<group id="406" type="span" parent="326" relname="background"/>
+		<group id="407" type="span" parent="408" relname="span"/>
+		<group id="408" type="span" parent="342" relname="attribution"/>
+		<group id="409" type="span" parent="410" relname="span"/>
+		<group id="410" type="span" parent="411" relname="span"/>
+		<group id="411" type="span" />
+		<group id="412" type="span" parent="413" relname="same-unit"/>
+		<group id="413" type="multinuc" parent="320" relname="joint"/>
+	</body>
+</rst>

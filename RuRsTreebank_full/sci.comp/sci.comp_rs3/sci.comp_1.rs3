@@ -1,0 +1,221 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">УДК 004.032</segment>
+		<segment id="2" relname="antithesis">Методика оценки надежности вычислительной сети</segment>
+		<segment id="3" relname="antithesis">Аннотация. В работе рассмотрены методики оценки надежности вычислительной сети. Подход к проблематике основан на использовании методов, описанных теорией вероятности и математической статистикой.</segment>
+		<segment id="4" relname="antithesis">Ключевые слова: вычислительные сети; оценка надежности; информационные системы.</segment>
+		<segment id="5" relname="antithesis">Abstract. The paper discusses methodology of reliability evaluation of area network. The approach to the problem is based on the methods described by theory of probability and mathematical statistics.</segment>
+		<segment id="6" relname="antithesis">Keywords: area networks; reliability evaluation; information Technology.</segment>
+		<segment id="7" relname="antithesis">Ложков А.В.,</segment>
+		<segment id="8" relname="antithesis">студент магистратуры Финансового университета Н avLozhkov@fa.ru</segment>
+		<segment id="9" relname="antithesis">Надежность информационной системы определяется надежностью ее элементов, аппаратного и программного обеспечения, а также средств контроля и восстановления, использующихся при эксплуатации системы [1].</segment>
+		<segment id="10" parent="9" relname="background">Определяя основные термины и понятия в области надежности, будем следовать нормативно-техническим документам в системе государственных стандартов «Надежность в технике», которую описывает ГОСТ Р 53480-2009.</segment>
+		<segment id="11" parent="125" relname="span">Основным понятием в теории надежности является система, под которой подразумевают совокупность элементов, взаимодействующих в процессе выполнения заданной функции.</segment>
+		<segment id="12" parent="124" relname="span">Элементом системы называют ее часть, имеющую самостоятельную характеристику надежности, используемую при расчетах.</segment>
+		<segment id="13" parent="12" relname="elaboration">Такими элементами могут являться персональные компьютеры, запоминающие устройства, маршрутизаторы, коммутаторы, серверы и т.д.</segment>
+		<segment id="14" parent="126" relname="span">Готовностью называют способность системы (элемента) выполнять требуемую функцию при данных условиях,</segment>
+		<segment id="15" parent="14" relname="condition">предполагая, что необходимые внешние ресурсы обеспечены.</segment>
+		<segment id="16" parent="134" relname="joint">Безотказностью называется свойство системы непрерывно выполнять требуемую функцию в заданный интервал времени при заданных условиях.</segment>
+		<segment id="17" parent="127" relname="span">Работоспособным называется состояние системы, при котором она способна выполнить требуемую функцию</segment>
+		<segment id="18" parent="17" relname="condition">при условии, что предоставлены необходимые внешние ресурсы.</segment>
+		<segment id="19" parent="129" relname="contrast">Неработоспособным называется состояние системы, при котором она неспособна выполнить требуемые функции по любой причине.</segment>
+		<segment id="20" parent="132" relname="span">Потеря способности системы выполнять требуемую функцию, т.е. переход из работоспособного состояния в неработоспособное, называется отказом.</segment>
+		<segment id="21" parent="131" relname="span">В общей массе отказов системы или ее элементов преобладают сбои, т.е. самоустраняющиеся отказы.</segment>
+		<segment id="22" parent="21" relname="elaboration">Сбоем логического элемента вычислительной сети называется непредусмотренное изменение состояния, после которого работоспособность самовосстанавливается.</segment>
+		<segment id="23" parent="143" relname="span">Надежностью называют свойство системы выполнять требуемые функции в заданном интервале времени, режимах и условиях применения при поддержке технического обслуживания.</segment>
+		<segment id="24" parent="138" relname="span">Надежность - это комплексное свойство, включающее в себя безотказность, ремонтопригодность и сохраняемость.</segment>
+		<segment id="25" parent="137" relname="span">Безотказность - способность системы или элемента непрерывно выполнять требуемую функцию в заданном интервале времени или некоторой наработки.</segment>
+		<segment id="26" parent="25" relname="elaboration">Наработкой называют интервал времени, в течение которого изделие находится в состоянии функционирования.</segment>
+		<segment id="27" parent="140" relname="joint">Ремонтопригодность - способность системы при заданных условиях эксплуатации и технического обслуживания к поддержанию или восстановлению состояния, в котором она может выполнять требуемую функцию.</segment>
+		<segment id="28" parent="142" relname="joint">Сохраняемостью называют способность системы выполнять требуемую функцию в течение и после хранения и (или) транспортирования [2].</segment>
+		<segment id="29" relname="antithesis">Научный руководитель: Лебедев В.М., кандидат технических наук, доцент.</segment>
+		<segment id="30" relname="antithesis">Комплексность понятия «надежность» с учетом вышесказанного делает его фундаментальным понятием, всесторонне охватывающим техническую эксплуатацию систем и элементов.</segment>
+		<segment id="31" relname="antithesis">В свою очередь, надежность является составляющей более широкого понятия - эффективности, под которой понимают свойство системы выполнять заданные функции с требуемым качеством.</segment>
+		<segment id="32" relname="antithesis">Показателями надежности являются количественные характеристики свойств, составляющих надежность системы.</segment>
+		<segment id="33" parent="145" relname="cause">Поскольку отказы и сбои носят случайный характер,</segment>
+		<segment id="34" parent="144" relname="joint">показатели надежности являются вероятностными величинами,</segment>
+		<segment id="35" parent="144" relname="joint">и при исследовании надежности прибегают к методам, используемым в теории вероятности и математической статистике.</segment>
+		<segment id="36" relname="antithesis">Наиболее распространенными количественными характеристиками надежности являются: • ВБР - вероятность безотказной работы в определенный интервал времени, P (t); средняя наработка до первого отказа - Tcp.; вероятность отказа - О (t); наработка на отказ - t; частота отказов - a (t); интенсивность отказов - Я (t); параметр потока отказов - ш (t); функция готовности - Кг (t); коэффициент готовности - Кг.</segment>
+		<segment id="37" relname="antithesis">Выбор количественных характеристик надежности зависит от вида объекта исследования - восстанавливаемого или невосстанавливаемого.</segment>
+		<segment id="38" parent="150" relname="span">Восстанавливаемыми называют объекты, допускающие ремонт в процессе выполнения своих функций.</segment>
+		<segment id="39" parent="38" relname="elaboration">При отказе такие объекты прекращают функционирование лишь на период устранения отказа.</segment>
+		<segment id="40" parent="151" relname="contrast">Невосстанавливаемые же в процессе выполнения своих функций не допускают ремонта.</segment>
+		<segment id="41" parent="154" relname="span">Вероятность безотказной работы P (t) выражает вероятность того, что в пределах заданной наработки или в определенный интервал времени не возникнет отказа.</segment>
+		<segment id="42" parent="153" relname="span">Показатель обладает следующими свойствами:</segment>
+		<segment id="43" parent="42" relname="elaboration">P (0) = 1.</segment>
+		<segment id="44" parent="152" relname="span">До начала работы объект предполагается работоспособным.</segment>
+		<segment id="45" parent="44" relname="elaboration">lim P (t ) = 0.</segment>
+		<segment id="46" parent="47" relname="attribution">Предполагается,</segment>
+		<segment id="47" parent="147" relname="span">что работоспособность объекта ограничена во времени.</segment>
+		<segment id="48" parent="155" relname="span">ВБР определяется статистической оценкой:</segment>
+		<segment id="49" parent="48" relname="elaboration">Р (t ) = No - n(t) No где No - число работоспособных объектов в начале испытания; п (1) - число отказавших объектов за время 1.</segment>
+		<segment id="50" relname="antithesis">Вероятность безотказной работы группы элементов вычисляется путем умножения вероятностей безотказной работы каждого объекта группы:</segment>
+		<segment id="51" parent="50" relname="elaboration">p (t)=p(). p2(t)..... рп (t)=п p (t), (2) где п - число объектов в группе.</segment>
+		<segment id="52" parent="157" relname="same-unit">Соответственно</segment>
+		<segment id="53" parent="54" relname="condition">с ростом числа объектов группы</segment>
+		<segment id="54" parent="148" relname="span">увеличивается ее надежность.</segment>
+		<segment id="55" parent="195" relname="span">Гораздо практичнее пользоваться такой более удобной характеристикой, как вероятность отказа О (1).</segment>
+		<segment id="56" parent="196" relname="span">Вероятность отказа О (1) - вероятность возникновения отказа в заданный промежуток времени t.</segment>
+		<segment id="57" parent="58" relname="cause">Поскольку отказ и безотказная работа являются взаимоисключающими и противоположными понятиями,</segment>
+		<segment id="58" parent="156" relname="span">то Q (t) = 1 - P (t). (3)</segment>
+		<segment id="59" relname="antithesis">основным понятием в теории надежности является система, под которой подразумевают совокупность элементов, взаимодействующих в процессе выполнения заданной функции</segment>
+		<segment id="60" relname="antithesis">Статистически оценка вероятности отказа определяется как Q ( )= n(t) No (4)</segment>
+		<segment id="61" parent="158" relname="span">Функция вероятности отказа совпадает с функцией распределения времени F (1): Q(t) = F(t)=)f, (x)dx, (5) (1) где /1 (х) - функция плотности распределения времени до отказа; x - переменная интегрирования.</segment>
+		<segment id="62" relname="antithesis">Таким образом, показатель надежности:</segment>
+		<segment id="63" relname="antithesis">t ет P (1) = 1 - Q (1) = 1 (х)йх = (х)сСх. (6)</segment>
+		<segment id="64" parent="160" relname="span">Частотой отказов называют плотность распределения времени безотказной работы или производную от вероятности безотказной работы:</segment>
+		<segment id="65" parent="64" relname="elaboration">о з X(t) L I И III A.(t)—const » О</segment>
+		<segment id="66" parent="73" relname="elaboration">Рис. 1. Кривая изменения интенсивности отказов устройства в течение срока эксплуатации</segment>
+		<segment id="67" relname="antithesis">a (t) = Q(t) = - P (t). (7)</segment>
+		<segment id="68" relname="antithesis">a (t) =X-e -X-t (13)</segment>
+		<segment id="69" relname="antithesis">Статистически частота отказов a (t) определяется как a (t) = n(At) (8) NoЛt где п (Лt) — число отказавших объектов в интер- АЛ АЛ вале времени от (? ——) до (/) , а N0 — начальное число объектов испытания.</segment>
+		<segment id="70" relname="antithesis">Интенсивность отказов Я (^ представляет условную плотность возникновения отказов в определенный промежуток времени.</segment>
+		<segment id="71" relname="antithesis">Вероятностная оценка этой характеристики определяется выражением X(t ) = a(t) P (t)</segment>
+		<segment id="72" relname="antithesis">Статистически величина X (t) определяется как n(At) X(t ) = Ncp -At (9) (10) дг Ni + NM где Ncp =-LyJ±L среднее число исправно ра-</segment>
+		<segment id="73" parent="178" relname="span">В течение срока службы технического устройства можно выделить три периода, интенсивность отказов в которых меняется по-разному (см. рис. 1).</segment>
+		<segment id="74" parent="181" relname="span">На участке I интенсивность отказов высока и уменьшается с течением времени.</segment>
+		<segment id="75" parent="74" relname="elaboration">Это участок приработки, на котором выявляются дефекты производства.</segment>
+		<segment id="76" parent="182" relname="joint">Второй участок (II) (от t1 до t2) — это участок нормальной эксплуатации, на котором характерно постоянное значение интенсивности отказов.</segment>
+		<segment id="77" parent="182" relname="joint">На участке III (t2 усиливаются процессы старения элементов, и интенсивность отказов начинает возрастать.</segment>
+		<segment id="78" parent="79" relname="cause">Увеличение интенсивности отказов, характеризующее переход к фазе износа,</segment>
+		<segment id="79" parent="177" relname="span">должно послужить сигналом к замене элемента.</segment>
+		<segment id="80" parent="81" relname="condition">Средняя наработка на отказ (среднее время безотказной работы) представляет собой математическое ожидание наработки элемента до первого отказа,</segment>
+		<segment id="81" parent="176" relname="span">следовательно, Tcp =$P (t )• dt. (14)</segment>
+		<segment id="82" relname="antithesis">Для экспоненциального закона распределения времени безотказной работы (12) получается ботающих объектов в интервале времени Д1</segment>
+		<segment id="83" parent="174" relname="span">Между вероятностью безотказной работы и интенсивностью отказов есть зависимость:</segment>
+		<segment id="84" parent="83" relname="elaboration">Tcv =je• dt. (15) -j\\(t )-dt P (t)= e 0 .</segment>
+		<segment id="85" parent="86" relname="condition">Если Я (t) = const = Я,</segment>
+		<segment id="86" parent="173" relname="span">то тогда P (t) = e x", (11) (12)</segment>
+		<segment id="87" relname="antithesis">Средняя наработка до отказа определяется следующей статистической оценкой: у \ -t=1' T = cp N. (16) о 0 где - время безотказной работы /-го элемента; где гс - наработка на отказ; гв - среднее время Ы0 - число испытуемых объектов.</segment>
+		<segment id="88" relname="antithesis">Рассмотренные выше характеристики позволяют в достаточной мере оценить надежность невосстанав-ливаемых объектов и восстанавливаемых до первого отказа.</segment>
+		<segment id="89" parent="90" relname="cause">Надежность простейших элементов удобнее всего оценивать интенсивностью отказов,</segment>
+		<segment id="90" parent="185" relname="span">что позволит проще вычислить количественные характеристики надежности сложной системы.</segment>
+		<segment id="91" parent="192" relname="span">Восстанавливаемые объекты можно характеризовать такими показателями, как параметр потока отказов, коэффициент готовности, наработка на отказ, интенсивность восстановления, коэффициент вынужденного простоя.</segment>
+		<segment id="92" parent="172" relname="span">Параметр потока отказов - отношение числа отказавших объектов в заданный промежуток времени к числу испытываемых элементов</segment>
+		<segment id="93" parent="92" relname="condition">при условии замены вышедших из строя элементов исправными.</segment>
+		<segment id="94" parent="172" relname="elaboration">Статистически определяется как: ю (t ) = n(At) (17) tcp = у" t. -Ч=1 ' (18) n Кг = t +1 cp в (19) восстановления.</segment>
+		<segment id="95" parent="187" relname="joint">Статистически коэффициент готовности оценивается как К = N (t) N ' (20) N Лt где п (Лt) - число отказавших объектов в интер, АЛ _ Лt. м вале времени от (t--) до (t+-); N - число объ- 2 2 ектов испытания; Аг - интервал времени.</segment>
+		<segment id="96" parent="188" relname="elaboration">Параметр потока отказов больше, чем частота отказов, независимо от закона распределения времени безотказной работы: [ш (г) &gt; a (г)].</segment>
+		<segment id="97" parent="170" relname="span">Наработка на отказ - среднее значение времени между двумя последовательными отказами.</segment>
+		<segment id="98" parent="97" relname="elaboration">Определяется по статистическим данным об отказе формулой: где г. - время исправной работы изделия между (/-1) -м и /-м отказами; п - число отказов за время г.</segment>
+		<segment id="99" parent="166" relname="span">Параметр потока отказов и наработка на отказ не характеризуют готовность изделия к выполнению своих функций в нужное время,</segment>
+		<segment id="100" parent="99" relname="cause">так как не учитывают времени восстановления,</segment>
+		<segment id="101" parent="165" relname="contrast">но широко используются на практике, характеризуя надежность ремонтируемого изделия.</segment>
+		<segment id="102" parent="103" relname="purpose">Для учета времени, необходимого для восстановления,</segment>
+		<segment id="103" parent="167" relname="span">в качестве показателя надежности используется коэффициент готовности Кг.</segment>
+		<segment id="104" parent="167" relname="elaboration">Коэффициентом готовности называется вероятность того, что элемент в заданный момент времени находится в работоспособном состоянии: где Nв (г) - число работоспособных объектов в момент времени г.</segment>
+		<segment id="105" parent="193" relname="span">Выбор количественных характеристик надежности зависит от вида объекта исследования - восстанавливаемого или невосстанавливаемого</segment>
+		<segment id="106" parent="168" relname="span">В зависимости от целевого назначения показатели надежности нужно подбирать под каждый конкретный случай,</segment>
+		<segment id="107" parent="106" relname="purpose">чтобы они характеризовали надежность системы наилучшим образом.</segment>
+		<segment id="108" parent="164" relname="span">Одним из наиболее оптимальных параметров надежности является вероятность безотказной работы</segment>
+		<segment id="109" parent="163" relname="span">ввиду следующих ее особенностей:</segment>
+		<segment id="110" parent="162" relname="joint">• в качестве сомножителя она входит в более общие характеристики системы, такие как эффективность и стоимость;</segment>
+		<segment id="111" parent="162" relname="joint">• характеризует изменения надежности во времени;</segment>
+		<segment id="112" parent="162" relname="joint">• может быть получена путем расчетов в процессе проектирования систем и</segment>
+		<segment id="113" parent="162" relname="joint">оценена в процессе испытания.</segment>
+		<segment id="114" parent="115" relname="cause">Надежность простейших элементов удобнее всего оценивать интенсивностью отказов,</segment>
+		<segment id="115" parent="179" relname="span">что позволит проще вычислить количественные характеристики надежности сложной системы</segment>
+		<segment id="116" parent="161" relname="span">Рассмотренные в работе методики оценки надежности вычислительной сети и получения числовых значений надежности имеют целью</segment>
+		<segment id="117" parent="116" relname="purpose">определение уровня защищенности и доступности информационных систем для их оптимизации и повышения отказоустойчивости.</segment>
+		<segment id="118" relname="antithesis">Литература</segment>
+		<segment id="119" relname="antithesis">1\. Расулова С.С. Надежность информационных систем. Ташкент: ТУИТ, 2007. 216 с.</segment>
+		<segment id="120" relname="antithesis">2\. ГОСТ Р 53480-2009. Надежность в технике. Термины и определения.</segment>
+		<segment id="121" relname="antithesis">3\.</segment>
+		<segment id="122" relname="antithesis">Кибзун А.И., Горяинова Е.Р., Наумов А.В., Сиротин А.Н. Теория вероятностей и математическая статистика. Базовый курс с примерами и задачами. М.: ФИЗМАТЛИТ, 2002. 224 с.</segment>
+		<segment id="123" relname="antithesis"></segment>
+		<group id="124" type="span" parent="11" relname="elaboration"/>
+		<group id="125" type="span" relname="antithesis"/>
+		<group id="126" type="span" parent="134" relname="joint"/>
+		<group id="127" type="span" parent="129" relname="contrast"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="130" type="span" parent="149" relname="joint"/>
+		<group id="131" type="span" parent="20" relname="elaboration"/>
+		<group id="132" type="span" parent="130" relname="elaboration"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="135" type="span" relname="antithesis"/>
+		<group id="137" type="span" parent="140" relname="joint"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" parent="23" relname="elaboration"/>
+		<group id="140" type="multinuc" parent="141" relname="span"/>
+		<group id="141" type="span" parent="24" relname="elaboration"/>
+		<group id="142" type="multinuc" parent="140" relname="joint"/>
+		<group id="143" type="span" relname="antithesis"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" relname="antithesis"/>
+		<group id="147" type="span" relname="antithesis"/>
+		<group id="148" type="span" parent="157" relname="same-unit"/>
+		<group id="149" type="multinuc" parent="134" relname="joint"/>
+		<group id="150" type="span" parent="151" relname="contrast"/>
+		<group id="151" type="multinuc" relname="antithesis"/>
+		<group id="152" type="span" relname="antithesis"/>
+		<group id="153" type="span" parent="41" relname="elaboration"/>
+		<group id="154" type="span" relname="antithesis"/>
+		<group id="155" type="span" relname="antithesis"/>
+		<group id="156" type="span" parent="56" relname="elaboration"/>
+		<group id="157" type="multinuc" parent="180" relname="span"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" relname="antithesis"/>
+		<group id="160" type="span" relname="antithesis"/>
+		<group id="161" type="span" relname="antithesis"/>
+		<group id="162" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="163" type="span" parent="108" relname="cause"/>
+		<group id="164" type="span" relname="antithesis"/>
+		<group id="165" type="multinuc" parent="171" relname="span"/>
+		<group id="166" type="span" parent="165" relname="contrast"/>
+		<group id="167" type="span" parent="169" relname="span"/>
+		<group id="168" type="span" parent="105" relname="elaboration"/>
+		<group id="169" type="span" relname="antithesis"/>
+		<group id="170" type="span" parent="190" relname="joint"/>
+		<group id="171" type="span" relname="antithesis"/>
+		<group id="172" type="span" parent="186" relname="span"/>
+		<group id="173" type="span" parent="174" relname="elaboration"/>
+		<group id="174" type="span" parent="194" relname="span"/>
+		<group id="176" type="span" relname="antithesis"/>
+		<group id="177" type="span" relname="antithesis"/>
+		<group id="178" type="span" parent="184" relname="span"/>
+		<group id="179" type="span" relname="antithesis"/>
+		<group id="180" type="span" relname="antithesis"/>
+		<group id="181" type="span" parent="182" relname="joint"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="183" type="span" parent="178" relname="elaboration"/>
+		<group id="184" type="span" relname="antithesis"/>
+		<group id="185" type="span" relname="antithesis"/>
+		<group id="186" type="span" parent="187" relname="joint"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="joint"/>
+		<group id="190" type="multinuc" parent="191" relname="span"/>
+		<group id="191" type="span" parent="91" relname="elaboration"/>
+		<group id="192" type="span" relname="antithesis"/>
+		<group id="193" type="span" relname="antithesis"/>
+		<group id="194" type="span" relname="antithesis"/>
+		<group id="195" type="span" relname="antithesis"/>
+		<group id="196" type="span" parent="55" relname="elaboration"/>
+  </body>
+</rst>

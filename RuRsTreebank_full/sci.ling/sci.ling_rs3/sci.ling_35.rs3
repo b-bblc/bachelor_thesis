@@ -1,0 +1,299 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Адрес статьи: от^.агато1а.пе1/та1епа18/2/2015/7-1/17.11^1</segment>
+		<segment id="2" relname="antithesis">Источник</segment>
+		<segment id="3" relname="antithesis">Филологические науки. Вопросы теории и практики</segment>
+		<segment id="4" relname="antithesis">Тамбов: Грамота, 2015. № 7 (49): в 2-х ч. Ч. I. C. 73-75. ISSN 1997-2911.</segment>
+		<segment id="5" relname="antithesis">Адрес журнала: www.gramota.net/editions/2.html</segment>
+		<segment id="6" relname="antithesis">Содержание данного номера журнала: www .gramota.net/mate rials/2/2015/7-1/</segment>
+		<segment id="7" relname="antithesis">© Издательство "Грамота"</segment>
+		<segment id="8" relname="antithesis">УДК 811.11</segment>
+		<segment id="9" relname="antithesis">Филологические науки</segment>
+		<segment id="10" relname="antithesis">Данная статья затрагивает вопрос изучения специфики деятельности профессиональной группы людей, а именно работы английских спортивных комментаторов.</segment>
+		<segment id="11" relname="antithesis">Как и любой другой специальный язык, язык спортивных комментаторов содержит специфический пласт языковых единиц,</segment>
+		<segment id="12" relname="antithesis">которые идентифицируют его как специальный подъязык.</segment>
+		<segment id="13" relname="antithesis">В данной статье мы предприняли попытку привести примеры английских футбольных терминов,</segment>
+		<segment id="14" relname="antithesis">чтобы проанализировать их с точки зрения семантики, стилистики и прагматики,</segment>
+		<segment id="15" relname="antithesis">а также проследить за особенностями их употребления в речи спортивных комментаторов.</segment>
+		<segment id="16" relname="antithesis">Кроме этого, вокабуляр спортивного комментария содержит в себе два пласта лексических единиц: термины и профессионализмы,</segment>
+		<segment id="17" relname="antithesis">которые различаются по содержащемуся в них аксиологическому компоненту.</segment>
+		<segment id="18" relname="antithesis">Ключевые слова и фразы: термин; терминосфера; терминология; профессионализм; жаргонизмы; номинация.</segment>
+		<segment id="19" relname="antithesis">Занозина Влада Вадимовна</segment>
+		<segment id="20" relname="antithesis">Московская гуманитарно-техническая академия Daffodil22@yandex. т</segment>
+		<segment id="21" relname="antithesis">К ВОПРОСУ О ТЕРМИНАХ ПОДЪЯЗЫКА ФУТБОЛЬНЫХ КОММЕНТАРИЕВ©</segment>
+		<segment id="22" parent="153" relname="preparation">Общая терминология как специальная область знания возникла вскоре после первой мировой войны.</segment>
+		<segment id="23" parent="150" relname="span">Ее развитию во многом способствовала начавшаяся еще до войны стандартизация.</segment>
+		<segment id="24" parent="149" relname="span">В сфере спорта общая тема стандартизации началась с «олимпизации» общества,</segment>
+		<segment id="25" parent="148" relname="span">которая проводилась П. де Кубертеном</segment>
+		<segment id="26" parent="25" relname="purpose">с целью сделать спортивные игры общественным явлением.</segment>
+		<segment id="27" parent="28" relname="cause">В дальнейшем эти действия привели к тому,</segment>
+		<segment id="28" parent="147" relname="span">что спорт стал не просто частью общественной жизни, а еще и политическим орудием и инструментом глобализации.</segment>
+		<segment id="29" parent="30" relname="purpose">Для того чтобы обеспечивать взаимопонимание в спорте</segment>
+		<segment id="30" parent="146" relname="span">необходимо было заниматься разработкой общей спортивной терминологии и систематизацией спортивных правил.</segment>
+		<segment id="31" parent="155" relname="span">Футбольный комментарий является разновидностью устного публицистического речевого жанра,</segment>
+		<segment id="32" parent="31" relname="elaboration">в котором используются гетерогенные элементы: как стилистически окрашенные (профессионализмы и жаргонизмы), так и специальные термины.</segment>
+		<segment id="33" parent="156" relname="span">В данной статье мы обратим внимание на использование специальных терминов в речи спортивного комментатора.</segment>
+		<segment id="34" parent="262" relname="span">Термин может выступать в качестве номенклатурного обозначения слова, фразеологизма, профессионального просторечия и собственно термина, существующего в узкой области специальной деятельности человека.</segment>
+		<segment id="35" parent="163" relname="span">Лингвисты, занимающиеся теоретической разработкой проблем терминологии, дают различные определения термина.</segment>
+		<segment id="36" parent="35" relname="evidence">Так, Т. Л. Канделаки под термином понимает «слово или лексикализированное словосочетание, требующее для установления своего значения в соответствующей системе понятий построения дефиниции» [2, с. 25].</segment>
+		<segment id="37" parent="160" relname="span">Дефиниция необходима</segment>
+		<segment id="38" parent="37" relname="purpose">для описания отличительных свойств и характеристик денотата.</segment>
+		<segment id="39" parent="159" relname="span">Термин нельзя рассматривать изолированно,</segment>
+		<segment id="40" parent="158" relname="span">он всегда часть семантического целого,</segment>
+		<segment id="41" parent="157" relname="span">которым может быть наука, практическая деятельность, техника</segment>
+		<segment id="42" parent="41" relname="elaboration">- всегда специальная область [Там же].</segment>
+		<segment id="43" parent="168" relname="span">Определение С. В. Гринева является примером лаконичной и емкой характеристики термина,</segment>
+		<segment id="44" parent="167" relname="span">для него «термин - это номинативная специальная лексическая единица специального языка,</segment>
+		<segment id="45" parent="44" relname="purpose">применяемая для точного наименования специальных понятий» [1, с. 33].</segment>
+		<segment id="46" parent="171" relname="attribution">В. М. Лейчик давал следующее определение термину:</segment>
+		<segment id="47" parent="169" relname="span">«Термин -лексическая единица определенного языка</segment>
+		<segment id="48" parent="47" relname="purpose">для специальных целей,</segment>
+		<segment id="49" parent="170" relname="same-unit">обозначающая общее - конкретное или абстрактное - понятие теории определенной специальной области знаний или деятельности» [2, с. 32].</segment>
+		<segment id="50" parent="264" relname="cause">Из этих определений следует,</segment>
+		<segment id="51" parent="263" relname="joint">что термин с разных сторон ограничен специальностью своего назначения,</segment>
+		<segment id="52" parent="175" relname="joint">кроме этого, он должен быть краток</segment>
+		<segment id="53" parent="175" relname="joint">и точен.</segment>
+		<segment id="54" parent="177" relname="span">Границы термина устанавливаются с помощью дефиниции,</segment>
+		<segment id="55" parent="54" relname="elaboration">которая одновременно служит значением данной единицы, давая наглядно-обозреваемый образ, необходимый для понимания и дальнейшего оперирования термином.</segment>
+		<segment id="56" parent="178" relname="span">Специальной областью употребления термина может выступать любой специальный язык,</segment>
+		<segment id="57" parent="56" relname="elaboration">в котором термины будут являться «овеществлением» абстракции объекта специальной сферы в виде лексической единицы.</segment>
+		<segment id="58" parent="179" relname="span">Истоки специальной номинации уходят в глубь веков,</segment>
+		<segment id="59" parent="180" relname="joint">поскольку организованная трудовая деятельность сделала человека человеком,</segment>
+		<segment id="60" parent="180" relname="joint">и даже самая примитивная деятельность требует известного разделения труда.</segment>
+		<segment id="61" parent="182" relname="span">В ходе развития литературного языка как феномена в целом происходит постоянное пополнение его словарного состава новыми терминами,</segment>
+		<segment id="62" parent="61" relname="elaboration">которые появляются путем заимствования терминов или их элементов,</segment>
+		<segment id="63" parent="183" relname="span">что является основой конструирования понятий.</segment>
+		<segment id="64" parent="186" relname="span">Создание терминов является искусственной деятельностью:</segment>
+		<segment id="65" parent="184" relname="joint">человек сам создает</segment>
+		<segment id="66" parent="184" relname="joint">и провоцирует появление терминов.</segment>
+		<segment id="67" parent="195" relname="span">В нашей работе мы опираемся на английские футбольные комментарии и на английские футбольные термины соответственно.</segment>
+		<segment id="68" parent="193" relname="span">Методом прямой выборки нами было выделено около 300 футбольных терминов из нескольких англо-английских и англо- русских словарей,</segment>
+		<segment id="69" parent="68" relname="elaboration">которые повсеместно и постоянно используются в английских спортивных комментариях.</segment>
+		<segment id="70" parent="266" relname="span">Приведем следующие примеры использования спортивных терминов в речи спортивных комментаторов на матчах английской Премьер-Лиги:</segment>
+		<segment id="71" parent="196" relname="joint">«Lallana is taken down by Fellaini. That's a yellow card. He had no other choice» I Феллайни сбивает Лалла-ну. Это желтая карточка. У него не было другого выбора (здесь и далее перевод автора - В. З.).</segment>
+		<segment id="72" parent="196" relname="joint">«Gerrard on the free kick. Johnson tries to take him over» I Джеррард выполняет штрафной удар. Джонсон пытается принять у него мяч.</segment>
+		<segment id="73" parent="196" relname="joint">«This is unreal. 3 goals up in 20 minutes. This is an absolute disaster for a young goalkeeper» I Это невероятно. Три гола за двадцать минут. Это просто катастрофа для молодого вратаря.</segment>
+		<segment id="74" parent="196" relname="joint">«That's his thing as a central defender. One shouldn't be so surprised with that» I Это отличительная черта этого центрального защитника. Никто не должен удивляться.</segment>
+		<segment id="75" parent="196" relname="joint">«It's a goal for Manchester United» I Это гол Манчестера (Manchester United VSLiverpool Premier League 2014) [5].</segment>
+		<segment id="76" parent="198" relname="span">Yellow card I желтая карточка, goal I гол, goalkeeper I вратарь, on the free kick I выполнять штрафной, a central defender I центральный защитник - это легко узнаваемые номинации,</segment>
+		<segment id="77" parent="76" relname="elaboration">которые представляют собой термины, используемые комментаторами во время футбольных матчей.</segment>
+		<segment id="78" parent="201" relname="preparation">Термины, как и любую другую лексическую единицу, можно рассматривать в трех аспектах: семантическом, грамматическом и прагматическом.</segment>
+		<segment id="79" parent="209" relname="span">Содержание термина имеет свою специфику:</segment>
+		<segment id="80" parent="199" relname="restatement">термин должен быть однозначным,</segment>
+		<segment id="81" parent="199" relname="restatement">т.е. иметь в данном специальном языке одно единственное значение во избежание многозначности толкования.</segment>
+		<segment id="82" parent="83" relname="attribution">По мнению Д. С. Лотте,</segment>
+		<segment id="83" parent="202" relname="span">термин должен соответствовать обозначаемому им понятию,</segment>
+		<segment id="84" parent="202" relname="concession">хотя соответствие может быть полным, неполным или частично полным [3].</segment>
+		<segment id="85" parent="204" relname="span">Так, например, слова: referee I судья или basket I корзина являются полностью соотнесенными терминами,</segment>
+		<segment id="86" parent="85" relname="cause">так как они дают единственное возможное значение в специальном языке спортивного комментария,</segment>
+		<segment id="87" parent="205" relname="comparison">в то время как flank I фланг на поле, draw I сыграть вничью или steal I перехват, являясь полисемантичными словами, предоставляют возможность выбора [4].</segment>
+		<segment id="88" parent="217" relname="span">В. М. Лейчик предлагает распределение терминов в соответствии с их сигнификативным значением и со степенью полноты обозначения специального понятия.</segment>
+		<segment id="89" parent="215" relname="attribution">Согласно его теории,</segment>
+		<segment id="90" parent="210" relname="span">термины делятся на базовые (или основные),</segment>
+		<segment id="91" parent="90" relname="elaboration">которые выражают основные понятия данной отрасли,</segment>
+		<segment id="92" parent="267" relname="restatement">производные (или сложные),</segment>
+		<segment id="93" parent="267" relname="restatement">т.е. термины, выраженные словосочетанием,</segment>
+		<segment id="94" parent="272" relname="restatement">и привлеченные термины,</segment>
+		<segment id="95" parent="269" relname="span">т.е. те,</segment>
+		<segment id="96" parent="270" relname="contrast">которые были заимствованы из другой отрасли,</segment>
+		<segment id="97" parent="270" relname="contrast">но необходимы для построения терминов данной сферы [2].</segment>
+		<segment id="98" parent="221" relname="contrast">Подобная градация терминов, привлеченных из разных отраслей, отражает все разнообразие терминов, используемых в речи спортивных комментаторов,</segment>
+		<segment id="99" parent="219" relname="same-unit">но следует отметить, что так называемые привлеченные термины,</segment>
+		<segment id="100" parent="101" relname="concession">хотя и используются в спортивном дискурсе,</segment>
+		<segment id="101" parent="218" relname="span">не относятся к спортивной терминологической системе английского языка.</segment>
+		<segment id="102" parent="223" relname="span">Базовые термины, как простые, так и сложные (производные), выраженные словосочетанием, используются в спортивном дискурсе в большом количестве.</segment>
+		<segment id="103" parent="102" relname="elaboration">Например: away goal I мяч, забитый в гостях; bring down I фолить, сбивать соперника с ног; bicycle kick I бисиклета, велосипед (удар через себя с переменой ног); control the ball (keep possession) I прием мяча, обработка мяча; free kick I свободный, штрафной удар; group of death I группа смерти (турнирная группа из приблизительно равных по силе команд); half-volley I удар с отскока; hospital pass I пас в больницу (передача, приводящая в травме принимающего в результате атаки соперника); man-to-man marking I персональная опека (тактика, при которой на одного нападающего приходится один защитник); one-touch football I пас в одно касание; punch away I вынос мяча вратарем (рукой); scissors kick I удар «ножницы»; slide tackling (также sliding tackle) I подкат; strong in the air I хорош на втором этаже (об игроке, умело обращающемся с мячом в воздухе); through ball I пас вразрез, разрезающая передача; trap the ball I остановить мяч [4].</segment>
+		<segment id="104" parent="230" relname="preparation">Как любые языковые единицы термины имеют ряд свойственных им признаков.</segment>
+		<segment id="105" parent="226" relname="background">Как известно, в большинстве языков действует принцип экономии языковых средств,</segment>
+		<segment id="106" parent="226" relname="span">термины также стремятся к краткости:</segment>
+		<segment id="107" parent="227" relname="contrast">некоторые из них сокращаются,</segment>
+		<segment id="108" parent="276" relname="joint">некоторые сращиваются</segment>
+		<segment id="109" parent="276" relname="joint">или превращаются в аббревиатуры:</segment>
+		<segment id="110" parent="229" relname="elaboration">Subs-substitutions / замена; keeper-goalkeeper / вратарь; footie-football / футбол; min-minute / минута; FC-football club / футбольный клуб; HC-head coach / главный тренер; FT-full time / матч; HT-half time / тайм.</segment>
+		<segment id="111" parent="112" relname="cause">К другим дифференциальным признакам терминов относится деривационность,</segment>
+		<segment id="112" parent="231" relname="span">что позволяет создавать морфологические и словообразовательные варианты слова.</segment>
+		<segment id="113" parent="232" relname="span">Возьмем в качестве примера глагол «kick» / пинать:</segment>
+		<segment id="114" parent="113" relname="elaboration">«Kicking off the first leg» / вводить мяч в игру; «golden kicks of the game» / золотые удары в матче; «He is a great kicker» / Он отлично ударяет по мячу; «That was a miskick of his» / Он промахнулся [5].</segment>
+		<segment id="115" parent="237" relname="span">Большинство спортивных терминов мотивированы:</segment>
+		<segment id="116" parent="115" relname="evidence">penalty / пенальти, penalty area / штрафная зона, defender / защитник, coach / тренер, bench / скамейка запасных [4].</segment>
+		<segment id="117" parent="238" relname="span">Наименование термина может происходить по сходству с объектом или его признаками и переносу его значения по смыслу.</segment>
+		<segment id="118" parent="117" relname="elaboration">В этом случае термин становится мотивированным на основе метафорического переноса (bicycle kick / удар, когда движение ног похоже на движение на велосипеде, kick on the volley / удар с лета).</segment>
+		<segment id="119" parent="239" relname="joint">Термины могут становиться мотивированными по принципу метонимического переноса.</segment>
+		<segment id="120" parent="244" relname="span">Очень часто термины или профессиональные жаргонизмы появляются в речи в качестве окказионализмов.</segment>
+		<segment id="121" parent="120" relname="evidence">«He is a plus 20, minus 20 player» / Он - игрок на случай плюс 20 минус 20 очков. «To give a lift to the ball» / Подвезти мяч. «He laboured the ball» / Он потрудился с мячом (в англ. яз. слово labour имеет коннотацию тяжелого физического или принудительного труда) [5].</segment>
+		<segment id="122" parent="123" relname="cause">В данном случае использованные необычные окказиональные словосочетания выражают авторскую оценку и оригинальный подход автора,</segment>
+		<segment id="123" parent="243" relname="span">что способствует их закреплению в языке спортивных журналистов.</segment>
+		<segment id="124" parent="125" relname="condition">Если рассматривать термины со стилистической точки зрения,</segment>
+		<segment id="125" parent="246" relname="span">то возникает трудность разграничения терминов и профессионализмов.</segment>
+		<segment id="126" parent="247" relname="span">Основное различие между ними заключается в типе номинации:</segment>
+		<segment id="127" parent="126" relname="elaboration">профессионализмы являются повторным наименованием терминов.</segment>
+		<segment id="128" parent="251" relname="span">Термины и профессионализмы всегда сосуществуют друг с другом,</segment>
+		<segment id="129" parent="249" relname="contrast">при этом термины функционируют в формальной профессиональной речи,</segment>
+		<segment id="130" parent="249" relname="contrast">а профессионализмы - в ее неофициальной или просторечной форме.</segment>
+		<segment id="131" parent="252" relname="span">В профессиональной спортивной сфере деятельности существует богатый слой специальной лексики, представленный терминами и профессионализмами,</segment>
+		<segment id="132" parent="131" relname="elaboration">который обслуживает спортивную деятельность человека в официальной и неофициальной ситуации соответственно.</segment>
+		<segment id="133" parent="253" relname="span">Живая разговорная речь специалистов представляет огромный интерес для изучения,</segment>
+		<segment id="134" parent="256" relname="span">так как она является сферой формирования и появления новых профессиональных жаргонных слов,</segment>
+		<segment id="135" parent="254" relname="joint">которые могут претерпевать изменения</segment>
+		<segment id="136" parent="254" relname="joint">и переходить на другой качественный лексический уровень.</segment>
+		<segment id="137" parent="257" relname="sequence">С другой стороны, термины могут также претерпевать изменения:</segment>
+		<segment id="138" parent="257" relname="sequence">деградировать</segment>
+		<segment id="139" parent="257" relname="sequence">и терять свое положение в системе стилистически дифференцированной лексики.</segment>
+		<segment id="140" relname="antithesis">Список литературы</segment>
+		<segment id="141" relname="antithesis">1\. Гринев С. В. Введение в терминоведение. М.: Изд-во МГУ, 1993. 309 с.</segment>
+		<segment id="142" relname="antithesis">2\. Лейчик В. М. Терминоведение. Предмет, методы, структура. М.: Книжный дом «Либроком», 2009. 256 с.</segment>
+		<segment id="143" relname="antithesis">3\. Лотте Д. С. Вопросы заимствования и упорядочения иноязычных терминов и терминоэлементов. М.: Наука, 1982. 152 с.</segment>
+		<segment id="144" relname="antithesis">4\. Нечаев И. В. Русско-английский спортивный словарь. М., 2006. 196 с.</segment>
+		<segment id="145" relname="antithesis">5\. Liverpool vs Manchester. United 2015 Full Match [Электронный ресурс] // England Commentary (22/03/2015). URL: http://www.youtube.com/watch?v=ZxmkgAcoz-I (дата обращения: 08.04.2015).</segment>
+		<group id="146" type="span" parent="147" relname="elaboration"/>
+		<group id="147" type="span" parent="152" relname="span"/>
+		<group id="148" type="span" parent="24" relname="elaboration"/>
+		<group id="149" type="span" parent="23" relname="elaboration"/>
+		<group id="150" type="span" parent="151" relname="sequence"/>
+		<group id="151" type="multinuc" parent="153" relname="span"/>
+		<group id="152" type="span" parent="151" relname="sequence"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" relname="antithesis"/>
+		<group id="155" type="span" parent="33" relname="preparation"/>
+		<group id="156" type="span" relname="antithesis"/>
+		<group id="157" type="span" parent="40" relname="elaboration"/>
+		<group id="158" type="span" parent="39" relname="cause"/>
+		<group id="159" type="span" parent="164" relname="joint"/>
+		<group id="160" type="span" parent="164" relname="joint"/>
+		<group id="163" type="span" parent="166" relname="span"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="165" type="span" parent="163" relname="elaboration"/>
+		<group id="166" type="span" parent="34" relname="elaboration"/>
+		<group id="167" type="span" parent="43" relname="evidence"/>
+		<group id="168" type="span" parent="173" relname="comparison"/>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="173" relname="comparison"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="174" type="span" relname="antithesis"/>
+		<group id="175" type="multinuc" parent="263" relname="joint"/>
+		<group id="176" type="span" parent="189" relname="span"/>
+		<group id="177" type="span" parent="190" relname="span"/>
+		<group id="178" type="span" parent="177" relname="elaboration"/>
+		<group id="179" type="span" parent="187" relname="sequence"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="181" type="span" parent="58" relname="cause"/>
+		<group id="182" type="span" parent="63" relname="cause"/>
+		<group id="183" type="span" parent="265" relname="span"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="185" type="span" parent="64" relname="elaboration"/>
+		<group id="186" type="span" parent="183" relname="elaboration"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="188" type="span" parent="191" relname="joint"/>
+		<group id="189" type="span" parent="191" relname="joint"/>
+		<group id="190" type="span" parent="176" relname="elaboration"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" relname="antithesis"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="67" relname="elaboration"/>
+		<group id="195" type="span" relname="antithesis"/>
+		<group id="196" type="multinuc" parent="197" relname="span"/>
+		<group id="197" type="span" parent="70" relname="elaboration"/>
+		<group id="198" type="span" relname="antithesis"/>
+		<group id="199" type="multinuc" parent="200" relname="span"/>
+		<group id="200" type="span" parent="79" relname="elaboration"/>
+		<group id="201" type="span" parent="208" relname="span"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="207" relname="span"/>
+		<group id="204" type="span" parent="205" relname="comparison"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="203" relname="evidence"/>
+		<group id="207" type="span" parent="209" relname="elaboration"/>
+		<group id="208" type="span" relname="antithesis"/>
+		<group id="209" type="span" parent="201" relname="span"/>
+		<group id="210" type="span" parent="214" relname="same-unit"/>
+		<group id="213" type="span" parent="214" relname="same-unit"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" parent="88" relname="elaboration"/>
+		<group id="217" type="span" parent="224" relname="span"/>
+		<group id="218" type="span" parent="219" relname="same-unit"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="221" relname="contrast"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="222" type="span" parent="273" relname="joint"/>
+		<group id="223" type="span" parent="273" relname="joint"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" relname="antithesis"/>
+		<group id="226" type="span" parent="229" relname="span"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="106" relname="elaboration"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="242" relname="span"/>
+		<group id="231" type="span" parent="233" relname="span"/>
+		<group id="232" type="span" parent="231" relname="elaboration"/>
+		<group id="233" type="span" relname="antithesis"/>
+		<group id="237" type="span" parent="241" relname="span"/>
+		<group id="238" type="span" parent="239" relname="joint"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="237" relname="elaboration"/>
+		<group id="241" type="span" relname="antithesis"/>
+		<group id="242" type="span" relname="antithesis"/>
+		<group id="243" type="span" parent="244" relname="elaboration"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" parent="239" relname="joint"/>
+		<group id="246" type="span" parent="248" relname="span"/>
+		<group id="247" type="span" parent="246" relname="elaboration"/>
+		<group id="248" type="span" relname="antithesis"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="128" relname="elaboration"/>
+		<group id="251" type="span" relname="antithesis"/>
+		<group id="252" type="span" parent="253" relname="preparation"/>
+		<group id="253" type="span" parent="261" relname="span"/>
+		<group id="254" type="multinuc" parent="259" relname="span"/>
+		<group id="255" type="span" parent="134" relname="elaboration"/>
+		<group id="256" type="span" parent="133" relname="cause"/>
+		<group id="257" type="multinuc" parent="258" relname="span"/>
+		<group id="258" type="span" parent="260" relname="contrast"/>
+		<group id="259" type="span" parent="260" relname="contrast"/>
+		<group id="260" type="multinuc" parent="255" relname="span"/>
+		<group id="261" type="span" relname="antithesis"/>
+		<group id="262" type="span" relname="antithesis"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="176" relname="span"/>
+		<group id="265" type="span" parent="187" relname="sequence"/>
+		<group id="266" type="span" parent="193" relname="elaboration"/>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="214" relname="same-unit"/>
+		<group id="269" type="span" parent="272" relname="restatement"/>
+		<group id="270" type="multinuc" parent="95" relname="elaboration"/>
+		<group id="271" type="span" parent="213" relname="span"/>
+		<group id="272" type="multinuc" parent="271" relname="span"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="217" relname="elaboration"/>
+		<group id="276" type="multinuc" parent="277" relname="span"/>
+		<group id="277" type="span" parent="227" relname="contrast"/>
+  </body>
+</rst>

@@ -1,0 +1,319 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">Ларина Татьяна Юрьевна</segment>
+		<segment id="2" parent="163" relname="span">КОГНИТИВНЫЕ ОСОБЕННОСТИ ОНИМИЧЕСКИХ ПРЕЦЕДЕНТНЫХ ФЕНОМЕНОВ В ХУДОЖЕСТВЕННОМ ТЕКСТЕ</segment>
+		<segment id="3" relname="antithesis">Адрес статьи: www.gramota.net/materials/1/2015/5/31.html Статья опубликована в авторской редакции и отражает точку зрения автора(ов) по рассматриваемому вопросу. Источник Альманах современной науки и образования Тамбов: Грамота, 2015. № 5 (95). C. 112-115. ISSN 1993-5552. Филологические науки</segment>
+		<segment id="4" relname="antithesis">В статье рассматривается вопрос о природе и когнитивной структуре прецедентных феноменов в художественном тексте, о способности онимов являться прецедентными феноменами и мотивировать формирование прецедентности, о роли прецедентных феноменов в создании интертекстуальности. Дается определение прецедентного художественного текста, приводятся его функции, исследуются процессы номинации с участием онимов. Ключевые слова и фразы: художественный текст; прецедентный феномен; прецедентный оним; интертекстуальность; прецедентная мотивация; текстообразование.</segment>
+		<segment id="5" parent="6" relname="attribution">Ларина Татьяна Юрьевна Южный федеральный университет, г. Ростов-на-Дону tatianalarina2008@yandex.ru</segment>
+		<segment id="6" parent="168" relname="span">КОГНИТИВНЫЕ ОСОБЕННОСТИ ОНИМИЧЕСКИХ ПРЕЦЕДЕНТНЫХ ФЕНОМЕНОВ В ХУДОЖЕСТВЕННОМ ТЕКСТЕ©</segment>
+		<segment id="7" parent="169" relname="span">Одним из актуальных теоретических вопросов современной когнитивистики и лингвокультурологии является обоснование статуса и выяснения функциональной природы так называемых прецедентных феноменов - составляющих концептуальной системы,</segment>
+		<segment id="8" parent="7" relname="elaboration">которые по своей форме и содержанию хорошо знакомы носителям картины мира определенного языкового коллектива.</segment>
+		<segment id="9" parent="170" relname="same-unit">Такая дефиниция основывается на разработке</segment>
+		<segment id="10" relname="antithesis">© Ларина Т. Ю., 2015</segment>
+		<segment id="11" parent="170" relname="same-unit">понятия прецедентных феноменов российскими исследователями Ю. Карауловым [4], Д. Гудковым [2], И. Захаренко [3], В. Красных [5] и др.</segment>
+		<segment id="12" parent="173" relname="span">Прецедентные феномены относятся к культурно-языковой компетенции,</segment>
+		<segment id="13" parent="283" relname="same-unit">составляющие которой формируют лингвокультурологическое поле, межуровневой единицей которого,</segment>
+		<segment id="14" parent="172" relname="restatement">то есть минимальным культурно-знаковым носителем,</segment>
+		<segment id="15" parent="172" relname="restatement">исследователи считают лингвокультурему [1, с. 34-35].</segment>
+		<segment id="16" parent="285" relname="span">Лингвокультурема сочетает форму, языковое значение и культурный смысл.</segment>
+		<segment id="17" parent="273" relname="span">Она не является единицей языковой системы,</segment>
+		<segment id="18" parent="17" relname="concession">а лишь базовым термином лингвокультурологии</segment>
+		<segment id="19" parent="273" relname="purpose">и служит для обозначения единицы вербализации культурного содержания.</segment>
+		<segment id="20" parent="176" relname="joint">План выражения лингвокультуремы может соответствовать лексеме, словосочетанию, тексту.</segment>
+		<segment id="21" parent="176" relname="joint">Планом ее содержания является культурная информация - совокупность культурно маркированных знаний и представлений носителей определенной лингвокультуры.</segment>
+		<segment id="22" parent="177" relname="span">Одним из типов лингвокультурем выступают прецедентные феномены,</segment>
+		<segment id="23" parent="22" relname="attribution">которые в классификации В. Красных</segment>
+		<segment id="24" parent="178" relname="same-unit">квалифицируются как национально- прецедентные в ряду с социумно-прецедентными и универсально-прецедентными [5, с. 50-51].</segment>
+		<segment id="25" parent="26" relname="attribution">Д. Гудков в рамках гипотезы о существовании когнитивной базы лингвокультурного сообщества рассматривает</segment>
+		<segment id="26" parent="179" relname="span">их как феномены национального уровня прецедентности [2, с. 34-37].</segment>
+		<segment id="27" parent="28" relname="concession">Несмотря на имеющиеся в современной лингвистике классификации прецедентных феноменов,</segment>
+		<segment id="28" parent="289" relname="span">рассмотрение их природы довольно противоречиво.</segment>
+		<segment id="29" parent="332" relname="attribution">По классификации В. В. Красных,</segment>
+		<segment id="30" parent="181" relname="same-unit">типами прецедентных феноменов являются имя (индивидуальное имя известного человека, персонажа произведения, артефакта, то есть то, что «связано с широко известным текстом или с прецедентной ситуацией»); ситуация (значимое событие, которое реально происходило в жизни этноса и цивилизации, «ее знаком может быть прецедентное имя, или прецедентное высказывание или непрецедентный феномен»); текст (известное произведение, актуализированное в других текстах, возвращение к которому управляется механизмами интертекстуальности)</segment>
+		<segment id="31" parent="187" relname="span">и выражения</segment>
+		<segment id="32" parent="301" relname="same-unit">- «репродуцированный продукт речемыслительной деятельности;</segment>
+		<segment id="33" parent="300" relname="span">завершенная и самодостаточная единица,</segment>
+		<segment id="34" parent="299" relname="joint">которая может быть</segment>
+		<segment id="35" parent="299" relname="joint">или не быть предикативной;</segment>
+		<segment id="36" parent="302" relname="span">сложный знак, сумма значений которого не равна его смыслу: последний всегда "шире" простой суммы значений;</segment>
+		<segment id="37" parent="305" relname="joint">в когнитивную базу которого входит именно прецедентное высказывание;</segment>
+		<segment id="38" parent="305" relname="joint">он неоднократно воспроизводится в речи носителей» [5, с. 47-48].</segment>
+		<segment id="39" parent="190" relname="span">Нам представляется, что данная классификация построена не по одному параметру,</segment>
+		<segment id="40" parent="192" relname="span">о чем свидетельствуют, в частности, наблюдения знаковой репрезентации прецедентной ситуации онимом, выражением или непрецедентным феноменом</segment>
+		<segment id="41" parent="191" relname="span">(феноменальность последнего вообще невозможна,</segment>
+		<segment id="42" parent="41" relname="cause">поскольку непрецедент-ность оказывается в совокупности обозначений прецедентной ситуации).</segment>
+		<segment id="43" parent="280" relname="span">Итак, на репрезентативном уровне прецедентность всегда представлена ситуацией или совокупностью ситуаций.</segment>
+		<segment id="44" parent="196" relname="span">Тип такой ситуации имеет разную природу:</segment>
+		<segment id="45" parent="46" relname="condition">если событие происходило в действительности,</segment>
+		<segment id="46" parent="193" relname="span">она является реальной прецедентной ситуацией;</segment>
+		<segment id="47" parent="48" relname="condition">если событие является вымышленным,</segment>
+		<segment id="48" parent="194" relname="span">ее нужно квалифицировать как смоделированную коллективным или индивидуальным сознанием.</segment>
+		<segment id="49" parent="293" relname="elaboration">В зависимости от рациональности/иррациональности последней, прецедентная ситуация может быть рациональной или мифологизированной.</segment>
+		<segment id="50" parent="201" relname="comparison">Когнитивный аспект прецедентности - типовая концептуальная структура ментальной репрезентации;</segment>
+		<segment id="51" parent="201" relname="comparison">вербальный ее аспект - слово, часто - оним, словосочетание, предикативное выражение, текстовый фрагмент и целостный текст.</segment>
+		<segment id="52" parent="199" relname="attribution">В. В. Красных справедливо замечает,</segment>
+		<segment id="53" parent="198" relname="joint">что прецедентный текст и ситуация «хранятся в когнитивной базе в виде инвариантов восприятия</segment>
+		<segment id="54" parent="198" relname="joint">и могут быть при необходимости вербализованы».</segment>
+		<segment id="55" parent="56" relname="attribution">С ее точки зрения,</segment>
+		<segment id="56" parent="275" relname="span">именно поэтому текст и ситуация относятся к числу вербализованных прецедентных феноменов [Там же, с. 49].</segment>
+		<segment id="57" parent="335" relname="preparation">Однако возникает вопрос, может ли существовать прецедентный феномен вне вербальных форм?</segment>
+		<segment id="58" parent="202" relname="span">Если так, то,</segment>
+		<segment id="59" parent="58" relname="attribution">как об этом свидетельствует В. В. Красных [Там же, с. 46],</segment>
+		<segment id="60" parent="334" relname="span">к таким явлениям следует отнести известные всем рядовым представителям этноса паралингвистические средства коммуникации, в частности, жесты, мимику, телодвижения, которые постоянно воспроизводятся в процессах коммуникации.</segment>
+		<segment id="61" parent="205" relname="joint">К невербальным прецедентным феноменам нужно причислять и все этнокультурно маркированные произведения искусства, народных промыслов и др.</segment>
+		<segment id="62" parent="306" relname="span">Это создает значительные трудности</segment>
+		<segment id="63" parent="62" relname="purpose">для описания и квалификации феномена прецедентности,</segment>
+		<segment id="64" parent="306" relname="condition">особенно в случаях сочетания вербальных и невербальных средств.</segment>
+		<segment id="65" parent="66" relname="attribution">В. В. Красных замечает,</segment>
+		<segment id="66" parent="208" relname="span">что в ряде случаев особую сложность представляет именование прецедентной ситуации [Там же, с. 66].</segment>
+		<segment id="67" parent="209" relname="joint">Иногда прецедентный оним недостаточен в своей вербальной форме для репрезентации прецедентной когнитивной структуры и ситуации,</segment>
+		<segment id="68" parent="209" relname="joint">он требует распространения.</segment>
+		<segment id="69" parent="210" relname="joint">Иногда такие уточнения имеют характер примечаний, комментариев, вставных конструкций.</segment>
+		<segment id="70" parent="211" relname="span">Контекст употребления имени может представлять различные признаки и действия реального лица или вымышленного героя,</segment>
+		<segment id="71" parent="212" relname="span">что является свидетельством опоры имени на концептуальную структуру,</segment>
+		<segment id="72" parent="71" relname="elaboration">которая отсылает к совокупности реальных или смоделированных ситуаций.</segment>
+		<segment id="73" parent="74" relname="attribution">Ю. Н. Караулов впервые рассмотрел</segment>
+		<segment id="74" parent="218" relname="span">именно этот тип феноменов, когда имел в виду «хорошо известный личности и лингвокультурному сообществу текст, обращение к которому неоднократно происходит в дискурсе определенной языковой личности» [4, с. 67],</segment>
+		<segment id="75" parent="217" relname="restatement">то есть для исследователя прецедентными могут являться имена собственные, названия произведений, их авторы и цитаты из них.</segment>
+		<segment id="76" parent="337" relname="span">Название же «прецедентный текст» может иметь двойной смысл</segment>
+		<segment id="77" parent="76" relname="cause">ввиду рассмотрения текста как знакового культурного продукта и как средства языковой фиксации прецедентных феноменов.</segment>
+		<segment id="78" parent="219" relname="same-unit">В первом смысле текст представляется в виде текстового концепта - свернутого, редуцированного содержания,</segment>
+		<segment id="79" parent="80" relname="attribution">которое В. Красных называет</segment>
+		<segment id="80" parent="221" relname="span">инвариантом восприятия.</segment>
+		<segment id="81" parent="222" relname="joint">Апелляция к такому тексту осуществляется путем связанных с ним прецедентных высказываний или имен, которые становятся символами целого текста [5, с. 68-69, 132].</segment>
+		<segment id="82" parent="222" relname="joint">Прецедентный текст в этом смысле создает «прецедентное поле», элементы которого используются во вторичном (порождаемом) тексте как «средства когнитивно-эмотивной и аксиологической фокусировки смысловой массы» первичного (прецедентного) текста [8, с. 104].</segment>
+		<segment id="83" parent="84" relname="background">Прецедентные феномены широко используются в процессах номинации.</segment>
+		<segment id="84" parent="315" relname="span">Применение прецедентного имени как мотиватора является признаком особого типа мотивации, называемого прецедентным.</segment>
+		<segment id="85" parent="309" relname="span">Активация таких связей</segment>
+		<segment id="86" parent="308" relname="joint">обусловлена либо осознанием относительно объективных признаков обозначаемого,</segment>
+		<segment id="87" parent="308" relname="joint">либо их ассоциативно-образным, оценочным, парадоксальным восприятием номинантами [6, с. 153-180].</segment>
+		<segment id="88" parent="278" relname="span">Типология мотивационных отношений строится по принципу матрицы, содержащей три параметра.</segment>
+		<segment id="89" parent="276" relname="preparation">В зависимости от первого параметра - статуса проекции - выделены следующие типы мотивации:</segment>
+		<segment id="90" parent="226" relname="span">1) пропозициональная,</segment>
+		<segment id="91" parent="90" relname="elaboration">когда применяются знаки-мотиваторы в прямых значениях, фиксирующие в ономасиологической структуре относительно истинную и непротиворечивую информацию о денотате;</segment>
+		<segment id="92" parent="227" relname="span">2) ассоциативная,</segment>
+		<segment id="93" parent="92" relname="elaboration">которая характеризуется выбором мотиваторов метафорического статуса на основании связей по аналогии с другими концептуальными сферами знания;</segment>
+		<segment id="94" parent="228" relname="span">3) модусная,</segment>
+		<segment id="95" parent="94" relname="elaboration">основанная на оценке носителями языка мотиватора в корреляции с психическими функциями ощущений, чувств, архетипами бессознательного;</segment>
+		<segment id="96" parent="229" relname="span">4) смешанная,</segment>
+		<segment id="97" parent="96" relname="elaboration">которая совмещает мотиваторы, обозначающие различные по статусу фрагменты структуры знаний о денотате;</segment>
+		<segment id="98" parent="230" relname="span">5) концептуально-интеграционная,</segment>
+		<segment id="99" parent="98" relname="elaboration">когда формируются новый знак и его концепт на основании сочетания двух концептов и их знаков.</segment>
+		<segment id="100" parent="224" relname="contrast">Мотивации противопоставлена псевдомотивация, характеризующаяся чисто формальным выбором мотиваторов, семантически и когнитивно не обеспеченных.</segment>
+		<segment id="101" parent="233" relname="span">По второму параметру - рациональности и иррациональности знаний о денотате, -</segment>
+		<segment id="102" parent="101" relname="elaboration">знаки которых выбраны мотиваторами, выделяют рациональную и мифологемную мотивацию.</segment>
+		<segment id="103" parent="279" relname="span">Мифологемная мотивация характеризуется выбором мотиваторов с некритически воспринятым содержанием, более сильным для этноса и отдельного человека, чем рациональное,</segment>
+		<segment id="104" parent="103" relname="cause">так как он основывается на силе, которая способна сопротивляться любым фактам, - вере.</segment>
+		<segment id="105" parent="248" relname="joint">Признаками иррационального считаются прежде всего «аксиоматичность и неверифицированость, упрощенное видение реальности, упрощенно-каузальное толкование событий» [9, с. 135-136], мощная транслятор-ная способность, относительная информационная стабильность, поверхностное строение по принципу «антецедент - консеквент» (если... то) при отсутствии смысловой глубины и логики; способность к разрушению и устранению из сознания путем бездоказательного возражения по принципу «это чушь, абсурд, нелепость».</segment>
+		<segment id="106" parent="236" relname="joint">Прецедентная мотивация выделяется как третий параметр классификации - по культурной значимости мотиватора для определенной этнической общности -</segment>
+		<segment id="107" parent="236" relname="joint">и противопоставлена непрецедентным феноменам.</segment>
+		<segment id="108" parent="311" relname="span">Прецедентная мотивация наблюдается при создании онимов:</segment>
+		<segment id="109" parent="310" relname="joint">\- названий городов, поселков (Черноморск, Васюки и Нью-Васюки, Пищеслав, Старгород);</segment>
+		<segment id="110" parent="310" relname="joint">\- названий линейных объектов в городах (бульвар Молодых дарований, улица им. тов. Губернского, улица Ленских событий, Малая Арнаутская улица и т.п.);</segment>
+		<segment id="111" parent="310" relname="joint">\- прагматонимов - обозначений товара (краска «Титаник», карандаш «Фабер», крем «Анго» против загара и веснушек и т.п.);</segment>
+		<segment id="112" parent="310" relname="joint">\- порейонимов - названий транспортных средств («Антилопа Гну» - название автомобиля; пароходы «Скрябин» и «Антон Рубинштейн», «Лорен- Дитрих» - марка автомобиля и т.п.);</segment>
+		<segment id="113" parent="310" relname="joint">\- эргонимов - наименований фирм, организаций торговли, банков, различных сервисных учреждений, предприятий (КЛООП; «Рога и копыта»; похоронные бюро «Милости просим» и «Нимфа»; «Геркулес» и т.п.);</segment>
+		<segment id="114" parent="310" relname="joint">\- космонимов и астронимов - названий космических пространств и объектов (Циолковский, Леонардо -названия астероидов);</segment>
+		<segment id="115" parent="310" relname="joint">\- гастронимов - названий блюд (пельмени «Краснооктябрьские»; ужин «Холостяцкий»; пиво «Профсоюзное» и т.п.);</segment>
+		<segment id="116" parent="310" relname="joint">\- антропонимов (Выбегалло, Камноедов, Пыхтеев-Какуев, Сатанюк, Ипполит Матвеевич, Остап, пан Козлевич и т.п.);</segment>
+		<segment id="117" parent="310" relname="joint">\- названий сортов растений (Симиренко - сорт яблок, Путь к социализму - гибрид помидора и картошки) и др.</segment>
+		<segment id="118" parent="255" relname="preparation">В процессах номинации эксплицированы разные по информативному статусу прецедентные мотиваторы.</segment>
+		<segment id="119" parent="249" relname="span">Темпоральные мотиваторы обозначают время событий, актуальных в жизни народа</segment>
+		<segment id="120" parent="119" relname="elaboration">(например, Первое мая или Октябрь как олицетворение Октябрьской революции 1917 г.).</segment>
+		<segment id="121" parent="323" relname="span">Довольно распространенными и регулярными являются персональные мотиваторы, в состав которых входят:</segment>
+		<segment id="122" parent="324" relname="joint">1) апеллятивные названия лиц (Киса, казак, партизан);</segment>
+		<segment id="123" parent="324" relname="joint">2) обозначения реальных выдающихся личностей по имени, чаще всего по фамилии или по имени, иногда по имени и фамилии - писателей, музыкантов, политиков, ученых, военных, народных героев и т.д. (Склифосовский, Немирович-Данченко, Иисус Христос, Сенека, старина Ласкер и т.п.);</segment>
+		<segment id="124" parent="324" relname="joint">3) имена вымышленных лиц, чаще персонажей устного народного творчества или художественных произведений (Остап Бендер, Киса Воробьянинов, Камноедов, профессор Выбегалло, голубой воришка Альхен и т.п.);</segment>
+		<segment id="125" parent="324" relname="joint">4) наименования антропоморфных мифологических существ язычества (Один, Саваоф, Ваал, Перун);</segment>
+		<segment id="126" parent="324" relname="joint">5) имена христианских святых (святой Павел, святой Петр, Иоанн Креститель);</segment>
+		<segment id="127" parent="324" relname="joint">6) наименования персонажей сказок (Колобок, Мальчик-с-Пальчик, Серый Волк) и др.</segment>
+		<segment id="128" parent="250" relname="joint">Менее регулярными в номинативном процессе являются локативные мотиваторы прецедентного статуса, обозначающие место выдающихся событий в жизни народа (Красная площадь, Монкада и т.п.), предикаты для обозначения самих событий (Октябрь и т.д.).</segment>
+		<segment id="129" parent="250" relname="joint">Культурно-знаковыми являются мотиваторы - обозначения художественных произведений (балет «Лебединое озеро»).</segment>
+		<segment id="130" parent="257" relname="span">В когнитивном аспекте прецедентный мотиватор всегда сопряжен с определенной концептуальной структурой знаний,</segment>
+		<segment id="131" parent="130" relname="elaboration">фрагменты которой пересекаются с составляющими структуры знаний о денотате или избираются произвольно с культурной или рекламной целями.</segment>
+		<segment id="132" parent="258" relname="span">Итак, прецедентная мотивация может квалифицироваться по параметру соответствия мотиватора определенному компоненту структуры знаний о денотате как пропозиции [6]</segment>
+		<segment id="133" parent="132" relname="condition">при условии совпадения информации прецедентного феномена с информацией, которую получает прецедентный мотиватор в новом знаке.</segment>
+		<segment id="134" parent="259" relname="span">В подобных случаях происходит метонимический перенос субъектного компонента на локативную составляющую</segment>
+		<segment id="135" parent="134" relname="elaboration">(ср.: ул. тов. Губернского названа в честь известного в городе функционера).</segment>
+		<segment id="136" parent="263" relname="span">Принадлежность прецедентного мотиватора к ассоциативно-терминальной части структуры знаний о денотате наблюдается редко в реальном дискурсе,</segment>
+		<segment id="137" parent="262" relname="span">но в художественном - очень часто: ср. похоронное бюро «Милости просим», гостиница «Проходная пешка», издательство «Васильевские четверги», меблированные комнаты «Стоимость» и т.п.,</segment>
+		<segment id="138" parent="137" relname="purpose">- в авторской интенции наглядно проявляется стремление подчеркнуть комический эффект названия, связанный с ассоциациями, возникающими из восприятия контекста.</segment>
+		<segment id="139" parent="261" relname="joint">Подводя итоги, нужно отметить, что знаки прецедентных феноменов оказываются довольно активными в номинативных процессах,</segment>
+		<segment id="140" parent="261" relname="joint">выполняют эстетическую, прагматическую функции,</segment>
+		<segment id="141" parent="261" relname="joint">а также служат средством трансляции культуры народа.</segment>
+		<segment id="142" parent="254" relname="joint">Прецедентные феномены создают определенную систему ценностей, регулирующих социальное поведение представителей отдельного национально-лингвокультурного сообщества,</segment>
+		<segment id="143" parent="253" relname="span">имеют выраженный аксиологический характер:</segment>
+		<segment id="144" parent="252" relname="joint">они осуждают</segment>
+		<segment id="145" parent="252" relname="joint">или одобряют определенные стереотипы, сложившиеся в узусе.</segment>
+		<segment id="146" parent="265" relname="purpose">Такая специфическая особенность прецедентных феноменов активно используется в художественном дискурсе,</segment>
+		<segment id="147" parent="264" relname="joint">что позволяет автору воздействовать на читателя,</segment>
+		<segment id="148" parent="264" relname="joint">сформировать необходимое отношение к определенной личности или событию.</segment>
+		<segment id="149" parent="267" relname="attribution">Г. Г. Слышкин рассматривает</segment>
+		<segment id="150" parent="267" relname="span">прецедентные феномены как особую разновидность концептов,</segment>
+		<segment id="151" parent="150" relname="cause">поскольку они составляют единицы, принадлежащие сознанию, детерминируются культурой и воплощаются в языке [7, с. 9].</segment>
+		<segment id="152" parent="269" relname="span">Мы поддерживаем точку зрения о том, что прецедентный текст - это вербальный прецедентный феномен,</segment>
+		<segment id="153" parent="152" relname="elaboration">который сохраняется в когнитивной базе в виде инварианта восприятия.</segment>
+		<segment id="154" parent="270" relname="joint">Апелляция к прецедентному тексту происходит в результате употребления широко известных его фрагментов или имен собственных.</segment>
+		<segment id="155" parent="271" relname="joint">Прежде чем получить статус прецедентного,</segment>
+		<segment id="156" parent="271" relname="joint">текст проходит через определенный алгоритм восприятия,</segment>
+		<segment id="157" parent="271" relname="joint">предполагает разделение характеристик текста на значимые/незначительные и фиксирование первых при игнорировании других [5, с. 68-72].</segment>
+		<segment id="158" parent="298" relname="evaluation">Онимическая насыщенность художественных текстов, с нашей точки зрения, представляет собой богатый материал для изучения прецедентных феноменов и их роли как в текстообразовании, так и в формировании прецедентности самого художественного текста.</segment>
+		<segment id="159" parent="160" relname="preparation">Список литературы</segment>
+		<segment id="160" relname="antithesis">1\. Воробьев В. В. Лингвокультурология. М., 1997. 331 с. 2\. Гудков Д. Б. Межкультурная коммуникация: проблемы обучения. М., 2000. 120 с. 3\. Захаренко И. В. Прецедентные высказывания и их функционирование в тексте // Лингвокогнитивные проблемы межкультурной коммуникации. М., 1997. С. 92-99. 4\. Караулов Ю. М. Русский язык и языковая личность. М., 1987. 264 с. 5\. Красных В. В. Этнопсихолингвистика и лингвокультурология. М., 2002. 284 с. 6\. Селиванова Е. А. Когнитивная ономасиология. К., 2000. 248 с. 7\. Слышкин Г. Г. От текста к символу: лингвокультурные концепты прецедентных текстов в сознании и дискурсе. М., 2000. 128 с. 8\. Сорокин Ю. А., Михалева И. М. Прецедентный текст как способ фиксации языкового сознания // Язык и сознание: парадоксальная рациональность. М., 1993. С. 98-117. 9\. Шейгал Е. И. Семиотика политического дискурса. М., 2004. 328 с.</segment>
+		<segment id="161" parent="251" relname="span">COGNITIVE PECULIARITIES OF ONYMICAL PRECEDENTAL PHENOMENA IN LITERARY TEXT Larina Tat'yana Yur'evna Southern Federal University in Rostov-on-Don tatianalarina2008@yandex. ru The article examines the problem of the nature and cognitive structure of precedental phenomena in literary text, of the ability of onyms to be precedental phenomena and motivate the formation of precedents, of the role of precedental phenomena in the creation of intertextuality. The definition of precedental literary text is given, its functions are enumerated, and the processes of nomination involving onyms are studied. Key words and phrases: literary text; precedental phenomenon; precedental onym; intertextuality; precedental motivation; text formation.</segment>
+		<group id="163" type="span" relname="antithesis"/>
+		<group id="168" type="span" parent="282" relname="preparation"/>
+		<group id="169" type="span" parent="282" relname="span"/>
+		<group id="170" type="multinuc" parent="169" relname="elaboration"/>
+		<group id="172" type="multinuc" parent="283" relname="same-unit"/>
+		<group id="173" type="span" parent="286" relname="span"/>
+		<group id="176" type="multinuc" parent="287" relname="span"/>
+		<group id="177" type="span" parent="178" relname="same-unit"/>
+		<group id="178" type="multinuc" parent="287" relname="elaboration"/>
+		<group id="179" type="span" parent="290" relname="span"/>
+		<group id="181" type="multinuc" parent="332" relname="span"/>
+		<group id="186" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="187" type="span" parent="181" relname="same-unit"/>
+		<group id="188" type="span" parent="333" relname="comparison"/>
+		<group id="190" type="span" parent="43" relname="evidence"/>
+		<group id="191" type="span" parent="40" relname="elaboration"/>
+		<group id="192" type="span" parent="39" relname="evidence"/>
+		<group id="193" type="span" parent="195" relname="joint"/>
+		<group id="194" type="span" parent="195" relname="joint"/>
+		<group id="195" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="196" type="span" parent="293" relname="span"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="326" relname="span"/>
+		<group id="201" type="multinuc" parent="327" relname="preparation"/>
+		<group id="202" type="span" parent="60" relname="condition"/>
+		<group id="205" type="multinuc" parent="335" relname="span"/>
+		<group id="208" type="span" parent="213" relname="joint"/>
+		<group id="209" type="multinuc" parent="210" relname="joint"/>
+		<group id="210" type="multinuc" parent="214" relname="span"/>
+		<group id="211" type="span" parent="210" relname="joint"/>
+		<group id="212" type="span" parent="70" relname="evidence"/>
+		<group id="213" type="multinuc" parent="214" relname="preparation"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" relname="antithesis"/>
+		<group id="217" type="multinuc" parent="296" relname="preparation"/>
+		<group id="218" type="span" parent="217" relname="restatement"/>
+		<group id="219" type="multinuc" parent="222" relname="joint"/>
+		<group id="221" type="span" parent="219" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="337" relname="elaboration"/>
+		<group id="224" type="multinuc" parent="316" relname="span"/>
+		<group id="226" type="span" parent="231" relname="joint"/>
+		<group id="227" type="span" parent="231" relname="joint"/>
+		<group id="228" type="span" parent="231" relname="joint"/>
+		<group id="229" type="span" parent="231" relname="joint"/>
+		<group id="230" type="span" parent="231" relname="joint"/>
+		<group id="231" type="multinuc" parent="276" relname="span"/>
+		<group id="233" type="span" parent="318" relname="preparation"/>
+		<group id="236" type="multinuc" parent="311" relname="preparation"/>
+		<group id="248" type="multinuc" parent="318" relname="span"/>
+		<group id="249" type="span" parent="250" relname="joint"/>
+		<group id="250" type="multinuc" parent="255" relname="span"/>
+		<group id="251" type="span" relname="antithesis"/>
+		<group id="252" type="multinuc" parent="143" relname="elaboration"/>
+		<group id="253" type="span" parent="254" relname="joint"/>
+		<group id="254" type="multinuc" parent="321" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="330" relname="span"/>
+		<group id="257" type="span" parent="256" relname="elaboration"/>
+		<group id="258" type="span" parent="260" relname="joint"/>
+		<group id="259" type="span" parent="260" relname="joint"/>
+		<group id="260" type="multinuc" relname="antithesis"/>
+		<group id="261" type="multinuc" parent="321" relname="preparation"/>
+		<group id="262" type="span" parent="136" relname="concession"/>
+		<group id="263" type="span" relname="antithesis"/>
+		<group id="264" type="multinuc" parent="265" relname="span"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="254" relname="joint"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="297" relname="preparation"/>
+		<group id="269" type="span" parent="270" relname="joint"/>
+		<group id="270" type="multinuc" parent="297" relname="span"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="270" relname="joint"/>
+		<group id="273" type="span" parent="325" relname="span"/>
+		<group id="275" type="span" parent="327" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="224" relname="contrast"/>
+		<group id="278" type="span" parent="89" relname="background"/>
+		<group id="279" type="span" parent="248" relname="joint"/>
+		<group id="280" type="span" parent="295" relname="span"/>
+		<group id="282" type="span" relname="antithesis"/>
+		<group id="283" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="285" type="span" parent="173" relname="elaboration"/>
+		<group id="286" type="span" relname="antithesis"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" relname="antithesis"/>
+		<group id="289" type="span" parent="179" relname="elaboration"/>
+		<group id="290" type="span" parent="188" relname="preparation"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="280" relname="elaboration"/>
+		<group id="295" type="span" relname="antithesis"/>
+		<group id="296" type="span" parent="314" relname="span"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="331" relname="span"/>
+		<group id="299" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="300" type="span" parent="301" relname="same-unit"/>
+		<group id="301" type="multinuc" parent="186" relname="same-unit"/>
+		<group id="302" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="186" relname="same-unit"/>
+		<group id="305" type="multinuc" parent="302" relname="elaboration"/>
+		<group id="306" type="span" parent="329" relname="span"/>
+		<group id="308" type="multinuc" parent="85" relname="condition"/>
+		<group id="309" type="span" parent="88" relname="cause"/>
+		<group id="310" type="multinuc" parent="108" relname="elaboration"/>
+		<group id="311" type="span" parent="320" relname="span"/>
+		<group id="314" type="span" relname="antithesis"/>
+		<group id="315" type="span" parent="316" relname="preparation"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="317" type="span" relname="antithesis"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" relname="antithesis"/>
+		<group id="320" type="span" relname="antithesis"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" relname="antithesis"/>
+		<group id="323" type="span" parent="250" relname="joint"/>
+		<group id="324" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="325" type="span" parent="16" relname="elaboration"/>
+		<group id="326" type="span" parent="275" relname="evidence"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" relname="antithesis"/>
+		<group id="329" type="span" parent="213" relname="joint"/>
+		<group id="330" type="span" relname="antithesis"/>
+		<group id="331" type="span" relname="antithesis"/>
+		<group id="332" type="span" parent="188" relname="span"/>
+		<group id="333" type="multinuc" relname="antithesis"/>
+		<group id="334" type="span" parent="205" relname="joint"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" relname="antithesis"/>
+		<group id="337" type="span" parent="296" relname="span"/>
+  </body>
+</rst>

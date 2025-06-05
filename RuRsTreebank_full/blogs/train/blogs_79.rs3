@@ -1,0 +1,202 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://t.me/TeplitsaPRO/205</segment>
+		<segment id="2" parent="171" relname="same-unit">##### Поговорим о</segment>
+		<segment id="3" parent="170" relname="restatement">призывах к действию.</segment>
+		<segment id="4" parent="170" relname="restatement">CTA (ситиэй – колтуэкшн – call to action).</segment>
+		<segment id="5" parent="90" relname="span">Они повсюду.</segment>
+		<segment id="6" parent="91" relname="joint">Атакуют наши сенсорные системы.</segment>
+		<segment id="7" parent="91" relname="joint">Спешат нам продать,</segment>
+		<segment id="8" parent="91" relname="joint">заставить зарегистрироваться,</segment>
+		<segment id="9" parent="91" relname="joint">убедить стать чьим-то сторонником.</segment>
+		<segment id="10" parent="153" relname="joint">"Поддержите нас".</segment>
+		<segment id="11" parent="153" relname="joint">"Начните помогать прямо сейчас".</segment>
+		<segment id="12" parent="153" relname="joint">"Подпишитесь на наш канал".</segment>
+		<segment id="13" parent="94" relname="span">##### Самый бесполезный призыв к действию увидел вчера в троллейбусе.</segment>
+		<segment id="14" parent="15" relname="attribution">Экран рекламы с логотипом московской мэрии мелкими красными буквами на зеленом фоне деревьев пишет:</segment>
+		<segment id="15" parent="93" relname="span">"Берегите лес от пожара".</segment>
+		<segment id="16" parent="17" relname="cause">В отсутствие коммерческих заказов</segment>
+		<segment id="17" parent="95" relname="span">маркетинговый отдел Мостранса решил, видимо, заняться "социалочкой".</segment>
+		<segment id="18" parent="19" relname="cause">Лето жаркое,</segment>
+		<segment id="19" parent="154" relname="span">поэтому почему бы не спасти планету.</segment>
+		<segment id="20" parent="105" relname="solutionhood">##### Почему это плохо?</segment>
+		<segment id="21" parent="98" relname="span">Во-первых, контекст.</segment>
+		<segment id="22" parent="21" relname="evidence">Возвращающаяся с работы Надежда Ивановна явно не планирует даже посещать лес в ближайшее несколько месяцев.</segment>
+		<segment id="23" parent="104" relname="span">Во-вторых, отсутствие инструментов и условий к осуществлению этого призыва.</segment>
+		<segment id="24" parent="101" relname="span">Продавщица Аня,</segment>
+		<segment id="25" parent="100" relname="joint">которая отпахала смену</segment>
+		<segment id="26" parent="99" relname="span">и старается занять последнее место</segment>
+		<segment id="27" parent="26" relname="purpose">для сидения,</segment>
+		<segment id="28" parent="102" relname="same-unit">даже если бы и хотела,</segment>
+		<segment id="29" parent="173" relname="span">все равно не смогла бы защитить лес от пожара</segment>
+		<segment id="30" parent="29" relname="condition">находясь в троллейбусе.</segment>
+		<segment id="31" parent="106" relname="joint">В троллейбусе адекватный призыв к действию – это вести себя прилично и уважительно к окружающим</segment>
+		<segment id="32" parent="106" relname="joint">и следить за кошельком,</segment>
+		<segment id="33" parent="107" relname="contrast">а не беречь лес от пожара.</segment>
+		<segment id="34" parent="158" relname="solutionhood">##### Какие проблемы с призывами к действию у НКО?</segment>
+		<segment id="35" parent="36" relname="attribution">В отличие от коммерческих компаний, которым понятно,</segment>
+		<segment id="36" parent="175" relname="span">что призыв к действию ведет к продажам,</segment>
+		<segment id="37" parent="108" relname="comparison">у НКО есть серьезные сомнения по поводу того, в какую воронку "сливать" нашедших их людей.</segment>
+		<segment id="38" parent="177" relname="span">##### 1. Призыв к действию отсутствует.</segment>
+		<segment id="39" parent="38" relname="background">На сайте, в литературе, в видео, в письмах, в соц.сетях.</segment>
+		<segment id="40" parent="177" relname="evidence">"Мы просто существуем".</segment>
+		<segment id="41" parent="161" relname="solutionhood">Зачем тогда, собственно, существует НКО?</segment>
+		<segment id="42" parent="110" relname="span">Призыв к действию должен либо "давать"</segment>
+		<segment id="43" parent="42" relname="elaboration">(Позвоните на горячую линию психологической помощи),</segment>
+		<segment id="44" parent="111" relname="span">либо "брать"</segment>
+		<segment id="45" parent="44" relname="elaboration">(Станьте сторонником).</segment>
+		<segment id="46" parent="113" relname="joint">Если организация не оказывает помощи</segment>
+		<segment id="47" parent="113" relname="joint">и не пытается перераспределить ресурсы,</segment>
+		<segment id="48" parent="167" relname="span">то она может хотя бы стремиться к увеличению своего влияния</segment>
+		<segment id="49" parent="48" relname="cause">за счет увеличения числа подписчиков.</segment>
+		<segment id="50" parent="115" relname="span">Или "И так же все понятно".</segment>
+		<segment id="51" parent="117" relname="span">Непонятно.</segment>
+		<segment id="52" parent="118" relname="joint">Изменение "в головах" проходит</segment>
+		<segment id="53" parent="118" relname="joint">и забывается.</segment>
+		<segment id="54" parent="119" relname="evaluation">Всегда выводите на действие в физическом пространстве.</segment>
+		<segment id="55" parent="128" relname="span">##### 2. Призыв к действию не там.</segment>
+		<segment id="56" parent="121" relname="span">Например, есть организация с текстовыми памятками для определенного вида пациентов.</segment>
+		<segment id="57" parent="122" relname="joint">Записи на консультации нет,</segment>
+		<segment id="58" parent="122" relname="joint">онлайн-рассылки тоже нет.</segment>
+		<segment id="59" parent="60" relname="attribution">Говорю:</segment>
+		<segment id="60" parent="169" relname="span">ну хотя бы ведите всех к себе в сообщество в социальной сети.</segment>
+		<segment id="61" parent="124" relname="span">Ставят иконку соц.сети в "подвале" (нижняя часть сайта, как правило, содержащая техническую информацию о сайте, партнерах и правилах использования).</segment>
+		<segment id="62" parent="126" relname="span">Это неправильно.</segment>
+		<segment id="63" parent="125" relname="joint">Призыв к действию – идет после текста</segment>
+		<segment id="64" parent="125" relname="joint">и выделен как кнопка, а не иконка.</segment>
+		<segment id="65" parent="129" relname="joint">##### 3. Призывов несколько,</segment>
+		<segment id="66" parent="129" relname="joint">но сначала идет "берущий".</segment>
+		<segment id="67" parent="165" relname="span">Пример: несобирающая организация</segment>
+		<segment id="68" parent="67" relname="purpose">(т.е. основная цель не перераспределение средств для соц.миссии)</segment>
+		<segment id="69" parent="130" relname="same-unit">везде лепит в правом верхнем углу "Поддержите нас".</segment>
+		<segment id="70" parent="133" relname="contrast">Хотя основная функция сайта – консультации.</segment>
+		<segment id="71" parent="132" relname="contrast">Так вы поставьте везде призыв к действию "Получить консультацию",</segment>
+		<segment id="72" parent="168" relname="span">а собирайте</segment>
+		<segment id="73" parent="72" relname="condition">только тогда, когда вы оказали помощь</segment>
+		<segment id="74" parent="131" relname="span">и люди вам благодарны.</segment>
+		<segment id="75" parent="136" relname="preparation">##### 4. Призыв к действию в видео.</segment>
+		<segment id="76" parent="181" relname="span">Посмотрите osocio.org</segment>
+		<segment id="77" parent="76" relname="elaboration">– как весь мир делает социальные видео.</segment>
+		<segment id="78" parent="181" relname="elaboration">Призыв к действию выделяется черным экраном с конкретным указанием, что нужно делать, сразу после пуэнты (кульминационный момент истории).</segment>
+		<segment id="79" parent="142" relname="span">А то недавно увидел</segment>
+		<segment id="80" parent="141" relname="contrast">– отличная анимация, история рассказана на важную тему,</segment>
+		<segment id="81" parent="140" relname="span">но повествование такое:</segment>
+		<segment id="82" parent="83" relname="cause">"мультик" - "информация об авторах"</segment>
+		<segment id="83" parent="138" relname="span">(люди уже переключились)</segment>
+		<segment id="84" parent="139" relname="sequence">– на полсекунды призыв к действию.</segment>
+		<segment id="85" parent="142" relname="evaluation">Так не надо.</segment>
+		<segment id="86" parent="148" relname="span">##### Мой призыв к действию на сегодня:</segment>
+		<segment id="87" parent="88" relname="condition">если у вас есть примеры хорошего или плохого использования призывов к действию</segment>
+		<segment id="88" parent="146" relname="span">– присылайте в Теплицу – https://pd.te-st.ru/forms/contacts/</segment>
+		<segment id="89" parent="147" relname="span">– самые лучшие примеры я прокомментирую здесь. Спасибо.</segment>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="91" type="multinuc" parent="151" relname="span"/>
+		<group id="92" type="span" />
+		<group id="93" type="span" parent="13" relname="elaboration"/>
+		<group id="94" type="span" parent="97" relname="span"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="94" relname="evaluation"/>
+		<group id="97" type="span" parent="172" relname="span"/>
+		<group id="98" type="span" parent="105" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="100" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="101" type="span" parent="102" relname="same-unit"/>
+		<group id="102" type="multinuc" parent="173" relname="condition"/>
+		<group id="103" type="span" parent="157" relname="joint"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="105" type="multinuc" parent="155" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="contrast"/>
+		<group id="107" type="multinuc" parent="157" relname="joint"/>
+		<group id="108" type="multinuc" parent="158" relname="span"/>
+		<group id="110" type="span" parent="112" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="112" type="multinuc" parent="161" relname="span"/>
+		<group id="113" type="multinuc" parent="167" relname="condition"/>
+		<group id="114" type="span" parent="116" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="116" type="multinuc" parent="163" relname="elaboration"/>
+		<group id="117" type="span" parent="50" relname="evaluation"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="120" type="span" parent="51" relname="elaboration"/>
+		<group id="121" type="span" parent="123" relname="span"/>
+		<group id="122" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="123" type="span" parent="55" relname="evidence"/>
+		<group id="124" type="span" parent="127" relname="span"/>
+		<group id="125" type="multinuc" parent="62" relname="evidence"/>
+		<group id="126" type="span" parent="124" relname="evaluation"/>
+		<group id="127" type="span" parent="121" relname="concession"/>
+		<group id="128" type="span" parent="179" relname="joint"/>
+		<group id="129" type="multinuc" parent="134" relname="span"/>
+		<group id="130" type="multinuc" parent="133" relname="contrast"/>
+		<group id="131" type="span" parent="132" relname="contrast"/>
+		<group id="132" type="multinuc" parent="149" relname="evaluation"/>
+		<group id="133" type="multinuc" parent="149" relname="span"/>
+		<group id="134" type="span" parent="179" relname="joint"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="143" relname="preparation"/>
+		<group id="138" type="span" parent="139" relname="sequence"/>
+		<group id="139" type="multinuc" parent="81" relname="elaboration"/>
+		<group id="140" type="span" parent="141" relname="contrast"/>
+		<group id="141" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="143" type="span" parent="182" relname="span"/>
+		<group id="146" type="span" parent="89" relname="cause"/>
+		<group id="147" type="span" parent="86" relname="elaboration"/>
+		<group id="148" type="span" />
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="150" type="span" parent="129" relname="evidence"/>
+		<group id="151" type="span" parent="90" relname="evidence"/>
+		<group id="153" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="154" type="span" parent="95" relname="evidence"/>
+		<group id="155" type="span" parent="97" relname="elaboration"/>
+		<group id="157" type="multinuc" parent="23" relname="evidence"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" parent="179" relname="preparation"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="178" relname="span"/>
+		<group id="165" type="span" parent="130" relname="same-unit"/>
+		<group id="167" type="span" parent="114" relname="span"/>
+		<group id="168" type="span" parent="74" relname="cause"/>
+		<group id="169" type="span" parent="61" relname="cause"/>
+		<group id="170" type="multinuc" parent="171" relname="same-unit"/>
+		<group id="171" type="multinuc" parent="5" relname="preparation"/>
+		<group id="172" type="span" />
+		<group id="173" type="span" parent="103" relname="span"/>
+		<group id="175" type="span" parent="108" relname="comparison"/>
+		<group id="176" type="span" parent="164" relname="preparation"/>
+		<group id="177" type="span" parent="176" relname="span"/>
+		<group id="178" type="span" parent="179" relname="joint"/>
+		<group id="179" type="multinuc" parent="180" relname="span"/>
+		<group id="180" type="span" />
+		<group id="181" type="span" parent="136" relname="span"/>
+		<group id="182" type="span" parent="179" relname="joint"/>
+	</body>
+</rst>

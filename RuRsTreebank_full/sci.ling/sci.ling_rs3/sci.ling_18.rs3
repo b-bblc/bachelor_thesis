@@ -1,0 +1,195 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">Остапова Людмила Евгеньевна</segment>
+		<segment id="2" parent="100" relname="span">АКТУАЛИЗАЦИЯ ОБРАЗА "ИДЕАЛЬНОЙ ЖЕНЩИНЫ" В ПАРФЮМЕРНОМ ДИСКУРСЕ РУССКОЯЗЫЧНОЙ И НЕМЕЦКОЯЗЫЧНОЙ РЕКЛАМЫ</segment>
+		<segment id="3" relname="antithesis">В представленной статье автор обращается к образу идеальной женщины, создаваемому в парфюмерном дискурсе русскоязычной и немецкоязычной рекламы. Анализ производится с точки зрения гендерного подхода, в связи с чем репрезентируемые образы рассматриваются как отражение стереотипизированных представлений, обусловленных особенностями различных лингвокультур.</segment>
+		<segment id="4" relname="antithesis">Адрес статьи: www.gramota.net/materials/272015/3-3/40.html Источник Филологические науки. Вопросы теории и практики Тамбов: Грамота, 2015. № 3 (45): в 3-х ч. Ч. III. C. 143-145. ISSN 1997-2911. Адрес журнала: www.gram ota. net/ed itions/2.html Содержание данного номера журнала: www .gramota.net/mate rials/2/2015/3-3/ © Издательство "Грамота" Информация о возможности публикации статей в журнале размещена на Интернет сайте издательства: www.gramota.net Вопросы, связанные с публикациями научных материалов, редакция просит направлять на адрес: phil@gramota.net</segment>
+		<segment id="5" relname="antithesis">УДК 811.11 Филологические науки</segment>
+		<segment id="6" relname="antithesis">В представленной статье автор обращается к образу идеальной женщины, создаваемому в парфюмерном дискурсе русскоязычной и немецкоязычной рекламы. Анализ производится с точки зрения гендерного подхода, в связи с чем репрезентируемые образы рассматриваются как отражение стереотипизирован-ных представлений, обусловленных особенностями различных лингвокультур. Ключевые слова и фразы: образ; тендер; тендерные стереотипы; дискурс; парфюмерный рекламный дискурс.</segment>
+		<segment id="7" parent="104" relname="span">Остапова Людмила Евгеньевна, к. филол. н.</segment>
+		<segment id="8" parent="7" relname="elaboration">Белгородский государственный национальный исследовательский университет ilina@bsu. edu. ru</segment>
+		<segment id="9" parent="105" relname="span">АКТУАЛИЗАЦИЯ ОБРАЗА «ИДЕАЛЬНОЙ ЖЕНЩИНЫ» В ПАРФЮМЕРНОМ ДИСКУРСЕ РУССКОЯЗЫЧНОЙ И НЕМЕЦКОЯЗЫЧНОЙ РЕКЛАМЫ®</segment>
+		<segment id="10" parent="106" relname="span">Парфюмерный рекламный дискурс представляет собой особый вид коммуникации,</segment>
+		<segment id="11" parent="228" relname="span">характерной чертой которой становится функционирование узкоспециализированного профессионального языка, прагматически адаптированного</segment>
+		<segment id="12" parent="11" relname="purpose">в целях воздействия на определенную аудиторию.</segment>
+		<segment id="13" parent="214" relname="span">Цель рекламы парфюмерной продукции</segment>
+		<segment id="14" parent="13" relname="purpose">-это создание яркого, уникального образа продаваемого аромата.</segment>
+		<segment id="15" parent="16" relname="condition">При написании текста рекламы духов</segment>
+		<segment id="16" parent="229" relname="span">авторы прибегают к богатому спектру языковых, а также неязыковых (креализованных) средств</segment>
+		<segment id="17" parent="229" relname="purpose">в стремлении побудить потенциального потребителя к покупке рекламируемого товара.</segment>
+		<segment id="18" parent="204" relname="preparation">Необходимо также отметить, что парфюмерный дискурс в рекламе является социально-обусловленной коммуникативной деятельностью.</segment>
+		<segment id="19" parent="20" relname="evidence">Вся парфюмерная продукция делится на две основные категории - ароматы для женщин и ароматы для мужчин.</segment>
+		<segment id="20" parent="111" relname="span">Следовательно, реклама духов представляет собой презентацию мужских и женских ароматов, привлекательных для аудитории мужского и женского пола.</segment>
+		<segment id="21" parent="110" relname="joint">Запахи зачастую навязываются потребителю как особые знаки социального отличия.</segment>
+		<segment id="22" parent="110" relname="joint">Создатели рекламы, манипулируя общественным сознанием, часто обращаются к таким феноменам, как гендерные стереотипы, основанные на концептах , мужественность» и , женственность».</segment>
+		<segment id="23" parent="24" relname="attribution">Согласно определению Д. Малишевской,</segment>
+		<segment id="24" parent="112" relname="span">поведенческие , "гендерные стереотипы" представляют обобщенные нормы и культурные предписания для выбора подходящей модели поведения для мужчины и женщины» [2, с. 183]. ,</segment>
+		<segment id="25" parent="215" relname="span">Мужественность» и , женственность» воспринимаются как концепты</segment>
+		<segment id="26" parent="25" relname="cause">благодаря тому, что сознание человека как представителя определенного пола формируется под влиянием стереотипизиро-ванных общественных представлений о мужских и женских качествах [1].</segment>
+		<segment id="27" parent="206" relname="elaboration">Следует также отметить, что данные полярные конституэнты социального конструкта, гендера, проявляют как универсальные, так и культурно- специфические черты [3].</segment>
+		<segment id="28" parent="208" relname="attribution">Учитывая этот факт, Б. Коннелл вводит понятие ,</segment>
+		<segment id="29" parent="208" relname="span">культурная репрезентация пола», подчеркивающее возможность лингвистического описания маскулинности и феминности в рамках разных лингвокультур-ных сообществ [5].</segment>
+		<segment id="30" parent="29" relname="elaboration">Особенно отчетливо тенденции изменения и развития гендерных стереотипов, их нюансы, обусловленные лингвокультурологическими факторами, прослеживаются в языке рекламы, всегда ориентированной на современное состояние и актуальные проблемы общества [4].</segment>
+		<segment id="31" parent="220" relname="preparation">В рамках представленного исследования мы проанализировали аннотации женских ароматов, содержащихся в русских и немецких интернет-магазинах.</segment>
+		<segment id="32" parent="33" relname="evidence">В результате проведенного исследования мы пришли к выводу,</segment>
+		<segment id="33" parent="216" relname="span">что одним из наиболее частотных приемов прагматического воздействия на женскую аудиторию является конструирование образа-идеала женщины, обладательницы описываемого аромата.</segment>
+		<segment id="34" parent="218" relname="same-unit">Однако,</segment>
+		<segment id="35" parent="36" relname="condition">сравнивая данные образы, актуализируемые в текстах русскоязычной и немецкоязычной рекламы,</segment>
+		<segment id="36" parent="217" relname="span">нам удалось выявить некоторые различия, обусловленные особенностями двух лингвокультур.</segment>
+		<segment id="37" parent="186" relname="background">Так, в русскоязычном рекламном дискурсе, среди множества черт, характеризующих идеальную женщину, наиболее частотные для потребительницы парфюмерной новинки, так или иначе, ориентированы на противоположный пол.</segment>
+		<segment id="38" parent="122" relname="span">, Идеальная женщина» - привлекательная особа, покоряющая мужские сердца.</segment>
+		<segment id="39" parent="148" relname="span">Приведем примеры:</segment>
+		<segment id="40" parent="147" relname="joint">(1) Это такая женственность, которая заставляет преклонить колени сильнейших мужчин и побеждает даже самое сильное противостояние [17].</segment>
+		<segment id="41" parent="147" relname="joint">(2) Paco Rabanne Ultraviolet пробуждает в своей хозяйке принцессу. Она знает, что мужчины без ума от нее [18].</segment>
+		<segment id="42" parent="147" relname="joint">(3) Аромат станет дополнением идеального образа, покоряющего сердца юношей, которые не в силах забыть обладательницу духов Энви Ми [6].</segment>
+		<segment id="43" parent="123" relname="joint">Привлекательная для мужчин женщина - сексуальна.</segment>
+		<segment id="44" parent="150" relname="span">Сексуальность также является наиболее частотным признаком образа идеальной женщины в русскоязычном рекламном дискурсе:</segment>
+		<segment id="45" parent="149" relname="joint">(4) Духи Шанель Гардения подчеркнут вашу сексуальность [27].</segment>
+		<segment id="46" relname="antithesis">® Остапова Л. Е., 2015 144 Издательство «Грамота» www.gramota.net</segment>
+		<segment id="47" parent="149" relname="joint">(5) Аромат, полный молодости и страсти, сексуальности и очарования [26].</segment>
+		<segment id="48" parent="152" relname="span">Идеал женщины ассоциируется также и с чувственностью:</segment>
+		<segment id="49" parent="151" relname="joint">(6) Аромат Envy Me от Gucci подарит истинное наслаждение чувственным молодым девушкам [16].</segment>
+		<segment id="50" parent="151" relname="joint">(7) Новый Sensi, символизирует вечную женственность и чувственность в солнечном, игривом аромате [22].</segment>
+		<segment id="51" parent="222" relname="span">Образ идеальной женщины в русскоязычном рекламном дискурсе</segment>
+		<segment id="52" parent="51" relname="cause">связан также с представлениями об элегантной, модной, чувствующей стиль даме:</segment>
+		<segment id="53" parent="153" relname="joint">(8) Волнующий и манящий аромат Eau du Soir - это парфюм элегантной и изысканной леди [24].</segment>
+		<segment id="54" parent="153" relname="joint">(9) Аромат подчеркивает уникальный стиль и неповторимость женщины [25].</segment>
+		<segment id="55" parent="153" relname="joint">(10) Страстный парфюм для современных, модных женщин [21].</segment>
+		<segment id="56" parent="156" relname="span">Нередко авторы рекламы духов обращаются также к образу богемной красавицы, окруженной роскошью и гламуром:</segment>
+		<segment id="57" parent="155" relname="joint">(11) Эти духи должны окутывать восхитительную, гламурную и экстравагантную женщину [15].</segment>
+		<segment id="58" parent="155" relname="joint">(12) Она любит блистать, и каждый ее выход в свет производит настоящий фурор и становится сенсацией [20].</segment>
+		<segment id="59" parent="200" relname="preparation">Но не только женственность, красота и чувство стиля являются составляющими образа идеальной женщины.</segment>
+		<segment id="60" parent="200" relname="span">Современная женщина, как подчеркивается в рекламном дискурсе, это, прежде всего, самостоятельная и уверенная в себе личность:</segment>
+		<segment id="61" parent="158" relname="joint">(13) Gucci by Gucci EDT создан для современных, уверенных в себе, своих силах и своем очаровании женщин [23].</segment>
+		<segment id="62" parent="158" relname="joint">(14) Gucci Guilty посвящен девушкам дерзким, самостоятельным и уверенным в себе, которые привыкли сами делать выбор и принимать решения [18].</segment>
+		<segment id="63" parent="190" relname="span">Наименее частотным, но также характерным признаком идеальной женщины в русскоязычном дискурсе является нестандартность и уникальность:</segment>
+		<segment id="64" parent="63" relname="elaboration">(15) Обладательница «агрессивного» парфюма Covet - умеет удивлять своей оригинальностью и нестандартным мышлением [19].</segment>
+		<segment id="65" parent="141" relname="comparison">Таким образом, наиболее характерными чертами образа идеальной женщины русскоязычного рекламного парфюмерного дискурса являются: привлекательность, сексуальность, женственность, чувственность, элегантность, гламурность, уверенность в себе, неповторимость и уникальность.</segment>
+		<segment id="66" parent="212" relname="span">Большинство вышеперечисленных признаков характерны и для немецкоязычного дискурса.</segment>
+		<segment id="67" parent="66" relname="elaboration">Представления об идеальной женщине также связаны с такими понятиями, как привлекательность, сексуальность, женственность, чувственность, элегантность, уникальность.</segment>
+		<segment id="68" parent="192" relname="span">Приведем примеры:</segment>
+		<segment id="69" parent="191" relname="joint">(1) Sexy, feminin und verspielt sorgt Lacoste Touch of Pink bei seiner Trgerin fr stetig gute Stimmung [11]. / Сексуальный, женственный, игривый аромат Touch of Pink позаботиться о хорошем настроении своей «хозяйки».</segment>
+		<segment id="70" parent="191" relname="joint">(2) Werden Sie zur erbarmungslosen Verfhrerin und leben Sie Ihre Leidenschaft aus [8]. / Станьте беспощадной искусительницей, дайте волю своей страсти.</segment>
+		<segment id="71" parent="191" relname="joint">(3) Dieser Duft ist besonders feminin, edel und elegant [15]. / Этот аромат женственный, благородный и элегантный.</segment>
+		<segment id="72" parent="191" relname="joint">(4) Sinnlich duftet die moderne Frau [9]... / Чувственный аромат исходит от современной женщины.</segment>
+		<segment id="73" parent="191" relname="joint">(5) Fr originelle Frauen, einzigartige und sexi [14]. / Для оригинальных женщин, неповторимых и сексуальных.</segment>
+		<segment id="74" parent="171" relname="comparison">Однако в отличие от русскоязычного рекламного парфюмерного дискурса, для которого данные признаки оказываются наиболее частотными,</segment>
+		<segment id="75" parent="194" relname="span">релевантными признаками женского идеала в немецкоязычной рекламе являются такие качества, как уверенность в себе и независимость:</segment>
+		<segment id="76" parent="193" relname="joint">(6) Er ist Begleiter fr die eigenstndige und selbstbewusste Frau [7]. / Он (аромат) сопровождает самостоятельную, уверенную в себе женщину.</segment>
+		<segment id="77" parent="193" relname="joint">(7) Lassen Sie sich von diesem wunderbaren Duft verfhren und lernen Sie Ihr Selbstbewusstsein kennen [10]! / Позвольте этому чудесному аромату обольстить вас и почувствовать уверенность в себе!</segment>
+		<segment id="78" parent="193" relname="joint">(8) Sein pudriger Duft mit feinen Aromen von Magnolie und Maiglckchen umschmeichelt die selbstbewusste Frau von heute [12]. / Пудровый аромат с тонким благоуханием магнолии и ландыша обольстит уверенную в себе, современную женщину.</segment>
+		<segment id="79" parent="196" relname="span">Идеал современной немецкой женщины в рекламе связан также с такими понятиями, как успешность и лидерство:</segment>
+		<segment id="80" parent="195" relname="joint">(9) Diese Frau ist ausdrucksvoll und dominant [7]. / Эта женщина выразительная, задающая тон...</segment>
+		<segment id="81" parent="195" relname="joint">(10) Der Duft wurde speziell fr die selbstbewusste, erfolgreiche und moderne Frau entwickelt [13]. / Этот аромат был создан специально для уверенной в себе, успешной, современной женщины.</segment>
+		<segment id="82" parent="197" relname="span">В некоторых случаях подчеркивается смелость и решительность обладательницы аромата:</segment>
+		<segment id="83" parent="82" relname="elaboration">(11) Der Duft fr die mutigen Frauen, die keine Angst haben, ihre Ziele zu verfolgen [10]. / Аромат для смелых женщин, которые не боятся осуществлять задуманное.</segment>
+		<segment id="84" parent="213" relname="span">В заключении хотелось бы отметить, что образы идеальной женщины в русскоязычном и немецкоязычном дискурсах рекламы строятся на основании определенных гендерных стереотипов, обнаруживающих как общие, так и индивидуальные черты,</segment>
+		<segment id="85" parent="84" relname="condition">обусловленные нюансами ценностно-ориентированных представлений в рамках определенной лингвокультуры.</segment>
+		<segment id="86" parent="231" relname="comparison">В русском рекламном дискурсе женщина-идеал - привлекательная, чувственная, сексуальная и нежная, покорительница мужских сердец, следующая последним тенденциям моды, всегда элегантная и неповторимая, гламурная, уверенная в себе и самостоятельная.</segment>
+		<segment id="87" parent="185" relname="contrast">В немецкоязычном дискурсе рекламы парфюмерной продукции также подчеркивается привлекательность, чувственность и сексуальность, чувство стиля и элегантность, а также уникальность и индивидуальность.</segment>
+		<segment id="88" parent="183" relname="comparison">Однако в отличие от русскоязычной рекламы мы не обнаружили образов, созданных на основе представлений о гламурной диве,</segment>
+		<segment id="89" parent="227" relname="span">в немецкой рекламе значительно преобладает образ женщины независимой и самостоятельной.</segment>
+		<segment id="90" parent="89" relname="elaboration">При этом образ немецкой идеальной женщины - это не только уверенная в себе и энергичная дама, но и женщина- лидер, занимающая ведущую позицию в обществе.</segment>
+		<segment id="91" parent="92" relname="preparation">Список литературы</segment>
+		<segment id="92" relname="antithesis">1\. Кирилина А. В. Гендер: лингвистические аспекты. М.: Институт социологии РАН, 1999. 341 с. 2\. Малишевская Д. Базовые концепты в свете гендерного подхода (на примере оппозиции , Мужчина / Женщина») // Фразеология в контексте культуры. М.: Языки русской культуры, 1999. C. 180-184. 3\. Покоякова К. А. Образ мужчины в языковом сознании русских и американцев // Филологические науки. Вопросы теории и практики. Тамбов: Грамота, 2013. № 7-2 (25). С. 147-149. 4\. Тюрина С. Ю. О понятиях рекламный дискурс и рекламный текст // Вестник Ивановского государственного энергетического университета. 2009. № 1. С. 75-77. 5\. Connell B. W. The Big Picture: Masculinities in Recent World History // Theories &amp; Society. 1993. № 22. P. 597-623. 6\. http://vk.com/parfumoff_ru?z=photo-2679687_111911722%2Falbum (дата обращения: 13.02.2015). 7\. http://www.parfuemplatz.de/details.php?category_path=0_15_160_2955&amp;p_name=Jil_Sander_Simply_40_ml_Eau_d e_Parfum_Spray&amp;link=fpp (дата обращения: 13.02.2015). 8\. http://www.parfuemplatz.de/details.php?categoiy_path=0_15_163_605&amp;p_name=Lacoste_Touch_of_Pink_30_ml_Ea u_de_Toilette_Spray&amp;link=fpp (дата обращения: 13.02.2015). 9\. http://www.parfuemplatz.de/details.php?category_path=0_15_169_2107&amp;p_name=Paco_Rabanne_Lady_Million_30_ ml_Eau_de_Parfum_Spray&amp;link=fpp (дата обращения: 13.02.2015). 10\. http://www.parfuemplatz.de/details.php?category_path=0_15_186_313&amp;p_name=Giorgio_Armani_Emporio_She_30_ml_ Eau_de_Parfum_Spray&amp;link=fpp (дата обращения: 13.02.2015). 11\. http://www.parfuemplatz.de/search.php/cat_id/0/manufacturer/Hugo+Boss (дата обращения: 13.02.2015). 12\. http://www.parfuemplatz.de/search.php/cat_id/15/manufacturer/Dior (дата обращения: 13.02.2015). 13\. http://www.parfuemplatz.de/search.php?cat_id=1489&amp;manufacturer=GiorgioArmani (дата обращения: 13.02.2015). 14\. http://www.parfuemplatz.de/search.php?cat_id=15&amp;manufacturer=Joop (дата обращения: 13.02.2015). 15\. http://www.parfuemplatz.de/search.php?cat_id=15&amp;order=62&amp;cat_name=Parfum_f_r_Damen&amp;filter=&amp;addfilter=20_152 (дата обращения: 13.02.2015). 16\. http://www.parfumchik.ru/for•woman.phtml?iddesigner=446&amp;letter=S(дата обращения: 13.02.2015). 17\. http://www.parfumchik.ru/forwoman.phtml?iddesigner=709&amp;letter=K (дата обращения: 13.02.2015). 18\. http://www.parfumchik.ru/forwoman.phtml?idparfum=1764&amp;letter=P (дата обращения: 13.02.2015). 19\. http://www.parfumchik.ru/forwoman.phtml?idparfum=1976&amp;iddesigner=47&amp;letter=G (дата обращения: 13.02.2015). 20\. http://www.parfumchik.ru/forwoman.phtml?idparfum=4505&amp;iddesigner=47&amp;letter=G (дата обращения: 13.02.2015). 21\. http://www.parfumchik.ru/forwoman.phtml?idparfum=7&amp;letter=G (дата обращения: 13.02.2015). 22\. http://www.parfumchik.ru/forwoman.phtml?idparfum=824&amp;letter=S (дата обращения: 13.02.2015). 23\. http://www.parfumoff.ru/production/hugo-boss/femme-leau-fraiche/#duhi (дата обращения: 13.02.2015). 24\. http://www.parfumoff.ru/production/hugo-boss/orange-charity/ (дата обращения: 13.02.2015). 25\. http://www.spellsmell.ru/news/105163-guerlain/ (дата обращения: 13.02.2015). 26\. http://www.spellsmell.ru/women/4160-tuesdays/doe-in-the-snow/ (дата обращения: 13.02.2015). 27\. http://www.spellsmell.ru/women/chanel/gardenia/ (дата обращения: 13.02.2015).</segment>
+		<segment id="93" relname="antithesis">ACTUALIZATION OF THE "IDEAL WOMAN" IMAGE IN THE PERFUME DISCOURSE OF THE RUSSIAN-LANGUAGE AND GERMAN-LANGUAGE ADVERTISING</segment>
+		<segment id="94" relname="antithesis">Ostapova Lyudmila Evgen'evna, Ph. D. in Philology</segment>
+		<segment id="95" relname="antithesis">Belgorod National Research University ilina@bsu. edu.ru</segment>
+		<segment id="96" relname="antithesis">In the article the image of the ideal woman created in the perfume discourse in the Russian-language and German-language advertising is studied. The analysis is carried out from the perspective of gender approach, and the represented images are considered as a reflection of stereotypified representations conditioned by the peculiarities of different linguo-cultures. Key words and phrases: image; gender; gender stereotypes; discourse; perfume advertising discourse. </segment>
+		<group id="100" type="span" relname="antithesis"/>
+		<group id="104" type="span" parent="9" relname="attribution"/>
+		<group id="105" type="span" parent="198" relname="preparation"/>
+		<group id="106" type="span" parent="203" relname="preparation"/>
+		<group id="107" type="multinuc" parent="203" relname="span"/>
+		<group id="110" type="multinuc" parent="204" relname="span"/>
+		<group id="111" type="span" parent="110" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="113" type="multinuc" parent="206" relname="span"/>
+		<group id="122" type="span" parent="134" relname="joint"/>
+		<group id="123" type="multinuc" parent="134" relname="joint"/>
+		<group id="134" type="multinuc" parent="186" relname="span"/>
+		<group id="141" type="multinuc" parent="202" relname="span"/>
+		<group id="147" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="148" type="span" parent="38" relname="elaboration"/>
+		<group id="149" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="150" type="span" parent="123" relname="joint"/>
+		<group id="151" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="152" type="span" parent="134" relname="joint"/>
+		<group id="153" type="multinuc" parent="222" relname="elaboration"/>
+		<group id="154" type="span" parent="134" relname="joint"/>
+		<group id="155" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="156" type="span" parent="134" relname="joint"/>
+		<group id="158" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="171" type="multinuc" parent="224" relname="contrast"/>
+		<group id="183" type="multinuc" parent="185" relname="contrast"/>
+		<group id="185" type="multinuc" parent="231" relname="comparison"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" relname="antithesis"/>
+		<group id="190" type="span" parent="134" relname="joint"/>
+		<group id="191" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="192" type="span" parent="202" relname="elaboration"/>
+		<group id="193" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="194" type="span" parent="226" relname="span"/>
+		<group id="195" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="196" type="span" parent="225" relname="joint"/>
+		<group id="197" type="span" parent="225" relname="joint"/>
+		<group id="198" type="span" relname="antithesis"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="134" relname="joint"/>
+		<group id="202" type="span" parent="223" relname="span"/>
+		<group id="203" type="span" parent="198" relname="span"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" relname="antithesis"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" relname="antithesis"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" relname="antithesis"/>
+		<group id="212" type="span" parent="141" relname="comparison"/>
+		<group id="213" type="span" parent="232" relname="preparation"/>
+		<group id="214" type="span" parent="107" relname="joint"/>
+		<group id="215" type="span" parent="113" relname="joint"/>
+		<group id="216" type="span" parent="219" relname="contrast"/>
+		<group id="217" type="span" parent="218" relname="same-unit"/>
+		<group id="218" type="multinuc" parent="219" relname="contrast"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" relname="antithesis"/>
+		<group id="222" type="span" parent="154" relname="span"/>
+		<group id="223" type="span" parent="224" relname="contrast"/>
+		<group id="224" type="multinuc" relname="antithesis"/>
+		<group id="225" type="multinuc" parent="194" relname="elaboration"/>
+		<group id="226" type="span" parent="171" relname="comparison"/>
+		<group id="227" type="span" parent="183" relname="comparison"/>
+		<group id="228" type="span" parent="10" relname="elaboration"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="107" relname="joint"/>
+		<group id="231" type="multinuc" parent="232" relname="span"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" relname="antithesis"/>
+  </body>
+</rst>

@@ -1,0 +1,128 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">УДК 004.021</segment>
+		<segment id="2" relname="antithesis">Д. В. Мишин, М. М. Монахова, А. А. Петров</segment>
+		<segment id="3" relname="antithesis">СИСТЕМА АДМИНИСТРИРОВАНИЯ КОРПОРАТИВНОЙ СЕТИ ПЕРЕДАЧИ ДАННЫХ АСУП</segment>
+		<segment id="4" relname="antithesis">Предложена модель автоматизированной системы администрирования корпоративной сети передачи данных,</segment>
+		<segment id="5" relname="antithesis">проанализированы механизмы повышения эффективности ее функционирования, а также вопросы ее внедрения в автоматизированную систему управления промышленным предприятием.</segment>
+		<segment id="6" relname="antithesis">Ключевые слова: администрирование корпоративной сети передачи данных, автоматизированная система управления, администратор.</segment>
+		<segment id="7" parent="100" relname="preparation">Введение.</segment>
+		<segment id="8" parent="66" relname="span">Корпоративная сеть передачи данных (КСПД) является основным звеном планирования и управления производственно-хозяйственной деятельностью любого предприятия.</segment>
+		<segment id="9" parent="64" relname="span">Эффективность функционирования такой сети в значительной степени определяется</segment>
+		<segment id="10" parent="65" relname="span">уровнем квалификации обслуживающего персонала, специалистами, обеспечивающими работоспособность КСПД, ее производительность, безопасность, возможность диагностики и восстановление.</segment>
+		<segment id="11" parent="99" relname="span">В решении этих задач главенствующая роль принадлежит службе администрирования сети, функционирующей в системе технической поддержки.</segment>
+		<segment id="12" parent="68" relname="background">Под системой администрирования понимается совокупность методов, средств и технологий, реализующих функции администрирования сети.</segment>
+		<segment id="13" parent="68" relname="span">Главная цель создания системы администрирования —</segment>
+		<segment id="14" parent="71" relname="span">обеспечение полной и постоянной работоспособности КСПД.</segment>
+		<segment id="15" parent="69" relname="joint">Заметим, что службу администрирования КСПД крупного промышленного предприятия составляет не один десяток инженеров,</segment>
+		<segment id="16" parent="69" relname="joint">кроме того, часть административных функций (по управлению уникальными программными комплексами) передается на аутсорсинг.</segment>
+		<segment id="17" parent="73" relname="span">В настоящей статье предлагается модель автоматизированной системы администрирования (АСА) КСПД, эффективность функционирования которой определяется тремя компонентами: человеком, машинной и производственной средой.</segment>
+		<segment id="18" parent="17" relname="elaboration">В статье анализируются механизмы повышения эффективности функционирования системы, а также вопросы ее внедрения в автоматизированную систему управления промышленным предприятием.</segment>
+		<segment id="19" parent="20" relname="preparation">Элементы системы.</segment>
+		<segment id="20" parent="74" relname="span">Структурная схема автоматизированной системы администрирования приведена на рисунке.</segment>
+		<segment id="21" parent="75" relname="span">Корпоративная сеть передачи данных представлена множеством функциональных элементов (ФЭ).</segment>
+		<segment id="22" parent="21" relname="elaboration">Под ФЭ будем понимать неделимый (элементарный в рамках рассматриваемой модели) компонент узла сети, выполняющий одну или несколько элементарных функций по обработке или передаче информации в сети.</segment>
+		<segment id="23" parent="75" relname="elaboration">Информация о текущем состоянии ФЭ поступает в блок контроля подсистемы диспетчеризации.</segment>
+		<segment id="24" parent="86" relname="preparation">Подсистема администраторов.</segment>
+		<segment id="25" parent="86" relname="span">Декомпозиция процессов администрирования позволяет выделить множество элементарных функций (ФА), неделимых в рамках решения задач КСПД.</segment>
+		<segment id="26" parent="77" relname="restatement">Исполнителями ФА являются сотрудники службы администрирования, наделенные специализированными программными и техническими средствами,</segment>
+		<segment id="27" parent="77" relname="restatement">их будем называть администраторами (А) КСПД.</segment>
+		<segment id="28" parent="79" relname="joint">Администраторы могут быть „универсалами" (способными выполнять все ФА),</segment>
+		<segment id="29" parent="79" relname="joint">иметь функциональную специализацию,</segment>
+		<segment id="30" parent="79" relname="joint">обладать тем или иным уровнем квалификации (знаний, умений, навыков в выполнении конкретной ФА).</segment>
+		<segment id="31" parent="82" relname="span">Функции администрирования предлагается рассматривать как элементарные управляющие воздействия</segment>
+		<segment id="32" parent="31" relname="purpose">с целью получения или изменения состояний ФЭ КСПД, выполняемые администратором или их группой.</segment>
+		<segment id="33" parent="82" relname="elaboration">Множество типовых ФА, характерных для КСПД крупного промышленного предприятия, описано в работе [2].</segment>
+		<segment id="34" relname="antithesis">[схема]</segment>
+		<segment id="35" parent="98" relname="span">Подсистема диспетчеризации включает в себя следующие блоки.</segment>
+		<segment id="36" parent="89" relname="span">1\. Блок выработки управляющих воздействий (БВУВ), который на основе анализа информации о текущем состоянии администраторов — занят/свободен, сможет/не сможет выполнить ФА (за приемлемое время с приемлемым качеством) и т.п., поступающей из подсистемы администраторов, и заявок на выполнение ФА на конкретном ФЭ КСПД, производит однозначный выбор конкретных администраторов на выполнение конкретных ФА.</segment>
+		<segment id="37" parent="95" relname="span">В условиях ограниченного числа администраторов оптимизация распределения по ним ФА является одной из актуальных задач в обеспечении требуемого качества функционирования КСПД.</segment>
+		<segment id="38" parent="37" relname="solutionhood">Предлагается использовать методику диспетчеризации потока задач, сформированного в виде очереди на основании приоритета как общего для всех ФЭ КСПД критерия [1].</segment>
+		<segment id="39" parent="96" relname="joint">2\. Блок контроля (БК) преобразует информацию, получаемую из всех ФЭ посредством сервисов аудита и ведения журнала событий (журналирования), в данные для сравнения в БАПР с соответствующими профилями.</segment>
+		<segment id="40" parent="96" relname="joint">3\. Блок анализа и принятия решений (БАПР) на основе существующих целей, текущих профилей ФЭ, имеющихся ресурсов и текущего состояния элементов КСПД вырабатывает решение о выполнении определенных ФА на конкретных ФЭ.</segment>
+		<segment id="41" parent="96" relname="joint">4\. Блок хранения эталонных состояний (БХЭС) включает базу данных, содержащую значения эталонных состояний (текущих профилей) элементов КСПД, а также комплект документации на ФЭ (узлы КСПД, каналы связи и др.).</segment>
+		<segment id="42" parent="96" relname="joint">5\. Блок формирования отчетов (БФО) позволяет в виде документированного отчета представить сведения о текущем, прошедшем и прогнозируемом состоянии КСПД по запросу или в случае многократных ошибок, генерируемых БАПР.</segment>
+		<segment id="43" relname="antithesis">Подробно аппаратно-программная реализация блоков подсистем АСА КСПД АСУП описана в статье [3].</segment>
+		<segment id="44" parent="93" relname="preparation">Внедрение.</segment>
+		<segment id="45" parent="93" relname="span">Разработанные модели и алгоритмы легли в основу программного комплекса системы администрирования сети передачи данных (СПД) администрации Владимирской области (АВО) и СПД ОАО „Завод «Автоприбор»" (Владимир).</segment>
+		<segment id="46" parent="91" relname="joint">Программный комплекс системы администрирования СПД АВО на данном этапе обеспечивает контроль и управление более 1000 территориально распределенных узлов (ФЭ);</segment>
+		<segment id="47" parent="91" relname="joint">АСА СПД обеспечивает контроль и управление более 2000 узлов.</segment>
+		<segment id="48" parent="49" relname="evidence">Собранные в процессе статистического наблюдения внедренной системой данные показали,</segment>
+		<segment id="49" parent="90" relname="span">что упорядочилось функционирование административной службы ИТ- подразделения, а также количество отказов оборудования в течение дня в среднем понизилось.</segment>
+		<segment id="50" relname="antithesis">СПИСОК ЛИТЕРАТУРЫ</segment>
+		<segment id="51" relname="antithesis">1\. Mishin D. V., Monakhova M. M. About the optimization of the administration corporate area networks of the data transmission under scarce administrative resources // Herald of the National Technical University "KhPI". Information Science and Modelling. Kharkov: NTU "KhPI", 2011. N 17. P. 101—108.</segment>
+		<segment id="52" relname="antithesis">2\. Мишин Д. В., Монахова М. М. О модели администратора автоматизированной системы администрирования корпоративной сети передачи данных // „Перспективные технологии в средствах передачи информации". Матер. 9-й Междунар. науч.-технич. конф. Владимир: ВлГУ, 2011. Т. 1. С. 76—79.</segment>
+		<segment id="53" relname="antithesis">3\. Мишин Д. В., Монахова М. М. Модель автоматизированной системы администрирования корпоративной сети передачи данных // „Интеллектуальные системы" Тр. 9-го Междунар. симп. М.: РУСАКИ, 2010. С. 268—271.</segment>
+		<segment id="54" relname="antithesis">Сведения об авторах</segment>
+		<segment id="55" relname="antithesis">Денис Вячеславович Мишин — аспирант; Владимирский государственный университет им. А. Г. и Н. Г. Столетовых, кафедра информатики и защиты информации; E-mail:</segment>
+		<segment id="56" relname="antithesis">mishin.izi@gmail.com</segment>
+		<segment id="57" relname="antithesis">Мария Михайловна Монахова — Владимирский государственный</segment>
+		<segment id="58" relname="antithesis">университет им. А. Г. и Н. Г. Столетовых, кафедра информатики и защиты информации; инженер; E-mail: monakhova_mariya@bk.ru Аркадий Александрович</segment>
+		<segment id="59" relname="antithesis">Петров — аспирант; Владимирский государственный университет им. А. Г. и Н. Г. Столетовых, кафедра информатики и защиты информации; E-mail:</segment>
+		<segment id="60" relname="antithesis">petrov@avo.ru</segment>
+		<segment id="61" relname="antithesis">Рекомендована ВлГУ Поступила в редакцию</segment>
+		<segment id="62" relname="antithesis">17.04.12 г.</segment>
+		<segment id="63" relname="antithesis"></segment>
+		<group id="64" type="span" parent="8" relname="elaboration"/>
+		<group id="65" type="span" parent="9" relname="evidence"/>
+		<group id="66" type="span" parent="73" relname="background"/>
+		<group id="68" type="span" parent="72" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="70" type="span" parent="14" relname="elaboration"/>
+		<group id="71" type="span" parent="13" relname="purpose"/>
+		<group id="72" type="span" parent="11" relname="background"/>
+		<group id="73" type="span" parent="100" relname="span"/>
+		<group id="74" type="span" relname="antithesis"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" relname="antithesis"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="78" type="span" parent="81" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="80" type="span" parent="78" relname="elaboration"/>
+		<group id="81" type="span" parent="84" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="85" type="span" parent="25" relname="elaboration"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" relname="antithesis"/>
+		<group id="89" type="span" parent="96" relname="joint"/>
+		<group id="90" type="span" relname="antithesis"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="92" type="span" parent="45" relname="elaboration"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" relname="antithesis"/>
+		<group id="95" type="span" parent="36" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="97" type="span" parent="35" relname="elaboration"/>
+		<group id="98" type="span" relname="antithesis"/>
+		<group id="99" type="span" parent="10" relname="elaboration"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" relname="antithesis"/>
+  </body>
+</rst>

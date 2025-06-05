@@ -1,0 +1,139 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">ОСОБЕННОСТИ ФУНКЦИОНИРОВАНИЯ СУЩЕСТВИТЕЛЬНОГО REASON В ДИАЛОГИЧЕСКОЙ РЕЧИ</segment>
+		<segment id="2" relname="antithesis">( А. В. Прожога, Ю. В. Потапкина</segment>
+		<segment id="3" parent="4" relname="cause">Причина как логико-семантическая единица является важным элементом с точки зрения коммуникации,</segment>
+		<segment id="4" parent="67" relname="span">и описание ее реализации в речи редко может играть второстепенную роль.</segment>
+		<segment id="5" parent="69" relname="span">Не все языковые средства, выражающие причину, адекватно реализуют присущую им семантику:</segment>
+		<segment id="6" parent="68" relname="contrast">одни проявляют ее в любом языковом окружении,</segment>
+		<segment id="7" parent="68" relname="contrast">для других требуются определенные контекстуальные условия,</segment>
+		<segment id="8" parent="68" relname="contrast">третьи реализуют такую семантику в результате функционально-семантического сдвига,</segment>
+		<segment id="9" parent="68" relname="contrast">четвертые проявляют ее имплицитно.</segment>
+		<segment id="10" parent="73" relname="span">С этой позиции было бы интересно рассмотреть функционирование причинного маркера reason в контексте диалогических микротекстов.</segment>
+		<segment id="11" parent="71" relname="span">Диалог, как известно, состоит из инициирующих и реагирующих реплик,</segment>
+		<segment id="12" parent="11" relname="elaboration">причем языковые единицы, употребляющиеся и в инициирующих, и в реагирующих репликах, по-разному функционируют в зависимости от условий, в которых происходит диалог (спонтанность или приуроченность к ситуации, официальность или неформальность общения, социальный статус собеседников, место — учебное учреждение, суд, спортивное состязание и т. д.).</segment>
+		<segment id="13" parent="72" relname="restatement">Иными словами, каждый из данных факторов оказывает влияние на выбор языковых средств, реализующихся в различных типах диалогов.</segment>
+		<segment id="14" parent="74" relname="span">В настоящей статье мы рассмотрим функционирование существительного reason в неофициальных или бытовых диалогах.</segment>
+		<segment id="15" parent="75" relname="span">В первую очередь хотелось отметить функционирование существительного reason в реагирующих репликах на вопросительные инициирующие реплики, начинающиеся с вопросительного слова why.</segment>
+		<segment id="16" parent="79" relname="span">При анализе микротекстов обнаруживается, что функция reason не всегда одинакова.</segment>
+		<segment id="17" parent="78" relname="span">Сравним примеры:</segment>
+		<segment id="18" parent="76" relname="joint">а) — / was falling in love — falling in love because love is catching and Molly was so obviously in love with me — why? God only know. — / can see several possible reasons why. She might have loved you because... Well, because you're quite an attractive kind of queer fish [4, p. 118].</segment>
+		<segment id="19" parent="76" relname="joint">б) — Oh God, Alex. / can't get Rescoe out of my mind. How could he do it? Why? — It seems there were some reasons [3, p. 491].</segment>
+		<segment id="20" parent="76" relname="joint">в) — Is it how you always say 'nine'? — Yes. Why please? — No reason really. I just assumed controllers would say 'niner' [1, p. 104].</segment>
+		<segment id="21" parent="76" relname="joint">r) Juanita asked sharply, 'Why do you need to?' — No reason. I just thought... [3, p. 368— 369].</segment>
+		<segment id="22" parent="82" relname="span">В первом примере выражению причинных отношений сопутствует эмфаза с фреймом why — because.</segment>
+		<segment id="23" parent="80" relname="span">Здесь обоснование причины происходит с помощью обычных синтаксических конструкций,</segment>
+		<segment id="24" parent="23" relname="cause">чему способствует употребление причинного союза because.</segment>
+		<segment id="25" parent="81" relname="span">Реагирующая реплика с reason, I can see several possible reasons why, акцентирует внимание собеседника на предстоящем раскрытии причины, которая вербализуется посредством каузального марке- j pa because,</segment>
+		<segment id="26" parent="25" relname="concession">хотя сама по себе и не является репликой, раскрывающей запрашиваемую причину.</segment>
+		<segment id="27" parent="110" relname="comparison">Во втором примере существительное reason выполняет номинативную функцию, субстантивируя событие, выраженное предикативной единицей.</segment>
+		<segment id="28" relname="antithesis">t</segment>
+		<segment id="29" parent="108" relname="span">В последних двух примерах существительное reason выступает в катафорической функции,</segment>
+		<segment id="30" parent="29" relname="cause">настраивая слушающего на последующее обоснование, которое происходит в форме конструкции I just + глагол умственной деятельности.</segment>
+		<segment id="31" parent="84" relname="span">В следующем примере существительное j reason также выполняет катафорическую I функцию, осложненную следственной семан- j тикой, выраженной союзом so: '</segment>
+		<segment id="32" parent="31" relname="elaboration">1 Don't you agree Kathren?' ; 4Yes, Penelope. Everyone here's pretty j vengefulj 4WhyГ \ 1One reason's because we're such a closely \ knit society, very interrelated, and everyone 54 ВЕСТНИК Мордовского университета | 2008 | № 3 knows everyone else — and almost all their secrets. Another's because hatreds here go back generations and have been nurtured for generation. When you hate you hate with all your heart. Another's because this is piratical society with very few curbs so you can get away with all sorts of vengeance [5, p. 262].</segment>
+		<segment id="33" parent="85" relname="span">Следует отметить, что, как и в первом примере, синтаксическое построение реагирующей реплики является обычным также</segment>
+		<segment id="34" parent="33" relname="cause">благодаря вербализации союза because.</segment>
+		<segment id="35" parent="86" relname="span">В следующем примере используется допол-I нительное причинное языковое средство why, функционирующее здесь как союзное местоимение, вводящее придаточное причины:</segment>
+		<segment id="36" parent="35" relname="elaboration">— ...You have found it, of course? — Found what? — Don't try to dissemble with me\ I know why you came here, and / have come for some reason. I will not be balked [6, p. 24].</segment>
+		<segment id="37" parent="87" relname="joint">Каузальный маркер why, использующийся в реагирующей реплике, не называет</segment>
+		<segment id="38" parent="87" relname="joint">и не раскрывает причину,</segment>
+		<segment id="39" parent="89" relname="contrast">а лишь указывает на знание этой причины одним из коммуникантов,</segment>
+		<segment id="40" parent="90" relname="contrast">а существительное reason в предложно-еубстан-тивной группе for some reason в структуре следственного элементарного предложения акцентирует внимание собеседника на причинных отношениях,</segment>
+		<segment id="41" parent="90" relname="contrast">но не называет их.</segment>
+		<segment id="42" parent="94" relname="elaboration">Называние причины происходит лишь в случае вербализации причинного союза because.</segment>
+		<segment id="43" parent="96" relname="span">К особенностям функционирования существительного reason можно отнести и вербализацию этой языковой единицы в инициирующих репликах.</segment>
+		<segment id="44" parent="97" relname="span">Рассмотрим пример:</segment>
+		<segment id="45" parent="44" relname="elaboration">7 haven't had much of an opportunity to do anything. / didn't ever get through the customs' 'There must be some reason? A mistaken identity perhaps?' (They haven't explained things very clearly to me yet. / look a bit the worse for wear, / except' [2, p. 112].</segment>
+		<segment id="46" parent="109" relname="span">Существительное reason объясняет причину или природу возникновения следствия,</segment>
+		<segment id="47" parent="46" relname="evidence">что можно наблюдать в употреблении второй инициирующей реплики, как бы подсказывающей одну из возможных причин.</segment>
+		<segment id="48" parent="100" relname="span">В следующем примере логико-семантические отношения, выражаемые причинным маркером reason, раскрываются не непосредственно реагирующей репликой, а всем контекстом диалога:</segment>
+		<segment id="49" parent="48" relname="elaboration">— / want Par-Con Industries bigger than General Motors &amp; Exxon combined. — What for? — For my goddam pleasure. — Now tell me the real reason. — Ah, Casey, that's why f love you. You listen and you know [5, p. 64].</segment>
+		<segment id="50" parent="101" relname="contrast">Ответная реплика Tor my goddam pleasure' сама по себе не дает четкого представления о типе семантических отношений, выражаемых в предыдущих высказываниях.</segment>
+		<segment id="51" parent="101" relname="contrast">Лишь следующая реплика 'Now tell me the real reason' указывает на причинные отношения, раскрываемые в предыдущей реплике.</segment>
+		<segment id="52" parent="103" relname="span">Таким образом, в данном случае reason выполняет уточняющую функцию, раскрывая определенные логико-семантические отношения.</segment>
+		<segment id="53" parent="104" relname="span">Итак, можно говорить о нескольких функциях существительного reason в неофициальных или бытовых микротекстах или диалогах.</segment>
+		<segment id="54" parent="53" relname="elaboration">Общим и для инициирующих и для реагирующих реплик является отсутствие объяснения причины посредством данного языкового средства.</segment>
+		<segment id="55" parent="105" relname="contrast">В инициирующих репликах данная языковая единица выполняет функцию уточняющего, требующего объяснения причины, элемента.</segment>
+		<segment id="56" parent="105" relname="contrast">В реагирующих репликах она реализует несколько функций, а именно: риторическую, обращенную к общим фоновым знаниям участников речевого акта, и катафорическую, или эмфатическую, выделительную, акцентирующую внимание собственно на причине.</segment>
+		<segment id="57" relname="antithesis">БИБЛИОГРАФИЧЕСКИЙ СПИСОК</segment>
+		<segment id="58" relname="antithesis">1\. Gann Е. К. Band of Brothers. L. : Hodder and Stoughton, 1974. 316 p.</segment>
+		<segment id="59" relname="antithesis">2\. Green G. The Comedians. Harmondsworth : Penguin Books, 1976. 287 p.</segment>
+		<segment id="60" relname="antithesis">3\. Hailey A. The Moneychangers. N. Y. : Bantam Books, 1976. 500 p.</segment>
+		<segment id="61" relname="antithesis">4\. Huxley A. Island. L. : Panther, 1979. 336 p.</segment>
+		<segment id="62" relname="antithesis">5\. James C. Noble House. N. Y. : Dell Publishing Co., 1982. 984 p.</segment>
+		<segment id="63" relname="antithesis">6\. Robert E. Conan The Usurper. L. : Sphere, 1977. 203 p.</segment>
+		<segment id="64" relname="antithesis">Поступила /0.06.08.</segment>
+		<segment id="65" relname="antithesis">Серия «Гуманитарные науки»</segment>
+		<segment id="66" relname="antithesis"></segment>
+		<group id="67" type="span" parent="70" relname="span"/>
+		<group id="68" type="multinuc" parent="5" relname="elaboration"/>
+		<group id="69" type="span" parent="67" relname="elaboration"/>
+		<group id="70" type="span" relname="antithesis"/>
+		<group id="71" type="span" parent="72" relname="restatement"/>
+		<group id="72" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="73" type="span" parent="14" relname="preparation"/>
+		<group id="74" type="span" relname="antithesis"/>
+		<group id="75" type="span" relname="antithesis"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="77" type="span" parent="17" relname="elaboration"/>
+		<group id="78" type="span" parent="16" relname="elaboration"/>
+		<group id="79" type="span" parent="15" relname="elaboration"/>
+		<group id="80" type="span" parent="22" relname="elaboration"/>
+		<group id="81" type="span" parent="83" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="83" type="multinuc" parent="107" relname="span"/>
+		<group id="84" type="span" parent="110" relname="comparison"/>
+		<group id="85" type="span" relname="antithesis"/>
+		<group id="86" type="span" relname="antithesis"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="88" type="span" parent="89" relname="contrast"/>
+		<group id="89" type="multinuc" parent="92" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="91" type="span" parent="93" relname="contrast"/>
+		<group id="92" type="span" parent="93" relname="contrast"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" relname="antithesis"/>
+		<group id="96" type="span" relname="antithesis"/>
+		<group id="97" type="span" parent="43" relname="elaboration"/>
+		<group id="100" type="span" relname="antithesis"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="102" type="span" parent="52" relname="cause"/>
+		<group id="103" type="span" relname="antithesis"/>
+		<group id="104" type="span" parent="111" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="106" type="span" parent="111" relname="elaboration"/>
+		<group id="107" type="span" parent="110" relname="comparison"/>
+		<group id="108" type="span" parent="110" relname="comparison"/>
+		<group id="109" type="span" relname="antithesis"/>
+		<group id="110" type="multinuc" relname="antithesis"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" relname="antithesis"/>
+  </body>
+</rst>

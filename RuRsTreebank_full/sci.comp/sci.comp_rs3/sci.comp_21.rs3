@@ -1,0 +1,419 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Вестник Санкт-Петербургского университета. 2005. Сер. 9, вып. 3</segment>
+		<segment id="2" relname="antithesis">В.Д Гусев} Л.А. Мирошниченко, Н.В. Саломатина (Новосибирск, Ин-т математики)</segment>
+		<segment id="3" relname="antithesis">ВЫЯВЛЕНИЕ АНОМАЛИЙ В РАСПРЕДЕЛЕНИИ ЛЕКСИЧЕСКИХ ЕДИНИЦ В ТЕКСТЕ*</segment>
+		<segment id="4" parent="200" relname="span">В работах по автоматическому индексированию и реферированию текстов часто выделяют два этапа.1</segment>
+		<segment id="5" parent="197" relname="span">Первый связан с предварительной сегментацией текста на субтексты, называемые обычно суперсинтаксическими или сверхфразовыми единствами,</segment>
+		<segment id="6" parent="5" relname="elaboration">которые в общем случае могут не совпадать с единицами авторского членения текста.</segment>
+		<segment id="7" parent="198" relname="sequence">На втором этапе из выделенных субтекстов извлекаются наиболее информативные признаки (ключевые слова и словосочетания, отдельные фразы).</segment>
+		<segment id="8" parent="213" relname="span">В настоящей статье предлагается новый метод выделения сверхфразовых единств, основанный на выявлении неравномерностей (аномалий) в распределении отдельных лексических единиц по длине текста.</segment>
+		<segment id="9" parent="212" relname="span">Он может быть охарактеризован как частотно-позиционный.</segment>
+		<segment id="10" parent="202" relname="span">Частота учитывается при отборе исходных лексических единиц</segment>
+		<segment id="11" parent="10" relname="purpose">для последующего позиционного анализа</segment>
+		<segment id="12" parent="204" relname="span">(рассматриваются словоформы с частотой [формула] ,</segment>
+		<segment id="13" parent="12" relname="elaboration">где пороговые значения [символ] и [символ] зависят от длины текста).</segment>
+		<segment id="14" parent="205" relname="span">Собственно, позиционный анализ,</segment>
+		<segment id="15" parent="14" relname="elaboration">традиционные схемы которого описаны С.И. Гиндиным,</segment>
+		<segment id="16" parent="206" relname="same-unit">в рамках нашей методики не привязан к внешней (задаваемой автором) структуре текста.</segment>
+		<segment id="17" parent="201" relname="span">В основе лежит предположение о том, что слова, демонстрирующие аномалии в позиционном распределении, обычно оказываются более значимыми, чем распределенные равномерно</segment>
+		<segment id="18" parent="17" relname="elaboration">(примером последних являются служебные слова).</segment>
+		<segment id="19" parent="221" relname="span">В ходе позиционного анализа выделяются кластеры - области с аномально высокой концентрацией отдельных лексических единиц.</segment>
+		<segment id="20" parent="21" relname="purpose">Для их обнаружения</segment>
+		<segment id="21" parent="214" relname="span">используется аппарат сканирующих статистик в сочетании с имитационным моделированием, позволяющим оценить значимость выявленной аномалии.</segment>
+		<segment id="22" parent="218" relname="span">Размеры кластеров варьируют в широком диапазоне.</segment>
+		<segment id="23" parent="215" relname="joint">Кластеры, образуемые разными лексическими единицами, могут не пересекаться,</segment>
+		<segment id="24" parent="215" relname="joint">частично пересекаться</segment>
+		<segment id="25" parent="217" relname="span">или быть вложенными друг в друга.</segment>
+		<segment id="26" parent="25" relname="elaboration">В последнем случае речь идет о группе лексических единиц, тематически связанных друг с другом.</segment>
+		<segment id="27" parent="223" relname="span">Спектр структурных закономерностей, выделяемых с помощью сканирующих статистик, не ограничен одними лишь кластерами.</segment>
+		<segment id="28" parent="29" relname="cause">В частности, некоторые закономерности носят характер своеобразных запретов на присутствие конкретной словоформы в том или ином участке текста или запретов на чрезмерное сближение (удаление) различных вхождений одной и той же словоформы в текст.</segment>
+		<segment id="29" parent="392" relname="span">Такого рода нерегулярности повышают значимостный статус соответствующей словоформы.</segment>
+		<segment id="30" parent="230" relname="preparation">Методика выявления позиционных аномалий.</segment>
+		<segment id="31" parent="227" relname="span">Задача выявления неравно-мерностей позиционного распределения отдельных словоформ текста сводится к изучению различных схем расстановки точек на линии</segment>
+		<segment id="32" parent="31" relname="elaboration">(каждую точку можно интерпретировать как место вхождения анализируемой словоформы в текст).</segment>
+		<segment id="33" parent="226" relname="span">Простейшая постановка выглядит так:</segment>
+		<segment id="34" parent="35" relname="condition">пусть [символ] - случайный набор точек из единичного интервала (О, 1);</segment>
+		<segment id="35" parent="225" relname="span">требуется проверить гипотезу о равномерности (Н0) против альтернативы (H1), связанной с тем или иным типом кластеризации.</segment>
+		<segment id="36" parent="228" relname="span">Одно из наиболее эффективных решений этой задачи основано на использовании сканирующей статистики n(d), фиксирующей максимальное число точек n, попавших в интервал длины d при всевозможных расположениях этого интервала внутри единичного отрезка.</segment>
+		<segment id="37" parent="224" relname="span">Статистика названа сканирующей,</segment>
+		<segment id="38" parent="37" relname="cause">поскольку ее вычисление ведется путем подсчета числа точек, попавших в окно ширины скользящее вдоль отрезка.</segment>
+		<segment id="39" parent="235" relname="span">Со статистикой n(d) тесно связана другая - n(d), фиксирующая длину минимального интервала, содержащего ровно b точек ([символ]).</segment>
+		<segment id="40" parent="232" relname="joint">Распределение статистики n(d) при нулевой гипотезе получено исследователями</segment>
+		<segment id="41" parent="232" relname="joint">и частично затабулировано.</segment>
+		<segment id="42" parent="233" relname="elaboration">Для отдельных случаев получены более простые аппроксимации.</segment>
+		<segment id="43" parent="236" relname="span">Из чисто алгоритмических соображений мы используем статистику n(d) и некоторые полезные ее модификации, уже не ориентированные непосредственно на выявление кластеров.</segment>
+		<segment id="44" parent="237" relname="joint">Пусть х - заданная цепочка текста (символ, словоформа или словосочетание),</segment>
+		<segment id="45" parent="237" relname="joint">F(х) - число ее вхождений в текст,</segment>
+		<segment id="46" parent="237" relname="joint">n - фиксированное число последовательных вхождений х в текст ([символ]).</segment>
+		<segment id="47" parent="239" relname="span">Рассмотрим следующие статистики:</segment>
+		<segment id="48" parent="240" relname="joint">d1(n)* - длина минимального фрагмента текста, содержащего п вхождений цепочки х (первый минимум);</segment>
+		<segment id="49" parent="243" relname="span">d2(n) - длина следующего по величине фрагмента, содержащего п вхождений цепочки х (второй минимум);</segment>
+		<segment id="50" parent="49" relname="elaboration">по определению ([символ]);</segment>
+		<segment id="51" parent="240" relname="joint">D1(n) - длина максимального интервала, начинающегося и заканчивающегося цепочкой х и содержащего ровно п вхождений этой цепочки (первый максимум);</segment>
+		<segment id="52" parent="240" relname="joint">D2(n) - второй максимум ([символ]);</segment>
+		<segment id="53" parent="240" relname="joint">Р(n) - число фрагментов, на которых достигается минимум или максимум в любой из предыдущих статистик;</segment>
+		<segment id="54" parent="240" relname="joint">Dнач(х) (соответственно Dкон(х)) - длина максимального начального (конечного) фрагмента, свободного от х.</segment>
+		<segment id="55" parent="244" relname="joint">Заметим, что табулирование распределений рассматриваемых статистик при гипотезе Н0 представляется достаточно трудоемким,</segment>
+		<segment id="56" parent="244" relname="joint">к тому же для некоторых статистик (например, для Р(n)) эти распределения неизвестны.</segment>
+		<segment id="57" parent="247" relname="same-unit">В этой ситуации</segment>
+		<segment id="58" parent="59" relname="purpose">для оценки значимости отклонений, вычисляемых на тексте статистик, от значений, постулируемых гипотезой Н0 (равномерность),</segment>
+		<segment id="59" parent="246" relname="span">целесообразно прибегнуть к имитационному моделированию.</segment>
+		<segment id="60" parent="265" relname="span">Схема выявления позиционных аномалий в распределении лексических единиц по длине текста тогда выглядит следующим образом.</segment>
+		<segment id="61" parent="251" relname="joint">1. Проводим нормализацию словоформ текста</segment>
+		<segment id="62" parent="251" relname="joint">и подсчитываем частоту встречаемости каждой словоформы в нормализованном тексте</segment>
+		<segment id="63" parent="252" relname="elaboration">(в простейшем случае процедура нормализации может быть заменена отбрасыванием окончаний).</segment>
+		<segment id="64" parent="254" relname="sequence">Отбираем слова (или основы слов), удовлетворяющие ограничениям по частоте.</segment>
+		<segment id="65" parent="262" relname="span">2. Для каждого словах x с [символ] проводим перебор по всем допустимым значениям n ([символ]).</segment>
+		<segment id="66" parent="258" relname="same-unit">Для фиксированного n:</segment>
+		<segment id="67" parent="256" relname="sequence">а) вычисляем значения интересующих нас статистик в анализируемом тексте;</segment>
+		<segment id="68" parent="260" relname="sequence">б) с помощью имитационного моделирования для заданных N (длина текста), F(x) и n оцениваем распределения этих статистик при гипотезе H0.</segment>
+		<segment id="69" parent="393" relname="span">С этой целью путем многократного перемешивания исходного текста формируем m его рандомизированных аналогов со случайным равномерным распределением слова х по длине текста</segment>
+		<segment id="70" parent="69" relname="background">(приемлемым является диапазон значений m от 100 до 1000).</segment>
+		<segment id="71" parent="260" relname="sequence">По полученной подборке вычисляем оценки минимального, максимального и среднего значений каждой статистики (соответственно Smin, Smax и S), а также характеристики разброса (среднеквадратичные отклонения S).</segment>
+		<segment id="72" parent="270" relname="span">3. Выявляем аномальные отклонения наблюдаемых на исходном тексте значений статистик (SHa6n) от оценок, полученных в имитационном эксперименте.</segment>
+		<segment id="73" parent="266" relname="span">Считаем, что аномалия имеет место,</segment>
+		<segment id="74" parent="269" relname="span">если выполняется условие</segment>
+		<segment id="75" parent="267" relname="joint">[формула] (1)</segment>
+		<segment id="76" parent="267" relname="joint">или [формула] (2).</segment>
+		<segment id="77" parent="275" relname="span">4. Выявленные позиционные аномалии интерпретируем в содержательных терминах.</segment>
+		<segment id="78" parent="79" relname="condition">В частности, если d1(n) аномально мало (см. условие (1)) при некотором не слишком малом значении n (например, n>=5),</segment>
+		<segment id="79" parent="271" relname="span">имеет место кластеризация словоформы х.</segment>
+		<segment id="80" parent="81" relname="condition">Если D1(2) слишком велико (см. условие (2)),</segment>
+		<segment id="81" parent="272" relname="span">имеем гэп - аномально длинный фрагмент текста, свободный от х.</segment>
+		<segment id="82" parent="276" relname="joint">Если d1(2) аномально велико,</segment>
+		<segment id="83" parent="276" relname="joint">а D1(2) аномально мало,</segment>
+		<segment id="84" parent="278" relname="span">можно говорить о сверхравномерном распределении словоформы x по тексту.</segment>
+		<segment id="85" parent="273" relname="joint">Аномально малые значения D2(n) часто (но не всегда) связаны с наличием изолированной точки в распределении элементов х по тексту.</segment>
+		<segment id="86" parent="274" relname="attribution">Более детально классификация выявляемых позиционных аномалий описана В.Д. Гусевым с соавторами.6</segment>
+		<segment id="87" parent="294" relname="preparation">Описание эксперимента.</segment>
+		<segment id="88" parent="292" relname="span">Анализировались два типа текстов: художественные (принадлежащий Б. Заходеру перевод на русский язык известной книги Алана А. Милна «WINNIE-the-РООН»; объем около 40 тыс. слов) и научные (выставленные в Internet материалы конференции «Диалог'2002»; в частности, достаточно объемная статья И. А. Секериной «Метод вызванных потенциалов мозга в американской психолингвистике и его использование при решении проблемы порядка слов в русском языке», объем свыше 12 тыс. слов).</segment>
+		<segment id="89" parent="288" relname="joint">В первом случае (перевод Б. Заходера) учет словоизменительной парадигмы проводился путем отбрасывания окончаний.</segment>
+		<segment id="90" parent="288" relname="joint">Нижний порог отбора по частоте (F^p) принимался равным 10.</segment>
+		<segment id="91" parent="286" relname="joint">Во втором случае (статья И.А. Секериной) использовалась процедура нормализации (приведение к канонический форме),</segment>
+		<segment id="92" parent="286" relname="joint">а значение [символ] выбиралось равным 5.</segment>
+		<segment id="93" parent="284" relname="span">Ограничений сверху на частоту анализируемой лексической единицы не вводилось,</segment>
+		<segment id="94" parent="93" relname="purpose">чтобы не отсечь, наряду с высокочастотными служебными и общеупотребительными словами, наиболее частые тематически значимые слова.</segment>
+		<segment id="95" parent="283" relname="span">Вместе с тем целесообразность введения таких ограничений очевидна хотя бы из тех соображений,</segment>
+		<segment id="96" parent="280" relname="contrast">что в рандомизированных текстах высокочастотные слова с большой вероятностью образуют тандемные вхождения,</segment>
+		<segment id="97" parent="280" relname="contrast">тогда как в реальном тексте такого рода события маловероятны,</segment>
+		<segment id="98" parent="282" relname="span">вследствие чего любое высокочастотное слово будет квалифицировано как имеющее аномалии в позиционном распределении.</segment>
+		<segment id="99" parent="100" relname="cause">Поскольку размеры текстов и величины порогов были согласованы,</segment>
+		<segment id="100" parent="296" relname="span">число отобранных для позиционного анализа словоформ в обоих текстах оказалось близким (559 - у Б. Заходера и 519 - у И. А. Секериной).</segment>
+		<segment id="101" parent="298" relname="span">Значимые позиционные аномалии продемонстрировали около 35 % отобранных словоформ в первом тексте и около 40 % - во втором.</segment>
+		<segment id="102" parent="103" relname="cause">Большая часть аномалий связана с кластеризацией конкретных словоформ в определенном участке текста,</segment>
+		<segment id="103" parent="297" relname="span">следствием чего иногда было появление «гэпов» и «разрежений» в оставшейся части текста.</segment>
+		<segment id="104" parent="312" relname="span">Каждый кластер характеризуется образующей его лексической единицей х, позиционной привязкой, числом вхождений в него лексической единицы п и линейным размером d(n).</segment>
+		<segment id="105" parent="104" relname="elaboration">Последний задает общее число словоформ в выделенном участке текста (кластере).</segment>
+		<segment id="106" parent="311" relname="span">Значимость кластера удобно определять безразмерной величиной [формула],</segment>
+		<segment id="107" parent="309" relname="joint">где [формула] - среднее расстояние между вхождениями х в текст,</segment>
+		<segment id="108" parent="309" relname="joint">a v(x) = d(n)/n - среднее внутрикластерное расстояние между вхождениями х.</segment>
+		<segment id="109" parent="308" relname="span">Показатель [символ] следует использовать при не слишком малых n (например, n >= 5);</segment>
+		<segment id="110" parent="307" relname="span">чтобы не придавать излишний вес тандемным вхождениям лексической единицы,</segment>
+		<segment id="111" parent="110" relname="elaboration">вероятность которых при неучете знаков пунктуации довольно велика.</segment>
+		<segment id="112" parent="314" relname="span">Аналогичную характеристику [символ] можно ввести для «гэпов» (А(х) = и(х) /(D(x) - 2), где D(x) - 2 - длина «гэпа»).</segment>
+		<segment id="113" parent="301" relname="comparison">Чем больше [символ],</segment>
+		<segment id="114" parent="301" relname="comparison">тем выше значимость кластера,</segment>
+		<segment id="115" parent="304" relname="comparison">и чем меньше [символ],</segment>
+		<segment id="116" parent="304" relname="comparison">тем выше значимость «гэпа».</segment>
+		<segment id="117" parent="320" relname="evidence">Имитационное моделирование показало,</segment>
+		<segment id="118" parent="319" relname="restatement">что кластеры со средним числом точек [символ],выделяемые как аномальные в соответствии с правилом (1), характеризуются значениями [символ] порядка 5 и выше</segment>
+		<segment id="119" parent="319" relname="restatement">(т.е. плотность точек х в кластере в 5 раз и более выше, чем в среднем по тексту).</segment>
+		<segment id="120" parent="321" relname="elaboration">При n порядка 20 и выше значимыми уже являются значения[символ] ~ 3-^-4.</segment>
+		<segment id="121" parent="323" relname="span">Подобного рода приближенные соотношения позволяют заменить достаточно трудоемкое (в случае длинных текстов) имитационное моделирование вычислением значения [символ] в скользящем окне и сравнением его с порогом.</segment>
+		<segment id="122" parent="123" relname="preparation">Обсуждение результатов.</segment>
+		<segment id="123" parent="395" relname="span">Анализ позиционных аномалий позволяет сделать следующие выводы.</segment>
+		<segment id="124" parent="324" relname="span">1. Существует множество механизмов, приводящих к кластеризации лексических единиц определенного типа в той или иной части текста.</segment>
+		<segment id="125" parent="124" relname="evidence">Например, длинный список англоязычной литературы в конце статьи И.А. Секериной является важным источником терминологической лексики.</segment>
+		<segment id="126" parent="127" relname="cause">Частота встречаемости многих терминов превышает пороговое значение,</segment>
+		<segment id="127" parent="325" relname="span">вследствие чего они проявляют себя в русском тексте как сильно кластеризованные элементы, расположенные в конце.</segment>
+		<segment id="128" parent="327" relname="span">Рисунки и таблицы могут находиться в одной части текста</segment>
+		<segment id="129" parent="128" relname="evidence">(что имеет место в статье Секериной),</segment>
+		<segment id="130" parent="328" relname="span">из-за чего кластеризованными оказываются слова типа «рисунок», «представленный» и др.</segment>
+		<segment id="131" parent="329" relname="span">Множество стихотворных вкраплений в переводе Б. Заходера является богатым источником весьма неожиданных кластеризации</segment>
+		<segment id="132" parent="131" relname="evidence">{«Если бы только, если бы только, если бы только нашему кролику росту прибавить хоть малую толику!»).</segment>
+		<segment id="133" parent="331" relname="evaluation">Число подобных примеров структурной кластеризации легко увеличить.</segment>
+		<segment id="134" parent="336" relname="span">Однако основной механизм кластеризации связан с развитием сюжетно-тема- тической линии.</segment>
+		<segment id="135" parent="335" relname="span">Так, изменение состава действующих лиц в отдельных главах и эпизодах, смена окружающей обстановки (нора, река, лес ...), изменение целевой установки (экспедиция, строительство жилья и т. п.), яркие события (день рождения, наводнение) обычно проявляются наличием кластеров из тематически связанных слов.</segment>
+		<segment id="136" parent="135" relname="evidence">Например, сцена с наводнением (гл. 9 из перевода Б. Заходера) характеризуется кластеризацией таких лексических единиц, как «дождь», «лить», «вода», «плавать», «спасать», «корабль», «зонтик», «бутылка» и др.</segment>
+		<segment id="137" parent="343" relname="span">2. Наиболее информативными оказываются кластеры, представленные среднечас- тотными словоформами.</segment>
+		<segment id="138" parent="137" relname="elaboration">Такие словоформы обычно формируют единственный кластер, включающий в себя большую часть вхождений данной словоформы в текст.</segment>
+		<segment id="139" parent="337" relname="span">Высокочастотные тематически значимые словоформы часто образуют несколько позиционно разнесенных кластеров с относительно небольшим числом точек я, но с достаточно высоким значением показателя [символ].</segment>
+		<segment id="140" parent="340" relname="span">Например, каноническая форма x = «слово», встречающаяся в нормализованном варианте статьи И.А. Секериной F(x) = 119 раз, образует два кластера с числом точек в каждом порядка 12 / 15 и значениями [символ].</segment>
+		<segment id="141" parent="338" relname="joint">Первый из них покрывает два абзаца в разделе «Восприятие слов и их составляющих»,</segment>
+		<segment id="142" parent="338" relname="joint">второй - половину абзаца в разделе «Смысл и память».</segment>
+		<segment id="143" parent="341" relname="span">Высокочастотные служебные слова такого рода миникластеров с высоким значением [символ], как правило, не образуют,</segment>
+		<segment id="144" parent="143" relname="concession">хотя имеют достаточно протяженные участки аномальных сгущений с большим числом точек, но невысоким значением [символ] ~ 1,5 2.</segment>
+		<segment id="145" parent="341" relname="evaluation">Их интерпретация не столь очевидна.</segment>
+		<segment id="146" parent="346" relname="span">3. Большая часть слов, демонстрирующих аномалии в позиционном распределении, относится к категории имен существительных и прилагательных.</segment>
+		<segment id="147" parent="356" relname="span">Последние обычно входят в состав устойчивых словосочетаний: doctoral (dissertation), «правое» (полушарие), «свободный» (порядок слов) и т.п.</segment>
+		<segment id="148" parent="348" relname="span">Некоторые устойчивые словосочетания формально обнаруживаются по наличию налагающихся кластеров одинакового размера,</segment>
+		<segment id="149" parent="148" relname="elaboration">позиционная привязка которых отличается на единицу.</segment>
+		<segment id="150" parent="352" relname="contrast">Например, канонические формы «программный» и «обеспечение» образуют кластеры с параметрами n = 7, d1(n) = 600, [символ] = 12,3,</segment>
+		<segment id="151" parent="350" relname="comparison">но позиционная привязка первого из них (х = «программный») равна 5838 (начало фрагмента),</segment>
+		<segment id="152" parent="350" relname="comparison">а второго (х = «обеспечение») - 5839,</segment>
+		<segment id="153" parent="354" relname="span">что свидетельствует о наличии устойчивого сочетания: «программное обеспечение».</segment>
+		<segment id="154" parent="355" relname="elaboration">Отметим, что устойчивых словосочетаний в научном тексте за счет терминологической лексики (статья И.А. Секериной) оказалось гораздо больше, чем в художественном («Винни-Пух»).</segment>
+		<segment id="155" parent="362" relname="span">4. Попытка оценивания значимости слов только по частоте (отсеивание высокочастотных словоформ) или функциональному назначению (отсеивание служебных слов) наталкивается на многочисленные контрпримеры.</segment>
+		<segment id="156" parent="157" relname="cause">В статье И.А. Секериной, например, многие тематически значимые слова (предложение, эксперимент, электрод, испытуемый и др.) относятся к разряду высокочастотных,</segment>
+		<segment id="157" parent="358" relname="span">и их отсеивание по порогу было бы нежелательным.</segment>
+		<segment id="158" parent="396" relname="span">Задание же слишком высокого порога делает процедуру фильтрации неэффективной:</segment>
+		<segment id="159" parent="158" relname="cause">отсеивается слишком мало слов.</segment>
+		<segment id="160" parent="360" relname="solutionhood">Компромисс может быть найден в установлении приемлемого порога, но с дополнительной проверкой отсеиваемых слов на наличие позиционных аномалий.</segment>
+		<segment id="161" parent="367" relname="span">Аналогично обстоит дело с отсеиванием по функциональному назначению (списком).</segment>
+		<segment id="162" parent="366" relname="span">Например, подлежащее устранению среднечастотное междометие «ага» в переводе Б. Заходера неожиданно демонстрирует сильную кластеризацию.</segment>
+		<segment id="163" parent="364" relname="cause">Объяснение состоит в том, что в данном конкретном случае это слово используется не по прямому назначению, а иносказательно, как планируемый вариант ответа на вопрос Кенги о том, куда делся ее детеныш.</segment>
+		<segment id="164" parent="364" relname="span">Тем самым содержательный статус слова «ага» резко повышается:</segment>
+		<segment id="165" parent="166" relname="cause">оно становится значимым элементом плана похищения Крошки Ру,</segment>
+		<segment id="166" parent="363" relname="span">и кластеризация отражает эту метаморфозу.</segment>
+		<segment id="167" parent="368" relname="span">5. Подавляющая часть ключевых слов и словосочетаний</segment>
+		<segment id="168" parent="167" relname="evidence">(а их в авторском списке И.А. Секериной - 43, включая упоминавшиеся выше «электрод», «эксперимент», «испытуемый» и др.)</segment>
+		<segment id="169" parent="369" relname="same-unit">показывает значимые позиционные аномалии.</segment>
+		<segment id="170" parent="372" relname="span">Исключение составляют лишь слова и словосочетания, не преодолевшие нижнего порога по частоте (например, «дисперсионный анализ»).</segment>
+		<segment id="171" parent="371" relname="span">Почти все аномалии связаны с кластеризацией,</segment>
+		<segment id="172" parent="171" relname="concession">лишь понятия, относящиеся к высокому уровню проблемно- ориентированной иерархии («психолингвистика», «русский язык», «восприятие»), характеризуются аномальными «разрежениями» (D(n) - аномально велико).</segment>
+		<segment id="173" parent="377" relname="restatement">6\. Из других типов позиционных аномалий, особенно характерных для художественных текстов, отметим наличие «свободных (от х) концов»</segment>
+		<segment id="174" parent="377" relname="restatement">(D)нач(х) и/или Dкон(х) аномально велики).</segment>
+		<segment id="175" parent="374" relname="joint">Этот тип аномалий обусловлен тем, что не все действующие лица вводятся в повествование одновременно</segment>
+		<segment id="176" parent="374" relname="joint">и фигурируют в нем до конца.</segment>
+		<segment id="177" parent="382" relname="span">Аномалий типа «сверхравномерное распределение» встречается немного,</segment>
+		<segment id="178" parent="381" relname="span">но они важны,</segment>
+		<segment id="179" parent="178" relname="cause">поскольку иногда играют роль «разделителей» на разных иерархических уровнях.</segment>
+		<segment id="180" parent="384" relname="span">К примеру, в тексте Б. Заходера сверхравномерное распределение демонстрирует слово «глава».</segment>
+		<segment id="181" parent="180" relname="elaboration">Свойство сверхравномерности в данном случае означает, что нет слишком коротких и длинных глав.</segment>
+		<segment id="182" parent="388" relname="span">Итак, в настоящей статье предложена методика выявления аномалий в распределении слов, словосочетаний или связанных цепочек символов (в общем случае) по длине текста.</segment>
+		<segment id="183" parent="182" relname="elaboration">В ее основе лежит использование сканирующих статистик и имитационного моделирования для оценки значимости наблюдаемых аномалий.</segment>
+		<segment id="184" parent="386" relname="joint">Проведена классификация основных типов аномалий.</segment>
+		<segment id="185" parent="186" relname="evidence">Эксперименты с художественными и научными текстами показали,</segment>
+		<segment id="186" parent="385" relname="span">что элементарные языковые единицы, демонстрирующие яркие позиционные аномалии, являются наиболее значимыми в плане отражения содержания текста.</segment>
+		<segment id="187" parent="390" relname="span">Это может служить основанием для широкого использования позиционной информации в задачах автоматического индексирования и сегментации текстов, как слитных, типа ДНК и АМ- последовательностей, так и с заданной структурой (естественные языки).</segment>
+		<segment id="188" relname="antithesis">1 Luhn Н.Р. The automatic creation of literature abstracts // IBM J. Research and Development. 1958. Vol. 2. №2.</segment>
+		<segment id="189" relname="antithesis">2 Ibid.</segment>
+		<segment id="190" relname="antithesis">3 См. работу С.И. Гиндина.</segment>
+		<segment id="191" relname="antithesis">4 Naus J.L The distribution of the size of the maximum cluster of points on a line // J. Amer. Statist. Assoc. 1965. Vol. 61. №310.</segment>
+		<segment id="192" relname="antithesis">5 Wallenstein S.R., Naus J.L Probabilities for a k-th nearest neighbor problem on the line // Annals of Probability. 1973. Vol. 1. № 1.</segment>
+		<segment id="193" relname="antithesis">7 Гусев В.Д., Немытикова JI.А., Саломатина Н.В. Выявление аномалий в распределении слов или связных цепочек символов по длине текста // Интеллектуальный анализ данных. Вычислительные системы. Новосибирск, 2002.</segment>
+		<segment id="194" relname="antithesis">Вып. 171.</segment>
+		<segment id="195" relname="antithesis">Статья поступила в редакцию 30 июня 2005 г.</segment>
+		<segment id="196" relname="antithesis"></segment>
+		<group id="197" type="span" parent="198" relname="sequence"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="4" relname="elaboration"/>
+		<group id="200" type="span" relname="antithesis"/>
+		<group id="201" type="span" parent="207" relname="elaboration"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="208" relname="joint"/>
+		<group id="204" type="span" parent="202" relname="elaboration"/>
+		<group id="205" type="span" parent="206" relname="same-unit"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="391" relname="span"/>
+		<group id="208" type="multinuc" parent="211" relname="span"/>
+		<group id="211" type="span" parent="9" relname="elaboration"/>
+		<group id="212" type="span" parent="8" relname="elaboration"/>
+		<group id="213" type="span" relname="antithesis"/>
+		<group id="214" type="span" parent="219" relname="joint"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="22" relname="elaboration"/>
+		<group id="217" type="span" parent="215" relname="joint"/>
+		<group id="218" type="span" parent="219" relname="joint"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="19" relname="elaboration"/>
+		<group id="221" type="span" relname="antithesis"/>
+		<group id="223" type="span" relname="antithesis"/>
+		<group id="224" type="span" parent="36" relname="elaboration"/>
+		<group id="225" type="span" parent="33" relname="elaboration"/>
+		<group id="226" type="span" parent="227" relname="elaboration"/>
+		<group id="227" type="span" parent="229" relname="span"/>
+		<group id="228" type="span" parent="229" relname="solutionhood"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" relname="antithesis"/>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="39" relname="elaboration"/>
+		<group id="235" type="span" parent="43" relname="background"/>
+		<group id="236" type="span" relname="antithesis"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="47" relname="condition"/>
+		<group id="239" type="span" parent="242" relname="span"/>
+		<group id="240" type="multinuc" parent="241" relname="span"/>
+		<group id="241" type="span" parent="239" relname="elaboration"/>
+		<group id="242" type="span" relname="antithesis"/>
+		<group id="243" type="span" parent="240" relname="joint"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="249" relname="span"/>
+		<group id="246" type="span" parent="247" relname="same-unit"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="250" relname="span"/>
+		<group id="249" type="span" relname="antithesis"/>
+		<group id="250" type="span" parent="245" relname="solutionhood"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="254" relname="sequence"/>
+		<group id="254" type="multinuc" parent="255" relname="span"/>
+		<group id="255" type="span" parent="263" relname="sequence"/>
+		<group id="256" type="multinuc" parent="257" relname="span"/>
+		<group id="257" type="span" parent="258" relname="same-unit"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="259" type="span" parent="65" relname="elaboration"/>
+		<group id="260" type="multinuc" parent="261" relname="span"/>
+		<group id="261" type="span" parent="256" relname="sequence"/>
+		<group id="262" type="span" parent="263" relname="sequence"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="60" relname="elaboration"/>
+		<group id="265" type="span" parent="248" relname="elaboration"/>
+		<group id="266" type="span" parent="72" relname="elaboration"/>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="74" relname="elaboration"/>
+		<group id="269" type="span" parent="73" relname="condition"/>
+		<group id="270" type="span" parent="263" relname="sequence"/>
+		<group id="271" type="span" parent="273" relname="joint"/>
+		<group id="272" type="span" parent="273" relname="joint"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="279" relname="span"/>
+		<group id="275" type="span" parent="263" relname="sequence"/>
+		<group id="276" type="multinuc" parent="277" relname="span"/>
+		<group id="277" type="span" parent="84" relname="condition"/>
+		<group id="278" type="span" parent="273" relname="joint"/>
+		<group id="279" type="span" parent="77" relname="elaboration"/>
+		<group id="280" type="multinuc" parent="281" relname="span"/>
+		<group id="281" type="span" parent="98" relname="cause"/>
+		<group id="282" type="span" parent="95" relname="evidence"/>
+		<group id="283" type="span" parent="284" relname="evaluation"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="291" relname="elaboration"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="290" relname="comparison"/>
+		<group id="288" type="multinuc" parent="289" relname="span"/>
+		<group id="289" type="span" parent="290" relname="comparison"/>
+		<group id="290" type="multinuc" parent="291" relname="span"/>
+		<group id="291" type="span" parent="293" relname="span"/>
+		<group id="292" type="span" parent="294" relname="span"/>
+		<group id="293" type="span" parent="292" relname="elaboration"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" relname="antithesis"/>
+		<group id="296" type="span" parent="394" relname="span"/>
+		<group id="297" type="span" parent="101" relname="elaboration"/>
+		<group id="298" type="span" parent="299" relname="joint"/>
+		<group id="299" type="multinuc" parent="296" relname="elaboration"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="303" relname="joint"/>
+		<group id="303" type="multinuc" parent="306" relname="span"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="303" relname="joint"/>
+		<group id="306" type="span" parent="112" relname="elaboration"/>
+		<group id="307" type="span" parent="109" relname="purpose"/>
+		<group id="308" type="span" parent="313" relname="joint"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="106" relname="elaboration"/>
+		<group id="311" type="span" parent="316" relname="span"/>
+		<group id="312" type="span" parent="316" relname="preparation"/>
+		<group id="313" type="multinuc" parent="315" relname="span"/>
+		<group id="314" type="span" parent="313" relname="joint"/>
+		<group id="315" type="span" parent="311" relname="elaboration"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="317" type="span" relname="antithesis"/>
+		<group id="319" type="multinuc" parent="320" relname="span"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="121" relname="purpose"/>
+		<group id="323" type="span" relname="antithesis"/>
+		<group id="324" type="span" parent="326" relname="span"/>
+		<group id="325" type="span" parent="333" relname="span"/>
+		<group id="326" type="span" relname="antithesis"/>
+		<group id="327" type="span" parent="130" relname="cause"/>
+		<group id="328" type="span" parent="330" relname="joint"/>
+		<group id="329" type="span" parent="330" relname="joint"/>
+		<group id="330" type="multinuc" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="325" relname="evidence"/>
+		<group id="333" type="span" parent="334" relname="span"/>
+		<group id="334" type="span" parent="324" relname="elaboration"/>
+		<group id="335" type="span" parent="134" relname="evidence"/>
+		<group id="336" type="span" relname="antithesis"/>
+		<group id="337" type="span" parent="344" relname="comparison"/>
+		<group id="338" type="multinuc" parent="339" relname="span"/>
+		<group id="339" type="span" parent="140" relname="elaboration"/>
+		<group id="340" type="span" parent="139" relname="evidence"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="344" relname="comparison"/>
+		<group id="343" type="span" parent="344" relname="comparison"/>
+		<group id="344" type="multinuc" parent="345" relname="span"/>
+		<group id="345" type="span" relname="antithesis"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" relname="antithesis"/>
+		<group id="348" type="span" parent="355" relname="span"/>
+		<group id="350" type="multinuc" parent="351" relname="span"/>
+		<group id="351" type="span" parent="352" relname="contrast"/>
+		<group id="352" type="multinuc" parent="353" relname="span"/>
+		<group id="353" type="span" parent="153" relname="evidence"/>
+		<group id="354" type="span" parent="348" relname="elaboration"/>
+		<group id="355" type="span" parent="357" relname="span"/>
+		<group id="356" type="span" parent="146" relname="elaboration"/>
+		<group id="357" type="span" parent="147" relname="elaboration"/>
+		<group id="358" type="span" parent="359" relname="comparison"/>
+		<group id="359" type="multinuc" parent="360" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="155" relname="elaboration"/>
+		<group id="362" type="span" relname="antithesis"/>
+		<group id="363" type="span" parent="164" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="162" relname="solutionhood"/>
+		<group id="366" type="span" parent="161" relname="evidence"/>
+		<group id="367" type="span" relname="antithesis"/>
+		<group id="368" type="span" parent="369" relname="same-unit"/>
+		<group id="369" type="multinuc" parent="370" relname="span"/>
+		<group id="370" type="span" parent="373" relname="span"/>
+		<group id="371" type="span" parent="170" relname="elaboration"/>
+		<group id="372" type="span" parent="370" relname="concession"/>
+		<group id="373" type="span" relname="antithesis"/>
+		<group id="374" type="multinuc" parent="375" relname="span"/>
+		<group id="375" type="span" parent="376" relname="cause"/>
+		<group id="376" type="span" parent="378" relname="span"/>
+		<group id="377" type="multinuc" parent="376" relname="span"/>
+		<group id="378" type="span" parent="379" relname="joint"/>
+		<group id="379" type="multinuc" parent="380" relname="span"/>
+		<group id="380" type="span" relname="antithesis"/>
+		<group id="381" type="span" parent="177" relname="evaluation"/>
+		<group id="382" type="span" parent="383" relname="span"/>
+		<group id="383" type="span" parent="379" relname="joint"/>
+		<group id="384" type="span" parent="382" relname="evidence"/>
+		<group id="385" type="span" parent="386" relname="joint"/>
+		<group id="386" type="multinuc" parent="387" relname="span"/>
+		<group id="387" type="span" parent="389" relname="span"/>
+		<group id="388" type="span" parent="387" relname="preparation"/>
+		<group id="389" type="span" parent="187" relname="cause"/>
+		<group id="390" type="span" relname="antithesis"/>
+		<group id="391" type="span" parent="208" relname="joint"/>
+		<group id="392" type="span" parent="27" relname="evidence"/>
+		<group id="393" type="span" parent="260" relname="sequence"/>
+		<group id="394" type="span" relname="antithesis"/>
+		<group id="395" type="span" relname="antithesis"/>
+		<group id="396" type="span" parent="359" relname="comparison"/>
+  </body>
+</rst>

@@ -1,0 +1,600 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-effect" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation-evaluation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://forum.awd.ru/viewtopic.php?t=357211_sid=d6736074d8cc023e5a0c79515f633c84</segment>
+		<segment id="2" >##### Патагония наоборот, с юга на север: часть 2.</segment>
+		<segment id="3" parent="303" relname="contrast">##### Чаще всего народ по Патагонии путешествуют с севера на юг.</segment>
+		<segment id="4" parent="303" relname="contrast">Андрей решил пойти в прямо противоположном направлении.</segment>
+		<segment id="5" parent="304" relname="span">В 5 утра вылетели в Пунто Аренос .</segment>
+		<segment id="6" parent="5" relname="elaboration">Пунто – значит точка по-испански.</segment>
+		<segment id="7" parent="304" relname="interpretation-evaluation">Не знаю, почему у них названия населенных пунктов из двух слов.</segment>
+		<segment id="8" parent="307" relname="restatement">А есть еще пуэрто,</segment>
+		<segment id="9" parent="307" relname="restatement">что в переводе означает порт.</segment>
+		<segment id="10" parent="309" relname="span">И дальше по маршруту у нас куча всяких пуэрто,</segment>
+		<segment id="11" parent="10" relname="cause-effect">потому что Патагония - это прежде всего вода.</segment>
+		<segment id="12" parent="309" relname="elaboration">Причем, вода везде: в водоемах – куча озер, океаны, и в воздухе – сплошная низкая облачность, туманы и дожди.</segment>
+		<segment id="13" parent="313" relname="span">##### Перелет в Пунта-Ареная прошел незаметно,</segment>
+		<segment id="14" parent="312" relname="span">поскольку отрубились,</segment>
+		<segment id="15" parent="14" relname="condition">только зайдя в самолет.</segment>
+		<segment id="16" parent="314" relname="joint">Настораживало только то, что после жаркого Сантьяго народ держал в руках весьма конкретные пуховки</segment>
+		<segment id="17" parent="314" relname="joint">и почему-то никого не было в сланцах.</segment>
+		<segment id="18" parent="319" relname="span">По прилету за бортом были уже привычные 10-12 градусов.</segment>
+		<segment id="19" parent="318" relname="span">Впечатление, что прилетел в населенный пункт где-то на Ямале,</segment>
+		<segment id="20" parent="317" relname="contrast">было бы один к одному, если бы еще жужжали комары.</segment>
+		<segment id="21" parent="316" relname="span">А их не было,</segment>
+		<segment id="22" parent="21" relname="interpretation-evaluation">что сразу наводило на мысль: «Заграница!».</segment>
+		<segment id="23" parent="321" relname="cause-effect">##### Нас никто не встречал</segment>
+		<segment id="24" parent="321" relname="joint">и пришлось названивать по телефону</segment>
+		<segment id="25" parent="321" relname="joint">и приглядываться к въезжающим машинам.</segment>
+		<segment id="26" parent="328" relname="span">Но всего лишь с получасовой задержкой Маурисио появился на горизонте,</segment>
+		<segment id="27" parent="26" relname="condition">подогнав почти родную Сузуки.</segment>
+		<segment id="28" parent="327" relname="span">Только по ту сторону шарика она называется не Гранд Витара, а Гранд Номад, типа великий кочевник.</segment>
+		<segment id="29" parent="325" relname="cause-effect">Ну а если кочевник,</segment>
+		<segment id="30" parent="324" relname="cause-effect">значит тепло</segment>
+		<segment id="31" parent="324" relname="span">и подогрев сидений излишний,</segment>
+		<segment id="32" parent="31" relname="interpretation-evaluation">что вообще девушкам не очень понравилось.</segment>
+		<segment id="33" parent="323" relname="span">Остальное все оговоренное было,</segment>
+		<segment id="34" parent="33" relname="condition">включая дополнительную канистру на 20 л.</segment>
+		<segment id="35" parent="36" relname="cause-effect">С бумажками оказался небольшой косяк,</segment>
+		<segment id="36" parent="331" relname="span">пришлось ехать в контору Пунта-Аренаса.</segment>
+		<segment id="37" parent="332" relname="joint">Ну, а нам и так туда надо было затариваться.</segment>
+		<segment id="38" parent="338" relname="span">Задержка с оформлением имела и свои приятные моменты:</segment>
+		<segment id="39" parent="40" relname="condition">стоило похвалить хозяину его подборку вин над барбекюшницей,</segment>
+		<segment id="40" parent="333" relname="span">как Маурисио вручил пузырь на дорогу,</segment>
+		<segment id="41" parent="334" relname="contrast">что, с одной стороны, приятно,</segment>
+		<segment id="42" parent="335" relname="span">а с другой , заставляет думать, что видимо переплатили,</segment>
+		<segment id="43" parent="42" relname="concession">несмотря на продолжительный торг.</segment>
+		<segment id="44" parent="337" relname="span">Ну, подводная лодка Патагонии, а красное вино положено</segment>
+		<segment id="45" parent="44" relname="purpose">для восстановления нервов и выведения радикальных мыслей!</segment>
+		<segment id="46" parent="341" relname="span">##### Быстро метнулись по магазинам,</segment>
+		<segment id="47" parent="46" relname="purpose">чтобы купить самое необходимое</segment>
+		<segment id="48" parent="342" relname="same-unit">в этом наиболее крупном городе по дороге.</segment>
+		<segment id="49" parent="343" relname="span">Сильно затариться не имело смысла,</segment>
+		<segment id="50" parent="49" relname="cause-effect">поскольку через границу не очень пропускают продукты соседней страны.</segment>
+		<segment id="51" parent="343" relname="cause-effect">В Аргентину еще ничего, а вот в Чили можно и штраф схлопотать за сельхозпродукцию.</segment>
+		<segment id="52" parent="351" relname="span">##### Пунто Аренос – это чилийский город на южной оконечности материка на берегу Магелланова пролива население 100 тыс.</segment>
+		<segment id="53" parent="52" relname="elaboration">Тут мы взяли машину, на которой нам предстояло проехать 6000 км с юга Патагонии до ее севера.</segment>
+		<segment id="54" parent="359" relname="preparation">##### Наш путь лежал дальше на юг к переправе через пролив.</segment>
+		<segment id="55" parent="359" relname="contrast">Огненная земля поделена между соседними странами,</segment>
+		<segment id="56" parent="354" relname="span">но на аргентинскую сторону можно попасть только через чилийские переправы, которых всего две: одна прямо из Пунта-Аренас в Порвенир</segment>
+		<segment id="57" parent="353" relname="joint">(плыть несколько часов.</segment>
+		<segment id="58" parent="59" relname="cause-effect">Ходит редко,</segment>
+		<segment id="59" parent="352" relname="span">и в шторм высока вероятность застрять на одном из берегов),</segment>
+		<segment id="60" parent="357" relname="span">а вторая в самом узком месте Магелланова пролива.</segment>
+		<segment id="61" parent="355" relname="span">Естественно мы двинули в сторону последней,</segment>
+		<segment id="62" parent="61" relname="concession">хотя прогноз каркал, что имеется вероятность приостановки ее работы.</segment>
+		<segment id="63" parent="355" relname="elaboration">На схемке представлены наши метания.</segment>
+		<segment id="64" parent="360" relname="elaboration">##### IMG</segment>
+		<segment id="65" parent="364" relname="span">##### Переправа пашет почти сутки с небольшим перерывом ночью.</segment>
+		<segment id="66" parent="363" relname="span">Не работает также,</segment>
+		<segment id="67" parent="66" relname="condition">когда ветер мешает.</segment>
+		<segment id="68" parent="365" relname="contrast">Нам еще нужно было успеть пройти границу,</segment>
+		<segment id="69" parent="366" relname="span">а пропускной пункт работал до вечера,</segment>
+		<segment id="70" parent="69" relname="elaboration">до какого времени мы точно не знали.</segment>
+		<segment id="71" parent="368" relname="span">##### Самое узкое место пролива.</segment>
+		<segment id="72" parent="71" relname="evidence">Видно берег.</segment>
+		<segment id="73" parent="368" relname="elaboration">##### IMG IMG</segment>
+		<segment id="74" parent="374" relname="span">##### Вообще конечно названия Магелланов пролив, Огненная земля и так далее, заставляют сердце биться побыстерее.</segment>
+		<segment id="75" parent="74" relname="elaboration">Особенно, когда мысленно представишь точку, где ты сейчас находишься, на карте.</segment>
+		<segment id="76" parent="373" relname="span">Но когда торопишься к границе все эти сантименты быстро заканчиваются.</segment>
+		<segment id="77" parent="78" relname="cause-effect">До пункта ночевки нам нужно было ехать 650 км, до границы с Аргентиной 200.</segment>
+		<segment id="78" parent="372" relname="span">Времени на любование особо не было.</segment>
+		<segment id="79" parent="376" relname="span">Остановились поздороваться с Атлантикой.</segment>
+		<segment id="80" parent="79" relname="elaboration">Был как раз отлив.</segment>
+		<segment id="81" parent="377" relname="elaboration">##### IMG IMG</segment>
+		<segment id="82" parent="378" relname="elaboration">##### Пустынность и просторы, какие могут быть только на краю света.</segment>
+		<segment id="83" parent="380" relname="restatement">##### Дальше погнали по степям, говоря нашим языком,</segment>
+		<segment id="84" parent="380" relname="restatement">которые здесь называют пампа.</segment>
+		<segment id="85" parent="385" relname="span">##### Пейзаж не очень радовал, такое сочетание сухой тундры с башкирскими степями, с небольшими холмами</segment>
+		<segment id="86" parent="85" relname="elaboration">в понижениях между которыми ветер дул особенно сильно как в аэродинамической трубе.</segment>
+		<segment id="87" parent="381" relname="span">Особенно это ощущалось</segment>
+		<segment id="88" parent="87" relname="condition">при разъездах с большегрузами,</segment>
+		<segment id="89" parent="382" relname="span">держать машину на дороге приходилось со всей силы.</segment>
+		<segment id="90" parent="383" relname="sequence">С непривычки на остановке чуть дверцу ветром не оторвало,</segment>
+		<segment id="91" parent="383" relname="sequence">дальше уж этот фактор учитывали.</segment>
+		<segment id="92" parent="388" relname="joint">##### Честно говоря, наблюдаемый пейзаж не радовал</segment>
+		<segment id="93" parent="387" relname="span">и вызывал некоторое недоумение,</segment>
+		<segment id="94" parent="93" relname="elaboration">что ж тут такого увлекательного.</segment>
+		<segment id="95" parent="96" relname="cause-effect">Приблизительно через 100 км асфальт решил кончиться</segment>
+		<segment id="96" parent="391" relname="span">и к езде по гравию прибавилось беспокойство о топливе.</segment>
+		<segment id="97" parent="399" relname="contrast">На карте фигурировал поселок с заправкой,</segment>
+		<segment id="98" parent="398" relname="span">который оказался пограничным постом с чилийской территории, а заправка уже в Аргентине.</segment>
+		<segment id="99" parent="396" relname="span">##### Прохождение границы с машиной шло в три этапа:</segment>
+		<segment id="100" parent="392" relname="span">сначала паспорта</segment>
+		<segment id="101" parent="100" relname="condition">со сдачей въездной карты,</segment>
+		<segment id="102" parent="393" relname="sequence">потом проверка всех документов на машину, потом таможня и бонус - собственно пограничники.</segment>
+		<segment id="103" parent="104" relname="condition">Если не считать общения на суржике из испано-англо-русских слов,</segment>
+		<segment id="104" parent="394" relname="span">то все более-менее,</segment>
+		<segment id="105" parent="394" relname="condition">главное в систему вникнуть.</segment>
+		<segment id="106" parent="401" relname="joint">##### После широкой нейтральной полосы аналогичная процедура на аргентинском посту,</segment>
+		<segment id="107" parent="401" relname="joint">и в 100 м за ней виднелась заправка.</segment>
+		<segment id="108" parent="401" relname="elaboration">К слову сказать, в Аргентине бензин процентов на 20 дешевле чем в Чили.</segment>
+		<segment id="109" parent="403" relname="joint">Мы радостно заезжаем</segment>
+		<segment id="110" parent="403" relname="joint">и пытаемся понять автоматическая это станция или за наличку.</segment>
+		<segment id="111" parent="404" relname="sequence">Не поняли,</segment>
+		<segment id="112" parent="413" relname="joint">зашли в подсобку</segment>
+		<segment id="113" parent="413" relname="joint">и поймали мучачо, мол, газолин давай!</segment>
+		<segment id="114" parent="405" relname="span">Да легко,</segment>
+		<segment id="115" parent="114" relname="attribution">говорит, доблестный гаучо,</segment>
+		<segment id="116" parent="406" relname="same-unit">давайте наличку.</segment>
+		<segment id="117" parent="408" relname="solutionhood">Дык нет, а как карточка?</segment>
+		<segment id="118" parent="408" relname="contrast">Нет, либо местная карточка, либо аргентинские песо,</segment>
+		<segment id="119" parent="407" relname="joint">доллары мы не уважаем,</segment>
+		<segment id="120" parent="407" relname="joint">а про чилийцев вообще не упоминайте.</segment>
+		<segment id="121" parent="422" relname="joint">Обменника на границе не положено (вот странно, первые страны с такой практикой).</segment>
+		<segment id="122" parent="419" relname="condition">На слезные просьбы, мол у нас топливо кончается,</segment>
+		<segment id="123" parent="418" relname="cause-effect">участливо спросил на сколько километров осталось</segment>
+		<segment id="124" parent="416" relname="attribution">и почесав в затылке заключил ,</segment>
+		<segment id="125" parent="416" relname="span">что до следующей заправки должно хватить,</segment>
+		<segment id="126" parent="415" relname="joint">а там ДОЛЖНЫ давать по карте</segment>
+		<segment id="127" parent="415" relname="joint">или может будут работать банки...</segment>
+		<segment id="128" parent="420" relname="interpretation-evaluation">Я думаю гиду в этот момент очень начало икаться.</segment>
+		<segment id="129" parent="425" relname="interpretation-evaluation">##### Вообще немного непонятно,</segment>
+		<segment id="130" parent="425" relname="span">но с обменниками оказались очень ограниченные возможности,</segment>
+		<segment id="131" parent="424" relname="comparison">даже в крупных городах долго приходилось искать,</segment>
+		<segment id="132" parent="424" relname="comparison">а в малых поселках вообще никаких просветов.</segment>
+		<segment id="133" parent="428" relname="span">Хотя еще пару лет назад в стране было несколько курсов обмена</segment>
+		<segment id="134" parent="427" relname="comparison">и «черный» у уличных менял был почти в 10 раз больше,</segment>
+		<segment id="135" parent="427" relname="comparison">наподобие Узбекистана.</segment>
+		<segment id="136" parent="137" relname="cause-effect">##### Следующие 100 км до Рио-Гранде пролетели в легком волнении,</segment>
+		<segment id="137" parent="430" relname="span">поэтому на появившийся слева по борту Атлантический океан особого внимания не обращали.</segment>
+		<segment id="138" parent="431" relname="contrast">Заправка на въезде в город была закрыта,</segment>
+		<segment id="139" parent="431" relname="contrast">но навигатор обещал наличие еще парочки,</segment>
+		<segment id="140" parent="433" relname="span">по городу кружили уже на парах.</segment>
+		<segment id="141" parent="432" relname="contrast">Рио-Гранде южный близнец наших Нового Уренгоя или Ноябрьска,</segment>
+		<segment id="142" parent="432" relname="contrast">только этажность ограничена 3 этажами: такие же сборные ангары, веселенькая раскраска и т.д.</segment>
+		<segment id="143" parent="437" relname="interpretation-evaluation">Со второй попытки нам повезло,</segment>
+		<segment id="144" parent="437" relname="sequence">точней мы в наглую заправились,</segment>
+		<segment id="145" parent="437" relname="sequence">а потом пошли платить.</segment>
+		<segment id="146" parent="147" relname="concession">И слава богу хоть и с большим торможением,</segment>
+		<segment id="147" parent="439" relname="span">но карта сработала.</segment>
+		<segment id="148" parent="440" relname="span">Дальше можно было ехать не особо дергаясь.</segment>
+		<segment id="149" parent="442" relname="comparison">##### Тут на побережье остановились взглянуть на километры обнажившегося во время отлива дна океана.</segment>
+		<segment id="150" parent="442" relname="comparison">С нашей Обской губой большое сходство</segment>
+		<segment id="151" parent="443" relname="comparison">и понятно почему они такие длинные причальные терминалы сооружают.</segment>
+		<segment id="152" parent="443" relname="comparison">У нас на севере предпочли каналы на отмели рыть.</segment>
+		<segment id="153" parent="446" relname="span">##### А дальше дорога отвернула от океана и холмистый пейзаж постепенно стал переходить в горный и залесенный.</segment>
+		<segment id="154" parent="445" relname="comparison">Причем деревья все поросли мхом,</segment>
+		<segment id="155" parent="445" relname="comparison">прямо как в африканских джунглях.</segment>
+		<segment id="156" parent="446" relname="elaboration">##### IMG IMG</segment>
+		<segment id="157" parent="158" relname="preparation">##### Да и ветер почти стих!</segment>
+		<segment id="158" parent="450" relname="span">В итоге получается собственно Огненная земля имеет как минимум три совершенно отличных ландшафтных зоны: северная – степь, южная – горы с лесом и кучей озер и западная – высокие горы с ледниками, разделенные фьордами.</segment>
+		<segment id="159" parent="452" relname="span">И южная , где находится Ушуайя отличается своим микроклиматом</segment>
+		<segment id="160" parent="451" relname="joint">гораздо теплей чем в округе</segment>
+		<segment id="161" parent="451" relname="joint">и загорожено с большей части горами даже со стороны океана.</segment>
+		<segment id="162" parent="163" relname="cause-effect">##### Время поджимало</segment>
+		<segment id="163" parent="454" relname="span">и мы неслись по хорошей дороге среди неожиданно густого мшистого леса.</segment>
+		<segment id="164" parent="456" relname="same-unit">В итоге</segment>
+		<segment id="165" parent="166" relname="concession">несмотря на длительный световой день</segment>
+		<segment id="166" parent="455" relname="span">приехали мы в ночи</segment>
+		<segment id="167" parent="458" relname="span">и хорошо хоть хозяева посады соизволили нас запустить</segment>
+		<segment id="168" parent="457" relname="span">с ходу проинформировав, что к 8 за нами приедут</segment>
+		<segment id="169" parent="168" relname="purpose">для экскурсии в нацпарк.</segment>
+		<segment id="170" parent="460" relname="joint">Идти в местные харчевни было поздно,</segment>
+		<segment id="171" parent="460" relname="joint">да и денег у нас не было,</segment>
+		<segment id="172" parent="463" relname="joint">поэтому достали примус</segment>
+		<segment id="173" parent="463" relname="joint">и сделали себе чай с Гала-гала,</segment>
+		<segment id="174" parent="462" relname="sequence">благополучно отключившись под обязательным спальником</segment>
+		<segment id="175" parent="464" relname="contrast">##### Спальники в принципе нигде не были лишними,</segment>
+		<segment id="176" parent="464" relname="contrast">разве в одном месте обошлись без них.</segment>
+		<segment id="177" parent="465" relname="contrast">Отопление, конечно, имеется,</segment>
+		<segment id="178" parent="465" relname="contrast">но тепла к которому мы привыкли в суровой России видимо нигде нет.</segment>
+		<segment id="179" parent="466" relname="concession">Камины, малюсенькие батареи и прочая экономная бодяга околеть не дадут,</segment>
+		<segment id="180" parent="466" relname="joint">но к такому комфорту долго привыкать</segment>
+		<segment id="181" parent="466" relname="joint">и лучше хорошо одетому.</segment>
+		<segment id="182" parent="473" relname="span">##### С утра мы хоть увидели куда прибыли.</segment>
+		<segment id="183" parent="182" relname="elaboration">Из окна виднелся порт с круизными кораблями идущими в Антарктиду или огибающему Америку снизу.</segment>
+		<segment id="184" parent="475" relname="span">##### Ушуайя стоит на берегу пролива Бигль,</segment>
+		<segment id="185" parent="474" relname="span">названного в честь корабля , на котором Дарвин подрабатывал натуралистом.</segment>
+		<segment id="186" parent="185" relname="elaboration">Именно в этом плавании они открыли пролив между островом Огненной землей и более мелкими группами островов.</segment>
+		<segment id="187" parent="476" relname="joint">Пролив гораздо глубоководней</segment>
+		<segment id="188" parent="476" relname="joint">и безопасней по ветрам,</segment>
+		<segment id="189" parent="479" relname="span">в целом удобней Магелланового</segment>
+		<segment id="190" parent="477" relname="span">и сейчас рассматривается как основной для крупных кораблей.</segment>
+		<segment id="191" parent="477" relname="elaboration">С юга ограничен островом Наварин, за которым собственно и находится мыс Гор</segment>
+		<segment id="192" parent="482" relname="span">Ушуайя – самый южный город в мире.</segment>
+		<segment id="193" parent="481" relname="contrast">В Чили есть еще поселок южнее,</segment>
+		<segment id="194" parent="481" relname="contrast">но город наиюжнейший принадлежит Аргентине.</segment>
+		<segment id="195" parent="483" relname="span">Огненная земля поделена между Чили и Аргентиной.</segment>
+		<segment id="196" parent="195" relname="elaboration">Границу они, не мудрствуя лукаво, провели по меридиану.</segment>
+		<segment id="197" parent="486" relname="span">##### В аргентинскую часть можно прибыть только по морю или воздуху.</segment>
+		<segment id="198" parent="199" relname="condition">А если хочется как мы по земле,</segment>
+		<segment id="199" parent="485" relname="span">то только через чилийскую переправу.</segment>
+		<segment id="200" parent="488" relname="contrast">Но самое узкое место Магелланова пролива – это единственный бонус на чилийской территории.</segment>
+		<segment id="201" parent="487" relname="joint">Аргентинцам же достались все запасы нефти а газа на острове.</segment>
+		<segment id="202" parent="487" relname="joint">А еще разнообразные ландшафты.</segment>
+		<segment id="203" parent="492" relname="span">##### Ушуайя со всех сторон на земле заботливо прикрыта от ветров,</segment>
+		<segment id="204" parent="203" relname="elaboration">господствующих на остальной плоской части острова, горами.</segment>
+		<segment id="205" parent="491" relname="span">Зрелище очень красивое – синий-синий океан и снежные горы.</segment>
+		<segment id="206" parent="205" relname="interpretation-evaluation">Прямо картинка, а не город.</segment>
+		<segment id="207" parent="493" relname="elaboration">##### IMG</segment>
+		<segment id="208" parent="497" relname="span">##### И оформили его соответственно.</segment>
+		<segment id="209" parent="496" relname="contrast">Все заточено под турбизнес.</segment>
+		<segment id="210" parent="496" relname="contrast">А как же иначе?</segment>
+		<segment id="211" parent="498" relname="span">Ведь в этот самый южный город приходят круизные суда.</segment>
+		<segment id="212" parent="499" relname="span">Он же является перевалочной базой</segment>
+		<segment id="213" parent="212" relname="purpose">для путешествий в Антарктиду как круизов, так и остальных.</segment>
+		<segment id="214" parent="500" relname="elaboration">##### IMG</segment>
+		<segment id="215" parent="503" relname="span">##### Наш гид в Сантьяго немного пренебрежительно отзывался об Ушуае,</segment>
+		<segment id="216" parent="215" relname="interpretation-evaluation">мол слишком туристична и т.д.</segment>
+		<segment id="217" parent="504" relname="contrast">Но нам она очень понравилась.</segment>
+		<segment id="218" parent="512" relname="span">##### На удивление пунктуально прибыла машина, отвезшая к большому автобусу , забитому испаноязычной публикой.</segment>
+		<segment id="219" parent="506" relname="concession">Девушка-экскурсовод очень старалась поделится ценной информацией,</segment>
+		<segment id="220" parent="505" relname="contrast">но большая часть как вошла,</segment>
+		<segment id="221" parent="505" relname="contrast">так и вышла</segment>
+		<segment id="222" parent="505" relname="condition">с поправкой на понимание языка.</segment>
+		<segment id="223" parent="508" relname="joint">И что это конец света,</segment>
+		<segment id="224" parent="508" relname="joint">и что здесь заканчивается Панамериканская дорога,</segment>
+		<segment id="225" parent="509" relname="span">и какие уважаемые люди тут были,</segment>
+		<segment id="226" parent="225" relname="elaboration">в том числе сидели,</segment>
+		<segment id="227" parent="508" relname="joint">и как близко до Антарктиды,</segment>
+		<segment id="228" parent="508" relname="joint">и какая здесь дивная погода,</segment>
+		<segment id="229" parent="508" relname="joint">и какой здесь самый южный горнолыжный комплекс и т.д, и т.п.</segment>
+		<segment id="230" parent="510" relname="span">Все это было пока мы ехали к въезду в парк мимо неозвученных милитаристских сооружений.</segment>
+		<segment id="231" parent="514" relname="contrast">##### С момента постоянного обитания Ушуайя играла роль Магадана или Воркуты, где перековывались местные криминальные и даже политические деятели.</segment>
+		<segment id="232" parent="513" relname="span">Но в отличие от наших мест не столь отдаленных с этого теперь такой аттракцион и гордость сделали,</segment>
+		<segment id="233" parent="232" relname="interpretation-evaluation">что диву даешься.</segment>
+		<segment id="234" parent="518" relname="joint">Тюремная символика как рыцарские доспехи,</segment>
+		<segment id="235" parent="515" relname="span">узкоколейка круче «Восточного экспресса»</segment>
+		<segment id="236" parent="235" relname="elaboration">(и кажется дороже),</segment>
+		<segment id="237" parent="516" relname="joint">а в Южной Америке вообще она распространена не сильно</segment>
+		<segment id="238" parent="516" relname="joint">и идет за самостоятельное шоу.</segment>
+		<segment id="239" parent="519" relname="span">##### Даже кемпинг, работающий в пик сезона и наплыв самостоятельных туристов выполнен в виде плаца огражденного колючей проволокой.</segment>
+		<segment id="240" parent="239" relname="elaboration">##### IMG IMG</segment>
+		<segment id="241" parent="527" relname="span">##### Узкоколейка, по которой зеки ездили дрова заготавливать – главный туристический аттракцион этих мест.</segment>
+		<segment id="242" parent="524" relname="span">Теперь это вылизанная как игрушечная, естественно, самая южная в мире железная дорога.</segment>
+		<segment id="243" parent="523" relname="joint">Цены взвинтили до предела за 30 минут пути</segment>
+		<segment id="244" parent="523" relname="joint">и катают ошалевших от своего географического местоположения туриcтов.</segment>
+		<segment id="245" parent="527" relname="elaboration">##### IMG IMG IMG IMG IMG IMG</segment>
+		<segment id="246" parent="529" relname="span">##### Сначала приехали на ж/д станцию.</segment>
+		<segment id="247" parent="528" relname="joint">Желающие поехали кататься,</segment>
+		<segment id="248" parent="528" relname="joint">мы погуляли в округе.</segment>
+		<segment id="249" parent="530" relname="span">Потом нас вывезли на берег пролива Бигль,</segment>
+		<segment id="250" parent="249" relname="elaboration">который отделяет Огненную землю от островов, которые идут к мысу Горн.</segment>
+		<segment id="251" parent="531" relname="span">Причем берег сложен зелено-голубой породой.</segment>
+		<segment id="252" parent="251" relname="interpretation-evaluation">Мне показалось, что это разновидность талька.</segment>
+		<segment id="253" parent="531" relname="interpretation-evaluation">Виды просто завораживающие.</segment>
+		<segment id="254" parent="534" relname="elaboration">##### IMG IMG IMG IMG IMG</segment>
+		<segment id="255" parent="537" relname="joint">##### На берегу залива Лапотайя экскурсовод показала карту,</segment>
+		<segment id="256" parent="257" relname="attribution">рассказала,</segment>
+		<segment id="257" parent="536" relname="span">что часть Антарктиды они считают своей.</segment>
+		<segment id="258" parent="259" relname="interpretation-evaluation">Но большим сюрпризом оказалось,</segment>
+		<segment id="259" parent="538" relname="span">что широта тут более низкая, чем наша.</segment>
+		<segment id="260" parent="539" relname="comparison">Там была 55 параллель,</segment>
+		<segment id="261" parent="539" relname="comparison">а мы живем на 56,5, только с другой стороны экватора.</segment>
+		<segment id="262" parent="540" relname="interpretation-evaluation">Мы почему-то думали, что находимся значительно южнее.</segment>
+		<segment id="263" parent="546" relname="span">Какое все-таки для климата имеет значение близость большой воды.</segment>
+		<segment id="264" parent="544" relname="same-unit">Наш климат</segment>
+		<segment id="265" parent="266" relname="concession">несмотря на то же положение по отношению к экватору</segment>
+		<segment id="266" parent="542" relname="span">гораздо более суровый,</segment>
+		<segment id="267" parent="544" relname="cause-effect">потому что континентальный.</segment>
+		<segment id="268" parent="547" relname="joint">Конечно, мы все это изучали</segment>
+		<segment id="269" parent="547" relname="joint">и хорошо знаем теоретически.</segment>
+		<segment id="270" parent="271" relname="condition">Однако, когда увидишь все своими глазами,</segment>
+		<segment id="271" parent="548" relname="span">эффект совсем другой.</segment>
+		<segment id="272" parent="557" relname="joint">##### Ландшафты очень интересные</segment>
+		<segment id="273" parent="554" relname="span">и в то же время близкие,</segment>
+		<segment id="274" parent="273" relname="cause-effect">поскольку похожи на Урал особенно на Приполярный Урал.</segment>
+		<segment id="275" parent="555" relname="span">Оно и не удивительно,</segment>
+		<segment id="276" parent="275" relname="cause-effect">ибо Ушуайя приблизительно на широте Челябинска находится.</segment>
+		<segment id="277" parent="278" relname="condition">Если это конец света,</segment>
+		<segment id="278" parent="558" relname="span">то где живем мы?</segment>
+		<segment id="279" parent="560" relname="span">##### Очень такая гидрографическая сеть своеобразная сочетание морских заливов с озерами разного происхождения, связанные короткими протоками.</segment>
+		<segment id="280" parent="279" relname="elaboration">Ну и куда ж без болот</segment>
+		<segment id="281" parent="560" relname="elaboration">##### IMG IMG IMG</segment>
+		<segment id="282" parent="563" relname="sequence">##### Заливом Лапатайя наша автобусная экскурсия закончилась</segment>
+		<segment id="283" parent="563" relname="sequence">и мы пошли обедать.</segment>
+		<segment id="284" parent="563" relname="elaboration">##### IMG</segment>
+		<segment id="285" parent="566" relname="span">##### Нацпарк на западе граничит с чилийской территорией,</segment>
+		<segment id="286" parent="565" relname="joint">вот там и горы острей</segment>
+		<segment id="287" parent="565" relname="joint">и ледники солидные.</segment>
+		<segment id="288" parent="568" relname="contrast">В общем местность нам понравилась,</segment>
+		<segment id="289" parent="567" relname="span">а для южноамериканцев она конечно уникальна,</segment>
+		<segment id="290" parent="289" relname="condition">особенно если видеть другую часть Аргентины.</segment>
+		<segment id="291" parent="571" relname="preparation">##### К обеду мы вернулись в город,</segment>
+		<segment id="292" parent="571" relname="span">где наконец решили частично вопрос с местной валютой,</segment>
+		<segment id="293" parent="292" relname="elaboration">на что ушел почти весь обеденный час.</segment>
+		<segment id="294" parent="577" relname="span">Заодно на Ушуайю поглядели, где кажется на одного местного человека 3 интуристов.</segment>
+		<segment id="295" parent="574" relname="span">Разрослась она относительно недавно</segment>
+		<segment id="296" parent="575" relname="joint">после начавшегося туристического бума в этой части света,</segment>
+		<segment id="297" parent="573" relname="joint">а также как средство застолбить</segment>
+		<segment id="298" parent="573" relname="joint">и закрепить территорию за собой,</segment>
+		<segment id="299" parent="573" relname="purpose">дабы Чили не претендовало.</segment>
+		<segment id="300" parent="301" relname="attribution">##### Набережная достаточно типичная,</segment>
+		<segment id="301" parent="579" relname="span">но все равно симпатичная,</segment>
+		<segment id="302" parent="579" relname="elaboration">есть где погулять.</segment>
+		<group id="303" type="multinuc" parent="306" relname="preparation"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="306" relname="joint"/>
+		<group id="306" type="multinuc" parent="311" relname="span"/>
+		<group id="307" type="multinuc" parent="308" relname="span"/>
+		<group id="308" type="span" parent="306" relname="joint"/>
+		<group id="309" type="span" parent="310" relname="span"/>
+		<group id="310" type="span" parent="307" relname="elaboration"/>
+		<group id="311" type="span" />
+		<group id="312" type="span" parent="13" relname="cause-effect"/>
+		<group id="313" type="span" parent="315" relname="span"/>
+		<group id="314" type="multinuc" parent="313" relname="interpretation-evaluation"/>
+		<group id="315" type="span" parent="320" relname="sequence"/>
+		<group id="316" type="span" parent="317" relname="contrast"/>
+		<group id="317" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="318" type="span" parent="18" relname="interpretation-evaluation"/>
+		<group id="319" type="span" parent="320" relname="sequence"/>
+		<group id="320" type="multinuc" parent="350" relname="span"/>
+		<group id="321" type="multinuc" parent="322" relname="span"/>
+		<group id="322" type="span" parent="348" relname="contrast"/>
+		<group id="323" type="span" parent="327" relname="elaboration"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="28" relname="elaboration"/>
+		<group id="327" type="span" parent="329" relname="span"/>
+		<group id="328" type="span" parent="330" relname="span"/>
+		<group id="329" type="span" parent="328" relname="elaboration"/>
+		<group id="330" type="span" parent="348" relname="contrast"/>
+		<group id="331" type="span" parent="332" relname="joint"/>
+		<group id="332" type="multinuc" parent="340" relname="preparation"/>
+		<group id="333" type="span" parent="336" relname="span"/>
+		<group id="334" type="multinuc" parent="333" relname="interpretation-evaluation"/>
+		<group id="335" type="span" parent="334" relname="contrast"/>
+		<group id="336" type="span" parent="38" relname="elaboration"/>
+		<group id="337" type="span" parent="338" relname="elaboration"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="340" relname="joint"/>
+		<group id="340" type="multinuc" parent="346" relname="span"/>
+		<group id="341" type="span" parent="342" relname="same-unit"/>
+		<group id="342" type="multinuc" parent="345" relname="contrast"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" parent="345" relname="contrast"/>
+		<group id="345" type="multinuc" parent="340" relname="joint"/>
+		<group id="346" type="span" parent="348" relname="elaboration"/>
+		<group id="348" type="multinuc" parent="349" relname="span"/>
+		<group id="349" type="span" parent="320" relname="elaboration"/>
+		<group id="350" type="span" />
+		<group id="351" type="span" parent="361" relname="preparation"/>
+		<group id="352" type="span" parent="353" relname="joint"/>
+		<group id="353" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="354" type="span" parent="358" relname="same-unit"/>
+		<group id="355" type="span" parent="356" relname="span"/>
+		<group id="356" type="span" parent="60" relname="elaboration"/>
+		<group id="357" type="span" parent="358" relname="same-unit"/>
+		<group id="358" type="multinuc" parent="359" relname="contrast"/>
+		<group id="359" type="multinuc" parent="360" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="362" relname="span"/>
+		<group id="362" type="span" />
+		<group id="363" type="span" parent="65" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="preparation"/>
+		<group id="365" type="multinuc" parent="367" relname="span"/>
+		<group id="366" type="span" parent="365" relname="contrast"/>
+		<group id="367" type="span" parent="370" relname="span"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="367" relname="elaboration"/>
+		<group id="370" type="span" parent="371" relname="joint"/>
+		<group id="371" type="multinuc" />
+		<group id="372" type="span" parent="76" relname="elaboration"/>
+		<group id="373" type="span" parent="375" relname="contrast"/>
+		<group id="374" type="span" parent="375" relname="contrast"/>
+		<group id="375" type="multinuc" parent="377" relname="span"/>
+		<group id="376" type="span" parent="375" relname="elaboration"/>
+		<group id="377" type="span" parent="378" relname="span"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="371" relname="joint"/>
+		<group id="380" type="multinuc" parent="389" relname="preparation"/>
+		<group id="381" type="span" parent="89" relname="cause-effect"/>
+		<group id="382" type="span" parent="384" relname="span"/>
+		<group id="383" type="multinuc" parent="382" relname="elaboration"/>
+		<group id="384" type="span" parent="385" relname="elaboration"/>
+		<group id="385" type="span" parent="386" relname="span"/>
+		<group id="386" type="span" parent="389" relname="span"/>
+		<group id="387" type="span" parent="388" relname="joint"/>
+		<group id="388" type="multinuc" parent="386" relname="interpretation-evaluation"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="390" type="span" />
+		<group id="391" type="span" parent="399" relname="preparation"/>
+		<group id="392" type="span" parent="393" relname="sequence"/>
+		<group id="393" type="multinuc" parent="99" relname="elaboration"/>
+		<group id="394" type="span" parent="395" relname="span"/>
+		<group id="395" type="span" parent="396" relname="interpretation-evaluation"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" parent="98" relname="elaboration"/>
+		<group id="398" type="span" parent="399" relname="contrast"/>
+		<group id="399" type="multinuc" parent="400" relname="span"/>
+		<group id="400" type="span" />
+		<group id="401" type="multinuc" parent="402" relname="span"/>
+		<group id="402" type="span" parent="412" relname="preparation"/>
+		<group id="403" type="multinuc" parent="412" relname="sequence"/>
+		<group id="404" type="multinuc" parent="411" relname="span"/>
+		<group id="405" type="span" parent="406" relname="same-unit"/>
+		<group id="406" type="multinuc" parent="410" relname="contrast"/>
+		<group id="407" type="multinuc" parent="408" relname="contrast"/>
+		<group id="408" type="multinuc" parent="409" relname="span"/>
+		<group id="409" type="span" parent="410" relname="contrast"/>
+		<group id="410" type="multinuc" parent="422" relname="solutionhood"/>
+		<group id="411" type="span" parent="412" relname="sequence"/>
+		<group id="412" type="multinuc" parent="414" relname="span"/>
+		<group id="413" type="multinuc" parent="404" relname="sequence"/>
+		<group id="414" type="span" />
+		<group id="415" type="multinuc" parent="125" relname="elaboration"/>
+		<group id="416" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" parent="419" relname="span"/>
+		<group id="419" type="span" parent="420" relname="span"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" parent="422" relname="joint"/>
+		<group id="422" type="multinuc" parent="423" relname="span"/>
+		<group id="423" type="span" parent="412" relname="sequence"/>
+		<group id="424" type="multinuc" parent="130" relname="elaboration"/>
+		<group id="425" type="span" parent="426" relname="span"/>
+		<group id="426" type="span" parent="429" relname="comparison"/>
+		<group id="427" type="multinuc" parent="133" relname="elaboration"/>
+		<group id="428" type="span" parent="429" relname="comparison"/>
+		<group id="429" type="multinuc" />
+		<group id="430" type="span" parent="434" relname="span"/>
+		<group id="431" type="multinuc" parent="140" relname="cause-effect"/>
+		<group id="432" type="multinuc" parent="433" relname="elaboration"/>
+		<group id="433" type="span" parent="435" relname="span"/>
+		<group id="434" type="span" />
+		<group id="435" type="span" parent="436" relname="sequence"/>
+		<group id="436" type="multinuc" />
+		<group id="437" type="multinuc" parent="438" relname="span"/>
+		<group id="438" type="span" parent="440" relname="solutionhood"/>
+		<group id="439" type="span" parent="148" relname="cause-effect"/>
+		<group id="440" type="span" parent="441" relname="span"/>
+		<group id="441" type="span" parent="436" relname="sequence"/>
+		<group id="442" type="multinuc" parent="444" relname="span"/>
+		<group id="443" type="multinuc" parent="442" relname="elaboration"/>
+		<group id="444" type="span" parent="448" relname="sequence"/>
+		<group id="445" type="multinuc" parent="153" relname="elaboration"/>
+		<group id="446" type="span" parent="449" relname="span"/>
+		<group id="448" type="multinuc" />
+		<group id="449" type="span" parent="448" relname="sequence"/>
+		<group id="450" type="span" parent="453" relname="span"/>
+		<group id="451" type="multinuc" parent="159" relname="elaboration"/>
+		<group id="452" type="span" parent="450" relname="elaboration"/>
+		<group id="453" type="span" parent="448" relname="sequence"/>
+		<group id="454" type="span" parent="471" relname="sequence"/>
+		<group id="455" type="span" parent="456" relname="same-unit"/>
+		<group id="456" type="multinuc" parent="459" relname="contrast"/>
+		<group id="457" type="span" parent="167" relname="condition"/>
+		<group id="458" type="span" parent="459" relname="contrast"/>
+		<group id="459" type="multinuc" parent="471" relname="sequence"/>
+		<group id="460" type="multinuc" parent="462" relname="cause-effect"/>
+		<group id="461" type="span" parent="471" relname="sequence"/>
+		<group id="462" type="multinuc" parent="461" relname="span"/>
+		<group id="463" type="multinuc" parent="462" relname="sequence"/>
+		<group id="464" type="multinuc" parent="469" relname="interpretation-evaluation"/>
+		<group id="465" type="multinuc" parent="469" relname="span"/>
+		<group id="466" type="multinuc" parent="468" relname="span"/>
+		<group id="468" type="span" parent="465" relname="elaboration"/>
+		<group id="469" type="span" parent="470" relname="span"/>
+		<group id="470" type="span" parent="471" relname="elaboration"/>
+		<group id="471" type="multinuc" parent="472" relname="span"/>
+		<group id="472" type="span" />
+		<group id="473" type="span" />
+		<group id="474" type="span" parent="184" relname="background"/>
+		<group id="475" type="span" parent="480" relname="span"/>
+		<group id="476" type="multinuc" parent="189" relname="evidence"/>
+		<group id="477" type="span" parent="478" relname="span"/>
+		<group id="478" type="span" parent="475" relname="elaboration"/>
+		<group id="479" type="span" parent="190" relname="cause-effect"/>
+		<group id="480" type="span" parent="495" relname="span"/>
+		<group id="481" type="multinuc" parent="192" relname="concession"/>
+		<group id="482" type="span" parent="483" relname="preparation"/>
+		<group id="483" type="span" parent="484" relname="span"/>
+		<group id="484" type="span" parent="490" relname="span"/>
+		<group id="485" type="span" parent="197" relname="elaboration"/>
+		<group id="486" type="span" parent="489" relname="span"/>
+		<group id="487" type="multinuc" parent="488" relname="contrast"/>
+		<group id="488" type="multinuc" parent="486" relname="elaboration"/>
+		<group id="489" type="span" parent="484" relname="elaboration"/>
+		<group id="490" type="span" parent="480" relname="elaboration"/>
+		<group id="491" type="span" parent="492" relname="interpretation-evaluation"/>
+		<group id="492" type="span" parent="493" relname="span"/>
+		<group id="493" type="span" parent="494" relname="span"/>
+		<group id="494" type="span" parent="502" relname="span"/>
+		<group id="495" type="span" />
+		<group id="496" type="multinuc" parent="208" relname="elaboration"/>
+		<group id="497" type="span" parent="211" relname="solutionhood"/>
+		<group id="498" type="span" parent="500" relname="span"/>
+		<group id="499" type="span" parent="498" relname="elaboration"/>
+		<group id="500" type="span" parent="501" relname="span"/>
+		<group id="501" type="span" parent="494" relname="elaboration"/>
+		<group id="502" type="span" />
+		<group id="503" type="span" parent="504" relname="contrast"/>
+		<group id="504" type="multinuc" parent="512" relname="preparation"/>
+		<group id="505" type="multinuc" parent="506" relname="span"/>
+		<group id="506" type="span" parent="507" relname="span"/>
+		<group id="507" type="span" parent="511" relname="span"/>
+		<group id="508" type="multinuc" parent="230" relname="background"/>
+		<group id="509" type="span" parent="508" relname="joint"/>
+		<group id="510" type="span" parent="507" relname="elaboration"/>
+		<group id="511" type="span" parent="218" relname="elaboration"/>
+		<group id="512" type="span" parent="522" relname="span"/>
+		<group id="513" type="span" parent="514" relname="contrast"/>
+		<group id="514" type="multinuc" parent="520" relname="span"/>
+		<group id="515" type="span" parent="517" relname="contrast"/>
+		<group id="516" type="multinuc" parent="517" relname="contrast"/>
+		<group id="517" type="multinuc" parent="518" relname="joint"/>
+		<group id="518" type="multinuc" parent="514" relname="elaboration"/>
+		<group id="519" type="span" parent="520" relname="elaboration"/>
+		<group id="520" type="span" parent="521" relname="span"/>
+		<group id="521" type="span" parent="526" relname="span"/>
+		<group id="522" type="span" />
+		<group id="523" type="multinuc" parent="242" relname="elaboration"/>
+		<group id="524" type="span" parent="241" relname="elaboration"/>
+		<group id="525" type="span" parent="521" relname="elaboration"/>
+		<group id="526" type="span" />
+		<group id="527" type="span" parent="525" relname="span"/>
+		<group id="528" type="multinuc" parent="246" relname="elaboration"/>
+		<group id="529" type="span" parent="534" relname="sequence"/>
+		<group id="530" type="span" parent="533" relname="span"/>
+		<group id="531" type="span" parent="532" relname="span"/>
+		<group id="532" type="span" parent="530" relname="elaboration"/>
+		<group id="533" type="span" parent="534" relname="sequence"/>
+		<group id="534" type="multinuc" parent="535" relname="span"/>
+		<group id="535" type="span" />
+		<group id="536" type="span" parent="537" relname="joint"/>
+		<group id="537" type="multinuc" parent="552" relname="preparation"/>
+		<group id="538" type="span" parent="540" relname="span"/>
+		<group id="539" type="multinuc" parent="538" relname="elaboration"/>
+		<group id="540" type="span" parent="541" relname="span"/>
+		<group id="541" type="span" parent="552" relname="span"/>
+		<group id="542" type="span" parent="544" relname="same-unit"/>
+		<group id="544" type="multinuc" parent="545" relname="span"/>
+		<group id="545" type="span" parent="263" relname="elaboration"/>
+		<group id="546" type="span" parent="551" relname="span"/>
+		<group id="547" type="multinuc" parent="548" relname="concession"/>
+		<group id="548" type="span" parent="550" relname="span"/>
+		<group id="550" type="span" parent="546" relname="interpretation-evaluation"/>
+		<group id="551" type="span" parent="541" relname="elaboration"/>
+		<group id="552" type="span" parent="553" relname="span"/>
+		<group id="553" type="span" />
+		<group id="554" type="span" parent="556" relname="span"/>
+		<group id="555" type="span" parent="554" relname="interpretation-evaluation"/>
+		<group id="556" type="span" parent="557" relname="joint"/>
+		<group id="557" type="multinuc" parent="559" relname="span"/>
+		<group id="558" type="span" parent="557" relname="elaboration"/>
+		<group id="559" type="span" parent="562" relname="span"/>
+		<group id="560" type="span" parent="561" relname="span"/>
+		<group id="561" type="span" parent="559" relname="elaboration"/>
+		<group id="562" type="span" />
+		<group id="563" type="multinuc" parent="564" relname="span"/>
+		<group id="564" type="span" parent="569" relname="preparation"/>
+		<group id="565" type="multinuc" parent="285" relname="elaboration"/>
+		<group id="566" type="span" parent="569" relname="span"/>
+		<group id="567" type="span" parent="568" relname="contrast"/>
+		<group id="568" type="multinuc" parent="566" relname="interpretation-evaluation"/>
+		<group id="569" type="span" parent="570" relname="span"/>
+		<group id="570" type="span" />
+		<group id="571" type="span" parent="572" relname="span"/>
+		<group id="572" type="span" parent="577" relname="preparation"/>
+		<group id="573" type="multinuc" parent="576" relname="span"/>
+		<group id="574" type="span" parent="294" relname="elaboration"/>
+		<group id="575" type="multinuc" parent="295" relname="cause-effect"/>
+		<group id="576" type="span" parent="575" relname="joint"/>
+		<group id="577" type="span" parent="578" relname="span"/>
+		<group id="578" type="span" parent="581" relname="span"/>
+		<group id="579" type="span" parent="580" relname="span"/>
+		<group id="580" type="span" parent="578" relname="interpretation-evaluation"/>
+		<group id="581" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,489 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">А. Г Минченков</segment>
+		<segment id="2" parent="246" relname="preparation">ВОЗМОЖНОСТИ ПРОВЕДЕНИЯ МЫСЛИТЕЛЬНЫХ ОПЕРАЦИЙ С КОНЦЕПТАМИ В ПРОЦЕССЕ ПЕРЕВОДА</segment>
+		<segment id="3" parent="246" relname="span">Цель данной статьи состоит в том,</segment>
+		<segment id="4" parent="237" relname="span">чтобы показать возможности проведения мыслительных операций с концептами на той стадии переводческого процесса,</segment>
+		<segment id="5" parent="236" relname="joint">когда переводчик, на базе исходного текста и используя имеющиеся у него фоновые знания и знания контекста, сформировал в своем сознании определенную концептуальную структуру</segment>
+		<segment id="6" parent="236" relname="joint">и переходит к объективации этой структуры на языке перевода путем совмещения составляющих структуру концептов со значениями единиц языка перевода.</segment>
+		<segment id="7" parent="238" relname="joint">В рамках предложенной нами когнитивно-эвристической модели перевода1 перевод определяется как эвристический процесс объективации средствами языка перевода мыслительных структур, сформированных в сознании переводчика на базе исходного текста,</segment>
+		<segment id="8" parent="238" relname="joint">а объектом перевода признается концепт, понимаемый как дискретная единица мысли2.</segment>
+		<segment id="9" parent="407" relname="span">В процессе перевода исходный текст является источником формирования в сознании переводчика некоей структуры концептов, связанных друг с другом определенными отношениями.</segment>
+		<segment id="10" parent="239" relname="contrast">Текст перевода при этом не является копией или подобием исходного текста.</segment>
+		<segment id="11" parent="239" relname="contrast">Он порождается путем воплощения на языке перевода указанной концептуальной структуры.</segment>
+		<segment id="12" parent="409" relname="span">Тем самым, можно говорить, что непосредственно перевод идет не от текста, а от мысли.</segment>
+		<segment id="13" parent="412" relname="span">Одна из основных задач при создании текста на другом языке заключается</segment>
+		<segment id="14" parent="411" relname="span">в совмещении концептов, сформированных в сознании</segment>
+		<segment id="15" parent="14" relname="cause">в результате работы с исходным текстом, с концептами, объективирующими себя как значения слов и словосочетаний языка перевода.</segment>
+		<segment id="16" parent="414" relname="same-unit">Когда тот или иной концепт, актуализированный</segment>
+		<segment id="17" parent="18" relname="cause">в результате работы переводчика с исходным текстом,</segment>
+		<segment id="18" parent="413" relname="span">полностью или почти полностью совпадает с концептом, составляющим значение слова или словосочетания языка перевода, особенных трудностей не возникает.</segment>
+		<segment id="19" parent="415" relname="restatement">Переводчик довольно быстро переходит от концепта к слову.</segment>
+		<segment id="20" parent="249" relname="span">Серьезные проблемы появляются тогда,</segment>
+		<segment id="21" parent="248" relname="contrast">когда некий концепт не может быть объективирован как значение известных переводчику единиц ПЯ,</segment>
+		<segment id="22" parent="248" relname="contrast">либо этот концепт представляет собой некую комбинацию из двух или более субконцептов, которые не объективируются посредством известных единиц как единый блок,</segment>
+		<segment id="23" parent="248" relname="contrast">либо, наконец, потому что концептуальная структура, актуализируемая предложением или его смысловым блоком, не может быть естественным образом объективирована посредством лексических единиц или грамматических структур ПЯ.</segment>
+		<segment id="24" parent="420" relname="same-unit">В этом случае</segment>
+		<segment id="25" parent="418" relname="purpose">для объективации концептов</segment>
+		<segment id="26" parent="417" relname="restatement">переводчику приходится их рекомбинировать,</segment>
+		<segment id="27" parent="417" relname="restatement">то есть изменить структуру концептов или их комбинацию относительно друг друга так,</segment>
+		<segment id="28" parent="421" relname="purpose">чтобы эти концепты могли быть объективированы как значения известных переводчику единиц ПЯ и посредством естественных для последнего структур.</segment>
+		<segment id="29" parent="260" relname="span">При мыслительных операциях с концептами переводчик использует доступный ему язык мысли,</segment>
+		<segment id="30" parent="259" relname="joint">единицы которого, образы и схемы, свободно комбинируются относительно друг друга</segment>
+		<segment id="31" parent="259" relname="joint">и, в отличие от концептуальных структур, задаваемых тем или иным естественным языком, дают возможность выбора любого способа представления описываемой в предложении ситуации.</segment>
+		<segment id="32" parent="257" relname="same-unit">Кроме того, на языке мысли переводчик может представить тот или иной</segment>
+		<segment id="33" relname="antithesis">© А. Г. Минченков, 2008</segment>
+		<segment id="34" parent="257" relname="same-unit">концепт в виде невербального образа или схемы еще до того,</segment>
+		<segment id="35" parent="256" relname="joint">как будет найдено вербальное средство его объективации,</segment>
+		<segment id="36" parent="256" relname="joint">и вне зависимости от того, будет ли оно найдено вообще.</segment>
+		<segment id="37" parent="262" relname="elaboration">Язык мысли понимается нами в рамках концепции предметно- схемного кода Н. И. Жинкина3.</segment>
+		<segment id="38" parent="426" relname="span">На возможность проведения мыслительных операций с концептами указывает исследование Ф. Унгерера и Х. Й. Шмида,</segment>
+		<segment id="39" parent="272" relname="span">опирающееся, с одной стороны на фундаментальный труд Л. Тальми4,</segment>
+		<segment id="40" parent="39" relname="elaboration">на большом количестве примеров показавшего, как способы концептуализации сущностей и событий окружающего мира различаются от языка к языку,</segment>
+		<segment id="41" parent="273" relname="joint">и, с другой стороны, на примеры переводческих соответствий, в частности, из известного в переводоведении исследования Ж.-П. Вине и Ж. Дарбельне5.</segment>
+		<segment id="42" parent="277" relname="span">Ф. Унгерер и Х. Й. Шмид анализируют взятый из работы Ж.-П. Вине и Ж. Дарбельне пример перевода английского предложения Bleriotflew across the Channel на французский язык в виде Bleriot traversa la Manche en avion6.</segment>
+		<segment id="43" parent="428" relname="attribution">Авторы отмечают тот факт,</segment>
+		<segment id="44" parent="268" relname="span">что в отличие от английского предложения,</segment>
+		<segment id="45" parent="44" relname="elaboration">где компонент Путь выражен предлогом,</segment>
+		<segment id="46" parent="267" relname="comparison">во французском предложении он включен вместе с Действием в единый концепт, вербализуемый глаголом.</segment>
+		<segment id="47" parent="266" relname="comparison">С другой стороны, концепт, вербализуемый английским глаголом, включает в себя компонент Способ,</segment>
+		<segment id="48" parent="266" relname="comparison">а во французском варианте он выражен отдельным адвербиальным сочетанием.</segment>
+		<segment id="49" parent="265" relname="attribution">Подобные наблюдения указанных авторов свидетельствуют о том,</segment>
+		<segment id="50" parent="263" relname="same-unit">что,</segment>
+		<segment id="51" parent="430" relname="joint">оторвавшись от значений конкретных единиц исходного языка</segment>
+		<segment id="52" parent="430" relname="joint">и «работая» на уровне смыслов,</segment>
+		<segment id="53" parent="432" relname="joint">человеческое сознание способно анализировать входящие в концептуальную структуру концепты</segment>
+		<segment id="54" parent="432" relname="joint">и совершать с ними различные операции,</segment>
+		<segment id="55" parent="264" relname="joint">и что такие действия реально происходят при переводе.</segment>
+		<segment id="56" parent="285" relname="contrast">В противном случае Ж.-П. Вине и Ж. Дарбельне не смогли бы предложить указанный французский вариант,</segment>
+		<segment id="57" parent="285" relname="contrast">а предложили бы буквальный, который Ф. Унгерер и Х. Й. Шмид отмечают как неприемлемый — Bleriot vola par-dessus La Manche1.</segment>
+		<segment id="58" parent="284" relname="sequence">С нашей точки зрения, в только что описанном примере сначала происходит расчленение концепта FLEW на составляющие его субконцепты Действие и Способ,</segment>
+		<segment id="59" parent="284" relname="sequence">затем субконцепт Действие сливается с присутствующим в концептуальной структуре концептом Путь</segment>
+		<segment id="60" parent="284" relname="sequence">и объективируется во французском тексте одним глаголом traversa.</segment>
+		<segment id="61" parent="282" relname="span">Параллельно субконцепт Способ отрывается от субконцепта Действие,</segment>
+		<segment id="62" parent="61" relname="elaboration">с которым он составлял единый концепт,</segment>
+		<segment id="63" parent="283" relname="joint">и объективируется отдельно в виде указанного адвербиального сочетания.</segment>
+		<segment id="64" parent="65" relname="condition">Если репрезентировать концепты, актуализируемые словами предложения Bleriot flew across the Channel в виде букв w, x, y и z,</segment>
+		<segment id="65" parent="281" relname="span">то концептуальная структура, актуализируемая всем предложением будет выглядеть как w xy z.</segment>
+		<segment id="66" parent="67" relname="cause">В результате рекомбинации</segment>
+		<segment id="67" parent="438" relname="span">происходит расщепление концепта x на субконцепты, которые можно условно обозначить как a и b.</segment>
+		<segment id="68" parent="439" relname="span">Тогда рекомбинированная концептуальная структура будет иметь вид w ay z b.</segment>
+		<segment id="69" parent="299" relname="span">Наше собственное исследование возможных мыслительных операций с концептами проводилось в рамках экспериментального изучения процесса перевода по методике мышления вслух в том виде,</segment>
+		<segment id="70" parent="69" relname="elaboration">в каком она описана, в частности, в работе Ж. Дансетт8.</segment>
+		<segment id="71" parent="300" relname="span">Эксперимент проходил при кафедре Русской и славянской филологии университета г. Шеффилда, Великобритания.</segment>
+		<segment id="72" parent="298" relname="span">В эксперименте приняли участие четыре студента, занимающиеся переводом, и два преподавателя кафедры, ведущие занятия по переводу и рассматривавшиеся нами как профессиональные переводчики.</segment>
+		<segment id="73" parent="440" relname="span">По правилам, существующим в академической среде Великобритании, подобные эксперименты должны проводиться анонимно,</segment>
+		<segment id="74" parent="441" relname="span">в связи с чем имена всех принимавших участников были зашифрованы — студентов как A, B, C, D, а преподавателей как X и Y.</segment>
+		<segment id="75" parent="446" relname="span">Участникам в разное время было предложено перевести с русского (иностранного) на английский (родной для них) язык текст исторического содержания о русском императоре Петре I, взятый из монографии Е. В. Анисимова «Время Петровских Реформ»9.</segment>
+		<segment id="76" parent="295" relname="joint">Мы попросили испытуемых, максимально полно вербализовывать в процессе перевода приходящие им в голову мысли</segment>
+		<segment id="77" parent="295" relname="joint">и описывать свои действия.</segment>
+		<segment id="78" parent="297" relname="joint">«Мысли вслух» записывались на аудио кассету.</segment>
+		<segment id="79" parent="294" relname="joint">Сам перевод параллельно писался от руки</segment>
+		<segment id="80" parent="294" relname="joint">или набирался на компьютере, по выбору участника.</segment>
+		<segment id="81" parent="444" relname="elaboration">Все участники имели в своем распоряжении два словаря — стандартный русско-английский словарь и толковый словарь русского языка С. И. Ожегова и Н. Ю. Шведовой.</segment>
+		<segment id="82" parent="442" relname="sequence">После окончания эксперимента нами был проведен анализ как записей на пленку, так и самих переводов.</segment>
+		<segment id="83" parent="329" relname="span">Рассмотрим различные виды рекомбинации концептов, наблюдавшиеся в процессе анализа записей нашего эксперимента.</segment>
+		<segment id="84" parent="85" relname="condition">При переводе предложения «Служение Бахусу»</segment>
+		<segment id="85" parent="447" relname="span">считалось своеобразной доблестью, которой принято было кичиться, ожидая одобрения царя у переводчиков X и Y возникли проблемы со словом кичиться.</segment>
+		<segment id="86" parent="318" relname="joint">Они не знали его</segment>
+		<segment id="87" parent="316" relname="cause">и, обратившись к словарю,</segment>
+		<segment id="88" parent="316" relname="span">нашли английский глагол strut,</segment>
+		<segment id="89" parent="315" relname="span">который, очевидно, не мог служить вариантом перевода в данном контексте,</segment>
+		<segment id="90" parent="314" relname="contrast">поскольку, в первую очередь, актуализирует концепт WALK,</segment>
+		<segment id="91" parent="314" relname="contrast">в то время как требовался глагол способный сочетаться с дополнением доблесть, то есть обозначающий действие, направленное на объект.</segment>
+		<segment id="92" parent="312" relname="cause">Понимая, что в структуре концепта STRUT содержится субконцепт PRIDE,</segment>
+		<segment id="93" parent="311" relname="same-unit">переводчик X,</segment>
+		<segment id="94" parent="95" relname="cause">связав последний концепт с ранее актуализированными в сознании концептами,</segment>
+		<segment id="95" parent="310" relname="span">смог адекватно представить всю ситуацию.</segment>
+		<segment id="96" parent="451" relname="span">Он понимает общий смысл предложения так,</segment>
+		<segment id="97" parent="306" relname="joint">что пьянством надо было гордиться,</segment>
+		<segment id="98" parent="306" relname="joint">хвалиться</segment>
+		<segment id="99" parent="306" relname="joint">и выставлять его напоказ,</segment>
+		<segment id="100" parent="309" relname="span">т. к. такое поведение вызывало одобрение царя</segment>
+		<segment id="101" parent="100" relname="evidence">(на пленке мы слышим: getting drunk was something to be proud of, to boast of because it brought the approval of the tsar).</segment>
+		<segment id="102" parent="305" relname="evaluation">Для нас здесь представляет интерес то,</segment>
+		<segment id="103" parent="305" relname="span">что на этой стадии переводчик работает, в том числе, на языке мысли;</segment>
+		<segment id="104" parent="103" relname="elaboration">он пока не может подобрать слово на родном языке, которое способно вербализовать, по сути, сразу несколько концептов — ГОРДИТЬСЯ, и ДЕМОНСТРИРОВАТЬ (ВЫСТАВЛЯТЬ НАПОКАЗ).</segment>
+		<segment id="105" parent="303" relname="cause">В конечном итоге, понимая, что такого слова ему найти не удается,</segment>
+		<segment id="106" parent="303" relname="span">он останавливается на глаголе boast, активирующем лишь один из субконцептов в структуре значения русского глагола кичиться:</segment>
+		<segment id="107" parent="106" relname="elaboration">The ‘service of Bacchus was considered to be a specific kind of valour, of which one boasted in expectation of the Tsar’s approval.</segment>
+		<segment id="108" parent="109" relname="condition">Если представить КИЧИТЬСЯ в данном контексте как сложный концепт, состоящий из нескольких субконцептов,</segment>
+		<segment id="109" parent="302" relname="span">то такой прием переводчика можно определить как расщепление концепта и вербализация на другом языке одной из его составляющих.</segment>
+		<segment id="110" parent="449" relname="span">Следует заметить, что расщепление концепта</segment>
+		<segment id="111" parent="110" relname="cause">вызывается невозможностью вербализовать весь концепт в целом,</segment>
+		<segment id="112" parent="450" relname="joint">и что переводчик это осознает.</segment>
+		<segment id="113" parent="343" relname="span">Участники эксперимента столкнулись с большими сложностями при переводе русского слова безобразное в сочетании безобразное пьянство.</segment>
+		<segment id="114" parent="337" relname="joint">Переводчик X пошел по пути расщепления концепта, актуализируемого указанным словом, и,</segment>
+		<segment id="115" parent="116" relname="cause">выделив из него концепт ОСУЖДЕНИЕ,</segment>
+		<segment id="116" parent="336" relname="span">вербализовал его в английском тексте словом scandalous.</segment>
+		<segment id="117" parent="338" relname="span">Между тем, представляется, что среди концептов, входящих в структуру БЕЗОБРАЗНЫЙ, концепт ОСУЖДЕНИЕ не является определяющим.</segment>
+		<segment id="118" parent="117" relname="elaboration">Более существенными представляются концепты БЕЗУДЕРЖНЫЙ, БЕСПОРЯДОЧНЫЙ.</segment>
+		<segment id="119" parent="339" relname="span">С этой точки зрения интересно решение, найденное переводчиком Y.</segment>
+		<segment id="120" parent="455" relname="joint">Успешно осмыслив указанное русское слово</segment>
+		<segment id="121" parent="455" relname="joint">и столкнувшись с трудностями при нахождении английского прилагательного, способного актуализировать существенные концепты в общей концептуальной структуре слова,</segment>
+		<segment id="122" parent="333" relname="span">он пошел по пути слияния концептов.</segment>
+		<segment id="123" parent="333" relname="elaboration">Найденное им английское сочетание drunken orgies актуализирует не только концепт ПЬЯНСТВО, но и все существенные концепты, объективируемые русским словом безобразный.</segment>
+		<segment id="124" parent="332" relname="span">Данный прием определяется нами как слияние в силу того,</segment>
+		<segment id="125" parent="331" relname="span">что концепт одного слова сливается с другим концептом (концептами) в единое целое,</segment>
+		<segment id="126" parent="125" relname="cause">потому что в другом языке есть слово (словосочетание), способное объективировать эту совокупность концептов.</segment>
+		<segment id="127" parent="350" relname="span">Кроме расщепления и слияния, в процессе поиска средств выражения концептов наблюдались другие операции с концептами.</segment>
+		<segment id="128" parent="349" relname="span">Рассмотрим перевод предложения Но в чем же суть, смысл такого поведения царя?</segment>
+		<segment id="129" parent="130" relname="condition">При переводе слов суть и смысл</segment>
+		<segment id="130" parent="467" relname="span">один из переводчиков решил,</segment>
+		<segment id="131" parent="347" relname="span">что в качестве английских вариантов вполне могут быть использованы слова, которые наиболее часто выступают в роли соответствий указанных русских слов, а именно essence и meaning.</segment>
+		<segment id="132" parent="133" relname="attribution">Другой же участник посчитал,</segment>
+		<segment id="133" parent="344" relname="span">что в данном конкретном контексте указанные русские слова актуализируют некий общий концепт близкий к понятию глубинных мотивов поведения.</segment>
+		<segment id="134" parent="459" relname="same-unit">Кроме того,</segment>
+		<segment id="135" parent="136" relname="attribution">по его мнению,</segment>
+		<segment id="136" parent="468" relname="span">концепт, номинируемый словом essence плохо комбинируется с концептом BEHAVIOUR.</segment>
+		<segment id="137" parent="465" relname="span">В результате он объективирует концепт, создаваемый двумя русскими словами,</segment>
+		<segment id="138" parent="464" relname="span">посредством английского выражения, актуализирующего концептуальную схему, описывающую этот концепт:</segment>
+		<segment id="139" parent="138" relname="elaboration">But what really lies at the heart of Peter’s behaviour?</segment>
+		<segment id="140" parent="479" relname="span">Объективация концепта возможна путем актуализации не только описывающей его концептуальной схемы, но и одного из существенных признаков этого концепта.</segment>
+		<segment id="141" parent="477" relname="span">Так поступили переводчики X и Y,</segment>
+		<segment id="142" parent="476" relname="span">столкнувшись со сложностями</segment>
+		<segment id="143" parent="142" relname="condition">при объективации в английском языке концепта, актуализированного русским словом (петровская) ассамблея .</segment>
+		<segment id="144" parent="473" relname="background">Словарь Ожегова и Шведовой определяет это слово как бал, увеселительный вечер в эпоху Петра10.</segment>
+		<segment id="145" parent="472" relname="condition">Если учесть, что концепт отнесенности к эпохе Петра актуализируется всем текстом,</segment>
+		<segment id="146" parent="147" relname="evaluation">следует признать вполне удачной</segment>
+		<segment id="147" parent="471" relname="span">объективацию концепта АССАМБЛЕЯ через входящий в число его существенных признаков концепт ДВОР,</segment>
+		<segment id="148" parent="355" relname="joint">поскольку ассамблеи проводились при дворе,</segment>
+		<segment id="149" parent="355" relname="joint">и прибывавшие на них прибывали ко двору.</segment>
+		<segment id="150" parent="351" relname="span">Русское сочетание Иностранный дипломат,</segment>
+		<segment id="151" parent="150" relname="elaboration">впервые попавший на Петровскую ассамблею,</segment>
+		<segment id="152" parent="352" relname="same-unit">актуализирующее событийный фрейм прибытия на ассамблею, успешно переводится английским сочетанием A foreign diplomat newly arrived at Peter’s court.</segment>
+		<segment id="153" parent="481" relname="same-unit">Нередко</segment>
+		<segment id="154" parent="155" relname="purpose">для вербализации концепта в тексте перевода</segment>
+		<segment id="155" parent="480" relname="span">переводчику приходится менять концептуальную схему, частью которой является этот концепт.</segment>
+		<segment id="156" parent="489" relname="span">Так происходило, в частности, в случае с сочетанием в народной среде.</segment>
+		<segment id="157" parent="485" relname="span">Профессиональные переводчики,</segment>
+		<segment id="158" parent="483" relname="span">которые посчитали неприемлемым перевод слова среда английским словом sphere</segment>
+		<segment id="159" parent="158" relname="evaluation">(как это сделали трое из четырех студентов)</segment>
+		<segment id="160" parent="484" relname="joint">и вообще не смогли подобрать английское слово, способное передать актуализированный русским словом среда концепт,</segment>
+		<segment id="161" parent="486" relname="same-unit">пошли по пути перемещения концепта с соответствующим изменением всей концептуальной схемы.</segment>
+		<segment id="162" parent="368" relname="span">В результате в народной среде было переведено как among the common people и among the mass of the people.</segment>
+		<segment id="163" parent="367" relname="span">Внутри изначальной концептуальной схемы концепт, связанный со словом народный, представляет признак (какой среде?) некоего замкнутого пространства (среды).</segment>
+		<segment id="164" parent="364" relname="span">При перемещении концептуальная схема меняется,</segment>
+		<segment id="165" parent="164" relname="elaboration">она представляет группу людей, связанных определенным отношением.</segment>
+		<segment id="166" parent="363" relname="contrast">Концепт пространства, перемещаясь, трансформируется в концепт отношения,</segment>
+		<segment id="167" parent="362" relname="joint">но эта трансформация не затрагивает глубинной сущности концепта,</segment>
+		<segment id="168" parent="362" relname="joint">меняется лишь его семантическая роль.</segment>
+		<segment id="169" parent="361" relname="joint">Интересно отметить, что один из переводчиков дополнительно проверяет соответствие актуализируемых словами среда и among концептов</segment>
+		<segment id="170" parent="361" relname="joint">и убеждается в их схожести.</segment>
+		<segment id="171" relname="antithesis">Достаточно интересным для исследователя представляется анализ процесса перевода на английский язык предложения</segment>
+		<segment id="172" parent="494" relname="span">Для начала не будем обольщаться демократизмом первого императора.</segment>
+		<segment id="173" parent="493" relname="span">Трудности для переводчика здесь представляют два выделенных слова.</segment>
+		<segment id="174" parent="375" relname="span">Концепт, актуализируемый словом обольщаться, представляется достаточно сложным,</segment>
+		<segment id="175" parent="373" relname="contrast">ведь обольщаться в данном контексте — это не просто обманывать себя,</segment>
+		<segment id="176" parent="374" relname="span">а верить во что-то,</segment>
+		<segment id="177" parent="176" relname="elaboration">во что хочется верить, что представляет собой привлекательное свойство.</segment>
+		<segment id="178" parent="376" relname="span">Этот дополнительный концепт привлекательности, входящий в структуру сложного концепта, актуализируемого указанным словом, делает трудным поиск английского средства выражения.</segment>
+		<segment id="179" parent="499" relname="joint">Переводчик X,</segment>
+		<segment id="180" parent="181" relname="cause">успешно осмыслив это слово,</segment>
+		<segment id="181" parent="500" relname="span">в течение некоторого времени пытается найти приемлемый английский вариант</segment>
+		<segment id="182" parent="497" relname="same-unit">и,</segment>
+		<segment id="183" parent="184" relname="cause">не найдя такого, который актуализировал бы весь концепт,</segment>
+		<segment id="184" parent="496" relname="span">прибегает к приему расщепления</segment>
+		<segment id="185" parent="501" relname="joint">и переводит английским сочетанием deceive ourselves about.</segment>
+		<segment id="186" parent="385" relname="span">Концепт ДЕМОКРАТИЗМ, представляющий свойство человека, связанное с наличием у него демократических убеждений, веры в демократические ценности, очевидно, не может быть вообще вербализован в английском языке одним словом.</segment>
+		<segment id="187" parent="382" relname="contrast">Слова * democratism не существует,</segment>
+		<segment id="188" parent="381" relname="joint">а концепт, актуализируемый словом democracy,</segment>
+		<segment id="189" parent="190" relname="concession">хоть и может включать в себя понятие духа социального равенства,</segment>
+		<segment id="190" parent="380" relname="span">не сочетается в английской концептосфере с концептуальной областью свойств людей.</segment>
+		<segment id="191" parent="384" relname="span">Переводчик X вербализует указанный концепт в сознании сначала в виде democratic views, а затем sense of democracy.</segment>
+		<segment id="192" parent="383" relname="span">Последнее сочетание становится в конечном итоге английским вариантом русского слова демократизм.</segment>
+		<segment id="193" parent="192" relname="elaboration">Концепт русского слова объективируется в тексте перевода сочетанием слов.</segment>
+		<segment id="194" parent="400" relname="span">Иначе подходит к переводу обоих русских слов переводчик Y.</segment>
+		<segment id="195" parent="393" relname="joint">Он также с самого начала успешно осмысляет их</segment>
+		<segment id="196" parent="393" relname="joint">и осознает трудности вербализации актуализированных концептов средствами английского языка.</segment>
+		<segment id="197" parent="198" relname="purpose">Для решения проблемы</segment>
+		<segment id="198" parent="391" relname="span">он мысленно представляет описываемую ситуацию,</segment>
+		<segment id="199" parent="392" relname="sequence">и, изменяя весь событийный фрейм, описывает последнюю посредством другого фрейма, меняя при этом семантические роли.</segment>
+		<segment id="200" parent="390" relname="span">В отношении концептов, актуализированных анализируемыми единицами ИТ, в данном случае происходит то,</segment>
+		<segment id="201" parent="200" relname="elaboration">что мы определяем как поглощение отдельных концептов общим концептом ситуации.</segment>
+		<segment id="202" parent="394" relname="span">Английский вариант всего предложения у переводчика Y приобретает вид For a start we should not imagine for a moment that Peter the Great was a democrat.</segment>
+		<segment id="203" parent="389" relname="span">Наиболее существенные концепты в структуре концептов ДЕМОКРАТИЗМ и ОБОЛЬЩАТЬСЯ входят составными частями в общий сложный концепт ситуации.</segment>
+		<segment id="204" parent="388" relname="joint">В частности, то,</segment>
+		<segment id="205" parent="206" relname="cause">что некий человек может быть определен как democrat,</segment>
+		<segment id="206" parent="387" relname="span">предполагает актуализацию концепта ДЕМОКРАТИЗМ как свойства этого человека.</segment>
+		<segment id="207" parent="400" relname="evaluation">В данном случае можно считать, что переводчик Y в целом успешно справился с объективацией анализируемых концептов в тексте перевода.</segment>
+		<segment id="208" parent="402" relname="joint">Таким образом, данные нашего эксперимента подтверждают, во-первых, саму возможность проведения мыслительных операций с концептами</segment>
+		<segment id="209" parent="402" relname="joint">и, во-вторых, то, что такие операции реально проводятся различными переводчиками в процессе перевода.</segment>
+		<segment id="210" parent="403" relname="span">Анализ протоколов мышления вслух также позволил выявить вполне определенные типы мыслительных операций по рекомбинации концептов, а именно:</segment>
+		<segment id="211" parent="401" relname="joint">расщепление концепта на составляющие его субконцепты,</segment>
+		<segment id="212" parent="401" relname="joint">слияние концептов,</segment>
+		<segment id="213" parent="401" relname="joint">перемещение концепта относительно других концептов в концептуальной структуре,</segment>
+		<segment id="214" parent="401" relname="joint">передача концепта через его признак,</segment>
+		<segment id="215" parent="401" relname="joint">поглощение отдельного концепта общим концептом описываемой в предложении ситуации,</segment>
+		<segment id="216" parent="401" relname="joint">и, наконец, перестройка всей концептуальной структуры, обычно сопровождающая перемещение концепта или его поглощение концептом ситуации.</segment>
+		<segment id="217" relname="antithesis">1 Минченков А. Г. Когнитивно-эвристическая модель перевода: к постановке</segment>
+		<segment id="218" relname="antithesis">вопроса // Вестн. С.-Петерб. ун-та. Сер. 9. 2007. Вып.2. Ч. II. С. 208 -217.</segment>
+		<segment id="219" relname="antithesis">2Никитин М. В. Основания когнитивной семантики. СПб, 2003. С. 17.</segment>
+		<segment id="220" relname="antithesis">3Жинкин Н. И. Язык. Речь. Творчество. М., 1998. С.158.</segment>
+		<segment id="221" relname="antithesis">4 Talmy L. Toward a Cognitive Semantics. Cambridge, 2001. Vol. 2: Typology and</segment>
+		<segment id="222" relname="antithesis">Process in Concept Structuring.</segment>
+		<segment id="223" relname="antithesis">5 Vinay J. P., Darbelnet J. Stylistique Comparee du Fran9ais et de l’Anglais:</segment>
+		<segment id="224" relname="antithesis">Methode de Traduction. Paris, 1958.</segment>
+		<segment id="225" relname="antithesis">6 Ungerer F., SchmidH.-J. An Introduction to Cognitive Linguistics. London;</segment>
+		<segment id="226" relname="antithesis">New York, 1996. P. 233-234.</segment>
+		<segment id="227" relname="antithesis">7 Ungerer F., Schmid H.-J. An Introduction to Cognitive Linguistics. London;</segment>
+		<segment id="228" relname="antithesis">New York, 1996. P. 233</segment>
+		<segment id="229" relname="antithesis">8 Dancette J. Mapping meaning and comprehension in translation. Theoretical</segment>
+		<segment id="230" relname="antithesis">and experimental issues // Cognitive Processes in Translation &amp;</segment>
+		<segment id="231" relname="antithesis">Interpreting / Ed. by J. H. Danks et al. California, 1997. P. 77-103.</segment>
+		<segment id="232" relname="antithesis">9Анисимов Е. В. Время Петровских Реформ. Л., 1989. С.30-31.</segment>
+		<segment id="233" relname="antithesis">10 Ожегов С. И., ШведоваН. Ю. Толковый словарь русского языка. М., 1996. С.</segment>
+		<segment id="234" relname="antithesis">28.</segment>
+		<segment id="235" relname="antithesis"></segment>
+		<group id="236" type="multinuc" parent="4" relname="elaboration"/>
+		<group id="237" type="span" parent="3" relname="purpose"/>
+		<group id="238" type="multinuc" parent="245" relname="joint"/>
+		<group id="239" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="245" type="multinuc" parent="408" relname="span"/>
+		<group id="246" type="span" parent="410" relname="span"/>
+		<group id="248" type="multinuc" parent="20" relname="condition"/>
+		<group id="249" type="span" parent="422" relname="cause"/>
+		<group id="256" type="multinuc" parent="258" relname="condition"/>
+		<group id="257" type="multinuc" parent="258" relname="span"/>
+		<group id="258" type="span" parent="261" relname="span"/>
+		<group id="259" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="260" type="span" parent="262" relname="span"/>
+		<group id="261" type="span" parent="260" relname="elaboration"/>
+		<group id="262" type="span" parent="425" relname="span"/>
+		<group id="263" type="multinuc" parent="264" relname="joint"/>
+		<group id="264" type="multinuc" parent="265" relname="span"/>
+		<group id="265" type="span" parent="269" relname="span"/>
+		<group id="266" type="multinuc" parent="271" relname="contrast"/>
+		<group id="267" type="multinuc" parent="428" relname="span"/>
+		<group id="268" type="span" parent="267" relname="comparison"/>
+		<group id="269" type="span" parent="275" relname="evidence"/>
+		<group id="271" type="multinuc" parent="275" relname="span"/>
+		<group id="272" type="span" parent="273" relname="joint"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="38" relname="elaboration"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" parent="435" relname="span"/>
+		<group id="277" type="span" parent="426" relname="elaboration"/>
+		<group id="281" type="span" parent="287" relname="span"/>
+		<group id="282" type="span" parent="283" relname="joint"/>
+		<group id="283" type="multinuc" parent="288" relname="span"/>
+		<group id="284" type="multinuc" parent="289" relname="span"/>
+		<group id="285" type="multinuc" parent="292" relname="span"/>
+		<group id="287" type="span" parent="288" relname="elaboration"/>
+		<group id="288" type="span" parent="290" relname="span"/>
+		<group id="289" type="span" parent="437" relname="joint"/>
+		<group id="290" type="span" parent="437" relname="joint"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="436" relname="contrast"/>
+		<group id="294" type="multinuc" parent="297" relname="joint"/>
+		<group id="295" type="multinuc" parent="443" relname="joint"/>
+		<group id="297" type="multinuc" parent="443" relname="joint"/>
+		<group id="298" type="span" relname="antithesis"/>
+		<group id="299" type="span" parent="330" relname="span"/>
+		<group id="300" type="span" parent="299" relname="elaboration"/>
+		<group id="302" type="span" parent="319" relname="span"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="320" relname="elaboration"/>
+		<group id="305" type="span" parent="320" relname="span"/>
+		<group id="306" type="multinuc" parent="307" relname="span"/>
+		<group id="307" type="span" parent="96" relname="elaboration"/>
+		<group id="309" type="span" parent="451" relname="cause"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="312" relname="span"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="325" relname="span"/>
+		<group id="314" type="multinuc" parent="89" relname="cause"/>
+		<group id="315" type="span" parent="88" relname="elaboration"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="317" type="span" parent="318" relname="joint"/>
+		<group id="318" type="multinuc" parent="326" relname="span"/>
+		<group id="319" type="span" parent="321" relname="elaboration"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="452" relname="elaboration"/>
+		<group id="325" type="span" parent="326" relname="elaboration"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="447" relname="elaboration"/>
+		<group id="329" type="span" relname="antithesis"/>
+		<group id="330" type="span" relname="antithesis"/>
+		<group id="331" type="span" parent="124" relname="cause"/>
+		<group id="332" type="span" parent="334" relname="elaboration"/>
+		<group id="333" type="span" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="119" relname="elaboration"/>
+		<group id="336" type="span" parent="337" relname="joint"/>
+		<group id="337" type="multinuc" parent="340" relname="span"/>
+		<group id="338" type="span" parent="340" relname="elaboration"/>
+		<group id="339" type="span" parent="342" relname="comparison"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="342" relname="comparison"/>
+		<group id="342" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="343" type="span" relname="antithesis"/>
+		<group id="344" type="span" parent="460" relname="joint"/>
+		<group id="345" type="span" parent="460" relname="joint"/>
+		<group id="347" type="span" parent="463" relname="contrast"/>
+		<group id="349" type="span" parent="127" relname="elaboration"/>
+		<group id="350" type="span" relname="antithesis"/>
+		<group id="351" type="span" parent="352" relname="same-unit"/>
+		<group id="352" type="multinuc" parent="474" relname="evidence"/>
+		<group id="355" type="multinuc" parent="471" relname="cause"/>
+		<group id="361" type="multinuc" parent="365" relname="elaboration"/>
+		<group id="362" type="multinuc" parent="363" relname="contrast"/>
+		<group id="363" type="multinuc" parent="364" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="492" relname="span"/>
+		<group id="367" type="span" parent="162" relname="elaboration"/>
+		<group id="368" type="span" parent="487" relname="span"/>
+		<group id="373" type="multinuc" parent="174" relname="effect"/>
+		<group id="374" type="span" parent="373" relname="contrast"/>
+		<group id="375" type="span" parent="377" relname="span"/>
+		<group id="376" type="span" parent="375" relname="elaboration"/>
+		<group id="377" type="span" parent="173" relname="elaboration"/>
+		<group id="380" type="span" parent="381" relname="joint"/>
+		<group id="381" type="multinuc" parent="382" relname="contrast"/>
+		<group id="382" type="multinuc" parent="186" relname="elaboration"/>
+		<group id="383" type="span" parent="191" relname="elaboration"/>
+		<group id="384" type="span" parent="385" relname="elaboration"/>
+		<group id="385" type="span" parent="386" relname="span"/>
+		<group id="386" type="span" relname="antithesis"/>
+		<group id="387" type="span" parent="388" relname="joint"/>
+		<group id="388" type="multinuc" parent="203" relname="elaboration"/>
+		<group id="389" type="span" parent="202" relname="elaboration"/>
+		<group id="390" type="span" parent="395" relname="span"/>
+		<group id="391" type="span" parent="392" relname="sequence"/>
+		<group id="392" type="multinuc" parent="396" relname="span"/>
+		<group id="393" type="multinuc" parent="398" relname="span"/>
+		<group id="394" type="span" parent="390" relname="evidence"/>
+		<group id="395" type="span" parent="396" relname="elaboration"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" parent="504" relname="sequence"/>
+		<group id="398" type="span" parent="505" relname="sequence"/>
+		<group id="399" type="span" parent="194" relname="elaboration"/>
+		<group id="400" type="span" parent="406" relname="span"/>
+		<group id="401" type="multinuc" parent="210" relname="elaboration"/>
+		<group id="402" type="multinuc" parent="404" relname="span"/>
+		<group id="403" type="span" parent="404" relname="elaboration"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" relname="antithesis"/>
+		<group id="406" type="span" relname="antithesis"/>
+		<group id="407" type="span" parent="245" relname="joint"/>
+		<group id="408" type="span" parent="12" relname="cause"/>
+		<group id="409" type="span" relname="antithesis"/>
+		<group id="410" type="span" relname="antithesis"/>
+		<group id="411" type="span" parent="13" relname="purpose"/>
+		<group id="412" type="span" parent="424" relname="span"/>
+		<group id="413" type="span" parent="414" relname="same-unit"/>
+		<group id="414" type="multinuc" parent="415" relname="restatement"/>
+		<group id="415" type="multinuc" parent="416" relname="contrast"/>
+		<group id="416" type="multinuc" parent="412" relname="elaboration"/>
+		<group id="417" type="multinuc" parent="418" relname="span"/>
+		<group id="418" type="span" parent="419" relname="span"/>
+		<group id="419" type="span" parent="420" relname="same-unit"/>
+		<group id="420" type="multinuc" parent="421" relname="span"/>
+		<group id="421" type="span" parent="422" relname="span"/>
+		<group id="422" type="span" parent="423" relname="span"/>
+		<group id="423" type="span" parent="416" relname="contrast"/>
+		<group id="424" type="span" relname="antithesis"/>
+		<group id="425" type="span" relname="antithesis"/>
+		<group id="426" type="span" parent="427" relname="span"/>
+		<group id="427" type="span" relname="antithesis"/>
+		<group id="428" type="span" parent="429" relname="span"/>
+		<group id="429" type="span" parent="271" relname="contrast"/>
+		<group id="430" type="multinuc" parent="433" relname="span"/>
+		<group id="431" type="span" parent="263" relname="same-unit"/>
+		<group id="432" type="multinuc" parent="434" relname="span"/>
+		<group id="433" type="span" parent="434" relname="cause"/>
+		<group id="434" type="span" parent="431" relname="span"/>
+		<group id="435" type="span" parent="436" relname="contrast"/>
+		<group id="436" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="437" type="multinuc" relname="antithesis"/>
+		<group id="438" type="span" parent="68" relname="cause"/>
+		<group id="439" type="span" parent="281" relname="elaboration"/>
+		<group id="440" type="span" parent="74" relname="cause"/>
+		<group id="441" type="span" parent="72" relname="elaboration"/>
+		<group id="442" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="443" type="multinuc" parent="444" relname="span"/>
+		<group id="444" type="span" parent="445" relname="span"/>
+		<group id="445" type="span" parent="442" relname="sequence"/>
+		<group id="446" type="span" relname="antithesis"/>
+		<group id="447" type="span" parent="448" relname="span"/>
+		<group id="448" type="span" parent="83" relname="elaboration"/>
+		<group id="449" type="span" parent="450" relname="joint"/>
+		<group id="450" type="multinuc" parent="302" relname="elaboration"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" parent="453" relname="span"/>
+		<group id="453" type="span" parent="313" relname="elaboration"/>
+		<group id="454" type="span" parent="122" relname="cause"/>
+		<group id="455" type="multinuc" parent="454" relname="span"/>
+		<group id="456" type="span" parent="131" relname="attribution"/>
+		<group id="457" type="span" parent="469" relname="comparison"/>
+		<group id="459" type="multinuc" parent="345" relname="span"/>
+		<group id="460" type="multinuc" parent="461" relname="span"/>
+		<group id="461" type="span" parent="465" relname="cause"/>
+		<group id="463" type="multinuc" parent="350" relname="elaboration"/>
+		<group id="464" type="span" parent="137" relname="cause"/>
+		<group id="465" type="span" parent="466" relname="span"/>
+		<group id="466" type="span" parent="463" relname="contrast"/>
+		<group id="467" type="span" parent="456" relname="span"/>
+		<group id="468" type="span" parent="457" relname="span"/>
+		<group id="469" type="multinuc" parent="459" relname="same-unit"/>
+		<group id="471" type="span" parent="472" relname="span"/>
+		<group id="472" type="span" parent="473" relname="span"/>
+		<group id="473" type="span" parent="474" relname="span"/>
+		<group id="474" type="span" parent="475" relname="span"/>
+		<group id="475" type="span" parent="477" relname="elaboration"/>
+		<group id="476" type="span" parent="141" relname="cause"/>
+		<group id="477" type="span" parent="478" relname="span"/>
+		<group id="478" type="span" parent="140" relname="evidence"/>
+		<group id="479" type="span" relname="antithesis"/>
+		<group id="480" type="span" parent="481" relname="same-unit"/>
+		<group id="481" type="multinuc" parent="490" relname="span"/>
+		<group id="483" type="span" parent="484" relname="joint"/>
+		<group id="484" type="multinuc" parent="157" relname="elaboration"/>
+		<group id="485" type="span" parent="486" relname="same-unit"/>
+		<group id="486" type="multinuc" parent="487" relname="cause"/>
+		<group id="487" type="span" parent="488" relname="span"/>
+		<group id="488" type="span" parent="156" relname="elaboration"/>
+		<group id="489" type="span" parent="490" relname="evidence"/>
+		<group id="490" type="span" parent="491" relname="span"/>
+		<group id="491" type="span" relname="antithesis"/>
+		<group id="492" type="span" parent="163" relname="elaboration"/>
+		<group id="493" type="span" parent="503" relname="span"/>
+		<group id="494" type="span" parent="171" relname="elaboration"/>
+		<group id="496" type="span" parent="497" relname="same-unit"/>
+		<group id="497" type="multinuc" parent="498" relname="span"/>
+		<group id="498" type="span" parent="501" relname="joint"/>
+		<group id="499" type="multinuc" parent="502" relname="sequence"/>
+		<group id="500" type="span" parent="499" relname="joint"/>
+		<group id="501" type="multinuc" parent="502" relname="sequence"/>
+		<group id="502" type="multinuc" parent="493" relname="evidence"/>
+		<group id="503" type="span" parent="172" relname="elaboration"/>
+		<group id="504" type="multinuc" parent="399" relname="span"/>
+		<group id="505" type="multinuc" parent="504" relname="sequence"/>
+  </body>
+</rst>

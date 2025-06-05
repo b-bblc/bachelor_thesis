@@ -1,0 +1,480 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="218" relname="contrast">##### Антироссийские санкции ослабили экономику,</segment>
+		<segment id="2" parent="218" relname="contrast">но сплотили людей против Запада</segment>
+		<segment id="3" parent="219" relname="attribution">— Дэн Стейнбок</segment>
+		<segment id="4" parent="224" relname="span">##### Санкции против России,</segment>
+		<segment id="5" parent="4" relname="elaboration">введенные Евросоюзом, США и другими странами в 2014 году,</segment>
+		<segment id="6" parent="221" relname="joint">ослабили ее экономику,</segment>
+		<segment id="7" parent="220" relname="span">серьезно осложнили дальнейший диалог с Кремлем,</segment>
+		<segment id="8" parent="7" relname="elaboration">фактически создав предпосылки для новой холодной войны,</segment>
+		<segment id="9" parent="223" relname="contrast">но при этом сплотили население вокруг национального лидера Владимира Путина (Vladimir Putin).</segment>
+		<segment id="10" parent="226" relname="attribution">К такому выводу пришел американский эксперт в сфере международного бизнеса, межгосударственных отношений и макроэкономики Дэн Стейнбок (Dan Steinbock) в статье "Последствия антироссийских санкций".</segment>
+		<segment id="11" parent="381" relname="attribution">##### В ней он, в частности, отмечает,</segment>
+		<segment id="12" parent="227" relname="comparison">что ВВП России в первом квартале 2015 года снизился на 2,2%,</segment>
+		<segment id="13" parent="227" relname="comparison">а во втором - на 4,6%</segment>
+		<segment id="14" parent="379" relname="same-unit">относительно аналогичных периодов прошлого года,</segment>
+		<segment id="15" parent="380" relname="contrast">но на фоне обесценивания нефти, валютного кризиса и падения потребительского спроса это не стало ни для кого неожиданностью.</segment>
+		<segment id="16" parent="384" relname="attribution">##### Аналитик указывает также,</segment>
+		<segment id="17" parent="228" relname="joint">что параллельно с попытками ускорить диверсификацию промышленности</segment>
+		<segment id="18" parent="228" relname="joint">и смягчить последствия снижения цен на энергоносители</segment>
+		<segment id="19" parent="229" relname="contrast">Кремль отвернулся от Европы и США</segment>
+		<segment id="20" parent="229" relname="contrast">и обратил свой взор на Восток.</segment>
+		<segment id="21" parent="230" relname="effect">##### "Тем не менее рубль в паре с долларом за последний год потерял свыше 43%.</segment>
+		<segment id="22" parent="23" relname="attribution">В Вашингтоне пришли к заключению,</segment>
+		<segment id="23" parent="230" relname="span">что санкции работают.</segment>
+		<segment id="24" parent="231" relname="evaluation">Однако возникает вопрос: на кого?"</segment>
+		<segment id="25" parent="232" relname="attribution">- интересуется эксперт.</segment>
+		<segment id="26" parent="233" relname="span">##### Ниже ИА "PenzaNews" приводит полностью статью Дэна Стейнбока,</segment>
+		<segment id="27" parent="26" relname="elaboration">ранее опубликованную в ряде зарубежных СМИ,</segment>
+		<segment id="28" parent="234" relname="same-unit">в собственном переводе.</segment>
+		<segment id="29" parent="241" relname="preparation">##### Санкции объединили Россию</segment>
+		<segment id="30" parent="240" relname="span">##### В марте 2014 года Вашингтон и Брюссель ввели санкции против ряда российских бизнесменов и корпораций</segment>
+		<segment id="31" parent="30" relname="effect">в ответ на события в Крыму и на юго-востоке Украины.</segment>
+		<segment id="32" parent="437" relname="span">Уже более полутора лет они возлагают надежды на то, что российское общество в конечном итоге выступит против президента Владимира Путина</segment>
+		<segment id="33" parent="436" relname="joint">из-за санкций</segment>
+		<segment id="34" parent="436" relname="joint">и украинского кризиса.</segment>
+		<segment id="35" parent="373" relname="span">##### До Майдана поддержка населением национального лидера составляла лишь 61%,</segment>
+		<segment id="36" parent="35" relname="evaluation">что являлось худшим показателем с 2000 года,</segment>
+		<segment id="37" parent="242" relname="span">и рейтинг главы государства неуклонно снижался</segment>
+		<segment id="38" parent="37" relname="effect">из-за неблагоприятных перспектив в экономике.</segment>
+		<segment id="39" parent="244" relname="joint">Однако западные санкции</segment>
+		<segment id="40" parent="244" relname="joint">и присоединение Крыма к России</segment>
+		<segment id="41" parent="246" relname="span">вызвали рост поддержки действий Кремля.</segment>
+		<segment id="42" parent="43" relname="attribution">По данным негосударственной исследовательской организации "Левада-Центр",</segment>
+		<segment id="43" parent="247" relname="span">на сегодняшний день рейтинг Владимира Путина закрепился на уровне 87%.</segment>
+		<segment id="44" parent="249" relname="attribution">##### По информации Всероссийского центра изучения общественного мнения (ВЦИОМ),</segment>
+		<segment id="45" parent="248" relname="comparison">пропутинскую партию "Единая Россия" в настоящее время поддерживают около 56% населения,</segment>
+		<segment id="46" parent="248" relname="comparison">в то время как за всех вместе взятых коммунистов, милитаристов, националистов и социал-демократов выступают только около 15% россиян.</segment>
+		<segment id="47" parent="252" relname="attribution">##### Как считают некоторые американские обозреватели,</segment>
+		<segment id="48" parent="252" relname="span">рост популярности Владимира Путина и централизма государственной власти вызван тем,</segment>
+		<segment id="49" parent="250" relname="comparison">что действия премьер-министра и правительства страны одобряют менее 65% населения,</segment>
+		<segment id="50" parent="250" relname="comparison">а действия парламента - менее 45% россиян.</segment>
+		<segment id="51" parent="439" relname="contrast">Однако подобные доводы весьма сомнительны.</segment>
+		<segment id="52" parent="254" relname="span">Не стоит забывать, что,</segment>
+		<segment id="53" parent="52" relname="attribution">согласно опросам американского института общественного мнения Gallup,</segment>
+		<segment id="54" parent="255" relname="same-unit">кабинет Барака Обамы (Barack Obama) и конгресс США пользуются одобрением только у 40% и 15% жителей государства соответственно.</segment>
+		<segment id="55" parent="256" relname="comparison">Иными словами, Владимир Путин популярен в России в два раза больше, чем Барак Обама в Соединенных Штатах,</segment>
+		<segment id="56" parent="256" relname="comparison">а уровень поддержки российского парламента втрое выше, чем у американского конгресса.</segment>
+		<segment id="57" parent="261" relname="attribution">##### Вместе с тем на Западе продолжают считать,</segment>
+		<segment id="58" parent="260" relname="joint">что "вся проблема в Путине,</segment>
+		<segment id="59" parent="260" relname="joint">а Россия с нами".</segment>
+		<segment id="60" parent="262" relname="span">В реальности же действия президента РФ совпадают с позицией народа,</segment>
+		<segment id="61" parent="60" relname="elaboration">в том числе умеренного большинства и зарождающегося среднего класса.</segment>
+		<segment id="62" parent="448" relname="comparison">До мирового экономического кризиса почти пятая часть жителей страны подпадали под параметры среднего класса,</segment>
+		<segment id="63" parent="448" relname="comparison">однако к сегодняшнему дню их стало вдвое или даже втрое меньше.</segment>
+		<segment id="64" parent="442" relname="span">##### Месяцы санкций ожесточили людей по обе стороны баррикад в российской политике.</segment>
+		<segment id="65" parent="267" relname="comparison">Те, кто раньше придерживался умеренных взглядов, превратились в агрессивных националистов,</segment>
+		<segment id="66" parent="267" relname="comparison">а социал-демократы стали ярыми коммунистами.</segment>
+		<segment id="67" parent="443" relname="comparison">##### До введения санкций более половины россиян отзывались о Соединенных Штатах положительно.</segment>
+		<segment id="68" parent="443" relname="comparison">Сейчас же США пользуются одобрением только у 15% населения.</segment>
+		<segment id="69" parent="270" relname="span">Аналогичным образом снизилась и поддержка политики Барака Обамы среди граждан РФ</segment>
+		<segment id="70" parent="269" relname="span">- от 40% до 11%,</segment>
+		<segment id="71" parent="70" relname="attribution">согласно данным социологического института Pew Research.</segment>
+		<segment id="72" parent="450" relname="background">В то же время</segment>
+		<segment id="73" parent="449" relname="attribution">18% американцев стали считать</segment>
+		<segment id="74" parent="449" relname="span">Россию наибольшей угрозой для США</segment>
+		<segment id="75" parent="74" relname="elaboration">- вдвое больше, чем раньше.</segment>
+		<segment id="76" parent="273" relname="span">##### Все эти изменения происходят на фоне постепенной эскалации напряженности между Россией, Украиной, США и Европой</segment>
+		<segment id="77" parent="76" relname="concession">(хотя их претензии друг к другу не всегда пересекаются).</segment>
+		<segment id="78" parent="272" relname="contrast">В Брюсселе не испытывают энтузиазма по поводу расширения санкций в ближайшем будущем,</segment>
+		<segment id="79" parent="272" relname="contrast">но и не намерены снимать их при первой же возможности.</segment>
+		<segment id="80" parent="445" relname="span">##### Предвыборная кампания 2016 года в США может ознаменоваться всплеском антипутинской риторики.</segment>
+		<segment id="81" parent="80" relname="elaboration">Американские конгрессмены уже предлагают крайние меры по борьбе с Кремлем: от официальных обвинений России в нарушении договора о РСМД до исключения Москвы из ВТО.</segment>
+		<segment id="82" parent="279" relname="span">##### Однако, к сожалению, мало кто в Соединенных Штатах полностью осознает весь масштаб последствий санкций.</segment>
+		<segment id="83" parent="82" relname="effect">Помимо прочего, это вызвано разницей в том, как действия Вашингтона воспринимают в США и в остальном мире.</segment>
+		<segment id="84" parent="277" relname="attribution">По данным Gallup,</segment>
+		<segment id="85" parent="276" relname="comparison">только 2% жителей Америки видят в решениях Белого дома "значительную угрозу для мировой стабильности",</segment>
+		<segment id="86" parent="276" relname="comparison">тогда как во всем остальном мире такой позиции придерживается каждый четвертый опрошенный.</segment>
+		<segment id="87" parent="294" relname="preparation">##### От надежд на разрядку к новой холодной войне</segment>
+		<segment id="88" parent="291" relname="span">##### Современные "специалисты по России" словно соревнуются, кто придумает прогноз мрачнее.</segment>
+		<segment id="89" parent="283" relname="joint">Пессимизм всегда был в моде,</segment>
+		<segment id="90" parent="282" relname="span">а упрекнуть пессимистов в неправоте уже никто не решается</segment>
+		<segment id="91" parent="280" relname="joint">- ведь сейчас Москве угрожают расширением санкций,</segment>
+		<segment id="92" parent="280" relname="joint">снижением цен на нефть и газ,</segment>
+		<segment id="93" parent="280" relname="joint">падением курса рубля</segment>
+		<segment id="94" parent="280" relname="joint">и ростом инфляции.</segment>
+		<segment id="95" parent="289" relname="preparation">Однако был ли экономический спад в России действительно неизбежным и таким уж "естественным"?</segment>
+		<segment id="96" parent="289" relname="span">Однозначный ответ: нет.</segment>
+		<segment id="97" parent="284" relname="span">В начале весны 2015 года,</segment>
+		<segment id="98" parent="97" relname="background">когда цены на нефть пошли вверх,</segment>
+		<segment id="99" parent="285" relname="joint">Россия по-прежнему демонстрировала неплохой потенциал.</segment>
+		<segment id="100" parent="101" relname="condition">Если бы вы тогда инвестировали в РФ,</segment>
+		<segment id="101" parent="287" relname="span">то полгода спустя могли бы извлечь неплохую прибыль с учетом всех рисков.</segment>
+		<segment id="102" parent="295" relname="span">##### Россия продолжает демонстрировать хороший потенциал в части оборота ценных бумаг,</segment>
+		<segment id="103" parent="102" relname="attribution">о чем говорят данные компании Bloomberg.</segment>
+		<segment id="104" parent="105" relname="attribution">По сведениям аналитиков корпорации,</segment>
+		<segment id="105" parent="435" relname="span">относительная прибыль Москвы на фоне других стран БРИКС держится на высоком уровне.</segment>
+		<segment id="106" parent="432" relname="preparation">##### Гораздо труднее ответить на другой вопрос: действительно ли все на Западе, в том числе и сторонники санкций, так уж сильно хотят добиться рецессии в России?</segment>
+		<segment id="107" parent="296" relname="attribution">По предположениям многих экспертов,</segment>
+		<segment id="108" parent="296" relname="span">экономические меры против Кремля направлены на то,</segment>
+		<segment id="109" parent="108" relname="purpose">чтобы "кнутом и пряником" заставить Москву отказаться от тех действий, которые не сходятся с интересами Запада.</segment>
+		<segment id="110" parent="299" relname="attribution">##### Однако ряд противников санкций утверждают,</segment>
+		<segment id="111" parent="298" relname="contrast">что Запад хочет подрезать крылья российской экономике,</segment>
+		<segment id="112" parent="298" relname="contrast">вместо того чтобы способствовать проведению рыночных и экономических реформ в стране.</segment>
+		<segment id="113" parent="302" relname="attribution">В их числе ведущий эксперт по России Стивен Коэн (Stephen Cohen), который еще в 2006 году предупреждал:</segment>
+		<segment id="114" parent="302" relname="span">"Отношения Москвы и Вашингтона настолько ухудшились,</segment>
+		<segment id="115" parent="300" relname="joint">что уже имеет смысл говорить о новой холодной войне</segment>
+		<segment id="116" parent="300" relname="joint">или даже о продолжении старой".</segment>
+		<segment id="117" parent="427" relname="evaluation">##### Действительно, текущие тенденции в экономике и геополитике указывают на снижающуюся вероятность разрядки и постепенный переход к новой холодной войне.</segment>
+		<segment id="118" parent="425" relname="preparation">##### На пути к трехпроцентному спаду</segment>
+		<segment id="119" parent="423" relname="span">##### До введения санкций в России ожидали сохранение слабого роста экономики в 2014-2015 годах</segment>
+		<segment id="120" parent="119" relname="cause">из-за стабильно низкого спроса на нефть и малопривлекательного инвестиционного климата, осложненного бюрократическими препонами.</segment>
+		<segment id="121" parent="304" relname="attribution">В начале 2014 года экономисты предполагали,</segment>
+		<segment id="122" parent="303" relname="comparison">что рынок за год вырастет на 1,7%,</segment>
+		<segment id="123" parent="303" relname="comparison">а в 2015 году - на 2,3%.</segment>
+		<segment id="124" parent="310" relname="span">Сейчас эти прогнозы остались лишь несбыточными мечтами,</segment>
+		<segment id="125" parent="124" relname="attribution">о которых мало кто помнит.</segment>
+		<segment id="126" parent="305" relname="comparison">За минувший год спад экономики России под давлением санкций составил 3,5%.</segment>
+		<segment id="127" parent="305" relname="comparison">В этом году также стоит ожидать сокращения на 3-3,4%.</segment>
+		<segment id="128" parent="306" relname="span">На сегодняшний день самым оптимистичным сценарием на 2016 год</segment>
+		<segment id="129" parent="128" relname="attribution">аналитики называют</segment>
+		<segment id="130" parent="307" relname="same-unit">возвращение к слабому росту - менее 0,5%.</segment>
+		<segment id="131" parent="314" relname="comparison">##### Курс национальной валюты снизился до 67 рублей за доллар</segment>
+		<segment id="132" parent="422" relname="span">и 77 рублей за евро</segment>
+		<segment id="133" parent="315" relname="span">- и второй показатель здесь наиболее важен,</segment>
+		<segment id="134" parent="133" relname="effect">так как Брюссель и Москва поддерживают тесные экономические связи.</segment>
+		<segment id="135" parent="420" relname="preparation">##### Что же можно сказать о среднесрочных перспективах?</segment>
+		<segment id="136" parent="316" relname="comparison">При наилучшем развитии событий темпы роста российской экономики достигнут 1,5% к концу десятилетия</segment>
+		<segment id="137" parent="316" relname="comparison">и останутся на том же уровне в начале следующего.</segment>
+		<segment id="138" parent="317" relname="span">Однако это сущие крохи по сравнению с 7-процентным ростом,</segment>
+		<segment id="139" parent="138" relname="elaboration">который был у стран БРИКС до 2008 года.</segment>
+		<segment id="140" parent="417" relname="span">##### И даже эти прогнозы в скором времени могут стать неосуществимыми</segment>
+		<segment id="141" parent="140" relname="cause">из-за слабого развития России, усиления антироссийских настроений в Европе, эскалации напряженности между Москвой и Брюсселем, экономического спада на Украине и появления новых геополитических угроз у границ РФ.</segment>
+		<segment id="142" parent="321" relname="span">##### В 2009 году Дмитрий Медведев (Dmitry Medvedev),</segment>
+		<segment id="143" parent="142" relname="elaboration">который в то время являлся президентом России,</segment>
+		<segment id="144" parent="322" relname="same-unit">запустил программу модернизации страны</segment>
+		<segment id="145" parent="323" relname="purpose">с целью диверсификации экономики и снижения зависимости от нефтегазовой индустрии.</segment>
+		<segment id="146" parent="324" relname="joint">Такой шаг к новому уровню продуктивности вполне закономерен,</segment>
+		<segment id="147" parent="324" relname="joint">и многие развитые промышленные страны рано или поздно проходили этот этап.</segment>
+		<segment id="148" parent="325" relname="joint">Однако энергоносители по-прежнему остаются крупнейшей статьей экспорта России,</segment>
+		<segment id="149" parent="325" relname="joint">а объем инвестиций неуклонно уменьшается.</segment>
+		<segment id="150" parent="414" relname="preparation">##### Снижение цен на энергоносители</segment>
+		<segment id="151" parent="419" relname="preparation">##### Почему же цены на нефть до сих пор не поднялись вверх?</segment>
+		<segment id="152" parent="410" relname="attribution">По общепринятому мнению,</segment>
+		<segment id="153" parent="410" relname="span">падение котировок спровоцировано ведущими нефтедобытчиками Аравийского полуострова, такими как Саудовская Аравия,</segment>
+		<segment id="154" parent="155" relname="purpose">которые пытаются помешать американским конкурентам взять на вооружение ноу-хау,</segment>
+		<segment id="155" parent="411" relname="span">сделав переход на новые методы добычи экономически невыгодным.</segment>
+		<segment id="156" parent="329" relname="attribution">Как считают сторонники этой точки зрения,</segment>
+		<segment id="157" parent="158" relname="purpose">арабские страны стремятся отсрочить крах своей нефтяной монополии</segment>
+		<segment id="158" parent="329" relname="span">через сдерживание роста цен.</segment>
+		<segment id="159" parent="332" relname="attribution">##### Согласно другой версии,</segment>
+		<segment id="160" parent="331" relname="joint">отношения Америки и Египта, а также общие военные интересы США, Саудовской Аравии и стран Персидского залива сейчас стали гораздо важнее денег,</segment>
+		<segment id="161" parent="387" relname="span">а низкие цены превратились в инструмент</segment>
+		<segment id="162" parent="161" relname="purpose">для решения геополитических задач.</segment>
+		<segment id="163" parent="164" relname="attribution">##### По данным Центрального банка Российской Федерации,</segment>
+		<segment id="164" parent="334" relname="span">существует высокая вероятность того, что цены на нефть не скоро поднимутся выше 60 долларов за баррель.</segment>
+		<segment id="165" parent="333" relname="comparison">Несмотря на то, что сейчас котировки держатся в районе 44 долларов,</segment>
+		<segment id="166" parent="388" relname="comparison">к концу года они могут подойти вплотную к 60 долларам,</segment>
+		<segment id="167" parent="386" relname="span">что на 5 долларов меньше заявленного американскими компаниями минимального порога</segment>
+		<segment id="168" parent="167" relname="purpose">для увеличения объемов добычи сланцевой нефти.</segment>
+		<segment id="169" parent="170" relname="attribution">##### Из отчетов российских нефтеперерабатывающих компаний следует,</segment>
+		<segment id="170" parent="337" relname="span">что две трети из них работает в убыток.</segment>
+		<segment id="171" parent="335" relname="joint">В конце июля ЦБ РФ снизил ключевую ставку на 50 базисных пунктов до 11%</segment>
+		<segment id="172" parent="408" relname="joint">и выпустил предупреждение об уменьшении экономической активности,</segment>
+		<segment id="173" parent="408" relname="joint">при этом охарактеризовав инфляцию как не столь угрожающую.</segment>
+		<segment id="174" parent="336" relname="span">До недавнего времени дела на российском рынке шли относительно спокойно</segment>
+		<segment id="175" parent="174" relname="effect">благодаря фискальной политике Кремля, мерам количественного смягчения и буферному капиталу.</segment>
+		<segment id="176" parent="391" relname="contrast">Однако объем инвестиций продолжал снижаться.</segment>
+		<segment id="177" parent="344" relname="comparison">##### Всего несколько лет назад уровень прямых российских инвестиций за рубежом составлял около 16% от валового прироста основного капитала.</segment>
+		<segment id="178" parent="344" relname="comparison">За прошлый год этот показатель снизился до 14%.</segment>
+		<segment id="179" parent="345" relname="span">Кроме того, роль зарубежных инвестиций в российские компании кардинально изменилась:</segment>
+		<segment id="180" parent="340" relname="comparison">если в 2013 году они составляли более 15% [от ВВП],</segment>
+		<segment id="181" parent="340" relname="comparison">то к концу прошлого года их доля сократилась до 5%.</segment>
+		<segment id="182" parent="343" relname="attribution">По мнению иностранных инвесторов,</segment>
+		<segment id="183" parent="341" relname="joint">российским властям следует как можно скорее провести структурные реформы</segment>
+		<segment id="184" parent="341" relname="joint">и более активно бороться с коррупцией.</segment>
+		<segment id="185" parent="404" relname="preparation">##### Разногласия в руководстве ЦБ РФ ни для кого не стали сюрпризом.</segment>
+		<segment id="186" parent="401" relname="attribution">Первый заместитель председателя Центробанка Дмитрий Тулин (Dmitri Tulin) высказался</segment>
+		<segment id="187" parent="399" relname="joint">за смягчение монетарной политики</segment>
+		<segment id="188" parent="399" relname="joint">и целевое кредитование промышленности</segment>
+		<segment id="189" parent="400" relname="purpose">для восстановления экономики,</segment>
+		<segment id="190" parent="191" relname="attribution">а глава ЦБ Эльвира Набиуллина (Elvira Nabiullina) выступила</segment>
+		<segment id="191" parent="354" relname="span">в поддержку традиционных мер влияния на рынок.</segment>
+		<segment id="192" parent="352" relname="attribution">В то же время они сходятся во мнении,</segment>
+		<segment id="193" parent="351" relname="effect">что дальнейшее падение нефтяных котировок</segment>
+		<segment id="194" parent="355" relname="span">истощит резервы ЦБ РФ,</segment>
+		<segment id="195" parent="194" relname="elaboration">объем которых оценивается в 360 млрд. долларов.</segment>
+		<segment id="196" parent="365" relname="preparation">##### Напряженность на горизонте</segment>
+		<segment id="197" parent="353" relname="joint">##### Преимущества России заключаются в ее стратегических силах и народном единстве,</segment>
+		<segment id="198" parent="353" relname="joint">и США должны об этом помнить.</segment>
+		<segment id="199" parent="398" relname="span">Российская Федерация занимает третье место в мире по расходам на вооружение после Соединенных Штатов и Китая.</segment>
+		<segment id="200" parent="358" relname="contrast">Оборонный бюджет Америки в прошлом году был сокращен на 7%,</segment>
+		<segment id="201" parent="358" relname="contrast">тогда как Москва, напротив, приняла решение увеличить его на 8%.</segment>
+		<segment id="202" parent="359" relname="span">Владимир Путин остается верен своему плану провести модернизацию Вооруженных сил РФ к 2020 году,</segment>
+		<segment id="203" parent="202" relname="elaboration">что потребует 600 млрд. долларов,</segment>
+		<segment id="204" parent="360" relname="joint">и санкции Запада только способствуют поддержке этих мер россиянами.</segment>
+		<segment id="205" parent="370" relname="joint">##### Не стоит забывать, что Россия - ядерная держава.</segment>
+		<segment id="206" parent="368" relname="contrast">Хотя у Вашингтона на вооружении находится около 2 тыс. 80 боеголовок,</segment>
+		<segment id="207" parent="366" relname="joint">Москва держит наготове 1 тыс. 780 атомных ракет,</segment>
+		<segment id="208" parent="366" relname="joint">а общее число имеющихся у РФ ядерных боезарядов - 7 тыс. 500 единиц - превышает американские запасы.</segment>
+		<segment id="209" parent="210" relname="effect">##### За прошедшие полтора года санкции [введенные против России и Россией против Запада] усилили экономический спад в Европе,</segment>
+		<segment id="210" parent="392" relname="span">снизив эффективность национальных бюджетных мер и программ количественного смягчения Европейского Центробанка.</segment>
+		<segment id="211" parent="393" relname="span">Результатом этого стало падение общих показателей мирового роста, в том числе и в США, и дальнейшее усиление антиамериканских и антиевропейских настроений в России.</segment>
+		<segment id="212" parent="371" relname="joint">##### Нефтяные котировки по-прежнему держатся на низком уровне,</segment>
+		<segment id="213" parent="371" relname="joint">а ФРС США планирует повысить ключевую ставку этой осенью.</segment>
+		<segment id="214" parent="394" relname="span">Сильнее всего это ударит по развивающимся нефтегазовым экономикам, среди которых и Россия.</segment>
+		<segment id="215" parent="372" relname="joint">##### Несомненно, между Вашингтоном и Москвой, между Кремлем и Брюсселем сейчас установилась атмосфера взаимной неприязни.</segment>
+		<segment id="216" parent="372" relname="joint">Однако санкции будут только способствовать раздору, а отнюдь не примирению.</segment>
+		<segment id="217" parent="395" relname="evaluation">Быть может, политикам стоит в первую очередь сосредоточиться на выходе из экономической рецессии и поиске геополитического диалога?</segment>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="376" relname="span"/>
+		<group id="220" type="span" parent="221" relname="joint"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="222" type="span" parent="223" relname="contrast"/>
+		<group id="223" type="multinuc" parent="225" relname="span"/>
+		<group id="224" type="span" parent="225" relname="effect"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="377" relname="span"/>
+		<group id="227" type="multinuc" parent="379" relname="same-unit"/>
+		<group id="228" type="multinuc" parent="383" relname="joint"/>
+		<group id="229" type="multinuc" parent="383" relname="joint"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="235" relname="span"/>
+		<group id="233" type="span" parent="234" relname="same-unit"/>
+		<group id="234" type="multinuc" parent="237" relname="span"/>
+		<group id="235" type="span" parent="236" relname="joint"/>
+		<group id="236" type="multinuc" />
+		<group id="237" type="span" parent="236" relname="joint"/>
+		<group id="238" type="multinuc" parent="241" relname="span"/>
+		<group id="239" type="span" />
+		<group id="240" type="span" parent="238" relname="joint"/>
+		<group id="241" type="span" parent="239" relname="span"/>
+		<group id="242" type="span" parent="243" relname="joint"/>
+		<group id="243" type="multinuc" parent="374" relname="contrast"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="41" relname="effect"/>
+		<group id="246" type="span" parent="375" relname="span"/>
+		<group id="247" type="span" parent="246" relname="elaboration"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="249" type="span" parent="438" relname="span"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="251" type="span" parent="48" relname="effect"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="439" relname="contrast"/>
+		<group id="254" type="span" parent="255" relname="same-unit"/>
+		<group id="255" type="multinuc" parent="257" relname="span"/>
+		<group id="256" type="multinuc" parent="258" relname="span"/>
+		<group id="257" type="span" parent="259" relname="restatement"/>
+		<group id="258" type="span" parent="259" relname="restatement"/>
+		<group id="259" type="multinuc" parent="440" relname="evidence"/>
+		<group id="260" type="multinuc" parent="261" relname="span"/>
+		<group id="261" type="span" parent="263" relname="span"/>
+		<group id="262" type="span" parent="264" relname="contrast"/>
+		<group id="263" type="span" parent="264" relname="contrast"/>
+		<group id="264" type="multinuc" parent="265" relname="span"/>
+		<group id="265" type="span" parent="266" relname="joint"/>
+		<group id="266" type="multinuc" />
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="64" relname="elaboration"/>
+		<group id="269" type="span" parent="69" relname="elaboration"/>
+		<group id="270" type="span" parent="271" relname="comparison"/>
+		<group id="271" type="multinuc" parent="444" relname="joint"/>
+		<group id="272" type="multinuc" parent="275" relname="span"/>
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="274" type="multinuc" />
+		<group id="275" type="span" parent="274" relname="joint"/>
+		<group id="276" type="multinuc" parent="277" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="279" relname="elaboration"/>
+		<group id="279" type="span" parent="446" relname="span"/>
+		<group id="280" type="multinuc" parent="281" relname="span"/>
+		<group id="281" type="span" parent="90" relname="effect"/>
+		<group id="282" type="span" parent="283" relname="joint"/>
+		<group id="283" type="multinuc" parent="290" relname="span"/>
+		<group id="284" type="span" parent="285" relname="joint"/>
+		<group id="285" type="multinuc" parent="286" relname="span"/>
+		<group id="286" type="span" parent="288" relname="span"/>
+		<group id="287" type="span" parent="286" relname="elaboration"/>
+		<group id="288" type="span" parent="96" relname="elaboration"/>
+		<group id="289" type="span" parent="292" relname="span"/>
+		<group id="290" type="span" parent="88" relname="elaboration"/>
+		<group id="291" type="span" parent="293" relname="joint"/>
+		<group id="292" type="span" parent="293" relname="joint"/>
+		<group id="293" type="multinuc" parent="294" relname="span"/>
+		<group id="294" type="span" />
+		<group id="295" type="span" parent="434" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="431" relname="contrast"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="429" relname="span"/>
+		<group id="300" type="multinuc" parent="301" relname="span"/>
+		<group id="301" type="span" parent="114" relname="elaboration"/>
+		<group id="302" type="span" parent="427" relname="span"/>
+		<group id="303" type="multinuc" parent="304" relname="span"/>
+		<group id="304" type="span" parent="308" relname="span"/>
+		<group id="305" type="multinuc" parent="311" relname="span"/>
+		<group id="306" type="span" parent="307" relname="same-unit"/>
+		<group id="307" type="multinuc" parent="309" relname="span"/>
+		<group id="308" type="span" parent="424" relname="sequence"/>
+		<group id="309" type="span" parent="305" relname="comparison"/>
+		<group id="310" type="span" parent="312" relname="span"/>
+		<group id="311" type="span" parent="310" relname="elaboration"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="424" relname="sequence"/>
+		<group id="314" type="multinuc" />
+		<group id="315" type="span" parent="132" relname="evaluation"/>
+		<group id="316" type="multinuc" parent="318" relname="span"/>
+		<group id="317" type="span" parent="319" relname="comparison"/>
+		<group id="318" type="span" parent="319" relname="comparison"/>
+		<group id="319" type="multinuc" parent="320" relname="span"/>
+		<group id="320" type="span" parent="420" relname="span"/>
+		<group id="321" type="span" parent="322" relname="same-unit"/>
+		<group id="322" type="multinuc" parent="323" relname="span"/>
+		<group id="323" type="span" parent="326" relname="span"/>
+		<group id="324" type="multinuc" parent="327" relname="span"/>
+		<group id="325" type="multinuc" parent="416" relname="contrast"/>
+		<group id="326" type="span" parent="328" relname="span"/>
+		<group id="327" type="span" parent="326" relname="evaluation"/>
+		<group id="328" type="span" parent="416" relname="contrast"/>
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="330" type="span" parent="412" relname="elaboration"/>
+		<group id="331" type="multinuc" parent="332" relname="span"/>
+		<group id="332" type="span" parent="409" relname="span"/>
+		<group id="333" type="multinuc" parent="389" relname="span"/>
+		<group id="334" type="span" parent="389" relname="preparation"/>
+		<group id="335" type="multinuc" parent="338" relname="span"/>
+		<group id="336" type="span" parent="391" relname="contrast"/>
+		<group id="337" type="span" parent="339" relname="joint"/>
+		<group id="338" type="span" parent="339" relname="joint"/>
+		<group id="339" type="multinuc" />
+		<group id="340" type="multinuc" parent="342" relname="span"/>
+		<group id="341" type="multinuc" parent="343" relname="span"/>
+		<group id="342" type="span" parent="179" relname="elaboration"/>
+		<group id="343" type="span" parent="346" relname="span"/>
+		<group id="344" type="multinuc" parent="347" relname="span"/>
+		<group id="345" type="span" parent="349" relname="span"/>
+		<group id="346" type="span" parent="345" relname="elaboration"/>
+		<group id="347" type="span" parent="348" relname="joint"/>
+		<group id="348" type="multinuc" />
+		<group id="349" type="span" parent="348" relname="joint"/>
+		<group id="350" type="span" parent="403" relname="contrast"/>
+		<group id="351" type="span" parent="356" relname="span"/>
+		<group id="352" type="span" parent="357" relname="span"/>
+		<group id="353" type="multinuc" parent="361" relname="span"/>
+		<group id="354" type="span" parent="350" relname="span"/>
+		<group id="355" type="span" parent="351" relname="span"/>
+		<group id="356" type="span" parent="352" relname="span"/>
+		<group id="357" type="span" parent="406" relname="contrast"/>
+		<group id="358" type="multinuc" parent="363" relname="span"/>
+		<group id="359" type="span" parent="360" relname="joint"/>
+		<group id="360" type="multinuc" parent="364" relname="span"/>
+		<group id="361" type="span" parent="362" relname="joint"/>
+		<group id="362" type="multinuc" parent="365" relname="span"/>
+		<group id="363" type="span" parent="199" relname="elaboration"/>
+		<group id="364" type="span" parent="362" relname="joint"/>
+		<group id="365" type="span" parent="407" relname="span"/>
+		<group id="366" type="multinuc" parent="367" relname="span"/>
+		<group id="367" type="span" parent="368" relname="contrast"/>
+		<group id="368" type="multinuc" parent="369" relname="span"/>
+		<group id="369" type="span" parent="370" relname="joint"/>
+		<group id="370" type="multinuc" />
+		<group id="371" type="multinuc" parent="214" relname="effect"/>
+		<group id="372" type="multinuc" parent="395" relname="span"/>
+		<group id="373" type="span" parent="243" relname="joint"/>
+		<group id="374" type="multinuc" />
+		<group id="375" type="span" parent="374" relname="contrast"/>
+		<group id="376" type="span" />
+		<group id="377" type="span" parent="378" relname="span"/>
+		<group id="378" type="span" />
+		<group id="379" type="multinuc" parent="380" relname="contrast"/>
+		<group id="380" type="multinuc" parent="381" relname="span"/>
+		<group id="381" type="span" parent="382" relname="span"/>
+		<group id="382" type="span" />
+		<group id="383" type="multinuc" parent="384" relname="span"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" />
+		<group id="386" type="span" parent="388" relname="comparison"/>
+		<group id="387" type="span" parent="331" relname="joint"/>
+		<group id="388" type="multinuc" parent="333" relname="comparison"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="390" type="span" />
+		<group id="391" type="multinuc" parent="339" relname="joint"/>
+		<group id="392" type="span" parent="211" relname="effect"/>
+		<group id="393" type="span" parent="397" relname="joint"/>
+		<group id="394" type="span" parent="397" relname="joint"/>
+		<group id="395" type="span" parent="396" relname="span"/>
+		<group id="396" type="span" />
+		<group id="397" type="multinuc" />
+		<group id="398" type="span" parent="362" relname="joint"/>
+		<group id="399" type="multinuc" parent="400" relname="span"/>
+		<group id="400" type="span" parent="401" relname="span"/>
+		<group id="401" type="span" parent="402" relname="span"/>
+		<group id="402" type="span" parent="403" relname="contrast"/>
+		<group id="403" type="multinuc" parent="406" relname="contrast"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" />
+		<group id="406" type="multinuc" parent="404" relname="span"/>
+		<group id="407" type="span" />
+		<group id="408" type="multinuc" parent="335" relname="joint"/>
+		<group id="409" type="span" parent="418" relname="comparison"/>
+		<group id="410" type="span" parent="412" relname="span"/>
+		<group id="411" type="span" parent="153" relname="elaboration"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="418" relname="comparison"/>
+		<group id="414" type="span" parent="415" relname="span"/>
+		<group id="415" type="span" />
+		<group id="416" type="multinuc" />
+		<group id="417" type="span" parent="320" relname="evaluation"/>
+		<group id="418" type="multinuc" parent="419" relname="span"/>
+		<group id="419" type="span" parent="414" relname="span"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" />
+		<group id="422" type="span" parent="314" relname="comparison"/>
+		<group id="423" type="span" parent="424" relname="sequence"/>
+		<group id="424" type="multinuc" parent="425" relname="span"/>
+		<group id="425" type="span" parent="426" relname="span"/>
+		<group id="426" type="span" />
+		<group id="427" type="span" parent="428" relname="span"/>
+		<group id="428" type="span" parent="429" relname="elaboration"/>
+		<group id="429" type="span" parent="430" relname="span"/>
+		<group id="430" type="span" parent="431" relname="contrast"/>
+		<group id="431" type="multinuc" parent="432" relname="span"/>
+		<group id="432" type="span" parent="433" relname="span"/>
+		<group id="433" type="span" />
+		<group id="434" type="span" />
+		<group id="435" type="span" parent="295" relname="elaboration"/>
+		<group id="436" type="multinuc" parent="32" relname="effect"/>
+		<group id="437" type="span" parent="238" relname="joint"/>
+		<group id="438" type="span" />
+		<group id="439" type="multinuc" parent="440" relname="span"/>
+		<group id="440" type="span" parent="441" relname="span"/>
+		<group id="441" type="span" />
+		<group id="442" type="span" />
+		<group id="443" type="multinuc" parent="444" relname="joint"/>
+		<group id="444" type="multinuc" />
+		<group id="445" type="span" parent="447" relname="contrast"/>
+		<group id="446" type="span" parent="447" relname="contrast"/>
+		<group id="447" type="multinuc" />
+		<group id="448" type="multinuc" parent="266" relname="joint"/>
+		<group id="449" type="span" parent="450" relname="span"/>
+		<group id="450" type="span" parent="451" relname="span"/>
+		<group id="451" type="span" parent="271" relname="comparison"/>
+	</body>
+</rst>

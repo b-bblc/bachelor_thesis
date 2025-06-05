@@ -1,0 +1,323 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution1" type="rst"/>
+			<rel name="attribution2" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-effect" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation-evaluation" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="non_volitional_cause" type="rst"/>
+			<rel name="non_volitional_effect" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="volitional_cause" type="rst"/>
+			<rel name="volitional_effect" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="143" relname="span">##### Незадолго до государственного визита Владимира Путина в Соединенное Королевство,</segment>
+		<segment id="2" parent="142" relname="joint">в ходе которого российская президентская чета гостит лично у королевы,</segment>
+		<segment id="3" parent="142" relname="joint">живет в Букингемском дворце</segment>
+		<segment id="4" parent="142" relname="joint">и ездит в королевской карете,</segment>
+		<segment id="5" parent="144" relname="same-unit">гостем британского монарха довелось побывать и мне в тюрьме Ее Величества.</segment>
+		<segment id="6" parent="145" relname="span">Заведения эти в Великобритании связаны с ней самым непосредственным образом,</segment>
+		<segment id="7" parent="6" relname="elaboration">в каждой из них непременно висят фотографии королевы и ее посещений этого учреждения.</segment>
+		<segment id="8" parent="147" relname="joint">##### В тюрьме c удовольствием показывают любой участок</segment>
+		<segment id="9" parent="288" relname="span">и дают поговорить практически с любым заключенным или сотрудником, причем в сопровождении не тюремщика, а человека со стороны члена добровольческой организации «Независимые контролирующие комиссии»,</segment>
+		<segment id="10" parent="9" relname="elaboration">до этого года в течение столетия называвшейся «Советы посетителей».</segment>
+		<segment id="11" parent="151" relname="span">Организация эта состоит из 137 комиссий по числу тюрем,</segment>
+		<segment id="12" parent="11" relname="elaboration">в каждую из которых входят местные жители, добровольно решившие посвятить часть своего времени общественному контролю над тюрьмой</segment>
+		<segment id="13" parent="149" relname="joint">(в России законопроект об общественном контроле над местами вынужденного лишения свободы будет обсуждаться Думой лишь осенью;</segment>
+		<segment id="14" parent="149" relname="joint">хотели было обсудить это в начале июня,</segment>
+		<segment id="15" parent="149" relname="joint">да заела предвыборная текучка).</segment>
+		<segment id="16" parent="155" relname="span">##### Вопреки распространенным в России стереотипам, жизнь заключенного в Британии отнюдь не безоблачна:</segment>
+		<segment id="17" parent="153" relname="joint">в отличие от многих других стран он обязан работать,</segment>
+		<segment id="18" parent="153" relname="joint">а за отказ идти в мастерскую следует строгое наказание.</segment>
+		<segment id="19" parent="157" relname="span">Как и в России, заключенные жалуются на переполненность тюрем:</segment>
+		<segment id="20" parent="19" relname="elaboration">сейчас тюремное население Великобритании там достигло критического значения в 73 тысячи человек (в России 850 тысяч).</segment>
+		<segment id="21" parent="158" relname="comparison">В английской камере сидят двое вместо одного,</segment>
+		<segment id="22" parent="158" relname="comparison">в Бутырке 60 вместо 30.</segment>
+		<segment id="23" parent="162" relname="span">##### В Британии нет разделения на следственные изоляторы и места, где отбывают наказание уже приговоренные,</segment>
+		<segment id="24" parent="23" relname="elaboration">максимум их могут поместить в разные крылья тюрьмы, и то необязательно.</segment>
+		<segment id="25" parent="163" relname="span">Как подследственные, так и только что получившие срок попадают в местную тюрьму,</segment>
+		<segment id="26" parent="25" relname="elaboration">откуда их удобно возить в суд и обратно.</segment>
+		<segment id="27" parent="161" relname="cause-effect">Из-за того, что большинство нервных срывов и попыток самоубийства происходит в самом начале заключения, а точнее, в первую же ночь,</segment>
+		<segment id="28" parent="160" relname="joint">в тюрьме есть отдельное крыло, где проводят первую неделю,</segment>
+		<segment id="29" parent="160" relname="joint">а на нижнем этаже (всего их три) этого крыла находится «центр первой ночи».</segment>
+		<segment id="30" parent="165" relname="span">Там,</segment>
+		<segment id="31" parent="30" relname="purpose">чтобы смягчить попадание в тюрьму,</segment>
+		<segment id="32" parent="164" relname="same-unit">отчасти отходят от тюремной дисциплины:</segment>
+		<segment id="33" parent="166" relname="joint">камеры просторнее,</segment>
+		<segment id="34" parent="166" relname="joint">вместо тюремных пледов выдают нормальные одеяла и т.д.</segment>
+		<segment id="35" parent="172" relname="span">##### Один из способов предотвращения суицида - работа так называемых слушателей</segment>
+		<segment id="36" parent="35" relname="elaboration">(они есть сейчас во всех сферах английской жизни - и в тюрьме, и на воле) .</segment>
+		<segment id="37" parent="289" relname="span">Это добровольцы,</segment>
+		<segment id="38" parent="176" relname="span">подготовкой которых занимается благотворительная организация The Samaritans,</segment>
+		<segment id="39" parent="173" relname="span">к ним можно обратиться,</segment>
+		<segment id="40" parent="291" relname="joint">если на душе тяжело</segment>
+		<segment id="41" parent="291" relname="joint">и не с кем поговорить.</segment>
+		<segment id="42" parent="179" relname="span">В тюрьме эту функцию выполняют сами заключенные,</segment>
+		<segment id="43" parent="177" relname="joint">которые захотели стать слушателями,</segment>
+		<segment id="44" parent="177" relname="joint">были одобрены специальным тюремным сотрудником,</segment>
+		<segment id="45" parent="177" relname="joint">а главное одобрены «самаритянами».</segment>
+		<segment id="46" parent="180" relname="joint">В их обязанности входит слушать все, чем заключенный захочет поделиться.</segment>
+		<segment id="47" parent="184" relname="attribution">##### Слушатели признаются,</segment>
+		<segment id="48" parent="183" relname="joint">что работа это тяжелая,</segment>
+		<segment id="49" parent="182" relname="joint">после нее самому хочется поговорить,</segment>
+		<segment id="50" parent="182" relname="joint">а услышанное не идет из головы.</segment>
+		<segment id="51" parent="187" relname="span">Один из них,</segment>
+		<segment id="52" parent="185" relname="joint">сидящий впервые</segment>
+		<segment id="53" parent="185" relname="joint">и к своим обязанностям относящийся очень серьезно,</segment>
+		<segment id="54" parent="186" relname="same-unit">сам явно находился в тяжелом состоянии.</segment>
+		<segment id="55" parent="192" relname="attribution">Другой слушатель сказал,</segment>
+		<segment id="56" parent="191" relname="joint">что помимо помощи другим,</segment>
+		<segment id="57" parent="190" relname="span">работа эта предоставляет возможность просто встретиться с людьми,</segment>
+		<segment id="58" parent="188" relname="joint">например, съездить на съезд самаритян</segment>
+		<segment id="59" parent="188" relname="joint">и побыть пару дней в гостинице вместо тюрьмы.</segment>
+		<segment id="60" parent="61" relname="evidence">Тюремщики к слушателям относятся серьезно</segment>
+		<segment id="61" parent="199" relname="span">- видно, что самоубийства для них большая проблема.</segment>
+		<segment id="62" parent="63" relname="condition">##### Пока заключенный привыкает,</segment>
+		<segment id="63" parent="200" relname="span">к нему тоже присматриваются в итоге же присваивают одну из четырех категорий,</segment>
+		<segment id="64" parent="201" relname="sequence">после чего помещают в соответствующую тюрьму.</segment>
+		<segment id="65" parent="202" relname="joint">Заключенный категории А считается очень опасным</segment>
+		<segment id="66" parent="202" relname="joint">и не должен убежать ни при каких обстоятельствах.</segment>
+		<segment id="67" parent="280" relname="span">При входе в тюрьму категории А всех обязательно обыскивают,</segment>
+		<segment id="68" parent="203" relname="contrast">там содержится небольшое число заключенных,</segment>
+		<segment id="69" parent="203" relname="contrast">но на них приходится много работников тюрьмы,</segment>
+		<segment id="70" parent="204" relname="joint">значительно лучше оборудована охрана внешних стен.</segment>
+		<segment id="71" parent="212" relname="span">А, вот, тюрьма категории D это так называемая открытая тюрьма,</segment>
+		<segment id="72" parent="206" relname="joint">там стен нет вовсе,</segment>
+		<segment id="73" parent="206" relname="joint">а заключенные могут сами выходить из нее на работу.</segment>
+		<segment id="74" parent="208" relname="joint">Часто они работают в том же городе</segment>
+		<segment id="75" parent="208" relname="joint">и ездят туда на собственной машине.</segment>
+		<segment id="76" parent="214" relname="span">Пример такой тюрьмы Лэйхилл.</segment>
+		<segment id="77" parent="210" relname="joint">Там заключенные занимаются садоводством,</segment>
+		<segment id="78" parent="210" relname="joint">недавно даже победили на самой знаменитой выставке цветов в Челси.</segment>
+		<segment id="79" parent="215" relname="interpretation-evaluation">Открытая тюрьма многим напоминает введенные недавно в России колонии-поселения.</segment>
+		<segment id="80" parent="224" relname="span">##### Не так давно тюремные правила и распорядок стали объяснять не сотрудники тюрьмы, а специально этому обученные другие заключенные.</segment>
+		<segment id="81" parent="220" relname="span">Считается, что так это меньше травмирует «новичка»</segment>
+		<segment id="82" parent="219" relname="span">(в российских тюрьмах нечто подобное, разумеется, тоже есть, с небольшой поправкой:</segment>
+		<segment id="83" parent="82" relname="elaboration">объясняет понятия самый главный авторитет со всеми вытекающими из этого последствиями) .</segment>
+		<segment id="84" parent="221" relname="joint">Естественно, было интересно узнать, каковы неписаные правила английских заключенных</segment>
+		<segment id="85" parent="221" relname="joint">кто кем командует и как с этим борются.</segment>
+		<segment id="86" parent="222" relname="joint">На такие вопросы тамошние тюремщики, да и многие заключенные, обычно делают характерно оловянные глаза</segment>
+		<segment id="87" parent="88" relname="attribution">и говорят,</segment>
+		<segment id="88" parent="287" relname="span">что в их стране такого не бывает.</segment>
+		<segment id="89" parent="228" relname="span">##### Некоторые, правда, упоминают случаи, когда заключенные,</segment>
+		<segment id="90" parent="226" relname="span">отмеченные начальством</segment>
+		<segment id="91" parent="90" relname="elaboration">(например, те, кому поручена уборка тюрьмы),</segment>
+		<segment id="92" parent="227" relname="same-unit">начинают использовать свои привилегии против других.</segment>
+		<segment id="93" parent="230" relname="span">Только один офицер,</segment>
+		<segment id="94" parent="229" relname="span">специально занимающийся «борьбой с травлей»</segment>
+		<segment id="95" parent="94" relname="elaboration">(есть у них там такой пост)</segment>
+		<segment id="96" parent="231" relname="same-unit">признал,</segment>
+		<segment id="97" parent="234" relname="joint">что уголовные авторитеты устанавливают свои правила</segment>
+		<segment id="98" parent="233" relname="span">и «разбираются» с непослушными с помощью других заключенных,</segment>
+		<segment id="99" parent="98" relname="elaboration">сами при этом оставаясь в тени.</segment>
+		<segment id="100" parent="237" relname="span">В более охраняемых тюрьмах, где преступники посерьезнее,</segment>
+		<segment id="101" parent="100" relname="attribution">по его словам,</segment>
+		<segment id="102" parent="236" relname="same-unit">«авторитетам», как и в России, подчиняется даже часть персонала.</segment>
+		<segment id="103" parent="245" relname="span">##### Кормят в тамошних тюрьмах по-разному</segment>
+		<segment id="104" parent="241" relname="span">в зависимости от того, какого найдут шеф-повара</segment>
+		<segment id="105" parent="104" relname="elaboration">(это лицо гражданское).</segment>
+		<segment id="106" parent="247" relname="span">В любом случае, горячих блюда только два в день, на завтрак заключенные получают или что-нибудь вроде хлопьев, или немного денег,</segment>
+		<segment id="107" parent="106" relname="purpose">чтобы купить себе завтрак по вкусу.</segment>
+		<segment id="108" parent="242" relname="contrast">На обед и ужин обычно бывает большой выбор из четырех-пяти блюд,</segment>
+		<segment id="109" parent="242" relname="contrast">но делать его надо на неделю вперед.</segment>
+		<segment id="110" parent="248" relname="span">Еда получается очень дешевой,</segment>
+		<segment id="111" parent="243" relname="joint">значительная часть продуктов приходит бесплатно с тюремных хозяйств,</segment>
+		<segment id="112" parent="243" relname="joint">остальное закупается в заранее известном количестве</segment>
+		<segment id="113" parent="243" relname="joint">и ничего не пропадает.</segment>
+		<segment id="114" parent="258" relname="span">Еда постоянный источник тюремных разборок,</segment>
+		<segment id="115" parent="252" relname="joint">в невинных случаях заключенный передумывает</segment>
+		<segment id="116" parent="252" relname="joint">и забирает чужую еду вместо своей,</segment>
+		<segment id="117" parent="253" relname="comparison">в более серьезных обливает соседа кипятком.</segment>
+		<segment id="118" parent="255" relname="span">Кроме кипятка во многих тюрьмах есть железные ножи и вилки, а также дартс,</segment>
+		<segment id="119" parent="118" relname="elaboration">без которых английскую жизнь представить невозможно,</segment>
+		<segment id="120" parent="255" relname="concession">хотя в тюрьме это выглядит довольно устрашающе.</segment>
+		<segment id="121" parent="268" relname="span">##### Свидания заключенных с родственниками проходят в большом зале со столиками, похожем на кафе.</segment>
+		<segment id="122" parent="261" relname="comparison">По одну сторону столика сидит заключенный,</segment>
+		<segment id="123" parent="261" relname="comparison">по другую - семья.</segment>
+		<segment id="124" parent="269" relname="span">От кафе помещение отличается обилием видеокамер в соседней маленькой комнатке сотрудник постоянно следит за мониторами.</segment>
+		<segment id="125" parent="263" relname="joint">В такой комнатке я побывал дважды,</segment>
+		<segment id="126" parent="262" relname="span">и оба раза там оказывались люди неуравновешенные,</segment>
+		<segment id="127" parent="126" relname="elaboration">маниакально подозревающие всех и вся.</segment>
+		<segment id="128" parent="264" relname="span">«Телевизор я уже не смотрю» ,</segment>
+		<segment id="129" parent="128" relname="attribution">- сказал один из них.</segment>
+		<segment id="130" parent="131" relname="condition">70% заключенных сидят за наркотики,</segment>
+		<segment id="131" parent="273" relname="span">соответственно пресечь их передачу главная цель наблюдения.</segment>
+		<segment id="132" parent="272" relname="span">Нам показали два недавних случая в записи один раз передавали очень грубо,</segment>
+		<segment id="133" parent="132" relname="elaboration">засунув что-то в пакетик с чипсами,</segment>
+		<segment id="134" parent="284" relname="span">в другом случае более технично.</segment>
+		<segment id="135" parent="275" relname="span">Я смог разглядеть происходящее,</segment>
+		<segment id="136" parent="135" relname="condition">только когда прокрутил запись в обратную сторону.</segment>
+		<segment id="137" parent="277" relname="contrast">Подглядывание это вполне заменяет тюремщикам наркотики после работы их буквально тошнит,</segment>
+		<segment id="138" parent="139" relname="cause-effect">но к процессу этому они настолько привыкают,</segment>
+		<segment id="139" parent="276" relname="span">что мало кто решается искать другую работу.</segment>
+		<segment id="140" parent="279" relname="contrast">##### Существенным отличием моего визита от путинского, правда, стало отсутствие рядом самой Королевы,</segment>
+		<segment id="141" parent="279" relname="contrast">но нельзя же так много времени проводить с каждым российским гостем.</segment>
+		<group id="142" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="143" type="span" parent="144" relname="same-unit"/>
+		<group id="144" type="multinuc" parent="146" relname="joint"/>
+		<group id="145" type="span" parent="146" relname="joint"/>
+		<group id="146" type="multinuc" />
+		<group id="147" type="multinuc" parent="292" relname="span"/>
+		<group id="149" type="multinuc" parent="151" relname="elaboration"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="147" relname="elaboration"/>
+		<group id="153" type="multinuc" parent="154" relname="span"/>
+		<group id="154" type="span" parent="16" relname="elaboration"/>
+		<group id="155" type="span" parent="156" relname="joint"/>
+		<group id="156" type="multinuc" parent="159" relname="joint"/>
+		<group id="157" type="span" parent="156" relname="joint"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="159" type="multinuc" />
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="161" type="span" parent="168" relname="span"/>
+		<group id="162" type="span" parent="171" relname="span"/>
+		<group id="163" type="span" parent="162" relname="elaboration"/>
+		<group id="164" type="multinuc" parent="167" relname="span"/>
+		<group id="165" type="span" parent="164" relname="same-unit"/>
+		<group id="166" type="multinuc" parent="167" relname="elaboration"/>
+		<group id="167" type="span" parent="169" relname="span"/>
+		<group id="168" type="span" parent="170" relname="span"/>
+		<group id="169" type="span" parent="168" relname="elaboration"/>
+		<group id="170" type="span" parent="283" relname="span"/>
+		<group id="171" type="span" parent="170" relname="solutionhood"/>
+		<group id="172" type="span" parent="290" relname="span"/>
+		<group id="173" type="span" parent="38" relname="elaboration"/>
+		<group id="176" type="span" parent="37" relname="elaboration"/>
+		<group id="177" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="179" type="span" parent="180" relname="joint"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="181" type="span" />
+		<group id="182" type="multinuc" parent="183" relname="joint"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="184" type="span" parent="193" relname="span"/>
+		<group id="185" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="186" type="multinuc" parent="194" relname="joint"/>
+		<group id="187" type="span" parent="186" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="57" relname="elaboration"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="195" relname="span"/>
+		<group id="193" type="span" parent="197" relname="span"/>
+		<group id="194" type="multinuc" parent="196" relname="span"/>
+		<group id="195" type="span" parent="194" relname="joint"/>
+		<group id="196" type="span" parent="193" relname="elaboration"/>
+		<group id="197" type="span" parent="198" relname="joint"/>
+		<group id="198" type="multinuc" />
+		<group id="199" type="span" parent="198" relname="joint"/>
+		<group id="200" type="span" parent="201" relname="sequence"/>
+		<group id="201" type="multinuc" parent="218" relname="joint"/>
+		<group id="202" type="multinuc" parent="217" relname="span"/>
+		<group id="203" type="multinuc" parent="204" relname="joint"/>
+		<group id="204" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="205" type="multinuc" parent="218" relname="joint"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="71" relname="elaboration"/>
+		<group id="208" type="multinuc" parent="209" relname="span"/>
+		<group id="209" type="span" parent="213" relname="joint"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="211" type="span" parent="76" relname="elaboration"/>
+		<group id="212" type="span" parent="213" relname="joint"/>
+		<group id="213" type="multinuc" parent="282" relname="span"/>
+		<group id="214" type="span" parent="282" relname="elaboration"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" parent="205" relname="comparison"/>
+		<group id="217" type="span" parent="281" relname="span"/>
+		<group id="218" type="multinuc" />
+		<group id="219" type="span" parent="81" relname="elaboration"/>
+		<group id="220" type="span" parent="80" relname="evidence"/>
+		<group id="221" type="multinuc" parent="223" relname="joint"/>
+		<group id="222" type="multinuc" parent="223" relname="joint"/>
+		<group id="223" type="multinuc" parent="225" relname="joint"/>
+		<group id="224" type="span" parent="225" relname="joint"/>
+		<group id="225" type="multinuc" />
+		<group id="226" type="span" parent="89" relname="elaboration"/>
+		<group id="227" type="multinuc" parent="238" relname="joint"/>
+		<group id="228" type="span" parent="227" relname="same-unit"/>
+		<group id="229" type="span" parent="93" relname="elaboration"/>
+		<group id="230" type="span" parent="231" relname="same-unit"/>
+		<group id="231" type="multinuc" parent="232" relname="span"/>
+		<group id="232" type="span" parent="235" relname="attribution"/>
+		<group id="233" type="span" parent="234" relname="joint"/>
+		<group id="234" type="multinuc" parent="235" relname="span"/>
+		<group id="235" type="span" parent="240" relname="span"/>
+		<group id="236" type="multinuc" parent="239" relname="joint"/>
+		<group id="237" type="span" parent="236" relname="same-unit"/>
+		<group id="238" type="multinuc" />
+		<group id="239" type="multinuc" parent="238" relname="joint"/>
+		<group id="240" type="span" parent="239" relname="joint"/>
+		<group id="241" type="span" parent="103" relname="condition"/>
+		<group id="242" type="multinuc" parent="249" relname="joint"/>
+		<group id="243" type="multinuc" parent="244" relname="span"/>
+		<group id="244" type="span" parent="110" relname="evidence"/>
+		<group id="245" type="span" parent="246" relname="joint"/>
+		<group id="246" type="multinuc" parent="251" relname="span"/>
+		<group id="247" type="span" parent="246" relname="joint"/>
+		<group id="248" type="span" parent="249" relname="joint"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="elaboration"/>
+		<group id="251" type="span" parent="256" relname="span"/>
+		<group id="252" type="multinuc" parent="253" relname="comparison"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" parent="114" relname="elaboration"/>
+		<group id="255" type="span" parent="259" relname="span"/>
+		<group id="256" type="span" parent="257" relname="joint"/>
+		<group id="257" type="multinuc" />
+		<group id="258" type="span" parent="260" relname="span"/>
+		<group id="259" type="span" parent="258" relname="elaboration"/>
+		<group id="260" type="span" parent="257" relname="joint"/>
+		<group id="261" type="multinuc" parent="266" relname="span"/>
+		<group id="262" type="span" parent="263" relname="joint"/>
+		<group id="263" type="multinuc" parent="265" relname="joint"/>
+		<group id="264" type="span" parent="265" relname="joint"/>
+		<group id="265" type="multinuc" parent="267" relname="span"/>
+		<group id="266" type="span" parent="121" relname="elaboration"/>
+		<group id="267" type="span" parent="124" relname="elaboration"/>
+		<group id="268" type="span" parent="270" relname="comparison"/>
+		<group id="269" type="span" parent="270" relname="comparison"/>
+		<group id="270" type="multinuc" parent="278" relname="joint"/>
+		<group id="271" type="multinuc" parent="286" relname="span"/>
+		<group id="272" type="span" parent="271" relname="comparison"/>
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="274" type="multinuc" parent="278" relname="joint"/>
+		<group id="275" type="span" parent="134" relname="elaboration"/>
+		<group id="276" type="span" parent="277" relname="contrast"/>
+		<group id="277" type="multinuc" parent="286" relname="condition"/>
+		<group id="278" type="multinuc" />
+		<group id="279" type="multinuc" />
+		<group id="280" type="span" parent="217" relname="elaboration"/>
+		<group id="281" type="span" parent="205" relname="comparison"/>
+		<group id="282" type="span" parent="215" relname="span"/>
+		<group id="283" type="span" />
+		<group id="284" type="span" parent="271" relname="comparison"/>
+		<group id="285" type="span" parent="274" relname="joint"/>
+		<group id="286" type="span" parent="285" relname="span"/>
+		<group id="287" type="span" parent="222" relname="joint"/>
+		<group id="288" type="span" parent="147" relname="joint"/>
+		<group id="289" type="span" parent="172" relname="elaboration"/>
+		<group id="290" type="span" parent="180" relname="background"/>
+		<group id="291" type="multinuc" parent="39" relname="condition"/>
+		<group id="292" type="span" />
+	</body>
+</rst>

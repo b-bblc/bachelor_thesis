@@ -1,0 +1,219 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">﻿ МОДЕЛИРОВАНИЕ ПОГРЕШНОСТЕЙ ИЗМЕРЕНИЙ БОРТОВЫХ НАВИГАЦИОННЫХ УСТРОЙСТВ</segment>
+		<segment id="2" relname="antithesis">Д.В. Козис, О.О. Жаринов, В.Д. Суслов</segment>
+		<segment id="3" relname="antithesis">Рассматривается подход к организации моделирования погрешностей бортовых навигационных систем на основе применения рекурсивных формирующих фильтров, преобразующих определенным образом белый шум в помеху с заданными корреляционно-спектральными свойствами.</segment>
+		<segment id="4" relname="antithesis">Ключевые слова: окрашенный шум, формирующий фильтр.</segment>
+		<segment id="5" parent="110" relname="preparation">Введение</segment>
+		<segment id="6" parent="106" relname="evidence">Анализ входящих в бортовой навигационный комплекс (НК) устройств показывает,</segment>
+		<segment id="7" parent="104" relname="joint">что основное влияние на статистические характеристики их выходных сигналов и на динамические погрешности результатов измерений</segment>
+		<segment id="8" parent="105" relname="cause">оказывают следящие системы измерителей этих устройств [1, 2].</segment>
+		<segment id="9" parent="108" relname="span">Следовательно, имитатор НК должен включать в себя либо реальный измеритель, либо его динамическую математическую модель.</segment>
+		<segment id="10" parent="11" relname="purpose">Для имитации работы НК</segment>
+		<segment id="11" parent="109" relname="span">на вход измерителя или его модели подается аддитивная смесь полезного сигнала и помехи.</segment>
+		<segment id="12" parent="114" relname="joint">В соответствии с общепринятой классификацией погрешностей, помеха на входе измерителя (динамической модели) НК должна иметь три составляющие: квазипостоянную, низкочастотную и высокочастотную.</segment>
+		<segment id="13" parent="14" relname="cause">В силу независимости механизмов, лежащих в основе возникновения каждой из этих составляющих,</segment>
+		<segment id="14" parent="112" relname="span">их формирование в НК также может осуществляться независимо.</segment>
+		<segment id="15" parent="113" relname="span">Таким образом, ставится задача разработки математической модели и алгоритмов моделирования</segment>
+		<segment id="16" parent="15" relname="purpose">для описания моделей погрешностей, возникающих в бортовых измерителях НК.</segment>
+		<segment id="17" parent="132" relname="preparation">Предлагаемый подход к моделированию погрешностей НК</segment>
+		<segment id="18" parent="19" relname="purpose">Для имитации погрешностей НК</segment>
+		<segment id="19" parent="117" relname="span">необходимо знать статистические характеристики составляющих помехи на входе измерителя для различных режимов полета и работы НК.</segment>
+		<segment id="20" parent="125" relname="joint">Эти данные получают на основании результатов обработки данных летных испытаний.</segment>
+		<segment id="21" parent="123" relname="condition">В случае отсутствия необходимой информации</segment>
+		<segment id="22" parent="122" relname="joint">требуемые статистические характеристики определяются приближенно посредством лабораторных испытаний имитируемых систем и устройств</segment>
+		<segment id="23" parent="122" relname="joint">или берутся из технических описаний НК.</segment>
+		<segment id="24" parent="25" relname="purpose">Для моделирования квазипостоянной погрешности НК</segment>
+		<segment id="25" parent="121" relname="span">ограничиваются заданием постоянного смещения уровня сигнала на входе измерителя (модели) НК.</segment>
+		<segment id="26" parent="128" relname="contrast">Величина смещения может оставаться неизменной на протяжении имитации полета.</segment>
+		<segment id="27" parent="119" relname="same-unit">Однако</segment>
+		<segment id="28" parent="29" relname="purpose">для каждого сеанса имитации</segment>
+		<segment id="29" parent="118" relname="span">она должна выбираться из массива случайных чисел с соответствующим законом распределения.</segment>
+		<segment id="30" parent="129" relname="elaboration">Низкочастотные флуктуации на входе модели, вызывающие появление медленно меняющейся погрешности, обычно аппроксимируются функциями специального вида (экспоненциально-косинусной или экспоненциальной.</segment>
+		<segment id="31" parent="32" relname="evidence">Как указывалось выше,</segment>
+		<segment id="32" parent="139" relname="span">требования к точности имитации погрешности НК, а, следовательно, и помехи на входе устройства (или его динамической модели), достаточно высоки.</segment>
+		<segment id="33" parent="140" relname="joint">В то же время операционные возможности моделирующей ЭВМ имитируемого НК вынуждают искать наиболее экономичные способы имитации погрешностей.</segment>
+		<segment id="34" parent="35" relname="condition">При математическом моделировании</segment>
+		<segment id="35" parent="143" relname="span">этим требованиям наилучшим образом удовлетворяют цифровые рекурсивные фильтры [3, 4].</segment>
+		<segment id="36" parent="151" relname="span">Исходя из этого, корреляционную функцию низкочастотной флуктуации удобно представить в следующем виде:</segment>
+		<segment id="37" parent="136" relname="span">[формула],</segment>
+		<segment id="38" parent="134" relname="joint">где [формула];</segment>
+		<segment id="39" parent="134" relname="joint">At - шаг дискретности;</segment>
+		<segment id="40" parent="134" relname="joint">с2 - дисперсия моделируемой погрешности.</segment>
+		<segment id="41" parent="150" relname="span">Как известно, фильтр, формирующий из дискретного шума x(n) c единичной дисперсией случайную флуктуацию ^(n) с такой корреляционной функцией, описывается дискретной передаточной функцией:</segment>
+		<segment id="42" parent="149" relname="span">[формула],</segment>
+		<segment id="43" parent="148" relname="span">где коэффициенты</segment>
+		<segment id="44" parent="146" relname="joint">[формула];</segment>
+		<segment id="45" parent="146" relname="joint">[формула];</segment>
+		<segment id="46" parent="146" relname="joint">[формула];</segment>
+		<segment id="47" parent="146" relname="joint">[формула];</segment>
+		<segment id="48" parent="146" relname="joint">[формула];</segment>
+		<segment id="49" parent="146" relname="joint">[формула];</segment>
+		<segment id="50" parent="146" relname="joint">[формула].</segment>
+		<segment id="51" parent="153" relname="span">Соответствующий рекуррентный алгоритм (разностное уравнение) имеет вид [формула].</segment>
+		<segment id="52" parent="196" relname="span">В простейшем случае, при экспоненциальной корреляционной функции, рекуррентное выражение может быть записано как [формула],</segment>
+		<segment id="53" parent="155" relname="joint">где [формула];</segment>
+		<segment id="54" parent="155" relname="joint">[формула].</segment>
+		<segment id="55" parent="197" relname="span">Сформированная таким образом низкочастотная составляющая флуктуации подается на вход измерителя НК или его динамической модели.</segment>
+		<segment id="56" parent="163" relname="span">Быстро меняющаяся погрешность на выходе НК обусловлена</segment>
+		<segment id="57" parent="56" relname="cause">действием широкополосной помехи на входе измерителя.</segment>
+		<segment id="58" parent="59" relname="cause">Ввиду того, что эффективная полоса пропускания НК значительно уже ширины спектра входной помехи,</segment>
+		<segment id="59" parent="164" relname="span">последнюю целесообразно моделировать как белый шум (эквивалент).</segment>
+		<segment id="60" parent="164" relname="elaboration">Роль формирующего фильтра при этом будет выполнять измеритель либо его модель.</segment>
+		<segment id="61" parent="62" relname="cause">В результате совместной подачи на вход измерителя (модели) идеального значения сигнала и всех составляющих</segment>
+		<segment id="62" parent="169" relname="span">помехи на выходе НК (или его модели) при маневрировании «объекта» будут присутствовать как случайная, так и детерминированная составляющие совокупной погрешности НК.</segment>
+		<segment id="63" parent="170" relname="span">При математическом моделировании динамическую модель измерителя удобно реализовывать в виде рекурсивного фильтра.</segment>
+		<segment id="64" parent="63" relname="elaboration">В этом случае на каждом шаге вычислений в рекуррентные уравнения динамической модели подставляется сумма: – текущего значения навигационного параметра; – смещения, имитирующего квазипостоянную помеху; – случайного числа, представляющего мгновенное значение низкочастотной флуктуации; – случайного числа из генератора дискретного белого шума.</segment>
+		<segment id="65" parent="167" relname="sequence">Вычисленная оценка навигационного параметра на выходе модели преобразуется в физический сигнал</segment>
+		<segment id="66" parent="167" relname="sequence">и подается на входы потребителей.</segment>
+		<segment id="67" parent="175" relname="span">Специфическим требованием, предъявляемым к динамическим моделям навигационных измерителей, является необходимость учета нелинейного характера дискриминационной характеристики следящей системы и нестационарности погрешности, связанной с переменной величиной отношения сигнал/помеха.</segment>
+		<segment id="68" parent="174" relname="span">Влияние значения этого отношения на точность измерения удобно имитировать соответствующим изменением коэффициентов передачи рекурсивных фильтров, формирующих погрешности на входе измерителя.</segment>
+		<segment id="69" parent="68" relname="elaboration">Управление фильтрами в соответствии с переменной навигационной обстановкой осуществляется на основании зависимостей, определяемых далее.</segment>
+		<segment id="70" parent="176" relname="condition">При имитации работы сравнительно простых НК, где режим комплексной обработки информации отсутствует,</segment>
+		<segment id="71" parent="176" relname="span">имеет смысл воспроизводить погрешности измерителей по выходу,</segment>
+		<segment id="72" parent="71" relname="cause">ввиду простоты реализации такого моделирования.</segment>
+		<segment id="73" parent="74" relname="purpose">Для формирования погрешностей</segment>
+		<segment id="74" parent="178" relname="span">целесообразно использовать рекурсивные фильтры.</segment>
+		<segment id="75" parent="180" relname="span">В качестве примера рассмотрим случай моделирования по выходу погрешностей дально-мерно- угломерной системы.</segment>
+		<segment id="76" parent="75" relname="elaboration">На рис. 1 приведена схема формирования выходных сигналов измерителей такой системы.</segment>
+		<segment id="77" parent="78" relname="purpose">Для формирования высокочастотных (ААв, ADE) и низкочастотных (ААн, ADK) флуктуационных погрешностей измерителя</segment>
+		<segment id="78" parent="179" relname="span">используются формирующие фильтры Wah(Z), Wab(Z), Wdh(Z), Wdb(Z), аналогичные описанным ранее.</segment>
+		<segment id="79" parent="187" relname="span">В каждом цикле вычисления дальности D и азимута А фильтры возбуждаются генератором нормального белого шума.</segment>
+		<segment id="80" parent="185" relname="cause">Поскольку осуществляется последовательный опрос генератора,</segment>
+		<segment id="81" parent="82" relname="cause">числа, поступающие на входы фильтров, независимы,</segment>
+		<segment id="82" parent="185" relname="span">а, следовательно, независимы все моделируемые погрешности.</segment>
+		<segment id="83" parent="188" relname="sequence">Сформированные погрешности складываются между собой и с идеальными значениями азимута А0 и дальности Б 0 соответственно.</segment>
+		<segment id="84" parent="188" relname="sequence">Сигналы А0 и D0 поступают из алгоритма вычисления азимута и дальности, реализуемого в моделирующей ЭВМ НК.</segment>
+		<segment id="85" parent="188" relname="sequence">Полученные таким способом реальные сигналы азимута А и дальности поступают на входы навигационного вычислителя или его модели и через преобразователи код-угол (N - а) - на реальные потребители.</segment>
+		<segment id="86" parent="188" relname="sequence">Флуктуационные погрешности dА, dD оператор будет воспринимать как дополнительные колебания стрелок индикаторов.</segment>
+		<segment id="87" relname="antithesis">[Рис. 1. Схема формирования выходных сигналов измерителей системы моделирования погрешности по выходу]</segment>
+		<segment id="88" parent="192" relname="preparation">Заключение</segment>
+		<segment id="89" parent="191" relname="joint">В соответствии с принятым способом имитации в процессе моделирования не учитываются нелинейности дискриминаторов и динамические ошибки результатов измерений.</segment>
+		<segment id="90" parent="91" relname="purpose">Для более строгого описания характеристик помехи</segment>
+		<segment id="91" parent="190" relname="span">необходимо также рассмотреть способ имитации погрешностей угломерно-дальномерной системы, где в основу генерации положен принцип моделирования динамических уравнений возмущенной работы измерителей системы.</segment>
+		<segment id="92" relname="antithesis">Литература</segment>
+		<segment id="93" relname="antithesis">1\. Григорьев В.В., Парамонов П.П., Козис Д.В. и др. Контроль показателей информационной надежности при моделировании аналоговых датчиков навигационных систем летательных аппаратов // Известия вузов. Приборостроение. - 2006. - № 6. - Т. 49. - С. 35-38.</segment>
+		<segment id="94" relname="antithesis">2\. Козис Д.В. Анализ подходов к моделированию пилотажно-навигационных комплексов летательных аппаратов // Научно-технический вестник СПбГУ ИТМО. - 2004. - Вып. 14. - С. 96-99.</segment>
+		<segment id="95" relname="antithesis">3\. Жаринов И.О. Программа моделирования на ЭВМ независимых дискретных числовых последовательностей с различными законами распределения. - М.: ВНТИЦ, 50200300625, 2003.</segment>
+		<segment id="96" relname="antithesis">4\. Жаринов И.О. Программа моделирования на ЭВМ нормально распределенных дискретных числовых последовательностей, заданных своими корреляционно- спектральными характеристиками. - М.: ВНТИЦ, 50200300624, 2003.</segment>
+		<segment id="97" relname="antithesis">Козис Дмитрий Владимирович Жаринов Олег Олегович</segment>
+		<segment id="98" relname="antithesis">Суслов Владимир Дмитриевич</segment>
+		<segment id="99" relname="antithesis">РАА «Спецтехника», кандидат технических наук, директор, kozisd@mail.ru Санкт- Петербургский государственный университет аэрокосмического приборостроения,</segment>
+		<segment id="100" relname="antithesis">кандидат технических наук, доцент, zharinov@hotbox.ru ФГУП «СПб ОКБ</segment>
+		<segment id="101" relname="antithesis">"Электроавтоматика" имени П. А. Ефимова», зам. генерального директора,</segment>
+		<segment id="102" relname="antithesis">postmaster@elavt.spb.ru</segment>
+		<segment id="103" relname="antithesis"> </segment>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" parent="9" relname="cause"/>
+		<group id="108" type="span" parent="110" relname="span"/>
+		<group id="109" type="span" parent="108" relname="elaboration"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" relname="antithesis"/>
+		<group id="112" type="span" parent="114" relname="joint"/>
+		<group id="113" type="span" parent="116" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="span"/>
+		<group id="115" type="span" parent="113" relname="preparation"/>
+		<group id="116" type="span" relname="antithesis"/>
+		<group id="117" type="span" parent="126" relname="solutionhood"/>
+		<group id="118" type="span" parent="119" relname="same-unit"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="120" type="span" parent="128" relname="contrast"/>
+		<group id="121" type="span" parent="130" relname="span"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="125" type="multinuc" parent="126" relname="span"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="127" type="span" parent="131" relname="joint"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="129" type="span" parent="133" relname="span"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="131" type="multinuc" parent="132" relname="span"/>
+		<group id="132" type="span" parent="194" relname="span"/>
+		<group id="133" type="span" parent="121" relname="elaboration"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="135" type="span" parent="37" relname="elaboration"/>
+		<group id="136" type="span" parent="36" relname="elaboration"/>
+		<group id="137" type="span" parent="195" relname="span"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="140" type="multinuc" parent="141" relname="span"/>
+		<group id="141" type="span" parent="143" relname="background"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="137" relname="cause"/>
+		<group id="146" type="multinuc" parent="147" relname="span"/>
+		<group id="147" type="span" parent="43" relname="elaboration"/>
+		<group id="148" type="span" parent="42" relname="elaboration"/>
+		<group id="149" type="span" parent="41" relname="elaboration"/>
+		<group id="150" type="span" parent="152" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="152" type="multinuc" parent="137" relname="span"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" parent="159" relname="sequence"/>
+		<group id="155" type="multinuc" parent="156" relname="span"/>
+		<group id="156" type="span" parent="52" relname="elaboration"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="160" type="span" parent="55" relname="cause"/>
+		<group id="163" type="span" parent="166" relname="span"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" parent="163" relname="elaboration"/>
+		<group id="166" type="span" relname="antithesis"/>
+		<group id="167" type="multinuc" parent="168" relname="span"/>
+		<group id="168" type="span" parent="170" relname="elaboration"/>
+		<group id="169" type="span" parent="172" relname="joint"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" parent="172" relname="joint"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" relname="antithesis"/>
+		<group id="174" type="span" parent="67" relname="elaboration"/>
+		<group id="175" type="span" relname="antithesis"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" parent="181" relname="span"/>
+		<group id="178" type="span" parent="177" relname="elaboration"/>
+		<group id="179" type="span" parent="183" relname="span"/>
+		<group id="180" type="span" parent="179" relname="preparation"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="184" relname="span"/>
+		<group id="183" type="span" parent="182" relname="elaboration"/>
+		<group id="184" type="span" relname="antithesis"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" parent="79" relname="elaboration"/>
+		<group id="187" type="span" parent="188" relname="sequence"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" relname="antithesis"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" relname="antithesis"/>
+		<group id="194" type="span" relname="antithesis"/>
+		<group id="195" type="span" parent="51" relname="cause"/>
+		<group id="196" type="span" parent="159" relname="elaboration"/>
+		<group id="197" type="span" relname="antithesis"/>
+  </body>
+</rst>

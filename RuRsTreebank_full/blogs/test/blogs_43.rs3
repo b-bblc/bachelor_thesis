@@ -1,0 +1,214 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://habr.com/ru/post/460161/</segment>
+		<segment id="2" >##### FusionPBX и ACL</segment>
+		<segment id="3" parent="188" relname="span">##### Моя статья — не полноценное описание продукта, а только небольшое уточнение хорошей публикации «FusionPBX, или снова-здорово, FreeSWITCH».</segment>
+		<segment id="4" parent="3" relname="evaluation">Мне кажется в ней не очень хорошо раскрыта тема ACL в FusionPBX.</segment>
+		<segment id="5" parent="104" relname="span">Попробую заполнить этот пробел,</segment>
+		<segment id="6" parent="5" relname="condition">исходя из собственного опыта работы с FreeSWITCH/FusionPBX.</segment>
+		<segment id="7" parent="108" relname="joint">##### И так, имеем установленный FusionPBX с зарегистрированным внутренним номером 1010 в домене domain.local и настроенным маршрутом для внешних вызовов в город.</segment>
+		<segment id="8" parent="106" relname="span">ACL используем,</segment>
+		<segment id="9" parent="189" relname="span">чтобы обезопасить нашу систему телефонии от несанкционированных вызовов,</segment>
+		<segment id="10" parent="9" relname="elaboration">которые унесут наши денежки.</segment>
+		<segment id="11" parent="107" relname="restatement">Т.е. только из описанных в ACL сетей разрешить исходящие вызовы.</segment>
+		<segment id="12" parent="108" relname="elaboration">И здесь нужно совершенно четкое понимание, как работает ACL в FusionPBX, его особенности, логику и точку его привязки.</segment>
+		<segment id="13" parent="109" relname="joint">##### Как и уважаемый автор вышеупомянутой статьи, я так же наступил на все грабли, связанные с ACL.</segment>
+		<segment id="14" parent="114" relname="preparation">##### Начну с SipProfiles.</segment>
+		<segment id="15" parent="110" relname="span">##### Оба профиля</segment>
+		<segment id="16" parent="15" relname="elaboration">(буду их так называть),</segment>
+		<segment id="17" parent="111" relname="same-unit">и internal, и external находятся в контексте Public,</segment>
+		<segment id="18" parent="112" relname="joint">и это не случайно.</segment>
+		<segment id="19" parent="190" relname="span">Регистрация номеров происходит в профиле internal,</segment>
+		<segment id="20" parent="19" relname="elaboration">на него и обратим внимание.</segment>
+		<segment id="21" parent="116" relname="span">В профиле internal привязан ACL-лист domains как apply-inbound-acl.</segment>
+		<segment id="22" parent="21" relname="elaboration">Именно эта строчка отвечает за работу ACL на уровне профиля.</segment>
+		<segment id="23" parent="113" relname="evaluation">Пока с профилями всё.</segment>
+		<segment id="24" parent="120" relname="preparation">##### Context</segment>
+		<segment id="25" parent="118" relname="span">##### Контекст, кроме всего прочего, используется в маршрутизации вызовов.</segment>
+		<segment id="26" parent="25" relname="elaboration">Все входящие маршруты привязаны к контексту Public.</segment>
+		<segment id="27" parent="119" relname="span">##### Исходящие (в город, на сотовые, междугородка, международка, и любые другие) маршруты находятся (по умолчанию) в контексте имени домена</segment>
+		<segment id="28" parent="27" relname="elaboration">(назовем его domain.local).</segment>
+		<segment id="29" parent="139" relname="preparation">##### ACL</segment>
+		<segment id="30" parent="121" relname="span">##### Теперь давайте разберемся с ACL.</segment>
+		<segment id="31" parent="123" relname="span">По умолчанию, в только что установленной FusionPBX есть два ACL-листа:</segment>
+		<segment id="32" parent="122" relname="joint">##### domains действие по умолчанию: deny — этот лист привязан к профилю internal</segment>
+		<segment id="33" parent="122" relname="joint">##### lan действие по умолчанию: allow</segment>
+		<segment id="34" parent="124" relname="sequence">##### В ACL-лист domains прописываем сеть (ну к примеру 192.168.0.0/24),</segment>
+		<segment id="35" parent="124" relname="sequence">делаем этой сети разрешение allow,</segment>
+		<segment id="36" parent="124" relname="sequence">применяем reloadacl.</segment>
+		<segment id="37" parent="125" relname="span">##### Далее регистрируем телефон из этой сети,</segment>
+		<segment id="38" parent="37" relname="evaluation">и вроде бы все хорошо и по инструкции и логично.</segment>
+		<segment id="39" parent="126" relname="joint">##### Начинаем тестировать,</segment>
+		<segment id="40" parent="126" relname="joint">делаем вызов на внешний номер</segment>
+		<segment id="41" parent="180" relname="span">и… получаем бублик, а точнее дырку от бублика.</segment>
+		<segment id="42" parent="180" relname="evaluation">Неожиданно!</segment>
+		<segment id="43" parent="138" relname="span">##### Начинаем анализировать лог в консоли или через Log Viewer FusioPBX.</segment>
+		<segment id="44" parent="128" relname="span">##### Видим наш вызов:</segment>
+		<segment id="45" parent="44" relname="elaboration">##### [код]</segment>
+		<segment id="46" parent="129" relname="span">##### Видим сработавший ACL:</segment>
+		<segment id="47" parent="46" relname="elaboration">##### [код]</segment>
+		<segment id="48" parent="130" relname="span">##### И далее:</segment>
+		<segment id="49" parent="48" relname="elaboration">##### [код]</segment>
+		<segment id="50" parent="185" relname="span">##### Нет маршрута!</segment>
+		<segment id="51" parent="50" relname="concession">Хотя маршрут у нас честно прописан.</segment>
+		<segment id="52" parent="137" relname="span">##### Ответ на самом деле прост.</segment>
+		<segment id="53" parent="132" relname="sequence">##### Вызов пришел.</segment>
+		<segment id="54" parent="132" relname="sequence">ACL его пропустил.</segment>
+		<segment id="55" parent="133" relname="joint">А так как ACL привязан в профилю internal,</segment>
+		<segment id="56" parent="133" relname="joint">а этот профиль находится в контексте public,</segment>
+		<segment id="57" parent="134" relname="span">FreeSWITCH честно смотрит маршрутизацию в контексте public.</segment>
+		<segment id="58" parent="135" relname="joint">Но в контексте public только входящая маршрутизация,</segment>
+		<segment id="59" parent="60" relname="attribution">и система честно нам говорит,</segment>
+		<segment id="60" parent="182" relname="span">что нет там ни каких маршрутов в город.</segment>
+		<segment id="61" parent="154" relname="span">##### Из сложившейся ситуации есть как минимум два выхода.</segment>
+		<segment id="62" parent="143" relname="span">##### 1. Прикрутить этот ACL не к профилю, а к самому внутреннему номеру.</segment>
+		<segment id="63" parent="142" relname="span">Это может быть и самый правильный способ решения,</segment>
+		<segment id="64" parent="141" relname="span">т.к. ACL лучше привязывать как можно ближе к Extension</segment>
+		<segment id="65" parent="64" relname="purpose">для более тонкой настройки.</segment>
+		<segment id="66" parent="144" relname="restatement">Т.е. можно прописать конкретный адрес/адрес сети телефона, с которого он сможет сделать исходящий вызов.</segment>
+		<segment id="67" parent="145" relname="contrast">Минус этого варианта в том, что в каждом Extension придется это делать.</segment>
+		<segment id="68" parent="146" relname="span">##### 2. Поправить ACL так,</segment>
+		<segment id="69" parent="68" relname="purpose">чтобы он корректно работал на уровне профиля.</segment>
+		<segment id="70" parent="148" relname="span">Я выбрал именно этот вариант,</segment>
+		<segment id="71" parent="147" relname="comparison">ибо добавить один раз сеть в ACL мне показалось проще,</segment>
+		<segment id="72" parent="147" relname="comparison">чем прописывать его в каждом Extension.</segment>
+		<segment id="73" parent="150" relname="span">Но это конкретно под мою задачу.</segment>
+		<segment id="74" parent="75" relname="purpose">Для других задач,</segment>
+		<segment id="75" parent="149" relname="span">возможно, нужна другая логика принятия решения.</segment>
+		<segment id="76" parent="77" relname="preparation">##### И так.</segment>
+		<segment id="77" parent="186" relname="span">Поправим ACL domains следующим образом:</segment>
+		<segment id="78" parent="186" relname="elaboration">##### domains действие по умолчанию: allow</segment>
+		<segment id="79" parent="155" relname="span">##### В ACL-лист domains прописываем сеть:</segment>
+		<segment id="80" parent="79" relname="elaboration">##### deny 192.168.0.0/24</segment>
+		<segment id="81" parent="157" relname="sequence">##### Применяем, reloadacl.</segment>
+		<segment id="82" parent="200" relname="span">##### Тестируем:</segment>
+		<segment id="83" parent="158" relname="sequence">набираем снова номер 98343379хххх</segment>
+		<segment id="84" parent="158" relname="sequence">и… идёт КПВ…</segment>
+		<segment id="85" parent="194" relname="joint">АЛЛО.</segment>
+		<segment id="86" parent="194" relname="joint">Всё работает.</segment>
+		<segment id="87" parent="164" relname="span">##### Смотрим, что происходило в FreeSWITCH:</segment>
+		<segment id="88" parent="160" relname="span">##### начинается вызов:</segment>
+		<segment id="89" parent="88" relname="elaboration">##### [код]</segment>
+		<segment id="90" parent="161" relname="span">##### ACL не пропустил:</segment>
+		<segment id="91" parent="90" relname="elaboration">##### [код]</segment>
+		<segment id="92" parent="162" relname="span">##### и далее:</segment>
+		<segment id="93" parent="92" relname="elaboration">##### [код]</segment>
+		<segment id="94" parent="165" relname="sequence">##### Маршрутизация прошла,</segment>
+		<segment id="95" parent="165" relname="sequence">и далее идет установление соединения, которое выходит за рамки темы.</segment>
+		<segment id="96" parent="197" relname="condition">##### Если мы поменяем адрес сети в ACL,</segment>
+		<segment id="97" parent="197" relname="restatement">но получим картину из первого тестирования,</segment>
+		<segment id="98" parent="167" relname="joint">т.е. ACL вызов пропустит</segment>
+		<segment id="99" parent="100" relname="attribution">и маршрутизация скажет</segment>
+		<segment id="100" parent="198" relname="span">NO_ROUTE_DESTINATION.</segment>
+		<segment id="101" >##### Вот наверное и всё, что я хотел дополнить по ACL FusionPBX.</segment>
+		<segment id="102" >##### Надеюсь кому нибудь пригодится.</segment>
+		<group id="104" type="span" parent="173" relname="span"/>
+		<group id="106" type="span" parent="107" relname="restatement"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="108" type="multinuc" parent="181" relname="span"/>
+		<group id="109" type="multinuc" />
+		<group id="110" type="span" parent="111" relname="same-unit"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" parent="117" relname="span"/>
+		<group id="116" type="span" parent="190" relname="elaboration"/>
+		<group id="117" type="span" />
+		<group id="118" type="span" parent="120" relname="span"/>
+		<group id="119" type="span" parent="118" relname="elaboration"/>
+		<group id="120" type="span" parent="192" relname="span"/>
+		<group id="121" type="span" parent="127" relname="preparation"/>
+		<group id="122" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="123" type="span" parent="30" relname="elaboration"/>
+		<group id="124" type="multinuc" parent="127" relname="sequence"/>
+		<group id="125" type="span" parent="127" relname="sequence"/>
+		<group id="126" type="multinuc" parent="41" relname="condition"/>
+		<group id="127" type="multinuc" parent="139" relname="span"/>
+		<group id="128" type="span" parent="131" relname="sequence"/>
+		<group id="129" type="span" parent="131" relname="sequence"/>
+		<group id="130" type="span" parent="131" relname="sequence"/>
+		<group id="131" type="multinuc" parent="176" relname="restatement"/>
+		<group id="132" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="133" type="multinuc" parent="57" relname="cause"/>
+		<group id="134" type="span" parent="136" relname="contrast"/>
+		<group id="135" type="multinuc" parent="136" relname="contrast"/>
+		<group id="136" type="multinuc" parent="132" relname="sequence"/>
+		<group id="137" type="span" parent="177" relname="span"/>
+		<group id="138" type="span" parent="127" relname="sequence"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" />
+		<group id="141" type="span" parent="63" relname="cause"/>
+		<group id="142" type="span" parent="62" relname="evaluation"/>
+		<group id="143" type="span" parent="144" relname="restatement"/>
+		<group id="144" type="multinuc" parent="145" relname="contrast"/>
+		<group id="145" type="multinuc" parent="153" relname="joint"/>
+		<group id="146" type="span" parent="152" relname="span"/>
+		<group id="147" type="multinuc" parent="70" relname="cause"/>
+		<group id="148" type="span" parent="151" relname="contrast"/>
+		<group id="149" type="span" parent="73" relname="evaluation"/>
+		<group id="150" type="span" parent="151" relname="contrast"/>
+		<group id="151" type="multinuc" parent="146" relname="evaluation"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="153" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="154" type="span" />
+		<group id="155" type="span" parent="157" relname="sequence"/>
+		<group id="156" type="span" parent="157" relname="sequence"/>
+		<group id="157" type="multinuc" parent="194" relname="solutionhood"/>
+		<group id="158" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="160" type="span" parent="163" relname="sequence"/>
+		<group id="161" type="span" parent="163" relname="sequence"/>
+		<group id="162" type="span" parent="163" relname="sequence"/>
+		<group id="163" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="164" type="span" parent="178" relname="span"/>
+		<group id="165" type="multinuc" parent="169" relname="span"/>
+		<group id="166" type="span" parent="165" relname="elaboration"/>
+		<group id="167" type="multinuc" parent="197" relname="restatement"/>
+		<group id="169" type="span" parent="164" relname="evaluation"/>
+		<group id="173" type="span" />
+		<group id="176" type="multinuc" parent="137" relname="solutionhood"/>
+		<group id="177" type="span" parent="43" relname="elaboration"/>
+		<group id="178" type="span" parent="195" relname="comparison"/>
+		<group id="180" type="span" parent="193" relname="span"/>
+		<group id="181" type="span" parent="109" relname="joint"/>
+		<group id="182" type="span" parent="135" relname="joint"/>
+		<group id="185" type="span" parent="176" relname="restatement"/>
+		<group id="186" type="span" parent="156" relname="span"/>
+		<group id="188" type="span" parent="104" relname="solutionhood"/>
+		<group id="189" type="span" parent="8" relname="purpose"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="112" relname="elaboration"/>
+		<group id="192" type="span" />
+		<group id="193" type="span" parent="127" relname="sequence"/>
+		<group id="194" type="multinuc" parent="196" relname="span"/>
+		<group id="195" type="multinuc" />
+		<group id="196" type="span" parent="195" relname="comparison"/>
+		<group id="197" type="multinuc" parent="166" relname="span"/>
+		<group id="198" type="span" parent="167" relname="joint"/>
+		<group id="200" type="span" parent="157" relname="sequence"/>
+	</body>
+</rst>

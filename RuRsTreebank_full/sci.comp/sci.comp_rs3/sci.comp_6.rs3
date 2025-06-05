@@ -1,0 +1,315 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">ОПТОИНФОРМАТИКА</segment>
+		<segment id="2" relname="antithesis">УДК 681.3</segment>
+		<segment id="3" relname="antithesis">ИССЛЕДОВАНИЕ АЛГОРИТМОВ СЖАТИЯ С ПОТЕРЯМИ НА ОСНОВЕ ПРОСТРАНСТВЕННОЙ ДЕКОМПОЗИЦИИ СИГНАЛА</segment>
+		<segment id="4" relname="antithesis">Ю.В. Лужков, А.Ю. Тропченко</segment>
+		<segment id="5" relname="antithesis">В работе рассматриваются адаптивные иерархические преобразования сигнала, используемые или пригодные к использованию в алгоритмах сжатия изображений с потерями.</segment>
+		<segment id="6" relname="antithesis">Суть преобразований заключается в том, что исходное изображение разлагается на отдельные части</segment>
+		<segment id="7" relname="antithesis">и представляется в виде трехмерной структуры.</segment>
+		<segment id="8" relname="antithesis">Предложены новые схемы адаптивной компрессии.</segment>
+		<segment id="9" relname="antithesis">Ключевые слова: сжатие с потерями, адаптивная сегментация, октодеревья</segment>
+		<segment id="10" parent="164" relname="preparation">Введение</segment>
+		<segment id="11" parent="12" relname="background">В настоящее время основная доля внимания уделяется сжатию трехмерных графических структур, которые используются в компьютерных играх, обучающих программах, компьютерном дизайне.</segment>
+		<segment id="12" parent="162" relname="span">Чаще всего именно в этом контексте исследуется проблема эффективного хранения информации об объемных изображениях.</segment>
+		<segment id="13" parent="161" relname="span">Тем не менее, это не единственная прикладная область, где могут быть востребованы уже имеющиеся наработки.</segment>
+		<segment id="14" parent="13" relname="elaboration">Некоторые из подходов с определенными оговорками могут быть применены и для сжатия двумерной растровой графики.</segment>
+		<segment id="15" parent="167" relname="span">Алгоритмы сжатия двумерных растровых изображений часто оценивают по следующим основным критериям:</segment>
+		<segment id="16" parent="165" relname="joint">1\. коэффициент сжатия, уровень искажений;</segment>
+		<segment id="17" parent="165" relname="joint">2\. возможность иерархического сжатия;</segment>
+		<segment id="18" parent="165" relname="joint">3\. вычислительная сложность.</segment>
+		<segment id="19" relname="antithesis">В работе предложен подход, позволяющий достичь сравнительно высокой степени компрессии при низкой вычислительной сложности, допускающий реализацию постепенного восстановления сигнала.</segment>
+		<segment id="20" parent="279" relname="span">Основная особенность рассматриваемого алгоритма - преобразование изображения в иерархическую пространственную структуру, имеющую сходные черты с окто- деревом.</segment>
+		<segment id="21" parent="168" relname="joint">Сами октодеревья относятся к группе трехмерных древовидных структур</segment>
+		<segment id="22" parent="168" relname="joint">и представляют собой развитие концепции квадродеревьев [1].</segment>
+		<segment id="23" parent="170" relname="contrast">Отметим, что в литературе [2] производится обобщение таких структур для пространства любой размерности,</segment>
+		<segment id="24" parent="170" relname="contrast">однако в прикладной области востребованными остаются, в основном, только двух- и трехмерные деревья.</segment>
+		<segment id="25" relname="antithesis">Будем называть единичный кубический элемент пространства термином воксель (voxel), по аналогии с пикселем (pixel) для дискретизированной плоской структуры.</segment>
+		<segment id="26" parent="176" relname="preparation">Декомпозиция и сжатие сигнала в пространстве</segment>
+		<segment id="27" parent="281" relname="joint">Заранее отметим, что все рассуждения будут проводиться для черно-белых изображений с конечным числом градаций серого цвета.</segment>
+		<segment id="28" parent="175" relname="span">Обобщение на цветные изображения может быть легко выполнено,</segment>
+		<segment id="29" parent="28" relname="condition">если рассматривать плоскость каждой цветовой компоненты независимо от других.</segment>
+		<segment id="30" relname="antithesis">Пусть дан двумерный массив изображения размерности N х M .</segment>
+		<segment id="31" parent="177" relname="span">Мы можем рассматривать двумерное изображение, обычно представляемое в плоском виде, как трехмерный объект, где третья координата - амплитуда пикселей а.</segment>
+		<segment id="32" parent="178" relname="span">Тогда мы имеем систему координат [символ], см. рис. 1.</segment>
+		<segment id="33" parent="178" relname="elaboration">[Рисунок]</segment>
+		<segment id="34" parent="179" relname="span">Пусть для задания яркости одного пикселя выделяется [символ] бит (для монохромного изображения - 1 бит).</segment>
+		<segment id="35" parent="34" relname="elaboration">Положим [формула].</segment>
+		<segment id="36" parent="180" relname="span">Тогда амплитудная компонента а принимает целые значения в пределах [0; А -1].</segment>
+		<segment id="37" parent="181" relname="span">Элементы рассматриваемого пространства, воксели [символ], могут принимать значения из множества {0;1},</segment>
+		<segment id="38" parent="37" relname="elaboration">причем [формула]</segment>
+		<segment id="39" parent="188" relname="span">Рассмотрим отличия такой трехмерной структуры от классических трехмерных объектов.</segment>
+		<segment id="40" parent="182" relname="restatement">1\. Каждой паре значений (m, n) соответствует одно и только одно значение координаты a.</segment>
+		<segment id="41" parent="182" relname="restatement">Это означает, что такая структура может быть сведена к некоторой поверхности.</segment>
+		<segment id="42" parent="43" relname="condition">Если рассматривать объект как функцию a(m, n),</segment>
+		<segment id="43" parent="184" relname="span">то она всегда имеет областью своего определения прямоугольник размерами N х M .</segment>
+		<segment id="44" parent="45" relname="cause">Пусть Qi - произвольный битовый срез, т.е. плоскость размерами N х M, получающаяся при фиксированном a = i.</segment>
+		<segment id="45" parent="185" relname="span">Тогда [формула], где SQi - площадь ненулевых пикселей среза (т.е. фактически их число).</segment>
+		<segment id="46" parent="47" relname="evidence">Из 3-го пункта следует важный вывод:</segment>
+		<segment id="47" parent="189" relname="span">при наличии хотя бы одного ненулевого коэффициента (пикселя) на исходном изображении существует хотя бы одна прямоугольная окрестность S, такая, что найдется такое целое [формула], при котором [формула] для всех [символ].</segment>
+		<segment id="48" parent="49" relname="cause">Конечно, реальные изображения редко представляют собой черный прямоугольник,</segment>
+		<segment id="49" parent="190" relname="span">следовательно, в целях компрессии мы можем усекать группы пикселей с сохранением величины среза для каждой группы.</segment>
+		<segment id="50" parent="193" relname="span">Кроме того, мы можем комбинировать усечение амплитуд снизу с последовательным разбиением области плоскостями, параллельными 0ma и 0na .</segment>
+		<segment id="51" parent="191" relname="joint">Причем процесс может быть многоуровневым</segment>
+		<segment id="52" parent="191" relname="joint">и затрагивать одну и ту же окрестность изображения многократно.</segment>
+		<segment id="53" parent="200" relname="span">Итак, мы можем рекурсивно проделывать над изображением (или его локальной окрестностью) по выбору следующие три действия:</segment>
+		<segment id="54" parent="198" relname="span">1. усечение амплитуд окрестности снизу;</segment>
+		<segment id="55" parent="197" relname="span">В данном случае нас интересуют только прямоугольные окрестности,</segment>
+		<segment id="56" parent="55" relname="concession">хотя можно сделать обобщение на случай произвольной четырех- или восьмисвязной области.</segment>
+		<segment id="57" parent="196" relname="joint">2\. разбиение окрестности плоскостью, параллельной 0та ;</segment>
+		<segment id="58" parent="196" relname="joint">3\. разбиение окрестности плоскостью, параллельной 0па .</segment>
+		<segment id="59" parent="202" relname="span">Действия осуществляются в той последовательности, которая выгодна с точки зрения некоторого критерия.</segment>
+		<segment id="60" parent="201" relname="span">Отметим только, что нет необходимости осуществлять усечение амплитуд дважды для одной и той же окрестности.</segment>
+		<segment id="61" parent="60" relname="cause">Результат разбиения представляет собой древовидную структуру.</segment>
+		<segment id="62" parent="283" relname="span">Пример декомпозиции сигнала приведен на рис. 2.</segment>
+		<segment id="63" parent="62" relname="elaboration">[Рисунок]</segment>
+		<segment id="64" parent="205" relname="span">Важными аспектами схемы с точки зрения ее практической реализации являются следующие:</segment>
+		<segment id="65" parent="203" relname="joint">1\. стратегия декомпозиции (разбиения) исходных данных, т.е. критерии, в соответствии с которыми будет строиться дерево разбиения;</segment>
+		<segment id="66" parent="290" relname="span">2\. стратегия аппроксимации узлов дерева.</segment>
+		<segment id="67" parent="66" relname="evaluation">Последняя стратегия важна, в первую очередь, для сжатия с потерями.</segment>
+		<segment id="68" parent="206" relname="cause">Поскольку стратегия декомпозиции в значительной степени определяется ошибкой, привносимой аппроксимацией,</segment>
+		<segment id="69" parent="284" relname="contrast">те или иные схемы разбиения так или иначе будут зависеть от характеристики искажения сигнала при заданном параметре качества сжатия</segment>
+		<segment id="70" parent="284" relname="contrast">(либо, наоборот, при заданной ошибке ищется способ наилучшего сжатия).</segment>
+		<segment id="71" parent="207" relname="cause">Так как наш алгоритм можно отнести к группе алгоритмов расщепления областей,</segment>
+		<segment id="72" parent="207" relname="span">для него применимы основные подходы декомпозиции этой группы:</segment>
+		<segment id="73" parent="208" relname="joint">1\. поиск резких границ, перепадов (метод Хафа);</segment>
+		<segment id="74" parent="208" relname="joint">2\. поиск однотонных областей в соответствии с критерием однородности;</segment>
+		<segment id="75" parent="208" relname="joint">3\. прямая оценка эффективности - явная аппроксимация с последующим выбором лучшего результата.</segment>
+		<segment id="76" parent="212" relname="span">Примерами стратегий аппроксимации могут служить:</segment>
+		<segment id="77" parent="210" relname="joint">1\. приближение сигнала с использованием бимлет-, курвлет-, риджлет-базисов [3];</segment>
+		<segment id="78" parent="210" relname="joint">2\. аппроксимация поверхностями (плоскости, билинейные плоскости, нелинейные поверхности) [4];</segment>
+		<segment id="79" parent="210" relname="joint">3\. применение ортогональных преобразований.</segment>
+		<segment id="80" parent="215" relname="preparation">Эффективное применение декомпозиции в горизонтальном направлении</segment>
+		<segment id="81" parent="214" relname="contrast">Уже предложенные схемы сжатия не используют трехмерную декомпозицию с последующей аппроксимацией узлов, ограничиваясь двумерным разбиением.</segment>
+		<segment id="82" parent="213" relname="span">Однако использование ЭБ-декомпозиции позволяет сократить объем данных, требуемых для представления значений аппроксимации.</segment>
+		<segment id="83" parent="82" relname="evidence">Так, одна операция горизонтального разбиения позволяет сократить число разрядов для представления значений аппроксимации сразу нескольких узлов.</segment>
+		<segment id="84" parent="216" relname="span">Введем функцию, оценивающую в битах стоимость хранения ветки дерева относительно некоторого узла:</segment>
+		<segment id="85" parent="220" relname="span">[формула]</segment>
+		<segment id="86" parent="218" relname="joint">где [символ] - число бит, необходимое для сохранения значения аппроксимации /-го оконечного узла,</segment>
+		<segment id="87" parent="218" relname="joint">аналогично [символ] и [символ] - горизонтальной и вертикальной декомпозиции соответственно.</segment>
+		<segment id="88" parent="89" relname="condition">Если горизонтальная декомпозиция не используется,</segment>
+		<segment id="89" parent="221" relname="span">то [символ] .</segment>
+		<segment id="90" parent="91" relname="cause">Используя горизонтальную декомпозицию сигнала,</segment>
+		<segment id="91" parent="222" relname="span">можно уменьшить значения [символ].</segment>
+		<segment id="92" parent="223" relname="joint">Кроме того, значения [символ] для дочерних узлов также могут быть сокращены.</segment>
+		<segment id="93" parent="230" relname="span">Очевидно, для выигрыша в результате применения горизонтальной декомпозиции должно выполняться условие</segment>
+		<segment id="94" parent="229" relname="span">[формула], (2)</segment>
+		<segment id="95" parent="227" relname="restatement">где [символ] - цена до внесения данного узла горизонтальной декомпозиции,</segment>
+		<segment id="96" parent="227" relname="restatement">а [символ]- после.</segment>
+		<segment id="97" parent="233" relname="span">Таким образом, прирост цены за счет кодирования горизонтальной декомпозиции должен быть меньше выигрыша за счет уменьшения бит для кодирования значений аппроксимации и других горизонтальных декомпозиций</segment>
+		<segment id="98" parent="97" relname="condition">(если таковые уже имеются).</segment>
+		<segment id="99" parent="238" relname="span">Итак, после операции горизонтальной декомпозиции должно уменьшаться число бит, необходимых для кодирования последующих дочерних узлов.</segment>
+		<segment id="100" parent="236" relname="span">Это происходит тогда,</segment>
+		<segment id="101" parent="102" relname="cause">когда диапазон кодируемых значений сокращается так,</segment>
+		<segment id="102" parent="237" relname="span">что его величина переходит через порог степени 2, см.</segment>
+		<segment id="103" relname="antithesis">рис. Э.</segment>
+		<segment id="104" parent="105" relname="cause">Так как имеет смысл сокращать диапазон амплитуд пикселей не только снизу, но и сверху,</segment>
+		<segment id="105" parent="239" relname="span">предлагается сохранять отступ снизу [символ] и число переходов через порог степени 2 при сокращении диапазона.</segment>
+		<segment id="106" parent="239" relname="elaboration">Диапазон амплитуд в этом случае устанавливается кратным степени 2.</segment>
+		<segment id="107" relname="antithesis">[Рисунок]</segment>
+		<segment id="108" parent="242" relname="preparation">Пример практического использования метода</segment>
+		<segment id="109" parent="242" relname="span">Руководствуясь неравенством (2), смоделируем одну из возможных схем сжатия, использующую пространственную декомпозицию.</segment>
+		<segment id="110" parent="109" relname="elaboration">За основу рассматриваемого алгоритма возьмем схему, предложенную в [4].</segment>
+		<segment id="111" parent="112" relname="cause">Кратко суть базового метода заключается в том, что исходное изображение рекурсивно делится пополам,</segment>
+		<segment id="112" parent="243" relname="span">в результате чего получается иерархическая древовидная структура.</segment>
+		<segment id="113" parent="254" relname="sequence">Конечные регионы разбиения, соответствующие оконечным узлам дерева, аппроксимируются билинейными плоскостями.</segment>
+		<segment id="114" parent="255" relname="span">Последние строятся по четырем точкам, лежащим на угловых осях, перпендикулярных плоскости основания.</segment>
+		<segment id="115" parent="114" relname="elaboration">Критерий разбиения - минимум суммарной ошибки аппроксимации двух получаемых в результате разбиения областей.</segment>
+		<segment id="116" parent="257" relname="span">Кодирование сигнала производится следующим образом:</segment>
+		<segment id="117" parent="116" relname="elaboration">один бит - является ли узел конечным или составным.</segment>
+		<segment id="118" parent="119" relname="condition">Если узел конечный,</segment>
+		<segment id="119" parent="245" relname="span">кодируются значения аппроксимации.</segment>
+		<segment id="120" parent="250" relname="condition">Если узел составной,</segment>
+		<segment id="121" parent="248" relname="joint">одним битом кодируется тип разбиения (вертикальное или горизонтальное),</segment>
+		<segment id="122" parent="248" relname="joint">далее кодируется позиция разбиения,</segment>
+		<segment id="123" parent="249" relname="elaboration">на что требуется [символ] или [символ] бит для вертикального и горизонтального разбиения соответственно.</segment>
+		<segment id="124" parent="253" relname="elaboration">Причем [символ] и [символ] - число возможных линий деления по вертикали и горизонтали для данной области.</segment>
+		<segment id="125" parent="270" relname="span">Модифицируем описанный базовый метод.</segment>
+		<segment id="126" parent="267" relname="condition">Пусть дано дерево декомпозиции, построенное по базовому алгоритму.</segment>
+		<segment id="127" parent="266" relname="sequence">Добавим дополнительные узлы в это дерево, руководствуясь правилом (2).</segment>
+		<segment id="128" parent="259" relname="joint">Начиная с оконечных узлов дерева, будем продвигаться по направлению к его корню</segment>
+		<segment id="129" parent="259" relname="joint">и для каждого составного узла вычислять выигрыш от добавления узла горизонтальной декомпозиции.</segment>
+		<segment id="130" parent="131" relname="condition">Если выигрыш в битах положителен,</segment>
+		<segment id="131" parent="261" relname="span">узел добавляется.</segment>
+		<segment id="132" parent="264" relname="span">В противном случае поднимаемся на уровень выше.</segment>
+		<segment id="133" parent="132" relname="elaboration">Функция цены (1) в этом случае примет следующий вид: [формула] где [символ] - параметр аппроксимации.</segment>
+		<segment id="134" relname="antithesis">[Рисунок]</segment>
+		<segment id="135" parent="136" relname="background">Результаты тестирования алгоритма для изображения «LENA» представлены на рис. 4.</segment>
+		<segment id="136" parent="272" relname="span">Результаты эксперимента свидетельствуют,</segment>
+		<segment id="137" parent="271" relname="span">что модифицированный алгоритм в среднем на 3-8 % превосходит базовый по степени сжатия.</segment>
+		<segment id="138" parent="139" relname="cause">2 Формат данной работы не позволяет подробно описывать базовую схему,</segment>
+		<segment id="139" parent="273" relname="span">поэтому предлагаем читателям обратиться к указанным источникам.</segment>
+		<segment id="140" parent="274" relname="preparation">Заключение</segment>
+		<segment id="141" parent="274" relname="span">В работе был описан подход к сжатию изображений на основе трехмерной декомпозиции сигнала.</segment>
+		<segment id="142" parent="141" relname="elaboration">Было показано, как на его основе можно составить новые и модернизировать уже существующие схемы компрессии.</segment>
+		<segment id="143" parent="275" relname="background">Так, в качестве базовой схемы компрессии был взят алгоритм кодирования на основе адаптивной сегментации с минимаксным контролем ошибки.</segment>
+		<segment id="144" parent="145" relname="cause">Применяя разработанную нами технику,</segment>
+		<segment id="145" parent="277" relname="span">мы добились улучшения характеристик данной схемы.</segment>
+		<segment id="146" parent="277" relname="elaboration">Отметим, что подобную модернизацию можно произвести со многими другими алгоритмами на основе адаптивной сегментации, описанными, например, в [5].</segment>
+		<segment id="147" relname="antithesis">В качестве дальнейшей исследовательской деятельности нам представляется важным исследовать вопрос о более компактном кодировании дерева декомпозиции.</segment>
+		<segment id="148" relname="antithesis">Литература</segment>
+		<segment id="149" relname="antithesis">1\. Samet H. Octree approximation and compression methods // 3DPVT02. - 2002. - P. 460-469.</segment>
+		<segment id="150" relname="antithesis">2\. Samet H. Applications of spatial data structures to computer graphics. - Addison-Wesley, 1990. - 512 p.</segment>
+		<segment id="151" relname="antithesis">3\. Donoho D.L., Huo X. Beamlets and Multiscale Image Analysis. Multiscale and Multiresolution Methods, Springer Lecture Notes in Computational Science and Engineering / Ed. T.J. Barth, T. Chan, and R. Haimes. - 2002. - V. 20. - P. 149-196.</segment>
+		<segment id="152" relname="antithesis">4\. Dalai M., Leonardi R. L-inf Norm Based Second Generation Image Coding // ICIP04. -2004. - P. 3193-3196.</segment>
+		<segment id="153" relname="antithesis">5\. Shukla R. Rate-distortion optimized geometrical image processing: Ph.D. dissertation, Swiss Federal Inst. Technol. - Lausanne, Switzerland, 2004.</segment>
+		<segment id="154" relname="antithesis">Лужков Юрий Валерьевич</segment>
+		<segment id="155" relname="antithesis">Тропченко Александр Ювенальевич</segment>
+		<segment id="156" relname="antithesis">— Санкт-Петербургский государственный университет информационных технологий,</segment>
+		<segment id="157" relname="antithesis">механики и оптики, аспирант, 1uzhkov@inbox.ru</segment>
+		<segment id="158" relname="antithesis">— Санкт-Петербургский государственный университет информационных технологий,</segment>
+		<segment id="159" relname="antithesis">механики и оптики, доктор технических наук, профессор, tau@d1.ifmo.ru</segment>
+		<segment id="160" relname="antithesis"> </segment>
+		<group id="161" type="span" parent="163" relname="contrast"/>
+		<group id="162" type="span" parent="163" relname="contrast"/>
+		<group id="163" type="multinuc" parent="164" relname="span"/>
+		<group id="164" type="span" parent="278" relname="span"/>
+		<group id="165" type="multinuc" parent="166" relname="span"/>
+		<group id="166" type="span" parent="15" relname="elaboration"/>
+		<group id="167" type="span" relname="antithesis"/>
+		<group id="168" type="multinuc" parent="169" relname="span"/>
+		<group id="169" type="span" parent="172" relname="span"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="169" relname="elaboration"/>
+		<group id="172" type="span" parent="20" relname="elaboration"/>
+		<group id="175" type="span" parent="281" relname="joint"/>
+		<group id="176" type="span" parent="280" relname="span"/>
+		<group id="177" type="span" parent="32" relname="cause"/>
+		<group id="178" type="span" parent="282" relname="span"/>
+		<group id="179" type="span" parent="36" relname="cause"/>
+		<group id="180" type="span" relname="antithesis"/>
+		<group id="181" type="span" relname="antithesis"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="183" type="span" parent="186" relname="joint"/>
+		<group id="184" type="span" parent="186" relname="joint"/>
+		<group id="185" type="span" parent="186" relname="joint"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="187" type="span" parent="39" relname="elaboration"/>
+		<group id="188" type="span" relname="antithesis"/>
+		<group id="189" type="span" relname="antithesis"/>
+		<group id="190" type="span" parent="194" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="50" relname="elaboration"/>
+		<group id="193" type="span" parent="194" relname="joint"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" relname="antithesis"/>
+		<group id="196" type="multinuc" parent="199" relname="span"/>
+		<group id="197" type="span" parent="54" relname="elaboration"/>
+		<group id="198" type="span" parent="196" relname="joint"/>
+		<group id="199" type="span" parent="53" relname="elaboration"/>
+		<group id="200" type="span" relname="antithesis"/>
+		<group id="201" type="span" parent="59" relname="elaboration"/>
+		<group id="202" type="span" relname="antithesis"/>
+		<group id="203" type="multinuc" parent="204" relname="span"/>
+		<group id="204" type="span" parent="64" relname="elaboration"/>
+		<group id="205" type="span" relname="antithesis"/>
+		<group id="206" type="span" parent="285" relname="span"/>
+		<group id="207" type="span" parent="286" relname="span"/>
+		<group id="208" type="multinuc" parent="209" relname="span"/>
+		<group id="209" type="span" parent="72" relname="elaboration"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="211" type="span" parent="76" relname="elaboration"/>
+		<group id="212" type="span" relname="antithesis"/>
+		<group id="213" type="span" parent="214" relname="contrast"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="215" type="span" parent="287" relname="span"/>
+		<group id="216" type="span" parent="226" relname="condition"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="85" relname="elaboration"/>
+		<group id="220" type="span" parent="84" relname="elaboration"/>
+		<group id="221" type="span" parent="225" relname="contrast"/>
+		<group id="222" type="span" parent="223" relname="joint"/>
+		<group id="223" type="multinuc" parent="235" relname="span"/>
+		<group id="224" type="span" parent="225" relname="contrast"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="226" type="span" parent="231" relname="span"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="94" relname="elaboration"/>
+		<group id="229" type="span" parent="93" relname="elaboration"/>
+		<group id="230" type="span" parent="233" relname="cause"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" relname="antithesis"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="235" relname="elaboration"/>
+		<group id="235" type="span" parent="224" relname="span"/>
+		<group id="236" type="span" parent="99" relname="elaboration"/>
+		<group id="237" type="span" parent="100" relname="condition"/>
+		<group id="238" type="span" parent="241" relname="span"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="238" relname="elaboration"/>
+		<group id="241" type="span" relname="antithesis"/>
+		<group id="242" type="span" parent="288" relname="span"/>
+		<group id="243" type="span" parent="258" relname="span"/>
+		<group id="244" type="span" parent="254" relname="sequence"/>
+		<group id="245" type="span" parent="247" relname="contrast"/>
+		<group id="247" type="multinuc" parent="252" relname="span"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="253" relname="span"/>
+		<group id="251" type="span" parent="247" relname="contrast"/>
+		<group id="252" type="span" parent="257" relname="elaboration"/>
+		<group id="253" type="span" parent="251" relname="span"/>
+		<group id="254" type="multinuc" parent="256" relname="span"/>
+		<group id="255" type="span" parent="254" relname="sequence"/>
+		<group id="256" type="span" parent="243" relname="elaboration"/>
+		<group id="257" type="span" parent="244" relname="span"/>
+		<group id="258" type="span" relname="antithesis"/>
+		<group id="259" type="multinuc" parent="260" relname="span"/>
+		<group id="260" type="span" parent="265" relname="span"/>
+		<group id="261" type="span" parent="262" relname="contrast"/>
+		<group id="262" type="multinuc" parent="263" relname="span"/>
+		<group id="263" type="span" parent="260" relname="elaboration"/>
+		<group id="264" type="span" parent="262" relname="contrast"/>
+		<group id="265" type="span" parent="266" relname="sequence"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="125" relname="elaboration"/>
+		<group id="270" type="span" relname="antithesis"/>
+		<group id="271" type="span" relname="antithesis"/>
+		<group id="272" type="span" parent="137" relname="evidence"/>
+		<group id="273" type="span" relname="antithesis"/>
+		<group id="274" type="span" parent="289" relname="span"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" relname="antithesis"/>
+		<group id="277" type="span" parent="275" relname="span"/>
+		<group id="278" type="span" relname="antithesis"/>
+		<group id="279" type="span" relname="antithesis"/>
+		<group id="280" type="span" relname="antithesis"/>
+		<group id="281" type="multinuc" parent="176" relname="span"/>
+		<group id="282" type="span" relname="antithesis"/>
+		<group id="283" type="span" relname="antithesis"/>
+		<group id="284" type="multinuc" parent="206" relname="span"/>
+		<group id="285" type="span" relname="antithesis"/>
+		<group id="286" type="span" relname="antithesis"/>
+		<group id="287" type="span" relname="antithesis"/>
+		<group id="288" type="span" relname="antithesis"/>
+		<group id="289" type="span" relname="antithesis"/>
+		<group id="290" type="span" parent="203" relname="joint"/>
+  </body>
+</rst>

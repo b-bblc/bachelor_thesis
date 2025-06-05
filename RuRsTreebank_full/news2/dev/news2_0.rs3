@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Новость: Михаил Игнатьев: «Библиотеки — центры пропаганды любви к творчеству, истории, культуре Чувашии и страны»</segment>
+		<segment id="2" parent="39" relname="preparation">##### 21 сентября Президент Чувашии Михаил Игнатьев принял участие в торжественном открытии нового здания  Национальной библиотеки Чувашской Республики и в работе приуроченного к этому событию IV Форума молодых библиотекарей России.</segment>
+		<segment id="3" parent="39" relname="span">##### На форум приехали более 200 библиотекарей со всей России: от Санкт-Петербурга до Сахалина.</segment>
+		<segment id="4" parent="3" relname="elaboration">На праздничном мероприятии присутствовали муфтий Чувашии, Москвы и Центрального региона России, член Общественной палаты России и Чувашии Альберт Крганов и протоиерей, ректор Чебоксарского Епархиального Православного Духовного училища Чебоксарско-Чувашской епархии, настоятель церкви Воскресения Христова г. Чебоксары Михаил Иванов.</segment>
+		<segment id="5" parent="37" relname="attribution">##### В своем приветствии Михаил Игнатьев сказал:</segment>
+		<segment id="6" parent="34" relname="joint">«Чувашия — социально активная республика, пилотный регион по внедрению инновационных проектов, в том числе в библиотечной сфере.</segment>
+		<segment id="7" parent="34" relname="joint">А библиотеки — центры пропаганды любви к творчеству, истории, культуре Чувашии и страны.</segment>
+		<segment id="8" parent="35" relname="span">Сегодня мы с вами открываем новый, современный, инновационный, многофункциональный центр культуры.</segment>
+		<segment id="9" parent="60" relname="joint">Хочу отметить, что все участники форума, креативные, интеллектуальные труженики библиотечного дела, избрали свою профессию по велению души.</segment>
+		<segment id="10" parent="60" relname="joint">Желаю вам хорошего настроения и плодотворной работы».</segment>
+		<segment id="11" parent="41" relname="attribution">##### Участница форума Софья Гаязова из Йошкар-Олы рассказала главе республики:</segment>
+		<segment id="12" parent="41" relname="span">«Чебоксары — красивый  и современный город.</segment>
+		<segment id="13" parent="12" relname="evaluation">Мы в восторге не только от города, но и от такой шикарной библиотеки».</segment>
+		<segment id="14" parent="55" relname="joint">##### Сегодня в Чувашии успешно действует более 500 модельных библиотек.</segment>
+		<segment id="15" parent="42" relname="span">Все больше людей приобщаются к чтению,</segment>
+		<segment id="16" parent="15" relname="evidence">их посещаемость выросла на 40 процентов.</segment>
+		<segment id="17" parent="45" relname="span">В новом здании  Национальной библиотеки площадью 950 кв.м. будет размещен филиал российской Президентской библиотеки имени Б.Н. Ельцина.</segment>
+		<segment id="18" parent="43" relname="joint">Общая стоимость составила 249 млн. рублей.</segment>
+		<segment id="19" parent="44" relname="span">Оно оснащено современным инженерным оборудованием</segment>
+		<segment id="20" parent="63" relname="joint">для обеспечения сохранности фондов,</segment>
+		<segment id="21" parent="63" relname="joint">создания комфортных  условий для работы посетителей и сотрудников.</segment>
+		<segment id="22" parent="23" relname="attribution">##### Указом Президента Чувашской Республики за заслуги в области культуры и многолетнюю плодотворную работу</segment>
+		<segment id="23" parent="58" relname="span">почетное звание «Заслуженный работник культуры Чувашской Республики» присвоено заведующей отделом Национальной библиотеки Татьяне Николаевой,</segment>
+		<segment id="24" parent="58" relname="elaboration">которой Президент лично вручил государственную награду.</segment>
+		<segment id="25" parent="64" relname="sequence">##### Гости прошли на экскурсию в библиотеку,</segment>
+		<segment id="26" parent="64" relname="sequence">осмотрели  выставку фотографий «Соединяя время и людей: к 140-летию Национальной библиотеки Чувашской Республики»,</segment>
+		<segment id="27" parent="64" relname="sequence">посетили зал государственных символов, помещения, предназначенные под филиал Президентской библиотеки имени Б.Н. Ельцина, электронный читальный и многофункциональный залы.</segment>
+		<segment id="28" parent="29" relname="attribution">##### Директор Национальной библиотеки Чувашской Республики Светлана Старикова обратила внимание на то,</segment>
+		<segment id="29" parent="50" relname="span">что Национальная библиотека – единственная публичная библиотека мира, выполняющая функции комплектования, сохранения и распространения чувашской книги и литературы о республике.</segment>
+		<segment id="30" parent="65" relname="joint">Библиотечно-информационный фонд документов Чувашской Республики насчитывает 2 млн. экземпляров, в том числе 80 тысяч краеведческих и национальных документов.</segment>
+		<segment id="31" parent="51" relname="attribution">##### Президент подчеркнул,</segment>
+		<segment id="32" parent="51" relname="span">что Национальная библиотека Чувашской Республики станет многофункциональной площадкой</segment>
+		<segment id="33" parent="32" relname="purpose">для проведения культурных, общественных, религиозных  мероприятий.</segment>
+		<group id="34" type="multinuc" parent="35" relname="preparation"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="38" type="span" parent="47" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" />
+		<group id="41" type="span" parent="46" relname="span"/>
+		<group id="42" type="span" parent="55" relname="joint"/>
+		<group id="43" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="44" type="span" parent="43" relname="joint"/>
+		<group id="45" type="span" parent="61" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="47" type="multinuc" />
+		<group id="50" type="span" parent="65" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="65" relname="evaluation"/>
+		<group id="53" type="span" />
+		<group id="55" type="multinuc" parent="61" relname="joint"/>
+		<group id="57" type="multinuc" />
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="59" type="span" parent="57" relname="joint"/>
+		<group id="60" type="multinuc" parent="8" relname="elaboration"/>
+		<group id="61" type="multinuc" />
+		<group id="63" type="multinuc" parent="19" relname="purpose"/>
+		<group id="64" type="multinuc" parent="57" relname="joint"/>
+		<group id="65" type="multinuc" parent="53" relname="span"/>
+	</body>
+</rst>

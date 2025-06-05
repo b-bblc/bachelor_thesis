@@ -1,0 +1,311 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://ludmilapsyholog.livejournal.com/290971.html</segment>
+		<segment id="2" >##### Опять простое решение?</segment>
+		<segment id="3" parent="149" relname="span">##### Опять появилась и уже нависла в виде законопроекта идея обязательного тестирования приемных родителей</segment>
+		<segment id="4" parent="3" relname="attribution">http://regulation.gov.ru/projects#npa=75701</segment>
+		<segment id="5" parent="150" relname="contrast">##### Впрочем, самого текста законопроекта там нет,</segment>
+		<segment id="6" parent="150" relname="contrast">нам предлагается за 2 недели обсудить смутную идею.</segment>
+		<segment id="7" parent="245" relname="span">##### Что ж, давайте обсудим идею.</segment>
+		<segment id="8" parent="152" relname="span">##### 1. Всегда хочется иметь способ отделить агнцев от козлищ,</segment>
+		<segment id="9" parent="8" relname="purpose">и чтобы научно и наверняка.</segment>
+		<segment id="10" parent="262" relname="span">Тестирование кажется крайне заманчивой идеей.</segment>
+		<segment id="11" parent="12" relname="attribution">Мало смыслящим в психодиагностике людям всегда кажется,</segment>
+		<segment id="12" parent="153" relname="span">что у психологов есть такие волшебные тесты, которые узнают о тебе все что нужно.</segment>
+		<segment id="13" parent="160" relname="span">##### Это заблуждение.</segment>
+		<segment id="14" parent="154" relname="joint">По настоящему валидных, верифицированных на больших выборках тестовых методик существует не так много.</segment>
+		<segment id="15" parent="155" relname="span">И выявляют они обычно с большой достоверностью только очень явные, яркие проявления и отклонения,</segment>
+		<segment id="16" parent="246" relname="same-unit">которые</segment>
+		<segment id="17" parent="18" relname="condition">при длительном неформальном общении</segment>
+		<segment id="18" parent="247" relname="span">и так видны.</segment>
+		<segment id="19" parent="265" relname="span">Эти тесты довольно достоверно выявили бы депрессию, психопатию и шизофрению.</segment>
+		<segment id="20" parent="282" relname="span">Если бы люди с этими состояниями рвались в приемные родители.</segment>
+		<segment id="21" parent="20" relname="evaluation">Но я такого не припомню.</segment>
+		<segment id="22" parent="159" relname="span">##### Это не говоря о том, что кандидаты в приемные родители в обязательном порядке получают заключение психиатра.</segment>
+		<segment id="23" parent="157" relname="condition">Если у него возникнут сомнения,</segment>
+		<segment id="24" parent="157" relname="span">он может использовать все имеющиеся психодиагностические методы,</segment>
+		<segment id="25" parent="24" relname="condition">включая тесты.</segment>
+		<segment id="26" parent="163" relname="span">##### 2. Отдельный вопрос, какие из этих методик могут быть применены</segment>
+		<segment id="27" parent="26" relname="purpose">для тестирования приемных родителей.</segment>
+		<segment id="28" parent="162" relname="joint">Что мы хотим узнать?</segment>
+		<segment id="29" parent="162" relname="joint">Вот выявили мы личностный профиль – и что?</segment>
+		<segment id="30" parent="164" relname="contrast">Какие черты характера помогают,</segment>
+		<segment id="31" parent="164" relname="contrast">а какие мешают хорошо растить приемного ребенка?</segment>
+		<segment id="32" parent="166" relname="contrast">Или мы будем мерять дисфункцию семьи?</segment>
+		<segment id="33" parent="166" relname="contrast">Но где тут критерии?</segment>
+		<segment id="34" parent="165" relname="joint">Что будет основанием для позитивного или негативного прогноза?</segment>
+		<segment id="35" parent="169" relname="span">Предъявите исследования, которые устанавливают значимую корреляцию между теми или иными характеристиками личности или семьи и способностью растить приемного ребенка.</segment>
+		<segment id="36" parent="37" relname="condition">Если мы по результатам теста будем лишать взрослых права стать приемными родителями,</segment>
+		<segment id="37" parent="267" relname="span">у нас должны быть очень серьезные основания для этого, не так ли?</segment>
+		<segment id="38" parent="168" relname="span">Они есть?</segment>
+		<segment id="39" parent="38" relname="elaboration">Где они опубликованы?</segment>
+		<segment id="40" parent="185" relname="span">##### 3. Как вы понимаете, этим вопросом задавались давно и многие.</segment>
+		<segment id="41" parent="268" relname="span">И проводились длительные с довольно широким охватом исследования на эту тему, в Европе, в США, в Израиле.</segment>
+		<segment id="42" parent="184" relname="contrast">Простите, я не беру в расчет кандидатскую диссертацию, защищенную в российском областном центре на примере 17 семей и 3 авторских методик, сочиненных самим автором.</segment>
+		<segment id="43" parent="184" relname="contrast">Я про реальные серьезные исследования.</segment>
+		<segment id="44" parent="258" relname="span">Насколько я знаю</segment>
+		<segment id="45" parent="173" relname="contrast">(не могу сказать, что все знаю,</segment>
+		<segment id="46" parent="173" relname="contrast">но интересовалась)</segment>
+		<segment id="47" parent="174" relname="span">во всех этих исследования корреляция результатов предварительного тестирования кандидатов в приемные родители и катамнеза</segment>
+		<segment id="48" parent="47" relname="elaboration">(как потом у них получилось с приемным ребенком)</segment>
+		<segment id="49" parent="175" relname="same-unit">нулевая.</segment>
+		<segment id="50" parent="259" relname="elaboration">В пределах статистической погрешности.</segment>
+		<segment id="51" parent="52" relname="condition">##### Если бы это было не так,</segment>
+		<segment id="52" parent="177" relname="span">все социальные службы развитых стран давно бы использовали стандартизированные тестовые методики.</segment>
+		<segment id="53" parent="178" relname="contrast">Но их не используют нигде.</segment>
+		<segment id="54" parent="179" relname="joint">Могут быть глубинные интервью – там, где детей-сирот мало</segment>
+		<segment id="55" parent="179" relname="joint">и можно себе позволить возиться по два года с каждым кандидатом в усыновители.</segment>
+		<segment id="56" parent="180" relname="span">Обязательных на уровне закона стандартизированных тестов нет нигде.</segment>
+		<segment id="57" parent="56" relname="elaboration">Случайно, что ли?</segment>
+		<segment id="58" parent="200" relname="preparation">##### 4. Ладно, оставим в покое личностные качества.</segment>
+		<segment id="59" parent="187" relname="span">Может быть, мы будем пытаться отсеять тех, кто берет детей лишь</segment>
+		<segment id="60" parent="59" relname="purpose">ради денег?</segment>
+		<segment id="61" parent="188" relname="joint">Тех, кто будет с ними плохо обращаться?</segment>
+		<segment id="62" parent="188" relname="joint">Или, упаси боже, педофилов?</segment>
+		<segment id="63" parent="199" relname="span">Боюсь, и из этого ничего не выйдет.</segment>
+		<segment id="64" parent="189" relname="span">Жулики и циники ответят на все вопросы в лучшем виде,</segment>
+		<segment id="65" parent="64" relname="evaluation">хоть в рамку вешай как образец.</segment>
+		<segment id="66" parent="190" relname="span">Педофилы тоже,</segment>
+		<segment id="67" parent="66" relname="condition">если уж они выбрали такую хитрую и рискованную форму реализации своей преступной склонности.</segment>
+		<segment id="68" parent="195" relname="joint">Если честно, в нашей реальности педофилу намного проще сойтись с женщиной с детьми</segment>
+		<segment id="69" parent="195" relname="joint">или совратить безнадзорного ребенка,</segment>
+		<segment id="70" parent="193" relname="same-unit">и</segment>
+		<segment id="71" parent="72" relname="condition">без всякого контроля</segment>
+		<segment id="72" parent="192" relname="span">творить что угодно,</segment>
+		<segment id="73" parent="194" relname="contrast">а не ввязываться в отношения с опекой, контроль и т.д.</segment>
+		<segment id="74" parent="196" relname="condition">Но если все же</segment>
+		<segment id="75" parent="270" relname="span">– подготовиться к заранее известному тесту</segment>
+		<segment id="76" parent="75" relname="purpose">ради денег или преступных удовольствий</segment>
+		<segment id="77" parent="196" relname="same-unit">– не так уж и сложно.</segment>
+		<segment id="78" parent="203" relname="solutionhood">##### 5. Может быть, будем мерять стрессоустойчивость?</segment>
+		<segment id="79" parent="203" relname="span">Это может и было бы полезно,</segment>
+		<segment id="80" parent="81" relname="cause">длительные стрессы у приемных родителей дело нередкое,</segment>
+		<segment id="81" parent="202" relname="span">иногда именно это становится причиной возврата или жесткого обращения.</segment>
+		<segment id="82" parent="217" relname="span">Но тот же вопрос: где будем ставить порог?</segment>
+		<segment id="83" parent="208" relname="attribution">Где серьезные исследования, показывающие,</segment>
+		<segment id="84" parent="206" relname="contrast">что ниже такого-то уровня – нельзя,</segment>
+		<segment id="85" parent="206" relname="contrast">а выше – можно?</segment>
+		<segment id="86" parent="207" relname="contrast">А если он у жены низкий,</segment>
+		<segment id="87" parent="207" relname="contrast">а у мужа высокий, или наоборот?</segment>
+		<segment id="88" parent="252" relname="attribution">Помню,</segment>
+		<segment id="89" parent="251" relname="attribution">в одном регионе мне замминистра с воодушевлением говорила,</segment>
+		<segment id="90" parent="251" relname="span">что они используют тест</segment>
+		<segment id="91" parent="90" relname="purpose">для отбора в спецназ.</segment>
+		<segment id="92" parent="273" relname="span">Научный подход 90 левела.</segment>
+		<segment id="93" parent="209" relname="joint">Пользуются тем, что у нас народ не любит в суды ходить</segment>
+		<segment id="94" parent="210" relname="span">и наказывать чиновников</segment>
+		<segment id="95" parent="94" relname="cause">за противоправные и незаконные инициативы.</segment>
+		<segment id="96" parent="216" relname="contrast">##### Хорошо, предположим на минуту, что каким-то чудом какие-то приемлемые методики есть.</segment>
+		<segment id="97" parent="216" relname="contrast">Немедленно возникают новые вопросы.</segment>
+		<segment id="98" parent="212" relname="joint">##### Что будет означать их применение в человеко-часах?</segment>
+		<segment id="99" parent="211" relname="joint">Какой процент психологов, работающих в социальных службах, способен его проводить,</segment>
+		<segment id="100" parent="211" relname="joint">а также проводить обработку и интерпретацию результатов?</segment>
+		<segment id="101" parent="248" relname="joint">Или его будут проводить какие-то другие специалисты, которые есть только в крупных городах</segment>
+		<segment id="102" parent="248" relname="joint">и кандидатам в приемные родители придется к ним ездить?</segment>
+		<segment id="103" parent="215" relname="span">##### Любой способ оценить пригодность человека к той или иной деятельности должен содержать в себе возможность изменений к лучшему.</segment>
+		<segment id="104" parent="275" relname="joint">Выпускник плохо сдал ЕГЭ,</segment>
+		<segment id="105" parent="275" relname="joint">его не берут в желаемый вуз</segment>
+		<segment id="106" parent="274" relname="joint">– он может подготовиться</segment>
+		<segment id="107" parent="274" relname="joint">и пересдать.</segment>
+		<segment id="108" parent="213" relname="joint">Как можно будет пересдать психологический тест?</segment>
+		<segment id="109" parent="213" relname="joint">Или его результаты будут приговором на всю жизнь?</segment>
+		<segment id="110" parent="111" relname="cause">##### Россия – многонациональная страна.</segment>
+		<segment id="111" parent="223" relname="span">Для многих кандидатов в приемные родители русский язык не является родным.</segment>
+		<segment id="112" parent="220" relname="span">Психологический тест – это же не заявление в пенсионный фонд по образцу,</segment>
+		<segment id="113" parent="112" relname="elaboration">для него недостаточно знать язык «как государственный».</segment>
+		<segment id="114" parent="222" relname="joint">Авторы законопроекта представляют себе длительность и стоимость валидизации тестовой методики для каждого языка народов РФ?</segment>
+		<segment id="115" parent="116" relname="attribution">Или они предлагают</segment>
+		<segment id="116" parent="257" relname="span">ввести дискриминацию на основании родного языка кандидата?</segment>
+		<segment id="117" parent="278" relname="span">##### Как отразится обязательное тестирования (довольно утомительная и унизительная процедура, надо сказать) на состоянии кандидата в процессе подготовки?</segment>
+		<segment id="118" parent="260" relname="condition">Когда я обучаю тренеров Школы приемного родителя,</segment>
+		<segment id="119" parent="260" relname="span">мы говорим о том, что главный результат их работы</segment>
+		<segment id="120" parent="224" relname="contrast">– не знания в головах участников,</segment>
+		<segment id="121" parent="225" relname="span">а доверие и готовность обратиться за помощью, когда с ребенком станет трудно.</segment>
+		<segment id="122" parent="121" relname="evaluation">Это и есть основная профилактика неблагополучной истории приемного родительства.</segment>
+		<segment id="123" parent="124" relname="condition">Если тех, кто проводит подготовку, обяжут проводить тестирование,</segment>
+		<segment id="124" parent="249" relname="span">отношения с кандидатами изменятся необратимо.</segment>
+		<segment id="125" parent="227" relname="span">Психологи службы устройства превратятся для них из помогающих специалистов в контролеров.</segment>
+		<segment id="126" parent="127" relname="cause">Это снизит в разы обращение за помощью,</segment>
+		<segment id="127" parent="279" relname="span">и, соответственно, в разы повысит риски возврата ребенка иди жестокого обращения с ним со стороны «дошедшего до ручки» родителя.</segment>
+		<segment id="128" parent="230" relname="span">##### Наконец, кто и как считал экономику этого нововведения?</segment>
+		<segment id="129" parent="128" relname="elaboration">Сколько это будет стоить?</segment>
+		<segment id="130" parent="250" relname="span">И не лучше ли эти средства использовать</segment>
+		<segment id="131" parent="130" relname="purpose">для развития служб сопровождения,</segment>
+		<segment id="132" parent="250" relname="purpose">для того, чтобы везде, а не только в городах-миллионниках были неформальные, полезные ШПР?</segment>
+		<segment id="133" parent="233" relname="comparison">40 часов неформального общения в тренинговой группе – что такого могут показать тесты,</segment>
+		<segment id="134" parent="233" relname="comparison">что не будет и так видно на нормальной ШПР?</segment>
+		<segment id="135" parent="243" relname="joint">И не лучше ли сделать наконец грамотную процедуру оценки совместно с кандидатов рисков и ресурсов его приемного родительства?</segment>
+		<segment id="136" parent="235" relname="joint">##### И главное – кто и как считал, сколько детей могут в результате остаться в детских домах?</segment>
+		<segment id="137" parent="236" relname="span">##### SWOT-анализ делался?</segment>
+		<segment id="138" parent="137" relname="elaboration">Где он опубликован?</segment>
+		<segment id="139" parent="281" relname="span">##### Речь идет о судьбах семей и судьбах детей.</segment>
+		<segment id="140" parent="139" relname="evaluation">Все это выглядит совершенно непродуманной и безответственной затеей.</segment>
+		<segment id="141" parent="142" relname="evaluation">##### Да, проблем много,</segment>
+		<segment id="142" parent="237" relname="span">мы сейчас пожинаем плоды кампанейщины, которой сопровождалось сначала массовое создание приемных семей, без подготовки и сопровождения, а потом семейное устройство напоказ после закона Димы Яковлева.</segment>
+		<segment id="143" parent="239" relname="span">Мы пожинаем плоды непродуманной политики финансового стимулирования и непродуманной законодательной базы.</segment>
+		<segment id="144" parent="143" relname="elaboration">Плоды того, что все эти годы так и не развивались системным образом ни нормальные технологии сопровождения принимающих семей, ни подготовка помогающих специалистов.</segment>
+		<segment id="145" parent="146" relname="solutionhood">##### Вы хотите еще одного простого решения?</segment>
+		<segment id="146" parent="241" relname="span">##### Я прошу коллег, прежде всего юристов и психологов, а также приемных родителей активно высказаться по поводу идеи с тестированием в прессе и собственно на странице обсуждения законопроекта (ссылка в начале статьи).</segment>
+		<segment id="147" parent="148" relname="purpose">##### Для публикации этого текста</segment>
+		<segment id="148" parent="240" relname="span">спрашивать разрешения не нужно.</segment>
+		<group id="149" type="span" parent="151" relname="span"/>
+		<group id="150" type="multinuc" parent="149" relname="elaboration"/>
+		<group id="151" type="span" parent="7" relname="solutionhood"/>
+		<group id="152" type="span" parent="10" relname="solutionhood"/>
+		<group id="153" type="span" parent="262" relname="cause"/>
+		<group id="154" type="multinuc" parent="156" relname="span"/>
+		<group id="155" type="span" parent="154" relname="joint"/>
+		<group id="156" type="span" parent="13" relname="evidence"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" parent="22" relname="elaboration"/>
+		<group id="159" type="span" parent="264" relname="joint"/>
+		<group id="160" type="span" parent="264" relname="joint"/>
+		<group id="161" type="span" parent="263" relname="contrast"/>
+		<group id="162" type="multinuc" parent="170" relname="joint"/>
+		<group id="163" type="span" parent="171" relname="preparation"/>
+		<group id="164" type="multinuc" parent="165" relname="joint"/>
+		<group id="165" type="multinuc" parent="170" relname="joint"/>
+		<group id="166" type="multinuc" parent="165" relname="joint"/>
+		<group id="167" type="span" parent="35" relname="elaboration"/>
+		<group id="168" type="span" parent="267" relname="elaboration"/>
+		<group id="169" type="span" parent="171" relname="span"/>
+		<group id="170" type="multinuc" parent="169" relname="solutionhood"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="266" relname="joint"/>
+		<group id="173" type="multinuc" parent="44" relname="evaluation"/>
+		<group id="174" type="span" parent="175" relname="same-unit"/>
+		<group id="175" type="multinuc" parent="259" relname="span"/>
+		<group id="176" type="span" parent="182" relname="solutionhood"/>
+		<group id="177" type="span" parent="178" relname="contrast"/>
+		<group id="178" type="multinuc" parent="182" relname="contrast"/>
+		<group id="179" type="multinuc" parent="181" relname="span"/>
+		<group id="180" type="span" parent="179" relname="elaboration"/>
+		<group id="181" type="span" parent="182" relname="contrast"/>
+		<group id="182" type="multinuc" parent="186" relname="span"/>
+		<group id="183" type="span" parent="40" relname="elaboration"/>
+		<group id="184" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="185" type="span" parent="266" relname="joint"/>
+		<group id="186" type="span" parent="268" relname="elaboration"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="188" type="multinuc" parent="199" relname="solutionhood"/>
+		<group id="189" type="span" parent="191" relname="joint"/>
+		<group id="190" type="span" parent="197" relname="span"/>
+		<group id="191" type="multinuc" parent="198" relname="contrast"/>
+		<group id="192" type="span" parent="193" relname="same-unit"/>
+		<group id="193" type="multinuc" parent="269" relname="joint"/>
+		<group id="194" type="multinuc" parent="190" relname="elaboration"/>
+		<group id="195" type="multinuc" parent="269" relname="joint"/>
+		<group id="196" type="multinuc" parent="271" relname="span"/>
+		<group id="197" type="span" parent="191" relname="joint"/>
+		<group id="198" type="multinuc" parent="63" relname="cause"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="266" relname="joint"/>
+		<group id="202" type="span" parent="79" relname="cause"/>
+		<group id="203" type="span" parent="204" relname="span"/>
+		<group id="204" type="span" parent="205" relname="contrast"/>
+		<group id="205" type="multinuc" parent="253" relname="solutionhood"/>
+		<group id="206" type="multinuc" parent="208" relname="joint"/>
+		<group id="207" type="multinuc" parent="208" relname="joint"/>
+		<group id="208" type="multinuc" parent="256" relname="span"/>
+		<group id="209" type="multinuc" parent="92" relname="elaboration"/>
+		<group id="210" type="span" parent="209" relname="joint"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="212" type="multinuc" parent="216" relname="elaboration"/>
+		<group id="213" type="multinuc" parent="214" relname="contrast"/>
+		<group id="214" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="215" type="span" parent="218" relname="elaboration"/>
+		<group id="216" type="multinuc" parent="218" relname="span"/>
+		<group id="217" type="span" parent="205" relname="contrast"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" />
+		<group id="220" type="span" parent="221" relname="contrast"/>
+		<group id="221" type="multinuc" parent="228" relname="preparation"/>
+		<group id="222" type="multinuc" parent="228" relname="span"/>
+		<group id="223" type="span" parent="221" relname="contrast"/>
+		<group id="224" type="multinuc" parent="119" relname="purpose"/>
+		<group id="225" type="span" parent="224" relname="contrast"/>
+		<group id="226" type="span" parent="261" relname="elaboration"/>
+		<group id="227" type="span" parent="279" relname="cause"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" />
+		<group id="230" type="span" parent="232" relname="contrast"/>
+		<group id="231" type="span" parent="234" relname="span"/>
+		<group id="232" type="multinuc" parent="243" relname="joint"/>
+		<group id="233" type="multinuc" parent="231" relname="elaboration"/>
+		<group id="234" type="span" parent="232" relname="contrast"/>
+		<group id="235" type="multinuc" parent="243" relname="joint"/>
+		<group id="236" type="span" parent="235" relname="joint"/>
+		<group id="237" type="span" parent="238" relname="joint"/>
+		<group id="238" type="multinuc" parent="241" relname="background"/>
+		<group id="239" type="span" parent="238" relname="joint"/>
+		<group id="240" type="span" />
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="244" relname="span"/>
+		<group id="243" type="multinuc" parent="280" relname="span"/>
+		<group id="244" type="span" />
+		<group id="245" type="span" />
+		<group id="246" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="247" type="span" parent="246" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="212" relname="joint"/>
+		<group id="249" type="span" parent="125" relname="cause"/>
+		<group id="250" type="span" parent="231" relname="span"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="252" type="span" parent="255" relname="span"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="272" relname="span"/>
+		<group id="255" type="span" parent="253" relname="span"/>
+		<group id="256" type="span" parent="82" relname="elaboration"/>
+		<group id="257" type="span" parent="222" relname="joint"/>
+		<group id="258" type="span" parent="175" relname="evaluation"/>
+		<group id="259" type="span" parent="176" relname="span"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" parent="277" relname="span"/>
+		<group id="262" type="span" parent="161" relname="span"/>
+		<group id="263" type="multinuc" parent="266" relname="joint"/>
+		<group id="264" type="multinuc" parent="263" relname="contrast"/>
+		<group id="265" type="span" parent="154" relname="elaboration"/>
+		<group id="266" type="multinuc" />
+		<group id="267" type="span" parent="167" relname="span"/>
+		<group id="268" type="span" parent="183" relname="span"/>
+		<group id="269" type="multinuc" parent="194" relname="contrast"/>
+		<group id="270" type="span" parent="196" relname="same-unit"/>
+		<group id="271" type="span" parent="198" relname="contrast"/>
+		<group id="272" type="span" parent="266" relname="joint"/>
+		<group id="273" type="span" parent="255" relname="evaluation"/>
+		<group id="274" type="multinuc" parent="276" relname="span"/>
+		<group id="275" type="multinuc" parent="274" relname="condition"/>
+		<group id="276" type="span" parent="214" relname="contrast"/>
+		<group id="277" type="span" parent="117" relname="elaboration"/>
+		<group id="278" type="span" />
+		<group id="279" type="span" parent="226" relname="span"/>
+		<group id="280" type="span" parent="242" relname="solutionhood"/>
+		<group id="281" type="span" parent="243" relname="elaboration"/>
+		<group id="282" type="span" parent="19" relname="condition"/>
+	</body>
+</rst>

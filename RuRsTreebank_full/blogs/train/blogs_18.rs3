@@ -1,0 +1,348 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://my-first-time.livejournal.com/565289.html</segment>
+		<segment id="2" >##### Мой первый раз, когда я выбила "бесплатное" медобслуживание по полису ОМС</segment>
+		<segment id="3" parent="180" relname="preparation">##### Сил нет, как надоела "бесплатная" медицина.</segment>
+		<segment id="4" parent="173" relname="span">"Бесплатная" в кавычках,</segment>
+		<segment id="5" parent="175" relname="span">т.к. все знают, что ничего бесплатного в этом мире не бывает</segment>
+		<segment id="6" parent="174" relname="comparison">- в СССР был ЕСН (Единый социальный налог) в размере 27% от фонда заработной платы,</segment>
+		<segment id="7" parent="176" relname="span">сейчас - в гораздо большем размере различные "взносы" в ФОМС, ФСС и ПФ,</segment>
+		<segment id="8" parent="177" relname="span">которые почему-то убраны из числа налогов</segment>
+		<segment id="9" parent="10" relname="attribution">(наверное, чтоб кричать на каждом углу,</segment>
+		<segment id="10" parent="294" relname="span">что у нас в стране одни из самых низких налогов в мире),</segment>
+		<segment id="11" parent="179" relname="restatement">но являются обязательными платежами,</segment>
+		<segment id="12" parent="179" relname="restatement">то есть по сути - те же скрытые налоги.</segment>
+		<segment id="13" parent="182" relname="preparation">##### У каждого из нас есть страховой полис, в котором указана конкретная страховая компания.</segment>
+		<segment id="14" parent="182" relname="span">Люди, мы с вами ЗАСТРАХОВАНЫ!</segment>
+		<segment id="15" parent="183" relname="span">Мы ходим в наши "бесплатные" больницы ПО СТРАХОВКАМ!</segment>
+		<segment id="16" parent="184" relname="contrast">И по этим страховкам нам положено медицинское обслуживание, которое должна оплачивать страховая компания!</segment>
+		<segment id="17" parent="184" relname="contrast">А не мы с вами из своего кармана.</segment>
+		<segment id="18" parent="295" relname="span">Мы уже из своей зарплаты все-все-все оплатили</segment>
+		<segment id="19" parent="296" relname="contrast">(ну кроме эстетической стоматологии, косметологии и некоторых других моментов,</segment>
+		<segment id="20" parent="296" relname="contrast">но я ведь не об этом).</segment>
+		<segment id="21" parent="186" relname="evaluation">##### Господи, когда же это дойдет до наших врачей???</segment>
+		<segment id="22" parent="23" relname="cause">##### Кате скоро рожать,</segment>
+		<segment id="23" parent="187" relname="span">и она, как путняя, ходит по врачам.</segment>
+		<segment id="24" parent="298" relname="span">##### Как и мне 22 года назад, ей поставили аритмию.</segment>
+		<segment id="25" parent="188" relname="span">Только на мою аритмию забили,</segment>
+		<segment id="26" parent="192" relname="span">потому что в то время кроме допотопного УЗИ-аппарата, ничего не было</segment>
+		<segment id="27" parent="297" relname="joint">(врач что-то посмотрел там,</segment>
+		<segment id="28" parent="190" relname="attribution">сказал</segment>
+		<segment id="29" parent="189" relname="contrast">"Сердце есть,</segment>
+		<segment id="30" parent="189" relname="contrast">но маленькое",</segment>
+		<segment id="31" parent="189" relname="evaluation">больше нчего не вижу),</segment>
+		<segment id="32" parent="299" relname="span">а на Катину не забили,</segment>
+		<segment id="33" parent="32" relname="cause">потому что счас же можно ее отправить куда-нибудь плаааааааааааатно!</segment>
+		<segment id="34" parent="194" relname="contrast">Ну и, естественно, сразу дали кучу направлений - на УЗИ сердца, на аппаратик, который надо привесить и с ним ходить,</segment>
+		<segment id="35" parent="194" relname="contrast">и даже не подумали предложить каких-то бесплатных вариантов.</segment>
+		<segment id="36" parent="196" relname="same-unit">Ну, типа, девушка,</segment>
+		<segment id="37" parent="38" relname="condition">если вам бесплатно,</segment>
+		<segment id="38" parent="195" relname="span">то попробуйте записаться туда и туда,</segment>
+		<segment id="39" parent="40" relname="condition">а есди хотите,</segment>
+		<segment id="40" parent="197" relname="span">можете платно.</segment>
+		<segment id="41" parent="199" relname="span">Неа. Срзу - иди в НГМЦ,</segment>
+		<segment id="42" parent="41" relname="elaboration">за эту процедуру с тебя столько, за эту - столько</segment>
+		<segment id="43" parent="199" relname="evaluation">(они там что, на откатах все сидят, мне очень интересно?).</segment>
+		<segment id="44" parent="202" relname="span">##### Я зла.</segment>
+		<segment id="45" parent="44" relname="elaboration">Я очень зла.</segment>
+		<segment id="46" parent="203" relname="joint">##### Я сама в жизни не могла попасть к нашим врачам - ни платно, ни бесплатно,</segment>
+		<segment id="47" parent="203" relname="joint">самый надежный шанс - деньги на руки.</segment>
+		<segment id="48" parent="203" relname="evaluation">Но заколебало же!</segment>
+		<segment id="49" parent="208" relname="span">##### Во-первых, я позвонила в саму страховую компанию,</segment>
+		<segment id="50" parent="49" relname="purpose">чтоб уточнить, положены ли по данной страховке такие обследования.</segment>
+		<segment id="51" parent="215" relname="span">Каждая страховка включает в себя определенный список услуг,</segment>
+		<segment id="52" parent="209" relname="contrast">конечно, не мешало бы их где-то иметь полным списком,</segment>
+		<segment id="53" parent="212" relname="span">но это закрытая информация,</segment>
+		<segment id="54" parent="211" relname="span">поэтому никогда не лишним бывает уточнить прямо в страховой,</segment>
+		<segment id="55" parent="210" relname="span">там спросят ФИО и номер страховки,</segment>
+		<segment id="56" parent="213" relname="attribution">чтоб сказать вам,</segment>
+		<segment id="57" parent="276" relname="restatement">можете ли вы получить данную медицинскую услугу о страховке</segment>
+		<segment id="58" parent="276" relname="restatement">(то есть бесплатно для вас),</segment>
+		<segment id="59" parent="214" relname="joint">или страховка не обеспечивает вам данного вида медуслуг,</segment>
+		<segment id="60" parent="214" relname="joint">и вы должны платить из своего кармана.</segment>
+		<segment id="61" parent="302" relname="sequence">##### Меня обо всей ситуации подробно расспросили,</segment>
+		<segment id="62" parent="302" relname="sequence">перенаправили на телефон врача-эксперта данной страховой компании,</segment>
+		<segment id="63" parent="303" relname="attribution">врач-эксперт подтвердил,</segment>
+		<segment id="64" parent="303" relname="span">что по направлению врача обследование сердца должно быть бесплатным,</segment>
+		<segment id="65" parent="64" relname="elaboration">а уж беременным - тем более.</segment>
+		<segment id="66" parent="219" relname="span">Тогда я позвонила в отдел по защите прав застрахованных,</segment>
+		<segment id="67" parent="218" relname="span">чтоб узнать, что делать,</segment>
+		<segment id="68" parent="69" relname="attribution">если страховая утверждает,</segment>
+		<segment id="69" parent="282" relname="span">что обследование можно пройти бесплатно,</segment>
+		<segment id="70" parent="305" relname="attribution">а больница утверждает</segment>
+		<segment id="71" parent="305" relname="joint">- что можно только платно,</segment>
+		<segment id="72" parent="305" relname="joint">и других вариантов нет.</segment>
+		<segment id="73" parent="306" relname="span">Узнала много нового для себя.</segment>
+		<segment id="74" parent="231" relname="preparation">##### Итак, как лечиться бесплатно по полису ОМС</segment>
+		<segment id="75" parent="279" relname="attribution">##### Когда человек в белом халате утверждает вам,</segment>
+		<segment id="76" parent="279" relname="contrast">что "вот это вы можете пройти бесплатно,</segment>
+		<segment id="77" parent="279" relname="contrast">а вот это у нас только платно",</segment>
+		<segment id="78" parent="290" relname="span">первое, что вы должны уточнить, вот прямо дословно, записывайте:</segment>
+		<segment id="79" parent="220" relname="joint">"Это моя страховка не покрывает данный вид услуг,</segment>
+		<segment id="80" parent="221" relname="contrast">или я эти услуги бесплатно не могу получить в ВАШЕЙ больнице,</segment>
+		<segment id="81" parent="221" relname="contrast">но могу - в какой-нибудь другой?"</segment>
+		<segment id="82" parent="222" relname="joint">##### Если доктор начинает краснет,</segment>
+		<segment id="83" parent="222" relname="joint">бледнеть</segment>
+		<segment id="84" parent="222" relname="joint">и покрываться разноцветными пятнами,</segment>
+		<segment id="85" parent="223" relname="contrast">но так ничего и не пояснит,</segment>
+		<segment id="86" parent="224" relname="joint">то не теряйте времени,</segment>
+		<segment id="87" parent="225" relname="span">звоните в свою страховую компанию</segment>
+		<segment id="88" parent="87" relname="elaboration">(телефон записан прямо на вашем страховом свидетельстве).</segment>
+		<segment id="89" parent="227" relname="span">Не стесняйтесь,</segment>
+		<segment id="90" parent="277" relname="span">в этом нет ничего страшного,</segment>
+		<segment id="91" parent="229" relname="span">вы же как-то разбираетесь со страховщиками,</segment>
+		<segment id="92" parent="91" relname="condition">когда побьете машину?</segment>
+		<segment id="93" parent="230" relname="contrast">А ваше здоровье гораздо дороже машин.</segment>
+		<segment id="94" parent="280" relname="joint">Итак, звоните</segment>
+		<segment id="95" parent="280" relname="joint">и говорите:</segment>
+		<segment id="96" parent="292" relname="joint">"Здравствуйте, я ваш застрахованный,</segment>
+		<segment id="97" parent="308" relname="joint">врач рекомендует мне вот такое обследование,</segment>
+		<segment id="98" parent="308" relname="joint">могу ли я его получить бесплатно по страховке, или нет?"</segment>
+		<segment id="99" parent="100" relname="attribution">##### У вас уточнят</segment>
+		<segment id="100" parent="284" relname="span">город, ФИО, номер страхового полиса</segment>
+		<segment id="101" parent="102" relname="attribution">и возможно попросят</segment>
+		<segment id="102" parent="285" relname="span">перезвонить врачу-эксперту.</segment>
+		<segment id="103" parent="234" relname="span">Врач-эксперт просто отследит логическую цепочку,</segment>
+		<segment id="104" parent="235" relname="span">а правильной она считается в таком случае:</segment>
+		<segment id="105" parent="237" relname="span">терапевт посылает вас к специалисту, специалист - на обследование по своей области.</segment>
+		<segment id="106" parent="236" relname="contrast">То есть на УЗИ вен вас может отправить хирург, на УЗИ сердца - кардиолог,</segment>
+		<segment id="107" parent="236" relname="contrast">а терапевт - не может.</segment>
+		<segment id="108" parent="238" relname="span">Не оплачиваются обследования типа</segment>
+		<segment id="109" parent="108" relname="elaboration">"а давайте мне все проверим на всякий случай",</segment>
+		<segment id="110" parent="239" relname="contrast">оплачиваются с подозрениями на диагноз.</segment>
+		<segment id="111" parent="239" relname="evaluation">Это очевидно, надеюсь, да?</segment>
+		<segment id="112" parent="242" relname="span">##### Но вот беда - ЗА НАШ С ВАМИ СЧЕТ врачи очень любят проверять все на всякий случай,</segment>
+		<segment id="113" parent="241" relname="joint">т.к. подрабатывают в платных медицинских центрах,</segment>
+		<segment id="114" parent="241" relname="joint">и им там идет %% к зарплате от того, что вы занесли в кассу.</segment>
+		<segment id="115" parent="243" relname="joint">Именно поэтому они так любят нам ставить смертельные диагнозы</segment>
+		<segment id="116" parent="244" relname="span">и сразу отправлять проверитьвсе сразу</segment>
+		<segment id="117" parent="116" relname="elaboration">- и то, и то, и это, а давайте еще и это посмотрим.</segment>
+		<segment id="118" parent="247" relname="span">Со страховыми этот номер не проходит</segment>
+		<segment id="119" parent="118" relname="elaboration">(страховщики проводят аудит оплаченных обследований),</segment>
+		<segment id="120" parent="248" relname="joint">поэтому диагнозы моментально становятся не такими уж смертельными,</segment>
+		<segment id="121" parent="248" relname="joint">а список рекомендуемых обследований не таким уж и большим и страшным.</segment>
+		<segment id="122" parent="252" relname="preparation">##### ВЫВОД:</segment>
+		<segment id="123" parent="124" relname="condition">если в больнице вам настоятельно рекомендуют обследоваться,</segment>
+		<segment id="124" parent="251" relname="span">то не имеют права отправлять сразу в платные центры (к себе же, чаще всего).</segment>
+		<segment id="125" parent="253" relname="span">ВРАЧ ОБЯЗАН ДАТЬ НАПРАВЛЕНИЕ НА ОБСЛЕДОВАНИЕ,</segment>
+		<segment id="126" parent="311" relname="same-unit">по которому вы сможете записаться</segment>
+		<segment id="127" parent="310" relname="joint">либо в ту больницу, к которой прикреплены,</segment>
+		<segment id="128" parent="309" relname="span">либо в другую, где тоже данные медицинские услуги оказываются,</segment>
+		<segment id="129" parent="128" relname="condition">если в своей это сделать по каким-то причинам невозможно.</segment>
+		<segment id="130" parent="259" relname="preparation">##### Срок ожидания обследования/талончика должен быть реальным, но не более одного месяца.</segment>
+		<segment id="131" parent="256" relname="attribution">##### Если вам говорят,</segment>
+		<segment id="132" parent="254" relname="joint">что "у нас это только платно"</segment>
+		<segment id="133" parent="254" relname="joint">(при том, что ваша страховая не отказывает вам в оплате данных услуг)</segment>
+		<segment id="134" parent="255" relname="span">или "ой, да у нас тут люди талончика по три месяца ждут,</segment>
+		<segment id="135" parent="134" relname="cause">потому что дают только десять талончиков в месяц" (с, зав терапией НГЦБ),</segment>
+		<segment id="136" parent="257" relname="span">то идите к заведующему отделением или к главврачу с жалобой,</segment>
+		<segment id="137" parent="136" relname="elaboration">что вам отказывают в бесплатной услуге в положенный срок.</segment>
+		<segment id="138" parent="258" relname="elaboration">Заявление, как обычно, пишите в двух экземплярах, один экземпляр - больнице, второй - с отметкой о получении - вам.</segment>
+		<segment id="139" parent="293" relname="joint">##### Дальше вы снова звоните в страховую,</segment>
+		<segment id="140" parent="293" relname="joint">и уточняете, в каких больницах можете по данному направлению пройти необходимое обследование.</segment>
+		<segment id="141" parent="261" relname="sequence">Обследуетесь.</segment>
+		<segment id="142" parent="143" relname="condition">При необходимости</segment>
+		<segment id="143" parent="260" relname="span">- лечитесь</segment>
+		<segment id="144" parent="261" relname="sequence">и благополучно выздоравливаете.</segment>
+		<segment id="145" parent="261" relname="evaluation">##### Аминь.</segment>
+		<segment id="146" parent="263" relname="span">##### Жалобу об отказе с отметкой о получении направляете в свою страховую</segment>
+		<segment id="147" parent="146" relname="elaboration">(адрес тоже указан прямо на свидетельстве),</segment>
+		<segment id="148" parent="267" relname="span">чтобы они с этой проблемой разобрались</segment>
+		<segment id="149" parent="265" relname="joint">(вы-то обследовались</segment>
+		<segment id="150" parent="265" relname="joint">и вылечились</segment>
+		<segment id="151" parent="266" relname="span">- самое время менять мир к лучшему),</segment>
+		<segment id="152" parent="268" relname="span">и в вашей больнице вдруг тоже появились бы свободные талончики к нужным специалистам, врачи-не рвачи, ремонт в отделениях и чистые туалеты.</segment>
+		<segment id="153" parent="318" relname="span">##### Но вообще, по секрету, до письменной жалобы дело, скорее всего, не дойдет.</segment>
+		<segment id="154" parent="287" relname="condition">Как только я произнесла, что позвонила в свою сраховую,</segment>
+		<segment id="155" parent="269" relname="attribution">они мне сказали,</segment>
+		<segment id="156" parent="269" relname="joint">что все эти услуги, которые они предлагают, по моей страховке - бесплатны,</segment>
+		<segment id="157" parent="269" relname="joint">что срок ожидания - месяц,</segment>
+		<segment id="158" parent="312" relname="joint">и вообще я собираюсь писать на них жалобу,</segment>
+		<segment id="159" parent="270" relname="joint">как самым чудесным образом многокилометровая пробка очередь из глубокобеременных на УЗИ сердца рассосалась,</segment>
+		<segment id="160" parent="288" relname="attribution">нашей Кате сказали,</segment>
+		<segment id="161" parent="288" relname="span">что все решат,</segment>
+		<segment id="162" parent="271" relname="span">будут ей бесплатные талончики,</segment>
+		<segment id="163" parent="272" relname="contrast">"не так уж много у нас беременных с проблемами сердца" (с),</segment>
+		<segment id="164" parent="272" relname="contrast">только "успокойте свою свекровь".</segment>
+		<segment id="165" parent="274" relname="span">##### А я, между прочим, совершенно спокойна</segment>
+		<segment id="166" parent="322" relname="background">у меня ж все нужные телефоны записаны,</segment>
+		<segment id="167" parent="321" relname="joint">я знаю, куда бежать,</segment>
+		<segment id="168" parent="321" relname="joint">и что делать,</segment>
+		<segment id="169" parent="273" relname="attribution">если вдруг кое-кто забудет,</segment>
+		<segment id="170" parent="273" relname="contrast">что медицина у нас вовсе не бесплатная,</segment>
+		<segment id="171" parent="273" relname="contrast">а очень даже страховая.</segment>
+		<segment id="172" >##### Здоровья всем!</segment>
+		<group id="173" type="span" parent="180" relname="span"/>
+		<group id="174" type="multinuc" parent="5" relname="elaboration"/>
+		<group id="175" type="span" parent="4" relname="cause"/>
+		<group id="176" type="span" parent="174" relname="comparison"/>
+		<group id="177" type="span" parent="178" relname="contrast"/>
+		<group id="178" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="179" type="multinuc" parent="178" relname="contrast"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" />
+		<group id="182" type="span" parent="186" relname="span"/>
+		<group id="183" type="span" parent="14" relname="elaboration"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="185" type="span" parent="15" relname="elaboration"/>
+		<group id="186" type="span" />
+		<group id="187" type="span" parent="298" relname="preparation"/>
+		<group id="188" type="span" parent="193" relname="contrast"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="297" relname="joint"/>
+		<group id="192" type="span" parent="25" relname="cause"/>
+		<group id="193" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="194" type="multinuc" parent="201" relname="preparation"/>
+		<group id="195" type="span" parent="196" relname="same-unit"/>
+		<group id="196" type="multinuc" parent="198" relname="contrast"/>
+		<group id="197" type="span" parent="198" relname="contrast"/>
+		<group id="198" type="multinuc" parent="200" relname="solutionhood"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="205" relname="span"/>
+		<group id="202" type="span" parent="204" relname="span"/>
+		<group id="203" type="multinuc" parent="206" relname="span"/>
+		<group id="204" type="span" parent="205" relname="evaluation"/>
+		<group id="205" type="span" parent="207" relname="span"/>
+		<group id="206" type="span" parent="202" relname="background"/>
+		<group id="207" type="span" />
+		<group id="208" type="span" parent="215" relname="preparation"/>
+		<group id="209" type="multinuc" parent="51" relname="concession"/>
+		<group id="210" type="span" parent="54" relname="elaboration"/>
+		<group id="211" type="span" parent="53" relname="cause"/>
+		<group id="212" type="span" parent="209" relname="contrast"/>
+		<group id="213" type="multinuc" parent="281" relname="span"/>
+		<group id="214" type="multinuc" parent="213" relname="contrast"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" />
+		<group id="217" type="multinuc" parent="67" relname="condition"/>
+		<group id="218" type="span" parent="66" relname="purpose"/>
+		<group id="219" type="span" parent="73" relname="cause"/>
+		<group id="220" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="221" type="multinuc" parent="220" relname="joint"/>
+		<group id="222" type="multinuc" parent="223" relname="contrast"/>
+		<group id="223" type="multinuc" parent="224" relname="condition"/>
+		<group id="224" type="multinuc" parent="226" relname="span"/>
+		<group id="225" type="span" parent="228" relname="span"/>
+		<group id="226" type="span" parent="231" relname="sequence"/>
+		<group id="227" type="span" parent="225" relname="evaluation"/>
+		<group id="228" type="span" parent="224" relname="joint"/>
+		<group id="229" type="span" parent="90" relname="elaboration"/>
+		<group id="230" type="multinuc" parent="89" relname="evaluation"/>
+		<group id="231" type="multinuc" parent="232" relname="span"/>
+		<group id="232" type="span" />
+		<group id="233" type="multinuc" parent="234" relname="preparation"/>
+		<group id="234" type="span" parent="316" relname="span"/>
+		<group id="235" type="span" parent="103" relname="evaluation"/>
+		<group id="236" type="multinuc" parent="245" relname="span"/>
+		<group id="237" type="span" parent="104" relname="condition"/>
+		<group id="238" type="span" parent="239" relname="contrast"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="236" relname="elaboration"/>
+		<group id="241" type="multinuc" parent="112" relname="cause"/>
+		<group id="242" type="span" parent="243" relname="cause"/>
+		<group id="243" type="multinuc" parent="246" relname="span"/>
+		<group id="244" type="span" parent="243" relname="joint"/>
+		<group id="245" type="span" parent="105" relname="elaboration"/>
+		<group id="246" type="span" parent="250" relname="contrast"/>
+		<group id="247" type="span" parent="248" relname="cause"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="249" type="span" parent="250" relname="contrast"/>
+		<group id="250" type="multinuc" />
+		<group id="251" type="span" parent="252" relname="contrast"/>
+		<group id="252" type="multinuc" parent="317" relname="span"/>
+		<group id="253" type="span" parent="252" relname="contrast"/>
+		<group id="254" type="multinuc" parent="256" relname="joint"/>
+		<group id="255" type="span" parent="256" relname="joint"/>
+		<group id="256" type="multinuc" parent="286" relname="span"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="259" relname="span"/>
+		<group id="259" type="span" />
+		<group id="260" type="span" parent="261" relname="sequence"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" />
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="152" relname="cause"/>
+		<group id="265" type="multinuc" parent="151" relname="cause"/>
+		<group id="266" type="span" parent="148" relname="evaluation"/>
+		<group id="267" type="span" parent="263" relname="purpose"/>
+		<group id="268" type="span" />
+		<group id="269" type="multinuc" parent="287" relname="span"/>
+		<group id="270" type="multinuc" parent="275" relname="contrast"/>
+		<group id="271" type="span" parent="161" relname="elaboration"/>
+		<group id="272" type="multinuc" parent="162" relname="elaboration"/>
+		<group id="273" type="multinuc" parent="319" relname="span"/>
+		<group id="274" type="span" />
+		<group id="275" type="multinuc" parent="153" relname="evidence"/>
+		<group id="276" type="multinuc" parent="213" relname="contrast"/>
+		<group id="277" type="span" parent="230" relname="contrast"/>
+		<group id="279" type="multinuc" parent="283" relname="span"/>
+		<group id="280" type="multinuc" parent="292" relname="attribution"/>
+		<group id="281" type="span" parent="55" relname="purpose"/>
+		<group id="282" type="span" parent="217" relname="contrast"/>
+		<group id="283" type="span" parent="290" relname="condition"/>
+		<group id="284" type="span" parent="233" relname="joint"/>
+		<group id="285" type="span" parent="233" relname="joint"/>
+		<group id="286" type="span" parent="257" relname="condition"/>
+		<group id="287" type="span" parent="313" relname="span"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="270" relname="joint"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" parent="231" relname="sequence"/>
+		<group id="292" type="multinuc" parent="307" relname="span"/>
+		<group id="293" type="multinuc" parent="261" relname="sequence"/>
+		<group id="294" type="span" parent="8" relname="purpose"/>
+		<group id="295" type="span" parent="184" relname="elaboration"/>
+		<group id="296" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="297" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="298" type="span" parent="300" relname="span"/>
+		<group id="299" type="span" parent="193" relname="contrast"/>
+		<group id="300" type="span" />
+		<group id="301" type="span" parent="302" relname="sequence"/>
+		<group id="302" type="multinuc" />
+		<group id="303" type="span" parent="301" relname="span"/>
+		<group id="304" type="span" parent="217" relname="contrast"/>
+		<group id="305" type="multinuc" parent="304" relname="span"/>
+		<group id="306" type="span" parent="302" relname="sequence"/>
+		<group id="307" type="span" parent="231" relname="sequence"/>
+		<group id="308" type="multinuc" parent="292" relname="joint"/>
+		<group id="309" type="span" parent="310" relname="joint"/>
+		<group id="310" type="multinuc" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="125" relname="elaboration"/>
+		<group id="312" type="multinuc" parent="275" relname="contrast"/>
+		<group id="313" type="span" parent="312" relname="joint"/>
+		<group id="316" type="span" />
+		<group id="317" type="span" />
+		<group id="318" type="span" />
+		<group id="319" type="span" parent="321" relname="condition"/>
+		<group id="321" type="multinuc" parent="322" relname="span"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="165" relname="cause"/>
+	</body>
+</rst>

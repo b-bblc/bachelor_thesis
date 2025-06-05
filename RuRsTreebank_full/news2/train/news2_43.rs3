@@ -1,0 +1,402 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Борьба с терроризмом требует от ЕС усиления безопасности на границе и интеграции беженцев</segment>
+		<segment id="2" parent="186" relname="attribution">##### Французская прокуратура объявила</segment>
+		<segment id="3" parent="186" relname="span">о ликвидации предполагаемого организатора терактов в Париже Абдельхамида Абауда (Abdel-Hamid Abu Oud) в ходе спецоперации,</segment>
+		<segment id="4" parent="3" relname="background">прошедшей в районе Сен-Дени 18 ноября 2015 года.</segment>
+		<segment id="5" parent="189" relname="attribution">##### По словам министра внутренних дел страны Бернара Казнева (Bernard Cazeneuve),</segment>
+		<segment id="6" parent="188" relname="joint">член экстремистской группировки "Исламское государство" (ИГ) сыграл решающую роль в террористических атаках в Париже 13 ноября,</segment>
+		<segment id="7" parent="188" relname="joint">а также был причастен к четырем из шести предотвращенных терактов.</segment>
+		<segment id="8" parent="191" relname="span">##### Вместе с тем ситуация во Франции остается напряженной</segment>
+		<segment id="9" parent="8" relname="elaboration">― в стране продолжает действовать режим чрезвычайного положения.</segment>
+		<segment id="10" parent="193" relname="attribution">##### По мнению премьер-министра Мануэля Вальса (Manuel Valls),</segment>
+		<segment id="11" parent="193" relname="span">от организации взрывов и массовых расстрелов боевики могут перейти к более масштабным атакам</segment>
+		<segment id="12" parent="11" relname="condition">с использованием других видов оружия.</segment>
+		<segment id="13" parent="195" relname="span">##### "Мы не можем исключать никакие варианты.</segment>
+		<segment id="14" parent="13" relname="evaluation">Я говорю это со всей ответственностью.</segment>
+		<segment id="15" parent="197" relname="joint">Но мы осознаем</segment>
+		<segment id="16" parent="197" relname="joint">и держим в уме тот факт, что существует риск совершения терактов с применением химического или бактериологического оружия",</segment>
+		<segment id="17" parent="198" relname="attribution">― заявил политик на заседании Национальной ассамблеи Франции.</segment>
+		<segment id="18" parent="19" relname="condition">##### Комментируя трагические события в Париже,</segment>
+		<segment id="19" parent="202" relname="span">директор Исследовательского центра в области безопасности и разведки при Букингемском университете профессор Энтони Глис (Anthony Glees)</segment>
+		<segment id="20" parent="203" relname="span">сравнил их с терактом в редакции Charlie Hebdo.</segment>
+		<segment id="21" parent="204" relname="span">##### "Атаки в столице Франции схожи с нападением 7 января 2015 года,</segment>
+		<segment id="22" parent="21" relname="cause">поскольку и тогда, и сейчас центральное ядро боевиков поддерживалось широкой группировкой сообщников.</segment>
+		<segment id="23" parent="205" relname="span">В настоящее время проводится розыск террористов,</segment>
+		<segment id="24" parent="23" relname="background">которые, как предполагается, бежали в Германию и Бельгию.</segment>
+		<segment id="25" parent="206" relname="span">Время совершения этих скоординированных атак было тщательно просчитано,</segment>
+		<segment id="26" parent="25" relname="purpose">чтобы вызвать наибольшее замешательство.</segment>
+		<segment id="27" parent="366" relname="same-unit">Кроме того,</segment>
+		<segment id="28" parent="29" relname="attribution">мы предполагаем,</segment>
+		<segment id="29" parent="365" relname="span">что один из восьми боевиков с сирийским паспортом попал на территорию ЕС через Грецию, а остальные были французами.</segment>
+		<segment id="30" parent="207" relname="joint">По всей вероятности, они были завербованы ИГ,</segment>
+		<segment id="31" parent="207" relname="joint">вывезены в Сирию или Ирак,</segment>
+		<segment id="32" parent="208" relname="span">специально обучены</segment>
+		<segment id="33" parent="32" relname="purpose">для выполнения этих зверств</segment>
+		<segment id="34" parent="207" relname="joint">и возвращены в Париж.</segment>
+		<segment id="35" parent="209" relname="span">Ничто из этого не могло произойти</segment>
+		<segment id="36" parent="210" relname="joint">без тщательной координации и управления,</segment>
+		<segment id="37" parent="210" relname="joint">а также ясных и прямых линий связи между "коммандос" в Париже и тех, кому они подчинялись",</segment>
+		<segment id="38" parent="217" relname="attribution">― сказал он в интервью ИА "PenzaNews".</segment>
+		<segment id="39" parent="335" relname="same-unit">##### При этом</segment>
+		<segment id="40" parent="41" relname="attribution">эксперт не исключил</segment>
+		<segment id="41" parent="334" relname="span">потенциальную взаимосвязь произошедшего с миграционным кризисом в странах Евросоюза.</segment>
+		<segment id="42" parent="337" relname="span">##### "Решение Германии об открытии границ для желающих попасть в Европу беженцев из Северной Африки, стран Ближнего Востока и некоторых других государств без тщательного учета и досмотра в странах, граничащих с Шенгенской зоной, угрожает не только безопасности Германии, но и всех 28 государств ЕС",</segment>
+		<segment id="43" parent="42" relname="attribution">― отметил профессор.</segment>
+		<segment id="44" parent="45" relname="attribution">##### По его словам,</segment>
+		<segment id="45" parent="338" relname="span">произошедшая трагедия может повлечь за собой значительные политические последствия.</segment>
+		<segment id="46" parent="222" relname="same-unit">##### "Если будет доказано, что кто-то из членов этой джихадистской террористической группировки,</segment>
+		<segment id="47" parent="48" relname="cause">называя себя беженцем,</segment>
+		<segment id="48" parent="221" relname="span">был допущен в Германию без надлежащей регистрации,</segment>
+		<segment id="49" parent="225" relname="span">на мой взгляд, политическая позиция Ангелы Меркель (Angela Merkel) станет несостоятельной.</segment>
+		<segment id="50" parent="51" relname="attribution">Многие из ее сторонников уже полагают,</segment>
+		<segment id="51" parent="339" relname="span">что такая политика в отношении беженцев,</segment>
+		<segment id="52" parent="53" relname="cause">50% из которых являются экономическими мигрантами,</segment>
+		<segment id="53" parent="223" relname="span">обернулась катастрофой для Германии, Европы и НАТО.</segment>
+		<segment id="54" parent="55" relname="attribution">Я также считаю,</segment>
+		<segment id="55" parent="368" relname="span">что Франсуа Олланд (Francois Hollande) не будет переизбран на пост президента Франции после истечения срока своих полномочий", ― пояснил аналитик.</segment>
+		<segment id="56" parent="232" relname="attribution">##### По его мнению,</segment>
+		<segment id="57" parent="231" relname="purpose">для обеспечения безопасности в Европе</segment>
+		<segment id="58" parent="230" relname="joint">необходимо усилить защиту границ Евросоюза и между странами-членами,</segment>
+		<segment id="59" parent="230" relname="joint">а также вернуть пограничный контроль.</segment>
+		<segment id="60" parent="61" relname="attribution">##### "Согласно Лиссабонскому договору,</segment>
+		<segment id="61" parent="233" relname="span">вопрос национальной безопасности находится в компетенции отдельных государств ЕС, а не Европейского союза в целом, и страны должны оставить попытки европеизировать свои проблемы безопасности.</segment>
+		<segment id="62" parent="235" relname="joint">При этом необходимо развивать современные и технически продвинутые механизмы наблюдения и перехвата информации,</segment>
+		<segment id="63" parent="235" relname="joint">собирать больший объем данных</segment>
+		<segment id="64" parent="235" relname="joint">и пристальнее следить за некоторыми людьми",</segment>
+		<segment id="65" parent="236" relname="attribution">― уточнил Энтони Глис.</segment>
+		<segment id="66" parent="67" relname="attribution">##### В свою очередь профессор Наньянского технологического университета в Сингапуре, руководитель Международного центра изучения политического насилия и терроризма Рохан Гунаратна (Rohan Gunaratna) заявил,</segment>
+		<segment id="67" parent="245" relname="span">что Париж стал поворотной точкой в мировой борьбе с ИГ.</segment>
+		<segment id="68" parent="239" relname="contrast">##### "Исламское государство" преследовало цель вселить в население Франции страх.</segment>
+		<segment id="69" parent="241" relname="span">Однако эффект оказался противоположным.</segment>
+		<segment id="70" parent="240" relname="joint">Французы решили нанести ответный удар против центрального ядра организации,</segment>
+		<segment id="71" parent="240" relname="joint">а также выявлять боевиков и сторонников ИГ на территории Европы.</segment>
+		<segment id="72" parent="73" relname="attribution">До сих пор правительства государств полагали,</segment>
+		<segment id="73" parent="369" relname="span">что основной задачей организации будет создание халифата в Ираке и Сирии.</segment>
+		<segment id="74" parent="242" relname="contrast">Однако их истинной целью является провозглашение халифата во всем мире",</segment>
+		<segment id="75" parent="342" relname="attribution">― отметил эксперт.</segment>
+		<segment id="76" parent="77" relname="attribution">##### По его словам,</segment>
+		<segment id="77" parent="343" relname="span">террористы попытаются продолжить атаки во Франции и других западных странах.</segment>
+		<segment id="78" parent="248" relname="span">##### "ИГ будет бороться против своих врагов</segment>
+		<segment id="79" parent="247" relname="joint">с помощью собственных ячеек в странах-объектах ударов, соседних государствах,</segment>
+		<segment id="80" parent="247" relname="joint">а также направляя боевиков из центральной части расположения сил.</segment>
+		<segment id="81" parent="255" relname="span">Данная террористическая организация разделила мир на три блока ― государства, активно борющиеся с ИГ; страны, поддерживающие первый блок; и государства, занимающие нейтральную позицию.</segment>
+		<segment id="82" parent="252" relname="same-unit">Франция,</segment>
+		<segment id="83" parent="249" relname="span">объявившая войну "Исламскому государству"</segment>
+		<segment id="84" parent="83" relname="cause">после терактов в Париже,</segment>
+		<segment id="85" parent="250" relname="span">находится в первой категории</segment>
+		<segment id="86" parent="251" relname="joint">и является одним из главных объектов для ударов со стороны ИГ",</segment>
+		<segment id="87" parent="253" relname="attribution">― добавил Рохан Гунаратна.</segment>
+		<segment id="88" parent="344" relname="attribution">##### Отвечая на вопрос о потенциальной взаимосвязи терактов с миграционным кризисом в странах ЕС,</segment>
+		<segment id="89" parent="258" relname="attribution">он подчеркнул, что</segment>
+		<segment id="90" parent="91" relname="condition">при отсутствии надежных программ интеграции</segment>
+		<segment id="91" parent="258" relname="span">некоторые из беженцев могут быть завербованы "Исламским государством".</segment>
+		<segment id="92" parent="264" relname="span">##### "Представители диаспор и иммигрантских сообществ Европы и Канады плохо интегрированы в общество.</segment>
+		<segment id="93" parent="259" relname="contrast">Они живут на западе,</segment>
+		<segment id="94" parent="261" relname="span">но ими движут события, происходящие у них на родине.</segment>
+		<segment id="95" parent="96" relname="condition">Пока эти люди не интегрированы,</segment>
+		<segment id="96" parent="260" relname="span">они могут быть подвергнуты радикализации и милитаризации под влиянием экстремистской и террористической пропаганды.</segment>
+		<segment id="97" parent="98" relname="cause">При этом их объединение с новыми беженцами из зон конфликта увеличит потенциальную угрозу для Европы,</segment>
+		<segment id="98" parent="262" relname="span">поэтому новых мигрантов необходимо размещать вдали от этнических и религиозных анклавов, существующих внутри европейского общества",</segment>
+		<segment id="99" parent="346" relname="attribution">― сказал аналитик.</segment>
+		<segment id="100" parent="101" relname="attribution">##### Между тем директор центра стратегических и оборонных исследований Национального университета государственной службы Венгрии Петер Талас (Peter Talas) выделил</segment>
+		<segment id="101" parent="267" relname="span">несколько причин, почему Франция является главной мишенью исламистского терроризма.</segment>
+		<segment id="102" parent="269" relname="span">##### "В стране проживает многочисленное мусульманское население,</segment>
+		<segment id="103" parent="102" relname="elaboration">среди которого может быть внушительное число радикалов и экстремистов,</segment>
+		<segment id="104" parent="268" relname="span">способных служить в качестве человеческих ресурсов</segment>
+		<segment id="105" parent="104" relname="condition">при проведении террористических актов</segment>
+		<segment id="106" parent="270" relname="elaboration">― их число, вероятно, достигает нескольких тысяч.</segment>
+		<segment id="107" parent="108" relname="cause">Париж постоянно находится в фокусе международных информационных агентств,</segment>
+		<segment id="108" parent="272" relname="span">поэтому любые осуществленные здесь атаки получат всемирную огласку в СМИ.</segment>
+		<segment id="109" parent="110" relname="cause">Будучи светским государством,</segment>
+		<segment id="110" parent="273" relname="span">Франция является культурным символом западной цивилизации.</segment>
+		<segment id="111" parent="112" relname="cause">Кроме того, страна принимает непосредственное участие в воздушных ударах по позициям "Исламского государства",</segment>
+		<segment id="112" parent="274" relname="span">становясь их заклятым врагом",</segment>
+		<segment id="113" parent="347" relname="attribution">― сказал аналитик.</segment>
+		<segment id="114" parent="348" relname="attribution">##### Он также предположил,</segment>
+		<segment id="115" parent="348" relname="span">что после случившегося правые радикалы будут связывать миграционный кризис в Европе</segment>
+		<segment id="116" parent="115" relname="cause">с повышенной террористической угрозой</segment>
+		<segment id="117" parent="278" relname="joint">и могут заработать на этом политические очки.</segment>
+		<segment id="118" parent="286" relname="joint">##### "Однако, это ошибочное суждение</segment>
+		<segment id="119" parent="279" relname="span">и крайне опасная траектория,</segment>
+		<segment id="120" parent="119" relname="purpose">чтобы ей следовать. [...]</segment>
+		<segment id="121" parent="284" relname="background">Исламистский терроризм уже существовал в Европе до атак 2015 года и массового притока беженцев.</segment>
+		<segment id="122" parent="282" relname="same-unit">Но даже</segment>
+		<segment id="123" parent="281" relname="condition">если "Исламское государство" и засылает боевиков в ЕС под видом мигрантов,</segment>
+		<segment id="124" parent="281" relname="span">почему европейские страны должны обратиться против беженцев, а не ИГ,</segment>
+		<segment id="125" parent="124" relname="cause">которое направляет террористов?",</segment>
+		<segment id="126" parent="352" relname="attribution">― задался вопросом венгерский эксперт.</segment>
+		<segment id="127" parent="351" relname="same-unit">##### Тем не менее,</segment>
+		<segment id="128" parent="129" relname="attribution">по его словам,</segment>
+		<segment id="129" parent="350" relname="span">политические последствия трагедии позволят представителям крайнего правого крыла Европы временно укрепить свои позиции.</segment>
+		<segment id="130" parent="291" relname="span">##### "При этом в долгосрочной перспективе страны ЕС должны быть готовы столкнуться с нерешенной проблемой более эффективной интеграции европейских мусульман.</segment>
+		<segment id="131" parent="290" relname="span">В настоящее время мультикультурализм в Европе означает зачастую разделенное, параллельное сосуществование сообществ с различным культурным наследием, а не их интегрированное сосуществование.</segment>
+		<segment id="132" parent="133" relname="cause">Сегрегация в сочетании с бедностью и социальной изоляцией</segment>
+		<segment id="133" parent="289" relname="span">обеспечивает питательную среду для усиления радикализации",</segment>
+		<segment id="134" parent="291" relname="attribution">― отметил аналитик.</segment>
+		<segment id="135" parent="355" relname="attribution">##### По его мнению,</segment>
+		<segment id="136" parent="354" relname="span">Европейский союз будет способен успешно противостоять терроризму только в том случае,</segment>
+		<segment id="137" parent="136" relname="condition">если сможет действовать как единое государство.</segment>
+		<segment id="138" parent="295" relname="joint">##### "ЕС уже следовало бы создать централизованную общеевропейскую разведывательную службу.</segment>
+		<segment id="139" parent="292" relname="span">Безусловно, необходимо принимать меры по борьбе с "Исламским государством",</segment>
+		<segment id="140" parent="139" relname="condition">проявляя при этом осторожность и сдержанность,</segment>
+		<segment id="141" parent="294" relname="span">чтобы избежать ошибок,</segment>
+		<segment id="142" parent="141" relname="background">которые были допущены в Афганистане, Ираке и Ливии",</segment>
+		<segment id="143" parent="296" relname="attribution">― добавил Петер Талас.</segment>
+		<segment id="144" parent="302" relname="attribution">##### По словам эксперта Национального консорциума по изучению терроризма при Университете штата Мэриленд в США Милы Джонс (Mila Johns),</segment>
+		<segment id="145" parent="302" relname="span">трагедия в Париже поражает своей изощренностью.</segment>
+		<segment id="146" parent="147" relname="evidence">##### "Это первое скоординированное нападение исламских экстремистов в Европе</segment>
+		<segment id="147" parent="300" relname="span">свидетельствует о значительном изменении положения "Исламского государства".</segment>
+		<segment id="148" parent="301" relname="sequence">Ранее ИГ ограничивалось тем, что вдохновляло на нападения своих сторонников за границей, а не руководило терактами из своей штаб-квартиры, как это, по всей видимости, произошло во Франции",</segment>
+		<segment id="149" parent="359" relname="attribution">― сказала аналитик.</segment>
+		<segment id="150" parent="151" relname="attribution">##### На ее взгляд,</segment>
+		<segment id="151" parent="360" relname="span">руководство страны не могло не знать, что Франция является заветной целью боевиков.</segment>
+		<segment id="152" parent="153" relname="background">##### "Принимая во внимание теракт в редакции Charlie Hebdo и сорванное нападение на поезд в августе этого года,</segment>
+		<segment id="153" parent="304" relname="span">французские власти, очевидно, осознавали степень заинтересованности экстремистских группировок в совершении атак на территории страны.</segment>
+		<segment id="154" parent="364" relname="evaluation">Логично, что</segment>
+		<segment id="155" parent="156" relname="cause">участие Франции в авиаударах против "Исламского государства"</segment>
+		<segment id="156" parent="364" relname="span">превратило ее в еще более желанную мишень",</segment>
+		<segment id="157" parent="306" relname="attribution">― отметила Мила Джонс.</segment>
+		<segment id="158" parent="159" relname="attribution">##### По ее мнению,</segment>
+		<segment id="159" parent="361" relname="span">атаки в Париже приведут к расширенному участию Европы в коалиции против ИГ.</segment>
+		<segment id="160" parent="309" relname="joint">##### "Мы уже стали свидетелями усиления бомбардировок Франции в Сирии.</segment>
+		<segment id="161" parent="370" relname="same-unit">Кроме того,</segment>
+		<segment id="162" parent="163" relname="attribution">я полагаю,</segment>
+		<segment id="163" parent="371" relname="span">что Европейский союз как единое целое будет двигаться в направлении большей интеграции в вопросах безопасности.</segment>
+		<segment id="164" parent="310" relname="span">Если будет подтверждено, что кто-то из нападавших проник в ЕС,</segment>
+		<segment id="165" parent="164" relname="cause">прикрываясь статусом беженца,</segment>
+		<segment id="166" parent="311" relname="span">это, скорее всего, усугубит противоречия внутри европейского общества по вопросу принятия мигрантов из зон конфликта на Ближнем Востоке",</segment>
+		<segment id="167" parent="313" relname="attribution">― сказала эксперт.</segment>
+		<segment id="168" parent="363" relname="same-unit">##### При этом,</segment>
+		<segment id="169" parent="170" relname="attribution">по ее словам,</segment>
+		<segment id="170" parent="362" relname="span">более тесная координация между странами ЕС в сфере законодательства,</segment>
+		<segment id="171" parent="315" relname="span">определяющего уголовную ответственность за выезд из страны</segment>
+		<segment id="172" parent="171" relname="purpose">с целью участия в иностранных конфликтах или прохождения обучения в лагерях террористов,</segment>
+		<segment id="173" parent="316" relname="same-unit">могла бы стать первым шагом на пути к обеспечению большей безопасности в Европе.</segment>
+		<segment id="174" parent="319" relname="contrast">##### "В ряде стран такое законодательство уже работает.</segment>
+		<segment id="175" parent="318" relname="same-unit">Вместе с тем,</segment>
+		<segment id="176" parent="177" relname="purpose">чтобы быть действительно эффективным,</segment>
+		<segment id="177" parent="317" relname="span">оно должно функционировать в масштабах Евросоюза.</segment>
+		<segment id="178" parent="322" relname="span">Другим важным шагом будет доработка и внедрение системы записи регистрации пассажиров во всех странах ЕС.</segment>
+		<segment id="179" parent="178" relname="elaboration">Я также надеюсь на более активные усилия внутри стран по борьбе с экстремистской риторикой, формированию альтернативной информационной картины и концентрированию на мерах по дерадикализации",</segment>
+		<segment id="180" parent="324" relname="attribution">― резюмировала Мила Джонс.</segment>
+		<segment id="181" parent="331" relname="span">##### Серия терактов в Париже произошла поздним вечером 13 ноября 2015 года.</segment>
+		<segment id="182" parent="327" relname="joint">##### По последним данным, 130 человек погибли</segment>
+		<segment id="183" parent="327" relname="joint">и более 350 были ранены</segment>
+		<segment id="184" parent="328" relname="cause">в результате взрывов вблизи стадиона "Стад де Франс" и в кафе "Контуар Вольтер", нападений на зрителей рок-концерта в театре "Батаклан" и посетителей заведений "Пти Камбодж" и "Ле Карийон", а также стрельбы возле пиццерии "Ла Каза Ностра" и кафе "Ла Белль Экип".</segment>
+		<segment id="185" parent="329" relname="elaboration">##### Режим чрезвычайного положения во Франции продлен на 3 месяца.</segment>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" />
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="192" relname="contrast"/>
+		<group id="191" type="span" parent="201" relname="span"/>
+		<group id="192" type="multinuc" />
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="200" relname="span"/>
+		<group id="195" type="span" parent="196" relname="contrast"/>
+		<group id="196" type="multinuc" parent="198" relname="span"/>
+		<group id="197" type="multinuc" parent="196" relname="contrast"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="194" relname="elaboration"/>
+		<group id="200" type="span" parent="191" relname="elaboration"/>
+		<group id="201" type="span" parent="192" relname="contrast"/>
+		<group id="202" type="span" parent="20" relname="attribution"/>
+		<group id="203" type="span" parent="218" relname="preparation"/>
+		<group id="204" type="span" parent="214" relname="sequence"/>
+		<group id="205" type="span" parent="214" relname="sequence"/>
+		<group id="206" type="span" parent="215" relname="joint"/>
+		<group id="207" type="multinuc" parent="213" relname="span"/>
+		<group id="208" type="span" parent="207" relname="joint"/>
+		<group id="209" type="span" parent="213" relname="evaluation"/>
+		<group id="210" type="multinuc" parent="35" relname="condition"/>
+		<group id="211" type="span" parent="215" relname="joint"/>
+		<group id="212" type="span" parent="367" relname="elaboration"/>
+		<group id="213" type="span" parent="212" relname="span"/>
+		<group id="214" type="multinuc" parent="216" relname="span"/>
+		<group id="215" type="multinuc" parent="216" relname="elaboration"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" />
+		<group id="220" type="span" parent="227" relname="joint"/>
+		<group id="221" type="span" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="49" relname="condition"/>
+		<group id="223" type="span" parent="224" relname="same-unit"/>
+		<group id="224" type="multinuc" parent="225" relname="evaluation"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="228" relname="span"/>
+		<group id="227" type="multinuc" parent="228" relname="preparation"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" />
+		<group id="230" type="multinuc" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="340" relname="span"/>
+		<group id="233" type="span" parent="234" relname="joint"/>
+		<group id="234" type="multinuc" parent="236" relname="span"/>
+		<group id="235" type="multinuc" parent="234" relname="joint"/>
+		<group id="236" type="span" parent="237" relname="span"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" />
+		<group id="239" type="multinuc" parent="243" relname="span"/>
+		<group id="240" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="241" type="span" parent="239" relname="contrast"/>
+		<group id="242" type="multinuc" parent="342" relname="span"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="246" relname="span"/>
+		<group id="245" type="span" parent="244" relname="preparation"/>
+		<group id="246" type="span" />
+		<group id="247" type="multinuc" parent="78" relname="condition"/>
+		<group id="248" type="span" parent="256" relname="span"/>
+		<group id="249" type="span" parent="85" relname="cause"/>
+		<group id="250" type="span" parent="252" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="253" relname="span"/>
+		<group id="252" type="multinuc" parent="251" relname="joint"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="81" relname="elaboration"/>
+		<group id="255" type="span" parent="248" relname="elaboration"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" />
+		<group id="258" type="span" parent="344" relname="span"/>
+		<group id="259" type="multinuc" parent="92" relname="elaboration"/>
+		<group id="260" type="span" parent="94" relname="elaboration"/>
+		<group id="261" type="span" parent="259" relname="contrast"/>
+		<group id="262" type="span" parent="263" relname="joint"/>
+		<group id="263" type="multinuc" parent="346" relname="span"/>
+		<group id="264" type="span" parent="263" relname="joint"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" />
+		<group id="267" type="span" parent="276" relname="preparation"/>
+		<group id="268" type="span" parent="270" relname="span"/>
+		<group id="269" type="span" parent="268" relname="cause"/>
+		<group id="270" type="span" parent="271" relname="span"/>
+		<group id="271" type="span" parent="275" relname="joint"/>
+		<group id="272" type="span" parent="275" relname="joint"/>
+		<group id="273" type="span" parent="275" relname="joint"/>
+		<group id="274" type="span" parent="275" relname="joint"/>
+		<group id="275" type="multinuc" parent="347" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" />
+		<group id="278" type="multinuc" parent="280" relname="contrast"/>
+		<group id="279" type="span" parent="286" relname="joint"/>
+		<group id="280" type="multinuc" parent="356" relname="solutionhood"/>
+		<group id="281" type="span" parent="283" relname="span"/>
+		<group id="282" type="multinuc" parent="284" relname="span"/>
+		<group id="283" type="span" parent="282" relname="same-unit"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="288" relname="elaboration"/>
+		<group id="286" type="multinuc" parent="288" relname="span"/>
+		<group id="287" type="span" parent="352" relname="span"/>
+		<group id="288" type="span" parent="287" relname="span"/>
+		<group id="289" type="span" parent="131" relname="elaboration"/>
+		<group id="290" type="span" parent="130" relname="cause"/>
+		<group id="291" type="span" parent="353" relname="span"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="295" relname="joint"/>
+		<group id="294" type="span" parent="292" relname="purpose"/>
+		<group id="295" type="multinuc" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="354" relname="elaboration"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="280" relname="contrast"/>
+		<group id="300" type="span" parent="301" relname="sequence"/>
+		<group id="301" type="multinuc" parent="359" relname="span"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="333" relname="span"/>
+		<group id="304" type="span" parent="306" relname="span"/>
+		<group id="305" type="span" parent="304" relname="elaboration"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" parent="303" relname="evaluation"/>
+		<group id="309" type="multinuc" parent="313" relname="span"/>
+		<group id="310" type="span" parent="166" relname="condition"/>
+		<group id="311" type="span" parent="372" relname="elaboration"/>
+		<group id="312" type="span" parent="309" relname="joint"/>
+		<group id="313" type="span" parent="373" relname="span"/>
+		<group id="314" type="span" parent="325" relname="solutionhood"/>
+		<group id="315" type="span" parent="316" relname="same-unit"/>
+		<group id="316" type="multinuc" parent="320" relname="span"/>
+		<group id="317" type="span" parent="318" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="319" relname="contrast"/>
+		<group id="319" type="multinuc" parent="320" relname="elaboration"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="323" relname="joint"/>
+		<group id="322" type="span" parent="323" relname="joint"/>
+		<group id="323" type="multinuc" parent="324" relname="span"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="332" relname="span"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="328" type="span" parent="329" relname="span"/>
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="330" type="span" parent="181" relname="elaboration"/>
+		<group id="331" type="span" parent="326" relname="background"/>
+		<group id="332" type="span" />
+		<group id="333" type="span" />
+		<group id="334" type="span" parent="335" relname="same-unit"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="220" relname="span"/>
+		<group id="337" type="span" parent="336" relname="elaboration"/>
+		<group id="338" type="span" parent="227" relname="joint"/>
+		<group id="339" type="span" parent="224" relname="same-unit"/>
+		<group id="340" type="span" parent="237" relname="preparation"/>
+		<group id="341" type="span" parent="243" relname="elaboration"/>
+		<group id="342" type="span" parent="341" relname="span"/>
+		<group id="343" type="span" parent="256" relname="preparation"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="345" type="span" parent="265" relname="preparation"/>
+		<group id="346" type="span" parent="265" relname="span"/>
+		<group id="347" type="span" parent="276" relname="span"/>
+		<group id="348" type="span" parent="349" relname="span"/>
+		<group id="349" type="span" parent="278" relname="joint"/>
+		<group id="350" type="span" parent="351" relname="same-unit"/>
+		<group id="351" type="multinuc" parent="287" relname="concession"/>
+		<group id="352" type="span" parent="298" relname="span"/>
+		<group id="353" type="span" parent="298" relname="elaboration"/>
+		<group id="354" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" parent="356" relname="span"/>
+		<group id="356" type="span" parent="357" relname="span"/>
+		<group id="357" type="span" />
+		<group id="358" type="span" parent="145" relname="elaboration"/>
+		<group id="359" type="span" parent="358" relname="span"/>
+		<group id="360" type="span" parent="307" relname="preparation"/>
+		<group id="361" type="span" parent="373" relname="preparation"/>
+		<group id="362" type="span" parent="363" relname="same-unit"/>
+		<group id="363" type="multinuc" parent="316" relname="same-unit"/>
+		<group id="364" type="span" parent="305" relname="span"/>
+		<group id="365" type="span" parent="366" relname="same-unit"/>
+		<group id="366" type="multinuc" parent="367" relname="span"/>
+		<group id="367" type="span" parent="211" relname="span"/>
+		<group id="368" type="span" parent="226" relname="evaluation"/>
+		<group id="369" type="span" parent="242" relname="contrast"/>
+		<group id="370" type="multinuc" parent="372" relname="span"/>
+		<group id="371" type="span" parent="370" relname="same-unit"/>
+		<group id="372" type="span" parent="312" relname="span"/>
+		<group id="373" type="span" parent="314" relname="span"/>
+	</body>
+</rst>

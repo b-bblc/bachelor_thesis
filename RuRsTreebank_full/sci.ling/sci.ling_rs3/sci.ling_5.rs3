@@ -1,0 +1,547 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">А.В. Гринько</segment>
+		<segment id="2" relname="antithesis">ОТРАЖЕНИЕ КУЛЬТУРНЫХ МОДЕЛЕЙ ПОНЯТИЯ «ДВИЖЕНИЕ» В ИДИОМАТИЧЕСКОЙ СИСТЕМЕ АМЕРИКАНСКОГО ВАРИАНТА АНГЛИЙСКОГО ЯЗЫКА</segment>
+		<segment id="3" parent="261" relname="span">Одним из ключевых понятий американской концептуальной картины мира является понятие «движение»,</segment>
+		<segment id="4" parent="259" relname="joint">которое в лингвокультуре США имеет сложную структуру,</segment>
+		<segment id="5" parent="259" relname="joint">вербализуется определенными языковыми средствами,</segment>
+		<segment id="6" parent="260" relname="span">имеет национальную специфику,</segment>
+		<segment id="7" parent="6" relname="elaboration">в частности, отражает культурные ценности американского социума,</segment>
+		<segment id="8" parent="262" relname="span">что обусловливает многомерность его содержания в картине мира США.</segment>
+		<segment id="9" parent="10" relname="attribution">Согласно теории известного лингвиста Ч. Осгуда, изложенной им в книге «Cross- cultural universals of affective meaning»1,</segment>
+		<segment id="10" parent="263" relname="span">в американской картине мира понятие «движение» вербализуется двумя лексемами: progress и development.</segment>
+		<segment id="11" parent="265" relname="span">Дефиниционный анализ2 двух лексем, выражающих понятие «движение», не дает объективного представления о его семантической структуре.</segment>
+		<segment id="12" parent="13" relname="cause">Значение одной лексемы (progress) определяется через значение другой лексемы (development),</segment>
+		<segment id="13" parent="264" relname="span">что в действительности не способствует более четкой организации смыслового содержания понятия «движение», которое может быть лучше сформулировано лишь при активном использовании данных из национальной психологии и социологии США.</segment>
+		<segment id="14" parent="287" relname="background">В данной работе понятие «движение» определяется как когнитивная метафора, реализующая основные семантические характеристики в рамках нескольких культурных моделей картины мира США.</segment>
+		<segment id="15" parent="284" relname="span">Отличительной особенностью когнитивной метафоры является принцип фиктивности, смысл которого выражается в форме допущения «как если бы»3-5.</segment>
+		<segment id="16" parent="268" relname="joint">Выбор исходного значения когнитивной метафоры зависит не только от субъективной интенции отдельного индивида или коллектива индивидов,</segment>
+		<segment id="17" parent="268" relname="joint">но также от его/их представлений о мире, соизмеримых с системой стереотипных образов и эталонов, принадлежащих данной картине мира.</segment>
+		<segment id="18" parent="284" relname="elaboration">Когнитивная метафора традиционно рассматривается как способ выражения понятия или концепта, в основе которого лежит перенос значений лексем его составляющих.</segment>
+		<segment id="19" parent="20" relname="evaluation">Несомненно,</segment>
+		<segment id="20" parent="270" relname="span">что понятие «движение» в американской картине мира осложнено двойственной природой самого смыслового содержания данной ментальной единицы («движение» - всякая перемена и «движение» - переезд на американский континент),</segment>
+		<segment id="21" parent="271" relname="joint">поэтому метафорический перенос является и знаковым элементом, обозначающим представления людей о данном понятии в антропоцентрической парадигме,</segment>
+		<segment id="22" parent="271" relname="joint">и носителем ассоциаций национального мышления и национальных установок.</segment>
+		<segment id="23" parent="499" relname="span">Цель метафорического обозначения понятия «движение»</segment>
+		<segment id="24" parent="277" relname="restatement">не сообщить какие-либо его существенные признаки</segment>
+		<segment id="25" parent="274" relname="span">(т. е. ответить на вопрос</segment>
+		<segment id="26" parent="25" relname="elaboration">«Что это?»),</segment>
+		<segment id="27" parent="275" relname="comparison">а призвать к определенному отношению к нему,</segment>
+		<segment id="28" parent="275" relname="comparison">указать на то, как следует вести себя с данным объектом.</segment>
+		<segment id="29" parent="289" relname="elaboration">Культурный компонент сыграл особую роль при формировании смыслового содержания понятия «движение» в американской картине мира.</segment>
+		<segment id="30" parent="294" relname="span">Предложенный Ч. Осгудом способ концептуализации картины мира США отражает ряд культурных моделей,</segment>
+		<segment id="31" parent="291" relname="same-unit">под ними в данной работе понимается совокупность и взаимодействие характерных для культуры черт, которым подчинено все общество, являющееся</segment>
+		<segment id="32" relname="antithesis">© А.В. Гринько, 2008</segment>
+		<segment id="33" parent="291" relname="same-unit">его носителем.</segment>
+		<segment id="34" parent="293" relname="span">Этой формулировки придерживаются многие исследователи,</segment>
+		<segment id="35" parent="34" relname="elaboration">в том числе В. З. Демьянков6, М. Н. Лапшина7, О. Г. Почепцов8.</segment>
+		<segment id="36" parent="301" relname="span">Центральным идеологическим направлением американской культуры является «американская мечта».</segment>
+		<segment id="37" parent="300" relname="span">По определению самих американцев - это представление «о таком обществе,</segment>
+		<segment id="38" parent="296" relname="contrast">в котором участь обыкновенного человека будет облегчена,</segment>
+		<segment id="39" parent="297" relname="joint">а его жизнь будет обогащена</segment>
+		<segment id="40" parent="297" relname="joint">и облагорожена»9.</segment>
+		<segment id="41" parent="303" relname="same-unit">Претворению этой мечты в жизнь,</segment>
+		<segment id="42" parent="302" relname="attribution">как признает американский социолог М. Лернер,</segment>
+		<segment id="43" parent="302" relname="span">способствует система жизенных ценностей американца,</segment>
+		<segment id="44" parent="43" relname="elaboration">которая представляет собой совокупность пяти составляющих: (1) успех, (2) престиж, (3) деньги, (4) власть, (5) уверенность10.</segment>
+		<segment id="45" parent="313" relname="span">Представленные ниже культурные модели являются условной градацией существенных признаков понятия «движение».</segment>
+		<segment id="46" parent="312" relname="span">Они выделены на основании проанализированных художественных произведений (Б. Франклин «Автобиография»11, У. Брэдфорд «История поселения в Плимуте»12, М. де Кревекер «Письма американского фермера»13) и научных трудов (H. S. Commager «The American Mind»14, R. F. Sayre «Autobiography and the Making of America»5 и др.).</segment>
+		<segment id="47" parent="48" relname="purpose">Для пояснения методики выделения культурных моделей</segment>
+		<segment id="48" parent="308" relname="span">необходимо обратиться к жанру автобиографии в американской литературе, который наиболее полно отразил особенности американской действительности.</segment>
+		<segment id="49" parent="309" relname="joint">В автобиографиях американцы стремились раскрыть специфику не только социального бытия на Новой Земле,</segment>
+		<segment id="50" parent="309" relname="joint">но и проследить становление наиболее характерных ярких черт зарождающегося американского характера, присущих человеку нового типа, представителю новой нации.</segment>
+		<segment id="51" parent="500" relname="span">Особенности обыденных ассоциаций повседневного мира американцы отразили в идиоматическом словаре.</segment>
+		<segment id="52" parent="317" relname="span">В этом смысле понятие «движение», представленное в виде нескольких культурных моделей, не является исключением,</segment>
+		<segment id="53" parent="315" relname="same-unit">т. к.</segment>
+		<segment id="54" parent="55" relname="purpose">для его отражения</segment>
+		<segment id="55" parent="314" relname="span">также существует определенный корпус идиом (172 единицы, формальным критерием отбора которых послужил семантический признак).</segment>
+		<segment id="56" parent="324" relname="span">Все культурные модели, как характерные для американского народа ценностные установки, представлены в виде двух компонентов.</segment>
+		<segment id="57" parent="318" relname="contrast">Первый компонент - это то, что должно быть подвергнуто изменению</segment>
+		<segment id="58" parent="318" relname="contrast">либо то, что может способствовать улучшению жизни.</segment>
+		<segment id="59" parent="320" relname="joint">Второй компонент - это конечная цель.</segment>
+		<segment id="60" parent="322" relname="contrast">Знак «vs» означает «противопоставлен»,</segment>
+		<segment id="61" parent="322" relname="contrast">знак ^ означает «следствием является».</segment>
+		<segment id="62" parent="325" relname="joint">Каждая культурная модель снабжена комментарием.</segment>
+		<segment id="63" relname="antithesis">Культурные модели понятия «движение».</segment>
+		<segment id="64" parent="502" relname="joint">1\. «устремленность в будущее».</segment>
+		<segment id="65" parent="502" relname="joint">«забыть о прошлом» га «начать новую жизнь»</segment>
+		<segment id="66" parent="330" relname="span">Известно, что идеология США, которая в данной работе отождествляется с понятием «американская мечта», формировалась</segment>
+		<segment id="67" parent="328" relname="joint">под влиянием социокультурных факторов, таких как провозглашение пуританских добродетелей,</segment>
+		<segment id="68" parent="328" relname="joint">переселение представителей разных национальностей на американский континент,</segment>
+		<segment id="69" parent="328" relname="joint">высокая потребность в трудовых ресурсах и т. д.</segment>
+		<segment id="70" parent="337" relname="concession">Хотя США давно уже стали процветающим государством,</segment>
+		<segment id="71" parent="334" relname="joint">сами американцы еще не считают «американскую мечту» полностью осуществленной</segment>
+		<segment id="72" parent="335" relname="same-unit">и,</segment>
+		<segment id="73" parent="332" relname="evaluation">как это обычно бывает,</segment>
+		<segment id="74" parent="332" relname="span">полагают,</segment>
+		<segment id="75" parent="331" relname="span">что это удастся их детям,</segment>
+		<segment id="76" parent="75" relname="condition">если они будут воспитаны должным образом.</segment>
+		<segment id="77" parent="339" relname="contrast">«Американцев с детства приучают надеяться и ожидать,</segment>
+		<segment id="78" parent="339" relname="contrast">но не сидеть, сложа руки.</segment>
+		<segment id="79" parent="340" relname="cause">Ожидание должно сопровождаться чувством уверенности в происходящем и контроле над ним»16.</segment>
+		<segment id="80" parent="341" relname="restatement">Прогресс,</segment>
+		<segment id="81" parent="341" relname="restatement">продвижение вперед</segment>
+		<segment id="82" parent="342" relname="evaluation">невозможно,</segment>
+		<segment id="83" parent="343" relname="condition">если человек постоянно вспоминает о прошлом.</segment>
+		<segment id="84" parent="361" relname="span">Его задача - избавиться от того, что мешает жить и поверить в будущее, которое обязательно принесет счастливую случайность.</segment>
+		<segment id="85" parent="345" relname="span">Данная установка берет свое начало в самой идеи переселения из Европы в Америку,</segment>
+		<segment id="86" parent="85" relname="elaboration">куда отправились люди с неумеренными амбициями или просто с непоседливым характером, а также те, кто по воле обстоятельств, по сути, был «вытолкнут» из традиционного общества своей страны.</segment>
+		<segment id="87" parent="358" relname="span">Среди этих переселенцев были «отчаявшиеся бедняки, вроде хронически страдавших от неурожаев ирландцев и обитателей лондонского «дна», западно-европейские религиозные сектанты, ссыльные, лишенная наследства часть английского дворянства, предприимчивые дельцы и просто авантюристы»17.</segment>
+		<segment id="88" parent="346" relname="evaluation">Несомненно,</segment>
+		<segment id="89" parent="90" relname="cause">что такой контингент, имея «интересное» прошлое,</segment>
+		<segment id="90" parent="346" relname="span">пытался о нем забыть.</segment>
+		<segment id="91" parent="348" relname="joint">Они приезжали на американский континент в надежде изменить свою жизнь</segment>
+		<segment id="92" parent="348" relname="joint">и верили, что этот шанс есть абсолютно у каждого.</segment>
+		<segment id="93" parent="350" relname="attribution">По словам одного из составителей сборника американского фольклора, известного в США ученого, занимающегося вопросами этнографии, народных традиций и американского менталитета Джеймса Тидвелла,</segment>
+		<segment id="94" parent="95" relname="condition">«каждый раз, когда речь идет об успехе,</segment>
+		<segment id="95" parent="350" relname="span">люди верят, что удача им обязательно улыбнется»18.</segment>
+		<segment id="96" parent="352" relname="contrast">Каждый должен трудиться,</segment>
+		<segment id="97" parent="352" relname="contrast">но при этом не исключать из своей жизни возможность счастливого случая, который нередко подталкивает человека к вполне оправданному риску.</segment>
+		<segment id="98" parent="354" relname="span">Эта ценностная установка представлена в таких идиомах,</segment>
+		<segment id="99" parent="98" relname="elaboration">как every dog has his day / the wheel of fortune is forever in motion; to stage a comeback; get away with; all roads lead to Rome - будет и на нашей улице праздник; to an optimist every change is a change for the better; set your sail according to the wind - для оптимиста, что ни делается, все к лучшему.</segment>
+		<segment id="100" parent="506" relname="joint">2\. «атрибуты успеха».</segment>
+		<segment id="101" parent="506" relname="joint">«плохое материальное положение» vs «хорошее материальное положение»</segment>
+		<segment id="102" parent="405" relname="span">«Американская мечта» породила в своих носителях желание обладать материальными ценностями, которые важны как показатель благосостояния и успешности их обладателя.</segment>
+		<segment id="103" parent="408" relname="span">Материальные блага наряду с хорошим здоровьем и знаниями являются несомненными атрибутами успеха в американском обществе.</segment>
+		<segment id="104" parent="105" relname="evidence">Определенный набор предметов (по возможности самых современных) у американца свидетельствует</segment>
+		<segment id="105" parent="367" relname="span">о стремлении человека следить за последними тенденциями в области моды на одежду, технику, развлечения.</segment>
+		<segment id="106" parent="406" relname="contrast">С другой стороны, наличие «новинок» всегда указывает на хорошие материальные возможности американца, которые есть результат трудолюбия, целеустремленности, успешности человека.</segment>
+		<segment id="107" parent="412" relname="span">Данная ценностная установка имеет давнюю историю в американской культуре.</segment>
+		<segment id="108" parent="368" relname="joint">Необходимо отметить, что жизнь на фронтире для американца представляла собой не только борьбу со стихией, индейцами и собственным страхом,</segment>
+		<segment id="109" parent="368" relname="joint">но и осуществление важных этапов, способствующих самореализации в этом мире,</segment>
+		<segment id="110" parent="369" relname="elaboration">одним из них является свадьба.</segment>
+		<segment id="111" parent="371" relname="joint">Свадебные традиции (marriage customs) отвечали требованиям фронтира</segment>
+		<segment id="112" parent="371" relname="joint">и явились следствием ценностных установок его жителей.</segment>
+		<segment id="113" parent="373" relname="joint">Никто никогда не объявлял о помолвке</segment>
+		<segment id="114" parent="373" relname="joint">и не определял дату свадьбы.</segment>
+		<segment id="115" parent="377" relname="joint">Все было во власти времени и обстоятельств.</segment>
+		<segment id="116" parent="117" relname="condition">Если люди решали связать себя узами брака,</segment>
+		<segment id="117" parent="376" relname="span">то мужчина уходил на заработки.</segment>
+		<segment id="118" parent="379" relname="span">Никто никогда не покупал кольцо,</segment>
+		<segment id="119" parent="118" relname="cause">лучшим вложением денег считалась покупка мебели.</segment>
+		<segment id="120" parent="121" relname="attribution">По-нашему мнению,</segment>
+		<segment id="121" parent="384" relname="span">фронтир был точкой соприкосновения жизни и смерти, надежды и полного разочарования, вечного поиска и огромных потерь.</segment>
+		<segment id="122" parent="385" relname="joint">Оказавшись наедине с природой,</segment>
+		<segment id="123" parent="385" relname="joint">став вольным или невольным свидетелем/участником многих событий государственного масштаба, происходивших на фронтире,</segment>
+		<segment id="124" parent="387" relname="span">американец должен был в борьбе за право на существование на новой территории и свою свободу, в этих своеобразных экстремальных условиях, проявлять прежде всего свои личностные характеристики,</segment>
+		<segment id="125" parent="387" relname="concession">не задумываясь над тем, насколько благополучно его материальное положение.</segment>
+		<segment id="126" parent="404" relname="span">«Умение приумножать свое благосостояние», как одна из жизненных ценностных установок жителей США, прочно утвердилась в сознании многих представителей других этносов в качестве доминирующей и характеризующей в целом американскую нацию черты характера.</segment>
+		<segment id="127" parent="389" relname="span">Приведем примеры:</segment>
+		<segment id="128" parent="127" relname="elaboration">bring home the bacon; make a living - добиться успеха, хорошо зарабатывать; coin / mint money; in the works - делать деньги; deliver the goods; go like clockwork; save / carry the day; come along; hit the jackpot; squeak through; win out - преуспеть.</segment>
+		<segment id="129" parent="399" relname="cause">За очень короткий промежуток времени (около ста пятидесяти лет) американцам удалось создать процветающее высокоразвитое индустриальное государство,</segment>
+		<segment id="130" parent="398" relname="attribution">поэтому мировое общественное мнение таково,</segment>
+		<segment id="131" parent="398" relname="span">что подобный взлет был возможен</segment>
+		<segment id="132" parent="131" relname="cause">лишь благодаря сосредоточению многих человеческих качеств (сила воли, целеустремленность, стремление к успеху, настойчивость, работоспособность), которые способствовали успешному продвижению бывших европейцев как в прямом, так и в переносном смысле.</segment>
+		<segment id="133" parent="396" relname="attribution">По нашему мнению,</segment>
+		<segment id="134" parent="135" relname="cause">не только личностные характеристики</segment>
+		<segment id="135" parent="393" relname="span">содействовали созданию преуспевающих США,</segment>
+		<segment id="136" parent="392" relname="span">не последнюю роль сыграли благоприятные обстоятельства, такие как отсутствие серьезных соперников у Англии на право основания колоний на американском континенте</segment>
+		<segment id="137" parent="391" relname="span">(Франция и Испания оказались не настолько могущественными,</segment>
+		<segment id="138" parent="137" relname="purpose">чтобы противостоять натиску и влиятельности этой страны), относительно быстрая победа над коренным населением Северной Америки, признание США как самостоятельного государства на мировой арене,</segment>
+		<segment id="139" parent="396" relname="span">что способствовало их включению во внешнеторговую экономическую деятельность.</segment>
+		<segment id="140" parent="397" relname="elaboration">Последний факт сыграл огромную роль в формировании материального благополучия США, а следовательно, и состоятельности граждан этого государства.</segment>
+		<segment id="141" parent="511" relname="joint">3\. «личная активность человека».</segment>
+		<segment id="142" parent="511" relname="joint">«контроль над происходящим» ^ «успех во всех делах»</segment>
+		<segment id="143" parent="417" relname="span">Американскому менталитету свойственен так называемый «дух границы», сущность которого состоит в том, что США долгое время находились «на краю цивилизации», в оппозиции ко всему Старому Свету.</segment>
+		<segment id="144" parent="145" relname="cause">Фронтир оказал огромное влияние</segment>
+		<segment id="145" parent="416" relname="span">на формирование национального характера и культуры.</segment>
+		<segment id="146" parent="425" relname="background">Всякий поселившийся на американском континенте вынужден был выбирать между Новым Светом, который был «музыкой последней и величайшей человеческой мечты»19 и страхом, одолевавшим его в борьбе за право остаться и выжить.</segment>
+		<segment id="147" parent="425" relname="span">Американцы были готовы сражаться за свое главное приобретение на новой земле - свободу, которая укрепляла в них веру в свои силы и перемены к лучшему.</segment>
+		<segment id="148" parent="149" relname="cause">С переездом на новую территорию был сломан старый уклад жизни,</segment>
+		<segment id="149" parent="418" relname="span">поэтому свобода позволяла с легкостью воспринимать новое.</segment>
+		<segment id="150" parent="419" relname="joint">Жителям фронтира приходилось не только отстаивать свою свободу,</segment>
+		<segment id="151" parent="419" relname="joint">но и учиться уважать свободу друг друга.</segment>
+		<segment id="152" parent="421" relname="span">Свобода и уважение (к себе и другим) воспитали индивидуализм.</segment>
+		<segment id="153" parent="154" relname="evidence">«Они нашли, что могут своим умом решить любую возникающую проблему»,</segment>
+		<segment id="154" parent="422" relname="span">- эти слова Н. Е. Разумовой20 подтверждают высказанную Ч. Осгудом мысль о том, что в ходе деятельности у американца возникают различные препятствия, которые он должен уметь преодолевать с наименьшими потерями для себя.</segment>
+		<segment id="155" parent="423" relname="joint">Перед выполнением какого-либо дела необходимо четко рассчитать все действия,</segment>
+		<segment id="156" parent="423" relname="joint">и не торопясь, тщательно все взвешивая, уверенно идти к своей цели.</segment>
+		<segment id="157" parent="431" relname="span">Пути разрешения, выбираемые для конкретной проблемы, свидетельствуют о гибком уме, ясности мыслей, находчивости человека.</segment>
+		<segment id="158" parent="157" relname="evidence">Достигнутый успех, в конечном итоге, - это показатель истин-ности/неистинности предпринятых усилий.</segment>
+		<segment id="159" parent="434" relname="span">Американскому менталитету присуща идея о том, что мир должен контролироваться человеком, который не должен позволять себе зависеть от обстоятельств, а также всегда помнить, что во всем должна быть мера.</segment>
+		<segment id="160" parent="433" relname="span">Данные ценностные установки выражены в следующих идиомах:</segment>
+		<segment id="161" parent="160" relname="elaboration">by jumping at the moon, you may fall in the mud / the higher they rise, the steeper they fall; go easy, go slow, if you go fast you may go to hell; he that runs fast will not run long - кто слишком высоко взлетает, тот низко падает; drive your business, don’t let your business drive you - управляй делами, но не позволяй делам управлять собой.</segment>
+		<segment id="162" parent="440" relname="attribution">Однако американцы не отрицают,</segment>
+		<segment id="163" parent="435" relname="joint">что человек должен сам стремиться к улучшениям в своей жизни</segment>
+		<segment id="164" parent="435" relname="joint">и при этом быть активным,</segment>
+		<segment id="165" parent="166" relname="purpose">чтобы достичь успеха (недостаточно внешних благоприятных обстоятельств,</segment>
+		<segment id="166" parent="437" relname="span">необходимо личное желание и конкретные действия):</segment>
+		<segment id="167" parent="441" relname="evidence">actions speak louder than words; be on the last to come and the first to go; better to limp on the right road than to speed on the wrong one; give light, and people will find their way; little dogs start the horse, but great ones catch it; nothing great was ever achieved without enthusiasm; the shortest answer is doing.</segment>
+		<segment id="168" parent="445" relname="attribution">Отметим также,</segment>
+		<segment id="169" parent="443" relname="joint">что если человек имеет возможность выбирать последовательность выполнения основных жизненных этапов (получение образования, вступление в брак, рождение ребенка),</segment>
+		<segment id="170" parent="443" relname="joint">прогнозировать свою жизнь,</segment>
+		<segment id="171" parent="443" relname="joint">определять степень важности различных ее компонентов,</segment>
+		<segment id="172" parent="445" relname="span">то тогда можно утверждать, что у человека высокая личная активность.</segment>
+		<segment id="173" parent="447" relname="span">Умение контролировать ситуацию необходимо также американцу потому,</segment>
+		<segment id="174" parent="449" relname="span">что он, как правило, пребывает в постоянном поиске работы и места жительства.</segment>
+		<segment id="175" parent="174" relname="elaboration">Например: variety is the spice of life - перемены придают остроту жизни; we are here today and gone tomorrow - сегодня здесь, а завтра там.</segment>
+		<segment id="176" parent="450" relname="span">«Личная активность человека» - модель, которая претерпела некоторые изменения со времен основания США,</segment>
+		<segment id="177" parent="176" relname="cause">так как энергия американца теперь направлена не на освоение континента, т.е. по сути создание своего собственного комфортного для проживания мира, а внешней по отношению к нему окружающей среды.</segment>
+		<segment id="178" parent="450" relname="elaboration">Здесь речь идет о существовании «границы продвижения переселенцев» как психологического механизма, основанного на динамике движения, внедрения цивилизации и завоевания, покорения дикой природы по отношению к другим государствам.</segment>
+		<segment id="179" parent="516" relname="joint">4\. «мобильность».</segment>
+		<segment id="180" parent="516" relname="joint">«ряд усилий» ^ «материальная выгода»</segment>
+		<segment id="181" parent="458" relname="background">«Пограничное состояние» освободило дух американцев.</segment>
+		<segment id="182" parent="183" relname="cause">Их постоянная готовность менять место жительства вместе с чередованием прибывающих этнических групп,</segment>
+		<segment id="183" parent="456" relname="span">привела к воспитанию чувства мобильности (upward mobility) - всегдашнему стремлению к переменам в поисках лучшей жизни, прежде всего в материальном отношении.</segment>
+		<segment id="184" parent="457" relname="span">Для данной ценностной установки вполне подходит русская пословица</segment>
+		<segment id="185" parent="184" relname="elaboration">«волка ноги кормят».</segment>
+		<segment id="186" parent="522" relname="span">Все предпринимаемые американцем усилия должны увенчаться успехом,</segment>
+		<segment id="187" parent="463" relname="span">достижение которого - это показатель того,</segment>
+		<segment id="188" parent="461" relname="joint">насколько верным оказался алгоритм действий,</segment>
+		<segment id="189" parent="461" relname="joint">были ли учтены различные обстоятельства:</segment>
+		<segment id="190" parent="522" relname="evidence">a squirrel succeeds by climbing - трудиться как белка в колесе; God gives every bird its food but they must fly for it / life never stands still, if you don’t advance you recede - без труда не выловишь и рыбку из пруда; change the pasture makes fat calves - сменишь пастбище, вырастишь хорошего теленка; come up / rise in the world; it’s easier to go down than up; live in the fast lane; move up in the world; rise to; stop at nothing - преуспевать.</segment>
+		<segment id="191" parent="467" relname="span">Подобное отношение к объективной реальности намеренно развивается в американских детях.</segment>
+		<segment id="192" parent="193" relname="cause">Из тысячи известных человечеству черт характера, способностей очень важна та, что характеризует приспосабливаемость человека к новым условиям жизни.</segment>
+		<segment id="193" parent="466" relname="span">Маленького американца воспитывают в духе постоянных перемен, ко -торые впоследствии сопровождают его всю жизнь.</segment>
+		<segment id="194" parent="473" relname="sequence">Первые поселенцы отправляли своих детей учиться в Европу.</segment>
+		<segment id="195" parent="470" relname="contrast">Нередко американец после получения образования не возвращался в свой родной штат,</segment>
+		<segment id="196" parent="469" relname="same-unit">а,</segment>
+		<segment id="197" parent="198" relname="cause">получив приглашение от работодателя,</segment>
+		<segment id="198" parent="468" relname="span">переезжал в другое место.</segment>
+		<segment id="199" parent="475" relname="span">Подобные перемещения могли продолжаться долгие годы,</segment>
+		<segment id="200" parent="199" relname="elaboration">и часто лишь серьезная болезнь или семейные обстоятельства прерывали этот процесс.</segment>
+		<segment id="201" parent="476" relname="contrast">Однако именно эти перемещения по территории США внесли не мешающую прогрессу стабильность в жизнь американцев.</segment>
+		<segment id="202" parent="478" relname="joint">Первые поселенцы стремились построить свой «Град на Холме» усилиями каждого отдельного жителя, участвующего в решении социально значимых проблем,</segment>
+		<segment id="203" parent="478" relname="joint">и особая важность в этом стремлении принадлежит самоопределению американца, которая проявляется через его востребованность в обществе.</segment>
+		<segment id="204" parent="523" relname="comparison">5\. «профессиональная судьба».</segment>
+		<segment id="205" parent="523" relname="comparison">«хорошаяработа» ^ «востребованность в обществе»</segment>
+		<segment id="206" parent="488" relname="span">Для американца первостепенную роль в жизни играет возможность получения востребованной (и желательно престижной) профессии, которая обеспечивала бы ему уверенность в будущем, а значит стабильный заработок и успех во всех делах.</segment>
+		<segment id="207" parent="486" relname="joint">Востребованная профессия для американца - это шанс перемещаться в географическом и социальном смыслах в поисках более выгодной работы и комфортных условий жилья.</segment>
+		<segment id="208" parent="486" relname="joint">Успешное выполнение каких-либо действий в работе свидетельствует о профессиональной пригодности человека, его стремлении к повышению своего жизненного уровня.</segment>
+		<segment id="209" parent="485" relname="span">Данная культурная модель выражена в следующих идиомах:</segment>
+		<segment id="210" parent="209" relname="elaboration">make a hit; go (over) big; hang the bush; put smb. in the footlights; run away with the show - произвести большой эффект; make someone’s way; break new ground; carry the mail - справиться с чем-л.; go ahead; be hitting on all four (six) cylinders; get there; go places; hit the bullseye; make good; make the grade - преуспеть в чем-л.; make it - сделать что-л. очень хорошо; go-getter - преуспевающий человек.</segment>
+		<segment id="211" parent="494" relname="span">Профессиональная структура в США с первых лет своего существования проявила себя не как нечто устойчивое, но как категория, постоянно подвергающаяся изменениям.</segment>
+		<segment id="212" parent="213" relname="cause">Социальная жизнь настолько стремительно менялась в Новом Свете,</segment>
+		<segment id="213" parent="490" relname="span">что возникла потребность в появлении новых профессий, которые нередко представляли собой сочетание разных профессий (строитель, предприниматель, учитель).</segment>
+		<segment id="214" parent="492" relname="contrast">Таким образом, для американца особую важность представляет не только работа сама по себе как ряд функций, выполняемых для получения хорошего заработка, но как «удачная» профессия, которая в случае необходимости позволила бы ему переквалифицироваться,</segment>
+		<segment id="215" parent="491" relname="span">а это возможно</segment>
+		<segment id="216" parent="215" relname="condition">лишь при сочетании узкой специализации и широкого кругозора.</segment>
+		<segment id="217" parent="496" relname="evidence">Не зря американцы в своей жизни огромную роль отводят путешествиям, которые всегда являются возможностью получения новых впечатлений и расширения своих интересов.</segment>
+		<segment id="218" parent="497" relname="contrast">Следует подчеркнуть, что данные культурные модели были характерны для раннего американского общества,</segment>
+		<segment id="219" parent="527" relname="same-unit">однако с самого момента обретения независимости и становления своей государственности за многие годы США проявили удивительную устойчивость культурных основоположений и неизменность некоторых своих понятий, в частности,</segment>
+		<segment id="220" parent="221" relname="evaluation">как ни противоречиво это звучит,</segment>
+		<segment id="221" parent="526" relname="span">такого условного понятия, как «движение».</segment>
+		<segment id="222" relname="antithesis">1 Osgood Ch. Cross-cultural universals of affective meaning. Univ. of Illinois Press, 1975.</segment>
+		<segment id="223" relname="antithesis">2 Данные получены по материалам таких словарей, как Concise Dictionary of American Grammar and Usage. 1955; A dictionary of American English on historical principles. 1974; The Merriam Webster dictionary. 1974; Webster’s New encyclopedic dictionary. 1994; Webster’s Third new international dictionary. 1994; The Oxford American dictionary and language guide. 1999; Webster’s New century dictionary. 2001.</segment>
+		<segment id="224" relname="antithesis">3 Жоль К. К. Мысль. Слово. Метафора: Пробл. семантики в филолог. освещении.</segment>
+		<segment id="225" relname="antithesis">Киев, 1984.</segment>
+		<segment id="226" relname="antithesis">4 Телия В. Н. Метафоризация и ее роль в создании языковой картины мира // Роль</segment>
+		<segment id="227" relname="antithesis">человеческого фактора в языке. Язык и картина мира. М., 1988. С.173-204.</segment>
+		<segment id="228" relname="antithesis">5 Фоменко О. В. Метафора в современном американском слэнге. Коломна, 2004.</segment>
+		<segment id="229" relname="antithesis">6 Демьянков В. З. Когнитивная лингвистика как разновидность интерпретирующего</segment>
+		<segment id="230" relname="antithesis">подхода // ВЯ. 1994. № 4. С. 135-142.</segment>
+		<segment id="231" relname="antithesis">7 Лапшина М. Н. Семантическая эволюция английского слова (изучение лексики в</segment>
+		<segment id="232" relname="antithesis">когнитивном аспекте). СПб., 1998. С. 32.</segment>
+		<segment id="233" relname="antithesis">8 Почепцов О. Г. Языковая ментальность: способ представления мира // ВЯ. 1990.</segment>
+		<segment id="234" relname="antithesis">№ 6. С. 112-119.</segment>
+		<segment id="235" relname="antithesis">9 Клакхон К. Зеркало для человека (Введение в антропологию). СПб., 1998. С.</segment>
+		<segment id="236" relname="antithesis">294.</segment>
+		<segment id="237" relname="antithesis">10 Лернер М. Развитие цивилизации в Америке: Образ жизни и мыслей в</segment>
+		<segment id="238" relname="antithesis">Соединенных Штатах сегодня. М., 1992.</segment>
+		<segment id="239" relname="antithesis">11 Брэдфорд У. История поселения в Плимуте; Франклин Б. Автобиография.</segment>
+		<segment id="240" relname="antithesis">Памфлеты; Кревекер Сент Джон де. Письма американского фермера. М., 1987. 751с.</segment>
+		<segment id="241" relname="antithesis">12 Там же.</segment>
+		<segment id="242" relname="antithesis">13 Там же.</segment>
+		<segment id="243" relname="antithesis">14 CommagerH. S. The American Mind. An Interpretation of American Thought and</segment>
+		<segment id="244" relname="antithesis">Character since 1880’s. New York, 1950.</segment>
+		<segment id="245" relname="antithesis">15 Sayre R. F. Autobiography and the Making of America // Autobiography Essays</segment>
+		<segment id="246" relname="antithesis">Theoretical and Critical. Princeton, 1980.</segment>
+		<segment id="247" relname="antithesis">16 Силинский С. В. Время в американской лингвокультуре // Материалы XXX</segment>
+		<segment id="248" relname="antithesis">Межвузовской научно-практической конференции преподавателей и аспирантов. Вып.</segment>
+		<segment id="249" relname="antithesis">4: СПб., 2001. С. 35.</segment>
+		<segment id="250" relname="antithesis">17 Замятина Н. Ю. Зона освоения (фронтир) и его образ в американской и русской</segment>
+		<segment id="251" relname="antithesis">культурах // Общественные науки и современность. М., 1998. № 5. С. 75-88.</segment>
+		<segment id="252" relname="antithesis">18 Tidwell J. A treasury of American folk humor. A rare collection of</segment>
+		<segment id="253" relname="antithesis">laughter, tall tales, jests... N. Y., 1956.</segment>
+		<segment id="254" relname="antithesis">19 Фицджеральд Ф. С. Великий Гэтсби. М., 2000.</segment>
+		<segment id="255" relname="antithesis">20 РазумоваН. Е. Сибирь и эволюция философских воззрений А. П. Чехова //</segment>
+		<segment id="256" relname="antithesis">Американский и сибирский фронтир. Американские исследования в Сибири. Вып. 2.</segment>
+		<segment id="257" relname="antithesis">Томск, 1997. С. 14.</segment>
+		<segment id="258" relname="antithesis"></segment>
+		<group id="259" type="multinuc" parent="3" relname="elaboration"/>
+		<group id="260" type="span" parent="259" relname="joint"/>
+		<group id="261" type="span" parent="8" relname="cause"/>
+		<group id="262" type="span" relname="antithesis"/>
+		<group id="263" type="span" parent="266" relname="background"/>
+		<group id="264" type="span" parent="265" relname="elaboration"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" relname="antithesis"/>
+		<group id="268" type="multinuc" parent="269" relname="span"/>
+		<group id="269" type="span" parent="15" relname="elaboration"/>
+		<group id="270" type="span" parent="272" relname="cause"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="289" relname="span"/>
+		<group id="274" type="span" parent="277" relname="restatement"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="279" relname="contrast"/>
+		<group id="277" type="multinuc" parent="278" relname="span"/>
+		<group id="278" type="span" parent="279" relname="contrast"/>
+		<group id="279" type="multinuc" parent="280" relname="span"/>
+		<group id="280" type="span" parent="23" relname="purpose"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="286" relname="joint"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="290" relname="span"/>
+		<group id="288" type="span" parent="286" relname="joint"/>
+		<group id="289" type="span" parent="288" relname="span"/>
+		<group id="290" type="span" relname="antithesis"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="30" relname="elaboration"/>
+		<group id="293" type="span" parent="294" relname="attribution"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="306" relname="background"/>
+		<group id="296" type="multinuc" parent="299" relname="span"/>
+		<group id="297" type="multinuc" parent="298" relname="span"/>
+		<group id="298" type="span" parent="296" relname="contrast"/>
+		<group id="299" type="span" parent="37" relname="elaboration"/>
+		<group id="300" type="span" parent="36" relname="elaboration"/>
+		<group id="301" type="span" parent="306" relname="span"/>
+		<group id="302" type="span" parent="304" relname="span"/>
+		<group id="303" type="multinuc" parent="305" relname="span"/>
+		<group id="304" type="span" parent="303" relname="same-unit"/>
+		<group id="305" type="span" parent="301" relname="elaboration"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" relname="antithesis"/>
+		<group id="308" type="span" parent="311" relname="span"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="308" relname="elaboration"/>
+		<group id="311" type="span" parent="46" relname="elaboration"/>
+		<group id="312" type="span" parent="45" relname="elaboration"/>
+		<group id="313" type="span" relname="antithesis"/>
+		<group id="314" type="span" parent="315" relname="same-unit"/>
+		<group id="315" type="multinuc" parent="316" relname="span"/>
+		<group id="316" type="span" parent="52" relname="cause"/>
+		<group id="317" type="span" parent="501" relname="span"/>
+		<group id="318" type="multinuc" parent="319" relname="span"/>
+		<group id="319" type="span" parent="320" relname="joint"/>
+		<group id="320" type="multinuc" parent="321" relname="span"/>
+		<group id="321" type="span" parent="56" relname="elaboration"/>
+		<group id="322" type="multinuc" parent="323" relname="span"/>
+		<group id="323" type="span" parent="325" relname="joint"/>
+		<group id="324" type="span" parent="327" relname="span"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="324" relname="elaboration"/>
+		<group id="327" type="span" parent="317" relname="elaboration"/>
+		<group id="328" type="multinuc" parent="329" relname="span"/>
+		<group id="329" type="span" parent="66" relname="cause"/>
+		<group id="330" type="span" parent="364" relname="background"/>
+		<group id="331" type="span" parent="74" relname="elaboration"/>
+		<group id="332" type="span" parent="333" relname="span"/>
+		<group id="333" type="span" parent="335" relname="same-unit"/>
+		<group id="334" type="multinuc" parent="337" relname="span"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="334" relname="joint"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" parent="364" relname="span"/>
+		<group id="339" type="multinuc" parent="340" relname="span"/>
+		<group id="340" type="span" parent="362" relname="span"/>
+		<group id="341" type="multinuc" parent="342" relname="span"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" parent="84" relname="cause"/>
+		<group id="345" type="span" parent="360" relname="span"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" parent="349" relname="cause"/>
+		<group id="348" type="multinuc" parent="349" relname="span"/>
+		<group id="349" type="span" parent="359" relname="span"/>
+		<group id="350" type="span" parent="351" relname="span"/>
+		<group id="351" type="span" parent="356" relname="span"/>
+		<group id="352" type="multinuc" parent="353" relname="span"/>
+		<group id="353" type="span" parent="355" relname="span"/>
+		<group id="354" type="span" parent="353" relname="evidence"/>
+		<group id="355" type="span" parent="351" relname="elaboration"/>
+		<group id="356" type="span" parent="359" relname="elaboration"/>
+		<group id="357" type="span" parent="87" relname="elaboration"/>
+		<group id="358" type="span" parent="345" relname="elaboration"/>
+		<group id="359" type="span" parent="357" relname="span"/>
+		<group id="360" type="span" parent="366" relname="span"/>
+		<group id="361" type="span" parent="362" relname="elaboration"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="338" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="360" relname="preparation"/>
+		<group id="366" type="span" relname="antithesis"/>
+		<group id="367" type="span" parent="406" relname="contrast"/>
+		<group id="368" type="multinuc" parent="369" relname="span"/>
+		<group id="369" type="span" parent="370" relname="span"/>
+		<group id="370" type="span" parent="375" relname="span"/>
+		<group id="371" type="multinuc" parent="372" relname="span"/>
+		<group id="372" type="span" parent="383" relname="span"/>
+		<group id="373" type="multinuc" parent="374" relname="span"/>
+		<group id="374" type="span" parent="377" relname="joint"/>
+		<group id="375" type="span" parent="411" relname="span"/>
+		<group id="376" type="span" parent="378" relname="elaboration"/>
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="378" type="span" parent="380" relname="span"/>
+		<group id="379" type="span" parent="381" relname="joint"/>
+		<group id="380" type="span" parent="381" relname="joint"/>
+		<group id="381" type="multinuc" parent="382" relname="span"/>
+		<group id="382" type="span" parent="372" relname="elaboration"/>
+		<group id="383" type="span" parent="370" relname="elaboration"/>
+		<group id="384" type="span" parent="410" relname="span"/>
+		<group id="385" type="multinuc" parent="386" relname="span"/>
+		<group id="386" type="span" parent="124" relname="cause"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="384" relname="elaboration"/>
+		<group id="389" type="span" parent="126" relname="elaboration"/>
+		<group id="391" type="span" parent="136" relname="elaboration"/>
+		<group id="392" type="span" parent="394" relname="joint"/>
+		<group id="393" type="span" parent="394" relname="joint"/>
+		<group id="394" type="multinuc" parent="395" relname="span"/>
+		<group id="395" type="span" parent="139" relname="cause"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" parent="402" relname="span"/>
+		<group id="398" type="span" parent="399" relname="span"/>
+		<group id="399" type="span" parent="400" relname="span"/>
+		<group id="400" type="span" parent="401" relname="contrast"/>
+		<group id="401" type="multinuc" parent="403" relname="span"/>
+		<group id="402" type="span" parent="401" relname="contrast"/>
+		<group id="403" type="span" parent="413" relname="elaboration"/>
+		<group id="404" type="span" parent="414" relname="joint"/>
+		<group id="405" type="span" parent="508" relname="span"/>
+		<group id="406" type="multinuc" parent="409" relname="span"/>
+		<group id="407" type="span" parent="103" relname="elaboration"/>
+		<group id="408" type="span" parent="102" relname="elaboration"/>
+		<group id="409" type="span" parent="407" relname="span"/>
+		<group id="410" type="span" parent="375" relname="elaboration"/>
+		<group id="411" type="span" parent="414" relname="joint"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="509" relname="span"/>
+		<group id="414" type="multinuc" parent="415" relname="span"/>
+		<group id="415" type="span" parent="107" relname="elaboration"/>
+		<group id="416" type="span" parent="432" relname="span"/>
+		<group id="417" type="span" parent="513" relname="span"/>
+		<group id="418" type="span" parent="147" relname="elaboration"/>
+		<group id="419" type="multinuc" parent="420" relname="span"/>
+		<group id="420" type="span" parent="152" relname="cause"/>
+		<group id="421" type="span" parent="427" relname="joint"/>
+		<group id="422" type="span" parent="430" relname="span"/>
+		<group id="423" type="multinuc" parent="424" relname="span"/>
+		<group id="424" type="span" parent="429" relname="span"/>
+		<group id="425" type="span" parent="426" relname="span"/>
+		<group id="426" type="span" parent="427" relname="joint"/>
+		<group id="427" type="multinuc" parent="428" relname="span"/>
+		<group id="428" type="span" parent="416" relname="elaboration"/>
+		<group id="429" type="span" parent="422" relname="elaboration"/>
+		<group id="430" type="span" parent="427" relname="joint"/>
+		<group id="431" type="span" parent="424" relname="elaboration"/>
+		<group id="432" type="span" parent="143" relname="elaboration"/>
+		<group id="433" type="span" parent="159" relname="evidence"/>
+		<group id="434" type="span" parent="514" relname="contrast"/>
+		<group id="435" type="multinuc" parent="436" relname="span"/>
+		<group id="436" type="span" parent="439" relname="joint"/>
+		<group id="437" type="span" parent="439" relname="joint"/>
+		<group id="439" type="multinuc" parent="440" relname="span"/>
+		<group id="440" type="span" parent="441" relname="span"/>
+		<group id="441" type="span" parent="442" relname="span"/>
+		<group id="442" type="span" parent="454" relname="span"/>
+		<group id="443" type="multinuc" parent="444" relname="span"/>
+		<group id="444" type="span" parent="172" relname="condition"/>
+		<group id="445" type="span" parent="446" relname="span"/>
+		<group id="446" type="span" parent="452" relname="joint"/>
+		<group id="447" type="span" parent="448" relname="span"/>
+		<group id="448" type="span" parent="452" relname="joint"/>
+		<group id="449" type="span" parent="173" relname="cause"/>
+		<group id="450" type="span" parent="451" relname="span"/>
+		<group id="451" type="span" relname="antithesis"/>
+		<group id="452" type="multinuc" parent="453" relname="span"/>
+		<group id="453" type="span" parent="442" relname="elaboration"/>
+		<group id="454" type="span" parent="514" relname="contrast"/>
+		<group id="456" type="span" parent="458" relname="span"/>
+		<group id="457" type="span" parent="456" relname="evaluation"/>
+		<group id="458" type="span" parent="459" relname="span"/>
+		<group id="459" type="span" parent="519" relname="background"/>
+		<group id="461" type="multinuc" parent="462" relname="span"/>
+		<group id="462" type="span" parent="187" relname="elaboration"/>
+		<group id="463" type="span" parent="521" relname="span"/>
+		<group id="466" type="span" parent="482" relname="span"/>
+		<group id="467" type="span" parent="484" relname="span"/>
+		<group id="468" type="span" parent="469" relname="same-unit"/>
+		<group id="469" type="multinuc" parent="471" relname="span"/>
+		<group id="470" type="multinuc" parent="472" relname="span"/>
+		<group id="471" type="span" parent="470" relname="contrast"/>
+		<group id="472" type="span" parent="473" relname="sequence"/>
+		<group id="473" type="multinuc" parent="474" relname="span"/>
+		<group id="474" type="span" parent="480" relname="span"/>
+		<group id="475" type="span" parent="476" relname="contrast"/>
+		<group id="476" type="multinuc" parent="477" relname="span"/>
+		<group id="477" type="span" parent="474" relname="elaboration"/>
+		<group id="478" type="multinuc" parent="479" relname="span"/>
+		<group id="479" type="span" parent="480" relname="elaboration"/>
+		<group id="480" type="span" parent="481" relname="span"/>
+		<group id="481" type="span" parent="466" relname="elaboration"/>
+		<group id="482" type="span" parent="191" relname="elaboration"/>
+		<group id="484" type="span" parent="518" relname="span"/>
+		<group id="485" type="span" parent="488" relname="evidence"/>
+		<group id="486" type="multinuc" parent="487" relname="span"/>
+		<group id="487" type="span" parent="206" relname="elaboration"/>
+		<group id="488" type="span" parent="489" relname="span"/>
+		<group id="489" type="span" parent="525" relname="span"/>
+		<group id="490" type="span" parent="211" relname="elaboration"/>
+		<group id="491" type="span" parent="492" relname="contrast"/>
+		<group id="492" type="multinuc" parent="496" relname="span"/>
+		<group id="493" type="span" parent="495" relname="span"/>
+		<group id="494" type="span" parent="493" relname="cause"/>
+		<group id="495" type="span" relname="antithesis"/>
+		<group id="496" type="span" parent="493" relname="span"/>
+		<group id="497" type="multinuc" parent="498" relname="span"/>
+		<group id="498" type="span" relname="antithesis"/>
+		<group id="499" type="span" parent="273" relname="elaboration"/>
+		<group id="500" type="span" relname="antithesis"/>
+		<group id="501" type="span" parent="51" relname="elaboration"/>
+		<group id="502" type="multinuc" parent="503" relname="span"/>
+		<group id="503" type="span" parent="504" relname="span"/>
+		<group id="504" type="span" parent="505" relname="span"/>
+		<group id="505" type="span" parent="366" relname="preparation"/>
+		<group id="506" type="multinuc" parent="507" relname="span"/>
+		<group id="507" type="span" parent="405" relname="preparation"/>
+		<group id="508" type="span" relname="antithesis"/>
+		<group id="509" type="span" parent="510" relname="span"/>
+		<group id="510" type="span" parent="409" relname="elaboration"/>
+		<group id="511" type="multinuc" parent="512" relname="span"/>
+		<group id="512" type="span" parent="417" relname="preparation"/>
+		<group id="513" type="span" relname="antithesis"/>
+		<group id="514" type="multinuc" parent="515" relname="span"/>
+		<group id="515" type="span" relname="antithesis"/>
+		<group id="516" type="multinuc" parent="517" relname="span"/>
+		<group id="517" type="span" parent="484" relname="preparation"/>
+		<group id="518" type="span" relname="antithesis"/>
+		<group id="519" type="span" parent="520" relname="span"/>
+		<group id="520" type="span" parent="467" relname="cause"/>
+		<group id="521" type="span" parent="186" relname="elaboration"/>
+		<group id="522" type="span" parent="519" relname="span"/>
+		<group id="523" type="multinuc" parent="524" relname="span"/>
+		<group id="524" type="span" parent="489" relname="preparation"/>
+		<group id="525" type="span" relname="antithesis"/>
+		<group id="526" type="span" parent="527" relname="same-unit"/>
+		<group id="527" type="multinuc" parent="528" relname="span"/>
+		<group id="528" type="span" parent="497" relname="contrast"/>
+  </body>
+</rst>

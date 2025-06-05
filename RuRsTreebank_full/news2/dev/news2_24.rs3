@@ -1,0 +1,475 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Саммиты ШОС и БРИКС в Уфе помогут укрепить экономику и отношения между лидерами стран</segment>
+		<segment id="2" parent="236" relname="span">##### Менее месяца остается до XIV саммита Шанхайской организации сотрудничества (ШОС) и VII саммита группы БРИКС,</segment>
+		<segment id="3" parent="2" relname="elaboration">которые пройдут под председательством России в Уфе 8-10 июля 2015 года.</segment>
+		<segment id="4" parent="237" relname="span">##### Как ожидается, лидеры стран-участниц на объединенной площадке,</segment>
+		<segment id="5" parent="4" relname="elaboration">которая сможет одновременно вместить около 3 тыс. человек,</segment>
+		<segment id="6" parent="238" relname="same-unit">продолжат уже начатую работу по расширению взаимовыгодного сотрудничества в различных сферах деятельности.</segment>
+		<segment id="7" parent="239" relname="joint">##### На саммите БРИКС, вероятнее всего, будет озвучена стратегия экономического партнерства группы,</segment>
+		<segment id="8" parent="466" relname="span">а в рамках встречи глав государств ШОС пройдет обсуждение программы взаимодействия по борьбе с терроризмом, сепаратизмом и экстремизмом на 2016-2018 годы и вопроса расширения организации:</segment>
+		<segment id="9" parent="8" relname="elaboration">основными кандидатами на полноправное членство являются Индия и Пакистан.</segment>
+		<segment id="10" parent="467" relname="joint">##### Зарубежные обозреватели продолжают пристально следить за развитием событий в преддверии саммитов,</segment>
+		<segment id="11" parent="467" relname="joint">причем многие не скрывают своих ожиданий по поводу предстоящих встреч.</segment>
+		<segment id="12" parent="247" relname="attribution">Так, американский журналист Грег Штракс (Greg Shtraks) в статье, опубликованной в журнале The Diplomat, отмечает,</segment>
+		<segment id="13" parent="247" relname="joint">что переговоры в Уфе могут изменить расстановку сил в регионе,</segment>
+		<segment id="14" parent="247" relname="joint">ослабить влияние США,</segment>
+		<segment id="15" parent="247" relname="joint">привести к переделу геополитической карты мира</segment>
+		<segment id="16" parent="247" relname="joint">и предопределить дальнейшую судьбу развития идеи евразийства.</segment>
+		<segment id="17" parent="468" relname="span">##### "В прошлый раз саммиты ШОС и БРИКС проходили бок о бок всего однажды - в 2009 году,</segment>
+		<segment id="18" parent="17" relname="condition">когда экономический кризис был в самом разгаре.</segment>
+		<segment id="19" parent="468" relname="elaboration">Тогда обе организации провели одновременные встречи в Екатеринбурге.</segment>
+		<segment id="20" parent="244" relname="contrast">... Однако те переговоры прошли весьма рутинно,</segment>
+		<segment id="21" parent="244" relname="contrast">в то время как события в Уфе обещают ознаменоваться рядом крупных соглашений",</segment>
+		<segment id="22" parent="469" relname="attribution">- подчеркивает журналист.</segment>
+		<segment id="23" parent="265" relname="span">##### Приближающиеся саммиты вызвали оживленную реакцию и у международных экспертов из разных стран мира:</segment>
+		<segment id="24" parent="253" relname="joint">они так же, как и обозреватели, внимательно наблюдают за экономической и политической обстановкой</segment>
+		<segment id="25" parent="253" relname="joint">и строят свои прогнозы относительного того, какие важнейшие вопросы будут затронуты в ходе встреч в Уфе.</segment>
+		<segment id="26" parent="447" relname="attribution">##### В частности, казахстанский политолог, кандидат политических наук, директор Группы оценки рисков Досым Сатпаев (Dosym Satpayev) перечислил</segment>
+		<segment id="27" parent="447" relname="span">главные тактические задачи для стран ШОС и БРИКС,</segment>
+		<segment id="28" parent="27" relname="attribution">которые могут быть озвучены в рамках предстоящих саммитов.</segment>
+		<segment id="29" parent="30" relname="attribution">##### По его мнению,</segment>
+		<segment id="30" parent="461" relname="span">лидеры Шанхайской организации сотрудничества, как и три года назад, сосредоточатся на вопросах безопасности.</segment>
+		<segment id="31" parent="378" relname="attribution">Кроме того, эксперт подчеркнул,</segment>
+		<segment id="32" parent="378" relname="span">что от ШОС ожидают действий по усилению экономического взаимодействия в рамках союза,</segment>
+		<segment id="33" parent="32" relname="elaboration">в пользу чего сейчас активно выступает Китай.</segment>
+		<segment id="34" parent="439" relname="joint">##### "Я помню, несколько лет назад был в Пекине,</segment>
+		<segment id="35" parent="471" relname="condition">и когда разговаривал с китайскими экспертами,</segment>
+		<segment id="36" parent="256" relname="attribution">они тоже задавались вопросом:</segment>
+		<segment id="37" parent="256" relname="joint">"А что делать с этой структурой, с Шанхайской организацией сотрудничества, в будущем?</segment>
+		<segment id="38" parent="256" relname="joint">Как ее сделать более конкурентоспособной?"</segment>
+		<segment id="39" parent="473" relname="restatement">И тогда, кстати, была выдвинута так называемая "теория двух колес".</segment>
+		<segment id="40" parent="476" relname="span">То есть первое "колесо",</segment>
+		<segment id="41" parent="40" relname="elaboration">на основе которого создавался ШОС,</segment>
+		<segment id="42" parent="477" relname="same-unit">- это проблема безопасности,</segment>
+		<segment id="43" parent="267" relname="span">а второе "колесо",</segment>
+		<segment id="44" parent="43" relname="purpose">чтобы организация была более устойчивой,</segment>
+		<segment id="45" parent="257" relname="same-unit">- это экономика.</segment>
+		<segment id="46" parent="263" relname="restatement">То есть ШОС, скорее всего, в какой-то степени будет трансформироваться в экономическую структуру",</segment>
+		<segment id="47" parent="261" relname="attribution">- сказал политолог.</segment>
+		<segment id="48" parent="385" relname="attribution">##### Он также отметил,</segment>
+		<segment id="49" parent="262" relname="contrast">что присоединение к Шанхайской организации сотрудничества двух ядерных держав - Индии и Пакистана - на правах полноценных членов поднимет ее авторитет на международной арене,</segment>
+		<segment id="50" parent="262" relname="contrast">однако политикам не стоит забывать про существующие территориальные и дипломатические разногласия в регионе, в том числе между Пекином и Нью-Дели.</segment>
+		<segment id="51" parent="479" relname="same-unit">##### Вместе с тем,</segment>
+		<segment id="52" parent="53" relname="attribution">по мнению Досыма Сатпаева,</segment>
+		<segment id="53" parent="478" relname="span">в ходе VII саммита БРИКС на обсуждение должны быть вынесены темы установления реальных партнерских отношений между членами организации, привлечения новых стран-участниц и планы по реформированию мировой финансовой структуры.</segment>
+		<segment id="54" parent="55" relname="evidence">##### "Как показывает практика,</segment>
+		<segment id="55" parent="270" relname="span">нынешняя международная система - это доказательство кризиса международного права.</segment>
+		<segment id="56" parent="480" relname="span">То есть, по сути, сейчас опять "дипломатия канонерок",</segment>
+		<segment id="57" parent="56" relname="elaboration">нарушение всех возможных международных соглашений и договоренностей стало уже не исключением из правила, а правилом.</segment>
+		<segment id="58" parent="482" relname="same-unit">Поэтому БРИКС,</segment>
+		<segment id="59" parent="60" relname="condition">если хочет заявить о себе,</segment>
+		<segment id="60" parent="481" relname="span">должна предлагать собственные альтернативы с точки зрения восстановления порядка на международной сцене",</segment>
+		<segment id="61" parent="272" relname="attribution">- подчеркнул политолог.</segment>
+		<segment id="62" parent="483" relname="attribution">##### Кроме того, он напомнил,</segment>
+		<segment id="63" parent="484" relname="joint">что встречи 8-10 июля пройдут на фоне продолжающихся санкций против России, введенных Европой и США,</segment>
+		<segment id="64" parent="484" relname="joint">и значительно снизившихся цен на нефть,</segment>
+		<segment id="65" parent="483" relname="span">из-за чего у страны появился отличный повод укрепить свою независимость от западных сырьевых рынков через сотрудничество с партнерами по всему миру.</segment>
+		<segment id="66" parent="485" relname="attribution">##### В то же время эксперт отметил,</segment>
+		<segment id="67" parent="391" relname="span">что Китай,</segment>
+		<segment id="68" parent="67" relname="background">который занимает ведущую позицию как в ШОС, так и в БРИКС,</segment>
+		<segment id="69" parent="275" relname="same-unit">в ближайшие 10-15 лет может трансформироваться в полноценную экономическую и политическую сверхдержаву</segment>
+		<segment id="70" parent="276" relname="joint">и вступить с Россией в конкурентную борьбу за влияние в Азии и на постсоветском пространстве,</segment>
+		<segment id="71" parent="485" relname="span">в связи с чем Кремль должен действовать осмотрительно.</segment>
+		<segment id="72" parent="280" relname="span">##### "России нужно учитывать очень важный момент, что конкуренцию никто не отменял.</segment>
+		<segment id="73" parent="74" relname="concession">Даже несмотря на то, что эти страны входят в одни региональные блоки,</segment>
+		<segment id="74" parent="278" relname="span">в любом случае, как показывает практика, в сфере мировой экономики и международной политики на самом деле нет друзей - есть партнеры.</segment>
+		<segment id="75" parent="279" relname="contrast">Но партнер тоже может быть конъюнктурным",</segment>
+		<segment id="76" parent="280" relname="attribution">- пояснил Досым Сатпаев,</segment>
+		<segment id="77" parent="78" relname="attribution">добавив,</segment>
+		<segment id="78" parent="448" relname="span">что Москве в первую очередь нужно сконцентрироваться на укреплении внутренней конкурентоспособности государства.</segment>
+		<segment id="79" parent="284" relname="preparation">##### Похожую точку зрения высказал исследователь в области международной экономики и макроэкономики, глава Школы экономики и менеджмента Лиссабонского университета Жоакин Рамос Сильва (Joaquim Ramos Silva).</segment>
+		<segment id="80" parent="283" relname="span">##### "России важно снизить зависимость от [экспорта] энергоносителей - нефти и газа,</segment>
+		<segment id="81" parent="80" relname="condition">а такая трансформация страны потребует времени",</segment>
+		<segment id="82" parent="283" relname="attribution">- отметил он,</segment>
+		<segment id="83" parent="84" relname="attribution">добавив,</segment>
+		<segment id="84" parent="450" relname="span">что ради экономических преимуществ Москве может понадобиться отставить вопросы обороны и перевооружения на второй план.</segment>
+		<segment id="85" parent="86" relname="attribution">##### При этом эксперт подчеркнул,</segment>
+		<segment id="86" parent="395" relname="span">что в нынешних условиях политическая и финансовая гибкость будет важна для всех.</segment>
+		<segment id="87" parent="285" relname="span">##### "После 2014 года ситуация в странах БРИКС и развивающихся экономиках ухудшилась</segment>
+		<segment id="88" parent="87" relname="cause">из-за падения цен на товары, проблем с курсами валют и финансовыми рынками, снижения темпов роста китайской экономики и так далее.</segment>
+		<segment id="89" parent="286" relname="joint">Поэтому [членам] БРИКС и ШОС стоит стать реалистами</segment>
+		<segment id="90" parent="286" relname="joint">и подготовиться к реформам", - посоветовал экономист.</segment>
+		<segment id="91" parent="92" relname="attribution">##### С его точки зрения,</segment>
+		<segment id="92" parent="399" relname="span">в сложившейся обстановке наилучшим решением для участников саммитов в Уфе станет формирование открытой межгосударственной структуры с единой неагрессивной внешней политикой.</segment>
+		<segment id="93" parent="293" relname="contrast">##### "Я поддерживаю расширение представительства всех стран-участниц в международных организациях,</segment>
+		<segment id="94" parent="291" relname="span">однако этого можно будет достичь лишь</segment>
+		<segment id="95" parent="487" relname="contrast">в ходе сотрудничества с остальным миром,</segment>
+		<segment id="96" parent="487" relname="contrast">а не через разрыв связей с Западом",</segment>
+		<segment id="97" parent="293" relname="attribution">- сказал португальский исследователь,</segment>
+		<segment id="98" parent="99" relname="attribution">добавив,</segment>
+		<segment id="99" parent="451" relname="span">что такие государства, как Бразилия и Индия, продолжают поддерживать доброжелательные отношения с США и Европой.</segment>
+		<segment id="100" parent="101" relname="attribution">##### Кроме того, он напомнил,</segment>
+		<segment id="101" parent="402" relname="span">что даже на фоне заявлений о политическом и экономическом единстве в ШОС и БРИКС до сих пор не могут прийти к полноценному консенсусу по ряду важных тем, в том числе по вопросам обороны и безопасности.</segment>
+		<segment id="102" parent="296" relname="attribution">##### В то же время полномочный министр, советник посольства Федеративной Республики Бразилия в России Мигель Грисбак де Перейра Франко (Miguel Griesbach de Pereira Franco) выразил уверенность в том,</segment>
+		<segment id="103" parent="296" relname="span">что в ближайшем будущем взаимное сотрудничество участников предстоящих саммитов в Уфе только упрочится,</segment>
+		<segment id="104" parent="103" relname="evaluation">что положительно скажется на стабильности в мире.</segment>
+		<segment id="105" parent="403" relname="attribution">##### Также он предположил,</segment>
+		<segment id="106" parent="298" relname="joint">что решение объединить встречи двух международных организаций можно рассматривать как попытку БРИКС и ШОС укрепить взаимные контакты</segment>
+		<segment id="107" parent="300" relname="span">и объединиться</segment>
+		<segment id="108" parent="299" relname="span">для эффективного продвижения общих интересов</segment>
+		<segment id="109" parent="108" relname="purpose">ради достижения взаимовыгодных целей.</segment>
+		<segment id="110" parent="301" relname="span">##### "Как вы знаете, этот тренд был начат на V саммите [БРИКС в 2013 году] в ЮАР,</segment>
+		<segment id="111" parent="110" relname="condition">когда члены Африканского союза стали гостями события по просьбе властей страны.</segment>
+		<segment id="112" parent="302" relname="sequence">Год спустя Бразилия пригласила государства Союза южноамериканских наций принять участие в VI саммите в Форталезе",</segment>
+		<segment id="113" parent="405" relname="attribution">- напомнил советник посольства Бразилии в России.</segment>
+		<segment id="114" parent="406" relname="attribution">##### По его мнению,</segment>
+		<segment id="115" parent="116" relname="cause">государства, которые будут представлены на саммитах, являются странами с высоким потенциалом развития и неуклонно растущим влиянием на динамику мировой экономики,</segment>
+		<segment id="116" parent="406" relname="span">а потому у них есть все шансы достичь успеха в укреплении взаимных отношений.</segment>
+		<segment id="117" parent="307" relname="span">##### "В первую очередь [на встречах] будет возможность обсудить друг с другом общие вопросы, в особенности те, которые связаны со стимулированием экономического развития и улучшением качества жизни",</segment>
+		<segment id="118" parent="117" relname="attribution">- уточнил Мигель Грисбак де Перейра Франко.</segment>
+		<segment id="119" parent="120" relname="attribution">##### При этом он подчеркнул,</segment>
+		<segment id="120" parent="407" relname="span">что противостояние западной идее униполярного мира вряд ли станет главной темой предстоящих саммитов в Уфе.</segment>
+		<segment id="121" parent="312" relname="attribution">##### В свою очередь руководитель программы "Россия в Азиатско-Тихоокеанском регионе" Московского центра Карнеги Александр Габуев (Alexander Gabuev) заметил,</segment>
+		<segment id="122" parent="311" relname="span">что встречи 8-10 июля важны для России,</segment>
+		<segment id="123" parent="122" relname="condition">которая на сегодняшний день находится в напряженных отношениях с США и ЕС:</segment>
+		<segment id="124" parent="311" relname="elaboration">успешные переговоры станут своего рода дипломатическим ответом на действия Запада.</segment>
+		<segment id="125" parent="126" relname="attribution">##### Вместе с тем он предположил,</segment>
+		<segment id="126" parent="408" relname="span">что на саммите БРИКС вряд ли будут озвучены какие-то новые кардинальные решения.</segment>
+		<segment id="127" parent="128" relname="evaluation">##### "Главный прорыв случился в прошлом году,</segment>
+		<segment id="128" parent="489" relname="span">когда было объявлено о создании совместного банка и пула резервных валют.</segment>
+		<segment id="129" parent="315" relname="span">Наверное, будет какая-то детализация этих инициатив,</segment>
+		<segment id="130" parent="129" relname="cause">потому что пока, кроме планов и неких организационных мероприятий, ничего заметного не происходило",</segment>
+		<segment id="131" parent="488" relname="attribution">- сказал ИА "PenzaNews" аналитик.</segment>
+		<segment id="132" parent="133" relname="attribution">##### С его точки зрения,</segment>
+		<segment id="133" parent="410" relname="span">одними из главных тем, которые будут подняты на встрече глав стран ШОС, станут проблема Афганистана и возможное сочетание инициатив в рамках Евразийского экономического союза, Шанхайской организации сотрудничества и китайского "Шелкового пути".</segment>
+		<segment id="134" parent="135" relname="attribution">Однако исследователь Московского центра Карнеги также не исключил того,</segment>
+		<segment id="135" parent="455" relname="span">что участники в итоге могут ограничиться лишь обсуждением.</segment>
+		<segment id="136" parent="137" relname="attribution">##### Кроме того, он отметил,</segment>
+		<segment id="137" parent="411" relname="span">что еще одним ключевым вопросом будет планируемое вступление Индии и Пакистана в ШОС.</segment>
+		<segment id="138" parent="322" relname="attribution">При этом Александр Габуев высказал мнение,</segment>
+		<segment id="139" parent="320" relname="contrast">что увеличение численности членов организации положительно скажется на ее репутации,</segment>
+		<segment id="140" parent="321" relname="span">но сделает ее менее эффективной</segment>
+		<segment id="141" parent="140" relname="cause">из-за риска возникновения новых внутренних противоречий.</segment>
+		<segment id="142" parent="414" relname="attribution">##### Также он подчеркнул,</segment>
+		<segment id="143" parent="414" relname="span">что участники обеих организаций по уровню сотрудничества друг с другом находятся в невыгодном положении относительно КНР,</segment>
+		<segment id="144" parent="325" relname="span">которая активно пользуется своим статусом</segment>
+		<segment id="145" parent="144" relname="purpose">для продвижения собственных интересов.</segment>
+		<segment id="146" parent="494" relname="span">##### "У Китая связей со всеми остальными экономиками БРИКС больше, чем у них вместе взятых между собой",</segment>
+		<segment id="147" parent="146" relname="attribution">- пояснил собеседник агентства.</segment>
+		<segment id="148" parent="327" relname="attribution">##### Между тем исследователь отделения экономической дипломатии Южно-Африканского института международных отношений Кристофер Вуд (Christopher Wood) напомнил,</segment>
+		<segment id="149" parent="150" relname="cause">что в настоящий момент финансовое положение многих стран находится не в лучшем состоянии,</segment>
+		<segment id="150" parent="327" relname="span">что во многом предопределит характер их взаимоотношений.</segment>
+		<segment id="151" parent="329" relname="comparison">##### "Бразилия, ЮАР и Россия испытывают экономические трудности,</segment>
+		<segment id="152" parent="329" relname="comparison">и даже в Китае заметно замедлился рост",</segment>
+		<segment id="153" parent="330" relname="attribution">- сказал эксперт,</segment>
+		<segment id="154" parent="155" relname="attribution">добавив,</segment>
+		<segment id="155" parent="456" relname="span">что потенциал сотрудничества между союзниками от этого все же не пострадал.</segment>
+		<segment id="156" parent="333" relname="attribution">##### По его мнению,</segment>
+		<segment id="157" parent="158" relname="condition">при обсуждении предстоящих встреч в Уфе 8-10 июля</segment>
+		<segment id="158" parent="333" relname="span">необходимо учитывать текущую геополитическую обстановку в Европе и Азии.</segment>
+		<segment id="159" parent="160" relname="attribution">##### "Я считаю,</segment>
+		<segment id="160" parent="458" relname="span">что эти саммиты необходимо рассматривать в контексте сохраняющегося напряжения между Россией и Западом и попыток изолировать РФ с помощью таких мер, как, например, исключение из состава "Большой восьмерки". [...]</segment>
+		<segment id="161" parent="335" relname="span">Думаю, эти саммиты позволяют увидеть, что изолировать какую-либо страну в многополярном мире очень сложно.</segment>
+		<segment id="162" parent="163" relname="cause">Попытки отдельных групп организовать такую изоляцию</segment>
+		<segment id="163" parent="334" relname="span">могут привести всего лишь к переориентации на другие международные организации",</segment>
+		<segment id="164" parent="495" relname="attribution">- сказал исследователь.</segment>
+		<segment id="165" parent="337" relname="attribution">##### С его точки зрения,</segment>
+		<segment id="166" parent="336" relname="evidence">тот факт, что Россия выступает организатором саммитов БРИКС и ШОС на самом высоком уровне,</segment>
+		<segment id="167" parent="336" relname="joint">является не только демонстрацией сохранившегося влияния Кремля,</segment>
+		<segment id="168" parent="336" relname="joint">но и сигналом, что на мировой политической арене начали возникать крупные альтернативы западным блокам - сильные политические союзы развивающихся стран.</segment>
+		<segment id="169" parent="497" relname="attribution">##### Эксперт подчеркнул также,</segment>
+		<segment id="170" parent="497" relname="span">что стремление противодействовать США и Европе нельзя считать основной причиной возникновения таких международных организаций,</segment>
+		<segment id="171" parent="170" relname="cause">поскольку многие государства продолжают поддерживать с ними тесные связи.</segment>
+		<segment id="172" parent="339" relname="comparison">##### "К примеру, Бразилия называет себя страной Запада,</segment>
+		<segment id="173" parent="339" relname="comparison">а Индия под руководством президента Нарендры Моди (Narendra Modi) начала налаживать отношения с Вашингтоном",</segment>
+		<segment id="174" parent="339" relname="attribution">- уточнил представитель Южно-Африканского института международных отношений.</segment>
+		<segment id="175" parent="340" relname="condition">##### Говоря о повестке дня предстоящих саммитов в Уфе,</segment>
+		<segment id="176" parent="340" relname="span">он сделал акцент на вопросе сотрудничества между государствами,</segment>
+		<segment id="177" parent="176" relname="evaluation">который, с его точки зрения, сейчас особенно актуален в отношении Китая, России, Бразилии, Индии и ЮАР.</segment>
+		<segment id="178" parent="179" relname="attribution">##### "Я считаю,</segment>
+		<segment id="179" parent="460" relname="span">что ключ к успешной работе БРИКС в обозримом будущем лежит в конструктивном подходе к разногласиям между партнерами.</segment>
+		<segment id="180" parent="342" relname="span">БРИКС - очень разнородная группа,</segment>
+		<segment id="181" parent="180" relname="elaboration">у членов которой столько же различий, сколько и общих задач.</segment>
+		<segment id="182" parent="343" relname="joint">Они должны с пониманием относиться к своим разногласиям</segment>
+		<segment id="183" parent="343" relname="joint">и не упускать взаимовыгодные возможности.</segment>
+		<segment id="184" parent="344" relname="purpose">Это позволит им показать остальному миру, что даже очень разные государства способны на плодотворное взаимодействие",</segment>
+		<segment id="185" parent="500" relname="attribution">- подчеркнул Кристофер Вуд.</segment>
+		<segment id="186" parent="352" relname="attribution">##### Вместе с тем старший сотрудник индийского международного фонда "Вивекананда", автор ряда статей по геополитике в Азии Винод Ананд (Vinod Anand) отметил,</segment>
+		<segment id="187" parent="350" relname="span">что позиции ШОС и БРИКС по ряду тем,</segment>
+		<segment id="188" parent="187" relname="condition">включая вопросы национальной и глобальной безопасности,</segment>
+		<segment id="189" parent="351" relname="same-unit">за последние годы практически не изменились.</segment>
+		<segment id="190" parent="191" relname="attribution">##### "Предыдущий президент России Дмитрий Медведев (Dmitry Medvedev) когда-то говорил</segment>
+		<segment id="191" parent="354" relname="span">об искусственно поддерживаемой униполярной системе.</segment>
+		<segment id="192" parent="357" relname="span">Похожих заявлений следует ожидать и на этот раз.</segment>
+		<segment id="193" parent="356" relname="joint">Более того, Россия, Китай и Индия входят в обе организации,</segment>
+		<segment id="194" parent="356" relname="joint">и они имеют общее видение по вопросу, каким должен быть новый мировой порядок",</segment>
+		<segment id="195" parent="425" relname="attribution">- сказал эксперт.</segment>
+		<segment id="196" parent="502" relname="attribution">##### С его точки зрения,</segment>
+		<segment id="197" parent="502" relname="joint">наиболее острыми темами саммитов в Уфе станут стимулирование взаимных контактов, а также развитие и поддержание мира,</segment>
+		<segment id="198" parent="502" relname="joint">и в этом контексте такие перемены, как расширение ШОС за счет Индии и Пакистана, станут необходимым подспорьем.</segment>
+		<segment id="199" parent="360" relname="span">##### "Члены Шанхайской организации сотрудничества продолжают следить за развитием ситуации в Афганистане,</segment>
+		<segment id="200" parent="199" relname="cause">поскольку любой всплеск беспорядков там приведет к негативным последствиям для них.</segment>
+		<segment id="201" parent="363" relname="same-unit">Кооперация в регионе -</segment>
+		<segment id="202" parent="361" relname="joint">или через стамбульский процесс под названием "Сердце Азии", в котором Индия и Пакистан принимают участие,</segment>
+		<segment id="203" parent="361" relname="joint">или же благодаря ШОС</segment>
+		<segment id="204" parent="362" relname="span">- поможет установить стабильный мир в Афганистане и вокруг него",</segment>
+		<segment id="205" parent="364" relname="attribution">- сказал Винод Ананд.</segment>
+		<segment id="206" parent="426" relname="attribution">##### Он добавил,</segment>
+		<segment id="207" parent="426" relname="span">что расширение сотрудничества также положительно скажется на торговых отношениях,</segment>
+		<segment id="208" parent="207" relname="cause">поскольку страны, которые будут представлены в Уфе, прекрасно дополняют друг друга.</segment>
+		<segment id="209" parent="210" relname="attribution">##### Аналитик выразил уверенность в том,</segment>
+		<segment id="210" parent="428" relname="span">что саммиты 8-10 июля являются демонстрацией естественного перехода мира к многополярной геополитической стратегии и постепенного сдвига центра силы с Запада на Восток.</segment>
+		<segment id="211" parent="367" relname="joint">##### "В долгосрочной перспективе эти союзы могут перерасти в крупный политический блок в ООН</segment>
+		<segment id="212" parent="367" relname="joint">и внести свою лепту в процесс изменения мирового устройства,</segment>
+		<segment id="213" parent="368" relname="purpose">что поможет уравновесить стратегический диалог на региональном и глобальном уровне",</segment>
+		<segment id="214" parent="369" relname="attribution">- подытожил Винод Ананд.</segment>
+		<segment id="215" parent="234" relname="preparation">##### Группа БРИКС объединяет пять наиболее быстро развивающихся крупных стран мира - Китай, Россию, Бразилию, Индию и ЮАР.</segment>
+		<segment id="216" parent="229" relname="sequence">##### Свое первое название - "BRIC" (БРИК) - группа получила в ноябре 2001 года по первым буквам стран в ее составе на тот момент: Бразилии, России, Индии и Китая.</segment>
+		<segment id="217" parent="229" relname="sequence">В 2011 году после присоединения Южно-Африканской Республики международное объединение было переименовано в "BRICS" (БРИКС, от S - South Africa).</segment>
+		<segment id="218" parent="504" relname="sequence">##### Первая краткая встреча лидеров государств группы прошла в июле 2008 года в японском городе Тояко-Онсен,</segment>
+		<segment id="219" parent="504" relname="sequence">а первый полномасштабный ежегодный саммит состоялся в российском Екатеринбурге 16 июня 2009 года совместно со встречей глав ШОС.</segment>
+		<segment id="220" parent="230" relname="sequence">##### Шанхайская организация сотрудничества была основана в 2001 году лидерами России, Китая, Казахстана, Киргизии, Таджикистана и Узбекистана.</segment>
+		<segment id="221" parent="505" relname="span">##### До этого все указанные страны, кроме Узбекистана, были участницами "Шанхайской пятерки"</segment>
+		<segment id="222" parent="221" relname="elaboration">- политического объединения, основанного на Соглашении об укреплении доверия в военной области в районе границы (Шанхай, 1996) и Соглашении о взаимном сокращении вооруженных сил в районе границы (Москва, 1997).</segment>
+		<segment id="223" parent="506" relname="sequence">После включения в организацию Узбекистана "пятерка" стала "шестеркой"</segment>
+		<segment id="224" parent="506" relname="sequence">и была переименована в ШОС.</segment>
+		<segment id="225" parent="230" relname="sequence">##### В настоящее время пять стран - Афганистан, Индия, Иран, Монголия и Пакистан - имеют в ШОС статус наблюдателя, а три - Белоруссия, Турция и Шри-Ланка - партнера по диалогу.</segment>
+		<segment id="226" parent="228" relname="span">##### Среди основных целей ШОС</segment>
+		<segment id="227" parent="226" relname="purpose">- укрепление взаимного доверия между государствами-членами; содействие их эффективному сотрудничеству в политической, торгово-экономической, научно-технической, культурной и других областях; совместное обеспечение и поддержание мира, безопасности и стабильности в регионе; продвижение к созданию демократического, справедливого и рационального нового международного политического и экономического порядка.</segment>
+		<group id="228" type="span" parent="233" relname="joint"/>
+		<group id="229" type="multinuc" parent="233" relname="joint"/>
+		<group id="230" type="multinuc" parent="233" relname="joint"/>
+		<group id="233" type="multinuc" parent="234" relname="span"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" />
+		<group id="236" type="span" parent="441" relname="sequence"/>
+		<group id="237" type="span" parent="238" relname="same-unit"/>
+		<group id="238" type="multinuc" parent="441" relname="sequence"/>
+		<group id="239" type="multinuc" parent="442" relname="elaboration"/>
+		<group id="242" type="span" parent="244" relname="background"/>
+		<group id="244" type="multinuc" parent="469" relname="span"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" />
+		<group id="253" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="254" type="span" parent="264" relname="span"/>
+		<group id="256" type="multinuc" parent="471" relname="span"/>
+		<group id="257" type="multinuc" parent="258" relname="joint"/>
+		<group id="258" type="multinuc" parent="263" relname="restatement"/>
+		<group id="259" type="span" parent="261" relname="span"/>
+		<group id="260" type="multinuc" parent="382" relname="span"/>
+		<group id="261" type="span" parent="474" relname="span"/>
+		<group id="262" type="multinuc" parent="385" relname="span"/>
+		<group id="263" type="multinuc" parent="473" relname="restatement"/>
+		<group id="264" type="span" parent="266" relname="span"/>
+		<group id="265" type="span" parent="264" relname="preparation"/>
+		<group id="266" type="span" />
+		<group id="267" type="span" parent="257" relname="same-unit"/>
+		<group id="268" type="span" parent="382" relname="elaboration"/>
+		<group id="270" type="span" parent="271" relname="restatement"/>
+		<group id="271" type="multinuc" parent="482" relname="cause"/>
+		<group id="272" type="span" parent="387" relname="span"/>
+		<group id="274" type="span" parent="431" relname="joint"/>
+		<group id="275" type="multinuc" parent="276" relname="joint"/>
+		<group id="276" type="multinuc" parent="71" relname="cause"/>
+		<group id="277" type="span" parent="282" relname="span"/>
+		<group id="278" type="span" parent="279" relname="contrast"/>
+		<group id="279" type="multinuc" parent="72" relname="elaboration"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="448" relname="cause"/>
+		<group id="282" type="span" />
+		<group id="283" type="span" parent="394" relname="span"/>
+		<group id="284" type="span" parent="289" relname="span"/>
+		<group id="285" type="span" parent="286" relname="cause"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="395" relname="elaboration"/>
+		<group id="289" type="span" parent="290" relname="joint"/>
+		<group id="290" type="multinuc" />
+		<group id="291" type="span" parent="293" relname="contrast"/>
+		<group id="293" type="multinuc" parent="400" relname="span"/>
+		<group id="295" type="span" parent="434" relname="joint"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="309" relname="preparation"/>
+		<group id="298" type="multinuc" parent="403" relname="span"/>
+		<group id="299" type="span" parent="107" relname="purpose"/>
+		<group id="300" type="span" parent="298" relname="joint"/>
+		<group id="301" type="span" parent="302" relname="sequence"/>
+		<group id="302" type="multinuc" parent="405" relname="span"/>
+		<group id="303" type="span" parent="308" relname="span"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="309" relname="span"/>
+		<group id="306" type="span" />
+		<group id="307" type="span" parent="303" relname="elaboration"/>
+		<group id="308" type="span" parent="375" relname="span"/>
+		<group id="309" type="span" parent="306" relname="span"/>
+		<group id="311" type="span" parent="312" relname="span"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="437" relname="joint"/>
+		<group id="315" type="span" parent="489" relname="elaboration"/>
+		<group id="319" type="multinuc" parent="324" relname="joint"/>
+		<group id="320" type="multinuc" parent="322" relname="span"/>
+		<group id="321" type="span" parent="320" relname="contrast"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="492" relname="joint"/>
+		<group id="324" type="multinuc" parent="493" relname="span"/>
+		<group id="325" type="span" parent="143" relname="elaboration"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" parent="332" relname="span"/>
+		<group id="329" type="multinuc" parent="330" relname="span"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="457" relname="span"/>
+		<group id="332" type="span" parent="463" relname="preparation"/>
+		<group id="333" type="span" parent="462" relname="span"/>
+		<group id="334" type="span" parent="161" relname="elaboration"/>
+		<group id="335" type="span" parent="458" relname="evaluation"/>
+		<group id="336" type="multinuc" parent="337" relname="span"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" parent="423" relname="span"/>
+		<group id="339" type="multinuc" parent="421" relname="span"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="499" relname="preparation"/>
+		<group id="342" type="span" parent="346" relname="span"/>
+		<group id="343" type="multinuc" parent="344" relname="span"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="345" type="span" parent="342" relname="elaboration"/>
+		<group id="346" type="span" parent="460" relname="elaboration"/>
+		<group id="350" type="span" parent="351" relname="same-unit"/>
+		<group id="351" type="multinuc" parent="352" relname="span"/>
+		<group id="352" type="span" parent="353" relname="span"/>
+		<group id="353" type="span" parent="358" relname="preparation"/>
+		<group id="354" type="span" parent="355" relname="sequence"/>
+		<group id="355" type="multinuc" parent="425" relname="span"/>
+		<group id="356" type="multinuc" parent="192" relname="elaboration"/>
+		<group id="357" type="span" parent="355" relname="sequence"/>
+		<group id="358" type="span" parent="359" relname="span"/>
+		<group id="359" type="span" />
+		<group id="360" type="span" parent="364" relname="span"/>
+		<group id="361" type="multinuc" parent="204" relname="cause"/>
+		<group id="362" type="span" parent="363" relname="same-unit"/>
+		<group id="363" type="multinuc" parent="360" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="371" relname="span"/>
+		<group id="367" type="multinuc" parent="368" relname="span"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="370" relname="span"/>
+		<group id="370" type="span" parent="428" relname="elaboration"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" />
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" parent="305" relname="evaluation"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="260" relname="joint"/>
+		<group id="381" type="span" parent="254" relname="elaboration"/>
+		<group id="382" type="span" parent="381" relname="span"/>
+		<group id="385" type="span" parent="386" relname="span"/>
+		<group id="386" type="span" parent="474" relname="evaluation"/>
+		<group id="387" type="span" parent="431" relname="joint"/>
+		<group id="391" type="span" parent="275" relname="same-unit"/>
+		<group id="394" type="span" parent="284" relname="span"/>
+		<group id="395" type="span" parent="486" relname="span"/>
+		<group id="399" type="span" parent="435" relname="preparation"/>
+		<group id="400" type="span" parent="295" relname="span"/>
+		<group id="402" type="span" parent="434" relname="joint"/>
+		<group id="403" type="span" parent="304" relname="span"/>
+		<group id="404" type="span" parent="304" relname="background"/>
+		<group id="405" type="span" parent="404" relname="span"/>
+		<group id="406" type="span" parent="303" relname="span"/>
+		<group id="407" type="span" parent="308" relname="elaboration"/>
+		<group id="408" type="span" parent="409" relname="span"/>
+		<group id="409" type="span" parent="437" relname="joint"/>
+		<group id="410" type="span" parent="319" relname="contrast"/>
+		<group id="411" type="span" parent="492" relname="joint"/>
+		<group id="414" type="span" parent="416" relname="span"/>
+		<group id="416" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" parent="324" relname="elaboration"/>
+		<group id="421" type="span" parent="496" relname="elaboration"/>
+		<group id="423" type="span" />
+		<group id="425" type="span" parent="358" relname="span"/>
+		<group id="426" type="span" parent="427" relname="span"/>
+		<group id="427" type="span" parent="365" relname="evaluation"/>
+		<group id="428" type="span" parent="429" relname="span"/>
+		<group id="429" type="span" />
+		<group id="431" type="multinuc" parent="432" relname="span"/>
+		<group id="432" type="span" parent="433" relname="span"/>
+		<group id="433" type="span" />
+		<group id="434" type="multinuc" parent="435" relname="span"/>
+		<group id="435" type="span" parent="436" relname="span"/>
+		<group id="436" type="span" />
+		<group id="437" type="multinuc" />
+		<group id="439" type="multinuc" parent="473" relname="solutionhood"/>
+		<group id="441" type="multinuc" parent="442" relname="span"/>
+		<group id="442" type="span" parent="443" relname="span"/>
+		<group id="443" type="span" />
+		<group id="447" type="span" parent="254" relname="span"/>
+		<group id="448" type="span" parent="449" relname="span"/>
+		<group id="449" type="span" parent="277" relname="elaboration"/>
+		<group id="450" type="span" parent="394" relname="elaboration"/>
+		<group id="451" type="span" parent="400" relname="elaboration"/>
+		<group id="455" type="span" parent="319" relname="contrast"/>
+		<group id="456" type="span" parent="331" relname="elaboration"/>
+		<group id="457" type="span" parent="328" relname="elaboration"/>
+		<group id="458" type="span" parent="495" relname="span"/>
+		<group id="459" type="span" parent="462" relname="elaboration"/>
+		<group id="460" type="span" parent="500" relname="span"/>
+		<group id="461" type="span" parent="260" relname="joint"/>
+		<group id="462" type="span" parent="463" relname="span"/>
+		<group id="463" type="span" parent="464" relname="span"/>
+		<group id="464" type="span" />
+		<group id="466" type="span" parent="239" relname="joint"/>
+		<group id="467" type="multinuc" parent="248" relname="preparation"/>
+		<group id="468" type="span" parent="242" relname="span"/>
+		<group id="469" type="span" parent="470" relname="span"/>
+		<group id="470" type="span" parent="249" relname="elaboration"/>
+		<group id="471" type="span" parent="472" relname="span"/>
+		<group id="472" type="span" parent="439" relname="joint"/>
+		<group id="473" type="multinuc" parent="259" relname="span"/>
+		<group id="474" type="span" parent="268" relname="span"/>
+		<group id="476" type="span" parent="477" relname="same-unit"/>
+		<group id="477" type="multinuc" parent="258" relname="joint"/>
+		<group id="478" type="span" parent="479" relname="same-unit"/>
+		<group id="479" type="multinuc" parent="431" relname="preparation"/>
+		<group id="480" type="span" parent="271" relname="restatement"/>
+		<group id="481" type="span" parent="482" relname="same-unit"/>
+		<group id="482" type="multinuc" parent="272" relname="span"/>
+		<group id="483" type="span" parent="274" relname="span"/>
+		<group id="484" type="multinuc" parent="65" relname="cause"/>
+		<group id="485" type="span" parent="277" relname="span"/>
+		<group id="486" type="span" parent="290" relname="joint"/>
+		<group id="487" type="multinuc" parent="94" relname="condition"/>
+		<group id="488" type="span" parent="490" relname="span"/>
+		<group id="489" type="span" parent="488" relname="span"/>
+		<group id="490" type="span" parent="408" relname="elaboration"/>
+		<group id="492" type="multinuc" parent="324" relname="joint"/>
+		<group id="493" type="span" />
+		<group id="494" type="span" parent="416" relname="elaboration"/>
+		<group id="495" type="span" parent="459" relname="span"/>
+		<group id="496" type="span" parent="498" relname="span"/>
+		<group id="497" type="span" parent="496" relname="span"/>
+		<group id="498" type="span" parent="338" relname="elaboration"/>
+		<group id="499" type="span" parent="501" relname="span"/>
+		<group id="500" type="span" parent="499" relname="span"/>
+		<group id="501" type="span" />
+		<group id="502" type="multinuc" parent="503" relname="span"/>
+		<group id="503" type="span" parent="371" relname="preparation"/>
+		<group id="504" type="multinuc" parent="230" relname="sequence"/>
+		<group id="505" type="span" parent="230" relname="sequence"/>
+		<group id="506" type="multinuc" parent="230" relname="sequence"/>
+	</body>
+</rst>

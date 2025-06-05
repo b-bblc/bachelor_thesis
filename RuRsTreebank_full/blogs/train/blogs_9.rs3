@@ -1,0 +1,338 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://kosmetista.ru/blog/uhodovaya-kosmetika/98856.html</segment>
+		<segment id="2" >##### Мой неоднозначный опыт с The Ordinary</segment>
+		<segment id="3" >##### Всем доброго времени суток!</segment>
+		<segment id="4" parent="169" relname="span">##### В общей сложности у меня было 8 продуктов этого бренда.</segment>
+		<segment id="5" parent="6" relname="cause">Закончившиеся банки были безжалостно выброшены,</segment>
+		<segment id="6" parent="281" relname="span">поэтому расскажу о 3-х оставшихся: Granactive Retinoid 5% in Squalane Hyaluronic Acid 2% + B5 Niacinamide 10% + Zinc 1%</segment>
+		<segment id="7" parent="169" relname="elaboration">##### IMG IMG</segment>
+		<segment id="8" parent="171" relname="contrast">##### У меня нет сомнений, что здесь остались девушки, которые не знают об этом бренде, его истории, концепции, скандалах.</segment>
+		<segment id="9" parent="170" relname="joint">Не буду повторяться,</segment>
+		<segment id="10" parent="170" relname="joint">сразу перейду к делу.</segment>
+		<segment id="11" parent="172" relname="span">##### Моя кожа: 29 лет, комбинированный тип, чувствительная, акне в ремиссии, пост-акне,</segment>
+		<segment id="12" parent="11" relname="elaboration">быстро забиваются поры.</segment>
+		<segment id="13" parent="173" relname="cause">Очень сложно подобрать подходящее средство,</segment>
+		<segment id="14" parent="173" relname="span">поэтому на полках пылятся разнообразные банки,</segment>
+		<segment id="15" parent="14" relname="evaluation">сделавшие только хуже (в основном).</segment>
+		<segment id="16" parent="284" relname="span">##### Granactive Retinoid 5% in Squalane The Ordinary</segment>
+		<segment id="17" parent="16" relname="elaboration">##### IMG Granactive Retinoid 5% in Squalane The Ordinary</segment>
+		<segment id="18" parent="181" relname="span">##### Я честно пользовалась этой сывороткой на протяжении 5-ти месяцев.</segment>
+		<segment id="19" parent="176" relname="span">Это время пришлось как раз на тот период,</segment>
+		<segment id="20" parent="19" relname="condition">когда я закончила применение аптечных ретиноидов.</segment>
+		<segment id="21" parent="180" relname="span">Кожа была иссушенной, чувствительной, с большим количеством заломов.</segment>
+		<segment id="22" parent="177" relname="contrast">##### Изначально я хотела взять эмульсию с ретиноидами и ретинолом,</segment>
+		<segment id="23" parent="177" relname="contrast">но никак она мне не попадалась,</segment>
+		<segment id="24" parent="178" relname="span">поэтому выбрала ретиноиды в сквалане.</segment>
+		<segment id="25" parent="179" relname="span">Концентрацию 5% хапнула от жадности,</segment>
+		<segment id="26" parent="25" relname="concession">хотя был вариант взять 2%.</segment>
+		<segment id="27" parent="184" relname="joint">##### Сыворотка заключена в стеклянную бутылочку с затемнением.</segment>
+		<segment id="28" parent="184" relname="joint">Снабжена удобной пипеткой-дозатором.</segment>
+		<segment id="29" parent="185" relname="span">Плотно закрывается,</segment>
+		<segment id="30" parent="29" relname="evaluation">никаких проблем с упаковкой нет.</segment>
+		<segment id="31" parent="184" relname="elaboration">Эту сыворотку я хранила в прохладном темном месте.</segment>
+		<segment id="32" parent="186" relname="elaboration">##### IMG Granactive Retinoid 5% in Squalane The Ordinary</segment>
+		<segment id="33" parent="188" relname="joint">##### Объем: 30 мл</segment>
+		<segment id="34" parent="188" relname="joint">##### Срок годности:</segment>
+		<segment id="35" parent="285" relname="span">##### Состав:</segment>
+		<segment id="36" parent="35" relname="elaboration">##### IMG Состав Granactive Retinoid 5% in Squalane The Ordinary</segment>
+		<segment id="37" parent="192" relname="span">##### Первое, что меня оттолкнуло — запах.</segment>
+		<segment id="38" parent="191" relname="contrast">Стойкое ощущение, словно ты находишься в каком-то гараже,</segment>
+		<segment id="39" parent="191" relname="contrast">но уже через 5-7 минут после нанесения запах абсолютно не ощущается.</segment>
+		<segment id="40" parent="290" relname="span">##### Вторая негативная реакция была связана с консистенцией сыворотки.</segment>
+		<segment id="41" parent="42" relname="attribution">Я ожидала,</segment>
+		<segment id="42" parent="288" relname="span">что она будет маслянистой,</segment>
+		<segment id="43" parent="193" relname="span">но тут консистенция немного не такая,</segment>
+		<segment id="44" parent="43" relname="evaluation">более противная что ли.</segment>
+		<segment id="45" parent="193" relname="evaluation">Трудно объяснить.</segment>
+		<segment id="46" parent="196" relname="span">Неприятная, некомфортная.</segment>
+		<segment id="47" parent="46" relname="elaboration">Особенно для моей комбинированной и проблемной кожи.</segment>
+		<segment id="48" parent="290" relname="elaboration">##### IMG IMG</segment>
+		<segment id="49" parent="280" relname="span">##### После нанесения этой сыворотки у меня всегда появлялось ощущение какой-то слоености на лице, пирога, теплицы.</segment>
+		<segment id="50" parent="199" relname="joint">Сразу после нанесения кожу немного покалывает,</segment>
+		<segment id="51" parent="199" relname="joint">она краснеет.</segment>
+		<segment id="52" parent="200" relname="span">Впитывается довольно долго.</segment>
+		<segment id="53" parent="52" relname="elaboration">Через полчаса все еще ощущается.</segment>
+		<segment id="54" parent="201" relname="contrast">В первое время лицо немного шелушится,</segment>
+		<segment id="55" parent="201" relname="contrast">но это проходит буквально через пару недель использования.</segment>
+		<segment id="56" parent="202" relname="sequence">##### Я наносила сыворотку на ладони,</segment>
+		<segment id="57" parent="202" relname="sequence">2-3 капли растирала в руках</segment>
+		<segment id="58" parent="204" relname="span">и переносила на лицо.</segment>
+		<segment id="59" parent="203" relname="joint">Она словно скользит по поверхности кожи,</segment>
+		<segment id="60" parent="203" relname="joint">хорошо распределяется.</segment>
+		<segment id="61" parent="202" relname="elaboration">##### IMG</segment>
+		<segment id="62" parent="205" relname="span">##### Пользовалась 3 раза в неделю исключительно на ночь.</segment>
+		<segment id="63" parent="62" relname="elaboration">С таким расходом сыворотки хватило почти на 5 месяцев применения.</segment>
+		<segment id="64" parent="209" relname="solutionhood">##### Что смогу сказать?</segment>
+		<segment id="65" parent="208" relname="span">##### В качестве анти-эйдж средства я ее не поняла,</segment>
+		<segment id="66" parent="65" relname="concession">хотя признаю, что ждать какого-то сверхэффекта от ретиноида за такой срок нельзя.</segment>
+		<segment id="67" parent="279" relname="span">Зато она отлично зашла мне в качестве поддерживающей терапии после курса аптечных ретиноидов.</segment>
+		<segment id="68" parent="210" relname="joint">Она вполне себе сдерживает воспаления,</segment>
+		<segment id="69" parent="210" relname="joint">не забивает поры,</segment>
+		<segment id="70" parent="210" relname="joint">отлично работает с тоном кожи.</segment>
+		<segment id="71" parent="294" relname="joint">##### Утром лицо отдохнувшее, хорошее.</segment>
+		<segment id="72" parent="211" relname="joint">Допользовалась</segment>
+		<segment id="73" parent="211" relname="joint">и больше не повторяла.</segment>
+		<segment id="74" parent="212" relname="span">Желания нет только</segment>
+		<segment id="75" parent="74" relname="cause">из-за консистенции.</segment>
+		<segment id="76" parent="212" relname="evaluation">Не нравится.</segment>
+		<segment id="77" parent="292" relname="joint">##### 900₽ цена</segment>
+		<segment id="78" parent="292" relname="joint">##### 6/10 оценка</segment>
+		<segment id="79" parent="292" relname="joint">##### 5 месяцев, 3 р/в неделю использование</segment>
+		<segment id="80" parent="295" relname="span">##### Hyaluronic Acid 2% + B5 The Ordinary</segment>
+		<segment id="81" parent="80" relname="elaboration">##### IMG</segment>
+		<segment id="82" parent="217" relname="span">##### Сыворотка с 3-мя видами гиалуронки в 2% концентрации и витамином В5.</segment>
+		<segment id="83" parent="218" relname="joint">Находится в бутылочке из матового стекла.</segment>
+		<segment id="84" parent="216" relname="joint">Прозрачная,</segment>
+		<segment id="85" parent="216" relname="joint">не имеет ярко-выраженного запаха.</segment>
+		<segment id="86" parent="296" relname="joint">##### Объем: 30 мл</segment>
+		<segment id="87" parent="296" relname="joint">##### Срок годности: 12 месяцев</segment>
+		<segment id="88" parent="297" relname="span">##### Состав:</segment>
+		<segment id="89" parent="88" relname="elaboration">##### IMG</segment>
+		<segment id="90" parent="298" relname="span">##### Пожалуй, эту сыворотку больше всего ругают.</segment>
+		<segment id="91" parent="222" relname="span">Есть за что.</segment>
+		<segment id="92" parent="221" relname="span">У нее абсолютно топорная формула.</segment>
+		<segment id="93" parent="92" relname="elaboration">Гелевая, вязкая, липкая, оставляет пленку, стягивает.</segment>
+		<segment id="94" parent="298" relname="elaboration">##### IMG IMG</segment>
+		<segment id="95" parent="96" relname="attribution">##### Я долго не знала,</segment>
+		<segment id="96" parent="299" relname="span">как ее приспособить,</segment>
+		<segment id="97" parent="224" relname="span">но нашла следующее применение:</segment>
+		<segment id="98" parent="225" relname="sequence">беру 10 мл любого гидролата (роза, иссоп, лаванда, василек)</segment>
+		<segment id="99" parent="225" relname="sequence">и добавляю к нему целую пипетку этой гиалуроновой сыворотки,</segment>
+		<segment id="100" parent="225" relname="sequence">перемешиваю</segment>
+		<segment id="101" parent="226" relname="span">и бросаю туда тканевую маску-таблетку,</segment>
+		<segment id="102" parent="101" relname="elaboration">которая впитывает в себя жидкость</segment>
+		<segment id="103" parent="227" relname="joint">и набухает.</segment>
+		<segment id="104" parent="228" relname="span">##### Наношу пропитавшуюся тканевую маску на лицо вместо тоника сразу после умывания.</segment>
+		<segment id="105" parent="104" relname="elaboration">Десяти минут достаточно.</segment>
+		<segment id="106" parent="228" relname="elaboration">Делаю это через день.</segment>
+		<segment id="107" parent="232" relname="span">Кожа чувствует себя классно,</segment>
+		<segment id="108" parent="231" relname="span">максимум увлажнения, максимум эффективности, никакого дискомфорта и неприятных ощущений,</segment>
+		<segment id="109" parent="230" relname="span">которые может вызывать эта сыворотка</segment>
+		<segment id="110" parent="109" relname="condition">при стандартном использовании.</segment>
+		<segment id="111" parent="112" relname="condition">При таком применении</segment>
+		<segment id="112" parent="234" relname="span">даже добиваю вторую банку,</segment>
+		<segment id="113" parent="235" relname="contrast">но больше повторять не буду, наверное))</segment>
+		<segment id="114" parent="300" relname="joint">##### 500₽ цена</segment>
+		<segment id="115" parent="300" relname="joint">##### 7/10 оценка</segment>
+		<segment id="116" parent="300" relname="joint">##### 5 месяцев, 3 р/в неделю использование</segment>
+		<segment id="117" parent="302" relname="span">##### Niacinamide 10% + Zinc 1% The Ordinary</segment>
+		<segment id="118" parent="117" relname="elaboration">##### IMG</segment>
+		<segment id="119" parent="242" relname="span">##### Это восторг!</segment>
+		<segment id="120" parent="241" relname="span">Как и для многих, для меня настоящим открытием марки стала сыворотка с ниацинамидом 10% и цинком 1%,</segment>
+		<segment id="121" parent="120" relname="concession">хотя на фоне новостей о закрытии я довольно быстро нашла ей лучшую замену и даже не одну.</segment>
+		<segment id="122" parent="243" relname="joint">Сыворотка содержит убойную дозу ниацинамида — 10% и 1% цинка.</segment>
+		<segment id="123" parent="243" relname="joint">Заключена в матовое стекло.</segment>
+		<segment id="124" parent="244" relname="span">Есть удобная пипетка,</segment>
+		<segment id="125" parent="245" relname="joint">которая хорошо набирает</segment>
+		<segment id="126" parent="245" relname="joint">и выдает продукт.</segment>
+		<segment id="127" parent="305" relname="elaboration">##### IMG</segment>
+		<segment id="128" parent="303" relname="joint">##### Объем: 30 мл</segment>
+		<segment id="129" parent="303" relname="joint">##### Срок годности: 12 месяцев</segment>
+		<segment id="130" parent="304" relname="span">##### Состав:</segment>
+		<segment id="131" parent="130" relname="elaboration">##### IMG</segment>
+		<segment id="132" parent="246" relname="joint">##### Сыворотка гелеобразная, прозрачно-мутноватая.</segment>
+		<segment id="133" parent="247" relname="span">Я практически не ощущаю ее аромат.</segment>
+		<segment id="134" parent="133" relname="evaluation">Для меня это существенный плюс.</segment>
+		<segment id="135" parent="248" relname="contrast">Распределяется хорошо,</segment>
+		<segment id="136" parent="249" relname="span">но я бы не назвала эту формулу комфортной.</segment>
+		<segment id="137" parent="250" relname="span">Она оставляет пленку на лице.</segment>
+		<segment id="138" parent="137" relname="evaluation">Я такое не люблю.</segment>
+		<segment id="139" parent="246" relname="elaboration">##### IMG IMG</segment>
+		<segment id="140" parent="251" relname="sequence">##### Наношу 2-3 капли на ладони,</segment>
+		<segment id="141" parent="251" relname="sequence">растираю,</segment>
+		<segment id="142" parent="251" relname="sequence">переношу на лицо.</segment>
+		<segment id="143" parent="251" relname="elaboration">Использую 3-4 раза в неделю по утрам.</segment>
+		<segment id="144" parent="255" relname="preparation">Я из того «лагеря» девушек, на ком действие сыворотки проявилось практически в первую неделю.</segment>
+		<segment id="145" parent="254" relname="cause">Первую банку я начала использовать еще при аптечных ретиноидах.</segment>
+		<segment id="146" parent="253" relname="joint">На тот момент лицо не было идеальным</segment>
+		<segment id="147" parent="253" relname="joint">и сыворотка мне здорово помогла.</segment>
+		<segment id="148" parent="256" relname="joint">С ней поры стали чище, лучше,</segment>
+		<segment id="149" parent="256" relname="joint">жирный блеск появлялся позже обычного.</segment>
+		<segment id="150" parent="257" relname="span">##### Больше всего мне понравился эффект сыворотки в плане избавления от пост-акне.</segment>
+		<segment id="151" parent="258" relname="span">Она отлично с ним справлялась</segment>
+		<segment id="152" parent="259" relname="span">и неплохо нивелировала постоянно красный цвет лица</segment>
+		<segment id="153" parent="152" relname="cause">от использования аптечных ретиноидов.</segment>
+		<segment id="154" parent="263" relname="span">##### Это моя 3 банка.</segment>
+		<segment id="155" parent="261" relname="joint">Добью</segment>
+		<segment id="156" parent="261" relname="joint">и больше не повторю.</segment>
+		<segment id="157" parent="262" relname="span">Нашла более комфортный в нанесении аналог.</segment>
+		<segment id="158" parent="282" relname="joint">##### 450₽ цена</segment>
+		<segment id="159" parent="282" relname="joint">##### 9/10 оценка</segment>
+		<segment id="160" parent="282" relname="joint">##### 7 месяцев, 4 р/в неделю использование</segment>
+		<segment id="161" parent="264" relname="span">##### Сейчас пользуюсь еще 1 средством бренда — 100% L-Ascorbic Acid Powder The Ordinary.</segment>
+		<segment id="162" parent="161" relname="background">Подробный пост про нее я писала здесь.</segment>
+		<segment id="163" parent="267" relname="contrast">##### В моих личных фаворитах марки The Ordinary находится сыворотка с ниацинамидом, альфа-липоевой кислотой, феруловой кислотой и ресвератролом.</segment>
+		<segment id="164" parent="265" relname="span">Молочная кислота как-то не зашла,</segment>
+		<segment id="165" parent="164" relname="concession">хотя первое время я была от нее в восторге,</segment>
+		<segment id="166" parent="266" relname="joint">гликолевый тоник тоже не особо порадовал.</segment>
+		<segment id="167" parent="309" relname="span">##### Девушки, как вам средства The Ordinary?</segment>
+		<segment id="168" parent="167" relname="elaboration">Есть любимчики?</segment>
+		<group id="169" type="span" parent="283" relname="span"/>
+		<group id="170" type="multinuc" parent="171" relname="contrast"/>
+		<group id="171" type="multinuc" parent="283" relname="evaluation"/>
+		<group id="172" type="span" parent="175" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="172" relname="evaluation"/>
+		<group id="175" type="span" parent="277" relname="background"/>
+		<group id="176" type="span" parent="21" relname="cause"/>
+		<group id="177" type="multinuc" parent="24" relname="cause"/>
+		<group id="178" type="span" parent="182" relname="span"/>
+		<group id="179" type="span" parent="178" relname="elaboration"/>
+		<group id="180" type="span" parent="18" relname="elaboration"/>
+		<group id="181" type="span" parent="182" relname="background"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" parent="286" relname="span"/>
+		<group id="184" type="multinuc" parent="186" relname="span"/>
+		<group id="185" type="span" parent="184" relname="joint"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" parent="183" relname="elaboration"/>
+		<group id="188" type="multinuc" parent="287" relname="joint"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" />
+		<group id="191" type="multinuc" parent="37" relname="elaboration"/>
+		<group id="192" type="span" parent="198" relname="joint"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="289" relname="span"/>
+		<group id="196" type="span" parent="194" relname="evaluation"/>
+		<group id="197" type="span" parent="198" relname="joint"/>
+		<group id="198" type="multinuc" parent="287" relname="evaluation"/>
+		<group id="199" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="200" type="span" parent="206" relname="joint"/>
+		<group id="201" type="multinuc" parent="206" relname="joint"/>
+		<group id="202" type="multinuc" parent="291" relname="span"/>
+		<group id="203" type="multinuc" parent="58" relname="evaluation"/>
+		<group id="204" type="span" parent="202" relname="sequence"/>
+		<group id="205" type="span" parent="206" relname="joint"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" />
+		<group id="208" type="span" parent="209" relname="contrast"/>
+		<group id="209" type="multinuc" parent="293" relname="span"/>
+		<group id="210" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="211" type="multinuc" parent="214" relname="span"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" parent="214" relname="evaluation"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="294" relname="joint"/>
+		<group id="216" type="multinuc" parent="218" relname="joint"/>
+		<group id="217" type="span" parent="219" relname="span"/>
+		<group id="218" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="219" type="span" parent="237" relname="joint"/>
+		<group id="220" type="span" parent="217" relname="evaluation"/>
+		<group id="221" type="span" parent="91" relname="cause"/>
+		<group id="222" type="span" parent="90" relname="cause"/>
+		<group id="223" type="multinuc" parent="301" relname="span"/>
+		<group id="224" type="span" parent="233" relname="span"/>
+		<group id="225" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="226" type="span" parent="227" relname="joint"/>
+		<group id="227" type="multinuc" parent="225" relname="sequence"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="225" relname="sequence"/>
+		<group id="230" type="span" parent="108" relname="elaboration"/>
+		<group id="231" type="span" parent="107" relname="cause"/>
+		<group id="232" type="span" parent="236" relname="span"/>
+		<group id="233" type="span" parent="223" relname="contrast"/>
+		<group id="234" type="span" parent="235" relname="contrast"/>
+		<group id="235" type="multinuc" parent="223" relname="background"/>
+		<group id="236" type="span" parent="224" relname="evaluation"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" />
+		<group id="240" type="span" parent="274" relname="preparation"/>
+		<group id="241" type="span" parent="119" relname="elaboration"/>
+		<group id="242" type="span" parent="243" relname="preparation"/>
+		<group id="243" type="multinuc" parent="305" relname="span"/>
+		<group id="244" type="span" parent="243" relname="joint"/>
+		<group id="245" type="multinuc" parent="124" relname="elaboration"/>
+		<group id="246" type="multinuc" parent="308" relname="span"/>
+		<group id="247" type="span" parent="246" relname="joint"/>
+		<group id="248" type="multinuc" parent="246" relname="joint"/>
+		<group id="249" type="span" parent="248" relname="contrast"/>
+		<group id="250" type="span" parent="136" relname="elaboration"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="273" relname="joint"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="span"/>
+		<group id="255" type="span" parent="272" relname="span"/>
+		<group id="256" type="multinuc" parent="260" relname="joint"/>
+		<group id="257" type="span" parent="260" relname="joint"/>
+		<group id="258" type="span" parent="150" relname="evaluation"/>
+		<group id="259" type="span" parent="151" relname="elaboration"/>
+		<group id="260" type="multinuc" parent="269" relname="span"/>
+		<group id="261" type="multinuc" parent="157" relname="cause"/>
+		<group id="262" type="span" parent="154" relname="elaboration"/>
+		<group id="263" type="span" parent="270" relname="elaboration"/>
+		<group id="264" type="span" parent="268" relname="span"/>
+		<group id="265" type="span" parent="266" relname="joint"/>
+		<group id="266" type="multinuc" parent="267" relname="contrast"/>
+		<group id="267" type="multinuc" parent="264" relname="elaboration"/>
+		<group id="268" type="span" />
+		<group id="269" type="span" parent="270" relname="span"/>
+		<group id="270" type="span" parent="271" relname="span"/>
+		<group id="271" type="span" parent="275" relname="evaluation"/>
+		<group id="272" type="span" parent="269" relname="background"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" />
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" />
+		<group id="279" type="span" parent="209" relname="contrast"/>
+		<group id="280" type="span" parent="206" relname="joint"/>
+		<group id="281" type="span" parent="4" relname="elaboration"/>
+		<group id="282" type="multinuc" />
+		<group id="283" type="span" parent="277" relname="span"/>
+		<group id="284" type="span" parent="189" relname="preparation"/>
+		<group id="285" type="span" parent="188" relname="joint"/>
+		<group id="286" type="span" parent="287" relname="joint"/>
+		<group id="287" type="multinuc" parent="189" relname="span"/>
+		<group id="288" type="span" parent="195" relname="concession"/>
+		<group id="289" type="span" parent="40" relname="elaboration"/>
+		<group id="290" type="span" parent="197" relname="span"/>
+		<group id="291" type="span" parent="206" relname="joint"/>
+		<group id="292" type="multinuc" />
+		<group id="293" type="span" parent="206" relname="evaluation"/>
+		<group id="294" type="multinuc" />
+		<group id="295" type="span" parent="238" relname="preparation"/>
+		<group id="296" type="multinuc" parent="237" relname="joint"/>
+		<group id="297" type="span" parent="296" relname="joint"/>
+		<group id="298" type="span" parent="220" relname="span"/>
+		<group id="299" type="span" parent="223" relname="contrast"/>
+		<group id="300" type="multinuc" />
+		<group id="301" type="span" parent="237" relname="joint"/>
+		<group id="302" type="span" parent="240" relname="span"/>
+		<group id="303" type="multinuc" parent="306" relname="joint"/>
+		<group id="304" type="span" parent="303" relname="joint"/>
+		<group id="305" type="span" parent="307" relname="span"/>
+		<group id="306" type="multinuc" parent="273" relname="joint"/>
+		<group id="307" type="span" parent="306" relname="joint"/>
+		<group id="308" type="span" parent="273" relname="joint"/>
+		<group id="309" type="span" />
+	</body>
+</rst>

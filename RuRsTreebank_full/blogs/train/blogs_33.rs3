@@ -1,0 +1,277 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### http://fitness-blog-ua.blogspot.com/2017/09/blog-post.html</segment>
+		<segment id="2" >##### Год [почти] без сахара</segment>
+		<segment id="3" >##### IMG</segment>
+		<segment id="4" parent="133" relname="span">##### В заголовок я вынесла слово "почти",</segment>
+		<segment id="5" parent="128" relname="span">потому что а) задача обойтись совсем-совсем без сахара не ставилась</segment>
+		<segment id="6" parent="127" relname="joint">- я не выступающий спортсмен</segment>
+		<segment id="7" parent="127" relname="joint">и не планировала сбрасывать вес</segment>
+		<segment id="8" parent="128" relname="background">(вообще, как вы помните, я не против сахара);</segment>
+		<segment id="9" parent="131" relname="span">б) сахар содержится в очень многих даже НЕсладких продуктах</segment>
+		<segment id="10" parent="130" relname="joint">- он выступает консервантом</segment>
+		<segment id="11" parent="130" relname="joint">или оттеняет вкус каких-то блюд/продуктов.</segment>
+		<segment id="12" parent="213" relname="contrast">А мне не хочется отказываться, например, от вкусной маминой консервации из кабачков или сладкого перца по этой причине.</segment>
+		<segment id="13" parent="137" relname="span">##### Зачем я решила провести этот эксперимент:</segment>
+		<segment id="14" parent="135" relname="joint">сахар - это лишние калории из быстрых углеводов,</segment>
+		<segment id="15" parent="135" relname="joint">а магазинные сладости обычно содержат как непомерное его количество, так и еще кучу неполезных ингредиентов.</segment>
+		<segment id="16" parent="136" relname="span">Почему бы просто не перестать покупать вот это все?</segment>
+		<segment id="17" parent="142" relname="span">Я не верю во всяческие чудо-марафоны типа "сколькототамдней без сахара" и жесткие ограничения.</segment>
+		<segment id="18" parent="140" relname="span">Привычка не успевает сформироваться,</segment>
+		<segment id="19" parent="139" relname="span">потому "откат" почти гарантирован,</segment>
+		<segment id="20" parent="19" relname="condition">стоит только снова купить что-то запретное</segment>
+		<segment id="21" parent="138" relname="span">(а соблазн-то есть,</segment>
+		<segment id="22" parent="23" relname="condition">чем больше ограничений</segment>
+		<segment id="23" parent="214" relname="span">- тем морально тяжелее).</segment>
+		<segment id="24" parent="145" relname="span">Постепенная минимизация каких-то продуктов в рационе в этом плане гораздо эффективнее</segment>
+		<segment id="25" parent="143" relname="cause">- понемногу меняется само восприятие каких-то вкусов,</segment>
+		<segment id="26" parent="27" relname="condition">и то что раньше казалось вкусняшкой,</segment>
+		<segment id="27" parent="143" relname="span">со временем перестанет нравиться.</segment>
+		<segment id="28" parent="243" relname="span">##### От чего я решила отказаться в первую очередь: сахар в чае и кофе; магазинная выпечка и сладости с сахаром</segment>
+		<segment id="29" parent="146" relname="contrast">(бывают исключения,</segment>
+		<segment id="30" parent="146" relname="contrast">но очень редко).</segment>
+		<segment id="31" parent="147" relname="span">Сладости я оставила только без сахара и органический шоколад в очень умеренных дозах</segment>
+		<segment id="32" parent="31" relname="purpose">(чтоб не так хотелось убивать людей)))</segment>
+		<segment id="33" parent="149" relname="same-unit">Как оказалось,</segment>
+		<segment id="34" parent="35" relname="condition">при желании</segment>
+		<segment id="35" parent="244" relname="span">можно найти массу сладостей</segment>
+		<segment id="36" parent="244" relname="condition">либо вообще без добавления подсластителей, либо с качественными сахзамами.</segment>
+		<segment id="37" parent="218" relname="elaboration">##### IMG</segment>
+		<segment id="38" parent="153" relname="span">##### Десерты и выпечку стараюсь есть только самодельные,</segment>
+		<segment id="39" parent="152" relname="span">куда добавляю сахарозаменитель на натуральной основе или фрукты/сухофрукты</segment>
+		<segment id="40" parent="39" relname="purpose">для сладости.</segment>
+		<segment id="41" parent="153" relname="elaboration">В выпечке обычную муку заменяю на цельнозерновую, овсяную, льняную.</segment>
+		<segment id="42" parent="225" relname="solutionhood">##### На фрукты и ягоды я никаких ограничений не ставила - зачем?</segment>
+		<segment id="43" parent="154" relname="joint">По сравнению с обычными сладостями и выпечкой они весьма низкокалорийны,</segment>
+		<segment id="44" parent="154" relname="joint">а съесть больше 200-300 граммов каких-нибудь ягод у меня все равно не получается.</segment>
+		<segment id="45" parent="222" relname="contrast">Единственные исключения - бананы и виноград.</segment>
+		<segment id="46" parent="47" relname="cause">Но первые мне успевают надоесть за зиму,</segment>
+		<segment id="47" parent="155" relname="span">и много их не съешь,</segment>
+		<segment id="48" parent="156" relname="joint">а виноград я просто не очень люблю.</segment>
+		<segment id="49" parent="161" relname="span">Зато с фруктами и ягодами вы получаете много витаминов и клетчатки.</segment>
+		<segment id="50" parent="159" relname="purpose">Для сравнения</segment>
+		<segment id="51" parent="157" relname="span">- по калорийности 300 граммов ягод</segment>
+		<segment id="52" parent="51" relname="elaboration">(считаем что-то покалорийнее типа малины или голубики)</segment>
+		<segment id="53" parent="158" relname="same-unit">равны примерно 25 граммам шоколада - около 150 ккал.</segment>
+		<segment id="54" parent="55" relname="preparation">##### Что касается сахарозаменителей.</segment>
+		<segment id="55" parent="162" relname="span">После нескольких лет проб, ошибок и выброшенных/раздаренных упаковок сахзама я нашла приемлемый для себя вариант из смеси эритритола, стевии, сукралозы и топинамбура.</segment>
+		<segment id="56" parent="163" relname="span">Его можно использовать даже в выпечке</segment>
+		<segment id="57" parent="56" relname="background">(кто не в курсе - не все сахзамы годятся для этого),</segment>
+		<segment id="58" parent="164" relname="span">при этом вкус блюда не страдает.</segment>
+		<segment id="59" parent="165" relname="span">После него не остается мерзкого привкуса,</segment>
+		<segment id="60" parent="59" relname="evaluation">что немаловажно.</segment>
+		<segment id="61" parent="245" relname="span">Из-за этого я забраковала множество сахзамов</segment>
+		<segment id="62" parent="166" relname="joint">- они либо портили вкус блюд,</segment>
+		<segment id="63" parent="166" relname="joint">либо оставляли привкус, от которого невозможно избавиться.</segment>
+		<segment id="64" parent="167" relname="contrast">Насчет сахарозаменителей есть тоже множество баталий,</segment>
+		<segment id="65" parent="167" relname="contrast">но все исследования, которые проводились, демонстрируют, что умеренное и дозированное потребление даже неоднозначных химических сахарозаменителей не приносят вреда здоровью.</segment>
+		<segment id="66" parent="228" relname="span">У меня же за год ушло где-то 250 граммов сахарозаменителя.</segment>
+		<segment id="67" parent="66" relname="evaluation">То есть потребление ультраумеренное.</segment>
+		<segment id="68" parent="169" relname="span">Но и в напитки я его не кладу.</segment>
+		<segment id="69" parent="70" relname="condition">Для кого вопрос напитков актуален</segment>
+		<segment id="70" parent="168" relname="span">- рекомендую сироп агавы.</segment>
+		<segment id="71" parent="175" relname="elaboration">##### IMG</segment>
+		<segment id="72" parent="73" relname="preparation">##### Результаты.</segment>
+		<segment id="73" parent="179" relname="span">Никакого прозрения, появления третьего глаза и прочих чудес я не ждала.</segment>
+		<segment id="74" parent="176" relname="joint">Но их и не случилось)))</segment>
+		<segment id="75" parent="246" relname="span">Не зря я верю только в силу маркетинга и его способность разводить шумиху вокруг каких-то продуктов.</segment>
+		<segment id="76" parent="75" relname="evaluation">Из разряда анекдота на тему "100% людей, которые пили воду, умерли".</segment>
+		<segment id="77" parent="230" relname="solutionhood">##### Стало ли меньше, пардон за интимные подробности, прыщиков?</segment>
+		<segment id="78" parent="180" relname="contrast">Немного.</segment>
+		<segment id="79" parent="180" relname="contrast">Но у меня сухая кожа, не склонная к комедогенности.</segment>
+		<segment id="80" parent="81" relname="solutionhood">Пропали ли морщины?</segment>
+		<segment id="81" parent="235" relname="span">Ахаха, прекратите(С))))</segment>
+		<segment id="82" parent="83" relname="solutionhood">Изменилось ли глобально самочувствие?</segment>
+		<segment id="83" parent="234" relname="span">Тоже нет.</segment>
+		<segment id="84" parent="232" relname="solutionhood">Изменился ли вес?</segment>
+		<segment id="85" parent="182" relname="joint">Аналогично.</segment>
+		<segment id="86" parent="181" relname="span">В фигуре вообще никаких изменений.</segment>
+		<segment id="87" parent="86" relname="evidence">Что лишний раз доказывает, что в общем-то роль играет только поступление и расход калорий вкупе с физактивностями.</segment>
+		<segment id="88" parent="192" relname="preparation">##### Что изменилось - восприятие сладкого вкуса.</segment>
+		<segment id="89" parent="90" relname="condition">Если мне вдруг захотелось купить сладость в магазине,</segment>
+		<segment id="90" parent="183" relname="span">я это делаю,</segment>
+		<segment id="91" parent="238" relname="span">но обнаруживаю, что ем ее вообще без удовольствия.</segment>
+		<segment id="92" parent="91" relname="evaluation">Что надолго отбивает желание даже смотреть в их сторону.</segment>
+		<segment id="93" parent="188" relname="comparison">Например, за этот год я съела где-то 4 порции магазинного мороженного (причем все - сорбеты).</segment>
+		<segment id="94" parent="187" relname="contrast">А вот самодельного домашнего чуть больше,</segment>
+		<segment id="95" parent="187" relname="contrast">но оно было без сахара.</segment>
+		<segment id="96" parent="190" relname="span">Огромным лакомством мне теперь кажутся протеиновые батончики</segment>
+		<segment id="97" parent="96" relname="concession">(хотя некоторые европейские тоже оказались непомерно сладкими),</segment>
+		<segment id="98" parent="191" relname="same-unit">батончики на основе орехов и сухофруктов (хороший вариант для туристов, кстати).</segment>
+		<segment id="99" parent="239" relname="elaboration">##### IMG</segment>
+		<segment id="100" parent="194" relname="span">##### Вывод - все тот же, проверенный годами правильного питания.</segment>
+		<segment id="101" parent="193" relname="contrast">Формирование пищевых привычек и предпочтений требует времени,</segment>
+		<segment id="102" parent="193" relname="contrast">но оно того стоит.</segment>
+		<segment id="103" parent="195" relname="span">Довольно быстро вы перестаете думать в ключе "обоже какие это страдания - жить без тортиков".</segment>
+		<segment id="104" parent="103" relname="cause">Потому что перестаете смотреть в их сторону.</segment>
+		<segment id="105" parent="106" relname="condition">Когда ходишь по супермаркету,</segment>
+		<segment id="106" parent="196" relname="span">это чудесно оптимизирует логистику передвижения и покупок</segment>
+		<segment id="107" parent="199" relname="span">- хороший такой кусок полок в уме просто "вычеркнут",</segment>
+		<segment id="108" parent="198" relname="joint">потому я иду только в те отделы, где лежат нужные продукты,</segment>
+		<segment id="109" parent="198" relname="joint">и не трачу время на рассматривание других.</segment>
+		<segment id="110" parent="201" relname="span">Золотое правило</segment>
+		<segment id="111" parent="112" relname="cause">- не купил -</segment>
+		<segment id="112" parent="200" relname="span">не сожрал(С))))</segment>
+		<segment id="113" parent="202" relname="same-unit">по-прежнему остается самым действенным.</segment>
+		<segment id="114" parent="241" relname="span">##### Еще один результат - вместо сладостей организм срочно начал требовать сезонных овощей, фруктов, ягод.</segment>
+		<segment id="115" parent="114" relname="elaboration">За это лето я съела наверное несколько ящиков ягод)))</segment>
+		<segment id="116" parent="206" relname="contrast">Никогда раньше столько их не ела.</segment>
+		<segment id="117" parent="247" relname="span">Но думаю, пользы от этого явно намного больше, чем от сладостей</segment>
+		<segment id="118" parent="117" relname="elaboration">- именно сезонные овощи/фрукты являются самыми насыщенными витаминами и микроэлементами.</segment>
+		<segment id="119" parent="248" relname="span">Потому так же считаю это последствие позитивным.</segment>
+		<segment id="120" parent="212" relname="span">##### В общем, мой опыт не насыщен чудесами 😊</segment>
+		<segment id="121" parent="211" relname="joint">Не могу призывать всех его повторять,</segment>
+		<segment id="122" parent="210" relname="span">но для меня он как обычно интересен</segment>
+		<segment id="123" parent="208" relname="span">- люблю всяческие полезные эксперименты с питанием,</segment>
+		<segment id="124" parent="207" relname="joint">когда неожиданно обнаруживается, что пищевые привычки меняются,</segment>
+		<segment id="125" parent="207" relname="joint">трансформируются,</segment>
+		<segment id="126" parent="209" relname="joint">и организм на них довольно позитивно реагирует.</segment>
+		<group id="127" type="multinuc" parent="5" relname="elaboration"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="132" relname="joint"/>
+		<group id="130" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="131" type="span" parent="213" relname="contrast"/>
+		<group id="132" type="multinuc" parent="4" relname="cause"/>
+		<group id="133" type="span" />
+		<group id="134" type="span" parent="132" relname="joint"/>
+		<group id="135" type="multinuc" parent="16" relname="cause"/>
+		<group id="136" type="span" parent="13" relname="elaboration"/>
+		<group id="137" type="span" parent="216" relname="solutionhood"/>
+		<group id="138" type="span" parent="140" relname="elaboration"/>
+		<group id="139" type="span" parent="18" relname="cause"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" parent="17" relname="evidence"/>
+		<group id="142" type="span" parent="215" relname="contrast"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="24" relname="elaboration"/>
+		<group id="145" type="span" parent="215" relname="contrast"/>
+		<group id="146" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="147" type="span" parent="150" relname="span"/>
+		<group id="148" type="span" parent="149" relname="same-unit"/>
+		<group id="149" type="multinuc" parent="147" relname="elaboration"/>
+		<group id="150" type="span" parent="151" relname="contrast"/>
+		<group id="151" type="multinuc" parent="218" relname="span"/>
+		<group id="152" type="span" parent="38" relname="elaboration"/>
+		<group id="153" type="span" parent="220" relname="span"/>
+		<group id="154" type="multinuc" parent="223" relname="contrast"/>
+		<group id="155" type="span" parent="156" relname="joint"/>
+		<group id="156" type="multinuc" parent="222" relname="contrast"/>
+		<group id="157" type="span" parent="158" relname="same-unit"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="159" type="span" parent="160" relname="span"/>
+		<group id="160" type="span" parent="49" relname="evidence"/>
+		<group id="161" type="span" parent="224" relname="contrast"/>
+		<group id="162" type="span" parent="174" relname="span"/>
+		<group id="163" type="span" parent="58" relname="condition"/>
+		<group id="164" type="span" parent="173" relname="joint"/>
+		<group id="165" type="span" parent="249" relname="span"/>
+		<group id="166" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="167" type="multinuc" parent="171" relname="span"/>
+		<group id="168" type="span" parent="68" relname="elaboration"/>
+		<group id="169" type="span" parent="170" relname="joint"/>
+		<group id="170" type="multinuc" parent="171" relname="background"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="174" relname="elaboration"/>
+		<group id="173" type="multinuc" parent="162" relname="elaboration"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="175" type="span" parent="229" relname="span"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" />
+		<group id="179" type="span" parent="176" relname="joint"/>
+		<group id="180" type="multinuc" parent="230" relname="span"/>
+		<group id="181" type="span" parent="182" relname="joint"/>
+		<group id="182" type="multinuc" parent="232" relname="span"/>
+		<group id="183" type="span" parent="184" relname="contrast"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" parent="189" relname="span"/>
+		<group id="187" type="multinuc" parent="188" relname="comparison"/>
+		<group id="188" type="multinuc" parent="186" relname="evidence"/>
+		<group id="189" type="span" parent="192" relname="span"/>
+		<group id="190" type="span" parent="191" relname="same-unit"/>
+		<group id="191" type="multinuc" parent="189" relname="elaboration"/>
+		<group id="192" type="span" parent="239" relname="span"/>
+		<group id="193" type="multinuc" parent="100" relname="elaboration"/>
+		<group id="194" type="span" parent="205" relname="span"/>
+		<group id="195" type="span" parent="204" relname="span"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="203" relname="span"/>
+		<group id="198" type="multinuc" parent="107" relname="cause"/>
+		<group id="199" type="span" parent="196" relname="elaboration"/>
+		<group id="200" type="span" parent="110" relname="elaboration"/>
+		<group id="201" type="span" parent="202" relname="same-unit"/>
+		<group id="202" type="multinuc" parent="197" relname="evidence"/>
+		<group id="203" type="span" parent="195" relname="elaboration"/>
+		<group id="204" type="span" parent="194" relname="elaboration"/>
+		<group id="205" type="span" />
+		<group id="206" type="multinuc" parent="242" relname="contrast"/>
+		<group id="207" type="multinuc" parent="123" relname="elaboration"/>
+		<group id="208" type="span" parent="209" relname="joint"/>
+		<group id="209" type="multinuc" parent="122" relname="cause"/>
+		<group id="210" type="span" parent="211" relname="joint"/>
+		<group id="211" type="multinuc" parent="120" relname="evaluation"/>
+		<group id="212" type="span" />
+		<group id="213" type="multinuc" parent="134" relname="span"/>
+		<group id="214" type="span" parent="21" relname="elaboration"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" />
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="221" relname="joint"/>
+		<group id="220" type="span" parent="221" relname="joint"/>
+		<group id="221" type="multinuc" />
+		<group id="222" type="multinuc" parent="223" relname="contrast"/>
+		<group id="223" type="multinuc" parent="224" relname="contrast"/>
+		<group id="224" type="multinuc" parent="225" relname="span"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" />
+		<group id="228" type="span" parent="170" relname="joint"/>
+		<group id="229" type="span" />
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="236" relname="span"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" parent="237" relname="joint"/>
+		<group id="234" type="span" parent="237" relname="joint"/>
+		<group id="235" type="span" parent="237" relname="joint"/>
+		<group id="236" type="span" parent="237" relname="joint"/>
+		<group id="237" type="multinuc" />
+		<group id="238" type="span" parent="184" relname="contrast"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" />
+		<group id="241" type="span" parent="242" relname="contrast"/>
+		<group id="242" type="multinuc" />
+		<group id="243" type="span" parent="151" relname="contrast"/>
+		<group id="244" type="span" parent="148" relname="span"/>
+		<group id="245" type="span" parent="165" relname="elaboration"/>
+		<group id="246" type="span" parent="177" relname="evaluation"/>
+		<group id="247" type="span" parent="119" relname="cause"/>
+		<group id="248" type="span" parent="206" relname="contrast"/>
+		<group id="249" type="span" parent="173" relname="joint"/>
+	</body>
+</rst>

@@ -1,0 +1,238 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">Адрес статьи: www.gramota.net/materials/272014/12-3725.html Источник Филологические науки. Вопросы теории и практики Тамбов: Грамота, 2014. № 12 (42): в 3-х ч. Ч. III. C. 91-94. ISSN 1997-2911. Адрес журнала: www.gramota.net/editions/2.html Содержание данного номера журнала: www .gramota.net/mate rials/2/2014/12-3/ © Издательство "Грамота"</segment>
+		<segment id="2" relname="antithesis">УДК 81 Филологические науки</segment>
+		<segment id="3" relname="antithesis">В данной статье исследуется вопрос зависимости способов выражения причинности в русском и немецком языках от иерархии абсолютных приоритетных стратегий. Приоритетные стратегии выделяют и усиливают коммуникативно наиболее значимые компоненты смысла в семантике причинных высказываний (причинный и событийный компоненты) и ослабляют наименее значимые. Некоторые речевые способы выражения причинных отношений способны в развернутой форме отражать причинный и событийный компоненты. Другие же выражают причинный и событийный компоненты в свернутом, редуцированном виде. Таким образом, речевые способы выражения причинных отношений образуют иерархию по степени эксп-лицированности в них причинного и событийного компонентов. Ключевые слова и фразы: причинность; событийность; принцип приоритета; приоритетные стратегии; коммуникативная значимость; предикативность; модальность.</segment>
+		<segment id="4" relname="antithesis">Кацитадзе Инна Мангуровна, к. филол. н.</segment>
+		<segment id="5" relname="antithesis">Христианова Наталья Валерьевна, к. филол. н.</segment>
+		<segment id="6" relname="antithesis">Южный федеральный университет mangurowna@yandex; nkhr75@mail.ru</segment>
+		<segment id="7" relname="antithesis">ВЛИЯНИЕ ПРИНЦИПА ПРИОРИТЕТА НА ВЫБОР СПОСОБОВ ВЫРАЖЕНИЯ ПРИЧИННОЙ СОБЫТИЙНОСТИ В РУССКОМ И НЕМЕЦКОМ ЯЗЫКАХ®</segment>
+		<segment id="8" parent="9" relname="purpose">Целью данной статьи является</segment>
+		<segment id="9" parent="192" relname="span">анализ речевых способов выражения причинных отношений в русском и немецком языках с точки зрения их зависимости от иерархии абсолютных приоритетных стратегий.</segment>
+		<segment id="10" parent="122" relname="span">В семантике понятия «причина» можно выделить два компонента: причинный и событийный.</segment>
+		<segment id="11" parent="121" relname="joint">Причина как явление, порождающее другое явление (следствие), относится к классу событий.</segment>
+		<segment id="12" parent="233" relname="span">Любая причина отражает какое-либо событие [10, с. 13].</segment>
+		<segment id="13" parent="123" relname="span">Под событием понимаются изменения состояния объектов или предметов окружающей действительности,</segment>
+		<segment id="14" parent="13" relname="elaboration">эти объекты или явления связаны между собой определенными отношениями [4, с. 321].</segment>
+		<segment id="15" parent="16" relname="condition">При выражении причинно-следственных отношений</segment>
+		<segment id="16" parent="229" relname="span">событийный компонент играет немаловажную роль.</segment>
+		<segment id="17" parent="193" relname="restatement">Поэтому, говоря о выражении причинных отношений,</segment>
+		<segment id="18" parent="193" relname="restatement">можно говорить о выражении причинной событийности.</segment>
+		<segment id="19" parent="128" relname="preparation">Принцип приоритета лежит в основе речевой целенаправленной деятельности.</segment>
+		<segment id="20" parent="127" relname="joint">Главная прагматическая функция принципа приоритета состоит в разрешении конфликтов между идеальной целью речевого акта и возможностями ее реализации на практике, то есть в конкретных речевых актах.</segment>
+		<segment id="21" parent="22" relname="purpose">Целью речевого акта</segment>
+		<segment id="22" parent="232" relname="span">является наиболее точная и полная фиксация мысли говорящего и передача ее слушающему.</segment>
+		<segment id="23" parent="127" relname="joint">Выбор говорящим определенного речевого способа выражения причинных отношений может осуществляться на основании принципа приоритета.</segment>
+		<segment id="24" parent="202" relname="preparation">Действие принципа приоритета проявляется в механизме приоритетных стратегий.</segment>
+		<segment id="25" parent="230" relname="joint">Приоритетные стратегии выделяют</segment>
+		<segment id="26" parent="230" relname="joint">и усиливают коммуникативно наиболее значимые компоненты смысла речевого высказывания и ослабляют наименее значимые [3, с. 343].</segment>
+		<segment id="27" parent="130" relname="joint">Наиболее значимыми компонентами смысла в семантике причинных высказываний являются причинный и событийный компоненты.</segment>
+		<segment id="28" parent="131" relname="comparison">Некоторые речевые способы выражения причинных отношений способны в развернутой форме отражать причинный и событийный компоненты.</segment>
+		<segment id="29" parent="131" relname="comparison">Другие же выражают причинный и событийный компоненты в свернутом, редуцированном виде.</segment>
+		<segment id="30" parent="132" relname="span">Таким образом, речевые способы выражения причинных отношений образуют иерархию по степени эксплицированности в них причинного и событийного компонентов.</segment>
+		<segment id="31" parent="32" relname="background">Необходимо различать два типа приоритетных стратегий: абсолютные приоритетные стратегии и ситуативные приоритетные стратегии.</segment>
+		<segment id="32" parent="207" relname="span">Остановимся на понятии абсолютных приоритетных стратегий.</segment>
+		<segment id="33" parent="204" relname="span">Абсолютные приоритетные стратегии образуют естественную иерархию способов выражения причинных отношений по степени эксплицированности в них причинного и событийного компонентов с точки зрения их «нормальной», постоянной коммуникативной значимости [Там же, с. 344].</segment>
+		<segment id="34" parent="33" relname="elaboration">Под коммуникативной значимостью понимается значимость для типового говорящего того или иного речевого способа выражения причины в процессе коммуникации.</segment>
+		<segment id="35" parent="133" relname="span">Абсолютные приоритетные стратегии предопределены системой языка,</segment>
+		<segment id="36" parent="35" relname="condition">они зависят от внутренних свойств способов выражения причины.</segment>
+		<segment id="37" parent="143" relname="span">Мы представляем модифицированную абсолютную приоритетную стратегию,</segment>
+		<segment id="38" parent="37" relname="elaboration">в основе которой находится иерархия свертывания причинного или событийного компонентов.</segment>
+		<segment id="39" parent="248" relname="same-unit">Иерархия абсолютной приоритетной стратегии</segment>
+		<segment id="40" parent="41" relname="purpose">для выражения причинных отношений</segment>
+		<segment id="41" parent="247" relname="span">представлена четырьмя уровнями свертывания.</segment>
+		<segment id="42" parent="209" relname="span">Придаточное предложение &gt; Предложно-падежная конструкция &gt; Слово &gt; 0 (отсутствие выраженности).</segment>
+		<segment id="43" parent="139" relname="span">В левой части иерархии находится придаточное предложение,</segment>
+		<segment id="44" parent="43" relname="elaboration">в котором причинный и событийный компоненты представлены в полной развернутой форме.</segment>
+		<segment id="45" parent="141" relname="joint">Предложение является первичным средством выражения события.</segment>
+		<segment id="46" parent="47" relname="cause">Поскольку причина относится к классу событий,</segment>
+		<segment id="47" parent="140" relname="span">то в максимально полной развернутой форме обусловленные причиной события могут быть представлены только в предложении, а именно в придаточном предложении.</segment>
+		<segment id="48" parent="145" relname="comparison">Эксплицитными средствами выражения причины в придаточном предложении в русском языке являются союзы («потому что», «потому как», «так как», «поскольку», «раз», «ибо», «оттого что», «благодаря тому что», «для того чтобы», «вследствие того что», «по причине того что», «благо», «в силу того что», «на основании того что», «в связи с тем что», «тем более что» и другие) и частицы («ведь», «же») [9, с. 456].</segment>
+		<segment id="49" parent="236" relname="span">Отношения причинной зависимости в сложноподчиненном предложении в немецком языке выражают такие союзы, как «weil» («так как», «потому что»), «da» («так как», «потому что»), «zumal da» («тем более что»), «nun da», «um so mehr als» («тем более что»), а также союз «dass» («что») с коррелятами в главном предложении «daher» («оттого»), «darum» («для того»), «auf Grund dessen» («по той причине») и др. [5, с. 519; 11, с. 383].</segment>
+		<segment id="50" parent="147" relname="span">В немецком языке в отличие от русского причинные отношения могут быть выражены в рамках сложносочиненного предложения при помощи союза «denn» («так как») и союзного слова «nmlich» («так как», «ибо») [2, с. 125].</segment>
+		<segment id="51" parent="146" relname="comparison">(1) Первое, что необходимо усвоить при общении с людьми: это не мешать им жить в свое удовольствие, так как они привыкли к этому сами [1, с. 34].</segment>
+		<segment id="52" parent="146" relname="comparison">(2) Mancher Unternehmensleiter mag sich noch in Sicherheit wiegen, weil die Eigenkapitalausstattung nach wie vor befriedigend ist [ 12, S. 12]. / Некоторые руководители предприятий могут чувствовать себя в безопасности, так как по-прежнему обеспечены собственным капиталом.</segment>
+		<segment id="53" parent="149" relname="joint">Эксплицитными средствами выражения причины в данных предложениях выступают союзы «так как» (1) и «weil» (2).</segment>
+		<segment id="54" parent="149" relname="joint">Причинный и событийный компоненты в придаточных предложениях с вышеперечисленными союзами представлены в максимально развернутой форме.</segment>
+		<segment id="55" parent="151" relname="span">Следующий уровень иерархии свертывания причинного и событийного компонентов представлен пред-ложно-падежной конструкцией,</segment>
+		<segment id="56" parent="55" relname="elaboration">которая представляет собой сочетание предлога и существительного.</segment>
+		<segment id="57" parent="152" relname="comparison">В предложно-падежной конструкции событийный компонент представлен в более свернутом виде, чем в придаточном предложении,</segment>
+		<segment id="58" parent="152" relname="comparison">а причинный компонент выражается в полной, развернутой форме.</segment>
+		<segment id="59" parent="153" relname="span">Свернутость событийного компонента в предложно-падежной конструкции объясняется тем,</segment>
+		<segment id="60" parent="59" relname="cause">что существительное не выражает в полном объеме грамматические категории предикативности и модальности.</segment>
+		<segment id="61" parent="62" relname="cause">Поскольку предложно- падежные конструкции представляют свернутое обозначение событийности,</segment>
+		<segment id="62" parent="154" relname="span">то событийный компонент в них редуцируется [7, с. 53; 8, с. 43].</segment>
+		<segment id="63" parent="213" relname="preparation">Средствами формирования причинных отношений в предложно-падежных конструкциях являются предлоги.</segment>
+		<segment id="64" parent="157" relname="comparison">В русском языке выделим такие предлоги, как «благодаря», «в связи», «по причине», «ввиду», «в результате», «из-за», «из», «по», «с», «от» и другие [7, с. 55; 10, с. 16].</segment>
+		<segment id="65" parent="157" relname="comparison">Средствами формирования причинных отношений в предложно-падежных конструкциях в немецком языке являются такие предлоги, как «angesichts» (ввиду, учитывая, с учетом), «auf» (согласно, по), «aus» (из, от, по причине), «dank» (по причине), «durch» (c помощью, благодаря), «nach» (с, согласно, по), «ber» (из-за), «unter» (от), «vermge» (в силу, в следствие), «vor» (от, с), «wegen» (из-за, ради) и другие [5, с. 300; 11, с. 365].</segment>
+		<segment id="66" parent="238" relname="span">Однако роль этих предлогов в создании причинного значения неравнозначна.</segment>
+		<segment id="67" parent="162" relname="same-unit">Производные предлоги «благодаря», «в связи», «по причине», «ввиду», «в результате» и другие (в русском языке) и «dank», «vermge» и другие (в немецком языке),</segment>
+		<segment id="68" parent="69" relname="cause">сохраняя связь с производной основой,</segment>
+		<segment id="69" parent="239" relname="span">способны самостоятельно выражать причинные отношения.</segment>
+		<segment id="70" parent="159" relname="span">Непроизводные предлоги типа «из», «по», «от», «с», «из-за» и прочие (в русском языке) и «auf», «aus», «durch», «nach», «ber», «unter», «vor» (в немецком языке),</segment>
+		<segment id="71" parent="70" relname="elaboration">участвующие в формировании значения причины в предложно-падежных конструкциях,</segment>
+		<segment id="72" parent="160" relname="same-unit">многозначны.</segment>
+		<segment id="73" parent="167" relname="span">Поэтому они способны оформлять причинные отношения в предложно-падежных конструкциях только при определенном лексическом наполнении.</segment>
+		<segment id="74" parent="215" relname="span">В качестве лексических наполнителей выступают в основном абстрактные существительные: из-за отсутствия собственных теорий, по идеологическим соображениям (ср. из-за стола, по улице, от шкафа), aus Angst (от страха), vor Freude (от радости) (ср. vor dem Haus (перед домом), aus dem Schrank (из шкафа)).</segment>
+		<segment id="75" parent="165" relname="joint">Они являются номинализированной предикативной единицей</segment>
+		<segment id="76" parent="165" relname="joint">и также могут отражать пропозицию, но свернутую [7, с. 58].</segment>
+		<segment id="77" parent="241" relname="preparation">Следующий уровень свертывания причинного и событийного компонентов представлен в слове.</segment>
+		<segment id="78" parent="240" relname="span">В русском языке, в отличие от немецкого языка, выражать причину способны причинные наречия.</segment>
+		<segment id="79" parent="78" relname="elaboration">К причинным наречиям относятся группы наречий, которые состоят из: 1. префикса с- и формы родительного падежа имени (сослепу, сдуру, спросонок, сгоряча); 2. префикса по- с дательным падежом (поневоле) [9, с. 313].</segment>
+		<segment id="80" parent="170" relname="joint">Причинные наречия употребляются в основном в разговорной речи и в языке художественной литературы.</segment>
+		<segment id="81" parent="171" relname="span">Причинные наречия также можно считать предикативной единицей,</segment>
+		<segment id="82" parent="81" relname="elaboration">отражающей свернутое обозначение события-причины.</segment>
+		<segment id="83" parent="216" relname="elaboration">Событийный компонент в них еще более редуцирован, чем в предложно-падежной конструкции.</segment>
+		<segment id="84" parent="174" relname="span">Способностью отражать причинный и событийный компоненты в свернутом виде обладают сложные слова в немецком языке.</segment>
+		<segment id="85" parent="84" relname="elaboration">Данная группа состоит из трех подгрупп: а) субстантивированные сложные слова: Aufregungstrnen (слезы от волнения), Fieberrote (красный от жара), Kltetod (смерть от холода); б) адъективные: zornrot (красный от ярости), angstblass (бледный от страха); в) глагольные: lahmschiessen (парализовать посредством выстрела) [6, с. 42].</segment>
+		<segment id="86" parent="222" relname="preparation">Каузальный тип связи в данных словах устанавливается соотношением значений компонентов сложных слов.</segment>
+		<segment id="87" parent="197" relname="span">Каузальная связь диагностируется трансформационными операциями в предложные словосочетания (Trnen vor Aufregung (слезы от волнения), blass aus Angst (бледный от страха)),</segment>
+		<segment id="88" parent="87" relname="cause">так как тип связи в структуре сложного слова эксплицитно не представлен.</segment>
+		<segment id="89" parent="221" relname="span">Поскольку каузальные отношения в сложных словах представлены имплицитно,</segment>
+		<segment id="90" parent="176" relname="span">то распознать причинное значение возможно в некоторых случаях только при помощи контекста (lschwarzes Haar - Schwarz wie l (черные как смоль волосы - черный как смоль); lschwarze Hnde - Schwarz von l (грязные руки - черный, грязный от мазута)).</segment>
+		<segment id="91" parent="179" relname="joint">В правой части иерархии располагаются те конструкции, в которых причинный компонент не получает эксплицитного выражения.</segment>
+		<segment id="92" parent="179" relname="joint">Он выражается имплицитно и выводится коммуникантами из контекста.</segment>
+		<segment id="93" parent="180" relname="comparison">Событийный компонент представлен в данных предложениях в развернутой форме.</segment>
+		<segment id="94" parent="182" relname="comparison">Причинный компонент выражен в русском языке имплицитно в придаточных предложениях следствия, цели, условия, уступки в составе сложноподчиненных предложений, в деепричастных оборотах и т.д. [10, с. 16-34].</segment>
+		<segment id="95" parent="182" relname="comparison">Причинный компонент также может быть выражен имплицитно и в немецком языке в сложносочиненном предложении со следственным союзом, в сложноподчиненных предложениях с придаточными цели, условия, времени и т.д.</segment>
+		<segment id="96" parent="97" relname="purpose">Чтобы эксплицировать в данных конструкциях причинную семантику,</segment>
+		<segment id="97" parent="244" relname="span">необходимо трансформировать их в предложения с придаточным причины.</segment>
+		<segment id="98" parent="184" relname="span">(3) Он познает уже познанное, поэтому он должен быть наделен как чрезвычайным научным смирением, так и чрезвычайным научным честолюбием [1, с. 38].</segment>
+		<segment id="99" parent="100" relname="cause">- Так как он познает уже познанное,</segment>
+		<segment id="100" parent="231" relname="span">он должен быть наделен как чрезвычайным научным смирением, так и чрезвычайным научным честолюбием.</segment>
+		<segment id="101" parent="185" relname="joint">Так как причина в данном предложении эксплицитно не выражена</segment>
+		<segment id="102" parent="185" relname="joint">и выводится коммуникантами из контекста,</segment>
+		<segment id="103" parent="186" relname="span">то в данном случае можно говорить о полной редукции причинного компонента.</segment>
+		<segment id="104" parent="187" relname="joint">Событийный компонент представлен в развернутой форме.</segment>
+		<segment id="105" parent="227" relname="evidence">Из приведенной выше иерархии способов выражения причинных отношений можно увидеть,</segment>
+		<segment id="106" parent="188" relname="span">что престижный выделенный статус в ней получают придаточные предложения,</segment>
+		<segment id="107" parent="106" relname="cause">так как только они способны представить в максимально развернутой форме как причинный, так и событийный компоненты.</segment>
+		<segment id="108" parent="189" relname="span">Остальные члены иерархии получают периферийный статус,</segment>
+		<segment id="109" parent="108" relname="cause">так как причинный или событийный компоненты в них частично или полностью редуцируются.</segment>
+		<segment id="110" parent="111" relname="preparation">Список литературы</segment>
+		<segment id="111" relname="antithesis">1\. Аверьянов Л. Я. Социология: что она знает и может. М.: Наука, 1993. 105 с. 2\. Адмони В. Г. Строй современного немецкого языка. Изд-е 2-е. М. - Л.: Просвещение, 1966. 284 с. 3\. Бергельсон М. Б., Кибрик А. Е. Прагматический «Принцип Приоритета» и его отражение в грамматике языка // Известия Академии наук СССР. Серия литературы и языка. 1981. Т. 40. Вып. 14. С. 343-354. 4\. Демьянков В. З. Событие в семантике, прагматике и в координатах интерпретации текста // Известия Академии наук СССР. Серия литературы и языка. 1983. Т. 42. № 4. С. 320-329. 5\. Дуден: грамматика современного немецкого языка. Ленинград: Учпедгиз; ЛО, 1962. 699 с. 6\. Комаров А. П. Система средств выражения причинно-следственных отношений в современном немецком языке: автореф. дисс. ... д. филол. н. М., 1973. 69 с. 7\. Одинцова И. В. Структурно-коммуникативные модели с причинной семантикой в простом предложении // Вестник Московского университета. Серия 9. Филология. 2002. № 1. С. 48-72. 8\. Петровская С. С. Функциональная близость предложения и субстантивно- инфинитивного словосочетания // Синтаксис предложения и текста: межвузовский сборник научных трудов. Воронеж: Воронеж. гос. пед. ин-т, 1985. С. 42-48. 9\. Русская грамматика: в 2-х т. М.: Наука, 1980. Т. 2. 783 с. 10\. Теремова Р. М. Опыт функционального описания причинных конструкций. Л.: Изд-во ЛГПИ, 1985. 70 с. 11\. Юнг В. Грамматика немецкого языка. VEB Bibliographisches Institut Leipzig, 1968. 518 c. 12\. Mutius Bernhard. Die Kunst der Erneuerung: was die Erfolgreichen anders machen: 12 Gebote des Gelinges. Frankfurt а/М: Gampus Verlag, 1995. 230 S.</segment>
+		<group id="121" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="122" type="span" parent="234" relname="span"/>
+		<group id="123" type="span" parent="12" relname="elaboration"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" relname="antithesis"/>
+		<group id="130" type="multinuc" parent="202" relname="span"/>
+		<group id="131" type="multinuc" parent="30" relname="evidence"/>
+		<group id="132" type="span" relname="antithesis"/>
+		<group id="133" type="span" parent="204" relname="elaboration"/>
+		<group id="138" type="span" parent="208" relname="span"/>
+		<group id="139" type="span" parent="42" relname="elaboration"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="141" type="multinuc" parent="209" relname="elaboration"/>
+		<group id="142" type="span" parent="249" relname="elaboration"/>
+		<group id="143" type="span" parent="138" relname="preparation"/>
+		<group id="145" type="multinuc" relname="antithesis"/>
+		<group id="146" type="multinuc" parent="148" relname="span"/>
+		<group id="147" type="span" parent="49" relname="elaboration"/>
+		<group id="148" type="span" parent="150" relname="span"/>
+		<group id="149" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="150" type="span" parent="50" relname="elaboration"/>
+		<group id="151" type="span" parent="156" relname="span"/>
+		<group id="152" type="multinuc" parent="212" relname="span"/>
+		<group id="153" type="span" parent="154" relname="cause"/>
+		<group id="154" type="span" parent="210" relname="span"/>
+		<group id="156" type="span" relname="antithesis"/>
+		<group id="157" type="multinuc" parent="213" relname="span"/>
+		<group id="159" type="span" parent="160" relname="same-unit"/>
+		<group id="160" type="multinuc" parent="163" relname="comparison"/>
+		<group id="162" type="multinuc" parent="163" relname="comparison"/>
+		<group id="163" type="multinuc" parent="167" relname="evidence"/>
+		<group id="165" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="66" relname="elaboration"/>
+		<group id="170" type="multinuc" parent="216" relname="span"/>
+		<group id="171" type="span" parent="170" relname="joint"/>
+		<group id="174" type="span" parent="223" relname="preparation"/>
+		<group id="176" type="span" parent="222" relname="span"/>
+		<group id="179" type="multinuc" parent="180" relname="comparison"/>
+		<group id="180" type="multinuc" parent="176" relname="elaboration"/>
+		<group id="182" type="multinuc" parent="224" relname="span"/>
+		<group id="184" type="span" parent="245" relname="span"/>
+		<group id="185" type="multinuc" parent="103" relname="cause"/>
+		<group id="186" type="span" parent="187" relname="joint"/>
+		<group id="187" type="multinuc" parent="184" relname="elaboration"/>
+		<group id="188" type="span" parent="190" relname="comparison"/>
+		<group id="189" type="span" parent="190" relname="comparison"/>
+		<group id="190" type="multinuc" parent="227" relname="span"/>
+		<group id="192" type="span" parent="234" relname="preparation"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="122" relname="elaboration"/>
+		<group id="197" type="span" parent="89" relname="cause"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" relname="antithesis"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" relname="antithesis"/>
+		<group id="207" type="span" parent="205" relname="preparation"/>
+		<group id="208" type="span" relname="antithesis"/>
+		<group id="209" type="span" parent="142" relname="span"/>
+		<group id="210" type="span" parent="212" relname="elaboration"/>
+		<group id="211" type="span" parent="151" relname="elaboration"/>
+		<group id="212" type="span" parent="211" relname="span"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="237" relname="contrast"/>
+		<group id="215" type="span" parent="73" relname="elaboration"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="240" relname="elaboration"/>
+		<group id="221" type="span" parent="90" relname="cause"/>
+		<group id="222" type="span" parent="223" relname="span"/>
+		<group id="223" type="span" parent="243" relname="span"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" parent="246" relname="span"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" relname="antithesis"/>
+		<group id="229" type="span" parent="194" relname="evidence"/>
+		<group id="230" type="multinuc" parent="130" relname="joint"/>
+		<group id="231" type="span" parent="98" relname="elaboration"/>
+		<group id="232" type="span" parent="127" relname="joint"/>
+		<group id="233" type="span" parent="121" relname="joint"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" relname="antithesis"/>
+		<group id="236" type="span" parent="145" relname="comparison"/>
+		<group id="237" type="multinuc" relname="antithesis"/>
+		<group id="238" type="span" parent="237" relname="contrast"/>
+		<group id="239" type="span" parent="162" relname="same-unit"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" relname="antithesis"/>
+		<group id="243" type="span" relname="antithesis"/>
+		<group id="244" type="span" parent="224" relname="elaboration"/>
+		<group id="245" type="span" parent="225" relname="elaboration"/>
+		<group id="246" type="span" relname="antithesis"/>
+		<group id="247" type="span" parent="248" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="249" type="span" parent="138" relname="span"/>
+  </body>
+</rst>

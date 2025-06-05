@@ -1,0 +1,144 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### Новость: Занятия в Воскресной школе</segment>
+		<segment id="2" parent="64" relname="span">##### В каждое воскресение, утром, прихожане Свято-Троицкой церкви  с. Большой Сундырь Моргаушского района спешат на службу.</segment>
+		<segment id="3" parent="2" relname="elaboration">Среди  прихожан старшего поколения,  можно встретить и людей  молодого поколения, а также детей.</segment>
+		<segment id="4" parent="61" relname="joint">Кто-то хочет окрестить  новорожденных,</segment>
+		<segment id="5" parent="61" relname="joint">кто-то заказывает молебен о здравии,</segment>
+		<segment id="6" parent="61" relname="joint">кто  за упокой.</segment>
+		<segment id="7" parent="62" relname="elaboration">Вот так проходит служба в нашей церкви.</segment>
+		<segment id="8" parent="66" relname="sequence">А после службы отец Игнатий(Суранов) приглашает всех на занятия Воскресной школы.</segment>
+		<segment id="9" parent="68" relname="joint">Воскресная школа призвана помочь каждому верующему или стремящемуся к вере человеку стать сознательным христианином.</segment>
+		<segment id="10" parent="67" relname="joint">При этом указывается на то, что хорошо работающая воскресная школа  способствует становлению приходской общины,</segment>
+		<segment id="11" parent="67" relname="joint">благотворно влияет на духовно-нравственную атмосферу в семьях  прихожан  и окружающих людей.</segment>
+		<segment id="12" parent="69" relname="span">Современные воскресные школы – это школы,</segment>
+		<segment id="13" parent="12" relname="purpose">призванные транслировать прежде всего духовно-нравственные основы Православной Церкви и религиозные знания  желающим из всех слоев и возрастных групп российского общества.</segment>
+		<segment id="14" parent="112" relname="preparation">##### Каждое занятие в школе посвящено определенной теме.</segment>
+		<segment id="15" parent="108" relname="attribution">Если на прошлых занятиях говорили о том,</segment>
+		<segment id="16" parent="72" relname="joint">как вести себя в храме во время службы,</segment>
+		<segment id="17" parent="72" relname="joint">как и куда ставить свечи.</segment>
+		<segment id="18" parent="110" relname="attribution">То на очередных занятиях, 15 января, говорили</segment>
+		<segment id="19" parent="110" relname="span">о родоначальниках чувашской письменности, о чувашском алфавите, о священниках–сподвижниках,</segment>
+		<segment id="20" parent="73" relname="span">которые много сделали</segment>
+		<segment id="21" parent="74" relname="span">для развития  чувашского языка и литературы,</segment>
+		<segment id="22" parent="21" relname="cause">так как с помощью проповедей и богослужения на чувашском  языке, перевода молитв на чувашский язык  они  способствовали развитию чувашской письменности.</segment>
+		<segment id="23" parent="77" relname="attribution">Приглашенные на занятие  воскресной школы гости -  Васильева Людмила Александровна и Чекушкина Елена Петровна,  кандидаты филологических наук ЧГУ им. И.Н.Ульянова, в очень доступной форме  ознакомили присутствующих</segment>
+		<segment id="24" parent="76" relname="joint">с творческой деятельностью  основоположников чувашской письменности таких, как  Е.Рожанского,  Н.Бичурина, П.Талиева, А.Алмазова, В.Вишневского, В.Лебедева,  Н.Ильминского,  И.Яковлева, Д.Филимонова и др,</segment>
+		<segment id="25" parent="26" relname="attribution">а также рассказали  о</segment>
+		<segment id="26" parent="106" relname="span">самых первых печатных изданиях на чувашском языке.</segment>
+		<segment id="27" parent="75" relname="span">Многие из родоначальников чувашской письменности были священниками,</segment>
+		<segment id="28" parent="78" relname="span">и их заслуга  была в том, что чувашский народ  смог  услышать многие молитвы на своем родном языке,</segment>
+		<segment id="29" parent="28" relname="elaboration">богослужение тоже велось чувашскими священниками на родном языке.</segment>
+		<segment id="30" parent="80" relname="attribution">##### Елена Чекушкина (она же писательница Елен Нарби) рассказала об издании чувашских православных газет «Святой Покров» и «Тивлет».</segment>
+		<segment id="31" parent="80" relname="span">Редакторами этих изданий являются ее родная сестра Л.П.Васильева и муж сестры А.И.Васильев.</segment>
+		<segment id="32" parent="31" relname="elaboration">Издание этих газет началось в 2001 году.</segment>
+		<segment id="33" parent="81" relname="span">Елена Петровна просила о сотрудничестве с этими газетами,</segment>
+		<segment id="34" parent="33" relname="cause">т.к. у каждого верующего есть своя история обретения веры в Господа нашего Иисуса Христа.Газета</segment>
+		<segment id="35" parent="82" relname="contrast">не должна существовать отдельно от прихожан и церкви,</segment>
+		<segment id="36" parent="84" relname="span">нужно взаимное сотрудничество.</segment>
+		<segment id="37" parent="86" relname="condition">Ведь только так, сообща,</segment>
+		<segment id="38" parent="85" relname="joint">мы, верующие, можем научиться помогать ближним,</segment>
+		<segment id="39" parent="85" relname="joint">творить добрые дела,</segment>
+		<segment id="40" parent="85" relname="joint">стать лучше.</segment>
+		<segment id="41" parent="42" relname="attribution">##### Журналистка газеты «Тантăш» Римма Прокопьева, говорила о том,</segment>
+		<segment id="42" parent="94" relname="span">что интеллигенция и церковь раньше жили в гармонии и согласии.</segment>
+		<segment id="43" parent="91" relname="condition">И если бы не было революции,</segment>
+		<segment id="44" parent="89" relname="span">то можно считать, что была бы совсем другая жизнь</segment>
+		<segment id="45" parent="44" relname="condition">– без войн, без потерь,</segment>
+		<segment id="46" parent="90" relname="joint">люди бы сохранили в себе веру в Бога,</segment>
+		<segment id="47" parent="90" relname="joint">и не забыли бы дорогу  в храм Божий.</segment>
+		<segment id="48" parent="93" relname="joint">И сейчас  многие открыли для себя дорогу к храму,</segment>
+		<segment id="49" parent="93" relname="joint">стали  чтить православные традиции,</segment>
+		<segment id="50" parent="93" relname="joint">приобщать к этому и своих детей.</segment>
+		<segment id="51" parent="97" relname="attribution">##### Корреспондент  районной газеты  Анатолий Белов исповедал</segment>
+		<segment id="52" parent="97" relname="span">свой путь обретения веры после аварии и о том, как  стремился  находить время</segment>
+		<segment id="53" parent="52" relname="purpose">для  посещения  службы в храме Свято-Троицкой церкви.</segment>
+		<segment id="54" parent="103" relname="joint">##### На занятия Воскресной школы также были приглашены учителя чувашского языка и литературы БСОШ, библиотекари Сундырской стороны.</segment>
+		<segment id="55" parent="100" relname="span">##### В теплой и располагающей  к  беседе обстановке,  за накрытым к чаепитию столом, прихожане внимательно слушали гостей и отца Игнатия,</segment>
+		<segment id="56" parent="99" relname="span">который помогал гостям раскрывать материалы бесед,</segment>
+		<segment id="57" parent="56" relname="condition">комментируя выдержками из Библии.</segment>
+		<segment id="58" parent="101" relname="joint">Главное пожелание отца Игнатия и гостей – это сохранить в себе веру,  чистоту духа и помыслов,</segment>
+		<segment id="59" parent="101" relname="joint">научиться любить</segment>
+		<segment id="60" parent="101" relname="joint">и уважать ближних.</segment>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="64" relname="elaboration"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="65" type="span" parent="66" relname="sequence"/>
+		<group id="66" type="multinuc" parent="114" relname="span"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="68" type="multinuc" parent="70" relname="span"/>
+		<group id="69" type="span" parent="70" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="108" relname="span"/>
+		<group id="73" type="span" parent="19" relname="elaboration"/>
+		<group id="74" type="span" parent="20" relname="purpose"/>
+		<group id="75" type="span" parent="106" relname="background"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="78" type="span" parent="27" relname="elaboration"/>
+		<group id="79" type="span" parent="115" relname="span"/>
+		<group id="80" type="span" parent="105" relname="span"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="82" type="multinuc" parent="81" relname="evidence"/>
+		<group id="83" type="span" parent="88" relname="span"/>
+		<group id="84" type="span" parent="82" relname="contrast"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="36" relname="cause"/>
+		<group id="88" type="span" />
+		<group id="89" type="span" parent="91" relname="span"/>
+		<group id="90" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" parent="104" relname="contrast"/>
+		<group id="93" type="multinuc" parent="95" relname="span"/>
+		<group id="94" type="span" parent="104" relname="contrast"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" />
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="103" relname="joint"/>
+		<group id="99" type="span" parent="55" relname="elaboration"/>
+		<group id="100" type="span" parent="102" relname="span"/>
+		<group id="101" type="multinuc" parent="100" relname="evaluation"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="103" type="multinuc" />
+		<group id="104" type="multinuc" parent="95" relname="solutionhood"/>
+		<group id="105" type="span" parent="83" relname="preparation"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" parent="76" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="109" type="span" parent="111" relname="condition"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="113" type="span" parent="79" relname="preparation"/>
+		<group id="114" type="span" />
+		<group id="115" type="span" />
+	</body>
+</rst>

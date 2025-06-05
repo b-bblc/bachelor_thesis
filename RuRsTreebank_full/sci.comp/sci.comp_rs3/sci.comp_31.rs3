@@ -1,0 +1,175 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">﻿ В. А. Чулков, А. В. Медведев</segment>
+		<segment id="2" relname="antithesis">ГЕНЕРАТОР ИМПУЛЬСОВ С ФАЗОВЫМ ДРОЖАНИЕМ</segment>
+		<segment id="3" relname="antithesis">Рассматриваются методы и средства генерирования сигналов со случайным отклонением фазы</segment>
+		<segment id="4" relname="antithesis">для контроля систем передачи и обработки цифровых данных.</segment>
+		<segment id="5" relname="antithesis">Предложена схема генератора импульсов на основе ПЛИС, в котором закон отклонения фазы импульсов от номинальной позиции задается цифровым способом с помощью генератора псевдослучайных чисел.</segment>
+		<segment id="6" relname="antithesis">По результатам моделирования генератора импульсов с фазовым дрожанием в САПР Риайш II выполнен анализ статистики распределения времени задержки импульсов.</segment>
+		<segment id="7" relname="antithesis">Ключевые слова: информационный канал, сигнал, джиттер (фазовое дрожание), моделирование, генератор псевдослучайных чисел, элемент задержки, программируемая логическая интегральная схема (ПЛИС).</segment>
+		<segment id="8" parent="9" relname="cause">Передача и обработка сигналов в информационных каналах сопровождается влиянием шума,</segment>
+		<segment id="9" parent="92" relname="span">что приводит к случайному отклонению сигналов от их номинальных позиций во времени — фазовому дрожанию (джиттеру).</segment>
+		<segment id="10" parent="94" relname="cause">Знание механизмов воздействия джиттера на работу устройств</segment>
+		<segment id="11" parent="93" relname="joint">позволяет реально оценить работоспособность устройства</segment>
+		<segment id="12" parent="93" relname="joint">и уточнить требования к его параметрам.</segment>
+		<segment id="13" parent="14" relname="purpose">Для экспериментальной оценки устойчивости и характеристик шума систем приема и обработки цифровой информации</segment>
+		<segment id="14" parent="96" relname="span">необходимы имитаторы сигналов данных с нормированным джиттером.</segment>
+		<segment id="15" parent="103" relname="span">В соответствии с природой факторов, приводящих к искажениям позиций сигналов, можно выделить регулярные и случайные составляющие джиттера.</segment>
+		<segment id="16" parent="99" relname="joint">Моделирование регулярного джиттера, как правило, не представляет проблемы</segment>
+		<segment id="17" parent="99" relname="joint">и может осуществляться, например, с помощью фазового модулятора, изменяющего фазу импульса тактового генератора по заданному закону [1].</segment>
+		<segment id="18" parent="101" relname="contrast">Более сложной является задача моделирования случайной составляющей джиттера.</segment>
+		<segment id="19" parent="20" relname="cause">Ввиду большого количества причин, от которых зависит джиттер в реальных системах цифровой связи,</segment>
+		<segment id="20" parent="104" relname="span">на основе центральной предельной теоремы обычно принимается гауссова модель джиттера с равномерным энергетическим спектром в рабочей полосе частот.</segment>
+		<segment id="21" parent="109" relname="span">Для генерирования сигналов со случайным отклонением фазы от номинальной позиции</segment>
+		<segment id="22" parent="105" relname="span">применяются аналоговые и цифровые методы.</segment>
+		<segment id="23" parent="106" relname="joint">Аналоговые генераторы джиттера используют различные шумящие приборы в качестве первичных источников напряжения шума, который далее линейно преобразуется во временной сдвиг [2, 3], в частности, путем сравнения шумового напряжения с периодическим пилообразным напряжением [4].</segment>
+		<segment id="24" parent="106" relname="joint">Другой распространенный способ — введение в контур фазовой синхронизации генератора шумового напряжения посредством узла суммирования [5].</segment>
+		<segment id="25" parent="107" relname="evaluation">Общим недостатком аналоговых устройств является необходимость регулировок, а также низкая стабильность и помехоустойчивость [6].</segment>
+		<segment id="26" relname="antithesis">Рекомендована кафедрой систем управления и информатики СПбГУ ИТМО</segment>
+		<segment id="27" parent="111" relname="span">К случайным сигналам с непрерывным и равномерным спектром шума весьма близки по статистическим свойствам так называемые псевдослучайные сигналы,</segment>
+		<segment id="28" parent="27" relname="elaboration">которые генерируются цифровыми способами.</segment>
+		<segment id="29" parent="30" relname="concession">Хотя псевдослучайные сигналы являются, по существу, регулярными,</segment>
+		<segment id="30" parent="112" relname="span">период их повторения можно сделать настолько большим,</segment>
+		<segment id="31" parent="113" relname="span">что закономерность значений моделируемого параметра не успеет проявиться за время наблюдения.</segment>
+		<segment id="32" parent="33" relname="purpose">Для построения генераторов псевдослучайных чисел (ГПСЧ)</segment>
+		<segment id="33" parent="115" relname="span">используются кольцевые сдвигающие регистры с обратной связью через элемент арифметического сложения по модулю 2.</segment>
+		<segment id="34" parent="144" relname="contrast">Известно, что сумма содержимого смежных разрядов регистра в ГПСЧ обладает биномиальным,</segment>
+		<segment id="35" parent="144" relname="contrast">а при большом количестве суммируемых разрядов — близким к гауссову распределением [7].</segment>
+		<segment id="36" parent="116" relname="span">Это и оправдывает широкое применение ГПСЧ в качестве первичного источника шума с заданными свойствами.</segment>
+		<segment id="37" parent="120" relname="span">Возможны различные варианты преобразования случайного цифрового кода в фазовое дрожание импульсов тактового генератора.</segment>
+		<segment id="38" parent="118" relname="joint">Так, в схеме генератора пульсаций для испытаний битового синхронизатора [8] суммирование содержимого разрядов ГПСЧ выполняется аналоговым способом,</segment>
+		<segment id="39" parent="118" relname="joint">а полученный в результате сигнал воздействует на частоту управляемого генератора.</segment>
+		<segment id="40" parent="122" relname="span">Более точное моделирование джиттера с преобразованием псевдошумового цифрового кода непосредственно в фазу выходного импульса обеспечивают устройства с дискретной интерполяцией опорного периода [9].</segment>
+		<segment id="41" parent="42" relname="purpose">Для интерполяции</segment>
+		<segment id="42" parent="121" relname="span">могут применяться либо цифровая линия задержки, либо мультифазный кольцевой генератор.</segment>
+		<segment id="43" parent="123" relname="span">Рассматриваемая схема генератора импульсов с фазовым дрожанием на основе ГПСЧ не нуждается в операциях суммирования и мультиплексирования</segment>
+		<segment id="44" parent="43" relname="cause">благодаря специальному исполнению элементов задержки [10].</segment>
+		<segment id="45" parent="128" relname="span">Генератор (рис. 1) включает последовательную цепь элементов задержки, имеющих входы управления Qi.</segment>
+		<segment id="46" parent="126" relname="contrast">При логической „1" на входе Q входной сигнал по замыкаемому ключу поступает непосредственно на выход элемента.</segment>
+		<segment id="47" parent="124" relname="condition">Если же на входе Q появляется логический „0",</segment>
+		<segment id="48" parent="49" relname="cause">то шунтирующий ключ в элементе задержки оказывается разомкнутым,</segment>
+		<segment id="49" parent="124" relname="span">что приводит к увеличению времени задержки.</segment>
+		<segment id="50" parent="129" relname="elaboration">[Рис. 1]</segment>
+		<segment id="51" parent="130" relname="span">Выходной импульс генератора отстает относительно входного импульса на время задержки, определяемое числом элементов,</segment>
+		<segment id="52" parent="51" relname="elaboration">на вход которых подаются нулевые сигналы.</segment>
+		<segment id="53" parent="54" relname="cause">Поскольку сумма содержимого смежных разрядов ГПСЧ распределена по нормальному закону,</segment>
+		<segment id="54" parent="131" relname="span">то нормальному закону подчинена и задержка выходного импульса относительно входного.</segment>
+		<segment id="55" parent="133" relname="joint">Показанная на рис. 2 схема генератора импульсов с фазовым дрожанием*, включающая 7-секционную цифровую линию задержки, реализована на кристалле EP2S15F484C3 фирмы „Altera".</segment>
+		<segment id="56" parent="133" relname="joint">Работоспособность схемы была проверена путем моделирования в САПР Quartus II.</segment>
+		<segment id="57" parent="133" relname="joint">Каждый элемент линии задержки, собранный из восьми последовательно соединенных буферов LCELL [11], задерживает сигнал на время 2,905 нс.</segment>
+		<segment id="58" parent="134" relname="elaboration">Схема, приведенная в авторской редакции, с англоязычными обозначениями компонентов, представляет собой распечатку с экрана компьютера программы, поддерживающей проектирование на ПЛИС, т.е., по существу, реальный объект исследования.</segment>
+		<segment id="59" relname="antithesis">[Рис. 2]</segment>
+		<segment id="60" parent="139" relname="preparation">По результатам измерения значений задержки t фронта выходного импульса относительно фронта входного импульса в пределах полного цикла ГПСЧ построена гистограмма распределения времени задержки (рис. 3).</segment>
+		<segment id="61" parent="62" relname="evidence">Как видно из гистограммы,</segment>
+		<segment id="62" parent="136" relname="span">моделируемый джиттер импульсов обладает близким к нормальному распределением.</segment>
+		<segment id="63" parent="138" relname="span">Некоторая асимметрия графика относительного математического ожидания ( = 22,689 нс) объясняется тем,</segment>
+		<segment id="64" parent="137" relname="span">что в ГПСЧ исключена комбинация „1111111",</segment>
+		<segment id="65" parent="64" relname="elaboration">которой соответствует минимальная задержка.</segment>
+		<segment id="66" relname="antithesis">[Рис. 3]</segment>
+		<segment id="67" parent="141" relname="span">Энергетический спектр джиттера простирается от частоты опорных импульсов до частоты повторения комбинаций ГПСЧ,</segment>
+		<segment id="68" parent="67" relname="cause">увеличивая число разрядов которого, можно получить практически случайный процесс.</segment>
+		<segment id="69" parent="70" relname="cause">В рассмотренном примере использован 7-разрядный ГПСЧ,</segment>
+		<segment id="70" parent="142" relname="span">и, следовательно, спектр может составить от f0/127 ~ 160 кГц до опорной частоты f0 ~ 20 МГц.</segment>
+		<segment id="71" relname="antithesis">список литературы</segment>
+		<segment id="72" relname="antithesis">1\. Milijevic S. Use an off-the-shelf signal source as a jitter/wander generator // EDN. 2005. Febr. 3. Р. 83, 84.</segment>
+		<segment id="73" relname="antithesis">2\. БобневМ. П. Генерирование случайных сигналов. М.: Энергия, 1971.</segment>
+		<segment id="74" relname="antithesis">3\. Тухарели К. Д., Шульга В. Г. Устройства имитации дрожания фазы импульсов кодовых последовательностей // Полупроводниковая электроника в технике связи: сб. М.: Связь, 1978. Вып. 19. С. 154—161.</segment>
+		<segment id="75" relname="antithesis">4\. Пат. 2107941 РФ. Генератор равномерно распределенных случайных импульсов /</segment>
+		<segment id="76" relname="antithesis">В. Б. Колесников.</segment>
+		<segment id="77" relname="antithesis">5\. Pat. 5742208 US. Signal generator for generating a jitter/wander output.</segment>
+		<segment id="78" relname="antithesis">6\. Сергиенко А. Б. Цифровая обработка сигналов: Учеб. для вузов. СПб.: Питер, 2006.</segment>
+		<segment id="79" relname="antithesis">7\. Корн Г. Моделирование случайных процессов на аналоговых и аналого-цифровых машинах. М.: Мир, 1968.</segment>
+		<segment id="80" relname="antithesis">8\. Харикумар Н. Генератор пульсаций для испытаний битового синхронизатора // Электроника. 1975. № 11. С. 65—67.</segment>
+		<segment id="81" relname="antithesis">9\. Чулков В. А. Генераторы импульсов с фазовым субквантованием // Изв. вузов. Приборостроение. 2004. Т. 47, № 8. С. 28—34.</segment>
+		<segment id="82" relname="antithesis">10\. Пат. 2133552 РФ, МПК Н03К 5/159. Генератор импульсов с нормированным фазовым шумом / В. А. Чулков. 54 В. А. Чулков, А. В. Медведев 11\. Стешенко В. Б. ПЛИС фирмы „Altera": элементная база, система проектирования и языки описания аппаратуры. М.: Изд. дом „Додэка—XXI", 2002.</segment>
+		<segment id="83" relname="antithesis">Валерий Александрович Чулков</segment>
+		<segment id="84" relname="antithesis">Алексей Владимирович Медведев —</segment>
+		<segment id="85" relname="antithesis">Сведения об авторах</segment>
+		<segment id="86" relname="antithesis">канд. техн. наук, доцент; Пензенская государственная технологическая академия,</segment>
+		<segment id="87" relname="antithesis">кафедра вычислительных машин и систем, профессор; E-mail: chu@pgta.ac.ru аспирант;</segment>
+		<segment id="88" relname="antithesis">Пензенская государственная технологическая академия, кафедра вычислительных машин и систем; E-mail: mav@pgta.ac.ru</segment>
+		<segment id="89" relname="antithesis">Рекомендована кафедрой вычислительных машин и систем</segment>
+		<segment id="90" relname="antithesis">Поступила в редакцию 21.12.07 г.</segment>
+		<segment id="91" relname="antithesis"> </segment>
+		<group id="92" type="span" parent="95" relname="background"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="96" type="span" parent="97" relname="solutionhood"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" relname="antithesis"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="contrast"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="102" type="span" parent="15" relname="elaboration"/>
+		<group id="103" type="span" relname="antithesis"/>
+		<group id="104" type="span" parent="21" relname="background"/>
+		<group id="105" type="span" parent="110" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" parent="105" relname="elaboration"/>
+		<group id="109" type="span" parent="22" relname="purpose"/>
+		<group id="110" type="span" relname="antithesis"/>
+		<group id="111" type="span" parent="114" relname="span"/>
+		<group id="112" type="span" parent="31" relname="condition"/>
+		<group id="113" type="span" parent="111" relname="elaboration"/>
+		<group id="114" type="span" relname="antithesis"/>
+		<group id="115" type="span" parent="117" relname="span"/>
+		<group id="116" type="span" parent="115" relname="evidence"/>
+		<group id="117" type="span" relname="antithesis"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="119" type="span" parent="37" relname="evidence"/>
+		<group id="120" type="span" relname="antithesis"/>
+		<group id="121" type="span" parent="40" relname="elaboration"/>
+		<group id="122" type="span" relname="antithesis"/>
+		<group id="123" type="span" parent="129" relname="span"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" parent="126" relname="contrast"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="127" type="span" parent="45" relname="elaboration"/>
+		<group id="128" type="span" parent="123" relname="elaboration"/>
+		<group id="129" type="span" parent="146" relname="span"/>
+		<group id="130" type="span" parent="132" relname="span"/>
+		<group id="131" type="span" parent="130" relname="elaboration"/>
+		<group id="132" type="span" relname="antithesis"/>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="135" type="span" relname="antithesis"/>
+		<group id="136" type="span" parent="139" relname="span"/>
+		<group id="137" type="span" parent="63" relname="cause"/>
+		<group id="138" type="span" parent="136" relname="elaboration"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" relname="antithesis"/>
+		<group id="141" type="span" parent="143" relname="span"/>
+		<group id="142" type="span" parent="141" relname="elaboration"/>
+		<group id="143" type="span" relname="antithesis"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="36" relname="background"/>
+		<group id="146" type="span" relname="antithesis"/>
+  </body>
+</rst>

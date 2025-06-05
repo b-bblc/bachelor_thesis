@@ -1,0 +1,420 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">_МЕЖДУНАРОДНЫЙ НАУЧНЫЙ ЖУРНАЛ «ИННОВАЦИОННАЯ НАУКА» №4/2016 ISSN 2410-6070_</segment>
+		<segment id="2" relname="antithesis">УДК8</segment>
+		<segment id="3" relname="antithesis">Кушшаева Матлюба,</segment>
+		<segment id="4" relname="antithesis">старший преподаватель Самаркандского государственного университета</segment>
+		<segment id="5" relname="antithesis">Республика Узбекистан</segment>
+		<segment id="6" relname="antithesis">СПОСОБ РЕФЕРЕНЦИИ ИМЕНИ КАК ПЕРЕСЕЧЕНИЕ РАЗЛИЧНЫХ КАТЕГОРИЙ И СРЕДСТВ ЕГО ОФОРМЛЕНИЯ</segment>
+		<segment id="7" relname="antithesis">Аннотация</segment>
+		<segment id="8" relname="antithesis">В статье рассматриваются способ референции имени как пересечение различных категорий и средств его оформления.</segment>
+		<segment id="9" relname="antithesis">Рассмотрение перечисленных типов референции показал, что во всех случаях пересекается действие трех различных категорий,</segment>
+		<segment id="10" relname="antithesis">а каждый из них, соответственно, можно охарактеризовать с помощью трех пар дифференциальных признаков: единственность-множественность; произвольность-конкретность; определенность-неопределенность.</segment>
+		<segment id="11" relname="antithesis">Ключевые слова</segment>
+		<segment id="12" relname="antithesis">Актуализация виртуального имени, конкретность референта, предикат, идентификация,определенная дескрипции.</segment>
+		<segment id="13" parent="215" relname="span">Актуализацию виртуального имени в речи можно понимать двояко:</segment>
+		<segment id="14" parent="209" relname="span">1 - более широко:</segment>
+		<segment id="15" parent="207" relname="restatement">как тип, способ референции такого имени,</segment>
+		<segment id="16" parent="207" relname="restatement">т.е. способ осмысления и представления предмета речи в высказывании и соответствующее оформление имени;</segment>
+		<segment id="17" parent="214" relname="span">2 - более узко:</segment>
+		<segment id="18" parent="212" relname="restatement">как собственно референцию,</segment>
+		<segment id="19" parent="212" relname="restatement">т.е. отнесенность имени к данному объекту из класса одноименных, а не к другому.</segment>
+		<segment id="20" parent="224" relname="span">Среди наиболее существенных видов референции имени в речи Н.Д.Арутюнова отмечает следующие:</segment>
+		<segment id="21" parent="219" relname="span">1) отнесение имени к признакам класса</segment>
+		<segment id="22" parent="21" relname="elaboration">(Этот предмет-карандаш);</segment>
+		<segment id="23" parent="216" relname="span">2) отнесение имени к любому члену класса</segment>
+		<segment id="24" parent="23" relname="elaboration">(Дай мне карандаш!);</segment>
+		<segment id="25" parent="221" relname="span">3) отнесение имени к объекту, известному говорящему, но не знакомому адресату</segment>
+		<segment id="26" parent="25" relname="elaboration">(Вчера я встретил одного приятеля);</segment>
+		<segment id="27" parent="217" relname="span">4) отнесение имени к единичному, но не идентифицированному предмету</segment>
+		<segment id="28" parent="27" relname="elaboration">(Вчера было совершено ограбление банка. Грабитель не пойман);</segment>
+		<segment id="29" parent="223" relname="span">5) отнесение имени к идентифицируемому объекту</segment>
+		<segment id="30" parent="29" relname="elaboration">(Петя женился не Вере);</segment>
+		<segment id="31" parent="218" relname="span">6) отношение имени к целиком взятому классу объектов</segment>
+		<segment id="32" parent="31" relname="elaboration">(Люди смертны).</segment>
+		<segment id="33" parent="224" relname="elaboration">Наряду с перечисленными в качестве референта имени обычно упоминаются - каждый член класса, некоторая часть класса, определенная часть класса...</segment>
+		<segment id="34" parent="237" relname="evidence">Анализ перечисленных типов референции показал,</segment>
+		<segment id="35" parent="233" relname="span">что во всех случаях</segment>
+		<segment id="36" parent="35" relname="concession">(кроме первого, где имя лишено денотативной отнесенности)</segment>
+		<segment id="37" parent="234" relname="same-unit">пересекается действие трех различных категорий,</segment>
+		<segment id="38" parent="236" relname="joint">а каждый из них, соответственно, можно охарактеризовать с помощью трех пар дифференциальных признаков: 1) единственность - множественность; 2) произвольность - конкретность; 3) определенность -неопределенность.</segment>
+		<segment id="39" parent="245" relname="span">Необходимо сразу же оговориться, что вид референции устанавливается не абсолютно, а относительно предиката как конструктивного и смыслового центра предложения, рассматриваемого «как обозначения события, участники которого (актанты) ... вовлечены в действие».</segment>
+		<segment id="40" parent="239" relname="contrast">В предложении с одноместным предикатом единственный актант выступает носителем имманентного признака.</segment>
+		<segment id="41" parent="239" relname="contrast">В предложении с многоместным предикатом несколько актантов связаны признаком-отношением.</segment>
+		<segment id="42" parent="43" relname="cause">Актуализация предполагает указания на соотнесенность имен со своим референтами (актантами)</segment>
+		<segment id="43" parent="382" relname="span">и тем самым способствует установлению связи всего соответствующего высказывания с фрагментом действительности - событием.</segment>
+		<segment id="44" parent="246" relname="span">1) Признак или признак-отношение, заключенный в предикате, может быть «справедлив» для одного объекта одноименного класса или для более, чем одного:</segment>
+		<segment id="45" parent="247" relname="span">количественные характеристики референтов имени - основа его «квантитативной актуализации».</segment>
+		<segment id="46" parent="225" relname="same-unit">Последняя располагает целым арсеналом грамматических</segment>
+		<segment id="47" relname="antithesis">_МЕЖДУНАРОДНЫЙ НАУЧНЫЙ ЖУРНАЛ «ИННОВАЦИОННАЯ НАУКА» №4/2016 ISSN 2410-6070_</segment>
+		<segment id="48" parent="225" relname="same-unit">средств.</segment>
+		<segment id="49" parent="261" relname="elaboration">В функции квантитативной актуализации, наряду с формами числа существительного, используются слова-кванторы, выступающие в предложении как определения к имени: квантитативные прилагательные (многие, некоторые, многочисленные...) и наречия (много, мало, несколько ...), а также целый разряд количественных числительных.</segment>
+		<segment id="50" parent="258" relname="span">Цель квантитативной актуализации достигается в опоре на интенсионал (понятийные признаки) актуализируемого значения.</segment>
+		<segment id="51" parent="256" relname="attribution">По этому поводу С.Д.Кацнельсон пишет следующее:</segment>
+		<segment id="52" parent="248" relname="contrast">«В разрез со своей основной функцией - сплочения различных объектов в один общий класс</segment>
+		<segment id="53" parent="250" relname="span">-интенсионал служит теперь,</segment>
+		<segment id="54" parent="53" relname="evaluation">как бы странно это не звучало,</segment>
+		<segment id="55" parent="249" relname="same-unit">целям различения объектов внутри класса.</segment>
+		<segment id="56" parent="254" relname="span">Свойства интенсионала уравнивать объекты, подводя их под единое наименование, выдвигается . на передний план.</segment>
+		<segment id="57" parent="58" relname="cause">В процессе умственной идеализации отбрасывается все качественные различия между отдельными элементами класса,</segment>
+		<segment id="58" parent="253" relname="span">вследствие чего последние представляют перед нами как идеальные, качественно однородные элементы, отличающиеся каждый раз друг от друга лишь своим количественными отношениями.</segment>
+		<segment id="59" parent="385" relname="joint">То их оказывается много,</segment>
+		<segment id="60" parent="385" relname="joint">то мало,</segment>
+		<segment id="61" parent="385" relname="joint">то вовсе один».</segment>
+		<segment id="62" parent="262" relname="span">Средства количественной актуализации взаимодействуют между собой, дополняя друг друга:</segment>
+		<segment id="63" parent="62" relname="elaboration">количественная атрибуция уточняет соответствующие характеристики денотата, наслаиваясь на значения «единственности» и «множественности», выражаемые формами числа существительного.</segment>
+		<segment id="64" parent="65" relname="cause">Так как этот аспект актуализации основывается на признаках, не зависящих от точки зрения говорящего,</segment>
+		<segment id="65" parent="227" relname="span">его называют объективными .</segment>
+		<segment id="66" parent="264" relname="span">2) Признак, заключенный в предикате, может характеризовать данный конкретный объект, отвечающий наименованию,</segment>
+		<segment id="67" parent="66" relname="elaboration">как в: Вчера я встретил одного приятеля. Пятеро пассажиров опоздали. Грабитель не пойман. Петя женился на Вере. Эти цветы имеют удивительную окраску. либо любой произвольно избранный объект одноименного класса: Дай мне карандаш! Купи нам пару арбузов! Вера хочет непременно выйти за врача. Мне бы отправиться сейчас в тихое местечко, подальше от городской суеты.</segment>
+		<segment id="68" parent="265" relname="span">Внешним показателем произвольности - конкретности референта имени является возможность-невозможность подстановки в качестве препозитивного детерминатива слов, которые зачастую причисляются к кванторам: «любой», «какой-нибудь».</segment>
+		<segment id="69" parent="266" relname="span">Само значение произвольности-конкретности скрыто в контексте (в самом широком понимании слова).</segment>
+		<segment id="70" parent="268" relname="span">Так, «наивные контексты пресуппозиции » (определение Почепцева Г.Г.) предложений, имеющих в своем составе конкретное имя, содержат информацию о существовании и единичности объекта - референта имени.</segment>
+		<segment id="71" parent="267" relname="span">Например, предложение «Вчера я встретил одного приятеля» может быть интерпретировано следующим образом:</segment>
+		<segment id="72" parent="71" relname="elaboration">Есть у меня один приятель. Я его встретил вчера.</segment>
+		<segment id="73" parent="228" relname="span">Что касается предложений, имеющих в своем составе произвольное имя, то они данной пресуппозиции не содержат,</segment>
+		<segment id="74" parent="73" relname="elaboration">ср.: Дай мне карандаш! = Есть один карандаш. Дай мне его.</segment>
+		<segment id="75" parent="273" relname="span">Произвольности имени сопутствует значение гипотетичности утверждаемого, требуемого и, естественно, вопращаемого в предложении.</segment>
+		<segment id="76" parent="229" relname="span">Произвольное имя чаще всего встречается в повелительных предложениях:</segment>
+		<segment id="77" parent="76" relname="elaboration">Достань мне билет в театр! Купи себе новое пальто! Спроси дорогу у прохожего! Давай поедем на трамвае!</segment>
+		<segment id="78" parent="271" relname="same-unit">в вопросах: Хочешь яблоко? Разве обязательно идти туда в костюме? Он не женился еще на какой-нибудь поклоннице своего таланта?</segment>
+		<segment id="79" parent="230" relname="span">в высказываниях, выражающих желание:</segment>
+		<segment id="80" parent="79" relname="elaboration">Хоть бы встретить какого-нибудь приятеля! Я хотела бы почитать хороший исторический роман. Мне бы сейчас гитару в руки!</segment>
+		<segment id="81" parent="231" relname="span">предложение:</segment>
+		<segment id="82" parent="81" relname="elaboration">Он, наверное, встретил какого-нибудь друга и заговорился с ним.</segment>
+		<segment id="83" parent="232" relname="span">а также в предложениях, содержащих сравнение в прямом или косвенном виде:</segment>
+		<segment id="84" parent="83" relname="elaboration">У него как нос картофелина. Он силен как медведь. Своей формой это напоминает звезду.</segment>
+		<segment id="85" parent="274" relname="restatement">Некоторые глаголы, относящиеся к разрядку так называемых интенсиональных</segment>
+		<segment id="86" parent="274" relname="restatement">(отражающих внутреннюю деятельность человека, связанную о его субьективной психологией ),</segment>
+		<segment id="87" parent="275" relname="elaboration">как например "искать" "мечтать о" "нуждаться в" " owe" , " offer" , "advertise for" , " hunt for" "need" , " demand" ...</segment>
+		<segment id="88" parent="388" relname="same-unit">создают "</segment>
+		<segment id="89" relname="antithesis">_МЕЖДУНАРОДНЫЙ НАУЧНЫЙ ЖУРНАЛ «ИННОВАЦИОННАЯ НАУКА» №4/2016 ISSN 2410-6070_</segment>
+		<segment id="90" parent="388" relname="same-unit">референтно затемненные" (opaque ) контексты, которые сами по себе выявляют произвольный элемент класса имеется в виду или индивидуальный.</segment>
+		<segment id="91" parent="280" relname="span">Ср. Предложения:</segment>
+		<segment id="92" parent="91" relname="elaboration">Он ищет квартиру. Мальчишка мечтает поймать грабителя. She is hunting for a celebrity.</segment>
+		<segment id="93" parent="280" relname="elaboration">которые позволяют двоякое прочтение -</segment>
+		<segment id="94" parent="282" relname="span">в одном случае речь пойдет о "о каком - то предмете</segment>
+		<segment id="95" parent="94" relname="elaboration">(факт его существования и единичности-презумпция предложения),</segment>
+		<segment id="96" parent="283" relname="span">в другом - «о каком-нибудь» предмете</segment>
+		<segment id="97" parent="96" relname="elaboration">(факт его существования и единичности предложением не имплицируется).</segment>
+		<segment id="98" parent="289" relname="span">С другой стороны, существуют контексты, где произвольное имя исключено</segment>
+		<segment id="99" parent="291" relname="span">- это прежде всего контексты с глаголами экстенсиональными</segment>
+		<segment id="100" parent="287" relname="span">(отражающими внешнюю деятельность человека,</segment>
+		<segment id="101" parent="100" relname="elaboration">например, глаголами механического воздействия).</segment>
+		<segment id="102" parent="290" relname="span">Ср. невозможность произвольного употребления имени в настоящем и прошедшем времени:</segment>
+		<segment id="103" parent="102" relname="elaboration">Он взял у меня любую книгу. Он встретил вчера на улице любого приятеля. Петя женился на любой девушке. Милиция поймала любого грабителя.</segment>
+		<segment id="104" parent="295" relname="span">В артиклевых языках при существительных о произвольным референтом всегда употребляется неопределенный артикль.</segment>
+		<segment id="105" parent="294" relname="span">Традиционная и современная грамматика английского языка, не формилируя противопоставление произвольной и конкретной отнесенности имени как категорию, тем не менее отмечает разницу в «значения» артикля:</segment>
+		<segment id="106" parent="292" relname="sequence">еще Г.Суит различал два вида неопределенного артикля (интродуктивный абсолютный);</segment>
+		<segment id="107" parent="108" relname="attribution">по свидетельству Б.Х.Парти,</segment>
+		<segment id="108" parent="390" relname="span">некоторые американские лингвисты, в том числе Ч.Филлмор, называет их, соответственно, конкретным (Specific) и неконкретным (Non-specific).</segment>
+		<segment id="109" parent="308" relname="span">3) Признак, содержащийся в предикате высказывания, может относиться как к определенному лицу (или предмету), так и неопределенному.</segment>
+		<segment id="110" parent="394" relname="span">Определенность- неопределенность имени существительного, обозначающего тот или иной объект, широко обсуждалась в лингвистической литературе</segment>
+		<segment id="111" parent="110" relname="cause">в основном в связи с проблемой функциональных различий и норм употребления артиклей, которые, как известно, является специальными грамматическими средствами выражения данной категории.</segment>
+		<segment id="112" parent="298" relname="attribution">В настоящее время многие авторы, например, И. Крамский считают,</segment>
+		<segment id="113" parent="298" relname="span">что эта категория универсальная,</segment>
+		<segment id="114" parent="296" relname="restatement">в некоторых языках выраженная не формальными средствами</segment>
+		<segment id="115" parent="296" relname="restatement">(артикль, в обычном понимании этого слова, в них отсутствует).</segment>
+		<segment id="116" parent="302" relname="concession">Другие, например, С.Д.Кацнельсон, придерживается несколько иного имени:</segment>
+		<segment id="117" parent="300" relname="contrast">категория определенности/неопределенности не универсальна,</segment>
+		<segment id="118" parent="300" relname="contrast">но «в ее содержание входит некоторые моменты, обязательные для любого достаточно развитого языка,</segment>
+		<segment id="119" parent="392" relname="evaluation">безразлично,</segment>
+		<segment id="120" parent="391" relname="joint">есть ли в нем артикль</segment>
+		<segment id="121" parent="391" relname="joint">или нет».</segment>
+		<segment id="122" parent="307" relname="span">Эти моменты в последнее время обращают внимания на себя пристальное внимание лингвистов, занимающихся безартиклевыми языками,</segment>
+		<segment id="123" parent="311" relname="attribution">Большинство лингвистов полагает,</segment>
+		<segment id="124" parent="311" relname="span">что специфика значений определенности/неопределенности «заключается в том,</segment>
+		<segment id="125" parent="309" relname="contrast">что они отражают не отношения между предметами и явлениями, существующие независимо от говорящих (как, например, значение падежей),</segment>
+		<segment id="126" parent="309" relname="contrast">а выражают отношения к предметам и явлениям участников акта общения - говорящего и слушающего».</segment>
+		<segment id="127" parent="313" relname="span">На этом основании актуализацию по линии данной категории, и противоположность квантитативной, называют субъективной актуализацией.</segment>
+		<segment id="128" parent="129" relname="attribution">Многие лингвисты сходятся, также, на том,</segment>
+		<segment id="129" parent="314" relname="span">что сами артикли не выражают значений определенности или неопределенности, представляя собой лишь сигналы наличия у существительного того или иного значения, приобретаемого им в той или иной ситуации, в том или ином контексте.</segment>
+		<segment id="130" parent="319" relname="attribution">В.Г.Адмони пишет по этому поводу,</segment>
+		<segment id="131" parent="315" relname="contrast">что решающим для выяснения того или иного семантического оттенка существительного является не артикль, а контекст, общий смысл речи и всей ситуации, в которой протекает речь.</segment>
+		<segment id="132" parent="315" relname="contrast">Сам артикль получает свою семантическую определенность из этого контекста .</segment>
+		<segment id="133" parent="317" relname="joint">В силу указанного обстоятельства точнее было бы говорить не о значении, а с назначении артиклей,</segment>
+		<segment id="134" parent="317" relname="joint">а категорию определенности/неопределенности по праву называть контекстуальной.</segment>
+		<segment id="135" parent="321" relname="span">Именно с коммуникативных, «прагматических», позиций определяется и сама суть противопоставления:</segment>
+		<segment id="136" parent="135" relname="elaboration">ее видят в том, что «говорящий характеризирует предмет, обозначаемый существительным, как известный или неизвестный для слушающего, учитывая осведомленность последнего о данном предмете».</segment>
+		<segment id="137" parent="395" relname="span">Мнение это, возникшее уже давно, чрезвычайно распространено и почти не подвергается сомнению.</segment>
+		<segment id="138" parent="324" relname="same-unit">Так, в монографии по семантике предложения, вышедшей в 1976 году,</segment>
+		<segment id="139" relname="antithesis">_МЕЖДУНАРОДНЫЙ НАУЧНЫЙ ЖУРНАЛ «ИННОВАЦИОННАЯ НАУКА» №4/2016 ISSN 2410-6070_</segment>
+		<segment id="140" parent="324" relname="same-unit">Н.Д.Арутюнова пишет:</segment>
+		<segment id="141" parent="142" relname="cause">Прагматическая точка зрения на неопределенные дескрипции</segment>
+		<segment id="142" parent="326" relname="span">сводится к указанию на то, что так называемая категория неопределенности сигнализирует о различии в осведомленности собеседников:</segment>
+		<segment id="143" parent="329" relname="span">прибегая к неопределенной дескрипции, говорящий дает понять, что он имеет в виду определенный предмет,</segment>
+		<segment id="144" parent="327" relname="joint">который, однако, неизвестен адресату</segment>
+		<segment id="145" parent="327" relname="joint">и который поэтому тот не должен отождествлять и ни с каким известным ему ранее упоминавшимся предметом.</segment>
+		<segment id="146" parent="332" relname="span">Если в предложении идет речь о неизвестном для слушающего в предмете,</segment>
+		<segment id="147" parent="333" relname="span">имя как бы вводит данный предмет в его сознание,</segment>
+		<segment id="148" parent="149" relname="elaboration">если же - об известном,</segment>
+		<segment id="149" parent="334" relname="span">то имя аппелирует к уже имеющемуся опыту.</segment>
+		<segment id="150" parent="336" relname="evaluation">Не случайно роль неопределенного артикля зачастую называют «анафорической», учитывая, таким образом, в описании фактор маркированности относительно текста.</segment>
+		<segment id="151" parent="347" relname="span">В изложенной концепции обращают на себя внимание, как требующие уточнения, три момента, которые можно сформулировать в виде вопросов:</segment>
+		<segment id="152" parent="153" relname="condition">а) Если употребление определенной дескрипции означает, что, по мнению говорящего, собеседник «знает» конкретный объект, о котором, сообщается в предложении,</segment>
+		<segment id="153" parent="338" relname="span">каким должно быть это «знание», какие условия его обеспечивают?</segment>
+		<segment id="154" parent="342" relname="restatement">б) Всегда ли неопределенная дескрипция подразумевает неизвестность предмета речи для ее адресата,</segment>
+		<segment id="155" parent="342" relname="restatement">т.е. всегда ли присутствует здесь момент «интродукции»?</segment>
+		<segment id="156" parent="341" relname="same-unit">(этот вопрос,</segment>
+		<segment id="157" parent="158" relname="condition">в случае отрицательного ответа,</segment>
+		<segment id="158" parent="340" relname="span">потребует некоторой переформулировки исходной точки зрения на суть противопоставления имен по линии определенности-неопределенности).</segment>
+		<segment id="159" parent="344" relname="joint">в) Наконец, всегда ли в неопределенной дескрипции обозначает «определенный» (в нашей терминологии - «конкретный») объект,</segment>
+		<segment id="160" parent="344" relname="joint">всегда ли она предполагает «знание» (идентификацию) предмета речи самим автором высказывания.</segment>
+		<segment id="161" parent="399" relname="span">Обсуждение указанных моментов предлагается в той же последовательности.</segment>
+		<segment id="162" parent="356" relname="span">а) В предложении, которое сообщает нечто о предмете, обозначенном определенной дескрипцией, в качестве пресуппозиции всегда содержится информация о существовании и единичности объекта, т.е. о его конкретности.</segment>
+		<segment id="163" parent="348" relname="span">Это первое постоянное условие употребления имени нарицательного с определенным артиклем, имени собственного и личного местоимения, одним словом, любой определенной дескрипции.</segment>
+		<segment id="164" parent="163" relname="elaboration">Оно подразумевает, что самим говорящим объект идентифицируется.</segment>
+		<segment id="165" parent="355" relname="span">Другое непременное условие одним из первых сформулировал П.Кристоферсен - условие «familiarity» («знакомства»), известности предмета речи адресату, которое он связывал с понятием предшествующего опыта.</segment>
+		<segment id="166" parent="351" relname="same-unit">Определенный артикль,</segment>
+		<segment id="167" parent="168" relname="attribution">по его мнению,</segment>
+		<segment id="168" parent="352" relname="span">«означает, что к потенциальному значению слова прибавляется ассоциации с предшествующим знанием,</segment>
+		<segment id="169" parent="354" relname="span">из которой следует, что имеется в виду только один индивид».</segment>
+		<segment id="170" parent="171" relname="evidence">Примеры определенных дескрипции показывают,</segment>
+		<segment id="171" parent="357" relname="span">что для идентификации, строго говоря, не обязателен момент предшествования.</segment>
+		<segment id="172" parent="359" relname="span">Вряд ли можно говорить о нем,</segment>
+		<segment id="173" parent="358" relname="span">когда идентифицируемый объект непосредственно воспринимается адресатом</segment>
+		<segment id="174" parent="173" relname="elaboration">(имеется в виду, естественно, ранее не упоминавшийся объект):</segment>
+		<segment id="175" parent="358" relname="elaboration">«Смотри, этот мальчик - Володин сын»; «Подойти к книжной полке и возьми книгу, лежащую на самом верху!»;</segment>
+		<segment id="176" parent="362" relname="span">данный момент вовсе отсутствует в тех случаях,</segment>
+		<segment id="177" parent="363" relname="span">когда в контексте сообщение об отличительных признаках объекта, содержащееся в постпозитивном определении к имени существительному, является одновременно и сообщением о его существовании, как в следующих предложениях:</segment>
+		<segment id="178" parent="177" relname="elaboration">1."I knew Strickland well", he said, as he leaned back in his chair and lit the cigar I had offered him. (S.Maugham. The M. and S., 169). \- Я хорошо знал Стрикланда, - начал он, закурив сигару, которую я ему предложил, и по удобнее устраиваясь в кресле. 2\. By my side was the empty bowl in which the concierge had drought me my caf au lait and the fragment of croissant which I had not appetite enough to eat. (S.Maugham. The M. and S., 130). На столе возле меня стоял кофейник, в котором консъержка принесла мне традиционное cafe au lait, и остатки недоеденного печенья.</segment>
+		<segment id="179" parent="364" relname="span">В любом из приведенных примеров идентифицируемый объект известен адресату речи только в том смысле,</segment>
+		<segment id="180" parent="179" relname="elaboration">что он понимает, о котором из объектов одноименного класса идет речь;</segment>
+		<segment id="181" parent="364" relname="concession">реального знания о нем, знакомства с индивидуальностью каждого у него быть не может.</segment>
+		<segment id="182" parent="366" relname="same-unit">Для того чтобы идентификация объекта</segment>
+		<segment id="183" relname="antithesis">МЕЖДУНАРОДНЫЙ НАУЧНЫЙ ЖУРНАЛ «ИННОВАЦИОННАЯ НАУКА» №4/2016 ISSN 2410-6070</segment>
+		<segment id="184" parent="366" relname="same-unit">состоялась,</segment>
+		<segment id="185" parent="368" relname="span">необходимо,</segment>
+		<segment id="186" parent="369" relname="joint">чтобы намерению говорящего идентифицировать объект речи для своего собеседника соответствовала способность слушающего сделать это,</segment>
+		<segment id="187" parent="369" relname="joint">чтобы произошло соприкосновение предметной области одного с предметной областью другого с определенной точке.</segment>
+		<segment id="188" parent="372" relname="span">Для этого вполне достаточно, например, однократного предшествующего упоминания о существовании объекта:</segment>
+		<segment id="189" parent="188" relname="elaboration">«Жил-был один человек. У него было три сына»,</segment>
+		<segment id="190" parent="373" relname="joint">и вовсе не обязательна реальная осведомленность слушающего об объекте.</segment>
+		<segment id="191" parent="381" relname="span">Итак, во всех рассмотренных предложениях сообщается о предмете, неизвестном для слушающего -неизвестном не объективно (точнее не всегда объективно),</segment>
+		<segment id="192" parent="379" relname="joint">ибо здесь при обсуждении коммуникативно -оценочной категории необходимо учитывать намерение говорящего, его волю,</segment>
+		<segment id="193" parent="377" relname="span">а имя в нем подвергается первичной актуализации как неопределенное и в том случае,</segment>
+		<segment id="194" parent="378" relname="span">когда автор речи предполагает, что предмет неизвестен слушающему,</segment>
+		<segment id="195" parent="194" relname="concession">хотя и знает, что последний, со своей стороны, способен идентифицировать его.</segment>
+		<segment id="196" relname="antithesis">Список использованной литературы:</segment>
+		<segment id="197" relname="antithesis">1\. Aрутюнова Н.Д. О номинативном аспекте предложения. - ВЯ., 1971, № 6.</segment>
+		<segment id="198" relname="antithesis">2\. Адмони В.Г. Синтаксис современного немецкого языка. Система отношений и система построения. Л., «Наука», 1973.</segment>
+		<segment id="199" relname="antithesis">3\. Балли Ш. Общая лингвистика и вопросы французского языка. М., Изд. иностр. Лит., 1955.</segment>
+		<segment id="200" relname="antithesis">4\. Kempson R.M. Pressupposition and the Delimatation of Semantics. Cambridge, 1975.</segment>
+		<segment id="201" relname="antithesis">5\. Kramskiy J. The article and the Concept of Definiteness in Language. The Hague-Paris, 1972.</segment>
+		<segment id="202" relname="antithesis">6\. Fillmore Ch.J. The Case for Case.-In: Universal in Linguistic Theory. N.Y., 1968.</segment>
+		<segment id="203" relname="antithesis">7\. Звегинцев В.А. Предложение и его отношение к языку и речи. М., Изд. Московского университета, 1976.</segment>
+		<segment id="204" relname="antithesis">8\. Почепцов Г.Г. Конструктивный анализ структуры предложения. Киев. «Вища школа» 1971.</segment>
+		<segment id="205" relname="antithesis">©Кушшаева Матлюба, 2016</segment>
+		<segment id="206" relname="antithesis"></segment>
+		<group id="207" type="multinuc" parent="208" relname="span"/>
+		<group id="208" type="span" parent="14" relname="elaboration"/>
+		<group id="209" type="span" parent="210" relname="joint"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="211" type="span" parent="13" relname="elaboration"/>
+		<group id="212" type="multinuc" parent="213" relname="span"/>
+		<group id="213" type="span" parent="17" relname="elaboration"/>
+		<group id="214" type="span" parent="210" relname="joint"/>
+		<group id="215" type="span" relname="antithesis"/>
+		<group id="216" type="span" parent="220" relname="joint"/>
+		<group id="217" type="span" parent="220" relname="joint"/>
+		<group id="218" type="span" parent="220" relname="joint"/>
+		<group id="219" type="span" parent="220" relname="joint"/>
+		<group id="220" type="multinuc" parent="222" relname="span"/>
+		<group id="221" type="span" parent="220" relname="joint"/>
+		<group id="222" type="span" parent="20" relname="elaboration"/>
+		<group id="223" type="span" parent="220" relname="joint"/>
+		<group id="224" type="span" parent="398" relname="span"/>
+		<group id="225" type="multinuc" parent="261" relname="span"/>
+		<group id="226" type="span" parent="45" relname="elaboration"/>
+		<group id="227" type="span" parent="262" relname="elaboration"/>
+		<group id="228" type="span" parent="269" relname="contrast"/>
+		<group id="229" type="span" parent="271" relname="same-unit"/>
+		<group id="230" type="span" parent="271" relname="same-unit"/>
+		<group id="231" type="span" parent="271" relname="same-unit"/>
+		<group id="232" type="span" parent="271" relname="same-unit"/>
+		<group id="233" type="span" parent="234" relname="same-unit"/>
+		<group id="234" type="multinuc" parent="235" relname="span"/>
+		<group id="235" type="span" parent="236" relname="joint"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" relname="antithesis"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="383" relname="span"/>
+		<group id="245" type="span" relname="antithesis"/>
+		<group id="246" type="span" relname="antithesis"/>
+		<group id="247" type="span" parent="44" relname="elaboration"/>
+		<group id="248" type="multinuc" parent="252" relname="span"/>
+		<group id="249" type="multinuc" parent="251" relname="span"/>
+		<group id="250" type="span" parent="249" relname="same-unit"/>
+		<group id="251" type="span" parent="248" relname="contrast"/>
+		<group id="252" type="span" parent="56" relname="background"/>
+		<group id="253" type="span" parent="255" relname="span"/>
+		<group id="254" type="span" parent="256" relname="span"/>
+		<group id="255" type="span" parent="254" relname="elaboration"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="50" relname="elaboration"/>
+		<group id="258" type="span" parent="260" relname="joint"/>
+		<group id="259" type="span" parent="260" relname="joint"/>
+		<group id="260" type="multinuc" parent="226" relname="span"/>
+		<group id="261" type="span" parent="259" relname="span"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" relname="antithesis"/>
+		<group id="264" type="span" relname="antithesis"/>
+		<group id="265" type="span" relname="antithesis"/>
+		<group id="266" type="span" parent="68" relname="elaboration"/>
+		<group id="267" type="span" parent="70" relname="elaboration"/>
+		<group id="268" type="span" parent="269" relname="contrast"/>
+		<group id="269" type="multinuc" parent="270" relname="span"/>
+		<group id="270" type="span" parent="69" relname="evidence"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="75" relname="elaboration"/>
+		<group id="273" type="span" relname="antithesis"/>
+		<group id="274" type="multinuc" parent="275" relname="span"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" parent="388" relname="same-unit"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="286" relname="span"/>
+		<group id="282" type="span" parent="284" relname="contrast"/>
+		<group id="283" type="span" parent="284" relname="contrast"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="281" relname="elaboration"/>
+		<group id="286" type="span" relname="antithesis"/>
+		<group id="287" type="span" parent="99" relname="elaboration"/>
+		<group id="288" type="span" parent="98" relname="elaboration"/>
+		<group id="289" type="span" relname="antithesis"/>
+		<group id="290" type="span" parent="291" relname="elaboration"/>
+		<group id="291" type="span" parent="288" relname="span"/>
+		<group id="292" type="multinuc" parent="293" relname="span"/>
+		<group id="293" type="span" parent="105" relname="evidence"/>
+		<group id="294" type="span" parent="104" relname="elaboration"/>
+		<group id="295" type="span" relname="antithesis"/>
+		<group id="296" type="multinuc" parent="297" relname="span"/>
+		<group id="297" type="span" parent="113" relname="concession"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="304" relname="contrast"/>
+		<group id="300" type="multinuc" parent="301" relname="span"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="contrast"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" parent="122" relname="cause"/>
+		<group id="307" type="span" parent="109" relname="elaboration"/>
+		<group id="308" type="span" relname="antithesis"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="124" relname="elaboration"/>
+		<group id="311" type="span" parent="312" relname="span"/>
+		<group id="312" type="span" parent="127" relname="evidence"/>
+		<group id="313" type="span" relname="antithesis"/>
+		<group id="314" type="span" relname="antithesis"/>
+		<group id="315" type="multinuc" parent="316" relname="span"/>
+		<group id="316" type="span" parent="318" relname="cause"/>
+		<group id="317" type="multinuc" parent="318" relname="span"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" parent="320" relname="span"/>
+		<group id="320" type="span" relname="antithesis"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" relname="antithesis"/>
+		<group id="324" type="multinuc" parent="325" relname="span"/>
+		<group id="325" type="span" parent="330" relname="attribution"/>
+		<group id="326" type="span" parent="330" relname="span"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="328" type="span" parent="143" relname="elaboration"/>
+		<group id="329" type="span" parent="326" relname="elaboration"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="137" relname="elaboration"/>
+		<group id="332" type="span" parent="147" relname="condition"/>
+		<group id="333" type="span" parent="335" relname="contrast"/>
+		<group id="334" type="span" parent="335" relname="contrast"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="337" relname="span"/>
+		<group id="337" type="span" relname="antithesis"/>
+		<group id="338" type="span" parent="339" relname="joint"/>
+		<group id="339" type="multinuc" parent="346" relname="span"/>
+		<group id="340" type="span" parent="341" relname="same-unit"/>
+		<group id="341" type="multinuc" parent="155" relname="elaboration"/>
+		<group id="342" type="multinuc" parent="343" relname="span"/>
+		<group id="343" type="span" parent="339" relname="joint"/>
+		<group id="344" type="multinuc" parent="345" relname="span"/>
+		<group id="345" type="span" parent="339" relname="joint"/>
+		<group id="346" type="span" parent="151" relname="elaboration"/>
+		<group id="347" type="span" relname="antithesis"/>
+		<group id="348" type="span" parent="349" relname="joint"/>
+		<group id="349" type="multinuc" parent="350" relname="span"/>
+		<group id="350" type="span" parent="162" relname="elaboration"/>
+		<group id="351" type="multinuc" parent="353" relname="span"/>
+		<group id="352" type="span" parent="351" relname="same-unit"/>
+		<group id="353" type="span" parent="169" relname="cause"/>
+		<group id="354" type="span" parent="165" relname="elaboration"/>
+		<group id="355" type="span" parent="349" relname="joint"/>
+		<group id="356" type="span" parent="161" relname="elaboration"/>
+		<group id="357" type="span" parent="397" relname="span"/>
+		<group id="358" type="span" parent="361" relname="span"/>
+		<group id="359" type="span" parent="360" relname="joint"/>
+		<group id="360" type="multinuc" parent="396" relname="span"/>
+		<group id="361" type="span" parent="172" relname="condition"/>
+		<group id="362" type="span" parent="360" relname="joint"/>
+		<group id="363" type="span" parent="176" relname="elaboration"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="375" relname="background"/>
+		<group id="366" type="multinuc" parent="367" relname="span"/>
+		<group id="367" type="span" parent="185" relname="purpose"/>
+		<group id="368" type="span" parent="370" relname="evaluation"/>
+		<group id="369" type="multinuc" parent="370" relname="span"/>
+		<group id="370" type="span" parent="371" relname="span"/>
+		<group id="371" type="span" parent="375" relname="span"/>
+		<group id="372" type="span" parent="373" relname="joint"/>
+		<group id="373" type="multinuc" parent="374" relname="span"/>
+		<group id="374" type="span" parent="371" relname="elaboration"/>
+		<group id="375" type="span" parent="376" relname="span"/>
+		<group id="376" type="span" relname="antithesis"/>
+		<group id="377" type="span" parent="379" relname="joint"/>
+		<group id="378" type="span" parent="193" relname="condition"/>
+		<group id="379" type="multinuc" parent="380" relname="span"/>
+		<group id="380" type="span" parent="191" relname="evidence"/>
+		<group id="381" type="span" relname="antithesis"/>
+		<group id="382" type="span" parent="240" relname="elaboration"/>
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" parent="39" relname="evaluation"/>
+		<group id="385" type="multinuc" parent="386" relname="span"/>
+		<group id="386" type="span" parent="253" relname="elaboration"/>
+		<group id="388" type="multinuc" parent="389" relname="span"/>
+		<group id="389" type="span" relname="antithesis"/>
+		<group id="390" type="span" parent="292" relname="sequence"/>
+		<group id="391" type="multinuc" parent="392" relname="span"/>
+		<group id="392" type="span" parent="393" relname="span"/>
+		<group id="393" type="span" parent="118" relname="condition"/>
+		<group id="394" type="span" parent="305" relname="background"/>
+		<group id="395" type="span" parent="321" relname="evaluation"/>
+		<group id="396" type="span" parent="357" relname="elaboration"/>
+		<group id="397" type="span" relname="antithesis"/>
+		<group id="398" type="span" relname="antithesis"/>
+		<group id="399" type="span" relname="antithesis"/>
+  </body>
+</rst>

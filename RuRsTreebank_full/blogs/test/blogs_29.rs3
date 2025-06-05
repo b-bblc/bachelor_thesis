@@ -1,0 +1,283 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://dpmmax.livejournal.com/824738.html</segment>
+		<segment id="2" parent="254" relname="span">##### Посредник хорошего настроения и счастья: серотонин</segment>
+		<segment id="3" parent="2" relname="elaboration">##### IMG</segment>
+		<segment id="4" parent="245" relname="preparation">##### Пришла пора рассказать о последнем в нашем списке нейромедиаторов — о серотонине.</segment>
+		<segment id="5" parent="245" relname="same-unit">С его открытием</segment>
+		<segment id="6" parent="281" relname="same-unit">— что,</segment>
+		<segment id="7" parent="8" relname="evidence">как вы уже успели убедиться на примере тех же первых антидепрессантов или первых же нейролептиков,</segment>
+		<segment id="8" parent="280" relname="span">вообще характерно для медицины и биологии —</segment>
+		<segment id="9" parent="134" relname="joint">было не всё ожидаемо</segment>
+		<segment id="10" parent="134" relname="joint">и планируемо.</segment>
+		<segment id="11" parent="136" relname="joint">##### То есть, никто специально не ковырялся в голове счастливого человека</segment>
+		<segment id="12" parent="135" relname="span">и не разбирал на запчасти голову несчастного,</segment>
+		<segment id="13" parent="137" relname="sequence">чтобы отщипнуть кусочек мозга из района, скажем, лимбической системы,</segment>
+		<segment id="14" parent="246" relname="joint">потом разложить его на фракции</segment>
+		<segment id="15" parent="246" relname="joint">и посмотреть:</segment>
+		<segment id="16" parent="138" relname="comparison">а с чего это одного штырит,</segment>
+		<segment id="17" parent="138" relname="comparison">а другого колбасит?</segment>
+		<segment id="18" parent="139" relname="comparison">Какое вещество тут у одного в избытке,</segment>
+		<segment id="19" parent="139" relname="comparison">а у другого в недостатке?</segment>
+		<segment id="20" parent="258" relname="span">И дело было не в дефиците добровольцев.</segment>
+		<segment id="21" parent="22" relname="attribution">Просто в 1935 году итальянец Витторио Эрспамер взялся выяснить:</segment>
+		<segment id="22" parent="151" relname="span">а что же такое заставляет желудок, вернее, его гладкую мускулатуру, сокращаться?</segment>
+		<segment id="23" parent="141" relname="span">И выделил из слизистой желудка вещество,</segment>
+		<segment id="24" parent="23" relname="elaboration">которое все вначале приняли за адреналин,</segment>
+		<segment id="25" parent="26" relname="attribution">но Витторио был настойчив</segment>
+		<segment id="26" parent="240" relname="span">— мол, что же вы, коллеги, хрен от ландыша отличить не можете —</segment>
+		<segment id="27" parent="143" relname="attribution">и через два года доказал,</segment>
+		<segment id="28" parent="143" relname="contrast">что он крут,</segment>
+		<segment id="29" parent="143" relname="contrast">а они все сынки.</segment>
+		<segment id="30" parent="260" relname="elaboration">И назвал вещество энтерамином.</segment>
+		<segment id="31" parent="148" relname="span">А через 13 лет в Кливлендской клинике трое других учёных нашли в сыворотке крови вещество,</segment>
+		<segment id="32" parent="146" relname="restatement">суживающее</segment>
+		<segment id="33" parent="146" relname="restatement">(то есть, приводящее в тонус)</segment>
+		<segment id="34" parent="147" relname="same-unit">сосуды,</segment>
+		<segment id="35" parent="282" relname="span">и обозвали его серотонином</segment>
+		<segment id="36" parent="35" relname="elaboration">(сыворотка, тонус — в общем, понятно).</segment>
+		<segment id="37" parent="235" relname="sequence">##### И только в 1952 году обнаружилось, что, по сути, энтерамин и серотонин суть два идентичных фрагмента автопортрета Фаберже, причём с одного ракурса.</segment>
+		<segment id="38" parent="283" relname="sequence">Поискать серотонин в головном мозге догадались лишь год спустя, в 1953.</segment>
+		<segment id="39" parent="283" relname="sequence">И ведь нашли.</segment>
+		<segment id="40" parent="284" relname="restatement">##### Постепенно стало вырисовываться понимание, что серотонин — это, по сути, такой же двойной агент, как и, к примеру, норадреналин:</segment>
+		<segment id="41" parent="154" relname="span">то есть, на периферии он работает гормоном,</segment>
+		<segment id="42" parent="153" relname="joint">повышая тонус сосудов,</segment>
+		<segment id="43" parent="153" relname="joint">сокращая гладкую мускулатуру</segment>
+		<segment id="44" parent="153" relname="joint">и ещё кое-чем по мелочи подрабатывая,</segment>
+		<segment id="45" parent="155" relname="contrast">а вот в центре, вернее, в головном мозге — он представляется как нейромедиатор.</segment>
+		<segment id="46" parent="261" relname="restatement">То есть, посредник в передаче сигнала между группами клеток, имеющих чувствительные к нему окончания.</segment>
+		<segment id="47" parent="48" relname="solutionhood">История открытия этой его роли тесно переплетена с историей поиска компанией Sandoz средства от мигрени,</segment>
+		<segment id="48" parent="157" relname="span">закончившейся синтезом наркотика...</segment>
+		<segment id="49" parent="157" relname="elaboration">впрочем, про ЛСД и ещё целый ряд ему подобных лучше рассказать отдельно.</segment>
+		<segment id="50" parent="162" relname="span">##### Самое крупное представительство нервных клеток головного мозга,</segment>
+		<segment id="51" parent="161" relname="span">пользующихся серотонином</segment>
+		<segment id="52" parent="51" relname="purpose">при передаче своих сигналов</segment>
+		<segment id="53" parent="163" relname="same-unit">— это скопление, идущее по средней линии одного из его отделов — продолговатого мозга.</segment>
+		<segment id="54" parent="163" relname="elaboration">Называется это скопление ядрами шва.</segment>
+		<segment id="55" parent="288" relname="span">Клетки тянут свои лапки-отростки повсюду</segment>
+		<segment id="56" parent="289" relname="joint">— и в спинной мозг, и к многим подкорковым структурам головного,</segment>
+		<segment id="57" parent="289" relname="joint">и до коры дотягиваются.</segment>
+		<segment id="58" parent="288" relname="evaluation">В общем, словно сетью опутывают мозг.</segment>
+		<segment id="59" parent="60" relname="evaluation">Неудивительно, что</segment>
+		<segment id="60" parent="263" relname="span">образование, куда входят ядра шва, получило название ретикулярной формации - или сетчатого образования.</segment>
+		<segment id="61" parent="169" relname="span">##### Причем, если у тех же нервных клеток,</segment>
+		<segment id="62" parent="61" relname="elaboration">работающих на дофамине или норадреналине,</segment>
+		<segment id="63" parent="170" relname="same-unit">преобладающее влияние — активировать,</segment>
+		<segment id="64" parent="171" relname="joint">то этим, серотониновым (как, соответственно, и ретикулярной формации в целом), лишь бы притормозить,</segment>
+		<segment id="65" parent="171" relname="joint">сдержать.</segment>
+		<segment id="66" parent="238" relname="elaboration">На центры сна, между прочим, эти самые клетки тоже не в последнюю очередь оказывают своё влияние.</segment>
+		<segment id="67" parent="248" relname="same-unit">##### В итоге выходит, что работа клеток, откликающихся на серотонин</segment>
+		<segment id="68" parent="249" relname="joint">— унять слишком уж возбудившиеся районы в головном мозге,</segment>
+		<segment id="69" parent="174" relname="span">ограничить это возбуждение более-менее чёткими границами,</segment>
+		<segment id="70" parent="69" relname="purpose">чтобы поддержать нужный баланс.</segment>
+		<segment id="71" parent="177" relname="joint">И этот нелёгкий труд эквилибриста-матерщинника на колючей проволоке виден во всём, не только в регулировании режимов сна и бодрствования.</segment>
+		<segment id="72" parent="177" relname="joint">В чём ещё?</segment>
+		<segment id="73" parent="294" relname="span">##### А вот, к примеру, та же болевая чувствительность.</segment>
+		<segment id="74" parent="181" relname="span">Боль — это ведь тоже поток информации, приходящий с особых нервных окончаний.</segment>
+		<segment id="75" parent="178" relname="span">И порог её у всех индивидуален</segment>
+		<segment id="76" parent="292" relname="span">(не говоря уже о том, что у одного-то человека в разные периоды он может колебаться):</segment>
+		<segment id="77" parent="179" relname="contrast">кто-то из уколотого пальчика делает трагедию,</segment>
+		<segment id="78" parent="179" relname="contrast">а кто-то своим терпением бесит даже опытных инквизиторов.</segment>
+		<segment id="79" parent="80" relname="condition">Так вот, чем активнее работает серотонин в нервной системе,</segment>
+		<segment id="80" parent="182" relname="span">тем выше порог болевой чувствительности,</segment>
+		<segment id="81" parent="183" relname="span">тем терпимее человек к боли.</segment>
+		<segment id="82" parent="265" relname="span">##### Другая часть его работы — как раз та, из-за которой серотонин назвали гормоном</segment>
+		<segment id="83" parent="82" relname="concession">(хотя грамотнее, пусть и длиньше — нейромедиатором)</segment>
+		<segment id="84" parent="266" relname="same-unit">счастья.</segment>
+		<segment id="85" parent="188" relname="contrast">Нет, в отличие от норадреналина или дофамина,</segment>
+		<segment id="86" parent="188" relname="contrast">он сам по себе не пробуждает радости от новизны, свершений и ещё чего бы то ни было.</segment>
+		<segment id="87" parent="188" relname="elaboration">Он всё так же тормозит.</segment>
+		<segment id="88" parent="191" relname="joint">Но — тормозит,</segment>
+		<segment id="89" parent="191" relname="joint">глушит отрицательные эмоции.</segment>
+		<segment id="90" parent="91" relname="cause">Ограничивает активность тех очагов, которые их рождают — в частности, сигналы из задней части гипоталамуса, от одного из отделов миндалины, а также от островковой коры.</segment>
+		<segment id="91" parent="194" relname="span">И уже вследствие этого поддерживает хорошее настроение.</segment>
+		<segment id="92" parent="195" relname="span">И именно с работой серотонина</segment>
+		<segment id="93" parent="92" relname="elaboration">(во многом с ней, ведь мы по-прежнему изучили лишь небольшую часть всего айсберга)</segment>
+		<segment id="94" parent="268" relname="span">связано кардинальное отличие просто плохого настроения от депрессии.</segment>
+		<segment id="95" parent="197" relname="span">Если первый случай- это норма,</segment>
+		<segment id="96" parent="198" relname="span">плохое настроение тоже нужно,</segment>
+		<segment id="97" parent="199" relname="joint">чтобы не зазвездиться</segment>
+		<segment id="98" parent="199" relname="joint">и вовремя дать себе инициирующий пендель,</segment>
+		<segment id="99" parent="296" relname="joint">то собственно депрессия — это уже устойчивый сбой в биохимии, в том числе и в работе серотонина,</segment>
+		<segment id="100" parent="271" relname="joint">и призывы потерпеть</segment>
+		<segment id="101" parent="271" relname="joint">или собраться тут не более конструктивны,</segment>
+		<segment id="102" parent="201" relname="comparison">чем попытки перетерпеть острую зубную боль.</segment>
+		<segment id="103" parent="209" relname="restatement">##### И ещё одно направление работы серотонина (и тоже тормозящее) — это ограничение сенсорных потоков.</segment>
+		<segment id="104" parent="209" relname="restatement">Иными словами — входящей информации, и преимущественно от органов чувств.</segment>
+		<segment id="105" parent="214" relname="solutionhood">Зачем их ограничивать?</segment>
+		<segment id="106" parent="273" relname="span">А вы представьте себе гиперактивного ребёнка,</segment>
+		<segment id="107" parent="106" relname="elaboration">который отвлекается на любой шорох, на малейшее движение, прикосновение, на любую деталь окружающей обстановки.</segment>
+		<segment id="108" parent="210" relname="span">Насколько продуктивен, к примеру, процесс его обучения,</segment>
+		<segment id="109" parent="108" relname="condition">если его не угомонить?</segment>
+		<segment id="110" parent="274" relname="span">А теперь представьте сосредоточенного ученика или студента,</segment>
+		<segment id="111" parent="275" relname="span">который целенаправленно грызёт гранит науки,</segment>
+		<segment id="112" parent="111" relname="condition">не обращая внимания на происходящий дома или в общаге привычный бедлам.</segment>
+		<segment id="113" parent="219" relname="span">Вот как раз эту задачу</segment>
+		<segment id="114" parent="217" relname="joint">— не дать входящим потокам информации сбить с толку,</segment>
+		<segment id="115" parent="216" relname="span">отвлечься от поставленной цели</segment>
+		<segment id="116" parent="115" relname="elaboration">(причём это не только учёбы касается)</segment>
+		<segment id="117" parent="220" relname="same-unit">— и выполняют работающие на серотонине нервные клетки.</segment>
+		<segment id="118" parent="218" relname="span">Убрать лишнее,</segment>
+		<segment id="119" parent="118" relname="condition">оставив главное.</segment>
+		<segment id="120" parent="243" relname="contrast">Между прочим, действие галлюциногенов и психоделиков нарушает как раз эту функцию</segment>
+		<segment id="121" parent="243" relname="contrast">— но об этом, пожалуй, лучше рассказать отдельно.</segment>
+		<segment id="122" parent="297" relname="span">##### Серотонин наш организм получает,</segment>
+		<segment id="123" parent="300" relname="restatement">перерабатывая незаменимую</segment>
+		<segment id="124" parent="224" relname="contrast">(то есть ту, которую не производим мы сами,</segment>
+		<segment id="125" parent="224" relname="contrast">а потребляем с едой)</segment>
+		<segment id="126" parent="299" relname="same-unit">аминокислоту триптофан.</segment>
+		<segment id="127" parent="128" relname="cause">Причём в процессе обязательно участвует витамин D.</segment>
+		<segment id="128" parent="227" relname="span">И — опосредованно, в том числе влияя на выработку и активность этого витамина — солнечный свет.</segment>
+		<segment id="129" parent="244" relname="joint">Я полагаю, про связь солнечных дней и хорошего настроения можно особо не упоминать.</segment>
+		<segment id="130" parent="228" relname="span">Равно как и про мрачный характер всяких цвергов и кобольдов,</segment>
+		<segment id="131" parent="130" relname="background">изначально приписываемый им народными сказаниями</segment>
+		<segment id="132" parent="228" relname="evaluation">— ну дети подземелья же...</segment>
+		<segment id="133" >##### Ну что, рассказать вам про механизм работы антидепрессантов и психоделиков?</segment>
+		<group id="134" type="multinuc" parent="256" relname="span"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="136" type="multinuc" parent="257" relname="span"/>
+		<group id="137" type="multinuc" parent="12" relname="purpose"/>
+		<group id="138" type="multinuc" parent="140" relname="joint"/>
+		<group id="139" type="multinuc" parent="140" relname="joint"/>
+		<group id="140" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="141" type="span" parent="260" relname="contrast"/>
+		<group id="142" type="multinuc" parent="151" relname="elaboration"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="144" type="span" parent="255" relname="span"/>
+		<group id="146" type="multinuc" parent="147" relname="same-unit"/>
+		<group id="147" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="148" type="span" parent="149" relname="joint"/>
+		<group id="149" type="multinuc" parent="142" relname="sequence"/>
+		<group id="151" type="span" parent="234" relname="span"/>
+		<group id="153" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="154" type="span" parent="155" relname="contrast"/>
+		<group id="155" type="multinuc" parent="284" relname="restatement"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" parent="261" relname="background"/>
+		<group id="161" type="span" parent="50" relname="condition"/>
+		<group id="162" type="span" parent="163" relname="same-unit"/>
+		<group id="163" type="multinuc" parent="285" relname="span"/>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="238" relname="contrast"/>
+		<group id="171" type="multinuc" parent="238" relname="contrast"/>
+		<group id="173" type="multinuc" parent="250" relname="span"/>
+		<group id="174" type="span" parent="249" relname="joint"/>
+		<group id="177" type="multinuc" parent="173" relname="joint"/>
+		<group id="178" type="span" parent="74" relname="elaboration"/>
+		<group id="179" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="181" type="span" parent="73" relname="elaboration"/>
+		<group id="182" type="span" parent="81" relname="condition"/>
+		<group id="183" type="span" parent="293" relname="span"/>
+		<group id="187" type="span" />
+		<group id="188" type="multinuc" parent="267" relname="span"/>
+		<group id="190" type="multinuc" parent="269" relname="cause"/>
+		<group id="191" type="multinuc" parent="295" relname="restatement"/>
+		<group id="194" type="span" parent="295" relname="restatement"/>
+		<group id="195" type="span" parent="94" relname="condition"/>
+		<group id="197" type="span" parent="200" relname="contrast"/>
+		<group id="198" type="span" parent="95" relname="elaboration"/>
+		<group id="199" type="multinuc" parent="96" relname="purpose"/>
+		<group id="200" type="multinuc" parent="268" relname="elaboration"/>
+		<group id="201" type="multinuc" parent="296" relname="joint"/>
+		<group id="209" type="multinuc" parent="277" relname="preparation"/>
+		<group id="210" type="span" parent="273" relname="elaboration"/>
+		<group id="211" type="span" parent="214" relname="contrast"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="215" type="span" parent="276" relname="solutionhood"/>
+		<group id="216" type="span" parent="217" relname="joint"/>
+		<group id="217" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="218" type="span" parent="222" relname="span"/>
+		<group id="219" type="span" parent="220" relname="same-unit"/>
+		<group id="220" type="multinuc" parent="276" relname="span"/>
+		<group id="222" type="span" parent="220" relname="evaluation"/>
+		<group id="224" type="multinuc" parent="300" relname="restatement"/>
+		<group id="225" type="span" parent="301" relname="span"/>
+		<group id="227" type="span" parent="297" relname="elaboration"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="244" relname="joint"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" parent="236" relname="sequence"/>
+		<group id="234" type="span" parent="20" relname="elaboration"/>
+		<group id="235" type="multinuc" parent="236" relname="sequence"/>
+		<group id="236" type="multinuc" />
+		<group id="238" type="multinuc" parent="264" relname="span"/>
+		<group id="240" type="span" parent="144" relname="preparation"/>
+		<group id="241" type="span" parent="232" relname="preparation"/>
+		<group id="243" type="multinuc" parent="218" relname="elaboration"/>
+		<group id="244" type="multinuc" parent="225" relname="evaluation"/>
+		<group id="245" type="multinuc" parent="241" relname="span"/>
+		<group id="246" type="multinuc" parent="137" relname="sequence"/>
+		<group id="248" type="multinuc" parent="173" relname="joint"/>
+		<group id="249" type="multinuc" parent="248" relname="same-unit"/>
+		<group id="250" type="span" />
+		<group id="254" type="span" />
+		<group id="255" type="span" parent="260" relname="contrast"/>
+		<group id="256" type="span" parent="245" relname="same-unit"/>
+		<group id="257" type="span" parent="232" relname="span"/>
+		<group id="258" type="span" parent="257" relname="cause"/>
+		<group id="259" type="span" parent="142" relname="sequence"/>
+		<group id="260" type="multinuc" parent="259" relname="span"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" />
+		<group id="263" type="span" parent="291" relname="elaboration"/>
+		<group id="264" type="span" parent="173" relname="solutionhood"/>
+		<group id="265" type="span" parent="266" relname="same-unit"/>
+		<group id="266" type="multinuc" parent="187" relname="span"/>
+		<group id="267" type="span" parent="190" relname="contrast"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="270" relname="span"/>
+		<group id="270" type="span" parent="266" relname="elaboration"/>
+		<group id="271" type="multinuc" parent="201" relname="comparison"/>
+		<group id="273" type="span" parent="211" relname="span"/>
+		<group id="274" type="span" parent="214" relname="contrast"/>
+		<group id="275" type="span" parent="110" relname="elaboration"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" />
+		<group id="280" type="span" parent="281" relname="same-unit"/>
+		<group id="281" type="multinuc" parent="134" relname="evaluation"/>
+		<group id="282" type="span" parent="149" relname="joint"/>
+		<group id="283" type="multinuc" parent="235" relname="sequence"/>
+		<group id="284" type="multinuc" parent="261" relname="restatement"/>
+		<group id="285" type="span" parent="287" relname="joint"/>
+		<group id="287" type="multinuc" />
+		<group id="288" type="span" parent="291" relname="span"/>
+		<group id="289" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="290" type="span" parent="287" relname="joint"/>
+		<group id="291" type="span" parent="290" relname="span"/>
+		<group id="292" type="span" parent="75" relname="elaboration"/>
+		<group id="293" type="span" />
+		<group id="294" type="span" parent="183" relname="preparation"/>
+		<group id="295" type="multinuc" parent="190" relname="contrast"/>
+		<group id="296" type="multinuc" parent="200" relname="contrast"/>
+		<group id="297" type="span" parent="225" relname="span"/>
+		<group id="299" type="multinuc" parent="122" relname="condition"/>
+		<group id="300" type="multinuc" parent="299" relname="same-unit"/>
+		<group id="301" type="span" />
+	</body>
+</rst>

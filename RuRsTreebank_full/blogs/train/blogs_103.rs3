@@ -1,0 +1,420 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="comparison" type="multinuc"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="effect" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >##### https://ru-travel.livejournal.com/33981272.html</segment>
+		<segment id="2" >##### Путешествие в Долину Смерти</segment>
+		<segment id="3" parent="209" relname="preparation">##### Фотографии из апрельской Долины Смерти я начну показывать с конца :)</segment>
+		<segment id="4" parent="204" relname="span">##### Это уже практически последний сделанный в тот день кадр - закат.</segment>
+		<segment id="5" parent="202" relname="span">Дальше была просто обратная дорога в нашу гостинцу в Вегасе, по большей части уже в полной темноте, с одной только небольшой остановкой у придорожного Walgreens</segment>
+		<segment id="6" parent="5" relname="purpose">для покупки новых тапок.</segment>
+		<segment id="7" parent="373" relname="span">Почему необходимость в такой покупке возникла</segment>
+		<segment id="8" parent="7" relname="attribution">- объясню ниже.</segment>
+		<segment id="9" parent="203" relname="span">А именно этот снимок я оставляю над катом</segment>
+		<segment id="10" parent="9" relname="cause">потому, что на Фликре он оказался самым популярным из сделанных в тот день.</segment>
+		<segment id="11" parent="208" relname="elaboration">##### IMG</segment>
+		<segment id="12" parent="365" relname="joint">##### Фотографии в этой записи кликабельны,</segment>
+		<segment id="13" parent="365" relname="joint">открываются в "полный экран" в отельной вкладке.</segment>
+		<segment id="14" parent="223" relname="preparation">##### Ну а остальное - по порядку.</segment>
+		<segment id="15" parent="375" relname="joint">##### В Долину Смерти мы отправились аккурат после первой брачной ночи.</segment>
+		<segment id="16" parent="375" relname="joint">Проснувшись мы полюбовались еще раз видом с нашего 46-го этажа.</segment>
+		<segment id="17" parent="375" relname="elaboration">##### IMG</segment>
+		<segment id="18" parent="19" relname="cause">##### И решили, что, как новобрачным, нам положено роскошестовать,</segment>
+		<segment id="19" parent="211" relname="span">а значит - завтрак надо заказать в номер.</segment>
+		<segment id="20" parent="211" relname="elaboration">##### IMG</segment>
+		<segment id="21" parent="212" relname="comparison">##### Омлеты и не попавшие в кадр капучино были великолепны,</segment>
+		<segment id="22" parent="212" relname="comparison">а вот блины могли бы быть и повкуснее.</segment>
+		<segment id="23" parent="213" relname="span">Надо написать Трампу, что в его отеле блины пекут так себе.</segment>
+		<segment id="24" parent="23" relname="purpose">Пусть отправит поваров на курсы повышения квалификации блинопеков в Украину.</segment>
+		<segment id="25" parent="216" relname="sequence">##### Позавтракав</segment>
+		<segment id="26" parent="216" relname="sequence">и собравшись,</segment>
+		<segment id="27" parent="217" relname="sequence">мы спустились в лобби</segment>
+		<segment id="28" parent="221" relname="span">и потребовали свою машину из валет-паркинга.</segment>
+		<segment id="29" parent="366" relname="span">В Трамп-отеле этот паркинг бесплатен,</segment>
+		<segment id="30" parent="367" relname="span">не считая чаевых в два доллара,</segment>
+		<segment id="31" parent="30" relname="elaboration">которые ожидает вывозящий вашу машину ко входу в гостиницу "валет".</segment>
+		<segment id="32" parent="220" relname="span">Но вот ждать выдачи иногда приходится довольно долго.</segment>
+		<segment id="33" parent="32" relname="evaluation">Еще один повод написать Трампу.</segment>
+		<segment id="34" parent="225" relname="sequence">##### Когда машину вывезли</segment>
+		<segment id="35" parent="225" relname="sequence">и мы в нее уселись,</segment>
+		<segment id="36" parent="226" relname="span">обнаружилась проблема: сниженное давление в заднем правом колесе.</segment>
+		<segment id="37" parent="229" relname="span">Обнаружилась она уже не в первый раз:</segment>
+		<segment id="38" parent="235" relname="solutionhood">за два дня до этого соответствующий индикатор уже загорался,</segment>
+		<segment id="39" parent="227" relname="sequence">я заехал на заправку</segment>
+		<segment id="40" parent="227" relname="sequence">и подкачал колесо.</segment>
+		<segment id="41" parent="231" relname="comparison">На американской заправке насос требует монеты,</segment>
+		<segment id="42" parent="231" relname="comparison">не как на израильских - бесплатно.</segment>
+		<segment id="43" parent="231" relname="evaluation">Жлобье!</segment>
+		<segment id="44" parent="233" relname="contrast">На следующий день, день свадьбы, мы машиной не пользовались,</segment>
+		<segment id="45" parent="233" relname="contrast">и вот - опять давление снижено.</segment>
+		<segment id="46" parent="234" relname="contrast">Значит, это не случайность,</segment>
+		<segment id="47" parent="234" relname="contrast">а покрышка повреждена.</segment>
+		<segment id="48" parent="241" relname="span">##### Машина наша была от Alamo.</segment>
+		<segment id="49" parent="240" relname="span">Этой прокатной компанией я пользовался впервые,</segment>
+		<segment id="50" parent="239" relname="span">оказалось довольно удобно:</segment>
+		<segment id="51" parent="238" relname="joint">оформляют очень быстро,</segment>
+		<segment id="52" parent="238" relname="joint">а машину себе выбираешь на парковке сам.</segment>
+		<segment id="53" parent="243" relname="span">Попасть только к к прокатным конторам в аэропорту Лос-Анджелеса тяжело:</segment>
+		<segment id="54" parent="242" relname="joint">автобуса-шаттла ждать долго,</segment>
+		<segment id="55" parent="242" relname="joint">в первый приехавший можно еще и не влезть,</segment>
+		<segment id="56" parent="242" relname="joint">да и ехать потом довольно далеко.</segment>
+		<segment id="57" parent="243" relname="elaboration">Наверное, от выхода из терминала до входа в Alamo прошло минимум минут 40, если не час.</segment>
+		<segment id="58" parent="247" relname="cause">##### Машины на аламовской парковке стоят рассортированные по классам,</segment>
+		<segment id="59" parent="246" relname="joint">тебе просто говорят в каком секторе парковки класс, соответствующий твоему заказу,</segment>
+		<segment id="60" parent="246" relname="joint">и выбираешь там любую, какая понравится.</segment>
+		<segment id="61" parent="249" relname="sequence">Нас выезде служащий берет права,</segment>
+		<segment id="62" parent="249" relname="sequence">сканирует наклейку на лобовом стекле</segment>
+		<segment id="63" parent="358" relname="restatement">и таким образом "привязывает" конкретное авто к твоему контракту.</segment>
+		<segment id="64" parent="65" relname="cause">Насколько я понимаю, можно взять на парковке машину и классом выше, чем в заказе,</segment>
+		<segment id="65" parent="250" relname="span">просто с карточки тут же спишут дополнительные деньги.</segment>
+		<segment id="66" parent="250" relname="evaluation">Наверное, на это система и расчитана.</segment>
+		<segment id="67" parent="254" relname="span">Но у нас и так был заказан SUV.</segment>
+		<segment id="68" parent="378" relname="span">##### Я выбрал вот этот Hyundai Santa Fe.</segment>
+		<segment id="69" parent="252" relname="span">На нем мы доехали из LA в Вегас через пустыню Мохаве</segment>
+		<segment id="70" parent="69" relname="elaboration">(где и была сделана эта фотка).</segment>
+		<segment id="71" parent="378" relname="elaboration">##### IMG</segment>
+		<segment id="72" parent="359" relname="contrast">##### Непонятно, где мы повредили колесо</segment>
+		<segment id="73" parent="359" relname="contrast">- по бездорожью не ездили.</segment>
+		<segment id="74" parent="260" relname="contrast">А может быть, оно было повреждено с самого начала.</segment>
+		<segment id="75" parent="260" relname="evaluation">Но, ясное дело, в Долину Смерти с поврежденным колесом ехать нельзя.</segment>
+		<segment id="76" parent="263" relname="same-unit">Поскольку</segment>
+		<segment id="77" parent="78" relname="condition">при заказе</segment>
+		<segment id="78" parent="262" relname="span">мне по какой-то акции досталась "бесплатная" супер-пупер страховка, включающая повреждение колес,</segment>
+		<segment id="79" parent="264" relname="joint">то было решено просто заехать в ближайший Alamo</segment>
+		<segment id="80" parent="264" relname="joint">и поменять машину.</segment>
+		<segment id="81" parent="268" relname="comparison">Ближайший - в аэропорту Вегаса.</segment>
+		<segment id="82" parent="279" relname="span">Там, правда, ситуация оказалась не такой радужной, как была в LA.</segment>
+		<segment id="83" parent="269" relname="joint">Парковка была пустой</segment>
+		<segment id="84" parent="269" relname="joint">и стояла очередь страждущих, которым выдавали прибывающие машины по мере поступления.</segment>
+		<segment id="85" parent="86" relname="condition">Впрочем, нам предложили, если не хотим ждать,</segment>
+		<segment id="86" parent="270" relname="span">забрать сразу вместо SUVа машинку Nissan Altima.</segment>
+		<segment id="87" parent="88" relname="cause">Предложением этим мы воспользовались,</segment>
+		<segment id="88" parent="272" relname="span">и не пожалели.</segment>
+		<segment id="89" parent="273" relname="span">Машина очень хорошая,</segment>
+		<segment id="90" parent="89" relname="evaluation">мне понравилась.</segment>
+		<segment id="91" parent="274" relname="span">В отличие, кстати, от Santa Fe,</segment>
+		<segment id="92" parent="91" relname="evaluation">от которого я не был в восторге.</segment>
+		<segment id="93" parent="379" relname="span">##### Вот наша Altima уже в Долине Смерти.</segment>
+		<segment id="94" parent="93" relname="elaboration">##### IMG</segment>
+		<segment id="95" parent="281" relname="preparation">##### На карте я обозначил наш маршрут от аэропорта Вегаса в Долину Смерти и обратно в наш Трамп-отель.</segment>
+		<segment id="96" parent="97" relname="attribution">Гугл считает,</segment>
+		<segment id="97" parent="281" relname="span">что чистой езды 6 часов 17 минут.</segment>
+		<segment id="98" parent="283" relname="span">Похоже на правду:</segment>
+		<segment id="99" parent="98" relname="evidence">со всеми остановками было, наверное, часов 10.</segment>
+		<segment id="100" parent="284" relname="elaboration">##### IMG</segment>
+		<segment id="101" parent="286" relname="span">##### Первая остановка не считая заправки - на въезде в национальный парк.</segment>
+		<segment id="102" parent="285" relname="joint">Там нужно оплатить въезд (30 долларов за машину),</segment>
+		<segment id="103" parent="285" relname="joint">расположены стенды с картами и всяческой полезной информацией.</segment>
+		<segment id="104" parent="105" relname="cause">Никаких служителей нет,</segment>
+		<segment id="105" parent="287" relname="span">оплачиваешь сам в автомате типа тех, что на парковках.</segment>
+		<segment id="106" parent="288" relname="span">За эти деньги можно тусить в национальном парке то ли неделю, то ли две,</segment>
+		<segment id="107" parent="106" relname="concession">хотя нам это было не актуально.</segment>
+		<segment id="108" parent="289" relname="contrast">Все это хозяйство расположено в стороне от дороги,</segment>
+		<segment id="109" parent="291" relname="span">а не как в каньоне Зайон, например,</segment>
+		<segment id="110" parent="290" relname="span">где автоматы оплаты находятся прямо на хайвее</segment>
+		<segment id="111" parent="110" relname="background">(и, кажется, даже есть шлагбаум).</segment>
+		<segment id="112" parent="294" relname="condition">Поэтому, когда я был в Долине Смерти первый раз, в 2012 году,</segment>
+		<segment id="113" parent="293" relname="joint">то вообще не понял, что надо останавливаться</segment>
+		<segment id="114" parent="293" relname="joint">и что-то платить,</segment>
+		<segment id="115" parent="296" relname="span">и проехал "зайцем".</segment>
+		<segment id="116" parent="117" relname="condition">Раз уж остановились,</segment>
+		<segment id="117" parent="297" relname="span">то надо пофотографировать окрестности.</segment>
+		<segment id="118" parent="297" relname="elaboration">##### IMG IMG IMG</segment>
+		<segment id="119" parent="382" relname="span">##### Следующую остановку мы сделали в месте, где захотелось сфотографировать живописные скалы.</segment>
+		<segment id="120" parent="119" relname="elaboration">##### IMG IMG</segment>
+		<segment id="121" parent="383" relname="span">##### Потом оказалось, что мы не доехали всего километро до знаменитой Zabriskie Point.</segment>
+		<segment id="122" parent="121" relname="elaboration">Вот и она:</segment>
+		<segment id="123" parent="383" relname="elaboration">##### IMG IMG IMG IMG</segment>
+		<segment id="124" parent="303" relname="contrast">##### Дальше мы поехали к "Визитор Центру" национального парка,</segment>
+		<segment id="125" parent="303" relname="contrast">но передумали в него заходить,</segment>
+		<segment id="126" parent="304" relname="joint">развернулись</segment>
+		<segment id="127" parent="312" relname="span">и отправились к Голден Каньону.</segment>
+		<segment id="128" parent="305" relname="elaboration">##### IMG</segment>
+		<segment id="129" parent="309" relname="contrast">##### По каньону можно пройти пешком обратно к Забриски Пойнт.</segment>
+		<segment id="130" parent="308" relname="joint">Но у нас не было на это времени,</segment>
+		<segment id="131" parent="308" relname="joint">да и обувь была неподходящей.</segment>
+		<segment id="132" parent="310" relname="background">##### Дорога, по которой мы теперь ехали, Badwater Road, идет вдоль дна долины, находящегося ниже уровня моря.</segment>
+		<segment id="133" parent="134" relname="purpose">Чтобы лучше рассмотреть это покрытое солью дно,</segment>
+		<segment id="134" parent="310" relname="span">мы свернули на проселочную дорогу, West Side Road.</segment>
+		<segment id="135" parent="385" relname="elaboration">##### IMG</segment>
+		<segment id="136" parent="315" relname="span">##### Виды вокруг фантастические!</segment>
+		<segment id="137" parent="136" relname="elaboration">Белое - это не снег, это соль!</segment>
+		<segment id="138" parent="313" relname="contrast">В середине апреля погода в Долине Смерти не была смертельно жаркой,</segment>
+		<segment id="139" parent="314" relname="span">но была вполне летней.</segment>
+		<segment id="140" parent="139" relname="evidence">Градусов 26-28.</segment>
+		<segment id="141" parent="386" relname="elaboration">##### IMG IMG IMG</segment>
+		<segment id="142" parent="318" relname="span">##### Далеко углубляться по грунтовке не стали</segment>
+		<segment id="143" parent="142" relname="cause">- очень уж пыльно.</segment>
+		<segment id="144" parent="360" relname="contrast">Вернулись на шоссе.</segment>
+		<segment id="145" parent="320" relname="span">Следующая остановка - Badwater, самая нижняя точка США, 86 метров ниже уровня моря.</segment>
+		<segment id="146" parent="145" relname="elaboration">На фото ниже видны машины, едущие вдоль склона по шоссе Badwater Road.</segment>
+		<segment id="147" parent="320" relname="elaboration">##### IMG IMG</segment>
+		<segment id="148" parent="149" relname="purpose">##### Для удобства туристов</segment>
+		<segment id="149" parent="321" relname="span">на склоне обозначен уровень моря:</segment>
+		<segment id="150" parent="321" relname="elaboration">##### IMG</segment>
+		<segment id="151" parent="390" relname="span">##### Следующая остановка была сделана в месте, где шоссе очень близко подошло к соляной повехности.</segment>
+		<segment id="152" parent="324" relname="contrast">Я хотел сделать несколько кадров этой поверхности вблизи.</segment>
+		<segment id="153" parent="323" relname="span">Но не получилось:</segment>
+		<segment id="154" parent="155" relname="cause">неосмотрительно углубившись в то, что, как выяснилось, является на самом деле соляным болотом,</segment>
+		<segment id="155" parent="325" relname="span">я провалился одной ногой по колено.</segment>
+		<segment id="156" parent="325" relname="elaboration">Вот как этот момент был запечатлен со стороны:</segment>
+		<segment id="157" parent="390" relname="elaboration">##### IMG</segment>
+		<segment id="158" parent="327" relname="contrast">##### Не то чтобы вытащить ногу оказалось сложно,</segment>
+		<segment id="159" parent="327" relname="contrast">но тапок с этой ноги сгинул в соляной грязи.</segment>
+		<segment id="160" parent="328" relname="contrast">Там рядом виднеется цепочка следов,</segment>
+		<segment id="161" parent="328" relname="contrast">но это - не человеческие следы.</segment>
+		<segment id="162" parent="328" relname="evaluation">Животное, видимо, было гораздо легче меня :)</segment>
+		<segment id="163" parent="332" relname="contrast">##### Второй тапок выжил,</segment>
+		<segment id="164" parent="331" relname="joint">но был жутко облеплен соляной грязью,</segment>
+		<segment id="165" parent="331" relname="joint">и я бросил его на месте происшествия.</segment>
+		<segment id="166" parent="335" relname="span">Жаль, хорошие пижонские кроксы были,</segment>
+		<segment id="167" parent="166" relname="elaboration">куплены за 40 баксов всего за 2 дня до этого в молле Fashion Show под нашей гостиницей.</segment>
+		<segment id="168" parent="336" relname="span">##### Вот почему возникла необходимость остановки у аптеки</segment>
+		<segment id="169" parent="168" relname="purpose">для покупки новых тапок.</segment>
+		<segment id="170" parent="337" relname="contrast">Ибо войти в лобби Трамп-отеля босиком я не рискнул.</segment>
+		<segment id="171" parent="337" relname="contrast">А вот вести машину пришлось пока босиком.</segment>
+		<segment id="172" parent="391" relname="span">##### Вскоре солнце стало садиться.</segment>
+		<segment id="173" parent="172" relname="elaboration">Еще кадры с последней остановки:</segment>
+		<segment id="174" parent="391" relname="elaboration">##### IMG IMG</segment>
+		<segment id="175" parent="342" relname="evaluation">##### Любопытно, что</segment>
+		<segment id="176" parent="371" relname="span">за весь путь от этой последней остановки до въезда в городишко Pahrump,</segment>
+		<segment id="177" parent="176" relname="elaboration">в котором дорога вливается в "большой" хайвей №160,</segment>
+		<segment id="178" parent="341" relname="restatement">а это где-то 60 миль,</segment>
+		<segment id="179" parent="353" relname="span">мы встретили только одну машину.</segment>
+		<segment id="180" parent="345" relname="span">Да и та оказалась полицией:</segment>
+		<segment id="181" parent="343" relname="joint">двигаясь навстречу</segment>
+		<segment id="182" parent="343" relname="joint">и поравнявшись с нами,</segment>
+		<segment id="183" parent="344" relname="sequence">она зачем-то включила люстру.</segment>
+		<segment id="184" parent="368" relname="span">Я было испугался, что меня сейчас будут арестовывать</segment>
+		<segment id="185" parent="184" relname="cause">за превышение скорости</segment>
+		<segment id="186" parent="187" relname="condition">(при ограничении в 60</segment>
+		<segment id="187" parent="346" relname="span">я на этой абсолютно пустой хорошей дороге ехал, наверное, 85 миль в час).</segment>
+		<segment id="188" parent="348" relname="condition">Но только я начал тормозить,</segment>
+		<segment id="189" parent="348" relname="joint">как в паре десятков метров за нами полицейские погасили свою люстру</segment>
+		<segment id="190" parent="369" relname="same-unit">и,</segment>
+		<segment id="191" parent="192" relname="condition">не снижая скорости,</segment>
+		<segment id="192" parent="370" relname="span">умчались.</segment>
+		<segment id="193" parent="351" relname="span">Что это было - неясно.</segment>
+		<segment id="194" parent="195" relname="solutionhood">Может быть, они там границы штатов патрулируют?</segment>
+		<segment id="195" parent="363" relname="span">Это была еще Калифорния, но миль за 5 до границы с Невадой.</segment>
+		<segment id="196" parent="354" relname="sequence">##### В Pahrump'е мы остановись у Walgreens'а</segment>
+		<segment id="197" parent="354" relname="sequence">и жена пошла покупать мне новые тапки.</segment>
+		<segment id="198" parent="356" relname="same-unit">Так что,</segment>
+		<segment id="199" parent="200" relname="condition">сдав в отеле машину "валету",</segment>
+		<segment id="200" parent="355" relname="span">мы, как приличные новобрачные и жильцы приличной гостиницы, вступили в ее лобби в "подобающем" виде.</segment>
+		<segment id="201" parent="364" relname="contrast">Правда, я уже был не в кроксах за 40 баксов, а в китайском нонейме за 8 :)</segment>
+		<group id="202" type="span" parent="205" relname="sequence"/>
+		<group id="203" type="span" parent="208" relname="joint"/>
+		<group id="204" type="span" parent="205" relname="sequence"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" parent="208" relname="joint"/>
+		<group id="208" type="multinuc" parent="374" relname="span"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" />
+		<group id="211" type="span" parent="377" relname="span"/>
+		<group id="212" type="multinuc" parent="214" relname="span"/>
+		<group id="213" type="span" parent="212" relname="evaluation"/>
+		<group id="214" type="span" parent="377" relname="elaboration"/>
+		<group id="215" type="span" parent="222" relname="sequence"/>
+		<group id="216" type="multinuc" parent="218" relname="sequence"/>
+		<group id="217" type="multinuc" parent="218" relname="sequence"/>
+		<group id="218" type="multinuc" parent="222" relname="sequence"/>
+		<group id="219" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="220" type="span" parent="219" relname="contrast"/>
+		<group id="221" type="span" parent="217" relname="sequence"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" />
+		<group id="225" type="multinuc" parent="36" relname="condition"/>
+		<group id="226" type="span" parent="230" relname="span"/>
+		<group id="227" type="multinuc" parent="235" relname="span"/>
+		<group id="228" type="span" parent="37" relname="elaboration"/>
+		<group id="229" type="span" parent="226" relname="background"/>
+		<group id="230" type="span" parent="237" relname="span"/>
+		<group id="231" type="multinuc" parent="232" relname="span"/>
+		<group id="232" type="span" parent="227" relname="elaboration"/>
+		<group id="233" type="multinuc" parent="236" relname="span"/>
+		<group id="234" type="multinuc" parent="233" relname="evaluation"/>
+		<group id="235" type="span" parent="228" relname="span"/>
+		<group id="236" type="span" parent="230" relname="elaboration"/>
+		<group id="237" type="span" />
+		<group id="238" type="multinuc" parent="50" relname="evidence"/>
+		<group id="239" type="span" parent="244" relname="contrast"/>
+		<group id="240" type="span" parent="48" relname="background"/>
+		<group id="241" type="span" parent="259" relname="span"/>
+		<group id="242" type="multinuc" parent="53" relname="evidence"/>
+		<group id="243" type="span" parent="245" relname="span"/>
+		<group id="244" type="multinuc" parent="49" relname="evaluation"/>
+		<group id="245" type="span" parent="244" relname="contrast"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="255" relname="sequence"/>
+		<group id="249" type="multinuc" parent="358" relname="restatement"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="256" relname="elaboration"/>
+		<group id="252" type="span" parent="68" relname="elaboration"/>
+		<group id="253" type="span" parent="67" relname="elaboration"/>
+		<group id="254" type="span" parent="258" relname="contrast"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="258" relname="contrast"/>
+		<group id="258" type="multinuc" parent="241" relname="elaboration"/>
+		<group id="259" type="span" />
+		<group id="260" type="multinuc" parent="261" relname="span"/>
+		<group id="261" type="span" parent="266" relname="preparation"/>
+		<group id="262" type="span" parent="263" relname="same-unit"/>
+		<group id="263" type="multinuc" parent="265" relname="cause"/>
+		<group id="264" type="multinuc" parent="265" relname="span"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="280" relname="span"/>
+		<group id="268" type="multinuc" parent="267" relname="elaboration"/>
+		<group id="269" type="multinuc" parent="271" relname="contrast"/>
+		<group id="270" type="span" parent="277" relname="span"/>
+		<group id="271" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="272" type="span" parent="276" relname="span"/>
+		<group id="273" type="span" parent="275" relname="comparison"/>
+		<group id="274" type="span" parent="275" relname="comparison"/>
+		<group id="275" type="multinuc" parent="272" relname="cause"/>
+		<group id="276" type="span" parent="270" relname="elaboration"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="271" relname="contrast"/>
+		<group id="279" type="span" parent="268" relname="comparison"/>
+		<group id="280" type="span" />
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="284" relname="span"/>
+		<group id="283" type="span" parent="282" relname="evaluation"/>
+		<group id="284" type="span" parent="380" relname="span"/>
+		<group id="285" type="multinuc" parent="301" relname="joint"/>
+		<group id="286" type="span" />
+		<group id="287" type="span" parent="292" relname="span"/>
+		<group id="288" type="span" parent="287" relname="evaluation"/>
+		<group id="289" type="multinuc" parent="298" relname="span"/>
+		<group id="290" type="span" parent="109" relname="elaboration"/>
+		<group id="291" type="span" parent="289" relname="contrast"/>
+		<group id="292" type="span" parent="300" relname="span"/>
+		<group id="293" type="multinuc" parent="294" relname="span"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="115" relname="cause"/>
+		<group id="296" type="span" parent="298" relname="elaboration"/>
+		<group id="297" type="span" parent="381" relname="span"/>
+		<group id="298" type="span" parent="299" relname="span"/>
+		<group id="299" type="span" parent="292" relname="elaboration"/>
+		<group id="300" type="span" parent="301" relname="joint"/>
+		<group id="301" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="302" type="span" parent="307" relname="sequence"/>
+		<group id="303" type="multinuc" parent="304" relname="cause"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="384" relname="span"/>
+		<group id="306" type="span" parent="307" relname="sequence"/>
+		<group id="307" type="multinuc" />
+		<group id="308" type="multinuc" parent="309" relname="contrast"/>
+		<group id="309" type="multinuc" parent="384" relname="elaboration"/>
+		<group id="310" type="span" parent="385" relname="span"/>
+		<group id="311" type="span" parent="317" relname="span"/>
+		<group id="312" type="span" parent="304" relname="joint"/>
+		<group id="313" type="multinuc" parent="315" relname="background"/>
+		<group id="314" type="span" parent="313" relname="contrast"/>
+		<group id="315" type="span" parent="386" relname="span"/>
+		<group id="316" type="span" parent="311" relname="evaluation"/>
+		<group id="317" type="span" parent="319" relname="sequence"/>
+		<group id="318" type="span" parent="360" relname="contrast"/>
+		<group id="319" type="multinuc" />
+		<group id="320" type="span" parent="389" relname="span"/>
+		<group id="321" type="span" parent="388" relname="span"/>
+		<group id="322" type="span" parent="153" relname="elaboration"/>
+		<group id="323" type="span" parent="324" relname="contrast"/>
+		<group id="324" type="multinuc" parent="151" relname="elaboration"/>
+		<group id="325" type="span" parent="322" relname="span"/>
+		<group id="326" type="span" parent="319" relname="sequence"/>
+		<group id="327" type="multinuc" parent="330" relname="span"/>
+		<group id="328" type="multinuc" parent="329" relname="span"/>
+		<group id="329" type="span" parent="327" relname="elaboration"/>
+		<group id="330" type="span" parent="333" relname="joint"/>
+		<group id="331" type="multinuc" parent="332" relname="contrast"/>
+		<group id="332" type="multinuc" parent="333" relname="joint"/>
+		<group id="333" type="multinuc" parent="334" relname="span"/>
+		<group id="334" type="span" parent="338" relname="solutionhood"/>
+		<group id="335" type="span" parent="333" relname="evaluation"/>
+		<group id="336" type="span" parent="338" relname="span"/>
+		<group id="337" type="multinuc" parent="336" relname="elaboration"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="361" relname="sequence"/>
+		<group id="340" type="span" parent="361" relname="sequence"/>
+		<group id="341" type="multinuc" parent="342" relname="contrast"/>
+		<group id="342" type="multinuc" parent="372" relname="span"/>
+		<group id="343" type="multinuc" parent="344" relname="sequence"/>
+		<group id="344" type="multinuc" parent="349" relname="span"/>
+		<group id="345" type="span" parent="350" relname="contrast"/>
+		<group id="346" type="span" parent="368" relname="elaboration"/>
+		<group id="347" type="span" parent="344" relname="evaluation"/>
+		<group id="348" type="multinuc" parent="362" relname="span"/>
+		<group id="349" type="span" parent="180" relname="elaboration"/>
+		<group id="350" type="multinuc" parent="352" relname="span"/>
+		<group id="351" type="span" parent="350" relname="evaluation"/>
+		<group id="352" type="span" parent="179" relname="elaboration"/>
+		<group id="353" type="span" parent="342" relname="contrast"/>
+		<group id="354" type="multinuc" parent="364" relname="cause"/>
+		<group id="355" type="span" parent="356" relname="same-unit"/>
+		<group id="356" type="multinuc" parent="364" relname="contrast"/>
+		<group id="357" type="span" />
+		<group id="358" type="multinuc" parent="255" relname="sequence"/>
+		<group id="359" type="multinuc" parent="260" relname="contrast"/>
+		<group id="360" type="multinuc" parent="319" relname="sequence"/>
+		<group id="361" type="multinuc" />
+		<group id="362" type="span" parent="350" relname="contrast"/>
+		<group id="363" type="span" parent="193" relname="evaluation"/>
+		<group id="364" type="multinuc" parent="357" relname="span"/>
+		<group id="365" type="multinuc" parent="374" relname="elaboration"/>
+		<group id="366" type="span" parent="219" relname="contrast"/>
+		<group id="367" type="span" parent="29" relname="condition"/>
+		<group id="368" type="span" parent="347" relname="span"/>
+		<group id="369" type="multinuc" parent="348" relname="joint"/>
+		<group id="370" type="span" parent="369" relname="same-unit"/>
+		<group id="371" type="span" parent="341" relname="restatement"/>
+		<group id="372" type="span" />
+		<group id="373" type="span" parent="206" relname="elaboration"/>
+		<group id="374" type="span" parent="209" relname="span"/>
+		<group id="375" type="multinuc" parent="376" relname="span"/>
+		<group id="376" type="span" parent="222" relname="sequence"/>
+		<group id="377" type="span" parent="215" relname="span"/>
+		<group id="378" type="span" parent="253" relname="span"/>
+		<group id="379" type="span" parent="277" relname="elaboration"/>
+		<group id="380" type="span" />
+		<group id="381" type="span" parent="307" relname="sequence"/>
+		<group id="382" type="span" parent="307" relname="sequence"/>
+		<group id="383" type="span" parent="302" relname="span"/>
+		<group id="384" type="span" parent="306" relname="span"/>
+		<group id="385" type="span" parent="311" relname="span"/>
+		<group id="386" type="span" parent="316" relname="span"/>
+		<group id="387" type="span" parent="319" relname="sequence"/>
+		<group id="388" type="span" parent="389" relname="elaboration"/>
+		<group id="389" type="span" parent="387" relname="span"/>
+		<group id="390" type="span" parent="326" relname="span"/>
+		<group id="391" type="span" parent="340" relname="span"/>
+	</body>
+</rst>

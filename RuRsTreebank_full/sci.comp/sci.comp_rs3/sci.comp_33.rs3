@@ -1,0 +1,230 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" relname="antithesis">﻿УНИВЕРСАЛЬНАЯ СИСТЕМА АВТОМАТИЗИРОВАННОГО УПРАВЛЕНИЯ ДОКУМЕНТАМИ И БИЗНЕС- ПРОЦЕССАМИ</segment>
+		<segment id="2" relname="antithesis">О.В. Елисеев, А.А. Федоров, Н.С. Кармановский</segment>
+		<segment id="3" relname="antithesis">В статье представлено описание существующей системы автоматизированного управления документами.</segment>
+		<segment id="4" relname="antithesis">Рассматривается пример реально разработанной системы, введенной в опытную эксплуатацию.</segment>
+		<segment id="5" parent="124" relname="preparation">Введение</segment>
+		<segment id="6" parent="121" relname="span">Система электронного документооборота (СЭД) - это комплексная платформа, разработанная на базе самых современных программных технологий и</segment>
+		<segment id="7" parent="119" relname="joint">предназначенная для автоматизации процессов управления, документооборота</segment>
+		<segment id="8" parent="119" relname="joint">и для создания интегрированных приложений.</segment>
+		<segment id="9" parent="122" relname="joint">Программная платформа СЭД - это не только средство для внедрения современных практик управления компанией,</segment>
+		<segment id="10" parent="122" relname="joint">но и первый шаг при создании инфраструктуры управления знаниями.</segment>
+		<segment id="11" parent="126" relname="span">СЭД поддерживает модули криптографической защиты</segment>
+		<segment id="12" parent="11" relname="purpose">для обеспечения шифрования и электронной подписи документов, в частности, с использованием сертифицированных ФАПСИ средств «Крипто-Про».</segment>
+		<segment id="13" parent="130" relname="span">Система позволяет:</segment>
+		<segment id="14" parent="127" relname="joint">• осуществлять контроль над процессами, происходящими в организации;</segment>
+		<segment id="15" parent="127" relname="joint">• внедрять новые приложения, созданные на платформе;</segment>
+		<segment id="16" parent="127" relname="joint">• добавлять функции управления процессом обработки документов в приложения, которые уже используются в организации.</segment>
+		<segment id="17" parent="131" relname="span">СЭД является платформой, на которой реализован набор законченных приложений (рис. 1).</segment>
+		<segment id="18" parent="17" relname="elaboration">[Рис. 1. Типовые расширения СЭД]</segment>
+		<segment id="19" parent="132" relname="joint">Программная платформа Системы включает средства моделирования приложений, сервер приложения системы базовое клиентское обеспечение системы.</segment>
+		<segment id="20" parent="132" relname="joint">Платформа Системы обеспечивает тесную интеграцию всех приложений и программ, созданных на ее базе, и единое пространство управления документами и процессами в организации.</segment>
+		<segment id="21" parent="138" relname="preparation">Цели разработки системы автоматизированного управления документами и бизнес-процессами</segment>
+		<segment id="22" parent="134" relname="span">Сегодня на повестке дня многих предприятий стоит задача внедрения приложений</segment>
+		<segment id="23" parent="22" relname="purpose">для автоматизации процессов управления.</segment>
+		<segment id="24" parent="137" relname="span">СЭД призвана</segment>
+		<segment id="25" parent="135" relname="joint">упростить решение проблем, возникающих при создании комплексной системы автоматизации процессов управления и документооборота в организации,</segment>
+		<segment id="26" parent="135" relname="joint">а также сформировать предпосылки для внедрения инфраструктуры управления знаниями.</segment>
+		<segment id="27" parent="143" relname="span">Существует два альтернативных подхода к автоматизации задач управления в организации.</segment>
+		<segment id="28" parent="140" relname="contrast">Первый заключается в последовательной реализации отдельных приложений, автоматизирующих отдельные процессы управления,</segment>
+		<segment id="29" parent="140" relname="contrast">второй - во внедрении платформы для реализации комплексной системы автоматизации управления процессами и создании на ее базе приложений, интегрированных в единый комплекс.</segment>
+		<segment id="30" parent="141" relname="elaboration">Оба подхода - внедрение комплекса приложения, реализующие «фиксированную» функциональность, и внедрение комплексного решения на базе платформы автоматизации управления - имеют свои достоинства и недостатки [1].</segment>
+		<segment id="31" parent="147" relname="span">СЭД предоставляет специалистам по автоматизации предприятий инструмент для решения данной проблемы.</segment>
+		<segment id="32" parent="146" relname="span">Система может быть использована</segment>
+		<segment id="33" parent="145" relname="span">и для создания комплексной интегрированной системы автоматизации управления,</segment>
+		<segment id="34" parent="144" relname="span">на базе которой могут быть разработаны самые разнообразные приложения, и в качестве инструментария, дополняющего уже существующую в организации систему,</segment>
+		<segment id="35" parent="34" relname="elaboration">которая решает часть из перечисленных задач.</segment>
+		<segment id="36" parent="146" relname="evidence">Примером такого интегрированного решения может служить совместное использование платформы Системы в сочетании с системой автоматизации групповых взаимодействий Microsoft Exchange Server.</segment>
+		<segment id="37" parent="151" relname="span">Разработка СЭД преследовала следующие цели:</segment>
+		<segment id="38" parent="149" relname="joint">• обеспечить средство для создания инфраструктуры комплексных интегрированных систем, реализующих весь комплекс задач, связанных с автоматизацией процессов управления;</segment>
+		<segment id="39" parent="149" relname="joint">• обеспечить возможность поэтапного внедрения отдельных компонентов и реализации приложений, образующих интегрированную систему автоматизации управления;</segment>
+		<segment id="40" parent="149" relname="joint">• существенно ускорить разработку приложений в области автоматизации управления;</segment>
+		<segment id="41" parent="149" relname="joint">• создать набор законченных интегрированных между собой решений, автоматизирующих типовые процессы обработки документов и реализующих типовые задачи поддержки управления современной организации [2].</segment>
+		<segment id="42" parent="152" relname="span">В основу разработки идеологии Системы была положена концепция единой интегрированной системы автоматизации управления и документооборота.</segment>
+		<segment id="43" parent="155" relname="span">Такая система должна отвечать следующим требованиям:</segment>
+		<segment id="44" parent="153" relname="joint">• обеспечивать единые механизмы хранения и доступа к данным;</segment>
+		<segment id="45" parent="153" relname="joint">• поддерживать единые механизмы разграничения и управления правами доступа;</segment>
+		<segment id="46" parent="153" relname="joint">• предоставлять пользователям общие средства навигации и доступа к данным;</segment>
+		<segment id="47" parent="153" relname="joint">• поддерживать общую структуру справочников;</segment>
+		<segment id="48" parent="153" relname="joint">• обеспечивать интегрированные средства поиска;</segment>
+		<segment id="49" parent="153" relname="joint">• поддерживать единые средства управления жизненным циклом приложений и маршрутизации документов;</segment>
+		<segment id="50" parent="153" relname="joint">• обеспечивать интегрированные средства управления и администрирования приложений;</segment>
+		<segment id="51" parent="153" relname="joint">• обеспечивать общее пространство адресации всех объектов системы;</segment>
+		<segment id="52" parent="153" relname="joint">• предоставлять унифицированные средства разработки (настройки) приложений и общего набора компонентов, используемых для встраивания в приложения.</segment>
+		<segment id="53" parent="54" relname="purpose">СЭД разрабатывалась на основе вышеперечисленных принципов,</segment>
+		<segment id="54" parent="156" relname="span">что позволяет использовать ее в качестве основы для создания в компании интегрированной системы автоматизации процессов управления и документооборота.</segment>
+		<segment id="55" parent="158" relname="span">Порядок работы представлен на рис. 2.</segment>
+		<segment id="56" parent="55" relname="elaboration">[Рис. 2: Порядок обработки документа]</segment>
+		<segment id="57" parent="58" relname="preparation">На платформе представлены интегрированные приложения.</segment>
+		<segment id="58" parent="203" relname="span">Делопроизводство обеспечивает автоматизацию традиционных процессов обработки документов (создание архивов, маршрутизация документов, обработка корреспонденции, формирование отчетности о состоянии исполнения документов).</segment>
+		<segment id="59" parent="202" relname="span">Управление процессами обеспечивает возможность автоматизации процессного управления в организациях [3].</segment>
+		<segment id="60" parent="200" relname="preparation">Управление договорным процессом.</segment>
+		<segment id="61" parent="62" relname="condition">При согласовании договоров внутри организации</segment>
+		<segment id="62" parent="199" relname="span">необходимо выполнить определенные регламенты работы с документами.</segment>
+		<segment id="63" parent="159" relname="contrast">Регламенты различных организаций существенно отличаются,</segment>
+		<segment id="64" parent="159" relname="contrast">однако Workflow-система позволяет автоматизировать их эффективно и удобно.</segment>
+		<segment id="65" parent="66" relname="concession">Несмотря на отсутствие единого унифицированного продукта для согласования договоров,</segment>
+		<segment id="66" parent="161" relname="span">эта задача успешно решается с помощью Системы [4].</segment>
+		<segment id="67" parent="167" relname="preparation">Управление качеством.</segment>
+		<segment id="68" parent="167" relname="span">При построении системы менеджмента качества и сертификации ее по стандартам серии ISO 9000 возникает необходимость соблюдения большого количества процедур и их надлежащего документального оформления.</segment>
+		<segment id="69" parent="70" relname="cause">Решения с использованием СЭД позволяют упростить процесс внедрения стандартов серии ISO 9000</segment>
+		<segment id="70" parent="166" relname="span">и, как следствие, сделать его более эффективным [5].</segment>
+		<segment id="71" parent="204" relname="span">СЭД обеспечивает тесную интеграцию всех приложений, созданных на базе платформы, и единое пространство управления документами и процессами в организации.</segment>
+		<segment id="72" parent="171" relname="span">Основные функции системы:</segment>
+		<segment id="73" parent="169" relname="joint">• автоматизация управления предприятием;</segment>
+		<segment id="74" parent="169" relname="joint">• поддержка процессного подхода в организации управления;</segment>
+		<segment id="75" parent="169" relname="joint">• автоматизация систем менеджмента качества;</segment>
+		<segment id="76" parent="169" relname="joint">• автоматизация процессов согласования и утверждения документов;</segment>
+		<segment id="77" parent="169" relname="joint">• средства контроля исполнения документов и заданий;</segment>
+		<segment id="78" parent="169" relname="joint">• маршрутизация и доставка документов на рабочие места пользователей;</segment>
+		<segment id="79" parent="169" relname="joint">• управление процессами обработки документов;</segment>
+		<segment id="80" parent="169" relname="joint">• организация взаимодействия с контрагентами и заказчиками;</segment>
+		<segment id="81" parent="169" relname="joint">• автоматизация канцелярии;</segment>
+		<segment id="82" parent="169" relname="joint">• создание электронного архива документов.</segment>
+		<segment id="83" parent="176" relname="preparation">Технические подробности</segment>
+		<segment id="84" parent="172" relname="joint">Система основана на современной платформе Microsoft .NET на стороне сервера</segment>
+		<segment id="85" parent="172" relname="joint">и предоставляет полнофункциональный Windows пользовательский интерфейс, базирующийся на COM-компонентах на стороне клиента.</segment>
+		<segment id="86" parent="87" relname="purpose">Взаимодействие клиента и сервера осуществляется по протоколу SOAP,</segment>
+		<segment id="87" parent="174" relname="span">что позволяет использовать соединения не только внутри локальной сети офиса, но и через сеть Интернет [4].</segment>
+		<segment id="88" parent="92" relname="elaboration">[Рис. 3. Плюсы программы]</segment>
+		<segment id="89" parent="179" relname="cause">Все клиентские компоненты системы автоматически загружаются в Internet Explorer,</segment>
+		<segment id="90" parent="178" relname="joint">что делает крайне простым развертывание и поддержку системы на любом количестве рабочих мест</segment>
+		<segment id="91" parent="178" relname="joint">и существенно снижает стоимость владения системой.</segment>
+		<segment id="92" parent="205" relname="span">Положительные свойства программы изображены на рис. 3.</segment>
+		<segment id="93" parent="94" relname="purpose">Все системные объекты доступны по URL,</segment>
+		<segment id="94" parent="181" relname="span">что позволяет легко и изящно обмениваться ссылками на документы с пользователями,</segment>
+		<segment id="95" parent="94" relname="elaboration">у которых может быть не установлено никакого программного обеспечения [6].</segment>
+		<segment id="96" parent="194" relname="preparation">Выводы</segment>
+		<segment id="97" parent="185" relname="joint">Таким образом, система аутентификации пользователей интегрирована с Microsoft Active Directory</segment>
+		<segment id="98" parent="185" relname="joint">и не требует дополнительного ввода имени пользователя или пароля при входе в систему.</segment>
+		<segment id="99" parent="187" relname="span">Хранилище системы базируется на современном Microsoft SQL Server 2000,</segment>
+		<segment id="100" parent="99" relname="elaboration">который предоставляет широкие возможности масштабирования и поиска документов.</segment>
+		<segment id="101" parent="188" relname="purpose">Она поддерживает выгрузку всех объектов в формате XML,</segment>
+		<segment id="102" parent="188" relname="span">что позволяет организовать взаимодействие большого количества серверов СЭД,</segment>
+		<segment id="103" parent="102" relname="elaboration">которые находятся в разных офисах или в разных компаниях.</segment>
+		<segment id="104" parent="192" relname="elaboration">Взаимодействие может быть организовано с помощью Microsoft BizTalk Server.</segment>
+		<segment id="105" parent="106" relname="purpose">Все серверные компоненты созданы в stateless архитектуре,</segment>
+		<segment id="106" parent="196" relname="span">что позволяет применять кластерные решения для организации высокопроизводительных решений с большими пиковыми нагрузками.</segment>
+		<segment id="107" parent="197" relname="span">Система поддерживает английский и русский интерфейсы,</segment>
+		<segment id="108" parent="107" relname="elaboration">которые переключаются автоматически, в зависимости от языковых установок пользователя.</segment>
+		<segment id="109" relname="antithesis">Литература</segment>
+		<segment id="110" relname="antithesis">1\. Вирт Н. Алгоритмы и структуры данных / Пер. с англ. - М.: Мир, 1989. - 360 с., ил.</segment>
+		<segment id="111" relname="antithesis">2\. Кандзюба С.П., Громов В.Н. Delphi 6/7. Базы данных и приложения. Лекции и упражнения. 2003.</segment>
+		<segment id="112" relname="antithesis">3\. Нечаев В.М. Microsoft Excel. Электронные таблицы и базы данных в задачах. 2001</segment>
+		<segment id="113" relname="antithesis">4\. Яргер Р. Д., Риз Д., Кинг Т. MySQL и mSQL. Базы данных для небольших предприятий и Интернета. 2000.</segment>
+		<segment id="114" relname="antithesis">5\. Архангельский А.Я. 100 компонентов общего назначения библиотеки Delphi5. 1999.</segment>
+		<segment id="115" relname="antithesis">6\. Послед Б. Access 2000. Базы данных и приложения. Лекции и упражнения. 2000.</segment>
+		<segment id="116" relname="antithesis">7\. Фаронов В.В. Delphi 5. Руководство программиста. 2001.</segment>
+		<segment id="117" relname="antithesis">8\. Архангельский А.Я. Delphi 6. Справочное пособие. 2001.</segment>
+		<segment id="118" relname="antithesis"> </segment>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="120" type="span" parent="6" relname="purpose"/>
+		<group id="121" type="span" parent="124" relname="span"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="121" relname="elaboration"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" relname="antithesis"/>
+		<group id="126" type="span" relname="antithesis"/>
+		<group id="127" type="multinuc" parent="129" relname="span"/>
+		<group id="129" type="span" parent="13" relname="elaboration"/>
+		<group id="130" type="span" relname="antithesis"/>
+		<group id="131" type="span" relname="antithesis"/>
+		<group id="132" type="multinuc" parent="133" relname="span"/>
+		<group id="133" type="span" relname="antithesis"/>
+		<group id="134" type="span" parent="137" relname="background"/>
+		<group id="135" type="multinuc" parent="136" relname="span"/>
+		<group id="136" type="span" parent="24" relname="purpose"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="139" type="span" relname="antithesis"/>
+		<group id="140" type="multinuc" parent="141" relname="span"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="142" type="span" parent="27" relname="elaboration"/>
+		<group id="143" type="span" relname="antithesis"/>
+		<group id="144" type="span" parent="33" relname="elaboration"/>
+		<group id="145" type="span" parent="32" relname="purpose"/>
+		<group id="146" type="span" parent="148" relname="span"/>
+		<group id="147" type="span" relname="antithesis"/>
+		<group id="148" type="span" parent="31" relname="elaboration"/>
+		<group id="149" type="multinuc" parent="150" relname="span"/>
+		<group id="150" type="span" parent="37" relname="elaboration"/>
+		<group id="151" type="span" relname="antithesis"/>
+		<group id="152" type="span" relname="antithesis"/>
+		<group id="153" type="multinuc" parent="154" relname="span"/>
+		<group id="154" type="span" parent="43" relname="elaboration"/>
+		<group id="155" type="span" parent="42" relname="elaboration"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" relname="antithesis"/>
+		<group id="158" type="span" parent="156" relname="elaboration"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="160" type="span" parent="162" relname="joint"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="162" type="multinuc" parent="163" relname="span"/>
+		<group id="163" type="span" parent="199" relname="solutionhood"/>
+		<group id="166" type="span" parent="68" relname="solutionhood"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" relname="antithesis"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="170" type="span" parent="72" relname="elaboration"/>
+		<group id="171" type="span" parent="71" relname="elaboration"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="175" relname="joint"/>
+		<group id="174" type="span" parent="175" relname="joint"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" relname="antithesis"/>
+		<group id="178" type="multinuc" parent="179" relname="span"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="182" relname="span"/>
+		<group id="181" type="span" parent="183" relname="joint"/>
+		<group id="182" type="span" parent="183" relname="joint"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="184" type="span" relname="antithesis"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="186" type="span" parent="194" relname="span"/>
+		<group id="187" type="span" parent="190" relname="span"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="187" relname="elaboration"/>
+		<group id="190" type="span" parent="192" relname="joint"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="193" type="span" parent="186" relname="elaboration"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" relname="antithesis"/>
+		<group id="196" type="span" parent="198" relname="span"/>
+		<group id="197" type="span" parent="196" relname="elaboration"/>
+		<group id="198" type="span" relname="antithesis"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" relname="antithesis"/>
+		<group id="202" type="span" relname="antithesis"/>
+		<group id="203" type="span" parent="59" relname="cause"/>
+		<group id="204" type="span" relname="antithesis"/>
+		<group id="205" type="span" parent="180" relname="evidence"/>
+  </body>
+</rst>

@@ -1,0 +1,164 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="82" relname="span">﻿К РАЗРАБОТКЕ АЛГОРИТМА АКТИВНОГО ТЕСТИРОВАНИЯ КОРПОРАТИВНОЙ СЕТИ</segment>
+		<segment id="2" parent="122" relname="span">Д.В. Звонов, Ф.Г. Нестерук</segment>
+		<segment id="3" parent="2" relname="attribution">Научный руководитель - доктор технических наук, профессор Л.Г. Осовецкий</segment>
+		<segment id="4" relname="antithesis">Предложен алгоритм активного тестирования информационной сети с использованием адаптивных средств, базирующийся на основных свойствах систем нечеткой логики, нейронных сетей и экспертных систем, связанных с адаптацией и возможностью представления опыта специалистов информационной безопасности в виде системы правил логического вывода.</segment>
+		<segment id="5" parent="91" relname="preparation">Введение</segment>
+		<segment id="6" parent="123" relname="span">Организация опыта квалифицированных специалистов информационной безопасности в виде базы знаний экспертной системы, представляемой системой правил нечеткого логического вывода, и их последующее отображение в виде нейро-нечетких сетей (ННС), входящих в состав классификаторов системы активного тестирования (CAT) позволяет,</segment>
+		<segment id="7" parent="83" relname="joint">с одной стороны, объяснить результаты работы системы активного тестирования путем анализ информационных полей ННС,</segment>
+		<segment id="8" parent="83" relname="joint">с другой - передавать опыт, накопленный в процессе эксплуатации корпоративные сети аналогичного назначения, путем наследования - перезаписи информационных полей нейро- нечетких сетей [1].</segment>
+		<segment id="9" parent="124" relname="span">Адаптация к изменению множества уязвимостей корпоративной сети и поля угроз информационной безопасности рассматривается как одно из наиболее важных свойств интеллектуальных систем,</segment>
+		<segment id="10" parent="9" relname="purpose">которое позволяет корректировать средства активного тестирования при изменении входной информации и внешнего окружения.</segment>
+		<segment id="11" parent="86" relname="span">Обучающими факторами являются избыточность входной информации и скрытые в данных закономерности,</segment>
+		<segment id="12" parent="11" relname="elaboration">которые видоизменяют информационное поле нейро-нечетких сетей в процессе обучения адаптивных классификаторов CAT [1, 2].</segment>
+		<segment id="13" parent="89" relname="span">Необходимо автоматизировать процесс активного тестирования и коррекции структуры системы защиты информации (СЗИ).</segment>
+		<segment id="14" parent="144" relname="preparation">Автоматизация обеспечения информационной безопасности</segment>
+		<segment id="15" parent="146" relname="purpose">Для уменьшения вероятности несанкционированного доступа в корпоративную сеть акционерного коммерческого банка (АКБ)</segment>
+		<segment id="16" parent="146" relname="span">в последнее время используют средства автоматизации управления системами защиты информации,</segment>
+		<segment id="17" parent="16" relname="elaboration">к которым относят корреляторы событий, системы обновлений, средства ЗА (аутентификации, авторизации и администрирования) и системы управления рисками [3, 4].</segment>
+		<segment id="18" parent="148" relname="span">Корреляторы событий по результатам анализа системных журналов выделяют признаки атак, системы обновления автоматизируют процедуру оперативного устранения выявленных ошибок и поиска скрытых уязвимостей программного обеспечения (ПО).</segment>
+		<segment id="19" parent="94" relname="joint">Средства ЗА позволяют управлять идентификационной информацией и допуском пользователей к информационным ресурсам,</segment>
+		<segment id="20" parent="94" relname="joint">а системы управления рисками - моделировать и оценивать ожидаемый ущерб атаки на корпоративную сеть.</segment>
+		<segment id="21" parent="143" relname="elaboration">Перечисленные задачи с успехом решаются с использованием интеллектуальных средств нейронных сетей, нечеткой логики и генетических алгоритмов.</segment>
+		<segment id="22" parent="95" relname="comparison">Общей чертой существующих систем защиты информации является наличие отдельных средств идентификации (задача классификации) угроз, выявления и устранения уязвимостей и оперативной реакции на несанкционированные проникновения в корпоративную сеть,</segment>
+		<segment id="23" parent="95" relname="comparison">а общим недостатком - отсутствие в СЗИ средств, обеспечивающих накопление и обобщение опыта взаимодействия корпоративной сети с внешней средой и нейтрализации внутрисистемных угроз.</segment>
+		<segment id="24" parent="25" relname="purpose">Для автоматизации обеспечения информационной безопасности корпоративной сети</segment>
+		<segment id="25" parent="149" relname="span">необходим комплексный подход на основе иерархически организованной СЗИ с применением интеллектуальных средств автоматической идентификации угроз и выявления уязвимостей, а также накопления опыта нейтрализации атак и устранения уязвимостей корпоративной сети АКБ.</segment>
+		<segment id="26" parent="27" relname="purpose">Для автоматизации выявления и устранения уязвимостей</segment>
+		<segment id="27" parent="150" relname="span">необходима оценка защищенности корпоративной информационной сети,</segment>
+		<segment id="28" parent="96" relname="span">используемая в качестве целевой функции процесса оптимизации системы активного тестирования.</segment>
+		<segment id="29" parent="152" relname="span">Подобной оценкой защищенности корпоративной информационной сети может являться рейтинг защищенности,</segment>
+		<segment id="30" parent="29" relname="elaboration">который учитывает структуру системы защиты информации [5, 6], качественные показатели работы СЗИ [7] и оценки предотвращенного ущерба [8].</segment>
+		<segment id="31" parent="32" relname="condition">В случае изменения поля угроз в процессе эксплуатации защищаемой корпоративной информационной сети</segment>
+		<segment id="32" parent="154" relname="span">может проявляться ряд новых уязвимостей, не отраженных в исходной модели, и, соответственно, потенциальная возможность реализации новых угроз безопасности информационным ресурсам АКБ.</segment>
+		<segment id="33" parent="100" relname="span">В этой связи целесообразно рассматривать модель системы информационной безопасности в динамике, начиная с начального этапа жизненного цикла системы.</segment>
+		<segment id="34" parent="35" relname="purpose">Для оптимизации структуры системы активного тестирования</segment>
+		<segment id="35" parent="153" relname="span">разработан алгоритм тестирования информационной сети АКБ.</segment>
+		<segment id="36" parent="37" relname="preparation">Алгоритм активного тестирования информационной сети АКБ</segment>
+		<segment id="37" parent="107" relname="preparation">Алгоритм активного тестирования информационной сети АКБ содержит следующую последовательность этапов:</segment>
+		<segment id="38" parent="104" relname="span">1\. решение задачи классификации угроз информационным ресурсам АКБ по вектору известных уязвимостей корпоративной сети;</segment>
+		<segment id="39" parent="38" relname="elaboration">производится соотнесение посылок (вектора известных уязвимостей) с классификационными заключениями (угрозами информационным ресурсам);</segment>
+		<segment id="40" parent="155" relname="span">2\. решение задачи кластеризации угроз информационным ресурсам АКБ по вектору известных уязвимостей корпоративной сети</segment>
+		<segment id="41" parent="40" relname="condition">при расширении множества известных уязвимостей корпоративной сети;</segment>
+		<segment id="42" parent="155" relname="elaboration">производится разбиение входных векторов на группы (векторов уязвимостей корпоративной сети) и отнесение вновь поступающего входного вектора к одной из групп либо формирование новой группы (группы уязвимостей корпоративной сети);</segment>
+		<segment id="43" parent="135" relname="span">3\. формирование экспертных оценок</segment>
+		<segment id="44" parent="43" relname="purpose">для определения степени соответствия угроз информационным ресурсам АКБ векторам известных уязвимостей корпоративной сети;</segment>
+		<segment id="45" parent="106" relname="sequence">4\. представление результатов решения задач п. 1 и 3 в виде систем правил нечеткого логического вывода;</segment>
+		<segment id="46" parent="106" relname="sequence">5\. реализация систем правил нечеткого логического вывода в виде нейро- нечетких классификаторов (классификаторов «уязвимости - угрозы»);</segment>
+		<segment id="47" parent="106" relname="sequence">6\. реализация результатов решения задачи п.2 в виде кластеризаторов на основе самообучающейся НС (кластеризаторов «уязвимости - угрозы»);</segment>
+		<segment id="48" parent="106" relname="sequence">7\. наследование или передача опыта нейтрализации уязвимостей, приобретенного в процессе эксплуатации CAT корпоративной сети, в проектируемую систему активного тестирования путем перенесения информационных полей четких и нейро- нечетких сетей;</segment>
+		<segment id="49" parent="50" relname="purpose">8\. обучение классификаторов по п. 5, 6 на обучающей выборке - подмножестве входных векторов (векторов известных уязвимостей)</segment>
+		<segment id="50" parent="157" relname="span">с целью формирования информационных полей четких и нейро-нечетких сетей;</segment>
+		<segment id="51" parent="106" relname="sequence">9\. адаптация информационных полей четких и нейро-нечетких сетей (классификаторов и кластеризаторов «уязвимости - угрозы») в процессе эксплуатации информационной сети АКБ;</segment>
+		<segment id="52" parent="106" relname="sequence">10\. коррекция адаптируемых экспертных оценок (п. 3) и систем правил нечеткого логического вывода (п. 4) по результатам адаптации информационных полей нейро- нечетких сетей;</segment>
+		<segment id="53" parent="156" relname="span">11\. формулирование новых правил нечеткого логического вывода</segment>
+		<segment id="54" parent="53" relname="condition">в случае расширения классификации (кластеризации) по результатам выполнения п. 9 и 2;</segment>
+		<segment id="55" parent="106" relname="sequence">12\. формирование оценок защищенности информационной сети АКБ, исходя и з результатов выполнения п.10 и распределения механизмов защиты по иерархии системы активного тестирования корпоративной сети;</segment>
+		<segment id="56" parent="136" relname="span">13\. анализ структуры связей нейро-нечетких классификаторов, системы правил нечеткого логического вывода и комплекса оценок защищенности информационной сети АКБ по п. 12</segment>
+		<segment id="57" parent="56" relname="purpose">для определения интенсивности использования МЗ в структуре CAT;</segment>
+		<segment id="58" parent="106" relname="sequence">14\. формирование спецификации на разработку отсутствующих механизмов защиты;</segment>
+		<segment id="59" parent="158" relname="span">15\. коррекция системы активного тестирования корпоративной сети</segment>
+		<segment id="60" parent="59" relname="cause">за счет расширения перечня используемых механизмов защиты и их размещения в адаптивной CAT;</segment>
+		<segment id="61" parent="137" relname="span">16\. повторение этапов п. 9-15 в процессе эксплуатации CAT</segment>
+		<segment id="62" parent="138" relname="joint">для регулярного обновления базы знаний системы активного тестирования корпоративной сети</segment>
+		<segment id="63" parent="138" relname="joint">и накопления опыта по устранению уязвимостей информационной сети АКБ.</segment>
+		<segment id="64" parent="65" relname="preparation">Методика построения политики безопасности информационной сети АКБ.</segment>
+		<segment id="65" parent="139" relname="span">В ходе проведения оптимизации корпоративной сети АКБ в соответствии с алгоритмом активного тестирования корпоративной сети происходит выявление ранее неизвестных уязвимостей.</segment>
+		<segment id="66" parent="119" relname="joint">Необходимо предпринимать оперативные меры</segment>
+		<segment id="67" parent="119" relname="joint">и проводить мероприятия по модернизации СЗИ,</segment>
+		<segment id="68" parent="126" relname="purpose">направленные на своевременное устранение выявленных уязвимостей.</segment>
+		<segment id="69" parent="113" relname="joint">Критерием необходимости модернизации СЗИ, с одной стороны, являются расчетные показатели качества обеспечения информационной безопасности КИС (рейтинг защищенности корпоративной сети АКБ) [6], а, с другой - такие показатели экономической целесообразности модификации СЗИ, как чистая приведенная стоимость, индекс рентабельности и срок окупаемости инвестиций [9].</segment>
+		<segment id="70" parent="121" relname="span">Рисунок иллюстрирует основные этапы методики построения политики безопасности,</segment>
+		<segment id="71" parent="70" relname="purpose">которая позволяет сформулировать практические рекомендации по внесению изменений в действующую политику безопасности АКБ.</segment>
+		<segment id="72" parent="117" relname="preparation">Заключение</segment>
+		<segment id="73" parent="116" relname="joint">Предложенный алгоритм за счет регулярного тестирования корпоративной сети АКБ производит оптимизацию размещения механизмов защиты в структуре системы активного тестирования по критерию максимизации уровня защищенности.</segment>
+		<segment id="74" parent="128" relname="span">Наличие адаптивных средств</segment>
+		<segment id="75" parent="74" relname="purpose">позволяет циклическим выполнением процедур обучения и последующего анализа информационных полей нейро-нечетких сетей обеспечить постоянный мониторинг уязвимостей корпоративной сети АКБ.</segment>
+		<segment id="76" parent="121" relname="elaboration">Рис. Основные этапы методики построения политики безопасности</segment>
+		<segment id="77" parent="78" relname="preparation">Литература</segment>
+		<segment id="78" relname="antithesis">1\. Нестерук Г.Ф., Осовецкий Л.Г., Нестерук Ф.Г. О применении нейро-нечетких сетей в адаптивных системах информационной защиты. // Нейроинформатика-2005: Материалы VII всероссийской научно-технической конференции. М.: МИФИ (ТУ), 2005. 4.1. С. 163-171. 2\. Negnevitsky M. Artificial intelligence: a guide to intelligent systems. // Addison-Wesley, 2002. 394 p. 3\. Коржов В. Моделирование угроз. // Computerword Россия. 2005, № 18. С. 34. 4\. Звонов Д.В. Системы активного тестирования при построении комплексных систем обеспечения безопасности корпоративных сетевых технологий. // Материалы 2-го международного научно-практического семинара «Безопасные информационные технологии - XXI». СПб, 2000. 5\. Осовецкий Л., Шевченко В. Оценка защищенности сетей и систем. // Экспресс- электроника. 2002. № 2-3. С. 20-24. 6\. Нестерук Ф.Г., Осовецкий Л.Г., Штрик A.A., Жигулин Г.П. К оценке информационных ресурсов и безопасности глобальных компьютерных систем. // Перспективные информационные технологии и интеллектуальные системы. 2004. № 4. 7\. Карпычев В.Ю., Минаев В.А. Цена информационной безопасности. // Системы безопасности. 2003. № 5. С. 128-130. 8\. Жижелев A.B., Панфилов А.П., Язов Ю.К., Батищев Р.В. К оценке эффективности защиты информации в телекоммуникационных системах посредством нечетких множеств // Изв. вузов. Приборостроение. 2003. Т. 46. № 7. С. 22-29. 9\. Инвестиции: Учебник / Под ред. В.В. Ковалева, В.В. Иванова, В.А. Лялина // М.: ТК Велби, 2003. 440 с. </segment>
+		<group id="82" type="span" parent="92" relname="preparation"/>
+		<group id="83" type="multinuc" parent="6" relname="purpose"/>
+		<group id="86" type="span" parent="13" relname="purpose"/>
+		<group id="89" type="span" parent="125" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="92" type="span" relname="antithesis"/>
+		<group id="94" type="multinuc" parent="18" relname="purpose"/>
+		<group id="95" type="multinuc" relname="antithesis"/>
+		<group id="96" type="span" parent="151" relname="span"/>
+		<group id="99" type="multinuc" parent="101" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="101" type="multinuc" relname="antithesis"/>
+		<group id="104" type="span" parent="106" relname="sequence"/>
+		<group id="105" type="span" parent="106" relname="sequence"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" relname="antithesis"/>
+		<group id="113" type="multinuc" parent="141" relname="span"/>
+		<group id="114" type="span" parent="140" relname="span"/>
+		<group id="116" type="multinuc" parent="117" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" relname="antithesis"/>
+		<group id="119" type="multinuc" parent="126" relname="span"/>
+		<group id="121" type="span" parent="159" relname="span"/>
+		<group id="122" type="span" parent="1" relname="attribution"/>
+		<group id="123" type="span" parent="90" relname="joint"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="125" type="multinuc" parent="90" relname="joint"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="127" type="span" parent="113" relname="joint"/>
+		<group id="128" type="span" parent="116" relname="joint"/>
+		<group id="135" type="span" parent="106" relname="sequence"/>
+		<group id="136" type="span" parent="106" relname="sequence"/>
+		<group id="137" type="span" parent="106" relname="sequence"/>
+		<group id="138" type="multinuc" parent="61" relname="purpose"/>
+		<group id="139" type="span" parent="114" relname="preparation"/>
+		<group id="140" type="span" relname="antithesis"/>
+		<group id="141" type="span" parent="114" relname="span"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="145" type="span" relname="antithesis"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="142" relname="joint"/>
+		<group id="148" type="span" parent="142" relname="joint"/>
+		<group id="149" type="span" parent="99" relname="joint"/>
+		<group id="150" type="span" parent="28" relname="purpose"/>
+		<group id="151" type="span" parent="99" relname="joint"/>
+		<group id="152" type="span" parent="96" relname="elaboration"/>
+		<group id="153" type="span" parent="101" relname="joint"/>
+		<group id="154" type="span" parent="33" relname="cause"/>
+		<group id="155" type="span" parent="105" relname="span"/>
+		<group id="156" type="span" parent="106" relname="sequence"/>
+		<group id="157" type="span" parent="106" relname="sequence"/>
+		<group id="158" type="span" parent="106" relname="sequence"/>
+		<group id="159" type="span" parent="141" relname="elaboration"/>
+  </body>
+</rst>

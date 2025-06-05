@@ -1,0 +1,269 @@
+# sent_id = 1
+# text = Spendenjagd
+1	Spendenjagd	Spendenjagd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Ein Hilfstransport jagt den nächsten .
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Hilfstransport	Hilfstransport	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	jagt	jagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	nächsten	nächster	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	oa	_	_
+6	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 3
+# text = In regelmäßigen Abständen sind in den Zeitungen neue Spendenaufrufe oder Berichte von Hilfstransporten zu lesen .
+1	In	in	ADP	_		4	mo	_	_
+2	regelmäßigen	regelmäßig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Abständen	Abstand	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	1	nk	_	_
+4	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	in	in	ADP	_		4	mo	_	_
+6	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	nk	_	_
+7	Zeitungen	Zeitung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+8	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	nk	_	_
+9	Spendenaufrufe	Spendenaufrufe	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	15	oa	_	_
+10	oder	oder	CCONJ	_		9	cd	_	_
+11	Berichte	Bericht	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	cj	_	_
+12	von	von	ADP	_		11	pg	_	_
+13	Hilfstransporten	Hilfstransport	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	12	nk	_	_
+14	zu	zu	PART	_		15	pm	_	_
+15	lesen	lesen	VERB	_	VerbForm=Inf	4	sb	_	_
+16	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = Überall starten Sendungen ,
+1	Überall	überall	ADV	_		2	mo	_	_
+2	starten	starten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Sendungen	Sendung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	sb	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = Vereine engagieren sich , Kirchengruppen , Familien .
+1	Vereine	Verein	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+2	engagieren	engagieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	Kirchengruppen	Kirchengruppe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	cj	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	Familien	Familie	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	cj	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Die Aktion der Kirchengemeinden Templin und Lindow für ein Siebenbürger Krankenhaus ist ein Körnchen im Sandberg .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Aktion	Aktion	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	sb	_	_
+3	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	nk	_	_
+4	Kirchengemeinden	Kirchengemeinde	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	ag	_	_
+5	Templin	Templin	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	4	nk	_	_
+6	und	und	CCONJ	_		5	cd	_	_
+7	Lindow	Lindow	PROPN	_	Case=Nom|Number=Sing	6	cj	_	_
+8	für	für	ADP	_		2	mnr	_	_
+9	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+10	Siebenbürger	Siebenbürger	ADJ	_	Degree=Pos	11	nk	_	_
+11	Krankenhaus	Krankenhaus	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nk	_	_
+12	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	nk	_	_
+14	Körnchen	Körnchen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	pd	_	_
+15	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	mnr	_	_
+16	Sandberg	Sandberg	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	15	nk	_	_
+17	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 7
+# text = Nach dem Motto " jeden Tag eine gute Tat " werden die Sammelaktionen immer mehr .
+1	Nach	nach	ADP	_		9	mo	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Motto	Motto	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+4	"	--	PUNCT	_		3	punct	_	_
+5	jeden	jeder	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	6	nk	_	_
+6	Tag	Tag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	mo	_	_
+7	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+8	gute	gut	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Tat	Tat	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+10	"	--	PUNCT	_		9	punct	_	_
+11	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	nk	_	_
+13	Sammelaktionen	Sammelaktion	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	sb	_	_
+14	immer	immer	ADV	_		15	mo	_	_
+15	mehr	mehr	ADV	_		11	mo	_	_
+16	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 8
+# text = Hilfe für die Krankenhäuser in Rumänien ,
+1	Hilfe	Hilfe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+2	für	für	ADP	_		1	mnr	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	nk	_	_
+4	Krankenhäuser	Krankenhaus	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	nk	_	_
+5	in	in	ADP	_		4	mnr	_	_
+6	Rumänien	Rumänien	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = Unterstützung für die hungernden Menschen im Sudan ,
+1	Unterstützung	Unterstützung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+2	für	für	ADP	_		1	mnr	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+4	hungernden	hungernd	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	nk	_	_
+5	Menschen	Mensch	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	nk	_	_
+6	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	5	mnr	_	_
+7	Sudan	Sudan	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+8	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = Geld für die Opfer einer vernichtenden Überschwemmung ,
+1	Geld	Geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	ROOT	_	_
+2	für	für	ADP	_		1	mnr	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	nk	_	_
+4	Opfer	Opfer	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	nk	_	_
+5	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	vernichtenden	vernichtend	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Überschwemmung	Überschwemmung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+8	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 11
+# text = Spenden , um die Kinder in Afghanistan durch den Winter zu bringen :
+1	Spenden	Spende	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	um	um	SCONJ	_		12	cp	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	nk	_	_
+5	Kinder	Kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	oa	_	_
+6	in	in	ADP	_		5	mnr	_	_
+7	Afghanistan	Afghanistan	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	durch	durch	ADP	_		12	mo	_	_
+9	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Winter	Winter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nk	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	bringen	bringen	VERB	_	VerbForm=Inf	1	mo	_	_
+13	:	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 12
+# text = Die verwirrende Zahl von Spendenbegehren kann einen schnell verzweifeln lassen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	verwirrende	verwirrend	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Zahl	Zahl	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+4	von	von	ADP	_		3	pg	_	_
+5	Spendenbegehren	Spendenbegehr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	4	nk	_	_
+6	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	oa	_	_
+8	schnell	schnell	ADV	_	Degree=Pos	9	mo	_	_
+9	verzweifeln	verzweifeln	VERB	_	VerbForm=Inf	10	oc	_	_
+10	lassen	lassen	VERB	_	VerbForm=Inf	6	oc	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 13
+# text = Da muss mancher zweifeln , ob denn so viele Spendenappelle nötig sind .
+1	Da	da	ADV	_		2	mo	_	_
+2	muss	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	mancher	mancher	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	sb	_	_
+4	zweifeln	zweifeln	VERB	_	VerbForm=Inf	2	oc	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	ob	ob	SCONJ	_		12	cp	_	_
+7	denn	denn	ADV	_		12	mo	_	_
+8	so	so	ADV	_		9	mo	_	_
+9	viele	vieler	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	10	nk	_	_
+10	Spendenappelle	Spendenappell	NOUN	_	Case=Nom|Number=Plur	12	sb	_	_
+11	nötig	nötig	ADV	_	Degree=Pos	12	pd	_	_
+12	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Für Dirk Bock und alle anderen Helfer ist das keine Frage .
+1	Für	für	ADP	_		8	mo	_	_
+2	Dirk	Dirk	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	pnc	_	_
+3	Bock	Bock	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	nk	_	_
+4	und	und	CCONJ	_		1	cd	_	_
+5	alle	aller	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	7	nk	_	_
+6	anderen	anderer	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	nk	_	_
+7	Helfer	Helfer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cj	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	sb	_	_
+10	keine	kein	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	11	nk	_	_
+11	Frage	Frage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	pd	_	_
+12	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 15
+# text = Wer erlebt hat , in welchem Elend andere Menschen leben ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	sb	_	_
+2	erlebt	erleben	VERB	_	VerbForm=Part	3	oc	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	in	in	ADP	_		10	mo	_	_
+6	welchem	welcher	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Int	7	nk	_	_
+7	Elend	Elend	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+8	andere	anderer	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	nk	_	_
+9	Menschen	Mensch	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	sb	_	_
+10	leben	leben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+11	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 16
+# text = wie sie hungern ,
+1	wie	wie	SCONJ	_	PronType=Int	3	mo	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	sb	_	_
+3	hungern	hungern	VERB	_	VerbForm=Inf	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 17
+# text = keine Kleidung haben
+1	keine	kein	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	2	nk	_	_
+2	Kleidung	Kleidung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	oa	_	_
+3	haben	haben	VERB	_	VerbForm=Inf	3	ROOT	_	_
+
+# sent_id = 18
+# text = oder ein Kinderkrankenhaus einfach ohne Lebensmittel dasteht ,
+1	oder	oder	CCONJ	_		7	ju	_	_
+2	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Kinderkrankenhaus	Kinderkrankenhaus	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	sb	_	_
+4	einfach	einfach	ADV	_		7	mo	_	_
+5	ohne	ohne	ADP	_		7	mo	_	_
+6	Lebensmittel	Lebensmittel	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	nk	_	_
+7	dasteht	dastehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 19
+# text = für den ist das ganz klar :
+1	für	für	ADP	_		3	mo	_	_
+2	den	der	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	1	nk	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	sb	_	_
+5	ganz	ganz	ADV	_		6	mo	_	_
+6	klar	klar	ADV	_	Degree=Pos	3	pd	_	_
+7	:	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 20
+# text = Von selbst können sich die Ärmsten der Armen nicht retten .
+1	Von	von	ADP	_		3	mo	_	_
+2	selbst	selbst	ADV	_		1	nk	_	_
+3	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	6	nk	_	_
+6	Ärmsten	Ärmsten	NOUN	_	Case=Nom|Number=Plur	3	sb	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	8	nk	_	_
+8	Armen	arme	NOUN	_	Case=Gen|Number=Plur	6	ag	_	_
+9	nicht	nicht	PART	_		3	ng	_	_
+10	retten	retten	VERB	_	VerbForm=Inf	3	oc	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 21
+# text = Es kommt weniger darauf an , wem man hilft ,
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	weniger	weniger	ADV	_		2	mo	_	_
+4	darauf	darauf	ADV	_		2	op	_	_
+5	an	an	ADP	_		2	svp	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	wem	wem	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Int	9	da	_	_
+8	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	9	sb	_	_
+9	hilft	helfen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	re	_	_
+10	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 22
+# text = wichtig ist vor allem , dass man hilft .
+1	wichtig	wichtig	ADV	_	Degree=Pos	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	vor	vor	ADP	_		2	mo	_	_
+4	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	3	nk	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	dass	dass	SCONJ	_		8	cp	_	_
+7	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	8	sb	_	_
+8	hilft	helfen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+

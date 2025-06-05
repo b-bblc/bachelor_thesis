@@ -1,0 +1,261 @@
+# sent_id = 1
+# text = Allianz mit Fragezeichen
+1	Allianz	Allianz	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+2	mit	mit	ADP	_		1	mnr	_	_
+3	Fragezeichen	Fragezeich	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	2	nk	_	_
+
+# sent_id = 2
+# text = Manchmal sind es die kleinen Meldungen am Rande , die mehr über diesen Krieg aussagen als die Erfolgsberichte der Militärs .
+1	Manchmal	manchmal	ADV	_		2	mo	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	nk	_	_
+5	kleinen	klein	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	6	nk	_	_
+6	Meldungen	Meldung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	pd	_	_
+7	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	6	mnr	_	_
+8	Rande	Rand	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	,	--	PUNCT	_		6	punct	_	_
+10	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	15	sb	_	_
+11	mehr	mehr	ADV	_		15	mo	_	_
+12	über	über	ADP	_		15	mo	_	_
+13	diesen	dieser	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	14	nk	_	_
+14	Krieg	Krieg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	nk	_	_
+15	aussagen	aussagen	VERB	_	VerbForm=Inf	6	rc	_	_
+16	als	als	ADP	_		18	cm	_	_
+17	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	nk	_	_
+18	Erfolgsberichte	Erfolgsbericht	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	11	cc	_	_
+19	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	nk	_	_
+20	Militärs	Militär	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	18	ag	_	_
+21	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Nach dem Fall von Masar-i-Scharif
+1	Nach	nach	ADP	_		1	ROOT	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Fall	Fall	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+4	von	von	ADP	_		3	pg	_	_
+5	Masar-i-Scharif	Masar-i-Scharif	PROPN	_	Case=Dat|Number=Sing	4	nk	_	_
+
+# sent_id = 4
+# text = sollen sich vor den Friseurläden der Stadt lange Schlangen von Männern gebildet haben ,
+1	sollen	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	12	oa	_	_
+3	vor	vor	ADP	_		12	mo	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+5	Friseurläden	Friseurläde	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Stadt	Stadt	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	ag	_	_
+8	lange	lang	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+9	Schlangen	Schlange	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	12	oa	_	_
+10	von	von	ADP	_		9	pg	_	_
+11	Männern	Mann	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	nk	_	_
+12	gebildet	bilden	VERB	_	VerbForm=Part	13	oc	_	_
+13	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+14	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 5
+# text = die sich ihre Bärte abrasieren lassen wollten , hieß es gestern .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	sb	_	_
+2	sich	sich	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	5	da	_	_
+3	ihre	ihr	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	nk	_	_
+4	Bärte	Bärt	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	oa	_	_
+5	abrasieren	abrasieren	VERB	_	VerbForm=Inf	6	oc	_	_
+6	lassen	lassen	VERB	_	VerbForm=Inf	7	oc	_	_
+7	wollten	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	oc	_	_
+8	,	--	PUNCT	_		9	punct	_	_
+9	hieß	heißen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	ep	_	_
+11	gestern	gestern	ADV	_		9	mo	_	_
+12	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 6
+# text = Auch sei aus den Restaurants laute Musik zu hören gewesen ,
+1	Auch	auch	ADV	_		10	mo	_	_
+2	sei	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	aus	aus	ADP	_		6	mo	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	nk	_	_
+5	Restaurants	Restaurant	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	3	nk	_	_
+6	laute	laut	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Musik	Musik	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	sb	_	_
+8	zu	zu	PART	_		9	pm	_	_
+9	hören	hören	VERB	_	VerbForm=Inf	10	oc	_	_
+10	gewesen	sein	AUX	_	VerbForm=Part	2	oc	_	_
+11	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = was unter dem Regime der Taliban verboten war .
+1	was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	8	sb	_	_
+2	unter	unter	ADP	_		7	mo	_	_
+3	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Regime	Regime	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	6	nk	_	_
+6	Taliban	Taliban	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	4	ag	_	_
+7	verboten	verbieten	VERB	_	VerbForm=Part	8	pd	_	_
+8	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 8
+# text = Einige Frauen hätten sich sogar getraut , ohne Schleier auf die Straße zu gehen .
+1	Einige	einiger	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	2	nk	_	_
+2	Frauen	Frau	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	sb	_	_
+3	hätten	haben	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	6	oa	_	_
+5	sogar	sogar	ADV	_		6	mo	_	_
+6	getraut	trauen	VERB	_	VerbForm=Part	3	oc	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	ohne	ohne	SCONJ	_		14	cp	_	_
+9	Schleier	Schleier	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	oa	_	_
+10	auf	auf	ADP	_		14	mo	_	_
+11	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Straße	Straße	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	nk	_	_
+13	zu	zu	PART	_		14	pm	_	_
+14	gehen	gehen	VERB	_	VerbForm=Inf	6	mo	_	_
+15	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 9
+# text = Bei solchen Nachrichten
+1	Bei	bei	ADP	_		1	ROOT	_	_
+2	solchen	solcher	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	3	nk	_	_
+3	Nachrichten	Nachricht	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	1	nk	_	_
+
+# sent_id = 10
+# text = kann man sich ein rasches Vorrücken der Nordallianz auf Kabul eigentlich nur wünschen .
+1	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	sb	_	_
+3	sich	sich	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	oa	_	_
+4	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+5	rasches	rasch	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	nk	_	_
+6	Vorrücken	vorrücken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	oa	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Nordallianz	Nordallianz	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	ag	_	_
+9	auf	auf	ADP	_		8	mnr	_	_
+10	Kabul	Kabul	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	9	nk	_	_
+11	eigentlich	eigentlich	ADV	_		1	mo	_	_
+12	nur	nur	ADV	_		13	mo	_	_
+13	wünschen	wünschen	VERB	_	VerbForm=Inf	1	oc	_	_
+14	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 11
+# text = Wenn da nicht die politischen Bedenken wären , dass der Krieg gegen die Taliban sich zu einem neuen Bürgerkrieg ausweiten könnte .
+1	Wenn	wenn	SCONJ	_		7	cp	_	_
+2	da	da	ADV	_		7	mo	_	_
+3	nicht	nicht	PART	_		7	ng	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	nk	_	_
+5	politischen	politisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	6	nk	_	_
+6	Bedenken	Bedenken	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	sb	_	_
+7	wären	sein	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	dass	dass	SCONJ	_		21	cp	_	_
+10	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Krieg	Krieg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	sb	_	_
+12	gegen	gegen	ADP	_		11	mnr	_	_
+13	die	der	DET	_	Case=Acc|Definite=Def|Number=Plur|PronType=Art	14	nk	_	_
+14	Taliban	Taliban	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	12	nk	_	_
+15	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	oa	_	_
+16	zu	zu	ADP	_		20	mo	_	_
+17	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	nk	_	_
+18	neuen	neu	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	19	nk	_	_
+19	Bürgerkrieg	Bürgerkrieg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	nk	_	_
+20	ausweiten	ausweiten	VERB	_	VerbForm=Inf	21	oc	_	_
+21	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	sb	_	_
+22	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 12
+# text = Sollte die Nordallianz sich als Herrscher Afghanistans gebärden ,
+1	Sollte	sollen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Nordallianz	Nordallianz	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+5	als	als	ADP	_		8	mo	_	_
+6	Herrscher	Herrscher	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nk	_	_
+7	Afghanistans	Afghanistan	PROPN	_	Case=Gen|Number=Sing	6	ag	_	_
+8	gebärden	gebärden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+9	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 13
+# text = dann wäre nichts gewonnen .
+1	dann	dann	ADV	_		4	mo	_	_
+2	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	nichts	nichts	PRON	_	Gender=Neut|PronType=Ind	2	sb	_	_
+4	gewonnen	gewinnen	VERB	_	VerbForm=Part	2	oc	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Das lose Bündnis aus Minderheiten , das schon einmal brutal die Macht über die Paschtunen-Mehrheit ausübte , ist eben nicht nur Teil der Lösung ,
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+2	lose	lose	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nk	_	_
+3	Bündnis	Bündnis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	sb	_	_
+4	aus	aus	ADP	_		3	mnr	_	_
+5	Minderheiten	Minderheit	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	4	nk	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	16	sb	_	_
+8	schon	schon	ADV	_		9	mo	_	_
+9	einmal	einmal	ADV	_		16	mo	_	_
+10	brutal	brutal	ADV	_	Degree=Pos	16	mo	_	_
+11	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Macht	Macht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	oa	_	_
+13	über	über	ADP	_		12	mnr	_	_
+14	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+15	Paschtunen-Mehrheit	Paschtunen-Mehrheit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	nk	_	_
+16	ausübte	ausüben	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	rc	_	_
+17	,	--	PUNCT	_		18	punct	_	_
+18	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	ROOT	_	_
+19	eben	eben	ADV	_		18	mo	_	_
+20	nicht	nicht	PART	_		21	ng	_	_
+21	nur	nur	ADV	_		22	mo	_	_
+22	Teil	Teil	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	pd	_	_
+23	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	nk	_	_
+24	Lösung	Lösung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	22	ag	_	_
+25	,	--	PUNCT	_		18	punct	_	_
+
+# sent_id = 15
+# text = sondern auch Teil des Problems .
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	auch	auch	ADV	_		3	mo	_	_
+3	Teil	Teil	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	cj	_	_
+4	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Problems	Problem	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	ag	_	_
+6	.	--	PUNCT	_		6	ROOT	_	_
+
+# sent_id = 16
+# text = Das Problem der Amerikaner ist es nun , die Nordallianz zu bremsen und deren alleinige Machtübernahme zu verhindern .
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Problem	Problem	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	pd	_	_
+3	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Amerikaner	Amerikaner	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	ag	_	_
+5	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	sb	_	_
+7	nun	nun	ADV	_		5	mo	_	_
+8	,	--	PUNCT	_		5	punct	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Nordallianz	Nordallianz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	oa	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	bremsen	bremsen	VERB	_	VerbForm=Inf	6	re	_	_
+13	und	und	CCONJ	_		12	cd	_	_
+14	deren	der	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	16	ag	_	_
+15	alleinige	alleinig	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	nk	_	_
+16	Machtübernahme	Machtübernahme	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	oa	_	_
+17	zu	zu	PART	_		18	pm	_	_
+18	verhindern	verhindern	VERB	_	VerbForm=Inf	13	cj	_	_
+19	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 17
+# text = Gelingt das nicht ,
+1	Gelingt	gelingen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	sb	_	_
+3	nicht	nicht	PART	_		1	ng	_	_
+4	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 18
+# text = steht die Glaubwürdigkeit der gesamten Anti-Terror-Operation auf dem Spiel .
+1	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Glaubwürdigkeit	Glaubwürdigkeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	gesamten	gesamt	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Anti-Terror-Operation	Anti-Terror-Operation	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+7	auf	auf	ADP	_		1	mo	_	_
+8	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	Spiel	Spiel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+10	.	--	PUNCT	_		1	punct	_	_
+

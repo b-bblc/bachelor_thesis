@@ -1,0 +1,269 @@
+# sent_id = 1
+# text = Honigsüße Nachricht
+1	Honigsüße	Honigsüße	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nk	_	_
+2	Nachricht	Nachricht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Sollte es Wirklichkeit werden , was die Procurand AG gestern verkündete ,
+1	Sollte	sollen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	sb	_	_
+3	Wirklichkeit	Wirklichkeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	pd	_	_
+4	werden	werden	AUX	_	VerbForm=Inf	1	oc	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	was	wer	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	11	oa	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+8	Procurand	Procurand	PROPN	_		9	nk	_	_
+9	AG	AG	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+10	gestern	gestern	ADV	_		11	mo	_	_
+11	verkündete	verkünden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	rc	_	_
+12	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 3
+# text = wäre es fast zu schön , um wahr zu sein .
+1	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	sb	_	_
+3	fast	fast	ADV	_		5	mo	_	_
+4	zu	zu	PART	_		5	mo	_	_
+5	schön	schön	ADV	_	Degree=Pos	1	pd	_	_
+6	,	--	PUNCT	_		1	punct	_	_
+7	um	um	SCONJ	_		10	cp	_	_
+8	wahr	wahr	ADV	_	Degree=Pos	10	pd	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	sein	sein	AUX	_	VerbForm=Inf	2	re	_	_
+11	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 4
+# text = 40 neue Jobs - allein diese Nachricht ist Honig auf den Lippen vieler Mittelmärker .
+1	40	40	NUM	_		3	nk	_	_
+2	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Jobs	Job	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	sb	_	_
+4	-	--	PUNCT	_		3	punct	_	_
+5	allein	allein	ADV	_		7	mo	_	_
+6	diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	nk	_	_
+7	Nachricht	Nachricht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	app	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	Honig	Honig	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	sb	_	_
+10	auf	auf	ADP	_		8	mo	_	_
+11	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	nk	_	_
+12	Lippen	Lippe	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	nk	_	_
+13	vieler	vieler	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	14	nk	_	_
+14	Mittelmärker	Mittelmärker	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	ag	_	_
+15	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 5
+# text = Wünschenswert wäre nicht nur das ,
+1	Wünschenswert	wünschenswert	ADV	_	Degree=Pos	2	pd	_	_
+2	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		4	ng	_	_
+4	nur	nur	ADV	_		5	mo	_	_
+5	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 6
+# text = sondern auch , dass mit der Investruine am Görnsee endlich etwas geschieht .
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	auch	auch	ADV	_		12	mo	_	_
+3	,	--	PUNCT	_		12	punct	_	_
+4	dass	dass	SCONJ	_		12	cp	_	_
+5	mit	mit	ADP	_		12	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Investruine	Investruine	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mnr	_	_
+9	Görnsee	Görnsee	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	endlich	endlich	ADV	_		12	mo	_	_
+11	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	12	oa	_	_
+12	geschieht	geschehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cj	_	_
+13	.	--	PUNCT	_		13	ROOT	_	_
+
+# sent_id = 7
+# text = Nie ist das halbfertige Hotel bezogen worden .
+1	Nie	nie	ADV	_		7	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+4	halbfertige	halbfertig	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	nk	_	_
+5	Hotel	Hotel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+6	bezogen	beziehen	VERB	_	VerbForm=Part	7	oc	_	_
+7	worden	werden	AUX	_	VerbForm=Part	2	oc	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Im Erdgeschoss und vermutlich nicht nur dort , macht sich Schimmel breit .
+1	Im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	9	mo	_	_
+2	Erdgeschoss	Erdgeschoss	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	und	und	CCONJ	_		1	cd	_	_
+4	vermutlich	vermutlich	ADV	_		6	mo	_	_
+5	nicht	nicht	PART	_		6	ng	_	_
+6	nur	nur	ADV	_		7	mo	_	_
+7	dort	dort	ADV	_		3	cj	_	_
+8	,	--	PUNCT	_		9	punct	_	_
+9	macht	machen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	oa	_	_
+11	Schimmel	Schimmel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	sb	_	_
+12	breit	breit	ADV	_	Degree=Pos	9	mo	_	_
+13	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 9
+# text = Mit anderen Worten , die Bausubstanz wird durch den Leerstand nicht besser .
+1	Mit	mit	ADP	_		7	mo	_	_
+2	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	3	nk	_	_
+3	Worten	Wort	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	1	nk	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Bausubstanz	Bausubstanz	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+7	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	durch	durch	ADP	_		7	mo	_	_
+9	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Leerstand	Leerstand	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nk	_	_
+11	nicht	nicht	PART	_		7	ng	_	_
+12	besser	gut	ADV	_	Degree=Cmp	7	pd	_	_
+13	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 10
+# text = Zudem erinnert der wuchtige Mehrgeschosser an ein Kapitel der jüngsten Grebser Geschichte ,
+1	Zudem	zudem	ADV	_		2	mo	_	_
+2	erinnert	erinnern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	wuchtige	wuchtig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Mehrgeschosser	Mehrgeschosser	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+6	an	an	ADP	_		2	op	_	_
+7	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+8	Kapitel	Kapitel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nk	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+10	jüngsten	jung	ADJ	_	Case=Gen|Degree=Sup|Gender=Fem|Number=Sing	11	nk	_	_
+11	Grebser	Grebser	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	ag	_	_
+12	Geschichte	Geschichte	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nk	_	_
+13	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = die nicht nur die Gemeindevertreter nur zu gerne langsam vergessen würden .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	sb	_	_
+2	nicht	nicht	PART	_		3	ng	_	_
+3	nur	nur	ADV	_		5	mo	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Gemeindevertreter	Gemeindevertreter	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	sb	_	_
+6	nur	nur	ADV	_		8	mo	_	_
+7	zu	zu	PART	_		8	mo	_	_
+8	gerne	gerne	ADV	_		10	mo	_	_
+9	langsam	langsam	ADV	_	Degree=Pos	10	mo	_	_
+10	vergessen	vergessen	VERB	_	VerbForm=Part	11	oc	_	_
+11	würden	werden	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	ROOT	_	_
+12	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 12
+# text = Gebaut hat das Hotel nämlich ein Investor mit Geld , das er sich von der Kommune erschlich .
+1	Gebaut	Gebaut	VERB	_	VerbForm=Part	2	oc	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Hotel	Hotel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	nämlich	nämlich	ADV	_		2	mo	_	_
+6	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Investor	Investor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+8	mit	mit	ADP	_		7	mnr	_	_
+9	Geld	Geld	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+10	,	--	PUNCT	_		7	punct	_	_
+11	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	17	oa	_	_
+12	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	sb	_	_
+13	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	oa	_	_
+14	von	von	ADP	_		17	mo	_	_
+15	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	Kommune	Kommune	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+17	erschlich	erschlich	ADV	_	Degree=Pos	2	rc	_	_
+18	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = Fördergeld aus einem Kommunalkredit .
+1	Fördergeld	Fördergeld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	ROOT	_	_
+2	aus	aus	ADP	_		1	mnr	_	_
+3	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Kommunalkredit	Kommunalkredit	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+5	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 14
+# text = Der Mann bezahlte viele Handwerker nicht
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Mann	Mann	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	bezahlte	bezahlen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	viele	vieler	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	5	nk	_	_
+5	Handwerker	Handwerker	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	oa	_	_
+6	nicht	nicht	PART	_		3	ng	_	_
+
+# sent_id = 15
+# text = und wurde voriges Jahr zu einer mehrjährigen Haftstrafe verurteilt .
+1	und	und	CCONJ	_		2	ju	_	_
+2	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	voriges	vorig	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Jahr	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	mo	_	_
+5	zu	zu	ADP	_		9	op	_	_
+6	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+7	mehrjährigen	mehrjährig	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Haftstrafe	Haftstrafe	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+9	verurteilt	verurteilen	VERB	_	VerbForm=Part	2	oc	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Doch seine Vergangenheit schien wie ein Fluch über dem Hotelkomplex zu liegen .
+1	Doch	doch	CCONJ	_		4	ju	_	_
+2	seine	sein	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	nk	_	_
+3	Vergangenheit	Vergangenheit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	schien	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	wie	wie	ADP	_		7	cm	_	_
+6	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Fluch	Fluch	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	mo	_	_
+8	über	über	ADP	_		7	mnr	_	_
+9	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Hotelkomplex	Hotelkomplex	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	liegen	liegen	VERB	_	VerbForm=Inf	4	oc	_	_
+13	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 17
+# text = Jahrelang hatte das Amtsgericht Potsdam umsonst versucht , es an den Mann zu bringen .
+1	Jahrelang	jahrelang	ADV	_	Degree=Pos	7	mo	_	_
+2	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Amtsgericht	Amtsgericht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	Potsdam	Potsdam	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	4	nk	_	_
+6	umsonst	umsonst	ADV	_		7	mo	_	_
+7	versucht	versuchen	VERB	_	VerbForm=Part	2	oc	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	oa	_	_
+10	an	an	ADP	_		14	mo	_	_
+11	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Mann	Mann	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	nk	_	_
+13	zu	zu	PART	_		14	pm	_	_
+14	bringen	bringen	VERB	_	VerbForm=Inf	7	oc	_	_
+15	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 18
+# text = Einmal schien es schon geglückt zu sein .
+1	Einmal	einmal	ADV	_		2	mo	_	_
+2	schien	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	schon	schon	ADV	_		5	mo	_	_
+5	geglückt	geglücken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	oc	_	_
+6	zu	zu	PART	_		7	pm	_	_
+7	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 19
+# text = Doch der Käufer zahlte nicht .
+1	Doch	doch	CCONJ	_		4	ju	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Käufer	Käufer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+4	zahlte	zahlen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	nicht	nicht	PART	_		4	ng	_	_
+6	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 20
+# text = Jetzt könnte das Seniorenheim dem Haus einen Sinn geben .
+1	Jetzt	jetzt	ADV	_		2	mo	_	_
+2	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Seniorenheim	Seniorenheim	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Haus	Haus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	da	_	_
+7	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Sinn	Sinn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	oa	_	_
+9	geben	geben	VERB	_	VerbForm=Inf	2	oc	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+

@@ -1,0 +1,260 @@
+# sent_id = 1
+# text = System
+1	System	System	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Der Rausschmiss der Öffentlichkeit aus dem Kita-Untersuchungs-Ausschuss mag für sich genommen nur ein Stück aus dem Tollhaus sein .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Rausschmiss	Rausschmiss	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	sb	_	_
+3	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Öffentlichkeit	Öffentlichkeit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	ag	_	_
+5	aus	aus	ADP	_		4	mnr	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+7	Kita-Untersuchungs-Ausschuss	Kita-Untersuchungs-Ausschuss	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+8	mag	mögen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	für	für	ADP	_		11	mo	_	_
+10	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	nk	_	_
+11	genommen	nehmen	VERB	_	VerbForm=Part	8	oc	_	_
+12	nur	nur	ADV	_		14	mo	_	_
+13	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	14	nk	_	_
+14	Stück	Stück	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	pd	_	_
+15	aus	aus	ADP	_		14	mnr	_	_
+16	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	nk	_	_
+17	Tollhaus	Tollhaus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	15	nk	_	_
+18	sein	sein	AUX	_	VerbForm=Inf	8	oc	_	_
+19	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 3
+# text = Doch aufgefädelt auf die Kette vieler Ereignisse rund um das Versagen der Verwaltung in Sachen Kitas ist dieser Akt nur die nächste Perle .
+1	Doch	doch	CCONJ	_		17	ju	_	_
+2	aufgefädelt	auffädeln	VERB	_	VerbForm=Part	17	mo	_	_
+3	auf	auf	ADP	_		2	mo	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Kette	Kette	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nk	_	_
+6	vieler	vieler	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Ind	7	nk	_	_
+7	Ereignisse	Ereignis	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	ag	_	_
+8	rund	rund	ADV	_		9	mo	_	_
+9	um	um	ADP	_		5	mnr	_	_
+10	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Versagen	versagen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	nk	_	_
+12	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	Verwaltung	Verwaltung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	ag	_	_
+14	in	in	ADP	_		11	mnr	_	_
+15	Sachen	Sache	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	14	nk	_	_
+16	Kitas	Kita	PROPN	_	Case=Gen|Number=Sing	15	ag	_	_
+17	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ROOT	_	_
+18	dieser	dieser	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	19	nk	_	_
+19	Akt	Akt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	sb	_	_
+20	nur	nur	ADV	_		23	mo	_	_
+21	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	nk	_	_
+22	nächste	nächster	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	nk	_	_
+23	Perle	Perle	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	pd	_	_
+24	.	--	PUNCT	_		17	punct	_	_
+
+# sent_id = 4
+# text = Es begann damit , dass die Eltern Druck machen mussten ,
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	begann	beginnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	damit	damit	ADV	_		2	mo	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	dass	dass	SCONJ	_		10	cp	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	7	nk	_	_
+7	Eltern	Eltern	NOUN	_	Case=Nom|Number=Plur	10	sb	_	_
+8	Druck	Druck	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	oa	_	_
+9	machen	machen	VERB	_	VerbForm=Inf	10	oc	_	_
+10	mussten	mussen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	oc	_	_
+11	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = damit überhaupt etwas geschieht .
+1	damit	damit	ADV	_		4	mo	_	_
+2	überhaupt	überhaupt	ADV	_		3	mo	_	_
+3	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	4	sb	_	_
+4	geschieht	geschehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 6
+# text = Die Verwaltung versprach Transparenz
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Verwaltung	Verwaltung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	versprach	versprechen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	Transparenz	Transparenz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	oa	_	_
+
+# sent_id = 7
+# text = und hat es bis heute nicht geschafft , die Eltern Kita für Kita präzise und detailliert über den Zustand der Häuser zu informieren .
+1	und	und	CCONJ	_		2	ju	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	oa	_	_
+4	bis	bis	ADP	_		7	mo	_	_
+5	heute	heute	ADV	_		4	nk	_	_
+6	nicht	nicht	PART	_		7	ng	_	_
+7	geschafft	schaffen	VERB	_	VerbForm=Part	2	oc	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	10	nk	_	_
+10	Eltern	Eltern	NOUN	_	Case=Nom|Number=Plur	23	oa	_	_
+11	Kita	Kita	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	oa	_	_
+12	für	für	ADP	_		11	mnr	_	_
+13	Kita	Kita	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nk	_	_
+14	präzise	präzise	ADV	_	Degree=Pos	23	mo	_	_
+15	und	und	CCONJ	_		14	cd	_	_
+16	detailliert	detailliert	ADV	_	Degree=Pos	15	cj	_	_
+17	über	über	ADP	_		23	op	_	_
+18	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	nk	_	_
+19	Zustand	Zustand	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	nk	_	_
+20	der	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	21	nk	_	_
+21	Häuser	Haus	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	19	ag	_	_
+22	zu	zu	PART	_		23	pm	_	_
+23	informieren	informieren	VERB	_	VerbForm=Inf	3	re	_	_
+24	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Offenbar selbst unzureichend in Kenntnis gesetzt ,
+1	Offenbar	offenbar	ADV	_	Degree=Pos	6	mo	_	_
+2	selbst	selbst	ADV	_		1	mo	_	_
+3	unzureichend	unzureichend	ADV	_	Degree=Pos	6	mo	_	_
+4	in	in	ADP	_		6	cvc	_	_
+5	Kenntnis	Kenntnis	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+6	gesetzt	setzen	VERB	_	VerbForm=Part	6	ROOT	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 9
+# text = bietet das Jugendamt unverbindliche Auskünfte -
+1	bietet	bieten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Jugendamt	Jugendamt	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	sb	_	_
+4	unverbindliche	unverbindlich	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+5	Auskünfte	Auskünfte	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	oa	_	_
+6	-	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = zuletzt im Jugendhilfeausschuss .
+1	zuletzt	zuletzt	ADV	_		2	mo	_	_
+2	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	2	ROOT	_	_
+3	Jugendhilfeausschuss	Jugendhilfeausschuss	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+4	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Die Eltern forderten einen Ausschuss , der den Skandal erhellt .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	nk	_	_
+2	Eltern	Eltern	NOUN	_	Case=Nom|Number=Plur	3	sb	_	_
+3	forderten	fordern	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Ausschuss	Ausschuss	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	oa	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	sb	_	_
+8	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Skandal	Skandal	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	oa	_	_
+10	erhellt	erhellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	rc	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 12
+# text = Sie hatten die Rechnung ohne SPD-Mann Kurt Kreisel gemacht ,
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	hatten	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Rechnung	Rechnung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	oa	_	_
+5	ohne	ohne	ADP	_		4	mnr	_	_
+6	SPD-Mann	SPD-Mann	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nk	_	_
+7	Kurt	Kurt	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	pnc	_	_
+8	Kreisel	Kreisel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nk	_	_
+9	gemacht	machen	VERB	_	VerbForm=Part	2	oc	_	_
+10	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = der gegen das Gremium schoss
+1	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	sb	_	_
+2	gegen	gegen	ADP	_		5	mo	_	_
+3	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Gremium	Gremium	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	nk	_	_
+5	schoss	schoss	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+
+# sent_id = 14
+# text = und zumindest erreichte , dass der Ausschuss nach Proporz besetzt wird .
+1	und	und	CCONJ	_		3	ju	_	_
+2	zumindest	zumindest	ADV	_		3	mo	_	_
+3	erreichte	erreichen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	dass	dass	SCONJ	_		11	cp	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Ausschuss	Ausschuss	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	sb	_	_
+8	nach	nach	ADP	_		10	mo	_	_
+9	Proporz	Proporz	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	besetzt	besetzen	VERB	_	VerbForm=Part	11	oc	_	_
+11	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+12	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = Verhindern konnte Kreisel den Ausschuss nicht ,
+1	Verhindern	Verhindern	VERB	_	VerbForm=Inf	2	oc	_	_
+2	konnte	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	Kreisel	Kreisel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Ausschuss	Ausschuss	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	oa	_	_
+6	nicht	nicht	PART	_		2	ng	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = aber verzögern .
+1	aber	aber	ADV	_		2	mo	_	_
+2	verzögern	verzögern	VERB	_	VerbForm=Inf	2	ROOT	_	_
+3	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = Gefragt , was er gegen den Ausschuss habe ,
+1	Gefragt	fragen	VERB	_	VerbForm=Part	1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	was	was	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	oa	_	_
+4	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	sb	_	_
+5	gegen	gegen	ADP	_		8	mo	_	_
+6	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Ausschuss	Ausschuss	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nk	_	_
+8	habe	haben	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+9	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 18
+# text = stellte er sich bockig und schwieg .
+1	stellte	stellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	sb	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	oa	_	_
+4	bockig	bockig	ADV	_	Degree=Pos	1	mo	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	schwieg	schweigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cj	_	_
+7	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 19
+# text = Und nun erklärt das Rechtsamt , dass der Ausschuss geschlossen zu tagen habe .
+1	Und	und	CCONJ	_		3	ju	_	_
+2	nun	nun	ADV	_		3	mo	_	_
+3	erklärt	erklären	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Rechtsamt	Rechtsamt	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+7	dass	dass	SCONJ	_		13	cp	_	_
+8	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Ausschuss	Ausschuss	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	sb	_	_
+10	geschlossen	schließen	VERB	_	VerbForm=Part	12	oc	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	tagen	tagen	VERB	_	VerbForm=Inf	13	oc	_	_
+13	habe	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 20
+# text = Wer dahinter kein System vermutet ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	sb	_	_
+2	dahinter	dahinter	ADV	_		5	mo	_	_
+3	kein	kein	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	nk	_	_
+4	System	System	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	oa	_	_
+5	vermutet	vermuten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 21
+# text = ist wahrlich mit dem Klammerbeutel gepudert worden .
+1	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	wahrlich	wahrlich	ADV	_		6	mo	_	_
+3	mit	mit	ADP	_		6	mo	_	_
+4	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Klammerbeutel	Klammerbeutel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+6	gepudert	puderen	VERB	_	VerbForm=Part	7	oc	_	_
+7	worden	werden	AUX	_	VerbForm=Part	1	oc	_	_
+8	.	--	PUNCT	_		1	punct	_	_
+

@@ -1,0 +1,207 @@
+# sent_id = 1
+# text = Vielleicht geht 's gut
+1	Vielleicht	vielleicht	ADV	_		2	mo	_	_
+2	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	's	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	gut	gut	ADV	_	Degree=Pos	2	mo	_	_
+
+# sent_id = 2
+# text = Einen Reim konnten sich auch die Außen- und Sicherheitsexperten in Berlin gestern auf die Äußerungen von US-Verteidigungsminister Donald Rumsfeld nicht machen .
+1	Einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Reim	Reim	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	oa	_	_
+3	konnten	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	21	oa	_	_
+5	auch	auch	ADV	_		9	mo	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	nk	_	_
+7	Außen-	Außen	X	_		8	cj	_	_
+8	und	und	CCONJ	_		9	cd	_	_
+9	Sicherheitsexperten	Sicherheitsexperte	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	sb	_	_
+10	in	in	ADP	_		9	mnr	_	_
+11	Berlin	Berlin	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	gestern	gestern	ADV	_		3	mo	_	_
+13	auf	auf	ADP	_		3	mo	_	_
+14	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	nk	_	_
+15	Äußerungen	Äußerung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	nk	_	_
+16	von	von	ADP	_		15	pg	_	_
+17	US-Verteidigungsminister	US-Verteidigungsminister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nk	_	_
+18	Donald	Donald	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	19	pnc	_	_
+19	Rumsfeld	Rumsfeld	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	17	nk	_	_
+20	nicht	nicht	PART	_		3	ng	_	_
+21	machen	machen	VERB	_	VerbForm=Inf	3	oc	_	_
+22	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 3
+# text = Im Außenamt zog man sich nach einiger Bedenkzeit auf die bekannte Formel zurück , wonach Wortmeldungen von Bündnispartnern nicht kommentiert werden .
+1	Im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mo	_	_
+2	Außenamt	Außenamt	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+3	zog	ziehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	3	sb	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	oa	_	_
+6	nach	nach	ADP	_		3	mo	_	_
+7	einiger	einiger	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	8	nk	_	_
+8	Bedenkzeit	Bedenkzeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	auf	auf	ADP	_		3	mo	_	_
+10	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+11	bekannte	bekannt	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Formel	Formel	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nk	_	_
+13	zurück	zurück	ADV	_		3	svp	_	_
+14	,	--	PUNCT	_		3	punct	_	_
+15	wonach	wonach	SCONJ	_	PronType=Int	20	mo	_	_
+16	Wortmeldungen	Wortmeldung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	21	sb	_	_
+17	von	von	ADP	_		16	pg	_	_
+18	Bündnispartnern	Bündnispartner	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	17	nk	_	_
+19	nicht	nicht	PART	_		20	ng	_	_
+20	kommentiert	kommentieren	VERB	_	VerbForm=Part	21	oc	_	_
+21	werden	werden	AUX	_	VerbForm=Inf	2	rc	_	_
+22	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Und auch in den Fraktionen des Bundestags herrschte Ratlosigkeit .
+1	Und	und	CCONJ	_		8	ju	_	_
+2	auch	auch	ADV	_		3	mo	_	_
+3	in	in	ADP	_		8	mo	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+5	Fraktionen	Fraktion	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Bundestags	Bundestag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	ag	_	_
+8	herrschte	herrschen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	Ratlosigkeit	Ratlosigkeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	sb	_	_
+10	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 5
+# text = Rumsfeld , der von Anfang an als Hardliner innerhalb der US-Regierung in Erscheinung trat , habe wohl klarmachen wollen , dass es sich um einen längeren Feldzug handeln werde , hieß es vage .
+1	Rumsfeld	Rumsfeld	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	sb	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	sb	_	_
+4	von	von	ADP	_		14	mo	_	_
+5	Anfang	Anfang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	an	an	ADP	_		4	ac	_	_
+7	als	als	ADP	_		14	mo	_	_
+8	Hardliner	Hardliner	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nk	_	_
+9	innerhalb	innerhalb	ADP	_		8	mnr	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	US-Regierung	US-Regierung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nk	_	_
+12	in	in	ADP	_		14	cvc	_	_
+13	Erscheinung	Erscheinung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+14	trat	treten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	rc	_	_
+15	,	--	PUNCT	_		16	punct	_	_
+16	habe	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	oc	_	_
+17	wohl	wohl	ADV	_		19	mo	_	_
+18	klarmachen	klarmachen	VERB	_	VerbForm=Inf	19	oc	_	_
+19	wollen	wollen	AUX	_	VerbForm=Inf	16	oc	_	_
+20	,	--	PUNCT	_		19	punct	_	_
+21	dass	dass	SCONJ	_		29	cp	_	_
+22	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	ep	_	_
+23	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	28	oa	_	_
+24	um	um	ADP	_		28	mo	_	_
+25	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	nk	_	_
+26	längeren	lang	ADJ	_	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	27	nk	_	_
+27	Feldzug	Feldzug	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	24	nk	_	_
+28	handeln	handeln	VERB	_	VerbForm=Inf	29	oc	_	_
+29	werde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	oc	_	_
+30	,	--	PUNCT	_		31	punct	_	_
+31	hieß	heißen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	ROOT	_	_
+32	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	ep	_	_
+33	vage	vage	ADV	_	Degree=Pos	31	mo	_	_
+34	.	--	PUNCT	_		31	punct	_	_
+
+# sent_id = 6
+# text = Sicher sei allenfalls , dass die " harten Fakten " dieses Krieges gewiss nicht in der Öffentlichkeit diskutiert würden .
+1	Sicher	sicher	ADV	_		2	mo	_	_
+2	sei	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	allenfalls	allenfalls	ADV	_		2	mo	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	dass	dass	SCONJ	_		19	cp	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	nk	_	_
+7	"	--	PUNCT	_		9	punct	_	_
+8	harten	hart	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	nk	_	_
+9	Fakten	Fakt	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	sb	_	_
+10	"	--	PUNCT	_		9	punct	_	_
+11	dieses	dieser	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	12	nk	_	_
+12	Krieges	Krieg	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	ag	_	_
+13	gewiss	gewiss	ADV	_		18	mo	_	_
+14	nicht	nicht	PART	_		18	ng	_	_
+15	in	in	ADP	_		18	mo	_	_
+16	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+17	Öffentlichkeit	Öffentlichkeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	nk	_	_
+18	diskutiert	diskutieren	VERB	_	VerbForm=Part	19	oc	_	_
+19	würden	werden	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	sb	_	_
+20	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Was auch immer das im Einzelnen heißen mag .
+1	Was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	8	sb	_	_
+2	auch	auch	ADV	_		8	mo	_	_
+3	immer	immer	ADV	_		8	mo	_	_
+4	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	sb	_	_
+5	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	7	mo	_	_
+6	Einzelnen	Einzelnen	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	heißen	heißen	VERB	_	VerbForm=Inf	8	oc	_	_
+8	mag	mögen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 8
+# text = Betrachtet man die Äußerungen im Kontext des geradezu naiv anmutenden Eingeständnisses des Washingtoner Stabes , man sei verblüfft über die Hartnäckigkeit des Taliban-Widerstands ,
+1	Betrachtet	betrachten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	sb	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	nk	_	_
+4	Äußerungen	Äußerung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	oa	_	_
+5	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	4	mnr	_	_
+6	Kontext	Kontext	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+8	geradezu	geradezu	ADV	_		9	mo	_	_
+9	naiv	naiv	ADV	_	Degree=Pos	10	mo	_	_
+10	anmutenden	anmutend	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Eingeständnisses	Eingeständniß	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	ag	_	_
+12	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nk	_	_
+13	Washingtoner	Washingtoner	ADJ	_	Degree=Pos	14	nk	_	_
+14	Stabes	Stabe	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	ag	_	_
+15	,	--	PUNCT	_		4	punct	_	_
+16	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	17	sb	_	_
+17	sei	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+18	verblüfft	verblüfft	ADV	_	Degree=Pos	17	pd	_	_
+19	über	über	ADP	_		18	mo	_	_
+20	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	nk	_	_
+21	Hartnäckigkeit	Hartnäckigkeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	nk	_	_
+22	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	nk	_	_
+23	Taliban-Widerstands	Taliban-Widerstand	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	21	ag	_	_
+24	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = so schleichen sich unwillkürlich Zweifel an der realistischen Kalkulation des Afghanistan-Einsatzes ein .
+1	so	so	ADV	_		2	mo	_	_
+2	schleichen	schleichen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+4	unwillkürlich	unwillkürlich	ADV	_	Degree=Pos	2	mo	_	_
+5	Zweifel	Zweifel	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+6	an	an	ADP	_		5	op	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+8	realistischen	realistisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Kalkulation	Kalkulation	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+10	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Afghanistan-Einsatzes	Afghanistan-Einsatz	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	ag	_	_
+12	ein	ein	ADV	_		2	svp	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Weder motivieren solche Einlassungen die eigenen Soldaten ,
+1	Weder	weder	CCONJ	_		2	cd	_	_
+2	motivieren	motivieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	solche	solcher	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	4	nk	_	_
+4	Einlassungen	Einlassung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	sb	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+6	eigenen	eigen	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	nk	_	_
+7	Soldaten	Soldat	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	oa	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = noch fördern sie den Zusammenhalt im Bündnis .
+1	noch	noch	ADV	_		2	mo	_	_
+2	fördern	fördern	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Zusammenhalt	Zusammenhalt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+6	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	5	mnr	_	_
+7	Bündnis	Bündnis	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+

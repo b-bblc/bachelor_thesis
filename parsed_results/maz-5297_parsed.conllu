@@ -1,0 +1,207 @@
+# sent_id = 1
+# text = Siamesische Zwillinge
+1	Siamesische	siamesisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nk	_	_
+2	Zwillinge	Zwilling	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	ROOT	_	_
+
+# sent_id = 2
+# text = Die Lausitzer Braunkohle AG ( Laubag ) hat im abgelaufenen Geschäftsjahr mit der Förderung und dem Verkauf von Braunkohle erstmals Verluste gemacht .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	Lausitzer	Lausitzer	ADJ	_	Degree=Pos	3	nk	_	_
+3	Braunkohle	Braunkohl	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+4	AG	AG	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nk	_	_
+5	(	--	PUNCT	_		6	punct	_	_
+6	Laubag	Laubag	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	app	_	_
+7	)	--	PUNCT	_		6	punct	_	_
+8	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	22	mo	_	_
+10	abgelaufenen	abgelaufen	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	11	nk	_	_
+11	Geschäftsjahr	Geschäftsjahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	nk	_	_
+12	mit	mit	ADP	_		22	mo	_	_
+13	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Förderung	Förderung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+15	und	und	CCONJ	_		14	cd	_	_
+16	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	Verkauf	Verkauf	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	15	cj	_	_
+18	von	von	ADP	_		17	pg	_	_
+19	Braunkohle	Braunkohl	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	nk	_	_
+20	erstmals	erstmals	ADV	_		22	mo	_	_
+21	Verluste	Verlust	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	22	oa	_	_
+22	gemacht	machen	VERB	_	VerbForm=Part	8	oc	_	_
+23	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 3
+# text = Damit wird erneut deutlich , dass eine Neuordnung der Energiewirtschaft in Ostdeutschland überfällig ist .
+1	Damit	damit	ADV	_		2	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	erneut	erneut	ADV	_	Degree=Pos	2	mo	_	_
+4	deutlich	deutlich	ADV	_	Degree=Pos	2	pd	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	dass	dass	SCONJ	_		14	cp	_	_
+7	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Neuordnung	Neuordnung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	sb	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Energiewirtschaft	Energiewirtschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+11	in	in	ADP	_		10	mnr	_	_
+12	Ostdeutschland	Ostdeutschland	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+13	überfällig	überfällig	ADV	_	Degree=Pos	14	pd	_	_
+14	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+15	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Denn die Laubag und ihr wichtigster Kunde , die Veag , hängen wie siamesische Zwillinge voneinander ab .
+1	Denn	denn	CCONJ	_		12	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Laubag	Laubag	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	sb	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	ihr	ihr	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nk	_	_
+6	wichtigster	wichtig	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	7	nk	_	_
+7	Kunde	Kunde	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	cj	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	10	nk	_	_
+10	Veag	Veag	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	app	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	hängen	hängen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	wie	wie	ADP	_		15	cm	_	_
+14	siamesische	siamesisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	15	nk	_	_
+15	Zwillinge	Zwilling	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	mo	_	_
+16	voneinander	voneinander	ADV	_		12	mo	_	_
+17	ab	ab	ADP	_		12	svp	_	_
+18	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 5
+# text = Als die Veag wegen der Liberalisierung des Strommarktes unter Druck geriet und ihre Strompreise senken musste ,
+1	Als	als	SCONJ	_		11	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Veag	Veag	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	sb	_	_
+4	wegen	wegen	ADP	_		11	mo	_	_
+5	der	der	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Liberalisierung	Liberalisierung	NOUN	_	Gender=Fem|Number=Sing	4	nk	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Strommarktes	Strommarkt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+9	unter	unter	ADP	_		11	cvc	_	_
+10	Druck	Druck	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nk	_	_
+11	geriet	geraten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ROOT	_	_
+12	und	und	CCONJ	_		11	cd	_	_
+13	ihre	ihr	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	14	nk	_	_
+14	Strompreise	Strompreis	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	oa	_	_
+15	senken	senken	VERB	_	VerbForm=Inf	16	oc	_	_
+16	musste	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cj	_	_
+17	,	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 6
+# text = hielt sie sich bei ihrem Lieferanten schadlos .
+1	hielt	halten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	sb	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	oa	_	_
+4	bei	bei	ADP	_		1	mo	_	_
+5	ihrem	ihr	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Lieferanten	Lieferant	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+7	schadlos	schadlos	ADV	_	Degree=Pos	1	mo	_	_
+8	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 7
+# text = Die Laubag musste Preiszugeständnisse machen ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Laubag	Laubag	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	musste	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	Preiszugeständnisse	Preiszugeständnisse	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	oa	_	_
+5	machen	machen	VERB	_	VerbForm=Inf	3	oc	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 8
+# text = die sie nun selbst in Bedrängnis bringen .
+1	die	der	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	7	oa	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	sb	_	_
+3	nun	nun	ADV	_		7	mo	_	_
+4	selbst	selbst	ADV	_		7	mo	_	_
+5	in	in	ADP	_		7	cvc	_	_
+6	Bedrängnis	Bedrängnis	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	nk	_	_
+7	bringen	bringen	VERB	_	VerbForm=Inf	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 9
+# text = Einziger Weg aus dem Dilemma ist die Bildung eines neuen Energiekonzerns aus Rohstofflieferanten , Stromerzeugern und Endversorgern ,
+1	Einziger	einzig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	nk	_	_
+2	Weg	Weg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	pd	_	_
+3	aus	aus	ADP	_		2	mnr	_	_
+4	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Dilemma	Dilemma	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Bildung	Bildung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+9	eines	ein	DET	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+10	neuen	neu	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Energiekonzerns	Energiekonzern	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	ag	_	_
+12	aus	aus	ADP	_		8	mnr	_	_
+13	Rohstofflieferanten	Rohstofflieferant	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	nk	_	_
+14	,	--	PUNCT	_		13	punct	_	_
+15	Stromerzeugern	Stromerzeuger	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	cj	_	_
+16	und	und	CCONJ	_		15	cd	_	_
+17	Endversorgern	Endversorger	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	16	cj	_	_
+18	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 10
+# text = in dem Risiken besser verteilt werden können .
+1	in	in	ADP	_		7	mo	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Risiken	Risiko	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+4	besser	gut	ADV	_	Degree=Cmp	5	mo	_	_
+5	verteilt	verteilen	VERB	_	VerbForm=Part	6	oc	_	_
+6	werden	werden	AUX	_	VerbForm=Inf	7	oc	_	_
+7	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 11
+# text = Die Idee , auch einen Gasversorger mit ins Boot zu holen , ist im Prinzip nicht schlecht .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Idee	Idee	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	auch	auch	ADV	_		6	mo	_	_
+5	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Gasversorger	Gasversorger	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	oa	_	_
+7	mit	mit	ADP	_		11	mo	_	_
+8	ins	in	ADP	_	Case=Acc|Gender=Neut|Number=Sing	11	mo	_	_
+9	Boot	Boot	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nk	_	_
+10	zu	zu	PART	_		11	pm	_	_
+11	holen	holen	VERB	_	VerbForm=Inf	2	oc	_	_
+12	,	--	PUNCT	_		13	punct	_	_
+13	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ROOT	_	_
+14	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	13	mo	_	_
+15	Prinzip	Prinzip	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	14	nk	_	_
+16	nicht	nicht	PART	_		17	ng	_	_
+17	schlecht	schlecht	ADV	_	Degree=Pos	13	pd	_	_
+18	.	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 12
+# text = Allerdings gilt auch hier , dass zu viele Köche den Brei verderben können .
+1	Allerdings	allerdings	ADV	_		2	mo	_	_
+2	gilt	gelten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	auch	auch	ADV	_		2	mo	_	_
+4	hier	hier	ADV	_		2	mo	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	dass	dass	SCONJ	_		13	cp	_	_
+7	zu	zu	PART	_		8	mo	_	_
+8	viele	vieler	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	9	nk	_	_
+9	Köche	Köche	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	sb	_	_
+10	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Brei	Brei	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	oa	_	_
+12	verderben	verderben	VERB	_	VerbForm=Inf	13	oc	_	_
+13	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+14	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = Zumindest muss klar sein , wer im neuen Konzern das Sagen hat .
+1	Zumindest	zumindest	ADV	_		2	mo	_	_
+2	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	klar	klar	ADV	_	Degree=Pos	4	pd	_	_
+4	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	12	sb	_	_
+7	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	12	mo	_	_
+8	neuen	neu	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Konzern	Konzern	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Sagen	sagen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	oa	_	_
+12	hat	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+

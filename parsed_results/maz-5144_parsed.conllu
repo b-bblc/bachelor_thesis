@@ -1,0 +1,243 @@
+# sent_id = 1
+# text = In Sorge
+1	In	in	ADP	_		1	ROOT	_	_
+2	Sorge	Sorge	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+
+# sent_id = 2
+# text = Schon machen die ersten Witze die Runde .
+1	Schon	schon	ADV	_		2	mo	_	_
+2	machen	machen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+4	ersten	erster	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	nk	_	_
+5	Witze	Witze	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Runde	Runde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	oa	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Darin kommt weißes Pulver vor .
+1	Darin	darin	ADV	_		2	mo	_	_
+2	kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	weißes	weiß	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Pulver	Pulver	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	vor	vor	ADP	_		2	svp	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Makabres wird immer aus todernster Wirklichkeit geboren .
+1	Makabres	Makabre	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	immer	immer	ADV	_		7	mo	_	_
+4	aus	aus	ADP	_		7	mo	_	_
+5	todernster	todernst	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Wirklichkeit	Wirklichkeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	geboren	gebären	VERB	_	VerbForm=Part	2	oc	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = Es hat wieder den Anschein , als würden Menschen nur galgenhumorig Tatsachen ins Auge sehen können ,
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	wieder	wieder	ADV	_		2	mo	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Anschein	Anschein	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	als	als	SCONJ	_		8	cm	_	_
+8	würden	werden	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	cj	_	_
+9	Menschen	Mensch	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	sb	_	_
+10	nur	nur	ADV	_		11	mo	_	_
+11	galgenhumorig	galgenhumorig	ADV	_	Degree=Pos	16	mo	_	_
+12	Tatsachen	Tatsache	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	oa	_	_
+13	ins	in	ADP	_	Case=Acc|Gender=Neut|Number=Sing	15	mo	_	_
+14	Auge	Auge	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	nk	_	_
+15	sehen	sehen	VERB	_	VerbForm=Inf	16	oc	_	_
+16	können	können	AUX	_	VerbForm=Inf	8	oc	_	_
+17	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = denen sie machtlos ausgeliefert sind .
+1	denen	der	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	4	da	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	sb	_	_
+3	machtlos	machtlos	ADV	_	Degree=Pos	4	mo	_	_
+4	ausgeliefert	ausliefern	VERB	_	VerbForm=Part	5	oc	_	_
+5	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 7
+# text = Jetzt haben sich auch die Verantwortlichen des Landkreises mit der Weltlage beschäftigen müssen .
+1	Jetzt	jetzt	ADV	_		13	mo	_	_
+2	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	13	oa	_	_
+4	auch	auch	ADV	_		6	mo	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	6	nk	_	_
+6	Verantwortlichen	verantwortliche	NOUN	_	Case=Nom|Number=Plur	2	sb	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+8	Landkreises	Landkreis	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	ag	_	_
+9	mit	mit	ADP	_		12	mo	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Weltlage	Weltlage	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+12	beschäftigen	beschäftigen	VERB	_	VerbForm=Inf	13	oc	_	_
+13	müssen	müssen	AUX	_	VerbForm=Inf	2	oc	_	_
+14	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Der zuständige Stab kennt Gefahrenlagen , die von schweren Unglücken ausgehen können ,
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	zuständige	zuständig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	Stab	Stab	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+4	kennt	kennen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	Gefahrenlagen	Gefahrenlag	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	oa	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	12	sb	_	_
+8	von	von	ADP	_		11	mo	_	_
+9	schweren	schwer	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	10	nk	_	_
+10	Unglücken	Unglück	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	8	nk	_	_
+11	ausgehen	ausgehen	VERB	_	VerbForm=Inf	12	oc	_	_
+12	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	rc	_	_
+13	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = zum Beispiel mit Zügen .
+1	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mo	_	_
+2	Beispiel	Beispiel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+3	mit	mit	ADP	_		3	ROOT	_	_
+4	Zügen	Zug	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	3	nk	_	_
+5	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 10
+# text = Auf dem Bahnhof Neustadt hat man schon mehrfach Szenarien durchgespielt und Gegenmaßnahmen geprobt .
+1	Auf	auf	ADP	_		10	mo	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Bahnhof	Bahnhof	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+4	Neustadt	Neustadt	PROPN	_	Case=Nom|Number=Sing	3	nk	_	_
+5	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	5	sb	_	_
+7	schon	schon	ADV	_		10	mo	_	_
+8	mehrfach	mehrfach	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	10	mo	_	_
+9	Szenarien	Szenario	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	oa	_	_
+10	durchgespielt	durchgespielen	VERB	_	VerbForm=Part	5	oc	_	_
+11	und	und	CCONJ	_		10	cd	_	_
+12	Gegenmaßnahmen	Gegenmaßnahme	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	oa	_	_
+13	geprobt	proben	VERB	_	VerbForm=Part	11	cj	_	_
+14	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 11
+# text = Das reicht nicht mehr aus .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	reicht	reichen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		2	ng	_	_
+4	mehr	mehr	ADV	_		3	mo	_	_
+5	aus	aus	ADP	_		2	svp	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Und so muss Landrat Christian Gilde jetzt eine gewisse Hilflosigkeit erkennen lassen ,
+1	Und	und	CCONJ	_		3	ju	_	_
+2	so	so	ADV	_		3	mo	_	_
+3	muss	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	Landrat	Landrat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+5	Christian	Christian	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	pnc	_	_
+6	Gilde	Gilde	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nk	_	_
+7	jetzt	jetzt	ADV	_		3	mo	_	_
+8	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+9	gewisse	gewiß	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Hilflosigkeit	Hilflosigkeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	oa	_	_
+11	erkennen	erkennen	VERB	_	VerbForm=Inf	12	oc	_	_
+12	lassen	lassen	VERB	_	VerbForm=Inf	3	oc	_	_
+13	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = was das Reagieren auf möglichen Terror und seine Folgen angeht .
+1	was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	10	sb	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Reagieren	Reagieren	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	oa	_	_
+4	auf	auf	ADP	_		3	mnr	_	_
+5	möglichen	möglich	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+6	Terror	Terror	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nk	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	seine	sein	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	nk	_	_
+9	Folgen	Folge	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	cj	_	_
+10	angeht	angehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 14
+# text = Da ist nichts vorzuwerfen .
+1	Da	da	ADV	_		4	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nichts	nichts	PRON	_	Gender=Neut|PronType=Ind	2	sb	_	_
+4	vorzuwerfen	vorwerfen	VERB	_	VerbForm=Inf	2	oc	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Niemand hat verschlampt , was er besser hätte vorbereiten sollen .
+1	Niemand	niemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	sb	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	verschlampt	verschlampen	VERB	_	VerbForm=Part	2	oc	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	was	wer	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	10	oa	_	_
+6	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	sb	_	_
+7	besser	gut	ADV	_	Degree=Cmp	10	mo	_	_
+8	hätte	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	oc	_	_
+9	vorbereiten	vorbereiten	VERB	_	VerbForm=Inf	10	oc	_	_
+10	sollen	sollen	AUX	_	VerbForm=Inf	8	oc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Keiner hat sich schließlich vor dem 11. September vorstellen können , wozu Menschen , von Fanatismus getrieben , fähig sind .
+1	Keiner	keiner	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	oa	_	_
+4	schließlich	schließlich	ADV	_		10	mo	_	_
+5	vor	vor	ADP	_		9	mo	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	11.	11.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	September	September	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+9	vorstellen	vorstellen	VERB	_	VerbForm=Inf	10	oc	_	_
+10	können	können	AUX	_	VerbForm=Inf	2	oc	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+12	wozu	wozu	SCONJ	_	PronType=Int	20	cp	_	_
+13	Menschen	Mensch	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	20	sb	_	_
+14	,	--	PUNCT	_		17	punct	_	_
+15	von	von	ADP	_		17	sbp	_	_
+16	Fanatismus	Fanatismus	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	15	nk	_	_
+17	getrieben	treiben	VERB	_	VerbForm=Part	13	oc	_	_
+18	,	--	PUNCT	_		20	punct	_	_
+19	fähig	fähig	ADV	_	Degree=Pos	20	pd	_	_
+20	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	oc	_	_
+21	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = Nun wird der Katastrophenschutz einen neuen Stellenwert bekommen .
+1	Nun	nun	ADV	_		8	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Katastrophenschutz	Katastrophenschutz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+6	neuen	neu	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Stellenwert	Stellenwert	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	oa	_	_
+8	bekommen	bekommen	VERB	_	VerbForm=Inf	2	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 18
+# text = Der Landkreis und die Kommunen , vordergründig bedroht oder einfach nur in verständlicher Sorge , sind auf Hilfe angewiesen .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Landkreis	Landkreis	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	sb	_	_
+3	und	und	CCONJ	_		2	cd	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+5	Kommunen	Kommune	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	cj	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	vordergründig	vordergründig	ADV	_	Degree=Pos	8	mo	_	_
+8	bedroht	bedrohen	VERB	_	VerbForm=Part	2	par	_	_
+9	oder	oder	CCONJ	_		8	cd	_	_
+10	einfach	einfach	ADV	_		12	mo	_	_
+11	nur	nur	ADV	_		12	mo	_	_
+12	in	in	ADP	_		9	cj	_	_
+13	verständlicher	verständlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	14	nk	_	_
+14	Sorge	Sorge	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+15	,	--	PUNCT	_		16	punct	_	_
+16	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	ROOT	_	_
+17	auf	auf	ADP	_		19	mo	_	_
+18	Hilfe	Hilfe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	nk	_	_
+19	angewiesen	angewiesen	ADV	_	Degree=Pos	16	pd	_	_
+20	.	--	PUNCT	_		16	punct	_	_
+

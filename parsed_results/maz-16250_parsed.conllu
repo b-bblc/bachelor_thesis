@@ -1,0 +1,245 @@
+# sent_id = 1
+# text = Wie Blücher
+1	Wie	wie	SCONJ	_	PronType=Int	2	cm	_	_
+2	Blücher	Blücher	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Angriff ist die beste Verteidigung .
+1	Angriff	Angriff	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	beste	gut	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	5	nk	_	_
+5	Verteidigung	Verteidigung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	pd	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Wer wüsste das besser als die Strategen von der Bundeswehr .
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	sb	_	_
+2	wüsste	wüssen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	oa	_	_
+4	besser	gut	ADV	_	Degree=Cmp	2	mo	_	_
+5	als	als	ADP	_		7	cm	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+7	Strategen	Stratege	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cc	_	_
+8	von	von	ADP	_		7	pg	_	_
+9	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Bundeswehr	Bundeswehr	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	nk	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = In Sachen Bombodrom orientieren sich die Militärs jedenfalls ungeniert am Vorbild des alten " Marschalls Vorwärts " namens Blücher .
+1	In	in	ADP	_		4	mo	_	_
+2	Sachen	Sache	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	1	nk	_	_
+3	Bombodrom	Bombodrom	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nk	_	_
+4	orientieren	orientieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	4	oa	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+7	Militärs	Militär	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+8	jedenfalls	jedenfalls	ADV	_		4	mo	_	_
+9	ungeniert	ungeniert	ADV	_	Degree=Pos	4	mo	_	_
+10	am	an	ADP	_	Case=Dat|Gender=Neut|Number=Sing	4	op	_	_
+11	Vorbild	Vorbild	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+13	alten	alt	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+14	"	--	PUNCT	_		13	punct	_	_
+15	Marschalls	Marschall	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	ag	_	_
+16	Vorwärts	Vorwärts	ADV	_		15	nk	_	_
+17	"	--	PUNCT	_		15	punct	_	_
+18	namens	namens	ADP	_		11	mnr	_	_
+19	Blücher	Blücher	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	18	nk	_	_
+20	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 5
+# text = Denn eines der Hauptargumente der Schießplatz-Gegner - die Gefahr für den Tourismus - wollen sie mit einem Frontalangriff aus dem Weg räumen .
+1	Denn	denn	CCONJ	_		14	ju	_	_
+2	eines	einer	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	22	oa	_	_
+3	der	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	nk	_	_
+4	Hauptargumente	Hauptargument	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	2	ag	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	nk	_	_
+6	Schießplatz-Gegner	Schießplatz-Gegner	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	ag	_	_
+7	-	--	PUNCT	_		2	punct	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Gefahr	Gefahr	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	app	_	_
+10	für	für	ADP	_		9	mnr	_	_
+11	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Tourismus	Tourismus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	nk	_	_
+13	-	--	PUNCT	_		14	punct	_	_
+14	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ROOT	_	_
+15	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	sb	_	_
+16	mit	mit	ADP	_		22	mo	_	_
+17	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	nk	_	_
+18	Frontalangriff	Frontalangriff	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	nk	_	_
+19	aus	aus	ADP	_		18	mnr	_	_
+20	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	nk	_	_
+21	Weg	Weg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	19	nk	_	_
+22	räumen	räumen	VERB	_	VerbForm=Inf	14	oc	_	_
+23	.	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 6
+# text = So heißt es in einem Bundeswehr-Papier knapp , dass das Bombodrom " keine relevanten Auswirkungen " auf den Tourismus haben wird .
+1	So	so	ADV	_		2	mo	_	_
+2	heißt	heißen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+4	in	in	ADP	_		2	mo	_	_
+5	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Bundeswehr-Papier	Bundeswehr-Papier	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+7	knapp	knapp	ADV	_	Degree=Pos	2	mo	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+9	dass	dass	SCONJ	_		21	cp	_	_
+10	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Bombodrom	Bombodrom	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	sb	_	_
+12	"	--	PUNCT	_		15	punct	_	_
+13	keine	kein	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	15	nk	_	_
+14	relevanten	relevant	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	15	nk	_	_
+15	Auswirkungen	Auswirkung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	20	oa	_	_
+16	"	--	PUNCT	_		15	punct	_	_
+17	auf	auf	ADP	_		15	mnr	_	_
+18	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	nk	_	_
+19	Tourismus	Tourismus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	nk	_	_
+20	haben	haben	VERB	_	VerbForm=Inf	21	oc	_	_
+21	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	re	_	_
+22	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Problem erledigt .
+1	Problem	Problem	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	oa	_	_
+2	erledigt	erledigen	VERB	_	VerbForm=Part	2	ROOT	_	_
+3	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = - Das ist schon dreist .
+1	-	--	PUNCT	_		3	punct	_	_
+2	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	schon	schon	ADV	_		5	mo	_	_
+5	dreist	dreist	ADV	_	Degree=Pos	3	pd	_	_
+6	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 9
+# text = Nun könnte man ein halbes Stündchen lang mutmaßen , wo die Militärs denn so Urlaub machen .
+1	Nun	nun	ADV	_		2	mo	_	_
+2	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+4	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+5	halbes	halb	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	nk	_	_
+6	Stündchen	Stündchen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	oa	_	_
+7	lang	lang	ADV	_	Degree=Pos	8	mo	_	_
+8	mutmaßen	mutmaßen	VERB	_	VerbForm=Inf	2	oc	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	wo	wo	SCONJ	_	PronType=Int	16	mo	_	_
+11	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	nk	_	_
+12	Militärs	Militär	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	sb	_	_
+13	denn	denn	ADV	_		16	mo	_	_
+14	so	so	ADV	_		16	mo	_	_
+15	Urlaub	Urlaub	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	oa	_	_
+16	machen	machen	VERB	_	VerbForm=Inf	8	oc	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Doch werden sich Zivilisten und Uniformträger dabei nicht wirklich unterscheiden .
+1	Doch	doch	CCONJ	_		2	ju	_	_
+2	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+4	Zivilisten	Zivilist	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	Uniformträger	Uniformträger	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	cj	_	_
+7	dabei	dabei	ADV	_		10	mo	_	_
+8	nicht	nicht	PART	_		9	ng	_	_
+9	wirklich	wirklich	ADV	_	Degree=Pos	10	mo	_	_
+10	unterscheiden	unterscheiden	VERB	_	VerbForm=Inf	2	oc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Zwei Wochen mit Halbpension unter einer Autobahnbrücke , neben einem Flugplatz , inmitten einer Techno-Disko ?
+1	Zwei	zwei	NUM	_		2	nk	_	_
+2	Wochen	Woche	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	ROOT	_	_
+3	mit	mit	ADP	_		2	mnr	_	_
+4	Halbpension	Halbpension	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+5	unter	unter	ADP	_		4	mnr	_	_
+6	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Autobahnbrücke	Autobahnbrücke	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+9	neben	neben	ADP	_		2	cj	_	_
+10	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Flugplatz	Flugplatz	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nk	_	_
+12	,	--	PUNCT	_		2	punct	_	_
+13	inmitten	inmitten	ADP	_		2	cj	_	_
+14	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+15	Techno-Disko	Techno-Disko	NOUN	_	Gender=Fem|Number=Sing	13	nk	_	_
+16	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Nein , das tut sich niemand an .
+1	Nein	nein	PART	_		3	re	_	_
+2	,	--	PUNCT	_		3	punct	_	_
+3	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	sb	_	_
+4	tut	tun	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	da	_	_
+6	niemand	niemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	sb	_	_
+7	an	an	ADP	_		4	svp	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 13
+# text = Namentlich nicht die Leute , die in der Nähe von Berlin Ruhe und Natur suchen .
+1	Namentlich	namentlich	ADV	_		4	mo	_	_
+2	nicht	nicht	PART	_		4	ng	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	nk	_	_
+4	Leute	Leute	NOUN	_	Case=Nom|Number=Plur	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	die	der	PRON	_	Case=Nom|Number=Plur|PronType=Rel	15	sb	_	_
+7	in	in	ADP	_		15	mo	_	_
+8	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Nähe	Nähe	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+10	von	von	ADP	_		9	pg	_	_
+11	Berlin	Berlin	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	Ruhe	Ruhe	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	oa	_	_
+13	und	und	CCONJ	_		12	cd	_	_
+14	Natur	Natur	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	cj	_	_
+15	suchen	suchen	VERB	_	VerbForm=Inf	4	rc	_	_
+16	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 14
+# text = Die werden nicht wegen spektakulärer Tiefflüge an den Ruppiner See oder zum Rheinsberger Schloss strömen .
+1	Die	der	PRON	_	Case=Nom|Number=Plur|PronType=Dem	2	sb	_	_
+2	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		15	ng	_	_
+4	wegen	wegen	ADP	_		15	mo	_	_
+5	spektakulärer	spektakulär	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	6	nk	_	_
+6	Tiefflüge	Tiefflug	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nk	_	_
+7	an	an	ADP	_		6	mnr	_	_
+8	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+9	Ruppiner	Ruppiner	ADJ	_	Degree=Pos	10	nk	_	_
+10	See	See	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nk	_	_
+11	oder	oder	CCONJ	_		7	cd	_	_
+12	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	11	cj	_	_
+13	Rheinsberger	Rheinsberger	ADJ	_	Degree=Pos	14	nk	_	_
+14	Schloss	Schloss	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	12	nk	_	_
+15	strömen	strömen	VERB	_	VerbForm=Inf	2	oc	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Insofern wird wieder mal deutlich , dass die Bundeswehr die Region mit ihren Sorgen und mit ihren Chancen überhaupt nicht ernst nimmt .
+1	Insofern	insofern	ADV	_		2	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	wieder	wieder	ADV	_		2	mo	_	_
+4	mal	mal	ADV	_		2	mo	_	_
+5	deutlich	deutlich	ADV	_	Degree=Pos	2	pd	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	dass	dass	SCONJ	_		22	cp	_	_
+8	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Bundeswehr	Bundeswehr	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	sb	_	_
+10	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Region	Region	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	oa	_	_
+12	mit	mit	ADP	_		22	mo	_	_
+13	ihren	ihr	DET	_	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	14	nk	_	_
+14	Sorgen	Sorge	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	12	nk	_	_
+15	und	und	CCONJ	_		12	cd	_	_
+16	mit	mit	ADP	_		15	cj	_	_
+17	ihren	ihr	DET	_	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	nk	_	_
+18	Chancen	Chance	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	16	nk	_	_
+19	überhaupt	überhaupt	ADV	_		20	mo	_	_
+20	nicht	nicht	PART	_		22	ng	_	_
+21	ernst	ernst	ADV	_	Degree=Pos	22	mo	_	_
+22	nimmt	nehmen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+23	.	--	PUNCT	_		2	punct	_	_
+

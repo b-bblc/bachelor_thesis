@@ -1,0 +1,211 @@
+# sent_id = 1
+# text = Drei leere Kassen
+1	Drei	drei	NUM	_		3	nk	_	_
+2	leere	leer	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	nk	_	_
+3	Kassen	Kasse	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	ROOT	_	_
+
+# sent_id = 2
+# text = Diepensee siedelt um .
+1	Diepensee	Diepensee	PROPN	_	Case=Nom|Number=Sing	2	sb	_	_
+2	siedelt	siedeln	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	um	um	ADP	_		2	svp	_	_
+4	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Ohne Wenn und Aber .
+1	Ohne	ohne	ADP	_		1	ROOT	_	_
+2	Wenn	wenn	SCONJ	_		1	nk	_	_
+3	und	und	CCONJ	_		2	cd	_	_
+4	Aber	aber	CCONJ	_		3	cj	_	_
+5	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 4
+# text = Dessen konnten sich die vor dem möglichen Ausbau des Flughafens Schönefeld weichenden Dorfbewohner gewiss sein .
+1	Dessen	dessen	PRON	_	Case=Gen|Number=Sing|PronType=Dem	2	sb	_	_
+2	konnten	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	15	oa	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	nk	_	_
+5	vor	vor	ADP	_		12	mo	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	möglichen	möglich	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Ausbau	Ausbau	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+9	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Flughafens	Flughafen	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	ag	_	_
+11	Schönefeld	Schönefeld	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	10	nk	_	_
+12	weichenden	weichend	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	13	nk	_	_
+13	Dorfbewohner	Dorfbewohner	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	sb	_	_
+14	gewiss	gewiss	ADV	_	Degree=Pos	15	mo	_	_
+15	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = Bis eine Presseinformation der Ausbau-Planer einschlug , wie eine Bombe .
+1	Bis	bis	SCONJ	_		6	cp	_	_
+2	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Presseinformation	Presseinformation	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Ausbau-Planer	Ausbau-Planer	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+6	einschlug	einschlagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	wie	wie	SCONJ	_	PronType=Int	10	cm	_	_
+9	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Bombe	Bombe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	mo	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 6
+# text = Umsiedlung , hieß es da , nur vorbehaltlich der Privatisierung der Flughafen-Holding .
+1	Umsiedlung	Umsiedlung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	mo	_	_
+2	,	--	PUNCT	_		3	punct	_	_
+3	hieß	heißen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	ep	_	_
+5	da	da	ADV	_		3	mo	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+7	nur	nur	ADV	_		8	mo	_	_
+8	vorbehaltlich	vorbehaltlich	ADV	_	Degree=Pos	3	mo	_	_
+9	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Privatisierung	Privatisierung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	da	_	_
+11	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Flughafen-Holding	Flughafen-Holding	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	ag	_	_
+13	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = Überrascht reagierte auch der Königs-Wusterhausener Bürgermeister Jochen Wagner .
+1	Überrascht	Überrascht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	mo	_	_
+2	reagierte	reagieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	auch	auch	ADV	_		5	mo	_	_
+4	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Königs-Wusterhausener	Königs-Wusterhausener	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+6	Bürgermeister	Bürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nk	_	_
+7	Jochen	Jochen	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	pnc	_	_
+8	Wagner	Wagner	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nk	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Schließlich gaben die Stadtverordneten erst Montagabend grünes Licht für die weitere Erschließung des neuen Ortsteils Diepensee .
+1	Schließlich	schließlich	ADV	_		2	mo	_	_
+2	gaben	geben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Stadtverordneten	Stadtverordneten	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	erst	erst	ADV	_		6	mo	_	_
+6	Montagabend	Montagabend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	mo	_	_
+7	grünes	grün	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Licht	Licht	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	oa	_	_
+9	für	für	ADP	_		8	mnr	_	_
+10	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+11	weitere	weit	ADJ	_	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	12	nk	_	_
+12	Erschließung	Erschließung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nk	_	_
+13	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+14	neuen	neu	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+15	Ortsteils	Ortsteil	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	ag	_	_
+16	Diepensee	Diepensee	PROPN	_	Case=Nom|Number=Sing	15	nk	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = Soll dieser Beschluss bald nicht mal mehr das Papier wert sein , auf dem er gedruckt wurde ?
+1	Soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	dieser	dieser	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nk	_	_
+3	Beschluss	Beschluss	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+4	bald	bald	ADV	_		1	mo	_	_
+5	nicht	nicht	PART	_		1	ng	_	_
+6	mal	mal	ADV	_		5	mo	_	_
+7	mehr	mehr	ADV	_		6	mo	_	_
+8	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	Papier	Papier	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	sb	_	_
+10	wert	wert	ADV	_	Degree=Pos	11	pd	_	_
+11	sein	sein	AUX	_	VerbForm=Inf	1	oc	_	_
+12	,	--	PUNCT	_		11	punct	_	_
+13	auf	auf	ADP	_		16	mo	_	_
+14	dem	der	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	13	nk	_	_
+15	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	sb	_	_
+16	gedruckt	drucken	VERB	_	VerbForm=Part	17	oc	_	_
+17	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	rc	_	_
+18	?	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = Das wäre denkbar .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	denkbar	denkbar	ADV	_	Degree=Pos	2	pd	_	_
+4	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Schließlich läuft Ende Oktober die Angebotsfrist für die Privatisierung der Flughafen-Holding aus .
+1	Schließlich	schließlich	ADV	_		2	mo	_	_
+2	läuft	laufen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Ende	Ende	NOUN	_	Gender=Neut|Number=Sing	2	mo	_	_
+4	Oktober	Oktober	NOUN	_	Gender=Masc|Number=Sing	3	nk	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Angebotsfrist	Angebotsfrist	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+7	für	für	ADP	_		6	mnr	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Privatisierung	Privatisierung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nk	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Flughafen-Holding	Flughafen-Holding	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	ag	_	_
+12	aus	aus	ADP	_		2	svp	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Möglicherweise legt das Baukonzern-Bieterkonsortium wieder keinen verhandelbaren Vorschlag auf den Tisch .
+1	Möglicherweise	möglicherweise	ADV	_		2	mo	_	_
+2	legt	legen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Baukonzern-Bieterkonsortium	Baukonzern-Bieterkonsortium	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	wieder	wieder	ADV	_		2	mo	_	_
+6	keinen	kein	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	2	oa	_	_
+7	verhandelbaren	verhandelbaren	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	punct	_	_
+8	Vorschlag	Vorschlag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	ROOT	_	_
+9	auf	auf	ADP	_		8	mnr	_	_
+10	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Tisch	Tisch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nk	_	_
+12	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 13
+# text = Dann müssten die Holding-Gesellschafter - Bund , Brandenburg und Berlin - sowohl die Kosten für den Ausbau und die Anbindung des Flughafens Schönefeld , als auch für die Umsiedlung Diepensees aufbringen .
+1	Dann	dann	ADV	_		2	mo	_	_
+2	müssten	müssen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Holding-Gesellschafter	Holding-Gesellschafter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	-	--	PUNCT	_		4	punct	_	_
+6	Bund	Bund	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	app	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	Brandenburg	Brandenburg	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	cj	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Berlin	Berlin	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	9	cj	_	_
+11	-	--	PUNCT	_		2	punct	_	_
+12	sowohl	sowohl	CCONJ	_		14	cd	_	_
+13	die	der	DET	_	Case=Acc|Definite=Def|Number=Plur|PronType=Art	14	nk	_	_
+14	Kosten	Kosten	NOUN	_	Case=Acc|Number=Plur	2	mo	_	_
+15	für	für	ADP	_		14	mnr	_	_
+16	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	Ausbau	Ausbau	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	nk	_	_
+18	und	und	CCONJ	_		17	cd	_	_
+19	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	nk	_	_
+20	Anbindung	Anbindung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	cj	_	_
+21	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	nk	_	_
+22	Flughafens	Flughafen	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	ag	_	_
+23	Schönefeld	Schönefeld	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	22	nk	_	_
+24	,	--	PUNCT	_		14	punct	_	_
+25	als	als	CCONJ	_		31	cp	_	_
+26	auch	auch	ADV	_		27	mo	_	_
+27	für	für	ADP	_		25	cj	_	_
+28	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	nk	_	_
+29	Umsiedlung	Umsiedlung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	nk	_	_
+30	Diepensees	Diepensees	PROPN	_	Case=Nom|Number=Sing	29	nk	_	_
+31	aufbringen	aufbringen	VERB	_	VerbForm=Inf	14	mnr	_	_
+32	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Vorbehalte scheinen da angesichts leerer Kassen aller drei Gesellschafter durchaus angebracht .
+1	Vorbehalte	Vorbehalt	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+2	scheinen	scheinen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	da	da	ADV	_		2	mo	_	_
+4	angesichts	angesichts	ADP	_		11	mo	_	_
+5	leerer	leer	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	6	nk	_	_
+6	Kassen	Kasse	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	nk	_	_
+7	aller	aller	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	9	nk	_	_
+8	drei	drei	NUM	_		9	nk	_	_
+9	Gesellschafter	Gesellschafter	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	ag	_	_
+10	durchaus	durchaus	ADV	_		11	mo	_	_
+11	angebracht	angebracht	VERB	_	VerbForm=Part	2	pd	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+

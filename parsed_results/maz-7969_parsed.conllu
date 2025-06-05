@@ -1,0 +1,210 @@
+# sent_id = 1
+# text = Schwierige Geburt
+1	Schwierige	schwierig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nk	_	_
+2	Geburt	Geburt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Die Geburt war denkbar schwer ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Geburt	Geburt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	denkbar	denkbar	ADV	_	Degree=Pos	5	mo	_	_
+5	schwer	schwer	ADV	_	Degree=Pos	3	pd	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 3
+# text = doch jetzt hat das Kind sogar schon einen Namen :
+1	doch	doch	CCONJ	_		3	ju	_	_
+2	jetzt	jetzt	ADV	_		3	mo	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Kind	Kind	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+6	sogar	sogar	ADV	_		3	mo	_	_
+7	schon	schon	ADV	_		3	mo	_	_
+8	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Namen	Name	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	oa	_	_
+10	:	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Ein " Humboldt-Forum " soll anstelle des einstigen Berliner Stadtschlosses entstehen .
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+2	"	--	PUNCT	_		3	punct	_	_
+3	Humboldt-Forum	Humboldt-Forum	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	sb	_	_
+4	"	--	PUNCT	_		3	punct	_	_
+5	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	anstelle	anstelle	ADP	_		5	mo	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+8	einstigen	einstig	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	nk	_	_
+9	Berliner	Berliner	ADJ	_	Degree=Pos	10	nk	_	_
+10	Stadtschlosses	Stadtschloss	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nk	_	_
+11	entstehen	entstehen	VERB	_	VerbForm=Inf	5	oc	_	_
+12	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 5
+# text = Diese Empfehlung sprach gestern die Expertenkomission " Historische Mitte Berlins " aus .
+1	Diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	nk	_	_
+2	Empfehlung	Empfehlung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	sprach	sprechen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	gestern	gestern	ADV	_		3	mo	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Expertenkomission	Expertenkomission	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	oa	_	_
+7	"	--	PUNCT	_		9	punct	_	_
+8	Historische	Historische	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Mitte	Mitte	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nk	_	_
+10	Berlins	Berlin	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	9	ag	_	_
+11	"	--	PUNCT	_		9	punct	_	_
+12	aus	aus	ADP	_		3	svp	_	_
+13	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = Das Forum soll die Fassade und die Dimensionen des 1950 gesprengten Schlosses erhalten
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Forum	Forum	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+3	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Fassade	Fassade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	oa	_	_
+6	und	und	CCONJ	_		5	cd	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	nk	_	_
+8	Dimensionen	Dimension	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	6	cj	_	_
+9	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	nk	_	_
+10	1950	1950	NUM	_		11	mo	_	_
+11	gesprengten	gesprengt	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	nk	_	_
+12	Schlosses	Schloß	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	ag	_	_
+13	erhalten	erhalten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+
+# sent_id = 7
+# text = und die Berliner Landesbibliothek , Museen und Konzertsäle aufnehmen .
+1	und	und	CCONJ	_		9	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	Berliner	Berliner	ADJ	_	Degree=Pos	4	nk	_	_
+4	Landesbibliothek	Landesbibliothek	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	oa	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	Museen	Museum	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	cj	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	Konzertsäle	Konzertsal	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	cj	_	_
+9	aufnehmen	aufnehmen	VERB	_	VerbForm=Inf	9	ROOT	_	_
+10	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 8
+# text = Endlich eine Perspektive für den Schlossplatz nach einem Jahrzehnt der Agonie , möchte man aufseufzen .
+1	Endlich	endlich	ADV	_		13	mo	_	_
+2	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Perspektive	Perspektive	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	oa	_	_
+4	für	für	ADP	_		3	mnr	_	_
+5	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Schlossplatz	Schlossplatz	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nk	_	_
+7	nach	nach	ADP	_		6	mnr	_	_
+8	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	Jahrzehnt	Jahrzehnt	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Agonie	Agonie	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	ag	_	_
+12	,	--	PUNCT	_		13	punct	_	_
+13	möchte	möchten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ROOT	_	_
+14	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	13	sb	_	_
+15	aufseufzen	aufseufzen	VERB	_	VerbForm=Inf	13	oc	_	_
+16	.	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 9
+# text = Die mühselige Debatte um das ob und wie der Schloss-Rekonstruktion gehört zu den ärgerlichsten Episoden der Berliner Stadtentwicklungspolitik .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	mühselige	mühselig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Debatte	Debatte	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+4	um	um	ADP	_		3	mnr	_	_
+5	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+6	ob	ob	ADP	_		4	nk	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	wie	wie	ADV	_	PronType=Int	10	cm	_	_
+9	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Schloss-Rekonstruktion	Schloss-Rekonstruktion	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	cj	_	_
+11	gehört	gehören	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	zu	zu	ADP	_		11	op	_	_
+13	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	nk	_	_
+14	ärgerlichsten	ärgerlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	15	nk	_	_
+15	Episoden	Episode	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	12	nk	_	_
+16	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	nk	_	_
+17	Berliner	Berliner	ADJ	_	Degree=Pos	18	nk	_	_
+18	Stadtentwicklungspolitik	Stadtentwicklungspolitik	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	ag	_	_
+19	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 10
+# text = Es ist ja richtig , über diese Dinge zu streiten ,
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	ja	ja	ADV	_		2	mo	_	_
+4	richtig	richtig	ADV	_	Degree=Pos	2	pd	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	über	über	ADP	_		10	op	_	_
+7	diese	dieser	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	8	nk	_	_
+8	Dinge	Ding	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	nk	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	streiten	streiten	VERB	_	VerbForm=Inf	1	re	_	_
+11	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = doch welche andere Hauptstadt würde es sich leisten , ausufernden Grundsatzdebatten zuliebe ihre " gute Stube " für zehn Jahre dem Unkraut zu überlassen ?
+1	doch	doch	ADV	_		5	ju	_	_
+2	welche	welcher	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	4	nk	_	_
+3	andere	anderer	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Hauptstadt	Hauptstadt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+5	würde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	sb	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+8	leisten	leisten	VERB	_	VerbForm=Inf	5	oc	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	ausufernden	ausufernd	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	11	nk	_	_
+11	Grundsatzdebatten	Grundsatzdebatt	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	24	da	_	_
+12	zuliebe	zuliebe	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	mo	_	_
+13	ihre	ihr	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	nk	_	_
+14	"	--	PUNCT	_		16	punct	_	_
+15	gute	gut	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	nk	_	_
+16	Stube	Stube	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	24	oa	_	_
+17	"	--	PUNCT	_		16	punct	_	_
+18	für	für	ADP	_		16	mnr	_	_
+19	zehn	zehn	NUM	_		20	nk	_	_
+20	Jahre	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	18	nk	_	_
+21	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	nk	_	_
+22	Unkraut	Unkraut	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	24	da	_	_
+23	zu	zu	PART	_		24	pm	_	_
+24	überlassen	überlassen	VERB	_	VerbForm=Inf	8	cj	_	_
+25	?	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 12
+# text = Mit ihrer Entscheidungsschwäche in Sachen Schloss hat sich die Berliner Stadtpolitik ein Armutszeugnis ausgestellt .
+1	Mit	mit	ADP	_		14	mo	_	_
+2	ihrer	ihr	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	nk	_	_
+3	Entscheidungsschwäche	Entscheidungsschwäche	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+4	in	in	ADP	_		3	mnr	_	_
+5	Sachen	Sache	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	4	nk	_	_
+6	Schloss	Schloss	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nk	_	_
+7	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	oa	_	_
+9	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+10	Berliner	Berliner	ADJ	_	Degree=Pos	11	nk	_	_
+11	Stadtpolitik	Stadtpolitik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+12	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	nk	_	_
+13	Armutszeugnis	Armutszeugnis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	oa	_	_
+14	ausgestellt	ausstellen	VERB	_	VerbForm=Part	7	oc	_	_
+15	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 13
+# text = Jetzt ist die Zeit des Diskutierens abgelaufen -
+1	Jetzt	jetzt	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Zeit	Zeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Diskutierens	Diskutieren	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	ag	_	_
+7	abgelaufen	ablaufen	VERB	_	VerbForm=Part	2	oc	_	_
+8	-	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = wichtig ist , dass endlich etwas passiert .
+1	wichtig	wichtig	ADV	_	Degree=Pos	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dass	dass	SCONJ	_		7	cp	_	_
+5	endlich	endlich	ADV	_		7	mo	_	_
+6	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	7	sb	_	_
+7	passiert	passieren	VERB	_	VerbForm=Part	2	sb	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+

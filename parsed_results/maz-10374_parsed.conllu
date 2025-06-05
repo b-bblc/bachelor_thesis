@@ -1,0 +1,213 @@
+# sent_id = 1
+# text = Fürchtet euch nicht !
+1	Fürchtet	Fürchten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	euch	euch	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	oa	_	_
+3	nicht	nicht	PART	_		1	ng	_	_
+4	!	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 2
+# text = Die einstige Fußball-Weltmacht zittert vor einem Winzling .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	einstige	einstig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Fußball-Weltmacht	Fußball-Weltmacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	zittert	zittern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	vor	vor	ADP	_		4	mo	_	_
+6	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Winzling	Winzling	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 3
+# text = Mit seinem Tor zum 1:0 für die Ukraine stürzte der 1,62 Meter große Gennadi Subow die deutsche Nationalelf vorübergehend in ein Trauma .
+1	Mit	mit	ADP	_		9	mo	_	_
+2	seinem	sein	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	3	nk	_	_
+3	Tor	Tor	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+4	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mnr	_	_
+5	1:0	1:0	NUM	_		4	nk	_	_
+6	für	für	ADP	_		3	mnr	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Ukraine	Ukraine	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	6	nk	_	_
+9	stürzte	stürzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+11	1,62	1,62	NUM	_		12	nk	_	_
+12	Meter	Meter	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	ams	_	_
+13	große	groß	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+14	Gennadi	Gennadi	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	15	pnc	_	_
+15	Subow	Subow	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	sb	_	_
+16	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	nk	_	_
+17	deutsche	deutsch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	nk	_	_
+18	Nationalelf	Nationalelf	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	oa	_	_
+19	vorübergehend	vorübergehend	ADV	_	Degree=Pos	9	mo	_	_
+20	in	in	ADP	_		9	mo	_	_
+21	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	22	nk	_	_
+22	Trauma	Trauma	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	nk	_	_
+23	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 4
+# text = Nachdem den tapfer kämpfenden Gästen der Ausgleich gelungen war ,
+1	Nachdem	nachdem	SCONJ	_		9	cp	_	_
+2	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+3	tapfer	tapfer	ADV	_	Degree=Pos	4	mo	_	_
+4	kämpfenden	kämpfend	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	5	nk	_	_
+5	Gästen	Gast	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	da	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Ausgleich	Ausgleich	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	sb	_	_
+8	gelungen	gelingen	VERB	_	VerbForm=Part	9	oc	_	_
+9	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 5
+# text = wechselte der wie eine Mumie auf der Bank sitzende ukrainische Coach noch zwei ähnliche Leichtgewichte ein .
+1	wechselte	wechseln	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	sb	_	_
+3	wie	wie	ADP	_		5	cm	_	_
+4	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Mumie	Mumie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	mo	_	_
+6	auf	auf	ADP	_		5	mnr	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Bank	Bank	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	sitzende	sitzend	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+10	ukrainische	ukrainisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Coach	Coach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	oa	_	_
+12	noch	noch	ADV	_		15	mo	_	_
+13	zwei	zwei	NUM	_		15	nk	_	_
+14	ähnliche	ähnlich	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	15	nk	_	_
+15	Leichtgewichte	Leichtgewicht	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	oa	_	_
+16	ein	ein	ADV	_		1	svp	_	_
+17	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Was soll das erst morgen Abend im zweiten Spiel werden ?
+1	Was	was	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	10	oa	_	_
+2	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+4	erst	erst	ADV	_		5	mo	_	_
+5	morgen	morgen	ADV	_		2	mo	_	_
+6	Abend	Abend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	mo	_	_
+7	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	10	mo	_	_
+8	zweiten	zweiter	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	9	nk	_	_
+9	Spiel	Spiel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+10	werden	werden	AUX	_	VerbForm=Inf	2	oc	_	_
+11	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Wenn die drei Knirpse von Anbeginn wirbeln ,
+1	Wenn	wenn	SCONJ	_		7	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	nk	_	_
+3	drei	drei	NUM	_		4	nk	_	_
+4	Knirpse	Knirpse	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	sb	_	_
+5	von	von	ADP	_		7	mo	_	_
+6	Anbeginn	Anbeginn	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	wirbeln	wirbeln	VERB	_	VerbForm=Inf	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = könnte der um Ehre und Reputation kämpfenden Mannschaft von Rudi Völler der Weg zur Weltmeisterschaft endgültig verbaut sein .
+1	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+3	um	um	ADP	_		7	mo	_	_
+4	Ehre	Ehre	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nk	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	Reputation	Reputation	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	cj	_	_
+7	kämpfenden	kämpfend	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Mannschaft	Mannschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	18	da	_	_
+9	von	von	ADP	_		8	pg	_	_
+10	Rudi	Rudi	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	pnc	_	_
+11	Völler	Völler	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	nk	_	_
+12	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+13	Weg	Weg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+14	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	13	mnr	_	_
+15	Weltmeisterschaft	Weltmeisterschaft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+16	endgültig	endgültig	ADV	_	Degree=Pos	17	mo	_	_
+17	verbaut	verbauen	VERB	_	VerbForm=Part	18	pd	_	_
+18	sein	sein	AUX	_	VerbForm=Inf	1	oc	_	_
+19	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = Je kleiner die Kicker daherkommen ,
+1	Je	je	ADV	_		2	mo	_	_
+2	kleiner	klein	ADV	_	Degree=Cmp	5	mo	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Kicker	Kicker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	sb	_	_
+5	daherkommen	daherkommen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 10
+# text = desto größer wird der Gegner geredet .
+1	desto	desto	ADV	_		2	mo	_	_
+2	größer	groß	ADV	_	Degree=Cmp	3	pd	_	_
+3	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Gegner	Gegner	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+6	geredet	reden	VERB	_	VerbForm=Part	3	oc	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = Die Fußball-Kleinmacht vom Dnepr steht kurz davor , das scheinbar mit einem Dauerabonnement für die WM ausgestattete Team in der schwarz-weißen Kluft und eine ganze Nation in das Tal der Tränen zu treiben .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Fußball-Kleinmacht	Fußball-Kleinmacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+3	vom	von	ADP	_	Case=Dat|Gender=Neut|Number=Sing	2	mnr	_	_
+4	Dnepr	Dnepr	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	kurz	kurz	ADV	_	Degree=Pos	7	mo	_	_
+7	davor	davor	ADV	_		5	mo	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	18	nk	_	_
+10	scheinbar	scheinbar	ADV	_	Degree=Pos	17	mo	_	_
+11	mit	mit	ADP	_		17	mo	_	_
+12	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	nk	_	_
+13	Dauerabonnement	Dauerabonnement	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+14	für	für	ADP	_		13	mnr	_	_
+15	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	WM	WM	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	nk	_	_
+17	ausgestattete	ausgestattet	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	nk	_	_
+18	Team	Team	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	33	oa	_	_
+19	in	in	ADP	_		18	mnr	_	_
+20	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	nk	_	_
+21	schwarz-weißen	schwarz-weiß	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	22	nk	_	_
+22	Kluft	Kluft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	nk	_	_
+23	und	und	CCONJ	_		18	cd	_	_
+24	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	nk	_	_
+25	ganze	ganz	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26	nk	_	_
+26	Nation	Nation	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	cj	_	_
+27	in	in	ADP	_		33	mo	_	_
+28	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	29	nk	_	_
+29	Tal	Tal	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	27	nk	_	_
+30	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	nk	_	_
+31	Tränen	Träne	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	29	ag	_	_
+32	zu	zu	PART	_		33	pm	_	_
+33	treiben	treiben	VERB	_	VerbForm=Inf	7	re	_	_
+34	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 12
+# text = Dabei haben die deutschen Nationalkicker einen " Rudi Riese " auf der Bank und einen Franz Beckenbauer mit heißem Draht zum Fußballgott .
+1	Dabei	dabei	ADV	_		2	mo	_	_
+2	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+4	deutschen	deutsch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	nk	_	_
+5	Nationalkicker	Nationalkicker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+6	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+7	"	--	PUNCT	_		9	punct	_	_
+8	Rudi	Rudi	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	pnc	_	_
+9	Riese	Riese	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	oa	_	_
+10	"	--	PUNCT	_		9	punct	_	_
+11	auf	auf	ADP	_		9	mnr	_	_
+12	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	Bank	Bank	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	nk	_	_
+14	und	und	CCONJ	_		9	cd	_	_
+15	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+16	Franz	Franz	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	17	pnc	_	_
+17	Beckenbauer	Beckenbauer	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	14	cj	_	_
+18	mit	mit	ADP	_		17	mnr	_	_
+19	heißem	heiß	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	nk	_	_
+20	Draht	Draht	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	18	nk	_	_
+21	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	20	mnr	_	_
+22	Fußballgott	Fußballgott	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	nk	_	_
+23	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = Fürchtet euch nicht !
+1	Fürchtet	Fürchten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	euch	euch	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	oa	_	_
+3	nicht	nicht	PART	_		1	ng	_	_
+4	!	--	PUNCT	_		1	punct	_	_
+

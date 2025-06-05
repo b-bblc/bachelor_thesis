@@ -1,0 +1,234 @@
+# sent_id = 1
+# text = Schäubles Unschuld
+1	Schäubles	Schäuble	PROPN	_	Case=Gen|Number=Sing	2	ag	_	_
+2	Unschuld	Unschuld	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Nun ist es offiziell :
+1	Nun	nun	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	offiziell	offiziell	ADV	_	Degree=Pos	2	pd	_	_
+5	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Die Berliner Staatsanwaltschaft hat ihr Ermittlungsverfahren gegen Wolfgang Schäuble eingestellt .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	Berliner	Berliner	ADJ	_	Degree=Pos	3	nk	_	_
+3	Staatsanwaltschaft	Staatsanwaltschaft	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	ihr	ihr	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Ermittlungsverfahren	Ermittlungsverfahren	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	oa	_	_
+7	gegen	gegen	ADP	_		6	mnr	_	_
+8	Wolfgang	Wolfgang	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	pnc	_	_
+9	Schäuble	Schäuble	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	7	nk	_	_
+10	eingestellt	einstellen	VERB	_	VerbForm=Part	4	oc	_	_
+11	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = Der ehemalige CDU-Chef fühlt sich nun offenbar wieder zu Höherem berufen .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	ehemalige	ehemalig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	CDU-Chef	CDU-Chef	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+4	fühlt	fühlen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	oa	_	_
+6	nun	nun	ADV	_		4	mo	_	_
+7	offenbar	offenbar	ADV	_	Degree=Pos	4	mo	_	_
+8	wieder	wieder	ADV	_		11	mo	_	_
+9	zu	zu	ADP	_		11	op	_	_
+10	Höherem	Höherem	NOUN	_	Case=Dat|Number=Sing	9	nk	_	_
+11	berufen	berufen	VERB	_	VerbForm=Part	4	oc	_	_
+12	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 5
+# text = Auf den Vorstoß von CSU-Landesgruppenchef Michael Glos , auch Schäuble komme als Kanzlerkandidat in Frage , reagierte er mit keinem Dementi , sondern mit offensichtlicher Zufriedenheit .
+1	Auf	auf	ADP	_		11	mo	_	_
+2	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Vorstoß	Vorstoß	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	nk	_	_
+4	von	von	ADP	_		3	pg	_	_
+5	CSU-Landesgruppenchef	CSU-Landesgruppenchef	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nk	_	_
+6	Michael	Michael	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	pnc	_	_
+7	Glos	Glos	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	,	--	PUNCT	_		3	punct	_	_
+9	auch	auch	ADV	_		10	mo	_	_
+10	Schäuble	Schäuble	PROPN	_	Case=Nom|Number=Sing	11	sb	_	_
+11	komme	kommen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	oc	_	_
+12	als	als	ADP	_		11	mo	_	_
+13	Kanzlerkandidat	Kanzlerkandidat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nk	_	_
+14	in	in	ADP	_		11	cvc	_	_
+15	Frage	Frage	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	nk	_	_
+16	,	--	PUNCT	_		17	punct	_	_
+17	reagierte	reagieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	ROOT	_	_
+18	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	sb	_	_
+19	mit	mit	ADP	_		17	mo	_	_
+20	keinem	kein	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	21	nk	_	_
+21	Dementi	Dementi	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	19	nk	_	_
+22	,	--	PUNCT	_		17	punct	_	_
+23	sondern	sondern	CCONJ	_		17	cd	_	_
+24	mit	mit	ADP	_		23	cj	_	_
+25	offensichtlicher	offensichtlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	26	nk	_	_
+26	Zufriedenheit	Zufriedenheit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	24	nk	_	_
+27	.	--	PUNCT	_		17	punct	_	_
+
+# sent_id = 6
+# text = Doch Schäuble sollte auf der Hut sein .
+1	Doch	doch	CCONJ	_		3	ju	_	_
+2	Schäuble	Schäuble	PROPN	_	Case=Nom|Number=Sing	3	sb	_	_
+3	sollte	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	auf	auf	ADP	_		7	mo	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Hut	Hut	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	sein	sein	AUX	_	VerbForm=Inf	3	oc	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = Glos setzt bei allem Respekt nicht ernsthaft auf einen Kanzlerkandidaten Schäuble ,
+1	Glos	Glos	PROPN	_	Case=Nom|Number=Sing	2	sb	_	_
+2	setzt	setzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	bei	bei	ADP	_		5	mo	_	_
+4	allem	aller	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	3	nk	_	_
+5	Respekt	Respekt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	oa	_	_
+6	nicht	nicht	PART	_		7	ng	_	_
+7	ernsthaft	ernsthaft	ADV	_	Degree=Pos	2	mo	_	_
+8	auf	auf	ADP	_		2	mo	_	_
+9	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Kanzlerkandidaten	Kanzlerkandidat	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nk	_	_
+11	Schäuble	Schäuble	PROPN	_	Case=Nom|Number=Sing	10	nk	_	_
+12	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = sondern will mit seinem Alleingang Bayerns Ministerpräsidenten Edmund Stoiber entlasten ,
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cj	_	_
+3	mit	mit	ADP	_		2	mo	_	_
+4	seinem	sein	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	nk	_	_
+5	Alleingang	Alleingang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+6	Bayerns	Bayern	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	7	ag	_	_
+7	Ministerpräsidenten	Ministerpräsident	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	sb	_	_
+8	Edmund	Edmund	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	pnc	_	_
+9	Stoiber	Stoiber	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nk	_	_
+10	entlasten	entlasten	VERB	_	VerbForm=Inf	10	ROOT	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 9
+# text = auf den in der Unionsfraktion der Druck immer stärker wird , bald seinen Anspruch auf die Kanzlerkandidatur zu erklären .
+1	auf	auf	ADP	_		1	ROOT	_	_
+2	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+3	in	in	ADP	_		10	mo	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Unionsfraktion	Unionsfraktion	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Druck	Druck	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	sb	_	_
+8	immer	immer	ADV	_		9	mo	_	_
+9	stärker	stark	ADV	_	Degree=Cmp	10	pd	_	_
+10	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	nk	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+12	bald	bald	ADV	_		19	mo	_	_
+13	seinen	sein	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	nk	_	_
+14	Anspruch	Anspruch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	oa	_	_
+15	auf	auf	ADP	_		14	mnr	_	_
+16	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+17	Kanzlerkandidatur	Kanzlerkandidatur	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	nk	_	_
+18	zu	zu	PART	_		19	pm	_	_
+19	erklären	erklären	VERB	_	VerbForm=Inf	10	mo	_	_
+20	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = Auch Glos weiß , dass Schäuble im Frühjahr 2000 nicht wegen des Ermittlungsverfahrens , sondern wegen politischer Fehler stürzte :
+1	Auch	auch	ADV	_		2	mo	_	_
+2	Glos	Glos	PROPN	_	Case=Nom|Number=Sing	3	sb	_	_
+3	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	dass	dass	SCONJ	_		11	cp	_	_
+6	Schäuble	Schäuble	PROPN	_	Case=Nom|Number=Sing	11	sb	_	_
+7	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	11	mo	_	_
+8	Frühjahr	Frühjahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+9	2000	2000	NUM	_		8	nk	_	_
+10	nicht	nicht	PART	_		11	ng	_	_
+11	wegen	wegen	ADP	_		3	oc	_	_
+12	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	nk	_	_
+13	Ermittlungsverfahrens	Ermittlungsverfahren	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	11	nk	_	_
+14	,	--	PUNCT	_		11	punct	_	_
+15	sondern	sondern	CCONJ	_		11	cd	_	_
+16	wegen	wegen	ADP	_		19	mo	_	_
+17	politischer	politisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	18	nk	_	_
+18	Fehler	Fehler	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	16	nk	_	_
+19	stürzte	stürzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cj	_	_
+20	:	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = Er hatte den Bundestag über die Annahme einer 100_000-Mark-Spende vom Waffenhändler Schreiber belogen
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Bundestag	Bundestag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	oa	_	_
+5	über	über	ADP	_		13	op	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Annahme	Annahme	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	nk	_	_
+8	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	100_000-Mark-Spende	100_000-Mark-Spende	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	ag	_	_
+10	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	9	pg	_	_
+11	Waffenhändler	Waffenhändler	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	nk	_	_
+12	Schreiber	Schreiber	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	nk	_	_
+13	belogen	belügen	VERB	_	VerbForm=Part	2	oc	_	_
+
+# sent_id = 12
+# text = und seine Konflikte mit Kanzler Kohl und der früheren CDU-Schatzmeisterin Baumeister auf extreme Weise eskalieren lassen .
+1	und	und	CCONJ	_		16	ju	_	_
+2	seine	sein	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	nk	_	_
+3	Konflikte	Konflikt	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	16	oa	_	_
+4	mit	mit	ADP	_		3	mnr	_	_
+5	Kanzler	Kanzler	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nk	_	_
+6	Kohl	Kohl	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	und	und	CCONJ	_		5	cd	_	_
+8	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+9	früheren	früh	ADJ	_	Case=Dat|Degree=Cmp|Gender=Fem|Number=Sing	10	nk	_	_
+10	CDU-Schatzmeisterin	CDU-Schatzmeisterin	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	cj	_	_
+11	Baumeister	Baumeister	PROPN	_	Case=Nom|Number=Sing	10	nk	_	_
+12	auf	auf	ADP	_		15	mo	_	_
+13	extreme	extrem	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	nk	_	_
+14	Weise	Weise	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nk	_	_
+15	eskalieren	eskalieren	VERB	_	VerbForm=Inf	16	oc	_	_
+16	lassen	lassen	VERB	_	VerbForm=Inf	16	ROOT	_	_
+17	.	--	PUNCT	_		16	punct	_	_
+
+# sent_id = 13
+# text = Schäuble ist ein kluger Kopf ,
+1	Schäuble	Schäuble	PROPN	_	Case=Nom|Number=Sing	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	kluger	klug	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Kopf	Kopf	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	pd	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = vielleicht sogar der klügste , den die Union zu bieten hat .
+1	vielleicht	vielleicht	ADV	_		4	mo	_	_
+2	sogar	sogar	ADV	_		4	mo	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	klügste	klügste	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	den	der	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	10	oa	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Union	Union	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	bieten	bieten	VERB	_	VerbForm=Inf	11	oc	_	_
+11	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	rc	_	_
+12	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 15
+# text = Doch er muss aufpassen , nicht plötzlich zwischen allen Stühlen zu sitzen .
+1	Doch	doch	CCONJ	_		3	ju	_	_
+2	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	muss	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	aufpassen	aufpassen	VERB	_	VerbForm=Inf	3	oc	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	nicht	nicht	PART	_		7	ng	_	_
+7	plötzlich	plötzlich	ADV	_	Degree=Pos	12	mo	_	_
+8	zwischen	zwischen	ADP	_		12	mo	_	_
+9	allen	aller	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Ind	10	nk	_	_
+10	Stühlen	Stuhl	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	nk	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	sitzen	sitzen	VERB	_	VerbForm=Inf	4	oc	_	_
+13	.	--	PUNCT	_		3	punct	_	_
+

@@ -1,0 +1,236 @@
+# sent_id = 1
+# text = Lebensader gedeiht
+1	Lebensader	Lebensader	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+2	gedeiht	gedeihen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+
+# sent_id = 2
+# text = Luckenwalde kann bekanntlich aus den Millionen des Urban-Projektes in den nächsten Jahren einen zweckmäßigen und modernen Stadtumbau gestalten .
+1	Luckenwalde	Luckenwalde	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+2	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	bekanntlich	bekanntlich	ADV	_		2	mo	_	_
+4	aus	aus	ADP	_		18	mo	_	_
+5	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	nk	_	_
+6	Millionen	Million	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	4	nk	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Urban-Projektes	Urban-Projekt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+9	in	in	ADP	_		18	mo	_	_
+10	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	nk	_	_
+11	nächsten	nächster	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	12	nk	_	_
+12	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	9	nk	_	_
+13	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+14	zweckmäßigen	zweckmäßig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	nk	_	_
+15	und	und	CCONJ	_		14	cd	_	_
+16	modernen	modern	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	cj	_	_
+17	Stadtumbau	Stadtumbau	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	oa	_	_
+18	gestalten	gestalten	VERB	_	VerbForm=Inf	2	oc	_	_
+19	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Doch der würde wenig nützen ,
+1	Doch	doch	CCONJ	_		3	ju	_	_
+2	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	sb	_	_
+3	würde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	wenig	wenig	PRON	_	PronType=Ind	5	oa	_	_
+5	nützen	nützen	VERB	_	VerbForm=Inf	3	oc	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = wenn sich wie derzeit auch in einigen Jahren immer noch die B 101 durch die Stadt schlängeln würde .
+1	wenn	wenn	SCONJ	_		18	cp	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	oa	_	_
+3	wie	wie	ADP	_		4	cm	_	_
+4	derzeit	derzeit	ADV	_		6	mo	_	_
+5	auch	auch	ADV	_		6	mo	_	_
+6	in	in	ADP	_		17	mo	_	_
+7	einigen	einiger	DET	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Ind	8	nk	_	_
+8	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	6	nk	_	_
+9	immer	immer	ADV	_		10	mo	_	_
+10	noch	noch	ADV	_		17	mo	_	_
+11	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	B	--	X	_		18	sb	_	_
+13	101	101	NUM	_		12	pnc	_	_
+14	durch	durch	ADP	_		17	mo	_	_
+15	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	Stadt	Stadt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	nk	_	_
+17	schlängeln	schlängeln	VERB	_	VerbForm=Inf	18	oc	_	_
+18	würde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	ROOT	_	_
+19	.	--	PUNCT	_		18	punct	_	_
+
+# sent_id = 5
+# text = Also kann es nur gut sein ,
+1	Also	also	ADV	_		2	mo	_	_
+2	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+4	nur	nur	ADV	_		5	mo	_	_
+5	gut	gut	ADV	_	Degree=Pos	6	pd	_	_
+6	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = wenn die Ortsumgehung so schnell wie möglich fertig wird .
+1	wenn	wenn	SCONJ	_		9	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Ortsumgehung	Ortsumgehung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	sb	_	_
+4	so	so	ADV	_		5	mo	_	_
+5	schnell	schnell	ADV	_	Degree=Pos	9	mo	_	_
+6	wie	wie	ADP	_		7	cm	_	_
+7	möglich	möglich	ADV	_	Degree=Pos	4	cc	_	_
+8	fertig	fertig	ADV	_	Degree=Pos	9	pd	_	_
+9	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 7
+# text = Auf dem Weg dorthin wurde gestern mit der feierlichen Grundsteinlegung für die Baumaßnahmen zur Ortsumgehung ein wichtiger Meilenstein gelegt .
+1	Auf	auf	ADP	_		19	mo	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Weg	Weg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+4	dorthin	dorthin	ADV	_		3	mnr	_	_
+5	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	gestern	gestern	ADV	_		19	mo	_	_
+7	mit	mit	ADP	_		19	mo	_	_
+8	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+9	feierlichen	feierlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Grundsteinlegung	Grundsteinlegung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+11	für	für	ADP	_		10	mnr	_	_
+12	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	nk	_	_
+13	Baumaßnahmen	Baumaßnahm	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	11	nk	_	_
+14	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	13	mnr	_	_
+15	Ortsumgehung	Ortsumgehung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+16	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	nk	_	_
+17	wichtiger	wichtig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nk	_	_
+18	Meilenstein	Meilenstein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	oa	_	_
+19	gelegt	legen	VERB	_	VerbForm=Part	5	oc	_	_
+20	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 8
+# text = In gut zwei Jahren soll alles fertig sein .
+1	In	in	ADP	_		8	mo	_	_
+2	gut	gut	ADV	_		3	mo	_	_
+3	zwei	zwei	NUM	_		4	nk	_	_
+4	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	1	nk	_	_
+5	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	alles	alle	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	sb	_	_
+7	fertig	fertig	ADV	_	Degree=Pos	8	pd	_	_
+8	sein	sein	AUX	_	VerbForm=Inf	5	oc	_	_
+9	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 9
+# text = Dann sorgt die neue B 101 als Lebensader der Region nicht nur für eine schnelle Anbindung an die Autobahn .
+1	Dann	dann	ADV	_		2	mo	_	_
+2	sorgt	sorgen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	B	--	X	_		2	sb	_	_
+6	101	101	NUM	_		2	oa	_	_
+7	als	als	ADP	_		2	mo	_	_
+8	Lebensader	Lebensader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nk	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Region	Region	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+11	nicht	nicht	PART	_		12	ng	_	_
+12	nur	nur	ADV	_		13	mo	_	_
+13	für	für	ADP	_		2	op	_	_
+14	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+15	schnelle	schnell	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	nk	_	_
+16	Anbindung	Anbindung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	nk	_	_
+17	an	an	ADP	_		16	mnr	_	_
+18	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	nk	_	_
+19	Autobahn	Autobahn	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	nk	_	_
+20	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Die Ortsumgehung garantiert , dass mehr Ruhe in die Stadt einkehrt ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Ortsumgehung	Ortsumgehung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	garantiert	garantieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	dass	dass	SCONJ	_		11	cp	_	_
+6	mehr	mehr	DET	_	PronType=Ind	7	nk	_	_
+7	Ruhe	Ruhe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+8	in	in	ADP	_		11	mo	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Stadt	Stadt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nk	_	_
+11	einkehrt	einkehren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+12	,	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 11
+# text = Luckenwalde als Wohnort immer attraktiver wird .
+1	Luckenwalde	Luckenwalde	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	sb	_	_
+2	als	als	ADP	_		1	mnr	_	_
+3	Wohnort	Wohnort	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nk	_	_
+4	immer	immer	ADV	_		5	mo	_	_
+5	attraktiver	attraktiv	ADV	_	Degree=Cmp	6	pd	_	_
+6	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 12
+# text = Doch Ruhe ist keinesfalls im Wirtschaftsbereich angesagt .
+1	Doch	doch	CCONJ	_		3	ju	_	_
+2	Ruhe	Ruhe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	keinesfalls	keinesfalls	ADV	_		7	mo	_	_
+5	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mo	_	_
+6	Wirtschaftsbereich	Wirtschaftsbereich	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	angesagt	ansagen	VERB	_	VerbForm=Part	3	pd	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Die neue Straße soll ja gerade auch Investoren locken .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Straße	Straße	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	ja	ja	ADV	_		4	mo	_	_
+6	gerade	gerade	ADV	_		4	mo	_	_
+7	auch	auch	ADV	_		8	mo	_	_
+8	Investoren	Investor	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+9	locken	locken	VERB	_	VerbForm=Inf	4	oc	_	_
+10	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 14
+# text = Moderne verkehrliche Infrastruktur ist aber auch nur als Signal an die Wirtschaft zu verstehen , sich hier oder dort niederzulassen .
+1	Moderne	modern	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+2	verkehrliche	verkehrlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Infrastruktur	Infrastruktur	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	aber	aber	ADV	_		4	mo	_	_
+6	auch	auch	ADV	_		14	mo	_	_
+7	nur	nur	ADV	_		8	mo	_	_
+8	als	als	ADP	_		14	mo	_	_
+9	Signal	Signal	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nk	_	_
+10	an	an	ADP	_		14	op	_	_
+11	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Wirtschaft	Wirtschaft	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	nk	_	_
+13	zu	zu	PART	_		14	pm	_	_
+14	verstehen	verstehen	VERB	_	VerbForm=Inf	4	oc	_	_
+15	,	--	PUNCT	_		14	punct	_	_
+16	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	20	oa	_	_
+17	hier	hier	ADV	_		20	mo	_	_
+18	oder	oder	CCONJ	_		17	cd	_	_
+19	dort	dort	ADV	_		18	cj	_	_
+20	niederzulassen	niederlassen	VERB	_	VerbForm=Inf	4	oc	_	_
+21	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 15
+# text = Wichtig ist vor allem , Investoren überzeugend klar zu machen , warum Luckenwalde für sie ein lohnenswerter Standort sein kann .
+1	Wichtig	wichtig	ADV	_	Degree=Pos	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	vor	vor	ADP	_		2	mo	_	_
+4	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	3	nk	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	Investoren	Investor	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	oa	_	_
+7	überzeugend	überzeugend	ADV	_	Degree=Pos	8	mo	_	_
+8	klar	klar	ADV	_	Degree=Pos	10	mo	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	machen	machen	VERB	_	VerbForm=Inf	2	sb	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+12	warum	warum	SCONJ	_	PronType=Int	20	mo	_	_
+13	Luckenwalde	Luckenwalde	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	20	sb	_	_
+14	für	für	ADP	_		13	mnr	_	_
+15	sie	sie	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	nk	_	_
+16	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	nk	_	_
+17	lohnenswerter	lohnenswert	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nk	_	_
+18	Standort	Standort	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	pd	_	_
+19	sein	sein	AUX	_	VerbForm=Inf	20	oc	_	_
+20	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+21	.	--	PUNCT	_		2	punct	_	_
+

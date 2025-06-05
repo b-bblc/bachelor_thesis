@@ -1,0 +1,239 @@
+# sent_id = 1
+# text = Wunsch nach Frieden
+1	Wunsch	Wunsch	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	ROOT	_	_
+2	nach	nach	ADP	_		1	mnr	_	_
+3	Frieden	Frieden	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+
+# sent_id = 2
+# text = Der Wunsch nach Frieden wächst in Zeiten des Krieges .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Wunsch	Wunsch	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+3	nach	nach	ADP	_		2	mnr	_	_
+4	Frieden	Frieden	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+5	wächst	wachsen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	in	in	ADP	_		5	mo	_	_
+7	Zeiten	Zeit	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	6	nk	_	_
+8	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Krieges	Krieg	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	ag	_	_
+10	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 3
+# text = Erst recht , wenn der Krieg dem eigenen Land gefährlich nahe rückt .
+1	Erst	erst	ADV	_		2	mo	_	_
+2	recht	recht	ADV	_		12	mo	_	_
+3	,	--	PUNCT	_		12	punct	_	_
+4	wenn	wenn	SCONJ	_		12	cp	_	_
+5	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Krieg	Krieg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	sb	_	_
+7	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+8	eigenen	eigen	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	9	nk	_	_
+9	Land	Land	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	12	da	_	_
+10	gefährlich	gefährlich	ADV	_	Degree=Pos	12	mo	_	_
+11	nahe	nah	ADV	_	Degree=Pos	12	mo	_	_
+12	rückt	rücken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 4
+# text = Afghanistan ist seit dem vom Bundestag abgesegneten Bündnis-Marschbefehl für deutsche Soldaten näher , als es viele wahrhaben wollen .
+1	Afghanistan	Afghanistan	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	seit	seit	ADP	_		2	mo	_	_
+4	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+5	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	sbp	_	_
+6	Bundestag	Bundestag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	abgesegneten	abgesegnet	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Bündnis-Marschbefehl	Bündnis-Marschbefehl	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+9	für	für	ADP	_		8	mnr	_	_
+10	deutsche	deutsch	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	11	nk	_	_
+11	Soldaten	Soldat	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	nk	_	_
+12	näher	nah	ADV	_	Degree=Cmp	2	pd	_	_
+13	,	--	PUNCT	_		2	punct	_	_
+14	als	als	SCONJ	_		18	cp	_	_
+15	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	sb	_	_
+16	viele	vieler	PRON	_	Case=Nom|Number=Plur|PronType=Ind	18	sb	_	_
+17	wahrhaben	wahrhaben	VERB	_	VerbForm=Inf	18	oc	_	_
+18	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	mo	_	_
+19	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = Diese Situation beschäftigt auch die MAZ-Jugendredakteure .
+1	Diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	nk	_	_
+2	Situation	Situation	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	beschäftigt	beschäftigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	auch	auch	ADV	_		6	mo	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	nk	_	_
+6	MAZ-Jugendredakteure	MAZ-Jugendredakteur	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	oa	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = Wen lässt ein heißer Krieg mit deutscher Beteiligung kalt ? !
+1	Wen	wen	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	sb	_	_
+2	lässt	lässt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	heißer	heiß	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Krieg	Krieg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+6	mit	mit	ADP	_		5	mnr	_	_
+7	deutscher	deutsch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Beteiligung	Beteiligung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	kalt	kalt	ADV	_	Degree=Pos	2	mo	_	_
+10	?	--	PUNCT	_		2	punct	_	_
+11	!	--	PUNCT	_		11	ROOT	_	_
+
+# sent_id = 7
+# text = Diesem Szenario setzen die Nachwuchsjournalisten eine Seite und den Wunsch nach Frieden entgegen .
+1	Diesem	dieser	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	2	nk	_	_
+2	Szenario	Szenario	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	da	_	_
+3	setzen	setzen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Nachwuchsjournalisten	Nachwuchsjournalist	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+6	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Seite	Seite	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	oa	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Wunsch	Wunsch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	cj	_	_
+11	nach	nach	ADP	_		10	mnr	_	_
+12	Frieden	Frieden	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	nk	_	_
+13	entgegen	entgegen	ADP	_		3	svp	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 8
+# text = Eben dem verleihen Menschen seit vielen Generationen Ausdruck mit Symbolen : Peace-Zeichen , Friedenspfeife , Regenbogen , Olivenzweig , Kerzen , Friedenstaube ...
+1	Eben	eben	ADV	_		4	mo	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+3	verleihen	verleihen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	nk	_	_
+4	Menschen	Mensch	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	ROOT	_	_
+5	seit	seit	ADP	_		4	mnr	_	_
+6	vielen	vieler	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	7	nk	_	_
+7	Generationen	Generation	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+8	Ausdruck	Ausdruck	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	pd	_	_
+9	mit	mit	ADP	_		8	mnr	_	_
+10	Symbolen	Symbol	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	9	nk	_	_
+11	:	--	PUNCT	_		4	punct	_	_
+12	Peace-Zeichen	Peace-Zeich	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	par	_	_
+13	,	--	PUNCT	_		12	punct	_	_
+14	Friedenspfeife	Friedenspfeife	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	cj	_	_
+15	,	--	PUNCT	_		12	punct	_	_
+16	Regenbogen	Regenbog	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	14	cj	_	_
+17	,	--	PUNCT	_		12	punct	_	_
+18	Olivenzweig	Olivenzweig	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	cj	_	_
+19	,	--	PUNCT	_		12	punct	_	_
+20	Kerzen	Kerze	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	cj	_	_
+21	,	--	PUNCT	_		12	punct	_	_
+22	Friedenstaube	Friedenstaube	PROPN	_	Case=Nom|Number=Sing	14	cj	_	_
+23	...	--	PUNCT	_		23	ROOT	_	_
+
+# sent_id = 9
+# text = Wann werden Friedenstauben weltweit fliegen ?
+1	Wann	wann	ADV	_	PronType=Int	5	mo	_	_
+2	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Friedenstauben	Friedenstaub	NOUN	_	Case=Nom|Number=Plur	2	sb	_	_
+4	weltweit	weltweit	ADV	_	Degree=Pos	5	mo	_	_
+5	fliegen	fliegen	VERB	_	VerbForm=Inf	2	oc	_	_
+6	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Wohl nie .
+1	Wohl	wohl	ADV	_		2	mo	_	_
+2	nie	nie	ADV	_		2	ROOT	_	_
+3	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Dazu ist das Unrecht auf unserem Planeten viel zu groß ,
+1	Dazu	dazu	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Unrecht	Unrecht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	auf	auf	ADP	_		2	mo	_	_
+6	unserem	unser	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nk	_	_
+7	Planeten	Planet	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	viel	viel	ADV	_		10	mo	_	_
+9	zu	zu	PART	_		10	mo	_	_
+10	groß	groß	ADV	_	Degree=Pos	2	pd	_	_
+11	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = wie Kriegsberichte aus Afghanistan , Israel und Afrika täglich im Fernsehen verdeutlichen .
+1	wie	wie	ADP	_		2	cm	_	_
+2	Kriegsberichte	Kriegsbericht	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	12	sb	_	_
+3	aus	aus	ADP	_		2	mnr	_	_
+4	Afghanistan	Afghanistan	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	Israel	Israel	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	4	cj	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	Afrika	Afrika	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	7	cj	_	_
+9	täglich	täglich	ADV	_	Degree=Pos	12	mo	_	_
+10	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	12	mo	_	_
+11	Fernsehen	Fernsehen	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	verdeutlichen	verdeutlichen	VERB	_	VerbForm=Inf	12	ROOT	_	_
+13	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 13
+# text = Zu weit klafft die Schere zwischen Arm und Reich auseinander .
+1	Zu	zu	PART	_		2	mo	_	_
+2	weit	weit	ADV	_	Degree=Pos	3	mo	_	_
+3	klafft	klaffen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Schere	Schere	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+6	zwischen	zwischen	ADP	_		3	mo	_	_
+7	Arm	Arm	NOUN	_	Case=Dat|Number=Sing	6	nk	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	Reich	reiche	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	cj	_	_
+10	auseinander	auseinander	ADV	_		3	svp	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = Sozialer Sprengstoff , der Unmenschen wie bin Laden stark und unberechenbar gemacht hat .
+1	Sozialer	sozial	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	nk	_	_
+2	Sprengstoff	Sprengstoff	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	pd	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nk	_	_
+5	Unmenschen	Unmenschen	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	cj	_	_
+6	wie	wie	ADP	_		7	mo	_	_
+7	bin	sein	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	ROOT	_	_
+8	Laden	Laden	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	sb	_	_
+9	stark	stark	ADV	_	Degree=Pos	12	mo	_	_
+10	und	und	CCONJ	_		9	cd	_	_
+11	unberechenbar	unberechenbar	ADV	_	Degree=Pos	10	cj	_	_
+12	gemacht	machen	VERB	_	VerbForm=Part	13	oc	_	_
+13	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	oc	_	_
+14	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 15
+# text = Das haben die Anschläge vom 11. September gezeigt .
+1	Das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	oa	_	_
+2	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Anschläge	Anschlag	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	4	mnr	_	_
+6	11.	11.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	September	September	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	gezeigt	zeigen	VERB	_	VerbForm=Part	2	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Aber heiligt der Kampf gegen den Top-Terroristen und seine Helfer jedes kriegerische Mittel ?
+1	Aber	aber	CCONJ	_		2	ju	_	_
+2	heiligt	heiligt	ADV	_	Degree=Pos	2	ROOT	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Kampf	Kampf	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	gegen	gegen	ADP	_		4	mnr	_	_
+6	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Top-Terroristen	Top-Terrorist	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nk	_	_
+8	und	und	CCONJ	_		4	cd	_	_
+9	seine	sein	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Helfer	Helfer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	cj	_	_
+11	jedes	jeder	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	13	nk	_	_
+12	kriegerische	kriegerisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	nk	_	_
+13	Mittel	Mittel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	oa	_	_
+14	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = Auch diese Frage muss erlaubt sein .
+1	Auch	auch	ADV	_		3	mo	_	_
+2	diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nk	_	_
+3	Frage	Frage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	erlaubt	erlauben	VERB	_	VerbForm=Part	6	pd	_	_
+6	sein	sein	AUX	_	VerbForm=Inf	4	oc	_	_
+7	.	--	PUNCT	_		4	punct	_	_
+

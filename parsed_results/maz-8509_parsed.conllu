@@ -1,0 +1,254 @@
+# sent_id = 1
+# text = Barbies im Laubsack
+1	Barbies	Barbie	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	ROOT	_	_
+2	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	1	mnr	_	_
+3	Laubsack	Laubsack	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+
+# sent_id = 2
+# text = Reste vom Sonntagsbraten , leere Milchtüten oder die alte Barbiepuppe gehören nicht in den Laubsack .
+1	Reste	Rest	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	sb	_	_
+2	vom	von	ADP	_	Case=Dat|Gender=Neut|Number=Sing	1	pg	_	_
+3	Sonntagsbraten	Sonntagsbraten	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	leere	leer	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	nk	_	_
+6	Milchtüten	Milchtüte	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	cj	_	_
+7	oder	oder	CCONJ	_		6	cd	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+9	alte	alt	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Barbiepuppe	Barbiepuppe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	cj	_	_
+11	gehören	gehören	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	nicht	nicht	PART	_		11	ng	_	_
+13	in	in	ADP	_		11	mo	_	_
+14	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+15	Laubsack	Laubsack	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	nk	_	_
+16	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 3
+# text = Das weiß jedes Kind ,
+1	Das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	oa	_	_
+2	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	jedes	jeder	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	nk	_	_
+4	Kind	Kind	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = aber nicht jeder hält sich daran .
+1	aber	aber	CCONJ	_		4	ju	_	_
+2	nicht	nicht	PART	_		3	ng	_	_
+3	jeder	jeder	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	sb	_	_
+4	hält	halten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	oa	_	_
+6	daran	daran	ADV	_		4	mo	_	_
+7	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 5
+# text = Alle Jahre wieder findet sich in vielen Säcken Unrat und so manche Kuriosität .
+1	Alle	aller	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	2	nk	_	_
+2	Jahre	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	ams	_	_
+3	wieder	wieder	ADV	_		4	mo	_	_
+4	findet	finden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	oa	_	_
+6	in	in	ADP	_		4	mo	_	_
+7	vielen	vieler	DET	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Ind	8	nk	_	_
+8	Säcken	Säck	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	6	nk	_	_
+9	Unrat	Unrat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+10	und	und	CCONJ	_		9	cd	_	_
+11	so	so	ADV	_		12	mo	_	_
+12	manche	mancher	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	13	nk	_	_
+13	Kuriosität	Kuriosität	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	cj	_	_
+14	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 6
+# text = In Nauen beispielsweise bleibt inzwischen jeder sechste der jährlich anfallenden 4000 Säcke an der Straße zurück ,
+1	In	in	ADP	_		4	mo	_	_
+2	Nauen	Nauen	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+3	beispielsweise	beispielsweise	ADV	_		1	mo	_	_
+4	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	inzwischen	inzwischen	ADV	_		4	mo	_	_
+6	jeder	jeder	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	nk	_	_
+7	sechste	sechster	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	sb	_	_
+8	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	nk	_	_
+9	jährlich	jährlich	ADV	_	Degree=Pos	10	mo	_	_
+10	anfallenden	anfallend	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	12	nk	_	_
+11	4000	4000	NUM	_		12	nk	_	_
+12	Säcke	Säck	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	ag	_	_
+13	an	an	ADP	_		12	mnr	_	_
+14	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+15	Straße	Straße	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	nk	_	_
+16	zurück	zurück	ADV	_		4	svp	_	_
+17	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 7
+# text = weil er nicht mit Laub von Straßenbäumen ,
+1	weil	weil	SCONJ	_		1	ROOT	_	_
+2	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	mo	_	_
+3	nicht	nicht	PART	_		2	ng	_	_
+4	mit	mit	ADP	_		3	mo	_	_
+5	Laub	Laub	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+6	von	von	ADP	_		5	pg	_	_
+7	Straßenbäumen	Straßenbäumen	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+8	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 8
+# text = sondern mit Garten- oder Hausabfällen gefüllt ist .
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	mit	mit	ADP	_		6	mo	_	_
+3	Garten-	Garte	X	_		4	cj	_	_
+4	oder	oder	CCONJ	_		5	cd	_	_
+5	Hausabfällen	Hausabfäll	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	nk	_	_
+6	gefüllt	füllen	VERB	_	VerbForm=Part	7	pd	_	_
+7	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cj	_	_
+8	.	--	PUNCT	_		8	ROOT	_	_
+
+# sent_id = 9
+# text = Tendenz steigend .
+1	Tendenz	Tendenz	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+2	steigend	steigend	ADV	_	Degree=Pos	1	pd	_	_
+3	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = Immer mehr verantwortungslose Zeitgenossen versuchen , ihren Müll illegal loszuwerden
+1	Immer	immer	ADV	_		2	mo	_	_
+2	mehr	mehr	DET	_	PronType=Ind	4	nk	_	_
+3	verantwortungslose	verantwortungslos	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nk	_	_
+4	Zeitgenossen	Zeitgenosse	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	sb	_	_
+5	versuchen	versuchen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	ihren	ihr	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nk	_	_
+8	Müll	Müll	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	oa	_	_
+9	illegal	illegal	ADV	_	Degree=Pos	10	mo	_	_
+10	loszuwerden	loswerden	VERB	_	VerbForm=Inf	5	oc	_	_
+
+# sent_id = 11
+# text = statt ihn ordnungsgemäß zu entsorgen .
+1	statt	statt	SCONJ	_		5	cp	_	_
+2	ihn	ihn	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	oa	_	_
+3	ordnungsgemäß	ordnungsgemäß	ADV	_	Degree=Pos	5	mo	_	_
+4	zu	zu	PART	_		5	pm	_	_
+5	entsorgen	entsorgen	VERB	_	VerbForm=Inf	5	ROOT	_	_
+6	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 12
+# text = Das wird letztlich alle teuer zu stehen kommen .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	letztlich	letztlich	ADV	_		2	mo	_	_
+4	alle	alle	PRON	_	Case=Nom|Number=Plur|PronType=Ind	2	sb	_	_
+5	teuer	teuer	ADV	_	Degree=Pos	7	pd	_	_
+6	zu	zu	PART	_		7	pm	_	_
+7	stehen	stehen	VERB	_	VerbForm=Inf	8	oc	_	_
+8	kommen	kommen	VERB	_	VerbForm=Inf	2	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = Denn angesichts des zunehmenden Missbrauchs und leerer Kassen
+1	Denn	denn	CCONJ	_		2	ju	_	_
+2	angesichts	angesichts	ADP	_		2	ROOT	_	_
+3	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	zunehmenden	zunehmend	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Missbrauchs	Missbrauch	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nk	_	_
+6	und	und	CCONJ	_		5	cd	_	_
+7	leerer	leer	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	8	nk	_	_
+8	Kassen	Kasse	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	cj	_	_
+
+# sent_id = 14
+# text = ist es nur noch eine Frage der Zeit , bis die Stadtväter die für den Bürger kostenlose Laubentsorgung einstellen .
+1	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	sb	_	_
+3	nur	nur	ADV	_		6	mo	_	_
+4	noch	noch	ADV	_		3	mo	_	_
+5	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Frage	Frage	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	pd	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Zeit	Zeit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	ag	_	_
+9	,	--	PUNCT	_		1	punct	_	_
+10	bis	bis	SCONJ	_		19	cp	_	_
+11	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Stadtväter	Stadtväter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	sb	_	_
+13	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	nk	_	_
+14	für	für	ADP	_		17	mo	_	_
+15	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	nk	_	_
+16	Bürger	Bürger	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	nk	_	_
+17	kostenlose	kostenlos	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	nk	_	_
+18	Laubentsorgung	Laubentsorgung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	oa	_	_
+19	einstellen	einstellen	VERB	_	VerbForm=Inf	2	re	_	_
+20	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 15
+# text = Immerhin rund 26_000 Mark ließen sich damit pro Jahr einsparen ,
+1	Immerhin	immerhin	ADV	_		3	mo	_	_
+2	rund	rund	ADV	_		3	mo	_	_
+3	26_000	26_000	NUM	_		4	nk	_	_
+4	Mark	Mark	NOUN	_	Gender=Fem	5	sb	_	_
+5	ließen	lassen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+7	damit	damit	ADV	_		10	mo	_	_
+8	pro	pro	ADP	_		10	mo	_	_
+9	Jahr	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nk	_	_
+10	einsparen	einsparen	VERB	_	VerbForm=Inf	5	oc	_	_
+11	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 16
+# text = Geld , das an anderen Stellen dringend benötigt wird .
+1	Geld	Geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	sb	_	_
+4	an	an	ADP	_		8	mo	_	_
+5	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	6	nk	_	_
+6	Stellen	Stelle	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	4	nk	_	_
+7	dringend	dringend	ADV	_	Degree=Pos	8	mo	_	_
+8	benötigt	benötigen	VERB	_	VerbForm=Part	9	oc	_	_
+9	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	rc	_	_
+10	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 17
+# text = Entsorgung nur noch gegen Vorkasse , das könnte schon bald Realität werden .
+1	Entsorgung	Entsorgung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+2	nur	nur	ADV	_		4	mo	_	_
+3	noch	noch	ADV	_		2	mo	_	_
+4	gegen	gegen	ADP	_		1	mnr	_	_
+5	Vorkasse	Vorkaß	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	nk	_	_
+6	,	--	PUNCT	_		4	punct	_	_
+7	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	sb	_	_
+8	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	schon	schon	ADV	_		10	mo	_	_
+10	bald	bald	ADV	_		8	mo	_	_
+11	Realität	Realität	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	pd	_	_
+12	werden	werden	AUX	_	VerbForm=Inf	8	oc	_	_
+13	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 18
+# text = Denn seit Jahren appelliert die Stadt an die Einsicht ihrer Bürger ,
+1	Denn	denn	CCONJ	_		4	ju	_	_
+2	seit	seit	ADP	_		4	mo	_	_
+3	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	2	nk	_	_
+4	appelliert	appellieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Stadt	Stadt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+7	an	an	ADP	_		4	op	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Einsicht	Einsicht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nk	_	_
+10	ihrer	ihr	DET	_	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	nk	_	_
+11	Bürger	Bürger	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	ag	_	_
+12	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 19
+# text = und jedes Jahr aufs Neue zeigt sich , dass diese Appelle ( bisher ) umsonst sind .
+1	und	und	CCONJ	_		6	ju	_	_
+2	jedes	jeder	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	3	nk	_	_
+3	Jahr	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	cj	_	_
+4	aufs	auf	ADP	_	Case=Acc|Gender=Neut|Number=Sing	3	mnr	_	_
+5	Neue	neue	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nk	_	_
+6	zeigt	zeigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	oa	_	_
+8	,	--	PUNCT	_		6	punct	_	_
+9	dass	dass	SCONJ	_		16	cp	_	_
+10	diese	dieser	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	11	nk	_	_
+11	Appelle	Appell	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	sb	_	_
+12	(	--	PUNCT	_		13	punct	_	_
+13	bisher	bisher	ADV	_		16	mo	_	_
+14	)	--	PUNCT	_		13	punct	_	_
+15	umsonst	umsonst	ADV	_		16	mo	_	_
+16	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	sb	_	_
+17	.	--	PUNCT	_		6	punct	_	_
+

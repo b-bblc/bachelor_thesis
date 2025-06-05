@@ -1,0 +1,227 @@
+# sent_id = 1
+# text = Scheibchenweise
+1	Scheibchenweise	Scheibchenweis	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	ROOT	_	_
+
+# sent_id = 2
+# text = Es ist eine erfreuliche Serie :
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	erfreuliche	erfreulich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Serie	Serie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	pd	_	_
+6	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Am Donnerstag vergangener Woche nahmen die Klimafolgenforscher auf dem Telegrafenberg einen Supercomputer in Betrieb ,
+1	Am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	5	mo	_	_
+2	Donnerstag	Donnerstag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	vergangener	vergangen	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Woche	Woche	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	ag	_	_
+5	nahmen	nehmen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+7	Klimafolgenforscher	Klimafolgenforscher	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	sb	_	_
+8	auf	auf	ADP	_		5	mo	_	_
+9	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Telegrafenberg	Telegrafenberg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+11	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Supercomputer	Supercomputer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	oa	_	_
+13	in	in	ADP	_		5	mo	_	_
+14	Betrieb	Betrieb	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	nk	_	_
+15	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 4
+# text = gestern startete eine Hightech-Anlage in den Roten Kasernen ,
+1	gestern	gestern	ADV	_		2	mo	_	_
+2	startete	starten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Hightech-Anlage	Hightech-Anlage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	in	in	ADP	_		4	mnr	_	_
+6	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	8	nk	_	_
+7	Roten	rot	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	8	nk	_	_
+8	Kasernen	Kaserne	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = heute wird am Griebnitzsee das Hasso-Plattner-Institut eröffnet ...
+1	heute	heute	ADV	_		7	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mo	_	_
+4	Griebnitzsee	Griebnitzsee	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+5	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Hasso-Plattner-Institut	Hasso-Plattner-Institut	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	sb	_	_
+7	eröffnet	eröffnen	VERB	_	VerbForm=Part	2	oc	_	_
+8	...	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = So betrachtet , reiht sich das gestern gestartete Projekt der PanMedium-Stiftung in der Nedlitzer Straße nahtlos in die expandierende Potsdamer Hochtechnologie-Landschaft ein .
+1	So	so	ADV	_		2	mo	_	_
+2	betrachtet	betrachten	VERB	_	VerbForm=Part	4	mo	_	_
+3	,	--	PUNCT	_		4	punct	_	_
+4	reiht	reihen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	oa	_	_
+6	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+7	gestern	gestern	ADV	_		8	mo	_	_
+8	gestartete	gestartet	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	nk	_	_
+9	Projekt	Projekt	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	PanMedium-Stiftung	PanMedium-Stiftung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	ag	_	_
+12	in	in	ADP	_		4	mo	_	_
+13	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+14	Nedlitzer	Nedlitzer	ADJ	_	Degree=Pos	15	nk	_	_
+15	Straße	Straße	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+16	nahtlos	nahtlos	ADV	_	Degree=Pos	4	mo	_	_
+17	in	in	ADP	_		4	mo	_	_
+18	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	nk	_	_
+19	expandierende	expandierend	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	nk	_	_
+20	Potsdamer	Potsdamer	ADJ	_	Degree=Pos	21	nk	_	_
+21	Hochtechnologie-Landschaft	Hochtechnologie-Landschaft	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	nk	_	_
+22	ein	ein	ADV	_		4	svp	_	_
+23	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 7
+# text = Und das auf hoffnungsvolle Weise .
+1	Und	und	CCONJ	_		2	ju	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	ROOT	_	_
+3	auf	auf	ADP	_		2	mnr	_	_
+4	hoffnungsvolle	hoffnungsvoll	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Weise	Weise	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nk	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Nur zu gut ist das Debakel um ein ähnlich hochgestecktes Wirtschafts-Computerprojekt in Erinnerung :
+1	Nur	nur	ADV	_		3	mo	_	_
+2	zu	zu	PART	_		3	mo	_	_
+3	gut	gut	ADV	_	Degree=Pos	4	pd	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Debakel	Debakel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+7	um	um	ADP	_		6	mnr	_	_
+8	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+9	ähnlich	ähnlich	ADV	_	Degree=Pos	10	mo	_	_
+10	hochgestecktes	hochgesteckt	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	nk	_	_
+11	Wirtschafts-Computerprojekt	Wirtschafts-Computerprojekt	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nk	_	_
+12	in	in	ADP	_		4	mo	_	_
+13	Erinnerung	Erinnerung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+14	:	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = Das FX-Center , das kaum aus den Negativ-Schlagzeilen heraus ist .
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	FX-Center	FX-Center	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	ROOT	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	sb	_	_
+5	kaum	kaum	ADV	_		6	mo	_	_
+6	aus	aus	ADP	_		10	mo	_	_
+7	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Negativ-Schlagzeilen	Negativ-Schlagzeil	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+9	heraus	heraus	ADV	_		6	mo	_	_
+10	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Im Vergleich zum Hightech-Kollegen in der Medienstadt ist das PanMedium-Unternehmen aber von Anfang an bescheidener ausgelegt .
+1	Im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	8	mo	_	_
+2	Vergleich	Vergleich	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	2	mnr	_	_
+4	Hightech-Kollegen	Hightech-Kollegen	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	in	in	ADP	_		4	mnr	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Medienstadt	Medienstadt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	nk	_	_
+10	PanMedium-Unternehmen	PanMedium-Unternehmen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	sb	_	_
+11	aber	aber	ADV	_		16	mo	_	_
+12	von	von	ADP	_		16	mo	_	_
+13	Anfang	Anfang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+14	an	an	ADP	_		16	mo	_	_
+15	bescheidener	Bescheidener	ADV	_	Degree=Cmp	14	nk	_	_
+16	ausgelegt	auslegen	VERB	_	VerbForm=Part	8	pd	_	_
+17	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 11
+# text = Nicht nur bei der Förderung ( 19,5 statt 93 Millionen Mark bei einer Gesamtinvestition von 29 statt 104 Millionen ) ,
+1	Nicht	nicht	PART	_		2	ng	_	_
+2	nur	nur	ADV	_		3	mo	_	_
+3	bei	bei	ADP	_		3	ROOT	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Förderung	Förderung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	(	--	PUNCT	_		7	punct	_	_
+7	19,5	19,5	NUM	_		5	par	_	_
+8	statt	statt	ADP	_		7	mnr	_	_
+9	93	93	NUM	_		10	nmc	_	_
+10	Millionen	Million	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	8	nk	_	_
+11	Mark	Mark	NOUN	_	Gender=Fem	10	nk	_	_
+12	bei	bei	ADP	_		7	mnr	_	_
+13	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Gesamtinvestition	Gesamtinvestition	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+15	von	von	ADP	_		14	mnr	_	_
+16	29	29	NUM	_		19	nk	_	_
+17	statt	statt	ADP	_		16	cd	_	_
+18	104	104	NUM	_		19	nmc	_	_
+19	Millionen	Million	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	nk	_	_
+20	)	--	PUNCT	_		7	punct	_	_
+21	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 12
+# text = auch im Konzept geht PanMedium andere Wege .
+1	auch	auch	ADV	_		2	mo	_	_
+2	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	4	mo	_	_
+3	Konzept	Konzept	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+4	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	PanMedium	PanMedium	PROPN	_	Case=Nom|Number=Sing	4	sb	_	_
+6	andere	anderer	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	nk	_	_
+7	Wege	Weg	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	oa	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 13
+# text = Der Computer startet in verhältnismäßig kleinem Umfang ,
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Computer	Computer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	startet	starten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	in	in	ADP	_		3	mo	_	_
+5	verhältnismäßig	verhältnismäßig	ADV	_	Degree=Pos	6	mo	_	_
+6	kleinem	klein	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Umfang	Umfang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+8	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = wächst aber bei Kundennachfrage mit .
+1	wächst	wachsen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	aber	aber	ADV	_		1	mo	_	_
+3	bei	bei	ADP	_		1	mo	_	_
+4	Kundennachfrage	Kundennachfrage	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+5	mit	mit	ADP	_		1	svp	_	_
+6	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 15
+# text = Das klingt nicht nur technisch sinnvoll ,
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	klingt	klingen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		4	ng	_	_
+4	nur	nur	ADV	_		2	mo	_	_
+5	technisch	technisch	ADV	_	Degree=Pos	6	mo	_	_
+6	sinnvoll	sinnvoll	ADV	_	Degree=Pos	2	mo	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = das gibt der Wirtschaft auch finanziell halbwegs die Garantie , kein neues Dienstleister-Fiasko wie bei FX zu erleben .
+1	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	oa	_	_
+2	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Wirtschaft	Wirtschaft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	da	_	_
+5	auch	auch	ADV	_		6	mo	_	_
+6	finanziell	finanziell	ADV	_	Degree=Pos	2	mo	_	_
+7	halbwegs	halbwegs	ADV	_		2	mo	_	_
+8	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Garantie	Garantie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+11	kein	kein	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	13	nk	_	_
+12	neues	neu	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	nk	_	_
+13	Dienstleister-Fiasko	Dienstleister-Fiasko	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	oa	_	_
+14	wie	wie	ADP	_		15	cm	_	_
+15	bei	bei	ADP	_		13	cc	_	_
+16	FX	FX	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	15	nk	_	_
+17	zu	zu	PART	_		18	pm	_	_
+18	erleben	erleben	VERB	_	VerbForm=Inf	9	oc	_	_
+19	.	--	PUNCT	_		2	punct	_	_
+

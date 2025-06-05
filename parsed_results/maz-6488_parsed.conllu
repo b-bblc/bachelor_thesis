@@ -1,0 +1,261 @@
+# sent_id = 1
+# text = Da fehlt noch was
+1	Da	da	ADV	_		2	mo	_	_
+2	fehlt	fehlen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	noch	noch	ADV	_		2	mo	_	_
+4	was	was	PRON	_	Gender=Neut|PronType=Ind	2	sb	_	_
+
+# sent_id = 2
+# text = Als 1999 die im Rahmen der Dorferneuerung neu gestaltete Radeweger Ablage inklusive Seebrücke mit viel Pomp eingeweiht wurde ,
+1	Als	als	ADP	_		17	mo	_	_
+2	1999	1999	NUM	_		1	nk	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nk	_	_
+4	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	9	mo	_	_
+5	Rahmen	Rahmen	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Dorferneuerung	Dorferneuerung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	ag	_	_
+8	neu	neu	ADV	_	Degree=Pos	9	mo	_	_
+9	gestaltete	gestaltet	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+10	Radeweger	Radeweger	ADJ	_	Degree=Pos	11	nk	_	_
+11	Ablage	Ablage	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	sb	_	_
+12	inklusive	inklusive	ADP	_		11	mnr	_	_
+13	Seebrücke	Seebrück	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	nk	_	_
+14	mit	mit	ADP	_		17	mo	_	_
+15	viel	viel	DET	_	PronType=Ind	16	nk	_	_
+16	Pomp	Pomp	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	14	nk	_	_
+17	eingeweiht	einweihen	VERB	_	VerbForm=Part	18	oc	_	_
+18	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	ROOT	_	_
+19	,	--	PUNCT	_		18	punct	_	_
+
+# sent_id = 3
+# text = war klar :  Da fehlt noch was .
+1	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	klar	klar	ADV	_	Degree=Pos	1	pd	_	_
+3	:	--	PUNCT	_		1	punct	_	_
+4	 	 	SPACE	_		3	dep	_	_
+5	Da	da	ADV	_		6	mo	_	_
+6	fehlt	fehlen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	noch	noch	ADV	_		6	mo	_	_
+8	was	was	PRON	_	Gender=Neut|PronType=Ind	6	sb	_	_
+9	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 4
+# text = Wer die Infrastruktur für den Wassertourismus vorantreiben will ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	8	sb	_	_
+2	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Infrastruktur	Infrastruktur	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	oa	_	_
+4	für	für	ADP	_		3	mnr	_	_
+5	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Wassertourismus	Wassertourismus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nk	_	_
+7	vorantreiben	vorantreiben	VERB	_	VerbForm=Inf	8	oc	_	_
+8	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 5
+# text = darf nicht nur bis zum nächsten Steg denken .
+1	darf	dürfen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	nicht	nicht	PART	_		3	ng	_	_
+3	nur	nur	ADV	_		5	mo	_	_
+4	bis	bis	ADP	_		5	ac	_	_
+5	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	8	mo	_	_
+6	nächsten	nächster	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Steg	Steg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	denken	denken	VERB	_	VerbForm=Inf	1	oc	_	_
+9	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Sanitäre Anlagen gehören heute zum Standard großer Liegeplätze .
+1	Sanitäre	Sanitär	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	nk	_	_
+2	Anlagen	Anlage	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	sb	_	_
+3	gehören	gehören	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	heute	heute	ADV	_		3	mo	_	_
+5	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	3	op	_	_
+6	Standard	Standard	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	großer	groß	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	nk	_	_
+8	Liegeplätze	Liegeplatz	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	ag	_	_
+9	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = Doch mit der Nachrüstung tut sich Radewege schwer .
+1	Doch	doch	CCONJ	_		5	ju	_	_
+2	mit	mit	ADP	_		5	mo	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Nachrüstung	Nachrüstung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+5	tut	tun	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+7	Radewege	Radewege	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	sb	_	_
+8	schwer	schwer	ADV	_	Degree=Pos	5	svp	_	_
+9	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 8
+# text = Was einst beschlossen wurde , zählt nicht mehr .
+1	Was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	sb	_	_
+2	einst	einst	ADV	_		3	mo	_	_
+3	beschlossen	beschließen	VERB	_	VerbForm=Part	4	oc	_	_
+4	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	sb	_	_
+5	,	--	PUNCT	_		6	punct	_	_
+6	zählt	zählen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	nicht	nicht	PART	_		6	ng	_	_
+8	mehr	mehr	ADV	_		7	mo	_	_
+9	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 9
+# text = Zu teuer , zu hässlich sei die Anlage , sagen die Meinungsführer im Gemeinderat .
+1	Zu	zu	PART	_		2	mo	_	_
+2	teuer	teuer	ADV	_	Degree=Pos	5	pd	_	_
+3	,	--	PUNCT	_		5	punct	_	_
+4	zu	zu	PART	_		5	mo	_	_
+5	hässlich	hässlich	ADV	_	Degree=Pos	6	pd	_	_
+6	sei	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	oc	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Anlage	Anlage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	sagen	sagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	nk	_	_
+12	Meinungsführer	Meinungsführer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	sb	_	_
+13	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	10	mo	_	_
+14	Gemeinderat	Gemeinderat	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	nk	_	_
+15	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 10
+# text = Beschlüsse zu überdenken ist legitim ,
+1	Beschlüsse	Beschluß	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	oa	_	_
+2	zu	zu	PART	_		3	pm	_	_
+3	überdenken	überdenken	VERB	_	VerbForm=Inf	4	oc	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	legitim	legitim	ADV	_	Degree=Pos	4	pd	_	_
+6	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 11
+# text = doch nur von Alternativen zu reden , ohne brauchbare Vorschläge auf den Tisch zu legen , ist zu billig .
+1	doch	doch	CCONJ	_		6	mo	_	_
+2	nur	nur	ADV	_		3	mo	_	_
+3	von	von	ADP	_		6	op	_	_
+4	Alternativen	Alternative	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+5	zu	zu	PART	_		6	pm	_	_
+6	reden	reden	VERB	_	VerbForm=Inf	17	sb	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	ohne	ohne	SCONJ	_		15	cp	_	_
+9	brauchbare	brauchbar	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	nk	_	_
+10	Vorschläge	Vorschlag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	oa	_	_
+11	auf	auf	ADP	_		10	mnr	_	_
+12	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+13	Tisch	Tisch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	nk	_	_
+14	zu	zu	PART	_		15	pm	_	_
+15	legen	legen	VERB	_	VerbForm=Inf	6	mo	_	_
+16	,	--	PUNCT	_		17	punct	_	_
+17	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ROOT	_	_
+18	zu	zu	PART	_		19	mo	_	_
+19	billig	billig	ADV	_	Degree=Pos	17	pd	_	_
+20	.	--	PUNCT	_		17	punct	_	_
+
+# sent_id = 12
+# text = Ein multifunktionales Objekt mit Umkleide- und Treffmöglichkeiten als angeblich bessere Variante ist bisher nicht mehr als eine fiktive Idee geblieben .
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+2	multifunktionales	multifunktional	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nk	_	_
+3	Objekt	Objekt	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	sb	_	_
+4	mit	mit	ADP	_		3	mnr	_	_
+5	Umkleide-	Umkleide	X	_		6	cj	_	_
+6	und	und	CCONJ	_		7	cd	_	_
+7	Treffmöglichkeiten	Treffmöglichkeiten	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	4	nk	_	_
+8	als	als	ADP	_		3	mnr	_	_
+9	angeblich	angeblich	ADV	_	Degree=Pos	8	nk	_	_
+10	bessere	gut	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	11	nk	_	_
+11	Variante	Variante	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nk	_	_
+12	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	bisher	bisher	ADV	_		12	mo	_	_
+14	nicht	nicht	PART	_		15	ng	_	_
+15	mehr	mehr	PRON	_	PronType=Ind	20	mo	_	_
+16	als	als	ADP	_		19	cm	_	_
+17	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	nk	_	_
+18	fiktive	fiktiv	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	nk	_	_
+19	Idee	Idee	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	cc	_	_
+20	geblieben	bleiben	VERB	_	VerbForm=Part	12	oc	_	_
+21	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 13
+# text = Und ob diese billiger wird , steht auf einem anderen Blatt .
+1	Und	und	CCONJ	_		7	ju	_	_
+2	ob	ob	SCONJ	_		5	cp	_	_
+3	diese	dieser	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	sb	_	_
+4	billiger	billig	ADV	_	Degree=Cmp	5	pd	_	_
+5	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	sb	_	_
+6	,	--	PUNCT	_		7	punct	_	_
+7	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	auf	auf	ADP	_		7	mo	_	_
+9	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+10	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	11	nk	_	_
+11	Blatt	Blatt	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+12	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 14
+# text = Außerdem hat Radewege mit dem nicht weit entfernten Haus des Beetzseetreffs e. V. ein Gebäude ,
+1	Außerdem	außerdem	ADV	_		2	mo	_	_
+2	hat	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Radewege	Radewege	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+4	mit	mit	ADP	_		2	mo	_	_
+5	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+6	nicht	nicht	PART	_		8	ng	_	_
+7	weit	weit	ADV	_	Degree=Pos	8	mo	_	_
+8	entfernten	entfernt	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	9	nk	_	_
+9	Haus	Haus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+10	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Beetzseetreffs	Beetzseetreff	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	ag	_	_
+12	e.	e.	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	nk	_	_
+13	V.	V.	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nk	_	_
+14	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	nk	_	_
+15	Gebäude	Gebäude	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	sb	_	_
+16	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = das vielen Freizeitbedürfnissen gerecht werden kann .
+1	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+2	vielen	vieler	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Ind	3	nk	_	_
+3	Freizeitbedürfnissen	Freizeitbedürfnisse	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	sb	_	_
+4	gerecht	gerecht	ADV	_	Degree=Pos	5	pd	_	_
+5	werden	werden	AUX	_	VerbForm=Inf	6	oc	_	_
+6	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 16
+# text = Kommt der Sanitärtrakt nicht spätestens zur nächsten Saison ,
+1	Kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Sanitärtrakt	Sanitärtrakt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+4	nicht	nicht	PART	_		5	ng	_	_
+5	spätestens	spätestens	ADV	_		1	mo	_	_
+6	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	1	mo	_	_
+7	nächsten	nächster	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Saison	Saison	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 17
+# text = droht Radewege , den Wettbewerb um Freizeitkapitäne auf dem Beetzsee mit anderen Anbietern zu verlieren .
+1	droht	drohen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	Radewege	Radewege	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Wettbewerb	Wettbewerb	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	oa	_	_
+6	um	um	ADP	_		5	mnr	_	_
+7	Freizeitkapitäne	Freizeitkapitan	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nk	_	_
+8	auf	auf	ADP	_		7	mnr	_	_
+9	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Beetzsee	Beetzsee	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+11	mit	mit	ADP	_		10	mnr	_	_
+12	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	13	nk	_	_
+13	Anbietern	Anbieter	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	nk	_	_
+14	zu	zu	PART	_		15	pm	_	_
+15	verlieren	verlieren	VERB	_	VerbForm=Inf	2	oc	_	_
+16	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 18
+# text = Dabei hätte das Dorf jede Einnahme nötig .
+1	Dabei	dabei	ADV	_		7	mo	_	_
+2	hätte	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Dorf	Dorf	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	jede	jeder	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	6	nk	_	_
+6	Einnahme	Einnahme	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	oa	_	_
+7	nötig	nötig	ADV	_	Degree=Pos	2	oc	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+

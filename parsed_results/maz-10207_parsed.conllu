@@ -1,0 +1,246 @@
+# sent_id = 1
+# text = Alles beim Alten
+1	Alles	alle	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	1	ROOT	_	_
+2	beim	bei	ADP	_	Case=Dat|Gender=Neut|Number=Sing	1	mnr	_	_
+3	Alten	alte	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	2	nk	_	_
+
+# sent_id = 2
+# text = Nun ist es heraus :
+1	Nun	nun	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	heraus	heraus	ADV	_		2	svp	_	_
+5	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Wie schon auf Kreisebene , so bleibt auch an der Verwaltungsspitze der Städte Perleberg und Pritzwalk alles beim Alten .
+1	Wie	wie	ADP	_		3	cm	_	_
+2	schon	schon	ADV	_		3	mo	_	_
+3	auf	auf	ADP	_		6	re	_	_
+4	Kreisebene	Kreisebener	NOUN	_	Case=Acc|Number=Plur	3	nk	_	_
+5	,	--	PUNCT	_		6	punct	_	_
+6	so	so	ADV	_		7	mo	_	_
+7	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	auch	auch	ADV	_		9	mo	_	_
+9	an	an	ADP	_		7	mo	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Verwaltungsspitze	Verwaltungsspitze	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+12	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	nk	_	_
+13	Städte	Stadt	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	ag	_	_
+14	Perleberg	Perleberg	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	13	nk	_	_
+15	und	und	CCONJ	_		14	cd	_	_
+16	Pritzwalk	Pritzwalk	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	15	cj	_	_
+17	alles	alle	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	sb	_	_
+18	beim	bei	ADP	_	Case=Dat|Gender=Neut|Number=Sing	17	mnr	_	_
+19	Alten	alte	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	18	nk	_	_
+20	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 4
+# text = Die Amtsinhaber sind beide im ersten Wahlgang in ihren Ämtern bestätigt worden -
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Amtsinhaber	Amtsinhaber	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	beide	beide	PRON	_	Case=Nom|Number=Plur|PronType=Ind	3	pd	_	_
+5	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	11	mo	_	_
+6	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Wahlgang	Wahlgang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	in	in	ADP	_		11	mo	_	_
+9	ihren	ihr	DET	_	Case=Dat|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Ämtern	Amt	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	8	nk	_	_
+11	bestätigt	bestätigen	VERB	_	VerbForm=Part	12	oc	_	_
+12	worden	werden	AUX	_	VerbForm=Part	3	oc	_	_
+13	-	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = Gratulation an beide dazu natürlich auch von der MAZ .
+1	Gratulation	Gratulation	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+2	an	an	ADP	_		1	mnr	_	_
+3	beide	beide	PRON	_	Case=Acc|Number=Plur|PronType=Ind	2	nk	_	_
+4	dazu	dazu	ADV	_		1	mnr	_	_
+5	natürlich	natürlich	ADV	_		1	mo	_	_
+6	auch	auch	ADV	_		7	mo	_	_
+7	von	von	ADP	_		1	op	_	_
+8	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	MAZ	MAZ	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+10	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Das konnte man so erwarten .
+1	Das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	oa	_	_
+2	konnte	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+4	so	so	ADV	_		5	mo	_	_
+5	erwarten	erwarten	VERB	_	VerbForm=Inf	2	oc	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Lediglich in Pritzwalk hatte die Möglichkeit eines zweiten Wahlgangs bestanden ,
+1	Lediglich	lediglich	ADV	_		2	mo	_	_
+2	in	in	ADP	_		10	mo	_	_
+3	Pritzwalk	Pritzwalk	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+4	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Möglichkeit	Möglichkeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	oa	_	_
+7	eines	ein	DET	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+8	zweiten	zweiter	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Wahlgangs	Wahlgang	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+10	bestanden	bestehen	VERB	_	VerbForm=Part	4	oc	_	_
+11	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 8
+# text = sie schien angesichts dreier Kandidaten auch nicht unbedingt unwahrscheinlich .
+1	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	schien	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	angesichts	angesichts	ADP	_		2	mo	_	_
+4	dreier	drei	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	nk	_	_
+5	Kandidaten	Kandidat	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nk	_	_
+6	auch	auch	ADV	_		2	mo	_	_
+7	nicht	nicht	PART	_		8	ng	_	_
+8	unbedingt	unbedingt	ADV	_		2	mo	_	_
+9	unwahrscheinlich	unwahrscheinlich	ADV	_	Degree=Pos	2	pd	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = Doch die Dömnitzstädter setzten nicht auf Wechsel ,
+1	Doch	doch	CCONJ	_		4	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+3	Dömnitzstädter	Dömnitzstädter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+4	setzten	setzen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	nicht	nicht	PART	_		4	ng	_	_
+6	auf	auf	ADP	_		4	mo	_	_
+7	Wechsel	Wechsel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nk	_	_
+8	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 10
+# text = bescherten Wolfgang Brockmann einen großartigen Erfolg
+1	bescherten	bescheren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	Wolfgang	Wolfgang	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	pnc	_	_
+3	Brockmann	Brockmann	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+4	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+5	großartigen	großartig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+6	Erfolg	Erfolg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	oa	_	_
+
+# sent_id = 11
+# text = und sorgten für klare Verhältnisse .
+1	und	und	CCONJ	_		2	ju	_	_
+2	sorgten	sorgen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	für	für	ADP	_		2	op	_	_
+4	klare	klar	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	5	nk	_	_
+5	Verhältnisse	Verhältnis	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	nk	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Mit denen war in Perleberg sowieso zu rechnen .
+1	Mit	mit	ADP	_		8	mo	_	_
+2	denen	der	PRON	_	Case=Dat|Number=Plur|PronType=Dem	1	nk	_	_
+3	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	in	in	ADP	_		8	mo	_	_
+5	Perleberg	Perleberg	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+6	sowieso	sowieso	ADV	_		8	mo	_	_
+7	zu	zu	PART	_		8	pm	_	_
+8	rechnen	rechnen	VERB	_	VerbForm=Inf	3	oc	_	_
+9	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Angesichts dessen aber hat sich der junge Herausforderer Thomas Domres gegen Bürgermeister Dietmar Zigan durchaus achtbar geschlagen .
+1	Angesichts	angesichts	ADP	_		17	mo	_	_
+2	dessen	der	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	nk	_	_
+3	aber	aber	ADV	_		17	mo	_	_
+4	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	oa	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	junge	jung	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Herausforderer	Herausforderer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+9	Thomas	Thomas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	pnc	_	_
+10	Domres	Domres	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	nk	_	_
+11	gegen	gegen	ADP	_		8	mnr	_	_
+12	Bürgermeister	Bürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nk	_	_
+13	Dietmar	Dietmar	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	pnc	_	_
+14	Zigan	Zigan	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	nk	_	_
+15	durchaus	durchaus	ADV	_		17	mo	_	_
+16	achtbar	achtbar	ADV	_	Degree=Pos	17	mo	_	_
+17	geschlagen	schlagen	VERB	_	VerbForm=Part	4	oc	_	_
+18	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 14
+# text = Das kann bedeuten , dass die Bürger zwar Kontinuität wollten ,
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	bedeuten	bedeuten	VERB	_	VerbForm=Inf	2	oc	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	dass	dass	SCONJ	_		10	cp	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+7	Bürger	Bürger	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	sb	_	_
+8	zwar	zwar	ADV	_		10	mo	_	_
+9	Kontinuität	Kontinuität	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	oa	_	_
+10	wollten	wollen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	oc	_	_
+11	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = aber mit einem simplen " Weiter so " eben nicht einverstanden wären .
+1	aber	aber	CCONJ	_		12	mo	_	_
+2	mit	mit	ADP	_		12	mo	_	_
+3	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	simplen	simplen	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	2	nk	_	_
+5	"	--	PUNCT	_		4	punct	_	_
+6	Weiter	weiter	ADV	_		4	mo	_	_
+7	so	so	ADV	_		12	mo	_	_
+8	"	--	PUNCT	_		7	punct	_	_
+9	eben	eben	ADV	_		10	mo	_	_
+10	nicht	nicht	PART	_		12	ng	_	_
+11	einverstanden	einverstanden	ADV	_	Degree=Pos	12	pd	_	_
+12	wären	sein	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	ROOT	_	_
+13	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 16
+# text = Gleichwohl hat auch Zigan sich acht weitere Jahre im Amt gesichert ,
+1	Gleichwohl	gleichwohl	ADV	_		11	mo	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	auch	auch	ADV	_		4	mo	_	_
+4	Zigan	Zigan	PROPN	_	Case=Nom|Number=Sing	2	sb	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	oa	_	_
+6	acht	acht	NUM	_		8	nk	_	_
+7	weitere	weit	ADJ	_	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	8	nk	_	_
+8	Jahre	Jahr	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	11	mo	_	_
+9	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	11	mo	_	_
+10	Amt	Amt	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	nk	_	_
+11	gesichert	sichern	VERB	_	VerbForm=Part	2	oc	_	_
+12	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = die er nach eigenem Bekunden auch voll erfüllen will .
+1	die	der	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	8	oa	_	_
+2	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	sb	_	_
+3	nach	nach	ADP	_		8	mo	_	_
+4	eigenem	eigen	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	5	nk	_	_
+5	Bekunden	bekunden	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+6	auch	auch	ADV	_		8	mo	_	_
+7	voll	voll	ADV	_	Degree=Pos	8	mo	_	_
+8	erfüllen	erfüllen	VERB	_	VerbForm=Inf	9	oc	_	_
+9	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 18
+# text = Bleibt zu hoffen dass sich mit den alten Namen der Amtsträger künftig auch neue , die Region weiterführende Ideen verbinden .
+1	Bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	zu	zu	PART	_		3	pm	_	_
+3	hoffen	hoffen	VERB	_	VerbForm=Inf	1	oc	_	_
+4	dass	dass	SCONJ	_		1	mo	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	20	oa	_	_
+6	mit	mit	ADP	_		20	mo	_	_
+7	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	nk	_	_
+8	alten	alt	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	nk	_	_
+9	Namen	Name	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nk	_	_
+11	Amtsträger	Amtsträger	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	ag	_	_
+12	künftig	künftig	ADV	_	Degree=Pos	6	mo	_	_
+13	auch	auch	ADV	_		14	mo	_	_
+14	neue	neu	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	sb	_	_
+15	,	--	PUNCT	_		14	punct	_	_
+16	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+17	Region	Region	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	cj	_	_
+18	weiterführende	weiterführend	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	19	nk	_	_
+19	Ideen	Idee	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	20	oa	_	_
+20	verbinden	verbinden	VERB	_	VerbForm=Inf	1	sb	_	_
+21	.	--	PUNCT	_		1	punct	_	_
+

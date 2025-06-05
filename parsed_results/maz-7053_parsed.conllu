@@ -1,0 +1,241 @@
+# sent_id = 1
+# text = Unangenehm aber fair
+1	Unangenehm	unangenehm	ADV	_	Degree=Pos	1	ROOT	_	_
+2	aber	aber	ADV	_		1	mo	_	_
+3	fair	fair	ADV	_	Degree=Pos	1	pd	_	_
+
+# sent_id = 2
+# text = Im Löwenberger Land steht eine Änderung der Kita-Öffnungszeiten bevor .
+1	Im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	4	mo	_	_
+2	Löwenberger	Löwenberger	ADJ	_	Degree=Pos	3	nk	_	_
+3	Land	Land	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+4	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Änderung	Änderung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Kita-Öffnungszeiten	Kita-Öffnungszeiten	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	ag	_	_
+9	bevor	bevor	ADV	_		4	svp	_	_
+10	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 3
+# text = Die Verwaltung reagiert damit auf eine Analyse ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Verwaltung	Verwaltung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	reagiert	reagieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	damit	damit	ADV	_		3	mo	_	_
+5	auf	auf	ADP	_		3	op	_	_
+6	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Analyse	Analyse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	nk	_	_
+8	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = die sich vor allem mit der Anzahl betreuter Kinder zu den verschiedenen Tageszeiten beschäftigt .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+3	vor	vor	ADP	_		5	mo	_	_
+4	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	3	nk	_	_
+5	mit	mit	ADP	_		8	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Anzahl	Anzahl	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	betreuter	betreut	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	9	nk	_	_
+9	Kinder	Kind	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	14	oa	_	_
+10	zu	zu	ADP	_		14	mo	_	_
+11	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	nk	_	_
+12	verschiedenen	verschieden	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	13	nk	_	_
+13	Tageszeiten	Tageszeit	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	nk	_	_
+14	beschäftigt	beschäftigen	VERB	_	VerbForm=Part	14	ROOT	_	_
+15	.	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 5
+# text = Wer hinter den neuen Betreuungszeiten Sparabsichten vermutet ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	7	sb	_	_
+2	hinter	hinter	ADP	_		7	mo	_	_
+3	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+4	neuen	neu	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	5	nk	_	_
+5	Betreuungszeiten	Betreuungszeit	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	2	nk	_	_
+6	Sparabsichten	Sparabsicht	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	oa	_	_
+7	vermutet	vermuten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 6
+# text = liegt richtig .
+1	liegt	liegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	richtig	richtig	ADV	_	Degree=Pos	1	mo	_	_
+3	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 7
+# text = Bekanntlich sitzt der Landesregierung beim Thema Kinderbetreuung der Rotstift nach wie vor viel zu locker .
+1	Bekanntlich	bekanntlich	ADV	_		2	mo	_	_
+2	sitzt	sitzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Landesregierung	Landesregierung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	sb	_	_
+5	beim	bei	ADP	_	Case=Dat|Gender=Neut|Number=Sing	2	mo	_	_
+6	Thema	Thema	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	Kinderbetreuung	Kinderbetreuung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+8	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Rotstift	Rotstift	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	ag	_	_
+10	nach	nach	ADV	_		2	mo	_	_
+11	wie	wie	CCONJ	_		10	cd	_	_
+12	vor	vor	ADV	_		11	cj	_	_
+13	viel	viel	ADV	_		15	mo	_	_
+14	zu	zu	PART	_		15	mo	_	_
+15	locker	locker	ADV	_	Degree=Pos	2	svp	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Mit den Folgen müssen sich die Verwaltungen vor Ort herumplagen .
+1	Mit	mit	ADP	_		10	mo	_	_
+2	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	nk	_	_
+3	Folgen	Folge	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	1	nk	_	_
+4	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	nk	_	_
+7	Verwaltungen	Verwaltung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	sb	_	_
+8	vor	vor	ADP	_		10	mo	_	_
+9	Ort	Ort	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	herumplagen	herumplagen	VERB	_	VerbForm=Inf	4	oc	_	_
+11	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = Unpopuläre Entscheidungen , die bis zur Schließung führen , sind die Folge .
+1	Unpopuläre	unpopulär	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	nk	_	_
+2	Entscheidungen	Entscheidung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	10	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	8	sb	_	_
+5	bis	bis	ADP	_		6	ac	_	_
+6	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	8	mo	_	_
+7	Schließung	Schließung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+8	führen	führen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Folge	Folge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	pd	_	_
+13	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 10
+# text = Davon wissen auch die Löwenberger ein trauriges Lied zu singen .
+1	Davon	davon	ADV	_		2	op	_	_
+2	wissen	wissen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	auch	auch	ADV	_		5	mo	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Löwenberger	Löwenberger	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+6	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+7	trauriges	traurig	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Lied	Lied	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	oa	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	singen	singen	VERB	_	VerbForm=Inf	2	oc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Die eingangs erwähnte Analyse ist der Versuch , auf weniger Geld für Kinderbetreuung möglichst objektiv zu reagieren .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+2	eingangs	eingangs	ADV	_		3	mo	_	_
+3	erwähnte	erwähnt	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Analyse	Analyse	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	pd	_	_
+5	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Versuch	Versuch	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	pd	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	auf	auf	ADP	_		17	mo	_	_
+10	weniger	weniger	DET	_	PronType=Ind	11	nk	_	_
+11	Geld	Geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	nk	_	_
+12	für	für	ADP	_		17	mo	_	_
+13	Kinderbetreuung	Kinderbetreuung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nk	_	_
+14	möglichst	möglichst	ADV	_		15	mo	_	_
+15	objektiv	objektiv	ADV	_	Degree=Pos	17	mo	_	_
+16	zu	zu	PART	_		17	pm	_	_
+17	reagieren	reagieren	VERB	_	VerbForm=Inf	7	oc	_	_
+18	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 12
+# text = Nunmehr soll eine Kita öffnen ,
+1	Nunmehr	nunmehr	ADV	_		5	mo	_	_
+2	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Kita	Kita	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	öffnen	öffnen	VERB	_	VerbForm=Inf	2	oc	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = wenn zwischen zehn und 15 Prozent ( schon diese Spanne ist ein Zugeständnis ) der insgesamt betreuten Mädchen und Jungen in der Einrichtung sind .
+1	wenn	wenn	SCONJ	_		6	cp	_	_
+2	zwischen	zwischen	ADP	_		3	mo	_	_
+3	zehn	zehn	NUM	_		6	nk	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	15	15	NUM	_		4	cj	_	_
+6	Prozent	Prozent	NOUN	_	Gender=Neut	6	ROOT	_	_
+7	(	--	PUNCT	_		11	punct	_	_
+8	schon	schon	ADV	_		10	mo	_	_
+9	diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	nk	_	_
+10	Spanne	Spanne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+11	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	par	_	_
+12	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	nk	_	_
+13	Zugeständnis	Zugeständnis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	pd	_	_
+14	)	--	PUNCT	_		13	punct	_	_
+15	der	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	nk	_	_
+16	insgesamt	insgesamt	ADV	_		17	mo	_	_
+17	betreuten	betreut	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	18	nk	_	_
+18	Mädchen	Mädchen	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	13	ag	_	_
+19	und	und	CCONJ	_		18	cd	_	_
+20	Jungen	Junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	cj	_	_
+21	in	in	ADP	_		24	mo	_	_
+22	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	nk	_	_
+23	Einrichtung	Einrichtung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	21	nk	_	_
+24	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	oc	_	_
+25	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 14
+# text = Die Einrichtung schließt ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Einrichtung	Einrichtung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	schließt	schließen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = werden die Zahlen unterschritten .
+1	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	nk	_	_
+3	Zahlen	Zahl	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	sb	_	_
+4	unterschritten	unterschreiten	VERB	_	VerbForm=Part	1	oc	_	_
+5	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 16
+# text = Aus demokratischer Sicht ( die Mehrheit entscheidet ) und auch unter wirtschaftlichem Aspekt ( woher nehmen und nicht stehlen ? ) eine faire Entscheidung ,
+1	Aus	aus	ADP	_		16	mo	_	_
+2	demokratischer	demokratisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Sicht	Sicht	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+4	(	--	PUNCT	_		7	punct	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Mehrheit	Mehrheit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+7	entscheidet	entscheiden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	rc	_	_
+8	)	--	PUNCT	_		7	punct	_	_
+9	und	und	CCONJ	_		1	cd	_	_
+10	auch	auch	ADV	_		11	mo	_	_
+11	unter	unter	ADP	_		9	cj	_	_
+12	wirtschaftlichem	wirtschaftlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	13	nk	_	_
+13	Aspekt	Aspekt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	nk	_	_
+14	(	--	PUNCT	_		16	punct	_	_
+15	woher	woher	SCONJ	_	PronType=Int	16	mo	_	_
+16	nehmen	nehmen	VERB	_	VerbForm=Inf	16	ROOT	_	_
+17	und	und	CCONJ	_		16	cd	_	_
+18	nicht	nicht	PART	_		19	ng	_	_
+19	stehlen	stehlen	VERB	_	VerbForm=Inf	17	cj	_	_
+20	?	--	PUNCT	_		16	punct	_	_
+21	)	--	PUNCT	_		16	punct	_	_
+22	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	nk	_	_
+23	faire	fair	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	24	nk	_	_
+24	Entscheidung	Entscheidung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	ROOT	_	_
+25	,	--	PUNCT	_		24	punct	_	_
+
+# sent_id = 17
+# text = die zudem bei veränderten Kinderzahlen jederzeit korrigierbar ist .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	sb	_	_
+2	zudem	zudem	ADV	_		8	mo	_	_
+3	bei	bei	ADP	_		8	mo	_	_
+4	veränderten	verändert	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+5	Kinderzahlen	Kinderzahle	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	jederzeit	jederzeit	ADV	_		8	mo	_	_
+7	korrigierbar	korrigierbar	ADV	_	Degree=Pos	8	pd	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+

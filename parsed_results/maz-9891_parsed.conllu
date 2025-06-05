@@ -1,0 +1,238 @@
+# sent_id = 1
+# text = Durchhalten
+1	Durchhalten	durchhalten	NOUN	_	Case=Dat|Number=Plur	1	ROOT	_	_
+
+# sent_id = 2
+# text = Manchmal sind die Zehdenicker zähe Brocken .
+1	Manchmal	manchmal	ADV	_		2	mo	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Zehdenicker	Zehdenicker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	zähe	zäh	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	nk	_	_
+6	Brocken	Brocken	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	pd	_	_
+7	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Jetzt wollen sich die Stadtverordneten sogar mit der Denkmalpflege anlegen .
+1	Jetzt	jetzt	ADV	_		2	mo	_	_
+2	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Stadtverordneten	Stadtverordneten	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+6	sogar	sogar	ADV	_		10	mo	_	_
+7	mit	mit	ADP	_		10	mo	_	_
+8	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Denkmalpflege	Denkmalpflege	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+10	anlegen	anlegen	VERB	_	VerbForm=Inf	2	oc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Nicht alles einfach so hinnehmen , was Behördenmitarbeiter vorgeben , lautet ihre Devise .
+1	Nicht	nicht	PART	_		2	ng	_	_
+2	alles	alle	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	oa	_	_
+3	einfach	einfach	ADV	_	Degree=Pos	5	mo	_	_
+4	so	so	ADV	_		5	mo	_	_
+5	hinnehmen	hinnehmen	VERB	_	VerbForm=Inf	11	oc	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	9	oa	_	_
+8	Behördenmitarbeiter	Behördenmitarbeiter	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	oa	_	_
+9	vorgeben	vorgeben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	re	_	_
+10	,	--	PUNCT	_		11	punct	_	_
+11	lautet	lauten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	ihre	ihr	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	nk	_	_
+13	Devise	Devise	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+14	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 5
+# text = Und das ist gut so .
+1	Und	und	CCONJ	_		3	ju	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	gut	gut	ADV	_	Degree=Pos	3	pd	_	_
+5	so	so	ADV	_		3	mo	_	_
+6	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = Denn die Ansicht der Denkmalpfleger ist kaum nachzuvollziehen .
+1	Denn	denn	CCONJ	_		6	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Ansicht	Ansicht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Denkmalpfleger	Denkmalpfleger	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	ag	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	kaum	kaum	ADV	_		8	mo	_	_
+8	nachzuvollziehen	nachvollziehen	VERB	_	VerbForm=Inf	6	oc	_	_
+9	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 7
+# text = Überall wird darauf gedrängt , historische Orte in ihrem Urzustand zu belassen oder wieder so herzustellen .
+1	Überall	überall	ADV	_		4	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	darauf	darauf	ADV	_		4	op	_	_
+4	gedrängt	drängen	VERB	_	VerbForm=Part	2	oc	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	historische	historisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	nk	_	_
+7	Orte	Ort	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	oa	_	_
+8	in	in	ADP	_		12	mo	_	_
+9	ihrem	ihr	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Urzustand	Urzustand	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	belassen	belassen	VERB	_	VerbForm=Inf	3	re	_	_
+13	oder	oder	CCONJ	_		12	cd	_	_
+14	wieder	wieder	ADV	_		16	mo	_	_
+15	so	so	ADV	_		16	mo	_	_
+16	herzustellen	herstellen	VERB	_	VerbForm=Inf	13	cj	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Da kommt ein innerstädtischer Straßenbau oft gerade Recht ,
+1	Da	da	ADV	_		2	mo	_	_
+2	kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	innerstädtischer	innerstädtisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Straßenbau	Straßenbau	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+6	oft	oft	ADV	_		2	mo	_	_
+7	gerade	gerade	ADV	_		2	mo	_	_
+8	Recht	Recht	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	oa	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = kann man doch dabei auch löchrige Asphaltpisten oder buckliges Pflaster durch ordentlich verlegte passende Pflastersteine ersetzen .
+1	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	sb	_	_
+3	doch	doch	ADV	_		1	mo	_	_
+4	dabei	dabei	ADV	_		1	mo	_	_
+5	auch	auch	ADV	_		7	mo	_	_
+6	löchrige	löchrig	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	7	nk	_	_
+7	Asphaltpisten	Asphaltpist	NOUN	_	Case=Nom|Number=Plur	16	oa	_	_
+8	oder	oder	CCONJ	_		7	cd	_	_
+9	buckliges	bucklig	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	nk	_	_
+10	Pflaster	Pflaster	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	cj	_	_
+11	durch	durch	ADP	_		16	mo	_	_
+12	ordentlich	ordentlich	ADV	_	Degree=Pos	13	mo	_	_
+13	verlegte	verlegt	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	15	nk	_	_
+14	passende	passend	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	15	nk	_	_
+15	Pflastersteine	Pflasterstein	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	nk	_	_
+16	ersetzen	ersetzen	VERB	_	VerbForm=Inf	1	oc	_	_
+17	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = Warum soll nun aber direkt an der Zehdenicker Kirche , wo das Kopfsteinpflaster derzeit zugegebenermaßen sehr hügelig ist und laute Rollgeräusche verursacht , ein Asphaltbelag drauf ?
+1	Warum	warum	ADV	_	PronType=Int	2	mo	_	_
+2	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nun	nun	ADV	_		2	mo	_	_
+4	aber	aber	ADV	_		2	mo	_	_
+5	direkt	direkt	ADV	_	Degree=Pos	6	mo	_	_
+6	an	an	ADP	_		2	mo	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Zehdenicker	Zehdenicker	ADJ	_	Degree=Pos	9	nk	_	_
+9	Kirche	Kirche	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+11	wo	wo	SCONJ	_	PronType=Int	18	mo	_	_
+12	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	nk	_	_
+13	Kopfsteinpflaster	Kopfsteinpflaster	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	sb	_	_
+14	derzeit	derzeit	ADV	_		18	mo	_	_
+15	zugegebenermaßen	zugegebenermaßen	ADV	_		18	mo	_	_
+16	sehr	sehr	ADV	_		17	mo	_	_
+17	hügelig	hügelig	ADV	_	Degree=Pos	18	pd	_	_
+18	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	rc	_	_
+19	und	und	CCONJ	_		18	cd	_	_
+20	laute	laut	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	nk	_	_
+21	Rollgeräusche	Rollgeräusche	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	22	oa	_	_
+22	verursacht	verursachen	VERB	_	VerbForm=Part	19	cj	_	_
+23	,	--	PUNCT	_		22	punct	_	_
+24	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	nk	_	_
+25	Asphaltbelag	Asphaltbelag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	cj	_	_
+26	drauf	drauf	ADV	_		25	mnr	_	_
+27	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Dass sich die Zehdenicker dagegen wehren , ist mehr als verständlich .
+1	Dass	dass	SCONJ	_		6	cp	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	oa	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Zehdenicker	Zehdenicker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	sb	_	_
+5	dagegen	dagegen	ADV	_		6	mo	_	_
+6	wehren	wehren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	sb	_	_
+7	,	--	PUNCT	_		8	punct	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	mehr	mehr	PRON	_	PronType=Ind	8	pd	_	_
+10	als	als	ADP	_		11	cm	_	_
+11	verständlich	verständlich	ADV	_	Degree=Pos	9	cc	_	_
+12	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 12
+# text = Allerdings müssen sie sich bewusst sein , dass so ein " Kampf " nur durchzustehen ist ,
+1	Allerdings	allerdings	ADV	_		2	mo	_	_
+2	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	6	da	_	_
+5	bewusst	bewusst	ADV	_	Degree=Pos	6	pd	_	_
+6	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+8	dass	dass	SCONJ	_		16	cp	_	_
+9	so	so	ADV	_		12	mo	_	_
+10	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+11	"	--	PUNCT	_		12	punct	_	_
+12	Kampf	Kampf	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	sb	_	_
+13	"	--	PUNCT	_		12	punct	_	_
+14	nur	nur	ADV	_		15	mo	_	_
+15	durchzustehen	durchzustehen	VERB	_	VerbForm=Inf	16	oc	_	_
+16	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+17	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = wenn sich alle einig sind .
+1	wenn	wenn	SCONJ	_		5	cp	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	4	da	_	_
+3	alle	alle	PRON	_	Case=Nom|Number=Plur|PronType=Ind	5	sb	_	_
+4	einig	einig	ADV	_	Degree=Pos	5	pd	_	_
+5	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 14
+# text = Es darf nicht passieren , dass einer oder mehrere Abgeordnete im Nachhinein " umfallen " .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	darf	dürfen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		2	ng	_	_
+4	passieren	passieren	VERB	_	VerbForm=Inf	2	oc	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	dass	dass	SCONJ	_		14	cp	_	_
+7	einer	einer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	nk	_	_
+8	oder	oder	CCONJ	_		7	cd	_	_
+9	mehrere	mehrere	DET	_	Case=Nom|Number=Plur|PronType=Ind	8	cj	_	_
+10	Abgeordnete	abgeordneter	NOUN	_	Case=Nom|Number=Plur	14	sb	_	_
+11	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	14	mo	_	_
+12	Nachhinein	Nachhinein	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+13	"	--	PUNCT	_		14	punct	_	_
+14	umfallen	umfallen	VERB	_	VerbForm=Inf	1	re	_	_
+15	"	--	PUNCT	_		14	punct	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Der Kampf kann sehr lange dauern
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Kampf	Kampf	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sehr	sehr	ADV	_		5	mo	_	_
+5	lange	lange	ADV	_		6	mo	_	_
+6	dauern	dauern	VERB	_	VerbForm=Inf	3	oc	_	_
+
+# sent_id = 16
+# text = und das Bauvorhaben verzögern .
+1	und	und	CCONJ	_		4	ju	_	_
+2	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Bauvorhaben	Bauvorhaben	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	oa	_	_
+4	verzögern	verzögern	VERB	_	VerbForm=Inf	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 17
+# text = Das muss in Kauf genommen werden .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	in	in	ADP	_		5	cvc	_	_
+4	Kauf	Kauf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nk	_	_
+5	genommen	nehmen	VERB	_	VerbForm=Part	6	oc	_	_
+6	werden	werden	AUX	_	VerbForm=Inf	2	oc	_	_
+7	.	--	PUNCT	_		2	punct	_	_
+

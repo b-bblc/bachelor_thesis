@@ -1,0 +1,269 @@
+# sent_id = 1
+# text = Nostalgie und frische Luft
+1	Nostalgie	Nostalgie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+2	und	und	CCONJ	_		1	cd	_	_
+3	frische	frisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Luft	Luft	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	cj	_	_
+
+# sent_id = 2
+# text = Wenn ältere Pritzwalker aufs Hainholz zu sprechen kommen ,
+1	Wenn	wenn	SCONJ	_		8	cp	_	_
+2	ältere	alt	ADJ	_	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	3	nk	_	_
+3	Pritzwalker	Pritzwalker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	sb	_	_
+4	aufs	auf	ADP	_	Case=Acc|Gender=Neut|Number=Sing	7	op	_	_
+5	Hainholz	Hainholz	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nk	_	_
+6	zu	zu	PART	_		7	pm	_	_
+7	sprechen	sprechen	VERB	_	VerbForm=Inf	8	oc	_	_
+8	kommen	kommen	VERB	_	VerbForm=Inf	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 3
+# text = da können sie schon in Erinnerungen schwelgen .
+1	da	da	ADV	_		2	mo	_	_
+2	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	schon	schon	ADV	_		2	mo	_	_
+5	in	in	ADP	_		7	mo	_	_
+6	Erinnerungen	Erinnerung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+7	schwelgen	schwelgen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Voll des Lobes waren Mitglieder des Pritzwalker Bauausschusses am Mittwoch ,
+1	Voll	voll	ADP	_		4	pd	_	_
+2	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Lobes	Lob	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nk	_	_
+4	waren	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	Mitglieder	Mitglied	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	sb	_	_
+6	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+7	Pritzwalker	Pritzwalker	ADJ	_	Degree=Pos	8	nk	_	_
+8	Bauausschusses	Bauausschuss	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	ag	_	_
+9	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	4	mo	_	_
+10	Mittwoch	Mittwoch	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nk	_	_
+11	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 5
+# text = als ein Bericht über die Bewirtschaftung des Stadtforstes auf der Tagesordnung ihrer Sitzung stand .
+1	als	als	ADP	_		14	cp	_	_
+2	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Bericht	Bericht	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	sb	_	_
+4	über	über	ADP	_		3	mnr	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Bewirtschaftung	Bewirtschaftung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Stadtforstes	Stadtforst	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+9	auf	auf	ADP	_		6	mnr	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Tagesordnung	Tagesordnung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+12	ihrer	ihr	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	nk	_	_
+13	Sitzung	Sitzung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	ag	_	_
+14	stand	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	ROOT	_	_
+15	.	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 6
+# text = " Pritzwalk kann auf seinen Stadtwald stolz sein .
+1	"	--	PUNCT	_		3	punct	_	_
+2	Pritzwalk	Pritzwalk	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+3	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	auf	auf	ADP	_		7	mo	_	_
+5	seinen	sein	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Stadtwald	Stadtwald	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nk	_	_
+7	stolz	stolz	ADV	_	Degree=Pos	8	pd	_	_
+8	sein	sein	AUX	_	VerbForm=Inf	3	oc	_	_
+9	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = Sowas gibt es selten " , schwärmte etwa Wolfgang Eichhorst .
+1	Sowas	sowas	ADV	_		2	oa	_	_
+2	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	oc	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+4	selten	selten	ADV	_	Degree=Pos	2	mo	_	_
+5	"	--	PUNCT	_		2	punct	_	_
+6	,	--	PUNCT	_		7	punct	_	_
+7	schwärmte	schwärmen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	ROOT	_	_
+8	etwa	etwa	ADV	_		7	mo	_	_
+9	Wolfgang	Wolfgang	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	pnc	_	_
+10	Eichhorst	Eichhorst	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	sb	_	_
+11	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = Und Dietrich Kurtz sagte :
+1	Und	und	CCONJ	_		4	ju	_	_
+2	Dietrich	Dietrich	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	pnc	_	_
+3	Kurtz	Kurtz	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+4	sagte	sagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	:	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = " Früher als Jungs und mit der Clique sind wir oft ins Hainholz gegangen .
+1	"	--	PUNCT	_		14	punct	_	_
+2	Früher	früh	ADV	_	Degree=Cmp	9	mo	_	_
+3	als	als	ADP	_		4	cm	_	_
+4	Jungs	Jung	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	cc	_	_
+5	und	und	CCONJ	_		2	cd	_	_
+6	mit	mit	ADP	_		5	cj	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Clique	Clique	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	wir	wir	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	sb	_	_
+11	oft	oft	ADV	_		14	mo	_	_
+12	ins	in	ADP	_	Case=Acc|Gender=Neut|Number=Sing	14	mo	_	_
+13	Hainholz	Hainholz	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	nk	_	_
+14	gegangen	gehen	VERB	_	VerbForm=Part	9	oc	_	_
+15	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 10
+# text = Das war damals für die Jugend selbstverständlich . "
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	damals	damals	ADV	_		2	mo	_	_
+4	für	für	ADP	_		2	mo	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Jugend	Jugend	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+7	selbstverständlich	selbstverständlich	ADV	_	Degree=Pos	2	pd	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+9	"	--	PUNCT	_		9	ROOT	_	_
+
+# sent_id = 11
+# text = Ob sie sich da vielleicht heimlich mit Mädchen getroffen hätten , wollten neugierige Sitzungsteilnehmer wissen :
+1	Ob	ob	SCONJ	_		10	cp	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	sb	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	oa	_	_
+4	da	da	ADV	_		9	mo	_	_
+5	vielleicht	vielleicht	ADV	_		9	mo	_	_
+6	heimlich	heimlich	ADV	_	Degree=Pos	9	mo	_	_
+7	mit	mit	ADP	_		9	mo	_	_
+8	Mädchen	Mädchen	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	7	nk	_	_
+9	getroffen	treffen	VERB	_	VerbForm=Part	10	oc	_	_
+10	hätten	haben	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	oc	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	wollten	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	ROOT	_	_
+13	neugierige	neugierig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	14	nk	_	_
+14	Sitzungsteilnehmer	Sitzungsteilnehmer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	sb	_	_
+15	wissen	wissen	VERB	_	VerbForm=Inf	12	oc	_	_
+16	:	--	PUNCT	_		15	punct	_	_
+
+# sent_id = 12
+# text = " Klar sind da auch mal Mädels dabei gewesen " , gestand Kurtz .
+1	"	--	PUNCT	_		3	punct	_	_
+2	Klar	klar	ADV	_	Degree=Pos	3	pd	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	oc	_	_
+4	da	da	ADV	_		2	mo	_	_
+5	auch	auch	ADV	_		6	mo	_	_
+6	mal	mal	ADV	_		9	mo	_	_
+7	Mädels	Mädel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	sb	_	_
+8	dabei	dabei	ADV	_		9	mo	_	_
+9	gewesen	sein	AUX	_	VerbForm=Part	3	oc	_	_
+10	"	--	PUNCT	_		3	punct	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	gestand	gestehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	ROOT	_	_
+13	Kurtz	Kurtz	PROPN	_	Case=Nom|Number=Sing	12	sb	_	_
+14	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 13
+# text = Der wunderbare Mischwald am Rande der Stadt entfaltet aber nicht nur eine nostalgische Wirkung auf die Menschen .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	wunderbare	wunderbar	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	Mischwald	Mischwald	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	sb	_	_
+4	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	3	mnr	_	_
+5	Rande	Rand	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Stadt	Stadt	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	ag	_	_
+8	entfaltet	entfalten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	aber	aber	ADV	_		8	mo	_	_
+10	nicht	nicht	PART	_		11	ng	_	_
+11	nur	nur	ADV	_		14	mo	_	_
+12	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+13	nostalgische	nostalgisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	nk	_	_
+14	Wirkung	Wirkung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	oa	_	_
+15	auf	auf	ADP	_		14	mnr	_	_
+16	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	nk	_	_
+17	Menschen	Mensch	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	nk	_	_
+18	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 14
+# text = Er ist nach wie vor Anziehungspunkt für Spaziergänger , Radler , Läufer und Naturliebhaber jeden Alters -
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nach	nach	ADV	_		2	mo	_	_
+4	wie	wie	CCONJ	_		3	cd	_	_
+5	vor	vor	ADP	_		4	cj	_	_
+6	Anziehungspunkt	Anziehungspunkt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+7	für	für	ADP	_		6	mnr	_	_
+8	Spaziergänger	Spaziergänger	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	nk	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	Radler	Radler	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	cj	_	_
+11	,	--	PUNCT	_		8	punct	_	_
+12	Läufer	Läufer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	cj	_	_
+13	und	und	CCONJ	_		12	cd	_	_
+14	Naturliebhaber	Naturliebhaber	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	cj	_	_
+15	jeden	jeder	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	16	nk	_	_
+16	Alters	Alter	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	ag	_	_
+17	-	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = wenngleich es vielleicht nicht mehr so ist wie früher .
+1	wenngleich	wenngleich	SCONJ	_		7	cp	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	sb	_	_
+3	vielleicht	vielleicht	ADV	_		7	mo	_	_
+4	nicht	nicht	PART	_		7	ng	_	_
+5	mehr	mehr	ADV	_		4	mo	_	_
+6	so	so	ADV	_		7	mo	_	_
+7	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	wie	wie	ADP	_		9	cm	_	_
+9	früher	früh	ADV	_	Degree=Cmp	3	cc	_	_
+10	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 16
+# text = Aber vielleicht täuscht dieser Eindruck nur
+1	Aber	aber	CCONJ	_		3	ju	_	_
+2	vielleicht	vielleicht	ADV	_		3	mo	_	_
+3	täuscht	täuschen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	dieser	dieser	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nk	_	_
+5	Eindruck	Eindruck	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+6	nur	nur	ADV	_		3	mo	_	_
+
+# sent_id = 17
+# text = und man nimmt die vielen , Erholung suchenden Leute im Hainholz gar nicht wahr ,
+1	und	und	CCONJ	_		3	ju	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	3	sb	_	_
+3	nimmt	nehmen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	nk	_	_
+5	vielen	vieler	PRON	_	Case=Acc|Number=Plur|PronType=Ind	9	nk	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	Erholung	Erholung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	oa	_	_
+8	suchenden	suchenden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cj	_	_
+9	Leute	Leute	NOUN	_	Case=Acc|Number=Plur	3	oa	_	_
+10	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	9	mnr	_	_
+11	Hainholz	Hainholz	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	gar	gar	ADV	_		13	mo	_	_
+13	nicht	nicht	PART	_		3	ng	_	_
+14	wahr	wahr	ADV	_	Degree=Pos	3	svp	_	_
+15	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 18
+# text = weil man selbst zu selten dort ist .
+1	weil	weil	SCONJ	_		7	cp	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	7	sb	_	_
+3	selbst	selbst	ADV	_		2	mnr	_	_
+4	zu	zu	PART	_		5	mo	_	_
+5	selten	selten	ADV	_	Degree=Pos	7	pd	_	_
+6	dort	dort	ADV	_		7	mo	_	_
+7	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 19
+# text = Also , was hält Sie von einem Dezemberausflug ins Grüne ab ?
+1	Also	also	ADV	_		4	mo	_	_
+2	,	--	PUNCT	_		4	punct	_	_
+3	was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	oa	_	_
+4	hält	halten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	Sie	sie	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	sb	_	_
+6	von	von	ADP	_		4	mo	_	_
+7	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Dezemberausflug	Dezemberausflug	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+9	ins	in	ADP	_	Case=Acc|Gender=Neut|Number=Sing	8	mnr	_	_
+10	Grüne	grüne	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	nk	_	_
+11	ab	ab	ADP	_		4	svp	_	_
+12	?	--	PUNCT	_		4	punct	_	_
+

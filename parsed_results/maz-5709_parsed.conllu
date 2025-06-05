@@ -1,0 +1,233 @@
+# sent_id = 1
+# text = Bucklig
+1	Bucklig	Bucklig	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Davon können die bevölkerungsreichen Wohngebiete Schlaatz , Stern und Drewitz nur träumen :
+1	Davon	davon	ADV	_		12	op	_	_
+2	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	nk	_	_
+4	bevölkerungsreichen	bevölkerungsreich	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	nk	_	_
+5	Wohngebiete	Wohngebiet	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	sb	_	_
+6	Schlaatz	Schlaatz	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	5	nk	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	Stern	Stern	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	cj	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Drewitz	Drewitz	PROPN	_	Case=Dat|Number=Sing	9	cj	_	_
+11	nur	nur	ADV	_		12	mo	_	_
+12	träumen	träumen	VERB	_	VerbForm=Inf	2	oc	_	_
+13	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Der Bauausschuss widmete seine ganze Aufmerksamkeit zum wiederholten Male und diesmal geschlagene anderthalb Stunden der kuscheligen Eigenheimsiedlung Parforceheide .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Bauausschuss	Bauausschuss	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	widmete	widmen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	seine	sein	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nk	_	_
+5	ganze	ganz	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Aufmerksamkeit	Aufmerksamkeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	oa	_	_
+7	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mo	_	_
+8	wiederholten	wiederholt	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	9	nk	_	_
+9	Male	Mal	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+10	und	und	CCONJ	_		9	cd	_	_
+11	diesmal	diesmal	ADV	_		12	mo	_	_
+12	geschlagene	geschlagen	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	14	nk	_	_
+13	anderthalb	anderthalb	NUM	_		14	nk	_	_
+14	Stunden	Stunde	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	10	cj	_	_
+15	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+16	kuscheligen	kuschelig	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+17	Eigenheimsiedlung	Eigenheimsiedlung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	ag	_	_
+18	Parforceheide	Parforceheide	PROPN	_	Case=Nom|Number=Sing	17	nk	_	_
+19	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Während es rund um die Plattenbauten an allen Ecken hapert ,
+1	Während	während	SCONJ	_		10	cp	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	ep	_	_
+3	rund	rund	ADV	_		4	mo	_	_
+4	um	um	ADP	_		10	mo	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	nk	_	_
+6	Plattenbauten	Plattenbaut	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	nk	_	_
+7	an	an	ADP	_		6	mnr	_	_
+8	allen	aller	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	9	nk	_	_
+9	Ecken	Ecke	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	7	nk	_	_
+10	hapert	hapern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 5
+# text = dem Schlaatz gerade Mittel entzogen werden müssen ,
+1	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Schlaatz	Schlaatz	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	da	_	_
+3	gerade	gerade	ADV	_		4	mo	_	_
+4	Mittel	Mittel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	ROOT	_	_
+5	entzogen	entziehen	VERB	_	VerbForm=Part	6	oc	_	_
+6	werden	werden	AUX	_	VerbForm=Inf	7	oc	_	_
+7	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+8	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 6
+# text = soll die neue Straße An der Parforceheide durch Buckel ergänzt werden ,
+1	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Straße	Straße	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+5	An	an	ADP	_		10	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Parforceheide	Parforceheide	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	durch	durch	ADP	_		7	mnr	_	_
+9	Buckel	Buckel	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	nk	_	_
+10	ergänzt	ergänzen	VERB	_	VerbForm=Part	11	oc	_	_
+11	werden	werden	AUX	_	VerbForm=Inf	11	ROOT	_	_
+12	,	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 7
+# text = die den Steuerzahler 40_000 Mark kosten .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	sb	_	_
+2	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Steuerzahler	Steuerzahler	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	oa	_	_
+4	40_000	40_000	NUM	_		5	nk	_	_
+5	Mark	Mark	NOUN	_	Gender=Fem	6	oa	_	_
+6	kosten	kosten	VERB	_	VerbForm=Inf	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 8
+# text = Dabei sind es vor allem Anwohner , die mit mehr als den erlaubten 7 km/h durch die ausgewiesene Spielstraße fahren .
+1	Dabei	dabei	ADV	_		2	mo	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	vor	vor	ADP	_		6	mo	_	_
+5	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	4	nk	_	_
+6	Anwohner	Anwohner	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	pd	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	22	sb	_	_
+9	mit	mit	ADP	_		22	mo	_	_
+10	mehr	mehr	DET	_	PronType=Ind	15	nk	_	_
+11	als	als	ADP	_		12	cm	_	_
+12	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+13	erlaubten	erlaubt	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+14	7	7	NUM	_		15	nk	_	_
+15	km	km	NOUN	_	Gender=Masc	9	nk	_	_
+16	/	--	PUNCT	_		15	punct	_	_
+17	h	h	PROPN	_	Case=Nom|Number=Sing	15	cj	_	_
+18	durch	durch	ADP	_		22	mo	_	_
+19	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	nk	_	_
+20	ausgewiesene	ausgewiesen	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	nk	_	_
+21	Spielstraße	Spielstraße	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	nk	_	_
+22	fahren	fahren	VERB	_	VerbForm=Inf	6	rc	_	_
+23	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = Hier , wo sich die Namensschilder wie ein Potsdamer " Who is who ? " kluger Menschen lesen ,
+1	Hier	hier	ADV	_		1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	wo	wo	SCONJ	_	PronType=Int	18	mo	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	18	oa	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	nk	_	_
+6	Namensschilder	Namensschild	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	18	sb	_	_
+7	wie	wie	ADP	_		11	cm	_	_
+8	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+9	Potsdamer	Potsdamer	ADJ	_	Degree=Pos	11	nk	_	_
+10	"	--	PUNCT	_		11	punct	_	_
+11	Who	Who	X	_	Foreign=Yes	6	cc	_	_
+12	is	--	X	_	Foreign=Yes	11	uc	_	_
+13	who	who	X	_	Foreign=Yes	11	uc	_	_
+14	?	--	PUNCT	_		11	punct	_	_
+15	"	--	PUNCT	_		18	punct	_	_
+16	kluger	klug	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	nk	_	_
+17	Menschen	Mensch	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	18	sb	_	_
+18	lesen	lesen	VERB	_	VerbForm=Inf	1	rc	_	_
+19	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = ist man aber offenbar nicht in der Lage , miteinander zu reden
+1	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	sb	_	_
+3	aber	aber	ADV	_		1	mo	_	_
+4	offenbar	offenbar	ADV	_	Degree=Pos	1	mo	_	_
+5	nicht	nicht	PART	_		1	ng	_	_
+6	in	in	ADP	_		1	mo	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Lage	Lage	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	,	--	PUNCT	_		6	punct	_	_
+10	miteinander	miteinander	ADV	_		12	op	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	reden	reden	VERB	_	VerbForm=Inf	2	re	_	_
+
+# sent_id = 11
+# text = und eine Lösung zu finden .
+1	und	und	CCONJ	_		5	ju	_	_
+2	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Lösung	Lösung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	oa	_	_
+4	zu	zu	PART	_		5	pm	_	_
+5	finden	finden	VERB	_	VerbForm=Inf	5	ROOT	_	_
+6	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 12
+# text = Lieber gründet man Bürgerbewegung und Antibewegung ,
+1	Lieber	lieber	ADV	_	Degree=Cmp	2	mo	_	_
+2	gründet	gründen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+4	Bürgerbewegung	Bürgerbewegung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	oa	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	Antibewegung	Antibewegung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	cj	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = wobei die Buckelgegner öffentlich als kinderfeindlich gebrandmarkt werden .
+1	wobei	wobei	ADV	_	PronType=Int	7	mo	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+3	Buckelgegner	Buckelgegner	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	sb	_	_
+4	öffentlich	öffentlich	ADV	_	Degree=Pos	7	mo	_	_
+5	als	als	ADP	_		7	mo	_	_
+6	kinderfeindlich	kinderfeindlich	ADV	_	Degree=Pos	5	nk	_	_
+7	gebrandmarkt	brandmarken	VERB	_	VerbForm=Part	8	oc	_	_
+8	werden	werden	AUX	_	VerbForm=Inf	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 14
+# text = Die Stadt wäre gut beraten , sich diesem moralischen Imperativ nicht zu beugen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Stadt	Stadt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	gut	gut	ADV	_	Degree=Pos	5	mo	_	_
+5	beraten	beraten	VERB	_	VerbForm=Part	3	pd	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	13	oa	_	_
+8	diesem	dieser	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	10	nk	_	_
+9	moralischen	moralisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Imperativ	Imperativ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	da	_	_
+11	nicht	nicht	PART	_		13	ng	_	_
+12	zu	zu	PART	_		13	pm	_	_
+13	beugen	beugen	VERB	_	VerbForm=Inf	5	oc	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = Anderenfalls müsste sie vor jeder Schule und jeder Kita Bremsbuckel aufpflastern .
+1	Anderenfalls	anderenfalls	ADV	_		2	mo	_	_
+2	müsste	müssen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	vor	vor	ADP	_		11	mo	_	_
+5	jeder	jeder	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	6	nk	_	_
+6	Schule	Schule	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	jeder	jeder	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	9	nk	_	_
+9	Kita	Kita	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	cj	_	_
+10	Bremsbuckel	Bremsbuckel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nk	_	_
+11	aufpflastern	aufpflastern	VERB	_	VerbForm=Inf	2	oc	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Das wäre vielleicht wünschenswert ,
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	vielleicht	vielleicht	ADV	_		2	mo	_	_
+4	wünschenswert	wünschenswert	ADV	_	Degree=Pos	2	pd	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = zugleich aber unbezahlbar .
+1	zugleich	zugleich	ADV	_		3	mo	_	_
+2	aber	aber	ADV	_		1	mo	_	_
+3	unbezahlbar	unbezahlbar	ADV	_	Degree=Pos	3	ROOT	_	_
+4	.	--	PUNCT	_		3	punct	_	_
+

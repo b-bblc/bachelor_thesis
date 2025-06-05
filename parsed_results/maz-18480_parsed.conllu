@@ -1,0 +1,237 @@
+# sent_id = 1
+# text = Anders als gedacht
+1	Anders	anders	ADV	_		1	ROOT	_	_
+2	als	als	SCONJ	_		3	cm	_	_
+3	gedacht	denken	VERB	_	VerbForm=Part	1	cc	_	_
+
+# sent_id = 2
+# text = So träge wie allgemein oft angenommen , scheint die Jugend im Fläming nun doch nicht zu sein .
+1	So	so	ADV	_		2	mo	_	_
+2	träge	träge	ADV	_	Degree=Pos	6	mo	_	_
+3	wie	wie	ADP	_		2	cd	_	_
+4	allgemein	allgemein	ADV	_	Degree=Pos	3	cj	_	_
+5	oft	oft	ADV	_		6	mo	_	_
+6	angenommen	annehmen	VERB	_	VerbForm=Part	8	mo	_	_
+7	,	--	PUNCT	_		8	punct	_	_
+8	scheint	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Jugend	Jugend	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+11	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	10	mnr	_	_
+12	Fläming	Fläming	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+13	nun	nun	ADV	_		8	mo	_	_
+14	doch	doch	ADV	_		17	mo	_	_
+15	nicht	nicht	PART	_		17	ng	_	_
+16	zu	zu	PART	_		17	pm	_	_
+17	sein	sein	AUX	_	VerbForm=Inf	8	oc	_	_
+18	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 3
+# text = Denn wenn sich jetzt unterstützt von Schülern auch in Wiesenburg ein Förderverein für die Grund- und Gesamtschule gründet ,
+1	Denn	denn	CCONJ	_		18	ju	_	_
+2	wenn	wenn	SCONJ	_		5	cp	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+4	jetzt	jetzt	ADV	_		5	mo	_	_
+5	unterstützt	unterstützen	VERB	_	VerbForm=Part	18	mo	_	_
+6	von	von	ADP	_		5	sbp	_	_
+7	Schülern	Schüler	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+8	auch	auch	ADV	_		9	mo	_	_
+9	in	in	ADP	_		5	mo	_	_
+10	Wiesenburg	Wiesenburg	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	9	nk	_	_
+11	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Förderverein	Förderverein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	sb	_	_
+13	für	für	ADP	_		12	mnr	_	_
+14	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+15	Grund-	Grund	X	_		16	cj	_	_
+16	und	und	CCONJ	_		17	cd	_	_
+17	Gesamtschule	Gesamtschule	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	nk	_	_
+18	gründet	gründen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	ROOT	_	_
+19	,	--	PUNCT	_		18	punct	_	_
+
+# sent_id = 4
+# text = zeigt dies , welchen Stellenwert einer guten schulischen Ausbildung inzwischen eingeräumt wird .
+1	zeigt	zeigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	dies	dieser	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	sb	_	_
+3	,	--	PUNCT	_		1	punct	_	_
+4	welchen	welcher	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	5	nk	_	_
+5	Stellenwert	Stellenwert	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	sb	_	_
+6	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+7	guten	gut	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+8	schulischen	schulisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Ausbildung	Ausbildung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	ag	_	_
+10	inzwischen	inzwischen	ADV	_		11	mo	_	_
+11	eingeräumt	einräumen	VERB	_	VerbForm=Part	12	oc	_	_
+12	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+13	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 5
+# text = Wie anderswo bereits seit längerem erfolgreich praktiziert ,
+1	Wie	wie	ADV	_	PronType=Int	2	mo	_	_
+2	anderswo	anderswo	ADV	_		7	mo	_	_
+3	bereits	bereits	ADV	_		4	mo	_	_
+4	seit	seit	ADP	_		7	mo	_	_
+5	längerem	lang	ADJ	_	Case=Dat|Degree=Cmp|Gender=Neut|Number=Sing	4	nk	_	_
+6	erfolgreich	erfolgreich	ADV	_	Degree=Pos	7	mo	_	_
+7	praktiziert	praktizieren	VERB	_	VerbForm=Part	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 6
+# text = wird die Schule so stärker in den Mittelpunkt der Gesellschaft gerückt .
+1	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Schule	Schule	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+4	so	so	ADV	_		5	mo	_	_
+5	stärker	stark	ADV	_	Degree=Cmp	11	mo	_	_
+6	in	in	ADP	_		11	mo	_	_
+7	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Mittelpunkt	Mittelpunkt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nk	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Gesellschaft	Gesellschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+11	gerückt	rücken	VERB	_	VerbForm=Part	1	oc	_	_
+12	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 7
+# text = Sie ist kein abgeschottetetes Gebilde mehr ,
+1	Sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	kein	kein	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	nk	_	_
+4	abgeschottetetes	abgeschottetet	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	nk	_	_
+5	Gebilde	Gebilde	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	pd	_	_
+6	mehr	mehr	ADV	_		5	mo	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = sondern Teil der Kommunen .
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	Teil	Teil	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	cj	_	_
+3	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	nk	_	_
+4	Kommunen	Kommune	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	ag	_	_
+5	.	--	PUNCT	_		5	ROOT	_	_
+
+# sent_id = 9
+# text = An die Stelle von " die da oben müssten mal ... " ist Eigeninitiative getreten .
+1	An	an	ADP	_		9	mo	_	_
+2	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Stelle	Stelle	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	nk	_	_
+4	von	von	ADP	_		3	mnr	_	_
+5	"	--	PUNCT	_		4	punct	_	_
+6	die	der	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	4	nk	_	_
+7	da	da	ADV	_		8	mo	_	_
+8	oben	oben	ADV	_		9	mo	_	_
+9	müssten	müssen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	mal	mal	ADV	_		9	mo	_	_
+11	...	--	PUNCT	_		9	punct	_	_
+12	"	--	PUNCT	_		13	punct	_	_
+13	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cj	_	_
+14	Eigeninitiative	Eigeninitiative	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	sb	_	_
+15	getreten	treten	VERB	_	VerbForm=Part	13	oc	_	_
+16	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 10
+# text = Selbst etwas anpacken und nicht auf Allmosen warten , scheint nun die Devise zu sein .
+1	Selbst	selbst	ADV	_		3	mo	_	_
+2	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	3	oa	_	_
+3	anpacken	anpacken	VERB	_	VerbForm=Inf	10	sb	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	nicht	nicht	PART	_		8	ng	_	_
+6	auf	auf	ADP	_		8	op	_	_
+7	Allmosen	Allmose	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	nk	_	_
+8	warten	warten	VERB	_	VerbForm=Inf	4	cj	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	scheint	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	nun	nun	ADV	_		10	mo	_	_
+12	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	Devise	Devise	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	pd	_	_
+14	zu	zu	PART	_		15	pm	_	_
+15	sein	sein	AUX	_	VerbForm=Inf	10	oc	_	_
+16	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 11
+# text = Das ist gut so .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	gut	gut	ADV	_	Degree=Pos	2	mo	_	_
+4	so	so	ADV	_		2	mo	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Bleibt zu hoffen , dass sich nicht nur dem Wiesenburger Förderverein möglichst viele Menschen aus diversen Gruppen der Gesellschaft anschließen .
+1	Bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	zu	zu	PART	_		3	pm	_	_
+3	hoffen	hoffen	VERB	_	VerbForm=Inf	1	oc	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	dass	dass	SCONJ	_		20	cp	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	oa	_	_
+7	nicht	nicht	PART	_		8	ng	_	_
+8	nur	nur	ADV	_		11	mo	_	_
+9	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+10	Wiesenburger	Wiesenburger	ADJ	_	Degree=Pos	11	nk	_	_
+11	Förderverein	Förderverein	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	20	da	_	_
+12	möglichst	möglichst	ADV	_		13	mo	_	_
+13	viele	vieler	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	14	nk	_	_
+14	Menschen	Mensch	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	20	sb	_	_
+15	aus	aus	ADP	_		14	mnr	_	_
+16	diversen	diverser	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	17	nk	_	_
+17	Gruppen	Gruppe	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	15	nk	_	_
+18	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	nk	_	_
+19	Gesellschaft	Gesellschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	ag	_	_
+20	anschließen	anschließen	VERB	_	VerbForm=Inf	3	oc	_	_
+21	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 13
+# text = Beispielsweise könnten Handwerker und Betriebe der Region so frühzeitig Kontakte zu künftigen Lehrlingen knüpfen
+1	Beispielsweise	beispielsweise	ADV	_		2	mo	_	_
+2	könnten	können	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	Handwerker	Handwerker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Betriebe	Betrieb	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cj	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Region	Region	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+8	so	so	ADV	_		9	mo	_	_
+9	frühzeitig	frühzeitig	ADV	_	Degree=Pos	14	mo	_	_
+10	Kontakte	Kontakt	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	oa	_	_
+11	zu	zu	ADP	_		10	mnr	_	_
+12	künftigen	künftig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	13	nk	_	_
+13	Lehrlingen	Lehrling	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	nk	_	_
+14	knüpfen	knüpfen	VERB	_	VerbForm=Inf	2	oc	_	_
+
+# sent_id = 14
+# text = oder im Gespräch mit Lehrern ihre Anforderungen an die oft krititisierte Ausbildung in den Schulen verdeutlichen .
+1	oder	oder	CCONJ	_		16	ju	_	_
+2	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	16	mo	_	_
+3	Gespräch	Gespräch	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+4	mit	mit	ADP	_		3	op	_	_
+5	Lehrern	Lehrer	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	nk	_	_
+6	ihre	ihr	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	nk	_	_
+7	Anforderungen	Anforderung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	16	oa	_	_
+8	an	an	ADP	_		7	mnr	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+10	oft	oft	ADV	_		11	mo	_	_
+11	krititisierte	krititisiert	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Ausbildung	Ausbildung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nk	_	_
+13	in	in	ADP	_		12	mnr	_	_
+14	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	nk	_	_
+15	Schulen	Schule	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	13	nk	_	_
+16	verdeutlichen	verdeutlichen	VERB	_	VerbForm=Inf	16	ROOT	_	_
+17	.	--	PUNCT	_		16	punct	_	_
+
+# sent_id = 15
+# text = Dass für eigentlich normale Dinge im Schulalltag dennoch immer auch Spendengeld nötig bleibt , ist ein Wermutstropfen .
+1	Dass	dass	SCONJ	_		13	cp	_	_
+2	für	für	ADP	_		13	mo	_	_
+3	eigentlich	eigentlich	ADV	_		4	mo	_	_
+4	normale	normal	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	5	nk	_	_
+5	Dinge	Ding	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	nk	_	_
+6	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	13	mo	_	_
+7	Schulalltag	Schulalltag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+8	dennoch	dennoch	ADV	_		13	mo	_	_
+9	immer	immer	ADV	_		8	mo	_	_
+10	auch	auch	ADV	_		11	mo	_	_
+11	Spendengeld	Spendengeld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	13	sb	_	_
+12	nötig	nötig	ADV	_	Degree=Pos	13	pd	_	_
+13	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	sb	_	_
+14	,	--	PUNCT	_		15	punct	_	_
+15	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ROOT	_	_
+16	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	Wermutstropfen	Wermutstropfen	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	pd	_	_
+18	.	--	PUNCT	_		15	punct	_	_
+

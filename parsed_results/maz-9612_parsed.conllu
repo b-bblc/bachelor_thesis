@@ -1,0 +1,230 @@
+# sent_id = 1
+# text = Alle sind es nicht
+1	Alle	alle	PRON	_	Case=Nom|Number=Plur|PronType=Ind	2	sb	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	nicht	nicht	PART	_		2	ng	_	_
+
+# sent_id = 2
+# text = Die Bundeswehr geht davon aus , dass ihre geplanten Aktivitäten aus der Luft " keine relevanten Auswirkungen auf die Entwicklung der Region im touristischen Bereich " haben werden .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Bundeswehr	Bundeswehr	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	davon	davon	ADV	_		3	mo	_	_
+5	aus	aus	ADP	_		3	svp	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+7	dass	dass	SCONJ	_		28	cp	_	_
+8	ihre	ihr	DET	_	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	nk	_	_
+9	geplanten	geplant	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	10	nk	_	_
+10	Aktivitäten	Aktivität	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	28	sb	_	_
+11	aus	aus	ADP	_		10	mnr	_	_
+12	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	Luft	Luft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	nk	_	_
+14	"	--	PUNCT	_		10	punct	_	_
+15	keine	kein	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	17	nk	_	_
+16	relevanten	relevant	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	17	nk	_	_
+17	Auswirkungen	Auswirkung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	27	oa	_	_
+18	auf	auf	ADP	_		17	op	_	_
+19	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	nk	_	_
+20	Entwicklung	Entwicklung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	nk	_	_
+21	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	nk	_	_
+22	Region	Region	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	ag	_	_
+23	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	20	mnr	_	_
+24	touristischen	touristisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	25	nk	_	_
+25	Bereich	Bereich	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	23	nk	_	_
+26	"	--	PUNCT	_		17	punct	_	_
+27	haben	haben	AUX	_	VerbForm=Inf	28	oc	_	_
+28	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	re	_	_
+29	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 3
+# text = Jahrelange Erfahrungen in anderen Gebieten der Bundesrepublik hätten gezeigt , dass militärische Einrichtungen durchaus mit den Interessen des Tourismus in Einklang zu bringen seien .
+1	Jahrelange	Jahrelange	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	nk	_	_
+2	Erfahrungen	Erfahrung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	8	sb	_	_
+3	in	in	ADP	_		2	mnr	_	_
+4	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	5	nk	_	_
+5	Gebieten	Gebiet	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	3	nk	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Bundesrepublik	Bundesrepublik	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	ag	_	_
+8	hätten	haben	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	gezeigt	zeigen	VERB	_	VerbForm=Part	8	oc	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+11	dass	dass	SCONJ	_		24	cp	_	_
+12	militärische	militärisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	13	nk	_	_
+13	Einrichtungen	Einrichtung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	24	sb	_	_
+14	durchaus	durchaus	ADV	_		23	mo	_	_
+15	mit	mit	ADP	_		23	mo	_	_
+16	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	17	nk	_	_
+17	Interessen	Interesse	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	15	nk	_	_
+18	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	nk	_	_
+19	Tourismus	Tourismus	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	ag	_	_
+20	in	in	ADP	_		23	cvc	_	_
+21	Einklang	Einklang	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	nk	_	_
+22	zu	zu	PART	_		23	pm	_	_
+23	bringen	bringen	VERB	_	VerbForm=Inf	24	oc	_	_
+24	seien	sein	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	oc	_	_
+25	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 4
+# text = So jedenfalls steht es in der Erläuterung zum Luft/Bodenschießplatz bei Wittstock .
+1	So	so	ADV	_		2	mo	_	_
+2	jedenfalls	jedenfalls	ADV	_		3	mo	_	_
+3	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	ep	_	_
+5	in	in	ADP	_		3	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Erläuterung	Erläuterung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mnr	_	_
+9	Luft	Luft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	nk	_	_
+10	/	--	PUNCT	_		7	punct	_	_
+11	Bodenschießplatz	Bodenschießplatz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+12	bei	bei	ADP	_		11	mnr	_	_
+13	Wittstock	Wittstock	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	12	nk	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = Dazu werden in der kommenden Woche die betroffenen Gemeinden angehört .
+1	Dazu	dazu	ADV	_		10	mo	_	_
+2	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	in	in	ADP	_		10	mo	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	kommenden	kommend	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Woche	Woche	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	nk	_	_
+8	betroffenen	betroffen	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+9	Gemeinden	Gemeinde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	sb	_	_
+10	angehört	angehören	VERB	_	VerbForm=Part	2	oc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Stopp , die Aussage ist nicht ganz korrekt .
+1	Stopp	Stopp	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	pd	_	_
+2	,	--	PUNCT	_		5	punct	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Aussage	Aussage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+5	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	nicht	nicht	PART	_		7	ng	_	_
+7	ganz	ganz	ADV	_		8	mo	_	_
+8	korrekt	korrekt	ADV	_	Degree=Pos	5	pd	_	_
+9	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 7
+# text = Alle werden es nicht sein ,
+1	Alle	alle	PRON	_	Case=Nom|Number=Plur|PronType=Ind	2	sb	_	_
+2	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	oa	_	_
+4	nicht	nicht	PART	_		5	ng	_	_
+5	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = denn es liegt auf der Hand , dass sich auch wenigstens Teile des ehemaligen Kreises Kyritz darüber Gedanken machen müssen , wie sie mit den Überfliegern klarkommen .
+1	denn	denn	CCONJ	_		3	ju	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	liegt	liegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	auf	auf	ADP	_		3	mo	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Hand	Hand	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+8	dass	dass	SCONJ	_		20	cp	_	_
+9	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	19	oa	_	_
+10	auch	auch	ADV	_		12	mo	_	_
+11	wenigstens	wenigstens	ADV	_		12	mo	_	_
+12	Teile	Teil	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	20	sb	_	_
+13	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+14	ehemaligen	ehemalig	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+15	Kreises	Kreis	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	ag	_	_
+16	Kyritz	Kyritz	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	15	nk	_	_
+17	darüber	darüber	ADV	_		19	mo	_	_
+18	Gedanken	Gedanke	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	19	oa	_	_
+19	machen	machen	VERB	_	VerbForm=Inf	20	oc	_	_
+20	müssen	müssen	AUX	_	VerbForm=Inf	2	re	_	_
+21	,	--	PUNCT	_		20	punct	_	_
+22	wie	wie	SCONJ	_	PronType=Int	27	mo	_	_
+23	sie	sie	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	sb	_	_
+24	mit	mit	ADP	_		27	mo	_	_
+25	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	nk	_	_
+26	Überfliegern	Überflieger	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	24	nk	_	_
+27	klarkommen	klarkommen	VERB	_	VerbForm=Inf	10	cc	_	_
+28	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 9
+# text = Massiver Widerstand hat sich bisher nicht geregt .
+1	Massiver	Massiver	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	nk	_	_
+2	Widerstand	Widerstand	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	oa	_	_
+5	bisher	bisher	ADV	_		7	mo	_	_
+6	nicht	nicht	PART	_		7	ng	_	_
+7	geregt	regen	VERB	_	VerbForm=Part	3	oc	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 10
+# text = Spät werden jetzt vereinzelt Proteste laut ,
+1	Spät	spät	ADV	_	Degree=Pos	2	pd	_	_
+2	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	jetzt	jetzt	ADV	_		2	mo	_	_
+4	vereinzelt	vereinzelt	ADV	_	Degree=Pos	2	mo	_	_
+5	Proteste	Protest	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+6	laut	laut	ADV	_	Degree=Pos	2	pd	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = angeregt und unterstützt allerdings auch nur von Einzelpersonen .
+1	angeregt	anregen	VERB	_	VerbForm=Part	1	ROOT	_	_
+2	und	und	CCONJ	_		1	cd	_	_
+3	unterstützt	unterstützen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cj	_	_
+4	allerdings	allerdings	ADV	_		3	mo	_	_
+5	auch	auch	ADV	_		7	mo	_	_
+6	nur	nur	ADV	_		7	mo	_	_
+7	von	von	ADP	_		3	mo	_	_
+8	Einzelpersonen	Einzelperson	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	7	nk	_	_
+9	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 12
+# text = Die Kommunen sind bisher sehr gelassen mit dem Problem umgegangen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	nk	_	_
+2	Kommunen	Kommune	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	sb	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	bisher	bisher	ADV	_		10	mo	_	_
+5	sehr	sehr	ADV	_		6	mo	_	_
+6	gelassen	gelassen	ADV	_	Degree=Pos	10	mo	_	_
+7	mit	mit	ADP	_		10	op	_	_
+8	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	Problem	Problem	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+10	umgegangen	umgehen	VERB	_	VerbForm=Part	3	oc	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Sie haben es dem Landkreis Ost-prignitz-Ruppin überlassen , die nichtmilitärische Nutzung der Kyritz-Ruppiner Heide einzufordern .
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	oa	_	_
+4	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Landkreis	Landkreis	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	da	_	_
+6	Ost-prignitz-Ruppin	Ost-prignitz-Ruppin	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	5	nk	_	_
+7	überlassen	überlassen	VERB	_	VerbForm=Part	2	oc	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+10	nichtmilitärische	nichtmilitärisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	nk	_	_
+11	Nutzung	Nutzung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	oa	_	_
+12	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+13	Kyritz-Ruppiner	Kyritz-Ruppiner	ADJ	_	Degree=Pos	14	nk	_	_
+14	Heide	Heide	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	11	ag	_	_
+15	einzufordern	einfordern	VERB	_	VerbForm=Inf	2	oc	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Überzeugung oder einfach nur Verdrängung - die Frage bleibt offen .
+1	Überzeugung	Überzeugung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	cj	_	_
+2	oder	oder	CCONJ	_		1	cd	_	_
+3	einfach	einfach	ADV	_		5	mo	_	_
+4	nur	nur	ADV	_		5	mo	_	_
+5	Verdrängung	Verdrängung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	cj	_	_
+6	-	--	PUNCT	_		9	punct	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Frage	Frage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	sb	_	_
+9	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	offen	offen	ADV	_	Degree=Pos	9	pd	_	_
+11	.	--	PUNCT	_		9	punct	_	_
+

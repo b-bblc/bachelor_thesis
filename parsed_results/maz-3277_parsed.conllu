@@ -1,0 +1,256 @@
+# sent_id = 1
+# text = Für und Wider
+1	Für	für	ADP	_		1	ROOT	_	_
+2	und	und	CCONJ	_		1	cd	_	_
+3	Wider	Wider	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	cj	_	_
+
+# sent_id = 2
+# text = Der Vorteil hat einen Namen : Verbundeinkauf .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Vorteil	Vorteil	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	hat	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Namen	Name	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	oa	_	_
+6	:	--	PUNCT	_		3	punct	_	_
+7	Verbundeinkauf	verbundeinkauf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	oa	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 3
+# text = Damit erklärt die gelbe Post , warum sie sich ihrer Tochter McPaper quasi auf den Schoß setzt .
+1	Damit	damit	ADV	_		2	mo	_	_
+2	erklärt	erklären	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	gelbe	gelb	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Post	Post	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	warum	warum	SCONJ	_	PronType=Int	17	mo	_	_
+8	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	sb	_	_
+9	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	oa	_	_
+10	ihrer	ihr	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	nk	_	_
+11	Tochter	Tochter	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	da	_	_
+12	McPaper	McPaper	PROPN	_	Case=Nom|Number=Sing	11	nk	_	_
+13	quasi	quasi	ADV	_		14	mo	_	_
+14	auf	auf	ADP	_		17	mo	_	_
+15	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	nk	_	_
+16	Schoß	Schoß	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	nk	_	_
+17	setzt	setzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+18	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Alles an einem Ort zu haben - Papierwaren kann man kaufen , Postalisches abwickeln - ist ja tatsächlich kundenfreundlich .
+1	Alles	alle	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	oa	_	_
+2	an	an	ADP	_		1	mnr	_	_
+3	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Ort	Ort	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+5	zu	zu	PART	_		6	pm	_	_
+6	haben	haben	VERB	_	VerbForm=Inf	11	oc	_	_
+7	-	--	PUNCT	_		9	punct	_	_
+8	Papierwaren	Papierwarum	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	oa	_	_
+9	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	9	sb	_	_
+11	kaufen	kaufen	VERB	_	VerbForm=Inf	9	oc	_	_
+12	,	--	PUNCT	_		11	punct	_	_
+13	Postalisches	Postalische	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	oa	_	_
+14	abwickeln	abwickeln	VERB	_	VerbForm=Inf	9	oc	_	_
+15	-	--	PUNCT	_		16	punct	_	_
+16	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cj	_	_
+17	ja	ja	ADV	_		16	mo	_	_
+18	tatsächlich	tatsächlich	ADV	_	Degree=Pos	16	mo	_	_
+19	kundenfreundlich	kundenfreundlich	ADV	_	Degree=Pos	16	pd	_	_
+20	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 5
+# text = Noch mehr freut es natürlich , dass man nicht mehr wie ein Luchs auf der Lauer liegen muss ,
+1	Noch	noch	ADV	_		2	mo	_	_
+2	mehr	mehr	ADV	_		3	mo	_	_
+3	freut	freuen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+5	natürlich	natürlich	ADV	_		3	mo	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+7	dass	dass	SCONJ	_		18	cp	_	_
+8	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	18	sb	_	_
+9	nicht	nicht	PART	_		18	ng	_	_
+10	mehr	mehr	ADV	_		9	mo	_	_
+11	wie	wie	ADP	_		13	cm	_	_
+12	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+13	Luchs	Luchs	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	cc	_	_
+14	auf	auf	ADP	_		17	mo	_	_
+15	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	Lauer	Lauer	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+17	liegen	liegen	VERB	_	VerbForm=Inf	18	oc	_	_
+18	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+19	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = um die Öffnungszeiten auch einzuhalten .
+1	um	um	ADP	_		5	cp	_	_
+2	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	nk	_	_
+3	Öffnungszeiten	Öffnungszeit	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	nk	_	_
+4	auch	auch	ADV	_		5	mo	_	_
+5	einzuhalten	einhalten	VERB	_	VerbForm=Inf	5	ROOT	_	_
+6	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 7
+# text = Besonders Berufstätige , die es z. B. auch noch am Sonnabend an ihre Schließfächer drängt , dürfen nun aufatmen .
+1	Besonders	besonders	ADV	_		2	mo	_	_
+2	Berufstätige	berufstätige	NOUN	_	Case=Nom|Number=Plur	17	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	sb	_	_
+5	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	oa	_	_
+6	z.	z.	ADP	_	Case=Dat|Gender=Neut|Number=Sing	15	mo	_	_
+7	B.	B.	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	auch	auch	ADV	_		10	mo	_	_
+9	noch	noch	ADV	_		10	mo	_	_
+10	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	mo	_	_
+11	Sonnabend	Sonnabend	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	nk	_	_
+12	an	an	ADP	_		15	mo	_	_
+13	ihre	ihr	DET	_	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	14	nk	_	_
+14	Schließfächer	Schließfächer	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	nk	_	_
+15	drängt	drängen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+16	,	--	PUNCT	_		17	punct	_	_
+17	dürfen	dürfen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	ROOT	_	_
+18	nun	nun	ADV	_		17	mo	_	_
+19	aufatmen	aufatmen	VERB	_	VerbForm=Inf	17	oc	_	_
+20	.	--	PUNCT	_		17	punct	_	_
+
+# sent_id = 8
+# text = Bei anderen wird es Stoßseufzer geben .
+1	Bei	bei	ADP	_		6	mo	_	_
+2	anderen	anderer	PRON	_	Case=Dat|Number=Plur|PronType=Ind	1	nk	_	_
+3	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+5	Stoßseufzer	Stoßseufzer	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	oa	_	_
+6	geben	geben	VERB	_	VerbForm=Inf	3	oc	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 9
+# text = Dass mit der Schließung in der Bahnhofstraße eine über einhundertjährige Tradition des Kyritzer Postgebäudes zu Ende geht ,
+1	Dass	dass	SCONJ	_		17	cp	_	_
+2	mit	mit	ADP	_		17	mo	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Schließung	Schließung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+5	in	in	ADP	_		4	mnr	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Bahnhofstraße	Bahnhofstraße	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	sb	_	_
+9	über	über	ADP	_		17	mo	_	_
+10	einhundertjährige	einhundertjährig	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	nk	_	_
+11	Tradition	Tradition	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nk	_	_
+12	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nk	_	_
+13	Kyritzer	Kyritzer	ADJ	_	Degree=Pos	14	nk	_	_
+14	Postgebäudes	Postgebäud	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	11	ag	_	_
+15	zu	zu	ADP	_		17	cvc	_	_
+16	Ende	Ende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	15	nk	_	_
+17	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ROOT	_	_
+18	,	--	PUNCT	_		17	punct	_	_
+
+# sent_id = 10
+# text = damit muss man sich abfinden .
+1	damit	damit	ADV	_		2	mo	_	_
+2	muss	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+4	sich	sich	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	da	_	_
+5	abfinden	abfinden	VERB	_	VerbForm=Inf	2	oc	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Schwerer wiegt die Schließung der Filiale am Rehfelder Weg .
+1	Schwerer	schwer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	mo	_	_
+2	wiegt	wiegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Schließung	Schließung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Filiale	Filiale	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+7	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	2	mo	_	_
+8	Rehfelder	Rehfeld	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Weg	Weg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nk	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Sie hat den Leuten aus Kyritz West bisher weite Wege erspart .
+1	Sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	4	nk	_	_
+4	Leuten	Leute	NOUN	_	Case=Dat|Number=Plur	11	da	_	_
+5	aus	aus	ADP	_		4	mnr	_	_
+6	Kyritz	Kyritz	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	7	pnc	_	_
+7	West	West	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	bisher	bisher	ADV	_		11	mo	_	_
+9	weite	weit	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	nk	_	_
+10	Wege	Weg	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	oa	_	_
+11	erspart	ersparen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = Besonders die Älteren dürften sauer reagieren auf das Aus .
+1	Besonders	besonders	ADV	_		3	mo	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	3	nk	_	_
+3	Älteren	Älteren	NOUN	_	Case=Nom|Number=Plur	4	sb	_	_
+4	dürften	dürfen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	sauer	sauer	ADV	_	Degree=Pos	6	mo	_	_
+6	reagieren	reagieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+7	auf	auf	ADP	_		6	op	_	_
+8	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	Aus	Aus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nk	_	_
+10	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 14
+# text = Was nützt ihnen die Verlagerung an einen neuen Standort mit den längeren Öffnungszeiten ,
+1	Was	was	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	sb	_	_
+2	nützt	nützen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	ihnen	ihnen	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	da	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Verlagerung	Verlagerung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+6	an	an	ADP	_		5	mnr	_	_
+7	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+8	neuen	neu	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Standort	Standort	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nk	_	_
+10	mit	mit	ADP	_		9	mnr	_	_
+11	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	nk	_	_
+12	längeren	lang	ADJ	_	Case=Dat|Degree=Cmp|Gender=Fem|Number=Plur	13	nk	_	_
+13	Öffnungszeiten	Öffnungszeit	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	nk	_	_
+14	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = wenn sie schlecht zu Fuß sind ?
+1	wenn	wenn	SCONJ	_		6	cp	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	sb	_	_
+3	schlecht	schlecht	ADV	_	Degree=Pos	6	mo	_	_
+4	zu	zu	ADP	_		6	mo	_	_
+5	Fuß	Fuß	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	?	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 16
+# text = Da bleibt nur der Hinweis , sich den Zustellerinnen zuzuwenden ,
+1	Da	da	ADV	_		2	mo	_	_
+2	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nur	nur	ADV	_		5	mo	_	_
+4	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Hinweis	Hinweis	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+8	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	9	nk	_	_
+9	Zustellerinnen	Zustellerinnen	NOUN	_	Case=Dat|Number=Plur	10	da	_	_
+10	zuzuwenden	zuwenden	VERB	_	VerbForm=Inf	5	oc	_	_
+11	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = die selber schon so manche Dienstleistung übernehmen .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	sb	_	_
+2	selber	selber	ADV	_		7	mo	_	_
+3	schon	schon	ADV	_		5	mo	_	_
+4	so	so	ADV	_		5	mo	_	_
+5	manche	mancher	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	6	nk	_	_
+6	Dienstleistung	Dienstleistung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	oa	_	_
+7	übernehmen	übernehmen	VERB	_	VerbForm=Inf	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 18
+# text = Fragen kostet ja nichts .
+1	Fragen	Frage	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	sb	_	_
+2	kostet	kosten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	ja	ja	ADV	_		2	mo	_	_
+4	nichts	nichts	PRON	_	Gender=Neut|PronType=Ind	2	oa	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+

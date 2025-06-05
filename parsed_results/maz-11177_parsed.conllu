@@ -1,0 +1,237 @@
+# sent_id = 1
+# text = Kühlen Kopf bewahren
+1	Kühlen	kühl	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	nk	_	_
+2	Kopf	Kopf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	oa	_	_
+3	bewahren	bewahren	VERB	_	VerbForm=Inf	3	ROOT	_	_
+
+# sent_id = 2
+# text = Der Millionen-Kredit des Landes Brandenburg ist für den Abwasserzweckverband Emster tatsächlich eine " historische Chance " .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Millionen-Kredit	Millionen-Kredit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	sb	_	_
+3	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Landes	Land	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	ag	_	_
+5	Brandenburg	Brandenburg	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	4	nk	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	für	für	ADP	_		6	mo	_	_
+8	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Abwasserzweckverband	Abwasserzweckverband	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nk	_	_
+10	Emster	Emster	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	ag	_	_
+11	tatsächlich	tatsächlich	ADV	_	Degree=Pos	6	mo	_	_
+12	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+13	"	--	PUNCT	_		15	punct	_	_
+14	historische	historisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	nk	_	_
+15	Chance	Chance	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	pd	_	_
+16	"	--	PUNCT	_		15	punct	_	_
+17	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = Da ist Manfred Meske zuzustimmen .
+1	Da	da	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Manfred	Manfred	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	pnc	_	_
+4	Meske	Meske	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	zuzustimmen	zustimmen	VERB	_	VerbForm=Inf	2	oc	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Zumal das Land bereits im vorigen Jahr mehr als 30 Millionen Mark in die Sanierung des AZV steckte .
+1	Zumal	zumal	SCONJ	_		18	cp	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Land	Land	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	sb	_	_
+4	bereits	bereits	ADV	_		5	mo	_	_
+5	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	18	mo	_	_
+6	vorigen	vorig	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	7	nk	_	_
+7	Jahr	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+8	mehr	mehr	DET	_	PronType=Ind	12	nk	_	_
+9	als	als	ADP	_		11	cm	_	_
+10	30	30	NUM	_		11	nmc	_	_
+11	Millionen	Million	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	cc	_	_
+12	Mark	Mark	NOUN	_	Gender=Fem	18	oa	_	_
+13	in	in	ADP	_		18	mo	_	_
+14	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+15	Sanierung	Sanierung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	nk	_	_
+16	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	AZV	AZV	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	15	ag	_	_
+18	steckte	stecken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	ROOT	_	_
+19	.	--	PUNCT	_		18	punct	_	_
+
+# sent_id = 5
+# text = Geld , das woanders auch nötig gewesen wäre .
+1	Geld	Geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	sb	_	_
+4	woanders	woanders	ADV	_		7	mo	_	_
+5	auch	auch	ADV	_		6	mo	_	_
+6	nötig	nötig	ADV	_	Degree=Pos	7	pd	_	_
+7	gewesen	sein	AUX	_	VerbForm=Part	8	oc	_	_
+8	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	rc	_	_
+9	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Die Verantwortlichen in den Gemeinden sollten jetzt Nägel mit Köpfen machen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	nk	_	_
+2	Verantwortlichen	verantwortliche	NOUN	_	Case=Nom|Number=Plur	6	sb	_	_
+3	in	in	ADP	_		2	mnr	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+5	Gemeinden	Gemeinde	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	sollten	sollen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	jetzt	jetzt	ADV	_		6	mo	_	_
+8	Nägel	Nägel	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	oa	_	_
+9	mit	mit	ADP	_		11	mo	_	_
+10	Köpfen	Kopf	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	nk	_	_
+11	machen	machen	VERB	_	VerbForm=Inf	6	oc	_	_
+12	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 7
+# text = Die Region aus der Abwasser-Debatte herauszuholen , ist ihre Pflicht .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Region	Region	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+3	aus	aus	ADP	_		2	mnr	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Abwasser-Debatte	Abwasser-Debatte	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	herauszuholen	herausholen	VERB	_	VerbForm=Inf	2	oc	_	_
+7	,	--	PUNCT	_		8	punct	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	ihre	ihr	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Pflicht	Pflicht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	pd	_	_
+11	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 8
+# text = Dazu bedarf es auch der transparenten Öffentlichkeitsarbeit .
+1	Dazu	dazu	ADV	_		2	mo	_	_
+2	bedarf	bedürfen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+4	auch	auch	ADV	_		7	mo	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	transparenten	transparent	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Öffentlichkeitsarbeit	Öffentlichkeitsarbeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	og	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = In Brandenburg ist die Abwasser-Debatte um hoch verschuldetete Zweckverbände in ruhigere Gewässer gekommen .
+1	In	in	ADP	_		13	mo	_	_
+2	Brandenburg	Brandenburg	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Abwasser-Debatte	Abwasser-Debatte	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+6	um	um	ADP	_		13	mo	_	_
+7	hoch	hoch	ADV	_	Degree=Pos	8	mo	_	_
+8	verschuldetete	verschuldetet	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	nk	_	_
+9	Zweckverbände	Zweckverbände	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nk	_	_
+10	in	in	ADP	_		13	mo	_	_
+11	ruhigere	ruhig	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	12	nk	_	_
+12	Gewässer	Gewässer	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	nk	_	_
+13	gekommen	kommen	VERB	_	VerbForm=Part	3	oc	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 10
+# text = Das Land hat mit seinem Schuldenmanagement bereits vielen Verbänden aus der Misere geholfen .
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Land	Land	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	mit	mit	ADP	_		13	mo	_	_
+5	seinem	sein	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Schuldenmanagement	Schuldenmanagement	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+7	bereits	bereits	ADV	_		9	mo	_	_
+8	vielen	vieler	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Ind	9	nk	_	_
+9	Verbänden	Verband	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	da	_	_
+10	aus	aus	ADP	_		13	mo	_	_
+11	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Misere	Misere	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	nk	_	_
+13	geholfen	helfen	VERB	_	VerbForm=Part	3	oc	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = Beispiel ist der Lehniner Trink- und Abwasserzweckverband ,
+1	Beispiel	Beispiel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+4	Lehniner	Lehniner	ADJ	_	Degree=Pos	7	nk	_	_
+5	Trink-	Trink	X	_		6	cj	_	_
+6	und	und	CCONJ	_		7	cd	_	_
+7	Abwasserzweckverband	Abwasserzweckverband	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	sb	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = der jetzt schuldenfrei ist .
+1	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	sb	_	_
+2	jetzt	jetzt	ADV	_		4	mo	_	_
+3	schuldenfrei	schuldenfrei	ADV	_	Degree=Pos	4	pd	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 13
+# text = Zuvor hatten die fünf zugehörigen Gemeinden über Jahre hohe , die Haushalte schmerzende Umlagen gezahlt .
+1	Zuvor	zuvor	ADV	_		15	mo	_	_
+2	hatten	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	nk	_	_
+4	fünf	fünf	NUM	_		6	nk	_	_
+5	zugehörigen	zugehörig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	6	nk	_	_
+6	Gemeinden	Gemeinde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	sb	_	_
+7	über	über	ADP	_		9	mo	_	_
+8	Jahre	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	nk	_	_
+9	hohe	hoch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+11	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	nk	_	_
+12	Haushalte	Haushalt	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+13	schmerzende	schmerzend	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	nk	_	_
+14	Umlagen	Umlage	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	oa	_	_
+15	gezahlt	zahlen	VERB	_	VerbForm=Part	2	oc	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Jetzt ruhig Blut bewahren
+1	Jetzt	jetzt	ADV	_		2	mo	_	_
+2	ruhig	ruhig	ADV	_	Degree=Pos	4	mo	_	_
+3	Blut	Blut	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	oa	_	_
+4	bewahren	bewahren	VERB	_	VerbForm=Inf	4	ROOT	_	_
+
+# sent_id = 15
+# text = und die Bürgerinitiative klug mit einzubinden , ist Gebot der Stunde .
+1	und	und	CCONJ	_		8	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Bürgerinitiative	Bürgerinitiative	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+4	klug	klug	ADV	_	Degree=Pos	6	mo	_	_
+5	mit	mit	ADP	_		6	mo	_	_
+6	einzubinden	einbinden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+7	,	--	PUNCT	_		8	punct	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	Gebot	Gebot	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	pd	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Stunde	Stunde	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	ag	_	_
+12	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 16
+# text = Die wiederum sollte nun gleichfalls nicht aus dem Bauch heraus agieren .
+1	Die	der	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	sb	_	_
+2	wiederum	wiederum	ADV	_		3	mo	_	_
+3	sollte	sollen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	nun	nun	ADV	_		3	mo	_	_
+5	gleichfalls	gleichfalls	ADV	_		3	mo	_	_
+6	nicht	nicht	PART	_		3	ng	_	_
+7	aus	aus	ADP	_		11	mo	_	_
+8	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Bauch	Bauch	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	heraus	heraus	ADV	_		7	ac	_	_
+11	agieren	agieren	VERB	_	VerbForm=Inf	3	oc	_	_
+12	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 17
+# text = Bleibt abzuwarten , ob das jahrelange Ringen um hohe Millionen-Schulden bald vor dem Abschluss steht .
+1	Bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	abzuwarten	abwarten	VERB	_	VerbForm=Inf	1	oc	_	_
+3	,	--	PUNCT	_		1	punct	_	_
+4	ob	ob	SCONJ	_		15	cp	_	_
+5	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+6	jahrelange	jahrelang	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	nk	_	_
+7	Ringen	ringen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	15	sb	_	_
+8	um	um	ADP	_		7	op	_	_
+9	hohe	hoch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	10	nk	_	_
+10	Millionen-Schulden	Millionen-Schulde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	nk	_	_
+11	bald	bald	ADV	_		15	mo	_	_
+12	vor	vor	ADP	_		15	mo	_	_
+13	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nk	_	_
+14	Abschluss	Abschluss	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+15	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	sb	_	_
+16	.	--	PUNCT	_		1	punct	_	_
+

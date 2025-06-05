@@ -1,0 +1,202 @@
+# sent_id = 1
+# text = Zahlenspiele
+1	Zahlenspiele	Zahlenspiel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	ROOT	_	_
+
+# sent_id = 2
+# text = Unterm Strich 400_000 !
+1	Unterm	Unter	ADP	_	Case=Dat|Gender=Masc|Number=Sing	1	ROOT	_	_
+2	Strich	Strich	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	400_000	400_000	NUM	_		2	nk	_	_
+4	!	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 3
+# text = Die Besucherquote lässt die Ausrichter des Preußenjahres schon zweieinhalb Monate vor seinem Ende frohlocken .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Besucherquote	Besucherquote	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	lässt	lässt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Ausrichter	Ausrichter	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	oa	_	_
+6	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+7	Preußenjahres	Preußenjahr	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	ag	_	_
+8	schon	schon	ADV	_		11	mo	_	_
+9	zweieinhalb	zweieinhalb	NUM	_		10	nk	_	_
+10	Monate	Monat	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	mo	_	_
+11	vor	vor	ADP	_		14	mo	_	_
+12	seinem	sein	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	13	nk	_	_
+13	Ende	Ende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+14	frohlocken	frohlocken	VERB	_	VerbForm=Inf	3	oc	_	_
+15	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Das Hohenzollernland ist immer noch in , schließen Brandenburgs Kulturministerin Wanka und ihre Berliner Kollegin Goehler aus dieser Erhebung .
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Hohenzollernland	Hohenzollernland	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	rs	_	_
+4	immer	immer	ADV	_		5	mo	_	_
+5	noch	noch	ADV	_		3	mo	_	_
+6	in	in	ADP	_		3	pd	_	_
+7	,	--	PUNCT	_		8	punct	_	_
+8	schließen	schließen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	Brandenburgs	Brandenburg	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	10	ag	_	_
+10	Kulturministerin	Kulturministerin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+11	Wanka	Wanka	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nk	_	_
+12	und	und	CCONJ	_		10	cd	_	_
+13	ihre	ihr	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	nk	_	_
+14	Berliner	Berliner	ADJ	_	Degree=Pos	15	nk	_	_
+15	Kollegin	Kollegin	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	cj	_	_
+16	Goehler	Goehler	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	15	nk	_	_
+17	aus	aus	ADP	_		8	mo	_	_
+18	dieser	dieser	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	19	nk	_	_
+19	Erhebung	Erhebung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	nk	_	_
+20	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 5
+# text = Kritikern , die der borussischen Kampagne Thesenlosigkeit und Beliebigkeit vorwarfen , können sie endlich mit Zahlen kommen .
+1	Kritikern	Kritiker	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	mo	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	sb	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	borussischen	borussisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Kampagne	Kampagne	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	da	_	_
+7	Thesenlosigkeit	Thesenlosigkeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nk	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	Beliebigkeit	Beliebigkeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	cj	_	_
+10	vorwarfen	vorwarfen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	rc	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	sb	_	_
+14	endlich	endlich	ADV	_		12	mo	_	_
+15	mit	mit	ADP	_		17	mo	_	_
+16	Zahlen	Zahl	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	15	nk	_	_
+17	kommen	kommen	VERB	_	VerbForm=Inf	12	oc	_	_
+18	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 6
+# text = Mögen die mitunter auch interessant nach oben korrigiert sein :
+1	Mögen	Mögen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	1	sb	_	_
+3	mitunter	mitunter	ADV	_		8	mo	_	_
+4	auch	auch	ADV	_		8	mo	_	_
+5	interessant	interessant	ADV	_	Degree=Pos	8	mo	_	_
+6	nach	nach	ADP	_		8	mo	_	_
+7	oben	oben	ADV	_		6	nk	_	_
+8	korrigiert	korrigieren	VERB	_	VerbForm=Part	9	pd	_	_
+9	sein	sein	AUX	_	VerbForm=Inf	1	oc	_	_
+10	:	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 7
+# text = So endete die große Berliner Eröffnungsschau " Preußen 1701 " laut Veranstalter , immerhin das ehrenwerte Deutsche Historische Museum , mit 72_000 Besuchern .
+1	So	so	ADV	_		2	mo	_	_
+2	endete	enden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+4	große	groß	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+5	Berliner	Berliner	ADJ	_	Degree=Pos	6	nk	_	_
+6	Eröffnungsschau	Eröffnungsschau	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+7	"	--	PUNCT	_		6	punct	_	_
+8	Preußen	Preußen	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	2	mo	_	_
+9	1701	1701	NUM	_		2	mo	_	_
+10	"	--	PUNCT	_		2	punct	_	_
+11	laut	laut	ADP	_		2	mo	_	_
+12	Veranstalter	Veranstalter	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	nk	_	_
+13	,	--	PUNCT	_		2	punct	_	_
+14	immerhin	immerhin	ADV	_		19	mo	_	_
+15	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	nk	_	_
+16	ehrenwerte	ehrenwert	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	nk	_	_
+17	Deutsche	deutsch	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	nk	_	_
+18	Historische	Historische	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	nk	_	_
+19	Museum	Museum	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	cj	_	_
+20	,	--	PUNCT	_		19	punct	_	_
+21	mit	mit	ADP	_		19	cj	_	_
+22	72_000	72_000	NUM	_		23	nk	_	_
+23	Besuchern	Besucher	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	21	nk	_	_
+24	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Nach der jetzt offiziellen Statistik sollen 's 80_000 gewesen sein .
+1	Nach	nach	ADP	_		6	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+3	jetzt	jetzt	ADV	_		4	mo	_	_
+4	offiziellen	offiziell	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Statistik	Statistik	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+6	sollen	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	's	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	sb	_	_
+8	80_000	80_000	NUM	_		6	sb	_	_
+9	gewesen	sein	AUX	_	VerbForm=Part	10	oc	_	_
+10	sein	sein	AUX	_	VerbForm=Inf	6	oc	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 9
+# text = Wohl eine Petitesse .
+1	Wohl	wohl	ADV	_		3	mo	_	_
+2	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Petitesse	Petitesse	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	ROOT	_	_
+4	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 10
+# text = Eher unter inhaltlichen Gesichtspunkten ist ferner bemerkenswert , dass gerade jene Ausstellungen am besten abschnitten , die - auch wenn Preußen im Titel vorkam - so gut wie nichts mit Preußen zu tun hatten .
+1	Eher	eher	ADV	_		2	mo	_	_
+2	unter	unter	ADP	_		5	mo	_	_
+3	inhaltlichen	inhaltlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	4	nk	_	_
+4	Gesichtspunkten	Gesichtspunkt	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	nk	_	_
+5	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	ferner	ferner	ADV	_		5	mo	_	_
+7	bemerkenswert	bemerkenswert	ADV	_	Degree=Pos	5	pd	_	_
+8	,	--	PUNCT	_		5	punct	_	_
+9	dass	dass	SCONJ	_		15	cp	_	_
+10	gerade	gerade	ADV	_		12	mo	_	_
+11	jene	jener	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	12	nk	_	_
+12	Ausstellungen	Ausstellung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	sb	_	_
+13	am	am	PART	_		14	pm	_	_
+14	besten	gut	ADV	_	Degree=Sup	15	mo	_	_
+15	abschnitten	abschniten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	sb	_	_
+16	,	--	PUNCT	_		15	punct	_	_
+17	die	der	PRON	_	Case=Nom|Number=Plur|PronType=Rel	34	sb	_	_
+18	-	--	PUNCT	_		34	punct	_	_
+19	auch	auch	ADV	_		24	mo	_	_
+20	wenn	wenn	SCONJ	_		24	cp	_	_
+21	Preußen	Preußen	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	24	sb	_	_
+22	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	24	mo	_	_
+23	Titel	Titel	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	22	nk	_	_
+24	vorkam	vorkommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	mo	_	_
+25	-	--	PUNCT	_		26	punct	_	_
+26	so	so	ADV	_		27	mo	_	_
+27	gut	gut	ADV	_	Degree=Pos	33	mo	_	_
+28	wie	wie	ADP	_		29	cm	_	_
+29	nichts	nichts	PRON	_	Gender=Neut|PronType=Ind	33	oa	_	_
+30	mit	mit	ADP	_		33	mo	_	_
+31	Preußen	Preuße	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	30	nk	_	_
+32	zu	zu	PART	_		33	pm	_	_
+33	tun	tun	VERB	_	VerbForm=Inf	34	oc	_	_
+34	hatten	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	rc	_	_
+35	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 11
+# text = Die Malerei Kirchners und Caravaggios wollten 110_000 respektive 74_000 sehen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Malerei	Malerei	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+3	Kirchners	Kirchner	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	ag	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Caravaggios	Caravaggio	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	cj	_	_
+6	wollten	wollen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	110_000	110_000	NUM	_		10	oa	_	_
+8	respektive	respektive	CCONJ	_		7	cd	_	_
+9	74_000	74_000	NOUN	_	Case=Nom|Number=Sing	8	cj	_	_
+10	sehen	sehen	VERB	_	VerbForm=Inf	6	oc	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 12
+# text = Nun gut .
+1	Nun	nun	ADV	_		2	mo	_	_
+2	gut	gut	ADV	_	Degree=Pos	2	ROOT	_	_
+3	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = Wenn Zahlenspiele dem Ruhme Preußens dienen ...
+1	Wenn	wenn	SCONJ	_		6	cp	_	_
+2	Zahlenspiele	Zahlenspiel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	sb	_	_
+3	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Ruhme	Ruhm	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	da	_	_
+5	Preußens	Preußen	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	4	ag	_	_
+6	dienen	dienen	VERB	_	VerbForm=Inf	6	ROOT	_	_
+7	...	--	PUNCT	_		6	punct	_	_
+

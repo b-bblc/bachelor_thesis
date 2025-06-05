@@ -1,0 +1,208 @@
+# sent_id = 1
+# text = Uneinsichtig
+1	Uneinsichtig	Uneinsichtig	ADV	_	Degree=Pos	1	ROOT	_	_
+
+# sent_id = 2
+# text = Im Streit um die fragwürdige Spendenpraxis der stadteigenen Kommunalen Wohnungsbaugesellschaft ( KWR ) schlugen gestern Abend im Stadtparlament die Wogen erneut hoch .
+1	Im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	mo	_	_
+2	Streit	Streit	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	um	um	ADP	_		2	op	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	fragwürdige	fragwürdig	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Spendenpraxis	Spendenpraxis	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nk	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+8	stadteigenen	stadteigen	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+9	Kommunalen	kommunal	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Wohnungsbaugesellschaft	Wohnungsbaugesellschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	ag	_	_
+11	(	--	PUNCT	_		12	punct	_	_
+12	KWR	KWR	PROPN	_	Case=Nom|Number=Sing	10	app	_	_
+13	)	--	PUNCT	_		12	punct	_	_
+14	schlugen	schlagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	ROOT	_	_
+15	gestern	gestern	ADV	_		14	mo	_	_
+16	Abend	Abend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	mo	_	_
+17	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	mo	_	_
+18	Stadtparlament	Stadtparlament	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	nk	_	_
+19	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	nk	_	_
+20	Wogen	Woge	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	sb	_	_
+21	erneut	erneut	ADV	_	Degree=Pos	14	mo	_	_
+22	hoch	hoch	ADV	_	Degree=Pos	14	mo	_	_
+23	.	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 3
+# text = Die eigentlich sachlich zu führende Auseinandersetzung um die Parteispenden von KWR-Chef Richter an Bürgermeister Lünsers Politverein Pro Rathenow wird zunehmend emotionaler .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+2	eigentlich	eigentlich	ADV	_		5	mo	_	_
+3	sachlich	sachlich	ADV	_	Degree=Pos	5	mo	_	_
+4	zu	zu	PART	_		5	pm	_	_
+5	führende	führend	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Auseinandersetzung	Auseinandersetzung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	ROOT	_	_
+7	um	um	ADP	_		6	op	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	nk	_	_
+9	Parteispenden	Parteispende	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	nk	_	_
+10	von	von	ADP	_		9	pg	_	_
+11	KWR-Chef	KWR-Chef	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nk	_	_
+12	Richter	Richter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nk	_	_
+13	an	an	ADP	_		9	mnr	_	_
+14	Bürgermeister	Bürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nk	_	_
+15	Lünsers	Lünsers	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	pnc	_	_
+16	Politverein	Politverein	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nk	_	_
+17	Pro	pro	ADP	_		19	mo	_	_
+18	Rathenow	Rathenow	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	17	nk	_	_
+19	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ROOT	_	_
+20	zunehmend	zunehmend	ADV	_	Degree=Pos	19	mo	_	_
+21	emotionaler	emotional	ADV	_	Degree=Cmp	19	pd	_	_
+22	.	--	PUNCT	_		19	punct	_	_
+
+# sent_id = 4
+# text = Knapp einen Monat nach Ausbruch der Rathenower Parteispendenaffäre
+1	Knapp	knapp	ADV	_	Degree=Pos	2	mo	_	_
+2	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Monat	Monat	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	mo	_	_
+4	nach	nach	ADP	_		4	ROOT	_	_
+5	Ausbruch	Ausbruch	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+7	Rathenower	Rathenower	ADJ	_	Degree=Pos	8	nk	_	_
+8	Parteispendenaffäre	Parteispendenaffär	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	ag	_	_
+
+# sent_id = 5
+# text = scheint sich nunmehr aber wenigstens der Gedanke durchzusetzen , die Spenden als moralisch nicht akzeptabel zu werten .
+1	scheint	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+3	nunmehr	nunmehr	ADV	_		1	mo	_	_
+4	aber	aber	ADV	_		8	mo	_	_
+5	wenigstens	wenigstens	ADV	_		7	mo	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Gedanke	Gedanke	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	oa	_	_
+8	durchzusetzen	durchsetzen	VERB	_	VerbForm=Inf	1	oc	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	17	sb	_	_
+11	Spenden	Spende	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	17	oa	_	_
+12	als	als	ADP	_		17	mo	_	_
+13	moralisch	moralisch	ADV	_	Degree=Pos	15	mo	_	_
+14	nicht	nicht	PART	_		15	ng	_	_
+15	akzeptabel	akzeptabel	ADV	_	Degree=Pos	12	nk	_	_
+16	zu	zu	PART	_		17	pm	_	_
+17	werten	werten	VERB	_	VerbForm=Inf	6	rc	_	_
+18	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Nachdem nach langem Zögern auch die CDU-Fraktion sich dieser Auffassung anschloss
+1	Nachdem	nachdem	SCONJ	_		11	cp	_	_
+2	nach	nach	ADP	_		11	mo	_	_
+3	langem	lang	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Zögern	zögern	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+5	auch	auch	ADV	_		7	mo	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	CDU-Fraktion	CDU-Fraktion	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+8	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	oa	_	_
+9	dieser	dieser	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	10	nk	_	_
+10	Auffassung	Auffassung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	da	_	_
+11	anschloss	anschloss	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ROOT	_	_
+
+# sent_id = 7
+# text = und Bürgermeister Lünser damit von der Fahne wich ,
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	Bürgermeister	Bürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	cj	_	_
+3	Lünser	Lünser	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nk	_	_
+4	damit	damit	ADV	_		8	mo	_	_
+5	von	von	ADP	_		8	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Fahne	Fahne	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	wich	weichen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cj	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 8
+# text = hat das Umdenken nun auch in Teilen von Pro Rathenow eingesetzt .
+1	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Umdenken	umdenken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	sb	_	_
+4	nun	nun	ADV	_		11	mo	_	_
+5	auch	auch	ADV	_		6	mo	_	_
+6	in	in	ADP	_		11	mo	_	_
+7	Teilen	Teil	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+8	von	von	ADP	_		7	pg	_	_
+9	Pro	Pro	ADP	_		10	pnc	_	_
+10	Rathenow	Rathenow	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+11	eingesetzt	einsetzen	VERB	_	VerbForm=Part	1	oc	_	_
+12	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = Als erster seiner Fraktion sprach gestern der Abgeordnete Otto Timm von einem Fehler .
+1	Als	als	ADP	_		5	mo	_	_
+2	erster	erster	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	1	nk	_	_
+3	seiner	sein	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nk	_	_
+4	Fraktion	Fraktion	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	ag	_	_
+5	sprach	sprechen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	gestern	gestern	ADV	_		5	mo	_	_
+7	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Abgeordnete	abgeordneter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+9	Otto	Otto	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	pnc	_	_
+10	Timm	Timm	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	nk	_	_
+11	von	von	ADP	_		5	op	_	_
+12	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+13	Fehler	Fehler	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	nk	_	_
+14	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 10
+# text = Während Timm mit diesem Verhalten Pro Rathenow helfen dürfte ,
+1	Während	während	SCONJ	_		9	cp	_	_
+2	Timm	Timm	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	sb	_	_
+3	mit	mit	ADP	_		8	mo	_	_
+4	diesem	dieser	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	nk	_	_
+5	Verhalten	verhalten	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+6	Pro	pro	ADP	_		5	mnr	_	_
+7	Rathenow	Rathenow	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	helfen	helfen	VERB	_	VerbForm=Inf	9	oc	_	_
+9	dürfte	dürfen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 11
+# text = nimmt das Verhalten von Bürgermeister Lünser langsam groteske Züge an .
+1	nimmt	nehmen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Verhalten	verhalten	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	sb	_	_
+4	von	von	ADP	_		3	pg	_	_
+5	Bürgermeister	Bürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nk	_	_
+6	Lünser	Lünser	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nk	_	_
+7	langsam	langsam	ADV	_	Degree=Pos	8	mo	_	_
+8	groteske	grotesk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	nk	_	_
+9	Züge	Zug	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	oa	_	_
+10	an	an	ADP	_		1	svp	_	_
+11	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 12
+# text = Als Legitimation für die Spenden will er nun Belege vorlegen , dass in Potsdam kommunale Betriebe jahrelang Parteien sponserten .
+1	Als	als	ADP	_		6	mo	_	_
+2	Legitimation	Legitimation	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nk	_	_
+3	für	für	ADP	_		2	mnr	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+5	Spenden	Spende	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	nk	_	_
+6	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	sb	_	_
+8	nun	nun	ADV	_		6	mo	_	_
+9	Belege	Beleg	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	oa	_	_
+10	vorlegen	vorlegen	VERB	_	VerbForm=Inf	6	oc	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+12	dass	dass	SCONJ	_		19	cp	_	_
+13	in	in	ADP	_		19	mo	_	_
+14	Potsdam	Potsdam	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	13	nk	_	_
+15	kommunale	kommunal	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	16	nk	_	_
+16	Betriebe	Betrieb	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	sb	_	_
+17	jahrelang	jahrelang	ADV	_	Degree=Pos	19	mo	_	_
+18	Parteien	Partei	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	19	oa	_	_
+19	sponserten	sponseren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	oc	_	_
+20	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 13
+# text = Für Einsicht in Unrecht spricht auch das erneut nicht .
+1	Für	für	ADP	_		5	mo	_	_
+2	Einsicht	Einsicht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	nk	_	_
+3	in	in	ADP	_		2	mnr	_	_
+4	Unrecht	Unrecht	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	spricht	sprechen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	auch	auch	ADV	_		7	mo	_	_
+7	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	sb	_	_
+8	erneut	erneut	ADV	_	Degree=Pos	5	mo	_	_
+9	nicht	nicht	PART	_		5	ng	_	_
+10	.	--	PUNCT	_		5	punct	_	_
+

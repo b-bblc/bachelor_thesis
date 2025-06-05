@@ -1,0 +1,274 @@
+# sent_id = 1
+# text = Zwiespältig
+1	Zwiespältig	zwiespältig	ADV	_	Degree=Pos	1	ROOT	_	_
+
+# sent_id = 2
+# text = Christian Gildes Wiederwahl als Landrat war ein Erfolg .
+1	Christian	Christian	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	pnc	_	_
+2	Gildes	Gildes	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	ag	_	_
+3	Wiederwahl	Wiederwahl	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	sb	_	_
+4	als	als	ADP	_		3	mnr	_	_
+5	Landrat	Landrat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nk	_	_
+6	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Erfolg	Erfolg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	pd	_	_
+9	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = Doch was dieser wirklich wert ist , zeigt sich erst im Tagesgeschäft .
+1	Doch	doch	CCONJ	_		8	ju	_	_
+2	was	was	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	sb	_	_
+3	dieser	dieser	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	sb	_	_
+4	wirklich	wirklich	ADV	_	Degree=Pos	5	mo	_	_
+5	wert	wert	ADV	_	Degree=Pos	6	pd	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	sb	_	_
+7	,	--	PUNCT	_		8	punct	_	_
+8	zeigt	zeigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+10	erst	erst	ADV	_		8	mo	_	_
+11	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	8	mo	_	_
+12	Tagesgeschäft	Tagesgeschäft	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+13	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 4
+# text = Und das weiß Gilde auch :
+1	Und	und	CCONJ	_		3	ju	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	sb	_	_
+3	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	Gilde	Gilde	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	oa	_	_
+5	auch	auch	ADV	_		3	mo	_	_
+6	:	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = Schon bei der ersten Personalie vertraut er nicht auf seine Macht ;
+1	Schon	schon	ADV	_		2	mo	_	_
+2	bei	bei	ADP	_		6	mo	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Personalie	Personalie	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+6	vertraut	vertrauen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	sb	_	_
+8	nicht	nicht	PART	_		6	ng	_	_
+9	auf	auf	ADP	_		6	op	_	_
+10	seine	sein	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	nk	_	_
+11	Macht	Macht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nk	_	_
+12	;	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 6
+# text = er sucht den Kompromiss .
+1	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	sucht	suchen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Kompromiss	Kompromiss	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Es geht um den Job des Vize-Landrats , des zweitmächtigsten Mannes der Kreisverwaltung .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+2	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	um	um	ADP	_		2	op	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Job	Job	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nk	_	_
+6	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Vize-Landrats	Vize-Landrat	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	ag	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+10	zweitmächtigsten	zweitmächtigst	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Mannes	Mann	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	app	_	_
+12	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	Kreisverwaltung	Kreisverwaltung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	ag	_	_
+14	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Bislang ist das Klaus-Peter Appel .
+1	Bislang	bislang	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+4	Klaus-Peter	Klaus-Peter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	pnc	_	_
+5	Appel	Appel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = Geht es nach Gilde ,
+1	Geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	ep	_	_
+3	nach	nach	ADP	_		1	mo	_	_
+4	Gilde	Gilde	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+5	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = bliebe das so .
+1	bliebe	bleiben	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	sb	_	_
+3	so	so	ADV	_		1	mo	_	_
+4	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 11
+# text = Doch fragt er sich , ob der Kreistag das genauso sieht .
+1	Doch	doch	CCONJ	_		2	ju	_	_
+2	fragt	fragen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	ob	ob	SCONJ	_		11	cp	_	_
+7	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Kreistag	Kreistag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	sb	_	_
+9	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	oa	_	_
+10	genauso	genauso	ADV	_		11	mo	_	_
+11	sieht	sehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Deshalb signalisiert er vorab , dass er durchaus einen anderen als seinen Lieblingskandidaten zur Wahl im Kreistag vorschlagen würde .
+1	Deshalb	deshalb	ADV	_		2	mo	_	_
+2	signalisiert	signalisieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	vorab	vorab	ADV	_		2	mo	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	dass	dass	SCONJ	_		19	cp	_	_
+7	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	sb	_	_
+8	durchaus	durchaus	ADV	_		18	mo	_	_
+9	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+10	anderen	anderer	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	nk	_	_
+11	als	als	ADP	_		13	cm	_	_
+12	seinen	sein	DET	_	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	13	nk	_	_
+13	Lieblingskandidaten	Lieblingskandidat	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	18	oa	_	_
+14	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	18	mo	_	_
+15	Wahl	Wahl	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+16	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	mnr	_	_
+17	Kreistag	Kreistag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	nk	_	_
+18	vorschlagen	vorschlagen	VERB	_	VerbForm=Inf	19	oc	_	_
+19	würde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	re	_	_
+20	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = Das ist eine zwiespältige Entscheidung .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	zwiespältige	zwiespältig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Entscheidung	Entscheidung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	pd	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Einerseits ist es vernünftig .
+1	Einerseits	einerseits	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	vernünftig	vernünftig	ADV	_	Degree=Pos	2	pd	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Im Falle einer Abstimmungs-Niederlage würde er ebenso wie sein Kandidat beschädigt .
+1	Im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	11	mo	_	_
+2	Falle	Fall	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Abstimmungs-Niederlage	Abstimmungs-Niederlage	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	ag	_	_
+5	würde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	sb	_	_
+7	ebenso	ebenso	ADV	_		11	mo	_	_
+8	wie	wie	ADP	_		10	cm	_	_
+9	sein	sein	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Kandidat	Kandidat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	cc	_	_
+11	beschädigt	beschädigen	VERB	_	VerbForm=Part	5	oc	_	_
+12	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 16
+# text = Zudem ist es schlau , Kritiker ins Boot zu holen .
+1	Zudem	zudem	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	schlau	schlau	ADV	_	Degree=Pos	2	pd	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	Kritiker	Kritiker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	oa	_	_
+7	ins	in	ADP	_	Case=Acc|Gender=Neut|Number=Sing	10	mo	_	_
+8	Boot	Boot	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nk	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	holen	holen	VERB	_	VerbForm=Inf	3	re	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = Andererseits begibt sich Gilde damit in die Hände des Kreistags .
+1	Andererseits	andererseits	ADV	_		2	mo	_	_
+2	begibt	begeben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+4	Gilde	Gilde	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	damit	damit	ADV	_		2	mo	_	_
+6	in	in	ADP	_		2	mo	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	nk	_	_
+8	Hände	Hand	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	nk	_	_
+9	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Kreistags	Kreistag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	ag	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 18
+# text = Und der könnte Gefallen daran finden , ihm einen unbequemen Aufpasser an die Seite zu stellen .
+1	Und	und	CCONJ	_		3	ju	_	_
+2	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	sb	_	_
+3	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	Gefallen	Gefallen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	oa	_	_
+5	daran	daran	ADV	_		6	mo	_	_
+6	finden	finden	VERB	_	VerbForm=Inf	3	oc	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	ihm	ihm	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	da	_	_
+9	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+10	unbequemen	unbequem	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Aufpasser	Aufpasser	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	oa	_	_
+12	an	an	ADP	_		16	mo	_	_
+13	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Seite	Seite	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nk	_	_
+15	zu	zu	PART	_		16	pm	_	_
+16	stellen	stellen	VERB	_	VerbForm=Inf	5	re	_	_
+17	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 19
+# text = Oder , was weitaus unangenehmer wäre , einen ehrgeizigen Konkurrenten ,
+1	Oder	oder	CCONJ	_		1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	was	wer	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	sb	_	_
+4	weitaus	weitaus	ADV	_		5	mo	_	_
+5	unangenehmer	unangenehm	ADV	_	Degree=Cmp	6	pd	_	_
+6	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	rc	_	_
+7	,	--	PUNCT	_		1	punct	_	_
+8	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+9	ehrgeizigen	ehrgeizig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Konkurrenten	Konkurrent	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	cj	_	_
+11	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 20
+# text = der Gilde - möglichst schnell - beerben will .
+1	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Gilde	Gilde	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	ROOT	_	_
+3	-	--	PUNCT	_		2	punct	_	_
+4	möglichst	möglichst	ADV	_		5	mo	_	_
+5	schnell	schnell	ADV	_	Degree=Pos	7	mo	_	_
+6	-	--	PUNCT	_		7	punct	_	_
+7	beerben	beerben	VERB	_	VerbForm=Inf	8	oc	_	_
+8	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 21
+# text = Der Landrat hat die Wahl gewonnen ,
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Landrat	Landrat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Wahl	Wahl	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	oa	_	_
+6	gewonnen	gewinnen	VERB	_	VerbForm=Part	3	oc	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 22
+# text = doch sich auf seinen Lorbeeren ausruhen - das kann er nicht .
+1	doch	doch	CCONJ	_		6	ju	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	oa	_	_
+3	auf	auf	ADP	_		6	op	_	_
+4	seinen	sein	DET	_	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	5	nk	_	_
+5	Lorbeeren	Lorbeere	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	ausruhen	ausruhen	VERB	_	VerbForm=Inf	8	re	_	_
+7	-	--	PUNCT	_		8	punct	_	_
+8	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	oa	_	_
+9	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	sb	_	_
+11	nicht	nicht	PART	_		9	ng	_	_
+12	.	--	PUNCT	_		9	punct	_	_
+

@@ -1,0 +1,230 @@
+# sent_id = 1
+# text = Auf und Ab
+1	Auf	auf	ADP	_		1	ROOT	_	_
+2	und	und	CCONJ	_		1	cd	_	_
+3	Ab	ab	ADV	_		2	cj	_	_
+
+# sent_id = 2
+# text = Noch 29 Tage , dann ist unsere geliebte D-Mark keine offizielle Währung mehr .
+1	Noch	noch	ADV	_		2	mo	_	_
+2	29	29	NUM	_		3	nk	_	_
+3	Tage	Tag	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	re	_	_
+4	,	--	PUNCT	_		5	punct	_	_
+5	dann	dann	ADV	_		6	mo	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	unsere	mein	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	nk	_	_
+8	geliebte	geliebt	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	D-Mark	D-Mark	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+10	keine	kein	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	12	nk	_	_
+11	offizielle	offiziell	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Währung	Währung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	pd	_	_
+13	mehr	mehr	ADV	_		12	mo	_	_
+14	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = Mit der Einführung des Euros wird vieles teurer ,
+1	Mit	mit	ADP	_		6	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Einführung	Einführung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+4	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Euros	Euro	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	ag	_	_
+6	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	vieles	viele	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	sb	_	_
+8	teurer	teuer	ADV	_	Degree=Cmp	6	pd	_	_
+9	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 4
+# text = weil Pfennig- zu Centbeträge sicher eher auf- statt abgerundet werden .
+1	weil	weil	SCONJ	_		10	cp	_	_
+2	Pfennig-	Pfennig	PROPN	_	Case=Nom|Number=Sing	3	mo	_	_
+3	zu	zu	ADP	_		10	mo	_	_
+4	Centbeträge	Centbetrag	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nk	_	_
+5	sicher	sicher	ADV	_		3	ac	_	_
+6	eher	eher	ADV	_		8	mo	_	_
+7	auf-	auf	X	_		8	cj	_	_
+8	statt	statt	SCONJ	_		3	cd	_	_
+9	abgerundet	abgerunden	VERB	_	VerbForm=Part	10	oc	_	_
+10	werden	werden	AUX	_	VerbForm=Inf	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 5
+# text = Manche Geschäftsleute werden vor der Währungsumstellung noch schnell ihre Ware verteuern ,
+1	Manche	mancher	DET	_	Case=Nom|Number=Plur|PronType=Ind	2	nk	_	_
+2	Geschäftsleute	Geschäftsleute	NOUN	_	Case=Nom|Number=Plur	3	sb	_	_
+3	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	vor	vor	ADP	_		11	mo	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Währungsumstellung	Währungsumstellung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	noch	noch	ADV	_		11	mo	_	_
+8	schnell	schnell	ADV	_	Degree=Pos	11	mo	_	_
+9	ihre	ihr	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Ware	Ware	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	oa	_	_
+11	verteuern	verteuern	VERB	_	VerbForm=Inf	3	oc	_	_
+12	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = damit sie sich besser umrechnen lässt .
+1	damit	damit	SCONJ	_		6	cp	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	sb	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+4	besser	gut	ADV	_	Degree=Cmp	5	mo	_	_
+5	umrechnen	umrechnen	VERB	_	VerbForm=Inf	6	oc	_	_
+6	lässt	lässt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 7
+# text = Da ist es um so erfreulicher ,
+1	Da	da	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	um	um	SCONJ	_		5	avc	_	_
+5	so	so	ADV	_		6	mo	_	_
+6	erfreulicher	erfreulich	ADV	_	Degree=Cmp	2	pd	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = wenn ausnahmsweise etwas billiger wird .
+1	wenn	wenn	SCONJ	_		5	cp	_	_
+2	ausnahmsweise	ausnahmsweise	ADV	_		5	mo	_	_
+3	etwas	etwas	ADV	_		4	mo	_	_
+4	billiger	billig	ADV	_	Degree=Cmp	5	pd	_	_
+5	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 9
+# text = Und noch dazu etwas , dass jeder braucht .
+1	Und	und	CCONJ	_		4	ju	_	_
+2	noch	noch	ADV	_		3	mo	_	_
+3	dazu	dazu	ADV	_		4	mo	_	_
+4	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	dass	dass	SCONJ	_		8	cp	_	_
+7	jeder	jeder	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	sb	_	_
+8	braucht	brauchen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	re	_	_
+9	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 10
+# text = Die Gasversorgung Zehdenick wird den Erdgaspreis senken .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Gasversorgung	Gasversorgung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+3	Zehdenick	Zehdenick	PROPN	_	Case=Nom|Number=Sing	2	nk	_	_
+4	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Erdgaspreis	Erdgaspreis	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	oa	_	_
+7	senken	senken	VERB	_	VerbForm=Inf	4	oc	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 11
+# text = Ein vierköpfiger Haushalt spart dann im kommenden Jahr immerhin etwa 57,50 Mark gegenüber 2001 .
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	vierköpfiger	vierköpfig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	Haushalt	Haushalt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+4	spart	sparen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	dann	dann	ADV	_		4	mo	_	_
+6	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	4	mo	_	_
+7	kommenden	kommend	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Jahr	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+9	immerhin	immerhin	ADV	_		11	mo	_	_
+10	etwa	etwa	ADV	_		11	mo	_	_
+11	57,50	57,50	NUM	_		12	nk	_	_
+12	Mark	Mark	NOUN	_	Gender=Fem	4	oa	_	_
+13	gegenüber	gegenüber	ADP	_		12	mnr	_	_
+14	2001	2001	NUM	_		13	nk	_	_
+15	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 12
+# text = Beim Strom ließ sich die Preissteigerung wegen der neuen Ökosteuer-Stufe zwar nicht stabil halten .
+1	Beim	bei	ADP	_	Case=Dat|Gender=Masc|Number=Sing	3	mo	_	_
+2	Strom	Strom	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	ließ	lassen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	oa	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Preissteigerung	Preissteigerung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+7	wegen	wegen	ADP	_		3	mo	_	_
+8	der	der	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+9	neuen	neu	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	10	nk	_	_
+10	Ökosteuer-Stufe	Ökosteuer-Stufe	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nk	_	_
+11	zwar	zwar	ADV	_		3	mo	_	_
+12	nicht	nicht	PART	_		3	ng	_	_
+13	stabil	stabil	ADV	_	Degree=Pos	14	mo	_	_
+14	halten	halten	VERB	_	VerbForm=Inf	3	oc	_	_
+15	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Die Stadtwerke haben aber auf den Preis ausschließlich die Ökosteuererhöhung umgelegt .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	nk	_	_
+2	Stadtwerke	Stadtwerk	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	sb	_	_
+3	haben	haben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	aber	aber	ADV	_		11	mo	_	_
+5	auf	auf	ADP	_		11	mo	_	_
+6	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Preis	Preis	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nk	_	_
+8	ausschließlich	ausschließlich	ADV	_		10	mo	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Ökosteuererhöhung	Ökosteuererhöhung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	oa	_	_
+11	umgelegt	umgelegen	VERB	_	VerbForm=Part	3	oc	_	_
+12	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = Preiserhöhungen des Zulieferers dagegen blieben unberücksichtigt .
+1	Preiserhöhungen	Preiserhöhung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	sb	_	_
+2	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Zulieferers	Zulieferer	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	ag	_	_
+4	dagegen	dagegen	ADV	_		1	mnr	_	_
+5	blieben	bleiben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	unberücksichtigt	unberücksichtigt	ADV	_	Degree=Pos	5	pd	_	_
+7	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 15
+# text = Die schwierige Wirtschaftslage jedenfalls muss nicht zwangsläufig zu Preissteigerungen führen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	schwierige	schwierig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Wirtschaftslage	Wirtschaftslage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+4	jedenfalls	jedenfalls	ADV	_		3	mo	_	_
+5	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	nicht	nicht	PART	_		5	ng	_	_
+7	zwangsläufig	zwangsläufig	ADV	_	Degree=Pos	5	mo	_	_
+8	zu	zu	ADP	_		10	mo	_	_
+9	Preissteigerungen	Preissteigerung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	8	nk	_	_
+10	führen	führen	VERB	_	VerbForm=Inf	5	oc	_	_
+11	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 16
+# text = Für den Verbraucher wächst die Hoffnung , dass es vielleicht auch der Bäcker , Frisör und Kaufmannsladen nebenan halten wie die Stadtwerke Zehdenick :
+1	Für	für	ADP	_		4	mo	_	_
+2	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Verbraucher	Verbraucher	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	nk	_	_
+4	wächst	wachsen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Hoffnung	Hoffnung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	dass	dass	SCONJ	_		19	cp	_	_
+9	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	sb	_	_
+10	vielleicht	vielleicht	ADV	_		13	mo	_	_
+11	auch	auch	ADV	_		13	mo	_	_
+12	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+13	Bäcker	Bäcker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	sb	_	_
+14	,	--	PUNCT	_		13	punct	_	_
+15	Frisör	Frisör	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	cj	_	_
+16	und	und	CCONJ	_		15	cd	_	_
+17	Kaufmannsladen	Kaufmannsladen	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	cj	_	_
+18	nebenan	nebenan	ADV	_		19	mo	_	_
+19	halten	halten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	oc	_	_
+20	wie	wie	ADP	_		22	cm	_	_
+21	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	22	nk	_	_
+22	Stadtwerke	Stadtwerk	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	18	cc	_	_
+23	Zehdenick	Zehdenick	PROPN	_	Case=Nom|Number=Sing	22	nk	_	_
+24	:	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 17
+# text = Preise runter oder wenigstens nur das Nötigste umlegen .
+1	Preise	Preis	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	oa	_	_
+2	runter	runter	ADV	_		1	mnr	_	_
+3	oder	oder	CCONJ	_		1	cd	_	_
+4	wenigstens	wenigstens	ADV	_		7	mo	_	_
+5	nur	nur	ADV	_		7	mo	_	_
+6	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+7	Nötigste	Nötigste	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	cj	_	_
+8	umlegen	umlegen	VERB	_	VerbForm=Inf	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+

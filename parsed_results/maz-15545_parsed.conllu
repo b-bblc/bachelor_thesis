@@ -1,0 +1,238 @@
+# sent_id = 1
+# text = Nicht so schnell
+1	Nicht	nicht	PART	_		3	ng	_	_
+2	so	so	ADV	_		3	mo	_	_
+3	schnell	schnell	ADV	_	Degree=Pos	3	ROOT	_	_
+
+# sent_id = 2
+# text = Die Falkenseer Verwaltung und Havelbus wollen die Buslinie Bahnhof Falkensee - Dallgow näher an die Leute bringen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	Falkenseer	Falkenseer	ADJ	_	Degree=Pos	3	nk	_	_
+3	Verwaltung	Verwaltung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Havelbus	Havelbus	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cj	_	_
+6	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Buslinie	Buslinie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	oa	_	_
+9	Bahnhof	Bahnhof	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nk	_	_
+10	Falkensee	Falkensee	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	9	nk	_	_
+11	-	--	PUNCT	_		9	punct	_	_
+12	Dallgow	Dallgow	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	9	cj	_	_
+13	näher	nah	ADV	_	Degree=Cmp	17	mo	_	_
+14	an	an	ADP	_		17	mo	_	_
+15	die	der	DET	_	Case=Acc|Definite=Def|Number=Plur|PronType=Art	16	nk	_	_
+16	Leute	Leute	NOUN	_	Case=Acc|Number=Plur	14	nk	_	_
+17	bringen	bringen	VERB	_	VerbForm=Inf	6	oc	_	_
+18	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = Der Bus würde Straßen im Wohnviertel durchfahren .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Bus	Bus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	würde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	Straßen	Straße	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	oa	_	_
+5	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	7	mo	_	_
+6	Wohnviertel	Wohnviertel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	durchfahren	durchfahren	VERB	_	VerbForm=Inf	3	oc	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Doch das Angebot , nahe der Haustür den Personennahverkehr nutzen zu können , wollen nicht alle .
+1	Doch	doch	CCONJ	_		14	ju	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Angebot	Angebot	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	sb	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	nahe	nahe	ADP	_		10	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Haustür	Haustür	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Personennahverkehr	Personennahverkehr	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	oa	_	_
+10	nutzen	nutzen	VERB	_	VerbForm=Inf	12	oc	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	können	können	AUX	_	VerbForm=Inf	3	oc	_	_
+13	,	--	PUNCT	_		14	punct	_	_
+14	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ROOT	_	_
+15	nicht	nicht	PART	_		14	ng	_	_
+16	alle	alle	PRON	_	Case=Nom|Number=Plur|PronType=Ind	14	sb	_	_
+17	.	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 5
+# text = Er gefährde spielende Kinder und ließe Kaffeetische wackeln .
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	gefährde	gefährden	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	spielende	spielend	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	4	nk	_	_
+4	Kinder	Kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	oa	_	_
+5	und	und	CCONJ	_		2	cd	_	_
+6	ließe	lassen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cj	_	_
+7	Kaffeetische	Kaffeetisch	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	oa	_	_
+8	wackeln	wackeln	VERB	_	VerbForm=Inf	6	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Die Ablehnung hat in der Verwaltung eine gewisse Verwunderung hervorgerufen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Ablehnung	Ablehnung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	in	in	ADP	_		10	mo	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Verwaltung	Verwaltung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+8	gewisse	gewiß	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Verwunderung	Verwunderung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	oa	_	_
+10	hervorgerufen	hervorrufen	VERB	_	VerbForm=Part	3	oc	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = Denn auf eine Ansiedlung von etwa 3000 Menschen sollte eine vernünftige Kommunalpolitik mit einem attraktiven Verkehrsangebot reagieren .
+1	Denn	denn	CCONJ	_		9	ju	_	_
+2	auf	auf	ADP	_		9	mo	_	_
+3	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Ansiedlung	Ansiedlung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nk	_	_
+5	von	von	ADP	_		4	mnr	_	_
+6	etwa	etwa	ADV	_		7	mo	_	_
+7	3000	3000	NUM	_		8	nk	_	_
+8	Menschen	Mensch	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	nk	_	_
+9	sollte	sollen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+11	vernünftige	vernünftig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Kommunalpolitik	Kommunalpolitik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	sb	_	_
+13	mit	mit	ADP	_		17	mo	_	_
+14	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	16	nk	_	_
+15	attraktiven	attraktiv	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	16	nk	_	_
+16	Verkehrsangebot	Verkehrsangebot	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	13	nk	_	_
+17	reagieren	reagieren	VERB	_	VerbForm=Inf	9	oc	_	_
+18	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 8
+# text = Außerdem hatte der Bauherr vor Jahren bei Verkauf und Vermietung der Häuser eine Busanbindung versprochen .
+1	Außerdem	außerdem	ADV	_		15	mo	_	_
+2	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Bauherr	Bauherr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	vor	vor	ADP	_		15	mo	_	_
+6	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	5	nk	_	_
+7	bei	bei	ADP	_		15	mo	_	_
+8	Verkauf	Verkauf	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Vermietung	Vermietung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	cj	_	_
+11	der	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	nk	_	_
+12	Häuser	Haus	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	8	ag	_	_
+13	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Busanbindung	Busanbindung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	oa	_	_
+15	versprochen	versprechen	VERB	_	VerbForm=Part	2	oc	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = Handelte es sich doch vornehmlich um Bürger ,
+1	Handelte	Handeln	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	ep	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	oa	_	_
+4	doch	doch	ADV	_		1	mo	_	_
+5	vornehmlich	vornehmlich	ADV	_	Degree=Pos	1	mo	_	_
+6	um	um	ADP	_		1	op	_	_
+7	Bürger	Bürger	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nk	_	_
+8	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = die zwar ihre Wohnung in Berlin verließen ,
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	sb	_	_
+2	zwar	zwar	ADV	_		7	mo	_	_
+3	ihre	ihr	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nk	_	_
+4	Wohnung	Wohnung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	oa	_	_
+5	in	in	ADP	_		7	mo	_	_
+6	Berlin	Berlin	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	verließen	verlassen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 11
+# text = dort aber nach wie vor arbeiten
+1	dort	dort	ADV	_		6	mo	_	_
+2	aber	aber	ADV	_		1	mo	_	_
+3	nach	nach	ADV	_		6	mo	_	_
+4	wie	wie	CCONJ	_		3	cd	_	_
+5	vor	vor	ADV	_		4	cj	_	_
+6	arbeiten	arbeiten	VERB	_	VerbForm=Inf	6	ROOT	_	_
+
+# sent_id = 12
+# text = und daher täglich fahren .
+1	und	und	CCONJ	_		4	ju	_	_
+2	daher	daher	ADV	_		4	mo	_	_
+3	täglich	täglich	ADV	_	Degree=Pos	4	mo	_	_
+4	fahren	fahren	VERB	_	VerbForm=Inf	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 13
+# text = Die Verwaltung hat inzwischen beschwichtigend wissen lassen , nicht gegen den Willen der Bewohner zu handeln .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Verwaltung	Verwaltung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	inzwischen	inzwischen	ADV	_		7	mo	_	_
+5	beschwichtigend	beschwichtigend	ADV	_	Degree=Pos	6	mo	_	_
+6	wissen	wissen	VERB	_	VerbForm=Inf	7	oc	_	_
+7	lassen	lassen	VERB	_	VerbForm=Inf	3	oc	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	nicht	nicht	PART	_		16	ng	_	_
+10	gegen	gegen	ADP	_		16	mo	_	_
+11	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Willen	Wille	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	nk	_	_
+13	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	nk	_	_
+14	Bewohner	Bewohner	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	ag	_	_
+15	zu	zu	PART	_		16	pm	_	_
+16	handeln	handeln	VERB	_	VerbForm=Inf	7	oc	_	_
+17	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = Doch sind 80 Unterschriften der Wille der Bewohner ?
+1	Doch	doch	CCONJ	_		2	ju	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	80	80	NUM	_		4	nk	_	_
+4	Unterschriften	Unterschrift	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	sb	_	_
+5	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Wille	Wille	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	ag	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Bewohner	Bewohner	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	ag	_	_
+9	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Gibt es in der Parkstadt nicht auch Bürger , die den Bus dem Verkehr vieler einzelner Autos vorziehen ?
+1	Gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	ep	_	_
+3	in	in	ADP	_		1	mo	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Parkstadt	Parkstadt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	nicht	nicht	PART	_		1	ng	_	_
+7	auch	auch	ADV	_		8	mo	_	_
+8	Bürger	Bürger	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	oa	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	18	sb	_	_
+11	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Bus	Bus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	oa	_	_
+13	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nk	_	_
+14	Verkehr	Verkehr	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	18	da	_	_
+15	vieler	vieler	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Ind	17	nk	_	_
+16	einzelner	einzeln	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	17	nk	_	_
+17	Autos	Auto	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	14	ag	_	_
+18	vorziehen	vorziehen	VERB	_	VerbForm=Inf	8	rc	_	_
+19	?	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 16
+# text = Achtung !
+1	Achtung	Achtung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+2	!	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 17
+# text = Eine vorschnelle Entscheidung könnte sich gegen den Willen der tatsächlichen Mehrheit richten .
+1	Eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	vorschnelle	vorschnell	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Entscheidung	Entscheidung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	oa	_	_
+6	gegen	gegen	ADP	_		12	mo	_	_
+7	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Willen	Wille	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nk	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+10	tatsächlichen	tatsächlich	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	nk	_	_
+11	Mehrheit	Mehrheit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+12	richten	richten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+13	.	--	PUNCT	_		4	punct	_	_
+

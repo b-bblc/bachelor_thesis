@@ -1,0 +1,254 @@
+# sent_id = 1
+# text = Alle Wetter !
+1	Alle	aller	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	2	nk	_	_
+2	Wetter	Wetter	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	ROOT	_	_
+3	!	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 2
+# text = Also nee , wissense nee , als ich heute Morgen wie immer in der letzten Minute aus dem Haus huschte und flugs in das in der Garage eingemummelte Auto stieg ,
+1	Also	also	ADV	_		2	mo	_	_
+2	nee	nee	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+3	,	--	PUNCT	_		4	punct	_	_
+4	wissense	Wissense	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	ROOT	_	_
+5	nee	Nee	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+6	,	--	PUNCT	_		4	punct	_	_
+7	als	als	SCONJ	_		20	cp	_	_
+8	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	sb	_	_
+9	heute	heute	ADV	_		20	mo	_	_
+10	Morgen	Morgen	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	oa	_	_
+11	wie	wie	ADP	_		12	cm	_	_
+12	immer	immer	ADV	_		13	mo	_	_
+13	in	in	ADP	_		20	mo	_	_
+14	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+15	letzten	letzter	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	nk	_	_
+16	Minute	Minute	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	nk	_	_
+17	aus	aus	ADP	_		20	mo	_	_
+18	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	nk	_	_
+19	Haus	Haus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	17	nk	_	_
+20	huschte	huschen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	mo	_	_
+21	und	und	CCONJ	_		20	cd	_	_
+22	flugs	flugs	ADV	_		30	mo	_	_
+23	in	in	ADP	_		30	mo	_	_
+24	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	29	nk	_	_
+25	in	in	ADP	_		28	mo	_	_
+26	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	nk	_	_
+27	Garage	Garage	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	25	nk	_	_
+28	eingemummelte	eingemummelt	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	29	nk	_	_
+29	Auto	Auto	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	23	nk	_	_
+30	stieg	steigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cj	_	_
+31	,	--	PUNCT	_		20	punct	_	_
+
+# sent_id = 3
+# text = hatte ich die miesen Grade noch gar nicht richtig mitgeschnitten .
+1	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	sb	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	nk	_	_
+4	miesen	mies	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	5	nk	_	_
+5	Grade	Grad	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	oa	_	_
+6	noch	noch	ADV	_		10	mo	_	_
+7	gar	gar	ADV	_		8	mo	_	_
+8	nicht	nicht	PART	_		10	ng	_	_
+9	richtig	richtig	ADV	_	Degree=Pos	10	mo	_	_
+10	mitgeschnitten	mitgeschnitten	VERB	_	VerbForm=Part	1	oc	_	_
+11	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 4
+# text = Aber dann begegnete ich einem Geisterfahrer ,
+1	Aber	aber	CCONJ	_		3	ju	_	_
+2	dann	dann	ADV	_		3	mo	_	_
+3	begegnete	begegnen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	sb	_	_
+5	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Geisterfahrer	Geisterfahrer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	da	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = der verstohlen durch einen Schlitz in der Sichtscheibe schielte
+1	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	verstohlen	Verstohlen	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	sb	_	_
+3	durch	durch	ADP	_		9	mo	_	_
+4	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Schlitz	Schlitz	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nk	_	_
+6	in	in	ADP	_		5	mnr	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Sichtscheibe	Sichtscheibe	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	schielte	schielen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+
+# sent_id = 6
+# text = und beim Abbiegen nach links vorsichtshalber das Seitenfenster öffnete ,
+1	und	und	CCONJ	_		9	ju	_	_
+2	beim	bei	ADP	_	Case=Dat|Gender=Neut|Number=Sing	9	mo	_	_
+3	Abbiegen	abbiegen	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	nk	_	_
+4	nach	nach	ADP	_		9	mo	_	_
+5	links	links	ADV	_		4	nk	_	_
+6	vorsichtshalber	vorsichtshalber	ADV	_		9	mo	_	_
+7	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+8	Seitenfenster	Seitenfenster	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	oa	_	_
+9	öffnete	öffnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 7
+# text = um nicht in den Gegenverkehr zu brettern .
+1	um	um	SCONJ	_		7	cp	_	_
+2	nicht	nicht	PART	_		7	ng	_	_
+3	in	in	ADP	_		7	mo	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Gegenverkehr	Gegenverkehr	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nk	_	_
+6	zu	zu	PART	_		7	pm	_	_
+7	brettern	brettern	VERB	_	VerbForm=Inf	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = Da wusste ich :
+1	Da	da	ADV	_		2	mo	_	_
+2	wusste	wussen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	sb	_	_
+4	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = Es wintert .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	wintert	wintern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Und wie immer haben die einen die Zeit völlig verpasst
+1	Und	und	CCONJ	_		4	ju	_	_
+2	wie	wie	ADV	_	PronType=Int	3	cm	_	_
+3	immer	immer	ADV	_		10	mo	_	_
+4	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	6	nk	_	_
+6	einen	einer	PRON	_	Case=Nom|Number=Plur|PronType=Ind	4	sb	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Zeit	Zeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	oa	_	_
+9	völlig	völlig	ADV	_	Degree=Pos	10	mo	_	_
+10	verpasst	verpassen	VERB	_	VerbForm=Part	4	oc	_	_
+
+# sent_id = 11
+# text = und rasen jetzt nach Winterrreifen rum ,
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	rasen	rasen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cj	_	_
+3	jetzt	jetzt	ADV	_		2	mo	_	_
+4	nach	nach	ADP	_		2	mo	_	_
+5	Winterrreifen	Winterrreifen	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	nk	_	_
+6	rum	rum	ADV	_		2	svp	_	_
+7	,	--	PUNCT	_		7	ROOT	_	_
+
+# sent_id = 12
+# text = die anderen wollten schon lange Fensterspray kaufen ,
+1	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	nk	_	_
+2	anderen	anderer	PRON	_	Case=Nom|Number=Plur|PronType=Ind	3	sb	_	_
+3	wollten	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	schon	schon	ADV	_		5	mo	_	_
+5	lange	lang	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	6	nk	_	_
+6	Fensterspray	Fensterspray	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	oa	_	_
+7	kaufen	kaufen	VERB	_	VerbForm=Inf	3	oc	_	_
+8	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = in den Schuhgeschäften werden die warmen Stiefel nun endlich doch anprobiert ,
+1	in	in	ADP	_		11	mo	_	_
+2	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	nk	_	_
+3	Schuhgeschäften	Schuhgeschäft	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	1	nk	_	_
+4	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+6	warmen	warm	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	nk	_	_
+7	Stiefel	Stiefel	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+8	nun	nun	ADV	_		11	mo	_	_
+9	endlich	endlich	ADV	_		11	mo	_	_
+10	doch	doch	ADV	_		11	mo	_	_
+11	anprobiert	anprobiert	VERB	_	VerbForm=Part	4	oc	_	_
+12	,	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 14
+# text = und die Hompage der Standheizungsbauer hatte bald so viel Besuch wie die der Wetterkarten .
+1	und	und	CCONJ	_		6	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Hompage	Hompage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Standheizungsbauer	Standheizungsbauer	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+6	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	bald	bald	ADV	_		6	mo	_	_
+8	so	so	ADV	_		9	mo	_	_
+9	viel	viel	DET	_	PronType=Ind	10	nk	_	_
+10	Besuch	Besuch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	oa	_	_
+11	wie	wie	ADP	_		12	cm	_	_
+12	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	10	cc	_	_
+13	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	nk	_	_
+14	Wetterkarten	Wetterkarte	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	12	ag	_	_
+15	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 15
+# text = Übrigens ertappte ich unter dem Stichwort " Winterwetter " im Internet echte Witzbolde .
+1	Übrigens	übrigens	ADV	_		2	mo	_	_
+2	ertappte	ertappen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	sb	_	_
+4	unter	unter	ADP	_		2	mo	_	_
+5	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Stichwort	Stichwort	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+7	"	--	PUNCT	_		8	punct	_	_
+8	Winterwetter	Winterwetter	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nk	_	_
+9	"	--	PUNCT	_		8	punct	_	_
+10	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	6	mnr	_	_
+11	Internet	Internet	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	echte	echt	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	13	nk	_	_
+13	Witzbolde	Witzbolde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	oa	_	_
+14	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Da wird der Surfer auf " Scherze " gelenkt
+1	Da	da	ADV	_		9	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Surfer	Surfer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	auf	auf	ADP	_		9	mo	_	_
+6	"	--	PUNCT	_		7	punct	_	_
+7	Scherze	Scherz	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nk	_	_
+8	"	--	PUNCT	_		7	punct	_	_
+9	gelenkt	lenken	VERB	_	VerbForm=Part	2	oc	_	_
+
+# sent_id = 17
+# text = und hat dann je nach Lust und Laune auch was zu lachen .
+1	und	und	CCONJ	_		2	ju	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	dann	dann	ADV	_		12	mo	_	_
+4	je	je	ADV	_		5	mo	_	_
+5	nach	nach	ADP	_		12	mo	_	_
+6	Lust	Lust	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	Laune	Laune	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	cj	_	_
+9	auch	auch	ADV	_		12	mo	_	_
+10	was	wer	PRON	_	Gender=Neut|PronType=Ind	12	oa	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	lachen	lachen	VERB	_	VerbForm=Inf	2	oc	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 18
+# text = Oder zu zittern ,
+1	Oder	oder	CCONJ	_		1	ROOT	_	_
+2	zu	zu	PART	_		3	pm	_	_
+3	zittern	zittern	VERB	_	VerbForm=Inf	1	cj	_	_
+4	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 19
+# text = denn ein schnatterndes Gebiss ist immer dabei .
+1	denn	denn	CCONJ	_		5	ju	_	_
+2	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+3	schnatterndes	schnatternd	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Gebiss	Gebiss	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	sb	_	_
+5	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	immer	immer	ADV	_		5	mo	_	_
+7	dabei	dabei	ADV	_		5	mo	_	_
+8	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 20
+# text = Jedenfalls im Winter , meint eure Jette .
+1	Jedenfalls	jedenfalls	ADV	_		2	mo	_	_
+2	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	5	mo	_	_
+3	Winter	Winter	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+4	,	--	PUNCT	_		5	punct	_	_
+5	meint	meinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	eure	eur	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	nk	_	_
+7	Jette	Jette	PROPN	_	Case=Nom|Number=Sing	5	sb	_	_
+8	.	--	PUNCT	_		5	punct	_	_
+

@@ -1,0 +1,276 @@
+# sent_id = 1
+# text = Keine schlechte Wahl
+1	Keine	kein	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	3	nk	_	_
+2	schlechte	schlecht	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Wahl	Wahl	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	ROOT	_	_
+
+# sent_id = 2
+# text = Die Idee ist gut :
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Idee	Idee	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	gut	gut	ADV	_	Degree=Pos	3	pd	_	_
+5	:	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 3
+# text = Die Stadt stellt Blumenzwiebeln en masse zur Verfügung ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Stadt	Stadt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	stellt	stellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	Blumenzwiebeln	Blumenzwiebel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	oa	_	_
+5	en	--	X	_	Foreign=Yes	6	pnc	_	_
+6	masse	Masse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	oa	_	_
+7	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	3	cvc	_	_
+8	Verfügung	Verfügung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+9	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Schüler bringen sie in die Erde
+1	Schüler	Schüler	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	oa	_	_
+2	bringen	bringen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	in	in	ADP	_		2	mo	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Erde	Erde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+
+# sent_id = 5
+# text = und sorgen dafür , dass es im Frühjahr noch bunter ist als sonst auf kommunalen Flächen .
+1	und	und	CCONJ	_		2	ju	_	_
+2	sorgen	sorgen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	dafür	dafür	ADV	_		2	op	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	dass	dass	SCONJ	_		11	cp	_	_
+6	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	sb	_	_
+7	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	11	mo	_	_
+8	Frühjahr	Frühjahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+9	noch	noch	ADV	_		10	mo	_	_
+10	bunter	bunt	ADV	_	Degree=Cmp	11	pd	_	_
+11	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	re	_	_
+12	als	als	ADP	_		13	cm	_	_
+13	sonst	sonst	ADV	_		14	mo	_	_
+14	auf	auf	ADP	_		11	mo	_	_
+15	kommunalen	kommunal	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	16	nk	_	_
+16	Flächen	Fläche	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	14	nk	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Der Auftakt , den die Grundschüler gestern gaben , ist gelungen .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Auftakt	Auftakt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	den	der	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	8	oa	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	nk	_	_
+6	Grundschüler	Grundschüler	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	sb	_	_
+7	gestern	gestern	ADV	_		8	mo	_	_
+8	gaben	geben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	rc	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	gelungen	gelingen	VERB	_	VerbForm=Part	10	oc	_	_
+12	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 7
+# text = Real- und Gesamtschüler setzen in diesen Tagen die Arbeiten an anderen Stellen fort ,
+1	Real-	Real	X	_		2	cj	_	_
+2	und	und	CCONJ	_		3	cd	_	_
+3	Gesamtschüler	Gesamtschüler	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+4	setzen	setzen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	in	in	ADP	_		4	mo	_	_
+6	diesen	dieser	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	7	nk	_	_
+7	Tagen	Tag	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	nk	_	_
+8	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	nk	_	_
+9	Arbeiten	Arbeit	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	oa	_	_
+10	an	an	ADP	_		9	mnr	_	_
+11	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	12	nk	_	_
+12	Stellen	Stelle	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	nk	_	_
+13	fort	fort	ADV	_		4	svp	_	_
+14	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 8
+# text = wie MAZ gestern berichtete .
+1	wie	wie	SCONJ	_		4	mo	_	_
+2	MAZ	MAZ	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+3	gestern	gestern	ADV	_		4	mo	_	_
+4	berichtete	berichten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = Es machte schon Spaß zuzusehen , mit welchem Eifer die Mädchen und Jungen auf der großen Freifläche in der Berliner Straße zu Werke gingen .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	machte	machen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	schon	schon	ADV	_		2	mo	_	_
+4	Spaß	Spaß	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	oa	_	_
+5	zuzusehen	zusehen	VERB	_	VerbForm=Inf	2	oc	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	mit	mit	ADP	_		24	mo	_	_
+8	welchem	welcher	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Int	9	nk	_	_
+9	Eifer	Eifer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	nk	_	_
+11	Mädchen	Mädchen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	24	sb	_	_
+12	und	und	CCONJ	_		11	cd	_	_
+13	Jungen	Junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	cj	_	_
+14	auf	auf	ADP	_		24	mo	_	_
+15	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+16	großen	groß	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+17	Freifläche	Freifläche	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+18	in	in	ADP	_		24	mo	_	_
+19	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	nk	_	_
+20	Berliner	Berliner	ADJ	_	Degree=Pos	21	nk	_	_
+21	Straße	Straße	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	nk	_	_
+22	zu	zu	ADP	_		24	mo	_	_
+23	Werke	Werk	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	22	nk	_	_
+24	gingen	gehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	rc	_	_
+25	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Und das Ganze hat mit Sicherheit auch einen erzieherischen Nutzen :
+1	Und	und	CCONJ	_		4	ju	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Ganze	ganze	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+4	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	mit	mit	ADP	_		4	mo	_	_
+6	Sicherheit	Sicherheit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+7	auch	auch	ADV	_		10	mo	_	_
+8	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+9	erzieherischen	erzieherisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Nutzen	Nutzen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	oa	_	_
+11	:	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 11
+# text = Wer weiß , wie viel Arbeit in solch einer Pflanzaktion steckt ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	sb	_	_
+2	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	wie	wie	ADV	_	PronType=Int	5	mo	_	_
+5	viel	viel	DET	_	PronType=Ind	6	nk	_	_
+6	Arbeit	Arbeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+7	in	in	ADP	_		11	mo	_	_
+8	solch	solch	DET	_	PronType=Ind	9	mo	_	_
+9	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Pflanzaktion	Pflanzaktion	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+11	steckt	stecken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+12	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = schätzt das Ergebnis am Ende umso mehr .
+1	schätzt	schätzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Ergebnis	Ergebnis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	sb	_	_
+4	am	an	ADP	_	Case=Dat|Gender=Neut|Number=Sing	1	mo	_	_
+5	Ende	Ende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+6	umso	umso	ADV	_		7	mo	_	_
+7	mehr	mehr	ADV	_		1	mo	_	_
+8	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 13
+# text = Und es weckt den Stolz darauf , etwas für die Allgemeinheit getan zu haben ,
+1	Und	und	CCONJ	_		3	ju	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	weckt	wecken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Stolz	Stolz	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	oa	_	_
+6	darauf	darauf	ADV	_		3	op	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	12	oa	_	_
+9	für	für	ADP	_		12	mo	_	_
+10	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Allgemeinheit	Allgemeinheit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	nk	_	_
+12	getan	tun	VERB	_	VerbForm=Part	14	oc	_	_
+13	zu	zu	PART	_		14	pm	_	_
+14	haben	haben	AUX	_	VerbForm=Inf	6	re	_	_
+15	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = schafft Verbundenheit mit der Stadt .
+1	schafft	schaffen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	Verbundenheit	Verbundenheit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	oa	_	_
+3	mit	mit	ADP	_		2	mnr	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Stadt	Stadt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 15
+# text = Das ist heutzutage , wo Vandalismus längst zum Alltag gehört , nicht zu unterschätzen .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	heutzutage	heutzutage	ADV	_		2	mo	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	wo	wo	SCONJ	_	PronType=Int	10	mo	_	_
+6	Vandalismus	Vandalismus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	sb	_	_
+7	längst	längst	ADV	_		10	mo	_	_
+8	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	10	op	_	_
+9	Alltag	Alltag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	gehört	gehören	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+12	nicht	nicht	PART	_		14	ng	_	_
+13	zu	zu	PART	_		14	pm	_	_
+14	unterschätzen	unterschätzen	VERB	_	VerbForm=Inf	10	cj	_	_
+15	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Die 30 Mädchen und Jungen haben sich eher zufällig in der Neigungsgruppe Biologie und Umwelt zusammengefunden .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	nk	_	_
+2	30	30	NUM	_		3	nk	_	_
+3	Mädchen	Mädchen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	sb	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Jungen	Junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cj	_	_
+6	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	16	oa	_	_
+8	eher	eher	ADV	_		9	mo	_	_
+9	zufällig	zufällig	ADV	_	Degree=Pos	16	mo	_	_
+10	in	in	ADP	_		16	mo	_	_
+11	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+12	Neigungsgruppe	Neigungsgruppe	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	nk	_	_
+13	Biologie	Biologie	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	nk	_	_
+14	und	und	CCONJ	_		13	cd	_	_
+15	Umwelt	Umwelt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	cj	_	_
+16	zusammengefunden	zusammenfinden	VERB	_	VerbForm=Part	6	oc	_	_
+17	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 17
+# text = Viele aus Interesse ,
+1	Viele	viele	PRON	_	Case=Nom|Number=Plur|PronType=Ind	1	ROOT	_	_
+2	aus	aus	ADP	_		1	mo	_	_
+3	Interesse	Interesse	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+4	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 18
+# text = einige ,
+1	einige	einige	PRON	_	Case=Nom|Number=Plur|PronType=Ind	1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 19
+# text = weil es in anderen Gruppen keinen Platz mehr gab .
+1	weil	weil	SCONJ	_		9	cp	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	ep	_	_
+3	in	in	ADP	_		9	mo	_	_
+4	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+5	Gruppen	Gruppe	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	keinen	kein	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	7	nk	_	_
+7	Platz	Platz	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	oa	_	_
+8	mehr	mehr	ADV	_		7	mo	_	_
+9	gab	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 20
+# text = Vielleicht fanden auch die gestern die Bestätigung , dass sie letztlich doch gar keine so schlechte Wahl getroffen haben .
+1	Vielleicht	vielleicht	ADV	_		2	mo	_	_
+2	fanden	finden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	auch	auch	ADV	_		7	mo	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+5	gestern	gestern	ADV	_		4	mo	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Bestätigung	Bestätigung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	sb	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	dass	dass	SCONJ	_		19	cp	_	_
+10	sie	sie	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	sb	_	_
+11	letztlich	letztlich	ADV	_		18	mo	_	_
+12	doch	doch	ADV	_		18	mo	_	_
+13	gar	gar	ADV	_		14	mo	_	_
+14	keine	kein	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	17	nk	_	_
+15	so	so	ADV	_		16	mo	_	_
+16	schlechte	schlecht	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+17	Wahl	Wahl	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	oa	_	_
+18	getroffen	treffen	VERB	_	VerbForm=Part	19	oc	_	_
+19	haben	haben	AUX	_	VerbForm=Inf	7	oc	_	_
+20	.	--	PUNCT	_		2	punct	_	_
+

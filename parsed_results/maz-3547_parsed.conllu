@@ -1,0 +1,199 @@
+# sent_id = 1
+# text = Zweck heiligt Mittel nicht
+1	Zweck	Zweck	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+2	heiligt	heiligt	ADV	_	Degree=Pos	2	ROOT	_	_
+3	Mittel	Mittel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	ROOT	_	_
+4	nicht	nicht	PART	_		3	ng	_	_
+
+# sent_id = 2
+# text = Die Verwaltungsspitze des Kreises Potsdam-Mittelmark gerät einmal mehr unter Druck .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Verwaltungsspitze	Verwaltungsspitze	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+3	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Kreises	Kreis	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	ag	_	_
+5	Potsdam-Mittelmark	Potsdam-Mittelmark	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	4	nk	_	_
+6	gerät	geraten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	einmal	einmal	ADV	_		6	mo	_	_
+8	mehr	mehr	ADV	_		6	mo	_	_
+9	unter	unter	ADP	_		6	cvc	_	_
+10	Druck	Druck	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nk	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = Nicht zum ersten Mal steht die wirtschaftliche Betätigung der Tochtergesellschaften mit ihren vielfältigen und offenkundig schwer überschaubaren Verflechtungen in der Kritik .
+1	Nicht	nicht	PART	_		5	ng	_	_
+2	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	5	mo	_	_
+3	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Mal	Mal	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	nk	_	_
+5	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+7	wirtschaftliche	wirtschaftlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Betätigung	Betätigung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	nk	_	_
+10	Tochtergesellschaften	Tochtergesellschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	ag	_	_
+11	mit	mit	ADP	_		8	mnr	_	_
+12	ihren	ihr	DET	_	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	nk	_	_
+13	vielfältigen	vielfältig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	18	nk	_	_
+14	und	und	CCONJ	_		13	cd	_	_
+15	offenkundig	offenkundig	ADV	_	Degree=Pos	17	mo	_	_
+16	schwer	schwer	ADV	_	Degree=Pos	17	mo	_	_
+17	überschaubaren	überschaubar	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	cj	_	_
+18	Verflechtungen	Verflechtung	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	11	nk	_	_
+19	in	in	ADP	_		18	mnr	_	_
+20	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	nk	_	_
+21	Kritik	Kritik	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	19	nk	_	_
+22	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 4
+# text = Die diesmal schwerwiegenden Vorwürfe müssen nun von der Staatsanwaltschaft unter die Lupe genommen werden -
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+2	diesmal	diesmal	ADV	_		3	mo	_	_
+3	schwerwiegenden	schwerwiegend	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nk	_	_
+4	Vorwürfe	Vorwurf	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	sb	_	_
+5	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	nun	nun	ADV	_		5	mo	_	_
+7	von	von	ADP	_		13	sbp	_	_
+8	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Staatsanwaltschaft	Staatsanwaltschaft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+10	unter	unter	ADP	_		13	mo	_	_
+11	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Lupe	Lupe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	nk	_	_
+13	genommen	nehmen	VERB	_	VerbForm=Part	14	oc	_	_
+14	werden	werden	AUX	_	VerbForm=Inf	5	oc	_	_
+15	-	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 5
+# text = nicht gerade eine Empfehlung für die am Donnerstag geplante Wiederwahl von Landrat Lothar Koch ( SPD ) .
+1	nicht	nicht	PART	_		2	ng	_	_
+2	gerade	gerade	ADV	_		4	mo	_	_
+3	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Empfehlung	Empfehlung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	ROOT	_	_
+5	für	für	ADP	_		4	mnr	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+7	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	9	mo	_	_
+8	Donnerstag	Donnerstag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	geplante	geplant	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Wiederwahl	Wiederwahl	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	nk	_	_
+11	von	von	ADP	_		10	pg	_	_
+12	Landrat	Landrat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nk	_	_
+13	Lothar	Lothar	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	pnc	_	_
+14	Koch	Koch	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+15	(	--	PUNCT	_		16	punct	_	_
+16	SPD	SPD	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	12	par	_	_
+17	)	--	PUNCT	_		16	punct	_	_
+18	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 6
+# text = Warnungen vor einer ausufernden Geschäftstätigkeit des Kreises Potsdam-Mittelmark hat es oft genug gegeben .
+1	Warnungen	Warnung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	13	oa	_	_
+2	vor	vor	ADP	_		1	op	_	_
+3	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	ausufernden	ausufernd	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Geschäftstätigkeit	Geschäftstätigkeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+6	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Kreises	Kreis	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	ag	_	_
+8	Potsdam-Mittelmark	Potsdam-Mittelmark	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	7	nk	_	_
+9	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	oa	_	_
+11	oft	oft	ADV	_		13	mo	_	_
+12	genug	genug	ADV	_		11	mo	_	_
+13	gegeben	geben	VERB	_	VerbForm=Part	9	oc	_	_
+14	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 7
+# text = Sie wurden ignoriert .
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	ignoriert	ignorieren	VERB	_	VerbForm=Part	2	oc	_	_
+4	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Verkehrsgesellschaften , Krankenhaus-GmbH oder Abfallwirtschaftsbetrieb stehen außerhalb der Kritik ,
+1	Verkehrsgesellschaften	Verkehrsgesellschafte	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	6	sb	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	Krankenhaus-GmbH	Krankenhaus-GmbH	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	cj	_	_
+4	oder	oder	CCONJ	_		3	cd	_	_
+5	Abfallwirtschaftsbetrieb	Abfallwirtschaftsbetrieb	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	cj	_	_
+6	stehen	stehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	außerhalb	außerhalb	ADP	_		6	mo	_	_
+8	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Kritik	Kritik	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nk	_	_
+10	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 9
+# text = diese Unternehmen erledigen Aufgaben der Daseinsvorsorge .
+1	diese	dieser	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	nk	_	_
+2	Unternehmen	Unternehmen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	sb	_	_
+3	erledigen	erledigen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	Aufgaben	Aufgabe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	oa	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Daseinsvorsorge	Daseinsvorsorge	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 10
+# text = Dass aber etwa bei der ABU-Service-GmbH oder nun auch bei der Gesundheitszentrum-GmbH der zunächst gut gemeinte soziale Zweck alle Mittel der geschäftlichen Betätigung heiligen soll , ist nicht nachvollziehbar .
+1	Dass	dass	SCONJ	_		25	cp	_	_
+2	aber	aber	ADV	_		25	mo	_	_
+3	etwa	etwa	ADV	_		4	mo	_	_
+4	bei	bei	ADP	_		24	mo	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	ABU-Service-GmbH	ABU-Service-GmbH	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	oder	oder	CCONJ	_		4	cd	_	_
+8	nun	nun	ADV	_		10	mo	_	_
+9	auch	auch	ADV	_		10	mo	_	_
+10	bei	bei	ADP	_		7	cj	_	_
+11	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Gesundheitszentrum-GmbH	Gesundheitszentrum-GmbH	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	nk	_	_
+13	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	nk	_	_
+14	zunächst	zunächst	ADV	_		16	mo	_	_
+15	gut	gut	ADV	_	Degree=Pos	16	mo	_	_
+16	gemeinte	gemeint	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nk	_	_
+17	soziale	sozial	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nk	_	_
+18	Zweck	Zweck	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	ag	_	_
+19	alle	aller	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	20	nk	_	_
+20	Mittel	Mittel	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	24	oa	_	_
+21	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	nk	_	_
+22	geschäftlichen	geschäftlich	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	nk	_	_
+23	Betätigung	Betätigung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	ag	_	_
+24	heiligen	heiligen	VERB	_	VerbForm=Inf	25	oc	_	_
+25	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	sb	_	_
+26	,	--	PUNCT	_		27	punct	_	_
+27	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	ROOT	_	_
+28	nicht	nicht	PART	_		27	ng	_	_
+29	nachvollziehbar	nachvollziehbar	ADV	_	Degree=Pos	27	pd	_	_
+30	.	--	PUNCT	_		27	punct	_	_
+
+# sent_id = 11
+# text = Erst recht nicht ,
+1	Erst	erst	ADV	_		2	mo	_	_
+2	recht	recht	ADV	_		3	mo	_	_
+3	nicht	nicht	PART	_		3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 12
+# text = wenn sich der Verdacht bestätigt , dass der Kreis Potsdam-Mittelmark so verantwortungslos wie in der anonymen Anzeige geschildert mit Steuergeld und Gebühreneinnahmen umgeht .
+1	wenn	wenn	SCONJ	_		5	cp	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Verdacht	Verdacht	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+5	bestätigt	bestätigen	VERB	_	VerbForm=Part	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	dass	dass	SCONJ	_		23	cp	_	_
+8	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Kreis	Kreis	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	sb	_	_
+10	Potsdam-Mittelmark	Potsdam-Mittelmark	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nk	_	_
+11	so	so	ADV	_		12	mo	_	_
+12	verantwortungslos	verantwortungslos	ADV	_	Degree=Pos	18	mo	_	_
+13	wie	wie	ADP	_		14	cm	_	_
+14	in	in	ADP	_		18	mo	_	_
+15	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+16	anonymen	anonym	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+17	Anzeige	Anzeige	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+18	geschildert	schildern	VERB	_	VerbForm=Part	23	mo	_	_
+19	mit	mit	ADP	_		23	mo	_	_
+20	Steuergeld	Steuergeld	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	19	nk	_	_
+21	und	und	CCONJ	_		20	cd	_	_
+22	Gebühreneinnahmen	Gebühreneinnahme	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	21	cj	_	_
+23	umgeht	umgehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	oc	_	_
+24	.	--	PUNCT	_		5	punct	_	_
+

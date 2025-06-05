@@ -1,0 +1,238 @@
+# sent_id = 1
+# text = Schlammspritzer
+1	Schlammspritzer	Schlammspritzer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	ROOT	_	_
+
+# sent_id = 2
+# text = Dass Wahlen wie Freundschaftsspiele ablaufen , kann wohl niemand ernsthaft erwarten .
+1	Dass	dass	SCONJ	_		5	cp	_	_
+2	Wahlen	Wahl	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	sb	_	_
+3	wie	wie	ADP	_		4	cm	_	_
+4	Freundschaftsspiele	Freundschaftsspiel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	cc	_	_
+5	ablaufen	ablaufen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	sb	_	_
+6	,	--	PUNCT	_		7	punct	_	_
+7	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	wohl	wohl	ADV	_		7	mo	_	_
+9	niemand	niemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	sb	_	_
+10	ernsthaft	ernsthaft	ADV	_	Degree=Pos	11	mo	_	_
+11	erwarten	erwarten	VERB	_	VerbForm=Inf	7	oc	_	_
+12	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 3
+# text = Dass Auseinandersetzungen um die Besetzung eines so wichtigen Postens wie des Bürgermeisters mit Streicheleinheiten einher gehen , auch nicht .
+1	Dass	dass	SCONJ	_		16	cp	_	_
+2	Auseinandersetzungen	Auseinandersetzung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	16	sb	_	_
+3	um	um	ADP	_		2	op	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Besetzung	Besetzung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nk	_	_
+6	eines	ein	DET	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+7	so	so	ADV	_		8	mo	_	_
+8	wichtigen	wichtig	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Postens	Posten	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	ag	_	_
+10	wie	wie	CCONJ	_		12	cm	_	_
+11	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Bürgermeisters	Bürgermeister	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	cc	_	_
+13	mit	mit	ADP	_		16	mo	_	_
+14	Streicheleinheiten	Streicheleinheit	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	13	nk	_	_
+15	einher	einher	ADV	_		16	mo	_	_
+16	gehen	gehen	VERB	_	VerbForm=Inf	16	ROOT	_	_
+17	,	--	PUNCT	_		16	punct	_	_
+18	auch	auch	ADV	_		19	mo	_	_
+19	nicht	nicht	PART	_		16	ng	_	_
+20	.	--	PUNCT	_		16	punct	_	_
+
+# sent_id = 4
+# text = Und doch schien es vor dem ersten Wahltag auch in Velten so , als sei der Streit um die Sache am wichtigsten ,
+1	Und	und	CCONJ	_		3	ju	_	_
+2	doch	doch	ADV	_		3	mo	_	_
+3	schien	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	ep	_	_
+5	vor	vor	ADP	_		3	mo	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Wahltag	Wahltag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+9	auch	auch	ADV	_		10	mo	_	_
+10	in	in	ADP	_		3	mo	_	_
+11	Velten	Velten	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	so	so	ADV	_		3	mo	_	_
+13	,	--	PUNCT	_		3	punct	_	_
+14	als	als	SCONJ	_		15	cm	_	_
+15	sei	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+16	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	Streit	Streit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	sb	_	_
+18	um	um	ADP	_		17	op	_	_
+19	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	nk	_	_
+20	Sache	Sache	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	nk	_	_
+21	am	am	PART	_		22	pm	_	_
+22	wichtigsten	wichtig	ADV	_	Degree=Sup	15	oc	_	_
+23	,	--	PUNCT	_		15	punct	_	_
+
+# sent_id = 5
+# text = nicht so sehr der Treffer am Mann oder an der Frau .
+1	nicht	nicht	PART	_		3	ng	_	_
+2	so	so	ADV	_		3	mo	_	_
+3	sehr	sehr	ADV	_		5	mo	_	_
+4	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Treffer	Treffer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	ROOT	_	_
+6	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	5	mnr	_	_
+7	Mann	Mann	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+8	oder	oder	CCONJ	_		6	cd	_	_
+9	an	an	ADP	_		8	cj	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Frau	Frau	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+12	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 6
+# text = Das hat sich gründlich geändert .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+4	gründlich	gründlich	ADV	_	Degree=Pos	5	mo	_	_
+5	geändert	ändern	VERB	_	VerbForm=Part	2	oc	_	_
+6	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Was weniger an den Kandidaten selbst liegt ,
+1	Was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	sb	_	_
+2	weniger	weniger	ADV	_		7	mo	_	_
+3	an	an	ADP	_		7	mo	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Kandidaten	Kandidat	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nk	_	_
+6	selbst	selbst	ADV	_		5	mnr	_	_
+7	liegt	liegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = sondern an denen , die hinter ihnen die Strippen ziehen .
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	an	an	ADP	_		1	cj	_	_
+3	denen	der	PRON	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Rel	2	nk	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	die	der	PRON	_	Case=Nom|Number=Plur|PronType=Rel	10	sb	_	_
+6	hinter	hinter	ADP	_		10	mo	_	_
+7	ihnen	ihnen	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	nk	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	nk	_	_
+9	Strippen	Strippe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	oa	_	_
+10	ziehen	ziehen	VERB	_	VerbForm=Inf	3	rc	_	_
+11	.	--	PUNCT	_		11	ROOT	_	_
+
+# sent_id = 9
+# text = Das ganze Programm wird abgespielt .
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+2	ganze	ganz	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nk	_	_
+3	Programm	Programm	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+4	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	abgespielt	abspielen	VERB	_	VerbForm=Part	4	oc	_	_
+6	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 10
+# text = Auf der einen Seite privatrechtliche Probleme auf einmal zur öffentlichen Angelegenheit hochstilisiert ,
+1	Auf	auf	ADP	_		12	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	einen	ein	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Seite	Seite	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+5	privatrechtliche	privatrechtlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	6	nk	_	_
+6	Probleme	Problem	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	12	oa	_	_
+7	auf	auf	ADP	_		12	mo	_	_
+8	einmal	einmal	ADV	_		7	nk	_	_
+9	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	12	mo	_	_
+10	öffentlichen	öffentlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	11	nk	_	_
+11	Angelegenheit	Angelegenheit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+12	hochstilisiert	hochstilisieren	VERB	_	VerbForm=Part	12	ROOT	_	_
+13	,	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 11
+# text = auf der anderen Seite ein Lebenslauf auf eine Art durchleuchtet ,
+1	auf	auf	ADP	_		10	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Seite	Seite	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+5	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Lebenslauf	Lebenslauf	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	oa	_	_
+7	auf	auf	ADP	_		6	mnr	_	_
+8	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Art	Art	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nk	_	_
+10	durchleuchtet	durchleuchten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 12
+# text = die auch die Autoren in schlechtes Licht bringt .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	sb	_	_
+2	auch	auch	ADV	_		4	mo	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Autoren	Autor	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	sb	_	_
+5	in	in	ADP	_		8	mo	_	_
+6	schlechtes	schlecht	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	nk	_	_
+7	Licht	Licht	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nk	_	_
+8	bringt	bringen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 13
+# text = Und es gibt Rechenkünstler , die das Wahlergebnis vom 11. November so ummodeln ,
+1	Und	und	CCONJ	_		3	ju	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	ep	_	_
+3	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	Rechenkünstler	Rechenkünstler	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	oa	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	sb	_	_
+7	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+8	Wahlergebnis	Wahlergebnis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	oa	_	_
+9	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	8	mnr	_	_
+10	11.	11.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	November	November	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nk	_	_
+12	so	so	ADV	_		13	mo	_	_
+13	ummodeln	ummodeln	VERB	_	VerbForm=Inf	4	rc	_	_
+14	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = dass am 2. Dezember der Sieg des eigenen Kandidaten herauskommt .
+1	dass	dass	SCONJ	_		10	cp	_	_
+2	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	10	mo	_	_
+3	2.	2.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	nk	_	_
+4	Dezember	Dezember	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+5	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Sieg	Sieg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	sb	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+8	eigenen	eigen	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Kandidaten	Kandidat	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+10	herauskommt	herauskommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 15
+# text = Und doch machen sich einige Veltener echt Sorgen um den Verfall der Sitten
+1	Und	und	CCONJ	_		3	ju	_	_
+2	doch	doch	ADV	_		3	mo	_	_
+3	machen	machen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	3	oa	_	_
+5	einige	einiger	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	6	nk	_	_
+6	Veltener	Velten	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+7	echt	echt	ADV	_	Degree=Pos	8	mo	_	_
+8	Sorgen	Sorge	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	oa	_	_
+9	um	um	ADP	_		8	op	_	_
+10	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Verfall	Verfall	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nk	_	_
+12	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	nk	_	_
+13	Sitten	Sitte	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	ag	_	_
+
+# sent_id = 16
+# text = und wollen eine Entscheidung ,
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cj	_	_
+3	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Entscheidung	Entscheidung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	oa	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 17
+# text = die der Stadt hilft .
+1	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	sb	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Stadt	Stadt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	da	_	_
+4	hilft	helfen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 18
+# text = Nicht dem Ego .
+1	Nicht	nicht	PART	_		3	ng	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Ego	Ego	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	ROOT	_	_
+4	.	--	PUNCT	_		3	punct	_	_
+

@@ -1,0 +1,378 @@
+# sent_id = 1
+# text = Der aufgezwungene Krieg
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	aufgezwungene	aufgezwungen	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	Krieg	Krieg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	ROOT	_	_
+
+# sent_id = 2
+# text = Der Krieg , der jetzt in Afghanistan ausgefochten wird , hat nicht erst am Sonntag Abend begonnen .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Krieg	Krieg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	sb	_	_
+5	jetzt	jetzt	ADV	_		8	mo	_	_
+6	in	in	ADP	_		8	mo	_	_
+7	Afghanistan	Afghanistan	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	ausgefochten	ausgefochten	VERB	_	VerbForm=Part	9	oc	_	_
+9	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+10	,	--	PUNCT	_		11	punct	_	_
+11	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	nicht	nicht	PART	_		13	ng	_	_
+13	erst	erst	ADV	_		14	mo	_	_
+14	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	17	mo	_	_
+15	Sonntag	Sonntag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	14	nk	_	_
+16	Abend	Abend	NOUN	_	Gender=Masc|Number=Sing	15	nk	_	_
+17	begonnen	beginnen	VERB	_	VerbForm=Part	11	oc	_	_
+18	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 3
+# text = Er begann am 11. September mit den Anschlägen von New York und Washington ,
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	begann	beginnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	2	mo	_	_
+4	11.	11.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	September	September	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+6	mit	mit	ADP	_		2	mo	_	_
+7	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Anschlägen	Anschlag	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+9	von	von	ADP	_		8	pg	_	_
+10	New	New	PROPN	_		11	pnc	_	_
+11	York	York	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	9	nk	_	_
+12	und	und	CCONJ	_		11	cd	_	_
+13	Washington	Washington	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	12	cj	_	_
+14	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = die in ihrer Wirkung einem geballten Raketenangriff durchaus vergleichbar sind .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	sb	_	_
+2	in	in	ADP	_		10	mo	_	_
+3	ihrer	ihr	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nk	_	_
+4	Wirkung	Wirkung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+5	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+6	geballten	geballt	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Raketenangriff	Raketenangriff	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	da	_	_
+8	durchaus	durchaus	ADV	_		10	mo	_	_
+9	vergleichbar	vergleichbar	ADV	_	Degree=Pos	10	pd	_	_
+10	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 5
+# text = Wenn sich hierzulande dennoch vielerorts Zweifel an Sinn und Richtigkeit der Militärschläge breitmachen ,
+1	Wenn	wenn	SCONJ	_		13	cp	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	13	oa	_	_
+3	hierzulande	hierzulande	ADV	_		13	mo	_	_
+4	dennoch	dennoch	ADV	_		13	mo	_	_
+5	vielerorts	vielerorts	ADV	_		13	mo	_	_
+6	Zweifel	Zweifel	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	oa	_	_
+7	an	an	ADP	_		6	op	_	_
+8	Sinn	Sinn	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Richtigkeit	Richtigkeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	cj	_	_
+11	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	nk	_	_
+12	Militärschläge	Militärschlag	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	ag	_	_
+13	breitmachen	breitmachen	VERB	_	VerbForm=Inf	13	ROOT	_	_
+14	,	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 6
+# text = liegt das nicht zuletzt daran , dass Freiheit und Toleranz zu den tief verwurzelten Grundwerten unserer Gesellschaft gehören :
+1	liegt	liegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	sb	_	_
+3	nicht	nicht	PART	_		4	ng	_	_
+4	zuletzt	zuletzt	ADV	_		1	mo	_	_
+5	daran	daran	ADV	_		1	mo	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	dass	dass	SCONJ	_		18	cp	_	_
+8	Freiheit	Freiheit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	sb	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Toleranz	Toleranz	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	cj	_	_
+11	zu	zu	ADP	_		18	op	_	_
+12	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	nk	_	_
+13	tief	tief	ADV	_	Degree=Pos	14	mo	_	_
+14	verwurzelten	verwurzelt	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	15	nk	_	_
+15	Grundwerten	Grundwert	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	11	nk	_	_
+16	unserer	unser	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	nk	_	_
+17	Gesellschaft	Gesellschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	ag	_	_
+18	gehören	gehören	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	re	_	_
+19	:	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 7
+# text = Wir sind es gewohnt , dass durch friedliche Verhandlungen und Kompromiss-Suche Konflikte aus der Welt zu räumen sind .
+1	Wir	wir	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	sb	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	gewohnt	wohnen	VERB	_	VerbForm=Part	2	pd	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	dass	dass	SCONJ	_		18	cp	_	_
+7	durch	durch	ADP	_		17	mo	_	_
+8	friedliche	friedlich	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+9	Verhandlungen	Verhandlung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	nk	_	_
+10	und	und	CCONJ	_		9	cd	_	_
+11	Kompromiss-Suche	Kompromiss-Such	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	10	cj	_	_
+12	Konflikte	Konflikt	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	18	sb	_	_
+13	aus	aus	ADP	_		12	mnr	_	_
+14	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+15	Welt	Welt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	nk	_	_
+16	zu	zu	PART	_		17	pm	_	_
+17	räumen	räumen	VERB	_	VerbForm=Inf	18	oc	_	_
+18	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+19	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Gewaltverzicht und Deeskalation sind uns so sehr in Fleisch und Blut übergegangen ,
+1	Gewaltverzicht	Gewaltverzicht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+2	und	und	CCONJ	_		1	cd	_	_
+3	Deeskalation	Deeskalation	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	cj	_	_
+4	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	uns	uns	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	da	_	_
+6	so	so	ADV	_		7	mo	_	_
+7	sehr	sehr	ADV	_		12	mo	_	_
+8	in	in	ADP	_		12	mo	_	_
+9	Fleisch	Fleisch	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+10	und	und	CCONJ	_		9	cd	_	_
+11	Blut	Blut	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	cj	_	_
+12	übergegangen	übergehen	VERB	_	VerbForm=Part	4	oc	_	_
+13	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = dass wir uns schwer damit abfinden können , dass diese Prinzipien in einem einzigen Fall versagen :
+1	dass	dass	SCONJ	_		7	cp	_	_
+2	wir	wir	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	sb	_	_
+3	uns	sich	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	6	oa	_	_
+4	schwer	schwer	ADV	_	Degree=Pos	6	mo	_	_
+5	damit	damit	ADV	_		6	op	_	_
+6	abfinden	abfinden	VERB	_	VerbForm=Inf	7	oc	_	_
+7	können	können	AUX	_	VerbForm=Inf	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	dass	dass	SCONJ	_		16	cp	_	_
+10	diese	dieser	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	11	nk	_	_
+11	Prinzipien	Prinzip	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	16	sb	_	_
+12	in	in	ADP	_		16	mo	_	_
+13	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+14	einzigen	einzig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+15	Fall	Fall	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+16	versagen	versagen	VERB	_	VerbForm=Inf	4	re	_	_
+17	:	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 10
+# text = Fanatismus darf und kann man nicht mit Liberalität begegnen .
+1	Fanatismus	Fanatismus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+2	darf	dürfen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	und	und	CCONJ	_		2	cd	_	_
+4	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cj	_	_
+5	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	4	sb	_	_
+6	nicht	nicht	PART	_		4	ng	_	_
+7	mit	mit	ADP	_		9	mo	_	_
+8	Liberalität	Liberalität	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+9	begegnen	begegnen	VERB	_	VerbForm=Inf	4	oc	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Mit einem Selbstmord-Attentäter kann man keinen Kompromiss schließen .
+1	Mit	mit	ADP	_		4	mo	_	_
+2	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Selbstmord-Attentäter	Selbstmord-Attentäter	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+4	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	4	sb	_	_
+6	keinen	kein	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	7	nk	_	_
+7	Kompromiss	Kompromiss	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	oa	_	_
+8	schließen	schließen	VERB	_	VerbForm=Inf	4	oc	_	_
+9	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 12
+# text = Auch das Suchen nach möglichen Motiven der Täter hilft da nicht weiter .
+1	Auch	auch	ADV	_		3	mo	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Suchen	suchen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	sb	_	_
+4	nach	nach	ADP	_		3	op	_	_
+5	möglichen	möglich	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	6	nk	_	_
+6	Motiven	Motiv	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	4	nk	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Täter	Täter	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	ag	_	_
+9	hilft	helfen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	da	da	ADV	_		9	mo	_	_
+11	nicht	nicht	PART	_		9	ng	_	_
+12	weiter	weiter	ADV	_		9	svp	_	_
+13	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 13
+# text = Sie beklagen den andauernden Konflikt zwischen Israelis und Palästinensern ,
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	beklagen	beklagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	andauernden	andauernd	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Konflikt	Konflikt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+6	zwischen	zwischen	ADP	_		5	mnr	_	_
+7	Israelis	Israeli	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	Palästinensern	Palästinenser	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	cj	_	_
+10	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = dabei engagiert sich der Westen seit Jahren mit viel Geld und Krisendiplomatie für ein Ende der Gewalt .
+1	dabei	dabei	ADV	_		2	mo	_	_
+2	engagiert	engagieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+4	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Westen	Westen	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+6	seit	seit	ADP	_		2	mo	_	_
+7	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	6	nk	_	_
+8	mit	mit	ADP	_		2	mo	_	_
+9	viel	viel	DET	_	PronType=Ind	10	nk	_	_
+10	Geld	Geld	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+11	und	und	CCONJ	_		10	cd	_	_
+12	Krisendiplomatie	Krisendiplomatie	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	cj	_	_
+13	für	für	ADP	_		2	mo	_	_
+14	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	nk	_	_
+15	Ende	Ende	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	nk	_	_
+16	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+17	Gewalt	Gewalt	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	ag	_	_
+18	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Sie beklagen die Armut der arabischen Welt ,
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	beklagen	beklagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Armut	Armut	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	oa	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	arabischen	arabisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Welt	Welt	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = dabei stehen die autokratischen und nicht selten korrupten Eliten dort meist selbst jedem Aufschwung im Weg .
+1	dabei	dabei	ADV	_		2	mo	_	_
+2	stehen	stehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	nk	_	_
+4	autokratischen	autokratisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	nicht	nicht	PART	_		7	ng	_	_
+7	selten	selten	ADV	_	Degree=Pos	8	mo	_	_
+8	korrupten	korrupt	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	5	cj	_	_
+9	Eliten	Elite	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	sb	_	_
+10	dort	dort	ADV	_		2	mo	_	_
+11	meist	meist	ADV	_		2	mo	_	_
+12	selbst	selbst	ADV	_		2	mo	_	_
+13	jedem	jeder	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	14	nk	_	_
+14	Aufschwung	Aufschwung	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	da	_	_
+15	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	2	mo	_	_
+16	Weg	Weg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	15	nk	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = Sie beklagen die Militärpräsenz der USA in Saudi-Arabien ,
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	beklagen	beklagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Militärpräsenz	Militärpräsenz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	oa	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	6	nk	_	_
+6	USA	USA	PROPN	_	Case=Gen|Number=Plur	4	ag	_	_
+7	in	in	ADP	_		4	mnr	_	_
+8	Saudi-Arabien	Saudi-Arabien	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 18
+# text = dann hätten sie die dortige Königsfamilie attackieren müssen .
+1	dann	dann	ADV	_		8	mo	_	_
+2	hätten	haben	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	dortige	dortig	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Königsfamilie	Königsfamilie	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	oa	_	_
+7	attackieren	attackieren	VERB	_	VerbForm=Inf	8	oc	_	_
+8	müssen	müssen	AUX	_	VerbForm=Inf	2	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 19
+# text = Sie geißeln den westlichen " Kulturimperialismus "
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	geißeln	geißeln	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+4	westlichen	westlich	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+5	"	--	PUNCT	_		6	punct	_	_
+6	Kulturimperialismus	Kulturimperialismus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+7	"	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 20
+# text = und verkennen , dass sie sich entscheiden müssen zwischen wirtschaftlichem Austausch und damit einhergehendem Wohlstand auf der einen und fundamentalistischer Abschottung auf der anderen Seite .
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	verkennen	verkennen	VERB	_	VerbForm=Inf	1	cj	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dass	dass	SCONJ	_		8	cp	_	_
+5	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	sb	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	7	oa	_	_
+7	entscheiden	entscheiden	VERB	_	VerbForm=Inf	8	oc	_	_
+8	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+9	zwischen	zwischen	ADP	_		8	mo	_	_
+10	wirtschaftlichem	wirtschaftlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Austausch	Austausch	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nk	_	_
+12	und	und	CCONJ	_		11	cd	_	_
+13	damit	damit	ADV	_		15	mo	_	_
+14	einhergehendem	einhergehend	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+15	Wohlstand	Wohlstand	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	cj	_	_
+16	auf	auf	ADP	_		15	mnr	_	_
+17	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	nk	_	_
+18	einen	ein	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	21	nk	_	_
+19	und	und	CCONJ	_		18	cd	_	_
+20	fundamentalistischer	fundamentalistisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	19	cj	_	_
+21	Abschottung	Abschottung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	16	nk	_	_
+22	auf	auf	ADP	_		21	mnr	_	_
+23	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	nk	_	_
+24	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	25	nk	_	_
+25	Seite	Seite	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	22	nk	_	_
+26	.	--	PUNCT	_		26	ROOT	_	_
+
+# sent_id = 21
+# text = Sie klagen den Westen an wegen der Sanktionsopfer im Irak
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	klagen	klagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Westen	Westen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+5	an	an	ADP	_		2	svp	_	_
+6	wegen	wegen	ADP	_		2	mo	_	_
+7	der	der	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Sanktionsopfer	Sanktionsopfer	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nk	_	_
+9	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	8	mnr	_	_
+10	Irak	Irak	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	nk	_	_
+
+# sent_id = 22
+# text = und unterschlagen die aggressive Aufrüstung Saddam Husseins .
+1	und	und	CCONJ	_		2	ju	_	_
+2	unterschlagen	unterschlagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	aggressive	aggressiv	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Aufrüstung	Aufrüstung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+6	Saddam	Saddam	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	pnc	_	_
+7	Husseins	Hussein	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	ag	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 23
+# text = Diesen Krieg hat im Westen niemand gewollt .
+1	Diesen	dieser	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	nk	_	_
+2	Krieg	Krieg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	oa	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mo	_	_
+5	Westen	Westen	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	niemand	niemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	sb	_	_
+7	gewollt	wollen	VERB	_	VerbForm=Part	3	oc	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 24
+# text = Deshalb aber dem Terror das Heft des Handelns zu überlassen , wäre auch keine Lösung .
+1	Deshalb	deshalb	ADV	_		10	mo	_	_
+2	aber	aber	ADV	_		10	mo	_	_
+3	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Terror	Terror	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	da	_	_
+5	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Heft	Heft	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	oa	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+8	Handelns	handeln	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	ag	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	überlassen	überlassen	VERB	_	VerbForm=Inf	12	mo	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	ROOT	_	_
+13	auch	auch	ADV	_		12	mo	_	_
+14	keine	kein	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	15	nk	_	_
+15	Lösung	Lösung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	sb	_	_
+16	.	--	PUNCT	_		12	punct	_	_
+

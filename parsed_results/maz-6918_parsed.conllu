@@ -1,0 +1,211 @@
+# sent_id = 1
+# text = Natürliche Rückeroberung
+1	Natürliche	natürlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nk	_	_
+2	Rückeroberung	Rückeroberung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Der Naturpark , der zwischen Jüterbog , Luckenwalde und Treuenbrietzen entsteht , ist außerhalb der Region noch viel zu wenig bekannt .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Naturpark	Naturpark	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	sb	_	_
+5	zwischen	zwischen	ADP	_		11	mo	_	_
+6	Jüterbog	Jüterbog	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	Luckenwalde	Luckenwalde	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	6	cj	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Treuenbrietzen	Treuenbrietz	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	cj	_	_
+11	entsteht	entstehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+12	,	--	PUNCT	_		13	punct	_	_
+13	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ROOT	_	_
+14	außerhalb	außerhalb	ADP	_		13	mo	_	_
+15	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	Region	Region	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	nk	_	_
+17	noch	noch	ADV	_		20	mo	_	_
+18	viel	viel	ADV	_		20	mo	_	_
+19	zu	zu	PART	_		20	mo	_	_
+20	wenig	wenig	PRON	_	PronType=Ind	13	sb	_	_
+21	bekannt	bekannt	ADV	_	Degree=Pos	13	pd	_	_
+22	.	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 3
+# text = Deshalb ist es zu begrüßen , dass Manfred Stolpe dem weiträumigen Areal vorgestern einen Besuch abstattete .
+1	Deshalb	deshalb	ADV	_		5	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	zu	zu	PART	_		5	pm	_	_
+5	begrüßen	begrüßen	VERB	_	VerbForm=Inf	2	oc	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	dass	dass	SCONJ	_		16	cp	_	_
+8	Manfred	Manfred	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	pnc	_	_
+9	Stolpe	Stolpe	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	sb	_	_
+10	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	nk	_	_
+11	weiträumigen	weiträumig	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	12	nk	_	_
+12	Areal	Areal	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	16	da	_	_
+13	vorgestern	vorgestern	ADV	_		16	mo	_	_
+14	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+15	Besuch	Besuch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	oa	_	_
+16	abstattete	abstatten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	re	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Ein beabsichtigter Effekt solcher Dienstreisen des Ministerpräsidenten in die Provinz ist es , möglichst viel öffentliche Aufmerksamkeit auf bestimmte Vorhaben zu lenken .
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	beabsichtigter	beabsichtigt	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	Effekt	Effekt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	pd	_	_
+4	solcher	solcher	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	5	nk	_	_
+5	Dienstreisen	Dienstreise	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	ag	_	_
+6	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Ministerpräsidenten	Ministerpräsident	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	ag	_	_
+8	in	in	ADP	_		3	mnr	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Provinz	Provinz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nk	_	_
+11	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	sb	_	_
+13	,	--	PUNCT	_		12	punct	_	_
+14	möglichst	möglichst	ADV	_		15	mo	_	_
+15	viel	viel	DET	_	PronType=Ind	17	nk	_	_
+16	öffentliche	öffentlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+17	Aufmerksamkeit	Aufmerksamkeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	oa	_	_
+18	auf	auf	ADP	_		22	mo	_	_
+19	bestimmte	bestimmt	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	20	nk	_	_
+20	Vorhaben	Vorhaben	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	18	nk	_	_
+21	zu	zu	PART	_		22	pm	_	_
+22	lenken	lenken	VERB	_	VerbForm=Inf	12	re	_	_
+23	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 5
+# text = Um den etwa 7000 Hektar großen Naturpark soll ein Rundweg angelegt werden .
+1	Um	um	SCONJ	_		12	mo	_	_
+2	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+3	etwa	etwa	ADV	_		4	mo	_	_
+4	7000	7000	NUM	_		5	nk	_	_
+5	Hektar	Hektar	NOUN	_	Gender=Masc	6	ams	_	_
+6	großen	groß	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Naturpark	Naturpark	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	da	_	_
+8	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Rundweg	Rundweg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	sb	_	_
+11	angelegt	anlegen	VERB	_	VerbForm=Part	12	oc	_	_
+12	werden	werden	AUX	_	VerbForm=Inf	8	oc	_	_
+13	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 6
+# text = Das wäre ein bedeutender Schritt zum erklärten Ziel , den ehemaligen Truppenübungsplatz touristisch zu erschließen .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	bedeutender	bedeutend	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Schritt	Schritt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	pd	_	_
+6	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	5	mnr	_	_
+7	erklärten	erklärt	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Ziel	Ziel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+11	ehemaligen	ehemalig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	nk	_	_
+12	Truppenübungsplatz	Truppenübungsplatz	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	oa	_	_
+13	touristisch	touristisch	ADV	_	Degree=Pos	15	mo	_	_
+14	zu	zu	PART	_		15	pm	_	_
+15	erschließen	erschließen	VERB	_	VerbForm=Inf	8	oc	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Die Wanderdüne bei Forst Zinna ist schon jetzt ein bei Auswärtigen und Einheimischen gleichermaßen beliebtes Ausflugsziel .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Wanderdüne	Wanderdüne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+3	bei	bei	ADP	_		2	mnr	_	_
+4	Forst	Forst	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	pnc	_	_
+5	Zinna	Zinna	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	schon	schon	ADV	_		8	mo	_	_
+8	jetzt	jetzt	ADV	_		6	mo	_	_
+9	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	16	nk	_	_
+10	bei	bei	ADP	_		15	mo	_	_
+11	Auswärtigen	auswärtig	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	nk	_	_
+12	und	und	CCONJ	_		11	cd	_	_
+13	Einheimischen	einheimische	NOUN	_	Case=Dat|Number=Plur	12	cj	_	_
+14	gleichermaßen	gleichermaßen	ADV	_		15	mo	_	_
+15	beliebtes	beliebt	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	nk	_	_
+16	Ausflugsziel	Ausflugsziel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	pd	_	_
+17	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 8
+# text = Diese Art der Konversion - die Natur erobert frühere Militärflächen zurück - ist vergleichsweise billig .
+1	Diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	nk	_	_
+2	Art	Art	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	sb	_	_
+3	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Konversion	Konversion	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	ag	_	_
+5	-	--	PUNCT	_		2	punct	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Natur	Natur	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+8	erobert	erobern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	par	_	_
+9	frühere	früh	ADJ	_	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	10	nk	_	_
+10	Militärflächen	Militärflächen	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	oa	_	_
+11	zurück	zurück	ADV	_		8	svp	_	_
+12	-	--	PUNCT	_		13	punct	_	_
+13	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ROOT	_	_
+14	vergleichsweise	vergleichsweise	ADV	_		15	mo	_	_
+15	billig	billig	ADV	_	Degree=Pos	13	pd	_	_
+16	.	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 9
+# text = Die Abschnitte , auf denen möglicherweise weiterhin gefährliche Munition lagert , bleiben allerdings Sperrgebiet .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Abschnitte	Abschnitt	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	auf	auf	ADP	_		10	mo	_	_
+5	denen	der	PRON	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Rel	4	nk	_	_
+6	möglicherweise	möglicherweise	ADV	_		10	mo	_	_
+7	weiterhin	weiterhin	ADV	_		10	mo	_	_
+8	gefährliche	gefährlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Munition	Munition	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	sb	_	_
+10	lagert	lagern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	bleiben	bleiben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	allerdings	allerdings	ADV	_		12	mo	_	_
+14	Sperrgebiet	Sperrgebiet	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	12	sb	_	_
+15	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 10
+# text = Ob bei der touristischen Erschließung der Konversionsflächen auf lange Sicht neue Arbeitsplätze entstehen , hängt vor allem davon ab , wie viele Neugierige kommen werden .
+1	Ob	ob	SCONJ	_		13	cp	_	_
+2	bei	bei	ADP	_		13	mo	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	touristischen	touristisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Erschließung	Erschließung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	nk	_	_
+7	Konversionsflächen	Konversionsfläche	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	ag	_	_
+8	auf	auf	ADP	_		13	mo	_	_
+9	lange	lang	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Sicht	Sicht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nk	_	_
+11	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	nk	_	_
+12	Arbeitsplätze	Arbeitsplatz	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	sb	_	_
+13	entstehen	entstehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	mo	_	_
+14	,	--	PUNCT	_		15	punct	_	_
+15	hängt	hängen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ROOT	_	_
+16	vor	vor	ADP	_		18	mo	_	_
+17	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	16	nk	_	_
+18	davon	davon	ADV	_		15	op	_	_
+19	ab	ab	ADP	_		15	svp	_	_
+20	,	--	PUNCT	_		15	punct	_	_
+21	wie	wie	SCONJ	_	PronType=Int	24	mo	_	_
+22	viele	vieler	DET	_	Case=Nom|Number=Plur|PronType=Ind	23	nk	_	_
+23	Neugierige	neugierige	NOUN	_	Case=Nom|Number=Plur	25	sb	_	_
+24	kommen	kommen	VERB	_	VerbForm=Inf	25	oc	_	_
+25	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	re	_	_
+26	.	--	PUNCT	_		15	punct	_	_
+
+# sent_id = 11
+# text = Wie gesagt :
+1	Wie	wie	SCONJ	_	PronType=Int	2	mo	_	_
+2	gesagt	sagen	VERB	_	VerbForm=Part	2	ROOT	_	_
+3	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Stolpe war schon da .
+1	Stolpe	Stolpe	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+2	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	schon	schon	ADV	_		2	mo	_	_
+4	da	da	ADV	_		2	mo	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+

@@ -1,0 +1,186 @@
+# sent_id = 1
+# text = Ernstfall
+1	Ernstfall	Ernstfall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Der rot-grünen Koalition steht eine Zerreißprobe bevor :
+1	Der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	rot-grünen	rot-grün	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Koalition	Koalition	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	da	_	_
+4	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Zerreißprobe	Zerreißprobe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+7	bevor	bevor	ADV	_		4	svp	_	_
+8	:	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 3
+# text = Rund 15 grüne Bundestagsabgeordnete haben erhebliche Zweifel , ob sie der Bereitstellung von Bundeswehrsoldaten für den Anti-Terror-Kampf zustimmen können .
+1	Rund	rund	ADV	_	Degree=Pos	2	mo	_	_
+2	15	15	NUM	_		4	nk	_	_
+3	grüne	grün	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	nk	_	_
+4	Bundestagsabgeordnete	Bundestagsabgeordneter	NOUN	_	Case=Nom|Number=Plur	5	sb	_	_
+5	haben	haben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	erhebliche	erheblich	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	nk	_	_
+7	Zweifel	Zweifel	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	oa	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	ob	ob	SCONJ	_		19	cp	_	_
+10	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	sb	_	_
+11	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Bereitstellung	Bereitstellung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	da	_	_
+13	von	von	ADP	_		12	pg	_	_
+14	Bundeswehrsoldaten	Bundeswehrsoldat	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	nk	_	_
+15	für	für	ADP	_		18	mo	_	_
+16	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	Anti-Terror-Kampf	Anti-Terror-Kampf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	nk	_	_
+18	zustimmen	zustimmen	VERB	_	VerbForm=Inf	19	oc	_	_
+19	können	können	AUX	_	VerbForm=Inf	7	oc	_	_
+20	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 4
+# text = Da es auch in der SPD Abweichler gibt ,
+1	Da	da	SCONJ	_		8	cp	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	ep	_	_
+3	auch	auch	ADV	_		4	mo	_	_
+4	in	in	ADP	_		8	mo	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	SPD	SPD	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	Abweichler	Abweichler	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	oa	_	_
+8	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 5
+# text = ist die eigene Mehrheit der Koalition gefährdet .
+1	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	eigene	eigen	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Mehrheit	Mehrheit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Koalition	Koalition	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+7	gefährdet	gefährden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	pd	_	_
+8	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Es ist offensichtlich , dass dieser Bundeswehr-Einsatz bei vielen Grünen an die Wurzeln ihrer Identität rührt .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	offensichtlich	offensichtlich	ADV	_	Degree=Pos	2	pd	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	dass	dass	SCONJ	_		16	cp	_	_
+6	dieser	dieser	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	nk	_	_
+7	Bundeswehr-Einsatz	Bundeswehr-Einsatz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	sb	_	_
+8	bei	bei	ADP	_		16	mo	_	_
+9	vielen	vieler	DET	_	Case=Dat|Number=Plur|PronType=Ind	10	nk	_	_
+10	Grünen	grüne	NOUN	_	Case=Dat|Number=Plur	8	nk	_	_
+11	an	an	ADP	_		16	op	_	_
+12	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	nk	_	_
+13	Wurzeln	Wurzel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	11	nk	_	_
+14	ihrer	ihr	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	nk	_	_
+15	Identität	Identität	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	13	ag	_	_
+16	rührt	rühren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	re	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Konnte der Kosovo-Krieg noch mit dem Kampf für die Menschenrechte in Europa begründete werden ,
+1	Konnte	Können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Kosovo-Krieg	Kosovo-Krieg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+4	noch	noch	ADV	_		1	mo	_	_
+5	mit	mit	ADP	_		13	mo	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Kampf	Kampf	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	für	für	ADP	_		7	mnr	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	nk	_	_
+10	Menschenrechte	Menschenrecht	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	nk	_	_
+11	in	in	ADP	_		10	mnr	_	_
+12	Europa	Europa	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+13	begründete	begründen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	oc	_	_
+14	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+15	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 8
+# text = geht es nun um die militärische Solidarität mit den USA in einem weit entfernten Dritte-Welt-Land .
+1	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	ep	_	_
+3	nun	nun	ADV	_		1	mo	_	_
+4	um	um	ADP	_		1	op	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	militärische	militärisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Solidarität	Solidarität	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+8	mit	mit	ADP	_		7	mnr	_	_
+9	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	10	nk	_	_
+10	USA	USA	PROPN	_	Case=Dat|Number=Plur	8	nk	_	_
+11	in	in	ADP	_		1	mo	_	_
+12	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	nk	_	_
+13	weit	weit	ADV	_	Degree=Pos	14	mo	_	_
+14	entfernten	entfernt	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	nk	_	_
+15	Dritte-Welt-Land	Dritte-Welt-Land	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+16	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = Doch die Kritiker wissen auch , dass sie weder den Krieg in Afghanistan stoppen
+1	Doch	doch	CCONJ	_		4	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+3	Kritiker	Kritiker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+4	wissen	wissen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	auch	auch	ADV	_		4	mo	_	_
+6	,	--	PUNCT	_		4	punct	_	_
+7	dass	dass	SCONJ	_		14	cp	_	_
+8	sie	sie	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	sb	_	_
+9	weder	weder	CCONJ	_		11	cd	_	_
+10	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Krieg	Krieg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	oa	_	_
+12	in	in	ADP	_		11	mnr	_	_
+13	Afghanistan	Afghanistan	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	12	nk	_	_
+14	stoppen	stoppen	VERB	_	VerbForm=Inf	4	oc	_	_
+
+# sent_id = 10
+# text = noch eine deutsche Beteiligung daran verhindern können .
+1	noch	noch	ADV	_		4	mo	_	_
+2	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	deutsche	deutsch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Beteiligung	Beteiligung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	sb	_	_
+5	daran	daran	ADV	_		6	mo	_	_
+6	verhindern	verhindern	VERB	_	VerbForm=Inf	7	oc	_	_
+7	können	können	AUX	_	VerbForm=Inf	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 11
+# text = Sie können aber die rot-grüne Regierung in eine schwere Krise treiben .
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	aber	aber	ADV	_		2	mo	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	rot-grüne	rot-grün	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Regierung	Regierung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	oa	_	_
+7	in	in	ADP	_		11	mo	_	_
+8	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+9	schwere	schwer	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Krise	Krise	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nk	_	_
+11	treiben	treiben	VERB	_	VerbForm=Inf	2	oc	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Ein Kanzler , den in einer solch existenziellen Frage die eigene Koalition im Stich lässt , muss sich neue Partner suchen .
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Kanzler	Kanzler	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	den	der	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	15	sb	_	_
+5	in	in	ADP	_		15	mo	_	_
+6	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+7	solch	solch	DET	_	PronType=Ind	8	mo	_	_
+8	existenziellen	existenziell	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Frage	Frage	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+10	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+11	eigene	eigen	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Koalition	Koalition	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	oa	_	_
+13	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	mo	_	_
+14	Stich	Stich	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	nk	_	_
+15	lässt	lässt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	rc	_	_
+16	,	--	PUNCT	_		17	punct	_	_
+17	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ROOT	_	_
+18	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	21	oa	_	_
+19	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	20	nk	_	_
+20	Partner	Partner	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	sb	_	_
+21	suchen	suchen	VERB	_	VerbForm=Inf	17	oc	_	_
+22	.	--	PUNCT	_		17	punct	_	_
+

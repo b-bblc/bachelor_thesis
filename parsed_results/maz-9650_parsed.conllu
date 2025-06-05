@@ -1,0 +1,187 @@
+# sent_id = 1
+# text = Wichtige Botschaft
+1	Wichtige	wichtig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nk	_	_
+2	Botschaft	Botschaft	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Lange hat sich die Europäische Zentralbank gesträubt .
+1	Lange	lange	PROPN	_	Case=Nom|Number=Sing	7	mo	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	oa	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	Europäische	europäisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Zentralbank	Zentralbank	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+7	gesträubt	sträuben	VERB	_	VerbForm=Part	2	oc	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Doch gestern hat sie auf die schwache Konjunktur mit einer kräftigen Leitzinssenkung um 0,5 Prozentpunkte auf 3,25 Prozent reagiert .
+1	Doch	doch	CCONJ	_		3	ju	_	_
+2	gestern	gestern	ADV	_		19	mo	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+5	auf	auf	ADP	_		19	op	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+7	schwache	schwach	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Konjunktur	Konjunktur	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	nk	_	_
+9	mit	mit	ADP	_		8	mnr	_	_
+10	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+11	kräftigen	kräftig	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Leitzinssenkung	Leitzinssenkung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+13	um	um	ADP	_		19	mo	_	_
+14	0,5	0,5	NUM	_		15	nk	_	_
+15	Prozentpunkte	Prozentpunkt	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	nk	_	_
+16	auf	auf	ADP	_		19	mo	_	_
+17	3,25	3,25	NUM	_		18	nk	_	_
+18	Prozent	Prozent	NOUN	_	Gender=Neut	16	nk	_	_
+19	reagiert	reagieren	VERB	_	VerbForm=Part	3	oc	_	_
+20	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Auch wenn sich EZB-Chef Wim Duisenberg weiter weigert , das böse R-Wort " Rezession " in den Mund zu nehmen -
+1	Auch	auch	ADV	_		8	mo	_	_
+2	wenn	wenn	SCONJ	_		8	cp	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+4	EZB-Chef	EZB-Chef	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	sb	_	_
+5	Wim	Wim	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	pnc	_	_
+6	Duisenberg	Duisenberg	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nk	_	_
+7	weiter	weiter	ADV	_		8	mo	_	_
+8	weigert	weigern	VERB	_	VerbForm=Part	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	nk	_	_
+11	böse	böse	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	nk	_	_
+12	R-Wort	R-Wort	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	oa	_	_
+13	"	--	PUNCT	_		14	punct	_	_
+14	Rezession	Rezession	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	oa	_	_
+15	"	--	PUNCT	_		14	punct	_	_
+16	in	in	ADP	_		20	mo	_	_
+17	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	nk	_	_
+18	Mund	Mund	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	nk	_	_
+19	zu	zu	PART	_		20	pm	_	_
+20	nehmen	nehmen	VERB	_	VerbForm=Inf	8	oc	_	_
+21	-	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 5
+# text = dass die Weltwirtschaft in eine schwere Krise rutscht , bestreitet niemand mehr .
+1	dass	dass	SCONJ	_		8	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Weltwirtschaft	Weltwirtschaft	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+4	in	in	ADP	_		8	mo	_	_
+5	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	schwere	schwer	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Krise	Krise	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+8	rutscht	rutschen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	oc	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	bestreitet	bestreiten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	niemand	niemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	sb	_	_
+12	mehr	mehr	ADV	_		10	mo	_	_
+13	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 6
+# text = Fraglich ist aber , ob niedrige Zinsen und damit billigeres Geld für mehr Investitionen und Konsum und so für den erhofften raschen Aufschwung sorgen .
+1	Fraglich	fraglich	ADV	_	Degree=Pos	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	aber	aber	ADV	_		2	mo	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	ob	ob	SCONJ	_		24	cp	_	_
+6	niedrige	niedrig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	nk	_	_
+7	Zinsen	Zins	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	sb	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	damit	damit	ADV	_		11	mo	_	_
+10	billigeres	billig	ADJ	_	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	11	nk	_	_
+11	Geld	Geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	cj	_	_
+12	für	für	ADP	_		11	mnr	_	_
+13	mehr	mehr	DET	_	PronType=Ind	14	nk	_	_
+14	Investitionen	Investition	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	12	nk	_	_
+15	und	und	CCONJ	_		14	cd	_	_
+16	Konsum	Konsum	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	cj	_	_
+17	und	und	CCONJ	_		7	cd	_	_
+18	so	so	ADV	_		19	mo	_	_
+19	für	für	ADP	_		17	cj	_	_
+20	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	nk	_	_
+21	erhofften	erhofft	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	nk	_	_
+22	raschen	rasch	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	nk	_	_
+23	Aufschwung	Aufschwung	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	nk	_	_
+24	sorgen	sorgen	VERB	_	VerbForm=Inf	2	sb	_	_
+25	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = Die Verunsicherung von Verbrauchern und Unternehmern ist seit dem 11. September weniger ökonomisch als psychologisch begründet .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Verunsicherung	Verunsicherung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+3	von	von	ADP	_		2	pg	_	_
+4	Verbrauchern	Verbraucher	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	3	nk	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	Unternehmern	Unternehmer	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	cj	_	_
+7	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	seit	seit	ADP	_		16	mo	_	_
+9	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+10	11.	11.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	September	September	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+12	weniger	weniger	ADV	_		13	mo	_	_
+13	ökonomisch	ökonomisch	ADV	_	Degree=Pos	16	mo	_	_
+14	als	als	ADP	_		16	mo	_	_
+15	psychologisch	psychologisch	ADV	_	Degree=Pos	14	nk	_	_
+16	begründet	begründen	VERB	_	VerbForm=Part	7	pd	_	_
+17	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = Außerdem wirkt Geldpolitik erfahrungsgemäß erst nach einem Jahr .
+1	Außerdem	außerdem	ADV	_		2	mo	_	_
+2	wirkt	wirken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Geldpolitik	Geldpolitik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+4	erfahrungsgemäß	erfahrungsgemäß	ADV	_	Degree=Pos	2	mo	_	_
+5	erst	erst	ADV	_		6	mo	_	_
+6	nach	nach	ADP	_		2	mo	_	_
+7	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+8	Jahr	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = Die wichtigste Botschaft der Zinsentscheidung ist deshalb eine andere :
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	wichtigste	wichtig	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	3	nk	_	_
+3	Botschaft	Botschaft	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	pd	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Zinsentscheidung	Zinsentscheidung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	deshalb	deshalb	ADV	_		6	mo	_	_
+8	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	andere	anderer	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	sb	_	_
+10	:	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 10
+# text = Die Währungshüter haben ihren Teil getan ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Währungshüter	Währungshüter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	ihren	ihr	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	nk	_	_
+5	Teil	Teil	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	oa	_	_
+6	getan	tun	VERB	_	VerbForm=Part	3	oc	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = jetzt können die Politiker nicht mehr die Verantwortung abschieben ,
+1	jetzt	jetzt	ADV	_		2	mo	_	_
+2	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Politiker	Politiker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	nicht	nicht	PART	_		2	ng	_	_
+6	mehr	mehr	ADV	_		5	mo	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Verantwortung	Verantwortung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	oa	_	_
+9	abschieben	abschieben	VERB	_	VerbForm=Inf	2	oc	_	_
+10	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = sondern müssen selbst mit ihren Mitteln aktiv werden .
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cj	_	_
+3	selbst	selbst	ADV	_		2	mo	_	_
+4	mit	mit	ADP	_		8	mo	_	_
+5	ihren	ihr	DET	_	Case=Dat|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Mitteln	Mittel	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	4	nk	_	_
+7	aktiv	aktiv	ADV	_	Degree=Pos	8	pd	_	_
+8	werden	werden	AUX	_	VerbForm=Inf	2	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+

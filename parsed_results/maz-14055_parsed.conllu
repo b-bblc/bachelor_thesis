@@ -1,0 +1,223 @@
+# sent_id = 1
+# text = Zwei Wahrheiten
+1	Zwei	zwei	NUM	_		2	nk	_	_
+2	Wahrheiten	Wahrheit	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	ROOT	_	_
+
+# sent_id = 2
+# text = Man muss über keine großen Prognosequalitäten verfügen ,
+1	Man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+2	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	über	über	ADP	_		7	op	_	_
+4	keine	kein	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	6	nk	_	_
+5	großen	groß	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	nk	_	_
+6	Prognosequalitäten	Prognosequalitäte	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	nk	_	_
+7	verfügen	verfügen	VERB	_	VerbForm=Inf	2	oc	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = um heute schon vorauszusagen , wer den Wahlspot der CDU ausfüllen wird :
+1	um	um	ADP	_		4	cp	_	_
+2	heute	heute	ADV	_		1	nk	_	_
+3	schon	schon	ADV	_		4	mo	_	_
+4	vorauszusagen	vorauszusagen	VERB	_	VerbForm=Inf	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	12	sb	_	_
+7	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Wahlspot	Wahlspot	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	oa	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	CDU	CDU	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+11	ausfüllen	ausfüllen	VERB	_	VerbForm=Inf	12	oc	_	_
+12	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+13	:	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = Gerhard Schröders leichtsinniger Satz wird es sein , nach dem er sich " am Erfolg beim Abbau der Arbeitslosigkeit messen lassen " werde .
+1	Gerhard	Gerhard	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	pnc	_	_
+2	Schröders	Schröder	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	ag	_	_
+3	leichtsinniger	leichtsinnig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nk	_	_
+4	Satz	Satz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	da	_	_
+5	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	sb	_	_
+7	sein	sein	AUX	_	VerbForm=Inf	5	oc	_	_
+8	,	--	PUNCT	_		5	punct	_	_
+9	nach	nach	ADP	_		21	mo	_	_
+10	dem	der	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	9	nk	_	_
+11	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	sb	_	_
+12	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	oa	_	_
+13	"	--	PUNCT	_		21	punct	_	_
+14	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	21	mo	_	_
+15	Erfolg	Erfolg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	14	nk	_	_
+16	beim	bei	ADP	_	Case=Dat|Gender=Masc|Number=Sing	20	mo	_	_
+17	Abbau	Abbau	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	nk	_	_
+18	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	nk	_	_
+19	Arbeitslosigkeit	Arbeitslosigkeit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	ag	_	_
+20	messen	messen	VERB	_	VerbForm=Inf	21	oc	_	_
+21	lassen	lassen	VERB	_	VerbForm=Inf	23	oc	_	_
+22	"	--	PUNCT	_		21	punct	_	_
+23	werde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	rc	_	_
+24	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 5
+# text = Der hing ihm auch in der Debatte über den Bundeshaushalt wie eine Klette an .
+1	Der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	sb	_	_
+2	hing	hehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	ihm	ihm	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	da	_	_
+4	auch	auch	ADV	_		5	mo	_	_
+5	in	in	ADP	_		2	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Debatte	Debatte	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	über	über	ADP	_		7	mnr	_	_
+9	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Bundeshaushalt	Bundeshaushalt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nk	_	_
+11	wie	wie	ADP	_		13	cm	_	_
+12	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	Klette	Klette	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	mo	_	_
+14	an	an	ADP	_		2	svp	_	_
+15	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Gewiss können der Kanzler und seine Minister die Verunsicherung der Verbraucher seit dem 11. September anführen ,
+1	Gewiss	Gewiss	ADV	_		2	mo	_	_
+2	können	können	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Kanzler	Kanzler	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	seine	sein	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	nk	_	_
+7	Minister	Minister	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	cj	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Verunsicherung	Verunsicherung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	oa	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nk	_	_
+11	Verbraucher	Verbraucher	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	ag	_	_
+12	seit	seit	ADP	_		9	mnr	_	_
+13	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+14	11.	11.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	nk	_	_
+15	September	September	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+16	anführen	anführen	VERB	_	VerbForm=Inf	2	oc	_	_
+17	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = den verschärften Konjunktureinbruch ,
+1	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	verschärften	verschärft	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	Konjunktureinbruch	Konjunktureinbruch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 8
+# text = den noch vor einem Jahr kein Wirtschaftsinstitut so vorausgesehen hatte .
+1	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	oa	_	_
+2	noch	noch	ADV	_		3	mo	_	_
+3	vor	vor	ADP	_		9	mo	_	_
+4	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Jahr	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+6	kein	kein	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	nk	_	_
+7	Wirtschaftsinstitut	Wirtschaftsinstitut	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	sb	_	_
+8	so	so	ADV	_		9	mo	_	_
+9	vorausgesehen	voraussehen	VERB	_	VerbForm=Part	10	oc	_	_
+10	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 9
+# text = Doch ebenso zutreffend ist , dass der Regierung von Anfang an der Mut fehlte , den Arbeitsmarkt zu deregulieren .
+1	Doch	doch	CCONJ	_		4	ju	_	_
+2	ebenso	ebenso	ADV	_		3	mo	_	_
+3	zutreffend	zutreffend	ADV	_	Degree=Pos	4	pd	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	dass	dass	SCONJ	_		14	cp	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Regierung	Regierung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	sb	_	_
+9	von	von	ADP	_		14	mo	_	_
+10	Anfang	Anfang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nk	_	_
+11	an	an	ADP	_		9	ac	_	_
+12	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	Mut	Mut	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nk	_	_
+14	fehlte	fehlen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	sb	_	_
+15	,	--	PUNCT	_		14	punct	_	_
+16	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	Arbeitsmarkt	Arbeitsmarkt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	oa	_	_
+18	zu	zu	PART	_		19	pm	_	_
+19	deregulieren	deregulieren	VERB	_	VerbForm=Inf	7	oc	_	_
+20	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 10
+# text = Die Probe aufs Exempel steht noch immer aus .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Probe	Probe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+3	aufs	auf	ADP	_	Case=Acc|Gender=Neut|Number=Sing	2	mnr	_	_
+4	Exempel	Exempel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nk	_	_
+5	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	noch	noch	ADV	_		7	mo	_	_
+7	immer	immer	ADV	_		5	mo	_	_
+8	aus	aus	ADP	_		5	svp	_	_
+9	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 11
+# text = Die Regierung Schröder ist der Großindustrie und den Gewerkschaften entgegengekommen ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Regierung	Regierung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+3	Schröder	Schröder	PROPN	_	Case=Nom|Number=Sing	2	nk	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Großindustrie	Großindustrie	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	da	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	nk	_	_
+9	Gewerkschaften	Gewerkschaft	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	7	cj	_	_
+10	entgegengekommen	entgegengekommen	VERB	_	VerbForm=Inf	4	oc	_	_
+11	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 12
+# text = nicht dem Mittelstand .
+1	nicht	nicht	PART	_		3	ng	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Mittelstand	Mittelstand	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	ROOT	_	_
+4	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Statt dereguliert hat sie noch etwas mehr reglementiert .
+1	Statt	statt	SCONJ	_		2	cp	_	_
+2	dereguliert	deregulieren	VERB	_	VerbForm=Part	3	oc	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+5	noch	noch	ADV	_		7	mo	_	_
+6	etwas	etwas	DET	_	PronType=Ind	7	mo	_	_
+7	mehr	mehr	ADV	_		8	mo	_	_
+8	reglementiert	reglementieren	VERB	_	VerbForm=Part	3	oc	_	_
+9	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = Wer unter diesen Rahmenbedingungen erwartet haben sollte , dass kleine und mittlere Unternehmen sowie Handwerksbetriebe bei Einstellungen etwas riskieren ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	7	sb	_	_
+2	unter	unter	ADP	_		5	mo	_	_
+3	diesen	dieser	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	4	nk	_	_
+4	Rahmenbedingungen	Rahmenbedingung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	2	nk	_	_
+5	erwartet	erwarten	VERB	_	VerbForm=Part	6	oc	_	_
+6	haben	haben	AUX	_	VerbForm=Inf	7	oc	_	_
+7	sollte	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	dass	dass	SCONJ	_		19	cp	_	_
+10	kleine	klein	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	13	nk	_	_
+11	und	und	CCONJ	_		10	cd	_	_
+12	mittlere	mittlerer	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	11	cj	_	_
+13	Unternehmen	Unternehmen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	19	sb	_	_
+14	sowie	sowie	CCONJ	_		13	cd	_	_
+15	Handwerksbetriebe	Handwerksbetrieb	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	cj	_	_
+16	bei	bei	ADP	_		19	mo	_	_
+17	Einstellungen	Einstellung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	16	nk	_	_
+18	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	19	mo	_	_
+19	riskieren	riskieren	VERB	_	VerbForm=Inf	6	oc	_	_
+20	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 15
+# text = der muss die teilnehmende Beobachtung schon seit längerem eingestellt haben .
+1	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	sb	_	_
+2	muss	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	teilnehmende	teilnehmend	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Beobachtung	Beobachtung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+6	schon	schon	ADV	_		7	mo	_	_
+7	seit	seit	ADP	_		9	mo	_	_
+8	längerem	lang	ADJ	_	Case=Dat|Degree=Cmp|Number=Sing	7	nk	_	_
+9	eingestellt	einstellen	VERB	_	VerbForm=Part	10	oc	_	_
+10	haben	haben	AUX	_	VerbForm=Inf	2	oc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+

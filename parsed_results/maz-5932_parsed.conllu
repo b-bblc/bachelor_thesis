@@ -1,0 +1,223 @@
+# sent_id = 1
+# text = Das kleinere Übel
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+2	kleinere	klein	ADJ	_	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	3	nk	_	_
+3	Übel	Übel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	ROOT	_	_
+
+# sent_id = 2
+# text = Es hat lange gedauert , bis sich im Bereich des Amtes Dahme etwas bewegt hat .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	lange	lange	ADV	_		4	mo	_	_
+4	gedauert	dauern	VERB	_	VerbForm=Part	2	oc	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	bis	bis	SCONJ	_		15	cp	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	oa	_	_
+8	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	mo	_	_
+9	Bereich	Bereich	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Amtes	Amt	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	ag	_	_
+12	Dahme	Dahme	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	11	nk	_	_
+13	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	14	oa	_	_
+14	bewegt	bewegen	VERB	_	VerbForm=Part	15	oc	_	_
+15	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	mo	_	_
+16	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Die zahlreichen Appelle , die in der Landeshauptstadt Potsdam formuliert wurden , verhallten in der Provinz meist ohne Wirkung zu zeigen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+2	zahlreichen	zahlreich	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Appelle	Appell	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	sb	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	11	sb	_	_
+6	in	in	ADP	_		10	mo	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Landeshauptstadt	Landeshauptstadt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	Potsdam	Potsdam	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	8	nk	_	_
+10	formuliert	formulieren	VERB	_	VerbForm=Part	11	oc	_	_
+11	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	rc	_	_
+12	,	--	PUNCT	_		13	punct	_	_
+13	verhallten	verhallen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	ROOT	_	_
+14	in	in	ADP	_		13	mo	_	_
+15	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	Provinz	Provinz	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+17	meist	meist	ADV	_		13	mo	_	_
+18	ohne	ohne	ADP	_		21	mo	_	_
+19	Wirkung	Wirkung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	nk	_	_
+20	zu	zu	PART	_		21	pm	_	_
+21	zeigen	zeigen	VERB	_	VerbForm=Inf	13	oc	_	_
+22	.	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 4
+# text = Die lokalen Akteure legten bei der Bildung größerer Gemeinden wahrlich keine Eile an den Tag .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+2	lokalen	lokal	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Akteure	Akteur	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+4	legten	legen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	bei	bei	ADP	_		4	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Bildung	Bildung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	größerer	groß	ADJ	_	Case=Gen|Degree=Cmp|Gender=Fem|Number=Plur	9	nk	_	_
+9	Gemeinden	Gemeinde	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	7	ag	_	_
+10	wahrlich	wahrlich	ADV	_		4	mo	_	_
+11	keine	kein	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	12	nk	_	_
+12	Eile	Eile	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	oa	_	_
+13	an	an	ADP	_		4	mo	_	_
+14	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nk	_	_
+15	Tag	Tag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	nk	_	_
+16	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 5
+# text = Hauptgrund für dieses Zaudern :
+1	Hauptgrund	Hauptgrund	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	ROOT	_	_
+2	für	für	ADP	_		1	mnr	_	_
+3	dieses	dieser	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	nk	_	_
+4	Zaudern	Zaudern	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	nk	_	_
+5	:	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Die als hoch verschuldet geltende Stadt Dahme erschien den umliegenden Dörfern kein geeigneter Partner zu sein .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+2	als	als	ADP	_		5	mo	_	_
+3	hoch	hoch	ADV	_	Degree=Pos	2	nk	_	_
+4	verschuldet	verschuldet	ADV	_	Degree=Pos	5	mo	_	_
+5	geltende	geltend	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Stadt	Stadt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+7	Dahme	Dahme	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	nk	_	_
+8	erschien	erscheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	nk	_	_
+10	umliegenden	umliegend	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	11	nk	_	_
+11	Dörfern	Dorf	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	8	da	_	_
+12	kein	kein	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	nk	_	_
+13	geeigneter	geeignet	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	nk	_	_
+14	Partner	Partner	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	pd	_	_
+15	zu	zu	PART	_		16	pm	_	_
+16	sein	sein	AUX	_	VerbForm=Inf	8	oc	_	_
+17	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 7
+# text = Mittlerweile haben sich indes auch in der Dahmer Region neue politische Strukturen manifestiert .
+1	Mittlerweile	mittlerweile	ADV	_		13	mo	_	_
+2	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	13	oa	_	_
+4	indes	indes	ADV	_		13	mo	_	_
+5	auch	auch	ADV	_		6	mo	_	_
+6	in	in	ADP	_		13	mo	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+8	Dahmer	Dahmer	ADJ	_	Degree=Pos	9	nk	_	_
+9	Region	Region	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+10	neue	neu	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	12	nk	_	_
+11	politische	politisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	12	nk	_	_
+12	Strukturen	Struktur	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	sb	_	_
+13	manifestiert	manifestieren	VERB	_	VerbForm=Part	2	oc	_	_
+14	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Beschlossene Sache ist die Fusion von Ihlow , Illmersdorf , Rietdorf , Niendorf , Bollensdorf und Mehlsdorf zu Groß-Ihlow .
+1	Beschlossene	beschlossen	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nk	_	_
+2	Sache	Sache	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	pd	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Fusion	Fusion	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+6	von	von	ADP	_		5	pg	_	_
+7	Ihlow	Ihlow	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	Illmersdorf	Illmersdorf	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	7	cj	_	_
+10	,	--	PUNCT	_		7	punct	_	_
+11	Rietdorf	Rietdorf	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	9	cj	_	_
+12	,	--	PUNCT	_		7	punct	_	_
+13	Niendorf	Niendorf	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	9	cj	_	_
+14	,	--	PUNCT	_		7	punct	_	_
+15	Bollensdorf	Bollensdorf	PROPN	_	Case=Nom|Number=Sing	9	cj	_	_
+16	und	und	CCONJ	_		15	cd	_	_
+17	Mehlsdorf	Mehlsdorf	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	16	cj	_	_
+18	zu	zu	ADP	_		17	mnr	_	_
+19	Groß-Ihlow	Groß-Ihlow	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	18	nk	_	_
+20	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 9
+# text = Dieses neue Gebilde ist sowohl von den Bürgern als auch durch den Kreistag legitimiert .
+1	Dieses	dieser	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nk	_	_
+2	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nk	_	_
+3	Gebilde	Gebilde	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sowohl	sowohl	CCONJ	_		6	cd	_	_
+6	von	von	ADP	_		14	sbp	_	_
+7	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Bürgern	Bürger	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nk	_	_
+9	als	als	CCONJ	_		6	cd	_	_
+10	auch	auch	ADV	_		11	mo	_	_
+11	durch	durch	ADP	_		9	cj	_	_
+12	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+13	Kreistag	Kreistag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	nk	_	_
+14	legitimiert	legitimieren	VERB	_	VerbForm=Part	4	pd	_	_
+15	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 10
+# text = Was die anderen größeren Gemeinden betrifft ,
+1	Was	was	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	sb	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+3	anderen	anderer	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+4	größeren	groß	ADJ	_	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	5	nk	_	_
+5	Gemeinden	Gemeinde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	oa	_	_
+6	betrifft	betreffen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 11
+# text = so wird sich beim Urnengang am nächsten Sonntag erweisen , ob sie dem Willen der Einwohner entsprechen .
+1	so	so	ADV	_		9	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	oa	_	_
+4	beim	bei	ADP	_	Case=Dat|Gender=Masc|Number=Sing	9	mo	_	_
+5	Urnengang	Urnengang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	5	mnr	_	_
+7	nächsten	nächster	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Sonntag	Sonntag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+9	erweisen	erweisen	VERB	_	VerbForm=Inf	2	oc	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+11	ob	ob	SCONJ	_		17	cp	_	_
+12	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	sb	_	_
+13	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nk	_	_
+14	Willen	Wille	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	da	_	_
+15	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	nk	_	_
+16	Einwohner	Einwohner	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	14	ag	_	_
+17	entsprechen	entsprechen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	oc	_	_
+18	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Große Ämter und Gemeinden sind sicherlich nicht der Weisheit letzter Schluss .
+1	Große	groß	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	nk	_	_
+2	Ämter	Amt	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	sb	_	_
+3	und	und	CCONJ	_		2	cd	_	_
+4	Gemeinden	Gemeinde	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	cj	_	_
+5	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	sicherlich	sicherlich	ADV	_		5	mo	_	_
+7	nicht	nicht	PART	_		5	ng	_	_
+8	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Weisheit	Weisheit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	og	_	_
+10	letzter	letzter	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Schluss	Schluss	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	ag	_	_
+12	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 13
+# text = Im Vergleich zur bislang praktizierten Kleinstaaterei im ländlich geprägten Süden des Kreisgebietes sind sie jedoch das kleinere Übel .
+1	Im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	13	mo	_	_
+2	Vergleich	Vergleich	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	2	mnr	_	_
+4	bislang	bislang	ADV	_		5	mo	_	_
+5	praktizierten	praktiziert	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Kleinstaaterei	Kleinstaaterei	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+7	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	6	mnr	_	_
+8	ländlich	ländlich	ADV	_	Degree=Pos	9	mo	_	_
+9	geprägten	geprägt	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Süden	Süden	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+11	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Kreisgebietes	Kreisgebiet	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	ag	_	_
+13	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	ROOT	_	_
+14	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	sb	_	_
+15	jedoch	jedoch	ADV	_		13	mo	_	_
+16	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	nk	_	_
+17	kleinere	klein	ADJ	_	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	18	nk	_	_
+18	Übel	Übel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	pd	_	_
+19	.	--	PUNCT	_		13	punct	_	_
+

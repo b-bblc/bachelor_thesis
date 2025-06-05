@@ -1,0 +1,248 @@
+# sent_id = 1
+# text = Unökonomisches Angebot
+1	Unökonomisches	Unökonomisches	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	nk	_	_
+2	Angebot	Angebot	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Die Stimmung im Pritzwalker Minimal-Markt ist auf einem Tiefpunkt angelangt .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Stimmung	Stimmung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ROOT	_	_
+3	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	2	mnr	_	_
+4	Pritzwalker	Pritzwalker	ADJ	_	Degree=Pos	3	nk	_	_
+5	Minimal-Markt	Minimal-Markt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	sb	_	_
+6	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	auf	auf	ADP	_		10	mo	_	_
+8	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Tiefpunkt	Tiefpunkt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	angelangt	angelangt	VERB	_	VerbForm=Part	6	oc	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = 15 feste Mitarbeiter stehen vor der Entlassung .
+1	15	15	NUM	_		3	nk	_	_
+2	feste	fest	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Mitarbeiter	Mitarbeiter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+4	stehen	stehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	vor	vor	ADP	_		4	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Entlassung	Entlassung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = Wohl die wenigsten werden ein Übernahmeangebot in einen anderen Markt des Rewe-Konzerns akzeptieren .
+1	Wohl	wohl	ADV	_		3	mo	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	3	nk	_	_
+3	wenigsten	wenigster	PRON	_	Case=Nom|Number=Plur|PronType=Ind	4	sb	_	_
+4	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Übernahmeangebot	Übernahmeangebot	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	oa	_	_
+7	in	in	ADP	_		6	mnr	_	_
+8	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+9	anderen	anderer	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Markt	Markt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nk	_	_
+11	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Rewe-Konzerns	Rewe-Konzern	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	ag	_	_
+13	akzeptieren	akzeptieren	VERB	_	VerbForm=Inf	4	oc	_	_
+14	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 5
+# text = Sie werden es nicht akzeptieren können :
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	oa	_	_
+4	nicht	nicht	PART	_		6	ng	_	_
+5	akzeptieren	akzeptieren	VERB	_	VerbForm=Inf	6	oc	_	_
+6	können	können	AUX	_	VerbForm=Inf	2	oc	_	_
+7	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Denn zum einen sind es zumeist Frauen mit Kindern , die im Einzelhandel arbeiten .
+1	Denn	denn	CCONJ	_		4	ju	_	_
+2	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	4	mo	_	_
+3	einen	einer	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	2	nk	_	_
+4	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	sb	_	_
+6	zumeist	zumeist	ADV	_		4	mo	_	_
+7	Frauen	Frau	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	pd	_	_
+8	mit	mit	ADP	_		7	mnr	_	_
+9	Kindern	Kind	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	8	nk	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+11	die	der	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	14	sb	_	_
+12	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	mo	_	_
+13	Einzelhandel	Einzelhandel	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+14	arbeiten	arbeiten	VERB	_	VerbForm=Inf	9	rc	_	_
+15	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 7
+# text = Und die sind nun einmal nicht so mobil , wie es alleinstehende Arbeitnehmer sind .
+1	Und	und	CCONJ	_		3	ju	_	_
+2	die	der	PRON	_	Case=Nom|Number=Plur|PronType=Dem	3	sb	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	nun	nun	ADV	_		3	mo	_	_
+5	einmal	einmal	ADV	_		3	mo	_	_
+6	nicht	nicht	PART	_		3	ng	_	_
+7	so	so	ADV	_		8	mo	_	_
+8	mobil	mobil	ADV	_	Degree=Pos	3	pd	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	wie	wie	SCONJ	_	PronType=Int	14	mo	_	_
+11	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	sb	_	_
+12	alleinstehende	alleinstehend	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	13	nk	_	_
+13	Arbeitnehmer	Arbeitnehmer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	pd	_	_
+14	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cc	_	_
+15	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 8
+# text = Zum anderen sind auch die Löhne im Einzelhandel nicht so hoch ,
+1	Zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mo	_	_
+2	anderen	anderer	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	1	nk	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	auch	auch	ADV	_		6	mo	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	nk	_	_
+6	Löhne	Lohn	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+7	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	6	mnr	_	_
+8	Einzelhandel	Einzelhandel	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	nicht	nicht	PART	_		3	ng	_	_
+10	so	so	ADV	_		11	mo	_	_
+11	hoch	hoch	ADV	_	Degree=Pos	3	pd	_	_
+12	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 9
+# text = als dass sich täglich eine weite Fahrt zur Arbeit für die Mitarbeiter lohnen würde .
+1	als	als	ADP	_		14	cm	_	_
+2	dass	dass	SCONJ	_		14	cp	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	13	oa	_	_
+4	täglich	täglich	ADV	_	Degree=Pos	13	mo	_	_
+5	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	weite	weit	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Fahrt	Fahrt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	sb	_	_
+8	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	7	mnr	_	_
+9	Arbeit	Arbeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	nk	_	_
+10	für	für	ADP	_		9	mnr	_	_
+11	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	nk	_	_
+12	Mitarbeiter	Mitarbeiter	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	nk	_	_
+13	lohnen	lohnen	VERB	_	VerbForm=Inf	14	oc	_	_
+14	würde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	ROOT	_	_
+15	.	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 10
+# text = Eine einfache Frage der Ökonomie :
+1	Eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	einfache	einfach	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Frage	Frage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	ROOT	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Ökonomie	Ökonomie	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+6	:	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = Frisst der Sprit den Lohn auf ,
+1	Frisst	Frisst	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Sprit	Sprit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+4	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Lohn	Lohn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	oa	_	_
+6	auf	auf	ADP	_		1	svp	_	_
+7	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 12
+# text = kann man daheim bleiben .
+1	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	sb	_	_
+3	daheim	daheim	ADV	_		4	mo	_	_
+4	bleiben	bleiben	VERB	_	VerbForm=Inf	1	oc	_	_
+5	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 13
+# text = " co op " hat den Beschäftigten kein Übernahmeangebot unterbreitet .
+1	"	--	PUNCT	_		3	punct	_	_
+2	co	co	X	_		3	pnc	_	_
+3	op	op	X	_	Foreign=Yes	5	sb	_	_
+4	"	--	PUNCT	_		3	punct	_	_
+5	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	7	nk	_	_
+7	Beschäftigten	beschäftigter	NOUN	_	Case=Dat|Number=Plur	10	da	_	_
+8	kein	kein	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	9	nk	_	_
+9	Übernahmeangebot	Übernahmeangebot	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	oa	_	_
+10	unterbreitet	unterbreiten	VERB	_	VerbForm=Part	5	oc	_	_
+11	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 14
+# text = Unter den Beschäftigten im Minimal wird gemunkelt , dass man dort künftig nur noch geringfügig Beschäftigte anstellen will .
+1	Unter	unter	ADP	_		7	mo	_	_
+2	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	3	nk	_	_
+3	Beschäftigten	beschäftigter	NOUN	_	Case=Dat|Number=Plur	1	nk	_	_
+4	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mnr	_	_
+5	Minimal	Minimal	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+6	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	gemunkelt	munkeln	VERB	_	VerbForm=Part	6	oc	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	dass	dass	SCONJ	_		18	cp	_	_
+10	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	18	sb	_	_
+11	dort	dort	ADV	_		18	mo	_	_
+12	künftig	künftig	ADV	_	Degree=Pos	18	mo	_	_
+13	nur	nur	ADV	_		15	mo	_	_
+14	noch	noch	ADV	_		13	mo	_	_
+15	geringfügig	geringfügig	ADV	_	Degree=Pos	17	mo	_	_
+16	Beschäftigte	beschäftigter	NOUN	_	Case=Acc|Number=Plur	17	oa	_	_
+17	anstellen	anstellen	VERB	_	VerbForm=Inf	18	oc	_	_
+18	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	oc	_	_
+19	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 15
+# text = Ob dies den Tatsachen entspricht , bleibt dahingestellt .
+1	Ob	ob	SCONJ	_		5	cp	_	_
+2	dies	dieser	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	sb	_	_
+3	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	nk	_	_
+4	Tatsachen	Tatsache	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	da	_	_
+5	entspricht	entsprechen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	sb	_	_
+6	,	--	PUNCT	_		7	punct	_	_
+7	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	dahingestellt	dahingestellt	ADV	_	Degree=Pos	7	pd	_	_
+9	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 16
+# text = Der Konzern will sich heute noch nicht zu seinen Plänen äußern .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Konzern	Konzern	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	oa	_	_
+5	heute	heute	ADV	_		11	mo	_	_
+6	noch	noch	ADV	_		7	mo	_	_
+7	nicht	nicht	PART	_		11	ng	_	_
+8	zu	zu	ADP	_		11	op	_	_
+9	seinen	sein	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Plänen	Plan	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	nk	_	_
+11	äußern	äußern	VERB	_	VerbForm=Inf	3	oc	_	_
+12	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 17
+# text = Sicher ist jedoch , dass bei einer Übernahme die alten Verträge übernommen werden müssten ,
+1	Sicher	sicher	ADV	_		2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	jedoch	jedoch	ADV	_		2	mo	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	dass	dass	SCONJ	_		14	cp	_	_
+6	bei	bei	ADP	_		14	mo	_	_
+7	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Übernahme	Übernahme	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nk	_	_
+10	alten	alt	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	nk	_	_
+11	Verträge	Vertrag	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	sb	_	_
+12	übernommen	übernehmen	VERB	_	VerbForm=Part	13	oc	_	_
+13	werden	werden	AUX	_	VerbForm=Inf	14	oc	_	_
+14	müssten	müssen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	sb	_	_
+15	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 18
+# text = und der neue Inhaber bei Lohnverhandlungen dann keinen Spielraum hätte .
+1	und	und	CCONJ	_		10	ju	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+3	neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nk	_	_
+4	Inhaber	Inhaber	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	sb	_	_
+5	bei	bei	ADP	_		4	mnr	_	_
+6	Lohnverhandlungen	Lohnverhandlung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+7	dann	dann	ADV	_		10	mo	_	_
+8	keinen	kein	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	nk	_	_
+9	Spielraum	Spielraum	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	oa	_	_
+10	hätte	haben	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+

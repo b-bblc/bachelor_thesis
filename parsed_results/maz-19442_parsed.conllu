@@ -1,0 +1,250 @@
+# sent_id = 1
+# text = Briefkästen trockenlegen
+1	Briefkästen	Briefkäste	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+2	trockenlegen	trockenleg	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+
+# sent_id = 2
+# text = Heißer als in anderen Nächten geht es Silvester zu .
+1	Heißer	Heißer	ADV	_	Degree=Cmp	6	mo	_	_
+2	als	als	ADP	_		3	cm	_	_
+3	in	in	ADP	_		1	cc	_	_
+4	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+5	Nächten	Nacht	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	ep	_	_
+8	Silvester	Silvester	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	oa	_	_
+9	zu	zu	ADP	_		6	svp	_	_
+10	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = Manche netten Mitmenschen verspüren erfahrungsgemäß gerade in den letzten Stunden des alten Jahres verstärkt den Drang zu neuen Streichen .
+1	Manche	mancher	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	3	nk	_	_
+2	netten	nett	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	nk	_	_
+3	Mitmenschen	Mitmensche	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	sb	_	_
+4	verspüren	verspüren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	erfahrungsgemäß	erfahrungsgemäß	ADV	_	Degree=Pos	4	mo	_	_
+6	gerade	gerade	ADV	_		7	mo	_	_
+7	in	in	ADP	_		4	mo	_	_
+8	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	nk	_	_
+9	letzten	letzter	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	10	nk	_	_
+10	Stunden	Stunde	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	7	nk	_	_
+11	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	nk	_	_
+12	alten	alt	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	nk	_	_
+13	Jahres	Jahr	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	ag	_	_
+14	verstärkt	verstärkt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	mo	_	_
+15	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	nk	_	_
+16	Drang	Drang	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	oa	_	_
+17	zu	zu	ADP	_		16	mnr	_	_
+18	neuen	neu	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	19	nk	_	_
+19	Streichen	streiche	NOUN	_	Case=Dat|Number=Plur	17	nk	_	_
+20	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = Vor allem Briefkästen , in denen Feuerwerkskörper noch mal so schön wie an frischer Luft knallen , haben es ihnen angetan .
+1	Vor	vor	ADP	_		3	mo	_	_
+2	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	1	nk	_	_
+3	Briefkästen	Briefkäste	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	18	sb	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	in	in	ADP	_		16	mo	_	_
+6	denen	der	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	5	nk	_	_
+7	Feuerwerkskörper	Feuerwerkskörper	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	sb	_	_
+8	noch	noch	ADV	_		9	mo	_	_
+9	mal	mal	ADV	_		11	mo	_	_
+10	so	so	ADV	_		11	mo	_	_
+11	schön	schön	ADV	_	Degree=Pos	16	mo	_	_
+12	wie	wie	ADP	_		13	cm	_	_
+13	an	an	ADP	_		16	mo	_	_
+14	frischer	frisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	15	nk	_	_
+15	Luft	Luft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	nk	_	_
+16	knallen	knallen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	rc	_	_
+17	,	--	PUNCT	_		18	punct	_	_
+18	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	ROOT	_	_
+19	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	oa	_	_
+20	ihnen	ihnen	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	21	da	_	_
+21	angetan	antun	VERB	_	VerbForm=Part	18	oc	_	_
+22	.	--	PUNCT	_		18	punct	_	_
+
+# sent_id = 5
+# text = Weil die Polizei das weiß ,
+1	Weil	weil	SCONJ	_		5	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Polizei	Polizei	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+4	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	oa	_	_
+5	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 6
+# text = richten sich die Beamten am Neujahrstag auf viele Anzeigen wegen Sachbeschädigung ein .
+1	richten	richten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	1	oa	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Beamten	Beamter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	sb	_	_
+5	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	1	mo	_	_
+6	Neujahrstag	Neujahrstag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	auf	auf	ADP	_		1	mo	_	_
+8	viele	vieler	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	9	nk	_	_
+9	Anzeigen	Anzeige	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	nk	_	_
+10	wegen	wegen	ADP	_		9	mnr	_	_
+11	Sachbeschädigung	Sachbeschädigung	NOUN	_	Gender=Fem|Number=Sing	10	nk	_	_
+12	ein	ein	ADV	_		1	svp	_	_
+13	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 7
+# text = Wer sich den Gang zur Polizei ersparen will ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	8	sb	_	_
+2	sich	sich	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	da	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Gang	Gang	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	oa	_	_
+5	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	4	mnr	_	_
+6	Polizei	Polizei	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+7	ersparen	ersparen	VERB	_	VerbForm=Inf	8	oc	_	_
+8	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 8
+# text = sollte versuchen , dummen Knallfröschen das Wasser abzugraben
+1	sollte	sollen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	versuchen	versuchen	VERB	_	VerbForm=Inf	1	oc	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dummen	dumm	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+5	Knallfröschen	Knallfrösche	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	8	da	_	_
+6	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+7	Wasser	Wasser	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	oa	_	_
+8	abzugraben	abgraben	VERB	_	VerbForm=Inf	2	oc	_	_
+
+# sent_id = 9
+# text = und seinen Briefkasten trockenzulegen .
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	seinen	sein	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	nk	_	_
+3	Briefkasten	Briefkasten	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	oa	_	_
+4	trockenzulegen	trockenzulegen	VERB	_	VerbForm=Inf	1	cj	_	_
+5	.	--	PUNCT	_		5	ROOT	_	_
+
+# sent_id = 10
+# text = Beispielsweise mit einer Sandfüllung .
+1	Beispielsweise	beispielsweise	ADV	_		2	mo	_	_
+2	mit	mit	ADP	_		2	ROOT	_	_
+3	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Sandfüllung	Sandfüllung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Besser wäre es , den Kasten ganz abzubauen .
+1	Besser	gut	ADV	_	Degree=Cmp	2	pd	_	_
+2	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Kasten	Kasten	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	oa	_	_
+7	ganz	ganz	ADV	_		8	mo	_	_
+8	abzubauen	abbauen	VERB	_	VerbForm=Inf	3	re	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = ( Post wird sowieso erst wieder am 2. Januar ausgetragen )
+1	(	--	PUNCT	_		3	punct	_	_
+2	Post	Post	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sowieso	sowieso	ADV	_		10	mo	_	_
+5	erst	erst	ADV	_		10	mo	_	_
+6	wieder	wieder	ADV	_		10	mo	_	_
+7	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	10	mo	_	_
+8	2.	2.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Januar	Januar	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	ausgetragen	austragen	VERB	_	VerbForm=Part	3	oc	_	_
+11	)	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Wenn das nicht geht ,
+1	Wenn	wenn	SCONJ	_		4	cp	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	sb	_	_
+3	nicht	nicht	PART	_		4	ng	_	_
+4	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 14
+# text = einfach die Entleerungsklappe offen lassen ,
+1	einfach	einfach	ADV	_		5	mo	_	_
+2	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Entleerungsklappe	Entleerungsklappe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	oa	_	_
+4	offen	offen	ADV	_	Degree=Pos	5	mo	_	_
+5	lassen	lassen	VERB	_	VerbForm=Inf	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 15
+# text = damit der Druck beim Explodieren pyrotechnischer Erzeugnisse entweichen kann .
+1	damit	damit	ADV	_		9	cp	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Druck	Druck	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	sb	_	_
+4	beim	bei	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mnr	_	_
+5	Explodieren	explodieren	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+6	pyrotechnischer	pyrotechnisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	7	nk	_	_
+7	Erzeugnisse	Erzeugnis	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	ag	_	_
+8	entweichen	entweichen	VERB	_	VerbForm=Inf	9	oc	_	_
+9	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 16
+# text = Wer sein Posteinwurfbehältnis einmal mit ganz anderen Augen sehen will ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	10	sb	_	_
+2	sein	sein	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	3	nk	_	_
+3	Posteinwurfbehältnis	Posteinwurfbehältnis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	oa	_	_
+4	einmal	einmal	ADV	_		9	mo	_	_
+5	mit	mit	ADP	_		9	mo	_	_
+6	ganz	ganz	ADV	_		7	mo	_	_
+7	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	8	nk	_	_
+8	Augen	Auge	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	5	nk	_	_
+9	sehen	sehen	VERB	_	VerbForm=Inf	10	oc	_	_
+10	will	wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 17
+# text = könnte seine künstlerische Ader ausleben ,
+1	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	seine	sein	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nk	_	_
+3	künstlerische	künstlerisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Ader	Ader	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	oa	_	_
+5	ausleben	ausleben	VERB	_	VerbForm=Inf	1	oc	_	_
+6	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 18
+# text = den Briefkasten komplett in stabiles Material hüllen
+1	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Briefkasten	Briefkasten	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	oa	_	_
+3	komplett	komplett	ADV	_	Degree=Pos	7	mo	_	_
+4	in	in	ADP	_		7	mo	_	_
+5	stabiles	stabil	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	nk	_	_
+6	Material	Material	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nk	_	_
+7	hüllen	hüllen	VERB	_	VerbForm=Inf	7	ROOT	_	_
+
+# sent_id = 19
+# text = und mit Klebeband versehen .
+1	und	und	CCONJ	_		4	ju	_	_
+2	mit	mit	ADP	_		4	mo	_	_
+3	Klebeband	Klebeband	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+4	versehen	versehen	VERB	_	VerbForm=Part	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 20
+# text = Gut möglich , dass so dem einen oder anderen Knallfrosch der Spaß daran vergeht , anderen Menschen Sach-Schaden zuzufügen .
+1	Gut	gut	ADV	_	Degree=Pos	2	mo	_	_
+2	möglich	möglich	ADV	_	Degree=Pos	14	pd	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dass	dass	SCONJ	_		14	cp	_	_
+5	so	so	ADV	_		14	mo	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+7	einen	ein	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+8	oder	oder	CCONJ	_		7	cd	_	_
+9	anderen	anderer	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	cj	_	_
+10	Knallfrosch	Knallfrosch	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	da	_	_
+11	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Spaß	Spaß	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	sb	_	_
+13	daran	daran	ADV	_		14	op	_	_
+14	vergeht	vergehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ROOT	_	_
+15	,	--	PUNCT	_		14	punct	_	_
+16	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	17	nk	_	_
+17	Menschen	Mensch	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	19	da	_	_
+18	Sach-Schaden	Sach-Schade	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	19	oa	_	_
+19	zuzufügen	zufügen	VERB	_	VerbForm=Inf	5	re	_	_
+20	.	--	PUNCT	_		14	punct	_	_
+

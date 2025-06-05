@@ -1,0 +1,282 @@
+# sent_id = 1
+# text = Es wird
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+
+# sent_id = 2
+# text = Westernreiter kennen sich aus mit dem Überwinden von Stock und Stein .
+1	Westernreiter	Westernreiter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+2	kennen	kennen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+4	aus	aus	ADP	_		2	svp	_	_
+5	mit	mit	ADP	_		2	mo	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+7	Überwinden	überwinden	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+8	von	von	ADP	_		7	mnr	_	_
+9	Stock	Stock	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	und	und	CCONJ	_		9	cd	_	_
+11	Stein	Stein	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	cj	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Also dürften sie kein Problem haben , die zurzeit noch katastrophale Parkfläche an der Graf-von-Lindenau-Halle in Kauf zu nehmen .
+1	Also	also	ADV	_		2	mo	_	_
+2	dürften	dürfen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	kein	kein	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	nk	_	_
+5	Problem	Problem	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	oa	_	_
+6	haben	haben	VERB	_	VerbForm=Inf	2	oc	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	19	sb	_	_
+9	zurzeit	zurzeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	mo	_	_
+10	noch	noch	ADV	_		11	mo	_	_
+11	katastrophale	katastrophal	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Parkfläche	Parkfläche	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	oa	_	_
+13	an	an	ADP	_		19	mo	_	_
+14	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+15	Graf-von-Lindenau-Halle	Graf-von-Lindenau-Halle	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	nk	_	_
+16	in	in	ADP	_		19	cvc	_	_
+17	Kauf	Kauf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	nk	_	_
+18	zu	zu	PART	_		19	pm	_	_
+19	nehmen	nehmen	VERB	_	VerbForm=Inf	5	oc	_	_
+20	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Sie machen das auch ,
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	machen	machen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	oa	_	_
+4	auch	auch	ADV	_		2	mo	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = wenngleich wir uns dessen bewusst sind , dass hier böser Sarkasmus die Zeilen prägt ,
+1	wenngleich	wenngleich	SCONJ	_		6	cp	_	_
+2	wir	wir	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	sb	_	_
+3	uns	sich	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	6	oa	_	_
+4	dessen	der	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	og	_	_
+5	bewusst	bewusst	ADV	_	Degree=Pos	6	pd	_	_
+6	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	dass	dass	SCONJ	_		14	cp	_	_
+9	hier	hier	ADV	_		14	mo	_	_
+10	böser	böse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	nk	_	_
+11	Sarkasmus	Sarkasmus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	sb	_	_
+12	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	nk	_	_
+13	Zeilen	Zeile	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	oa	_	_
+14	prägt	prägen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	sb	_	_
+15	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 6
+# text = der aber seine Berechtigung in absehbarer Zeit verloren hat .
+1	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	sb	_	_
+2	aber	aber	ADV	_		8	mo	_	_
+3	seine	sein	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nk	_	_
+4	Berechtigung	Berechtigung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	oa	_	_
+5	in	in	ADP	_		8	mo	_	_
+6	absehbarer	absehbar	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Zeit	Zeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	verloren	verlieren	VERB	_	VerbForm=Part	9	oc	_	_
+9	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 7
+# text = Am Parkplatz , der von Anfang an ein Ärgernis war , tut sich nämlich etwas .
+1	Am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	12	mo	_	_
+2	Parkplatz	Parkplatz	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	sb	_	_
+5	von	von	ADP	_		10	mo	_	_
+6	Anfang	Anfang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	an	an	ADP	_		5	ac	_	_
+8	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	Ärgernis	Ärgernis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	pd	_	_
+10	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	rc	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	tut	tun	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	oa	_	_
+14	nämlich	nämlich	ADV	_		12	mo	_	_
+15	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	12	sb	_	_
+16	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 8
+# text = Die Initiative dazu ging von der Neustädter Verwaltung aus .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Initiative	Initiative	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+3	dazu	dazu	ADV	_		2	mnr	_	_
+4	ging	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	von	von	ADP	_		4	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+7	Neustädter	Neustädter	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Verwaltung	Verwaltung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+9	aus	aus	ADP	_		4	svp	_	_
+10	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = Die hatte auch gar keine andere Wahl ,
+1	Die	der	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	sb	_	_
+2	hatte	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	auch	auch	ADV	_		7	mo	_	_
+4	gar	gar	ADV	_		5	mo	_	_
+5	keine	kein	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	7	nk	_	_
+6	andere	anderer	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Wahl	Wahl	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	oa	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = nachdem das juristische Tauziehen mit dem bauausführenden Betrieb verloren worden war .
+1	nachdem	nachdem	SCONJ	_		11	cp	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+3	juristische	juristisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Tauziehen	tauziehen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	sb	_	_
+5	mit	mit	ADP	_		9	mo	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	bauausführenden	bauausführend	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Betrieb	Betrieb	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+9	verloren	verlieren	VERB	_	VerbForm=Part	10	oc	_	_
+10	worden	werden	AUX	_	VerbForm=Part	11	oc	_	_
+11	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ROOT	_	_
+12	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 11
+# text = Was blieb , war die total misslungene Abstellfläche ,
+1	Was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	sb	_	_
+2	blieb	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	sb	_	_
+3	,	--	PUNCT	_		4	punct	_	_
+4	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+6	total	total	ADV	_	Degree=Pos	7	mo	_	_
+7	misslungene	misslungen	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Abstellfläche	Abstellfläche	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	pd	_	_
+9	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 12
+# text = bei der sich zu spät herausstellte , dass die vielen Besucher für die Halle einfach zu viel waren .
+1	bei	bei	ADP	_		6	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	nk	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	oa	_	_
+4	zu	zu	PART	_		5	mo	_	_
+5	spät	spät	ADV	_	Degree=Pos	6	mo	_	_
+6	herausstellte	herausstellten	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	dass	dass	SCONJ	_		18	cp	_	_
+9	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nk	_	_
+10	vielen	vieler	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	11	nk	_	_
+11	Besucher	Besucher	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	18	sb	_	_
+12	für	für	ADP	_		17	mo	_	_
+13	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Halle	Halle	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nk	_	_
+15	einfach	einfach	ADV	_		17	mo	_	_
+16	zu	zu	PART	_		17	mo	_	_
+17	viel	viel	PRON	_	PronType=Ind	18	pd	_	_
+18	waren	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	oc	_	_
+19	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 13
+# text = War schon in der Zeitung zu lesen , dass Geld lockergemacht worden ist ,
+1	War	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	schon	schon	ADV	_		3	mo	_	_
+3	in	in	ADP	_		7	mo	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Zeitung	Zeitung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	zu	zu	PART	_		7	pm	_	_
+7	lesen	lesen	VERB	_	VerbForm=Inf	1	oc	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	dass	dass	SCONJ	_		13	cp	_	_
+10	Geld	Geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	13	sb	_	_
+11	lockergemacht	lockergemachen	VERB	_	VerbForm=Part	12	oc	_	_
+12	worden	werden	AUX	_	VerbForm=Part	13	oc	_	_
+13	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	sb	_	_
+14	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 14
+# text = so ist nun von einem ersten Ergebnis zu berichten .
+1	so	so	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nun	nun	ADV	_		9	mo	_	_
+4	von	von	ADP	_		9	op	_	_
+5	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+6	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	7	nk	_	_
+7	Ergebnis	Ergebnis	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+8	zu	zu	PART	_		9	pm	_	_
+9	berichten	berichten	VERB	_	VerbForm=Inf	2	oc	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Man baut .
+1	Man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+2	baut	bauen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Das geht nicht von jetzt auf gleich .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		5	ng	_	_
+4	von	von	ADP	_		2	mo	_	_
+5	jetzt	jetzt	ADV	_		4	nk	_	_
+6	auf	auf	ADP	_		2	mo	_	_
+7	gleich	gleich	ADV	_		6	nk	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = Dieses Jahr wird vergehen ,
+1	Dieses	dieser	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nk	_	_
+2	Jahr	Jahr	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+3	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	vergehen	vergehen	VERB	_	VerbForm=Inf	3	oc	_	_
+5	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 18
+# text = bis auch bei Regen die stiefelfreie Zeit für alle Besucher anbricht .
+1	bis	bis	CCONJ	_		3	ac	_	_
+2	auch	auch	ADV	_		3	mo	_	_
+3	bei	bei	ADP	_		11	mo	_	_
+4	Regen	Regen	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	stiefelfreie	stiefelfrei	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Zeit	Zeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+8	für	für	ADP	_		11	mo	_	_
+9	alle	aller	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	10	nk	_	_
+10	Besucher	Besucher	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	nk	_	_
+11	anbricht	anbrichen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 19
+# text = Beim CSI , dem hochdotierten Reitturnier im Januar , sollen die Nägel Köpfe haben .
+1	Beim	bei	ADP	_	Case=Dat|Gender=Masc|Number=Sing	10	mo	_	_
+2	CSI	CSI	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+5	hochdotierten	hochdotiert	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	6	nk	_	_
+6	Reitturnier	Reitturnier	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	app	_	_
+7	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	6	mnr	_	_
+8	Januar	Januar	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	sollen	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	nk	_	_
+12	Nägel	Nägel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	sb	_	_
+13	Köpfe	Kopf	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	oa	_	_
+14	haben	haben	VERB	_	VerbForm=Inf	10	oc	_	_
+15	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 20
+# text = Bis dahin müssen sich alle dreinfügen -
+1	Bis	bis	ADP	_		3	mo	_	_
+2	dahin	dahin	ADV	_		1	nk	_	_
+3	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	3	oa	_	_
+5	alle	aller	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	nk	_	_
+6	dreinfügen	Dreinfüg	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	sb	_	_
+7	-	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 21
+# text = wie die Westernreiter und ihre Fans .
+1	wie	wie	SCONJ	_	PronType=Int	3	cm	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+3	Westernreiter	Westernreiter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	ROOT	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	ihre	ihr	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Fans	Fan	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cj	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+

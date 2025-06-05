@@ -1,0 +1,234 @@
+# sent_id = 1
+# text = Alarmsignal
+1	Alarmsignal	Alarmsignal	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Es brodelt an der CDU-Basis in Werder und Umgebung .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+2	brodelt	brodeln	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	an	an	ADP	_		2	mo	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	CDU-Basis	CDU-Basis	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	in	in	ADP	_		5	mnr	_	_
+7	Werder	Werder	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	Umgebung	Umgebung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	cj	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Der Grund ist die Weigerung des Innenministers und Parteivorsitzenden Jörg Schönbohm , dem eindeutigen Bürgerwillen der Golmer nach Eingliederung in die Stadt Werder nachzukommen .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Grund	Grund	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	pd	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Weigerung	Weigerung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+6	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Innenministers	Innenminister	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	ag	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	Parteivorsitzenden	Parteivorsitzender	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	cj	_	_
+10	Jörg	Jörg	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	pnc	_	_
+11	Schönbohm	Schönbohm	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nk	_	_
+12	,	--	PUNCT	_		5	punct	_	_
+13	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	nk	_	_
+14	eindeutigen	eindeutig	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	nk	_	_
+15	Bürgerwillen	Bürgerwill	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	app	_	_
+16	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	nk	_	_
+17	Golmer	Golmer	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	ag	_	_
+18	nach	nach	ADP	_		24	mo	_	_
+19	Eingliederung	Eingliederung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	nk	_	_
+20	in	in	ADP	_		24	mo	_	_
+21	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	nk	_	_
+22	Stadt	Stadt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	nk	_	_
+23	Werder	Werder	PROPN	_	Case=Nom|Number=Sing	22	nk	_	_
+24	nachzukommen	nachkommen	VERB	_	VerbForm=Inf	3	oc	_	_
+25	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Ein Alarmsignal für Schönbohm müsste es jedenfalls sein ,
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Alarmsignal	Alarmsignal	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	pd	_	_
+3	für	für	ADP	_		2	mnr	_	_
+4	Schönbohm	Schönbohm	PROPN	_	Case=Acc|Number=Sing	3	nk	_	_
+5	müsste	müssten	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	sb	_	_
+7	jedenfalls	jedenfalls	ADV	_		5	mo	_	_
+8	sein	sein	AUX	_	VerbForm=Inf	5	oc	_	_
+9	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 5
+# text = wenn sich jetzt die Junge Union in Werder scharf gegen seinen Kurs wendet
+1	wenn	wenn	SCONJ	_		13	cp	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	oa	_	_
+3	jetzt	jetzt	ADV	_		13	mo	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	Junge	jung	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Union	Union	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	sb	_	_
+7	in	in	ADP	_		6	mnr	_	_
+8	Werder	Werder	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+9	scharf	scharf	ADV	_	Degree=Pos	13	mo	_	_
+10	gegen	gegen	ADP	_		13	op	_	_
+11	seinen	sein	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	nk	_	_
+12	Kurs	Kurs	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	nk	_	_
+13	wendet	wenden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ROOT	_	_
+
+# sent_id = 6
+# text = und ein CDU-Stadtverordneter gar mit seinem sofortigen Austritt aus der Christlich Demokratischen Union droht ,
+1	und	und	CCONJ	_		14	ju	_	_
+2	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	CDU-Stadtverordneter	CDU-Stadtverordneter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	sb	_	_
+4	gar	gar	ADV	_		5	mo	_	_
+5	mit	mit	ADP	_		14	mo	_	_
+6	seinem	sein	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nk	_	_
+7	sofortigen	sofortig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Austritt	Austritt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+9	aus	aus	ADP	_		8	mnr	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+11	Christlich	Christlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	12	mo	_	_
+12	Demokratischen	demokratisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	13	nk	_	_
+13	Union	Union	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+14	droht	drohen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ROOT	_	_
+15	,	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 7
+# text = weil für ihn demokratische Spielregeln eklatant verletzt wurden .
+1	weil	weil	SCONJ	_		8	cp	_	_
+2	für	für	ADP	_		7	mo	_	_
+3	ihn	ihn	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nk	_	_
+4	demokratische	demokratisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+5	Spielregeln	Spielregel	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	8	sb	_	_
+6	eklatant	eklatant	ADV	_	Degree=Pos	7	mo	_	_
+7	verletzt	verletzen	VERB	_	VerbForm=Part	8	oc	_	_
+8	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 8
+# text = Durchaus brisant wird die Situation für den Parteivorsitzenden auch dadurch , dass er gleich zwei CDU-Bürgermeister gegen sich aufgebracht hat
+1	Durchaus	durchaus	ADV	_		2	mo	_	_
+2	brisant	brisant	ADV	_	Degree=Pos	3	pd	_	_
+3	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Situation	Situation	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+6	für	für	ADP	_		5	mnr	_	_
+7	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Parteivorsitzenden	parteivorsitzend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nk	_	_
+9	auch	auch	ADV	_		10	mo	_	_
+10	dadurch	dadurch	ADV	_		3	mo	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+12	dass	dass	SCONJ	_		20	cp	_	_
+13	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	sb	_	_
+14	gleich	gleich	ADV	_		16	mo	_	_
+15	zwei	zwei	NUM	_		16	nk	_	_
+16	CDU-Bürgermeister	CDU-Bürgermeister	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	19	oa	_	_
+17	gegen	gegen	ADP	_		19	mo	_	_
+18	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	nk	_	_
+19	aufgebracht	aufbringen	VERB	_	VerbForm=Part	20	oc	_	_
+20	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	re	_	_
+
+# sent_id = 9
+# text = und damit dort Ansehen und Rückhalt verlieren wird , wo sie mit Sicherheit jede Partei bitter nötig hat -
+1	und	und	CCONJ	_		8	ju	_	_
+2	damit	damit	ADV	_		7	mo	_	_
+3	dort	dort	ADV	_		7	mo	_	_
+4	Ansehen	ansehen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	oa	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	Rückhalt	Rückhalt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	cj	_	_
+7	verlieren	verlieren	VERB	_	VerbForm=Inf	8	oc	_	_
+8	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	wo	wo	SCONJ	_	PronType=Int	18	mo	_	_
+11	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	sb	_	_
+12	mit	mit	ADP	_		18	mo	_	_
+13	Sicherheit	Sicherheit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+14	jede	jeder	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	15	nk	_	_
+15	Partei	Partei	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	oa	_	_
+16	bitter	bitter	ADV	_	Degree=Pos	17	mo	_	_
+17	nötig	nötig	ADV	_	Degree=Pos	18	pd	_	_
+18	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	rc	_	_
+19	-	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 10
+# text = nämlich an der Basis .
+1	nämlich	nämlich	ADV	_		2	mo	_	_
+2	an	an	ADP	_		2	ROOT	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Basis	Basis	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 11
+# text = Dazu kommt , dass in Werder am 24. Februar ein Bürgermeister gewählt wird
+1	Dazu	dazu	ADV	_		2	mo	_	_
+2	kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dass	dass	SCONJ	_		13	cp	_	_
+5	in	in	ADP	_		12	mo	_	_
+6	Werder	Werder	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	12	mo	_	_
+8	24.	24.	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Februar	Februar	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+11	Bürgermeister	Bürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	sb	_	_
+12	gewählt	wählen	VERB	_	VerbForm=Part	13	oc	_	_
+13	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+
+# sent_id = 12
+# text = und es bisher als sicher galt , dass CDU-Amtsinhaber Werner Große unangefochten bleibt .
+1	und	und	CCONJ	_		6	ju	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	sb	_	_
+3	bisher	bisher	ADV	_		6	mo	_	_
+4	als	als	ADP	_		6	mo	_	_
+5	sicher	sicher	ADV	_	Degree=Pos	4	nk	_	_
+6	galt	gelten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	dass	dass	SCONJ	_		13	cp	_	_
+9	CDU-Amtsinhaber	CDU-Amtsinhaber	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	sb	_	_
+10	Werner	Werner	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	pnc	_	_
+11	Große	Große	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nk	_	_
+12	unangefochten	unangefochten	ADV	_	Degree=Pos	13	pd	_	_
+13	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	sb	_	_
+14	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 13
+# text = Das muss sich nicht ändern ,
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+4	nicht	nicht	PART	_		2	ng	_	_
+5	ändern	ändern	VERB	_	VerbForm=Inf	2	oc	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = doch wenn der eigene Parteichef dem Kandidaten so derb in die Parade einer erfolgreichen Amtszeit fährt ,
+1	doch	doch	CCONJ	_		16	ju	_	_
+2	wenn	wenn	SCONJ	_		16	cp	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	eigene	eigen	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Parteichef	Parteichef	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	sb	_	_
+6	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Kandidaten	Kandidat	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	da	_	_
+8	so	so	ADV	_		9	mo	_	_
+9	derb	derb	ADV	_	Degree=Pos	16	mo	_	_
+10	in	in	ADP	_		16	mo	_	_
+11	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Parade	Parade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	nk	_	_
+13	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	nk	_	_
+14	erfolgreichen	erfolgreich	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	nk	_	_
+15	Amtszeit	Amtszeit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	ag	_	_
+16	fährt	fahren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ROOT	_	_
+17	,	--	PUNCT	_		16	punct	_	_
+
+# sent_id = 15
+# text = werden andere Parteien nicht säumen , ihre Ansprüche deutlicher als bisher anzumelden .
+1	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	andere	anderer	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	nk	_	_
+3	Parteien	Partei	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	sb	_	_
+4	nicht	nicht	PART	_		5	ng	_	_
+5	säumen	säumen	VERB	_	VerbForm=Inf	1	oc	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	ihre	ihr	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	nk	_	_
+8	Ansprüche	Anspruch	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	oa	_	_
+9	deutlicher	deutlich	ADV	_	Degree=Cmp	12	mo	_	_
+10	als	als	ADP	_		11	cm	_	_
+11	bisher	bisher	ADV	_		9	cc	_	_
+12	anzumelden	anmelden	VERB	_	VerbForm=Inf	5	cj	_	_
+13	.	--	PUNCT	_		1	punct	_	_
+

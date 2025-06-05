@@ -1,0 +1,241 @@
+# sent_id = 1
+# text = Euro-Cash for Kids
+1	Euro-Cash	Euro-Cash	X	_	Foreign=Yes	3	pnc	_	_
+2	for	for	PROPN	_		3	pnc	_	_
+3	Kids	Kids	PROPN	_		3	ROOT	_	_
+
+# sent_id = 2
+# text = In der MAZ-Lokalredaktion Luckenwalde wurde inzwischen bereits die zweite Sammelbox für restliches Urlaubsgeld aus aller Herren Länder aufgestellt .
+1	In	in	ADP	_		18	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	MAZ-Lokalredaktion	MAZ-Lokalredaktion	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+4	Luckenwalde	Luckenwalde	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	3	nk	_	_
+5	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	inzwischen	inzwischen	ADV	_		18	mo	_	_
+7	bereits	bereits	ADV	_		10	mo	_	_
+8	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+9	zweite	zweiter	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	nk	_	_
+10	Sammelbox	Sammelbox	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	sb	_	_
+11	für	für	ADP	_		10	mnr	_	_
+12	restliches	restlich	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	nk	_	_
+13	Urlaubsgeld	Urlaubsgeld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	nk	_	_
+14	aus	aus	ADP	_		13	mnr	_	_
+15	aller	aller	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	16	nk	_	_
+16	Herren	Herr	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	nk	_	_
+17	Länder	Land	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	sb	_	_
+18	aufgestellt	aufstellen	VERB	_	VerbForm=Part	5	oc	_	_
+19	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 3
+# text = Die erste Box war schneller als gedacht prall gefüllt und schwer ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	erste	erster	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Box	Box	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	schneller	schnell	ADV	_	Degree=Cmp	9	mo	_	_
+6	als	als	SCONJ	_		7	cm	_	_
+7	gedacht	denken	VERB	_	VerbForm=Part	5	cc	_	_
+8	prall	prall	ADV	_	Degree=Pos	9	mo	_	_
+9	gefüllt	gefüllt	ADV	_	Degree=Pos	4	pd	_	_
+10	und	und	CCONJ	_		9	cd	_	_
+11	schwer	schwer	ADV	_	Degree=Pos	10	cj	_	_
+12	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = und sie konnte bereits an den Initiator der Sammelaktion , den Internationalen Bund ( IB ) , übergeben werden .
+1	und	und	CCONJ	_		3	ju	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	konnte	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	bereits	bereits	ADV	_		3	mo	_	_
+5	an	an	ADP	_		3	mo	_	_
+6	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Initiator	Initiator	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nk	_	_
+8	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Sammelaktion	Sammelaktion	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	ag	_	_
+10	,	--	PUNCT	_		7	punct	_	_
+11	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+12	Internationalen	international	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	nk	_	_
+13	Bund	Bund	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	app	_	_
+14	(	--	PUNCT	_		15	punct	_	_
+15	IB	IB	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	13	app	_	_
+16	)	--	PUNCT	_		15	punct	_	_
+17	,	--	PUNCT	_		3	punct	_	_
+18	übergeben	übergeben	VERB	_	VerbForm=Part	19	oc	_	_
+19	werden	werden	AUX	_	VerbForm=Inf	3	oc	_	_
+20	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = Hintergrund der Idee war die bevorstehende Euro-Einführung .
+1	Hintergrund	Hintergrund	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	pd	_	_
+2	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Idee	Idee	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	ag	_	_
+4	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	bevorstehende	bevorstehend	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Euro-Einführung	Euro-Einführung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 6
+# text = Wohin dann mit den vom Urlaub übrig gebliebenen Münzen ,
+1	Wohin	wohin	ADV	_	PronType=Int	2	mo	_	_
+2	dann	dann	ADV	_		2	ROOT	_	_
+3	mit	mit	ADP	_		2	mo	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	nk	_	_
+5	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	8	sbp	_	_
+6	Urlaub	Urlaub	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	übrig	übrig	ADV	_	Degree=Pos	8	mo	_	_
+8	gebliebenen	geblieben	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+9	Münzen	Münze	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+10	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = die bald sowieso nichts mehr wert sind ?
+1	die	der	PRON	_	Case=Nom|Number=Plur|PronType=Dem	7	sb	_	_
+2	bald	bald	ADV	_		7	mo	_	_
+3	sowieso	sowieso	ADV	_		7	mo	_	_
+4	nichts	nichts	PRON	_	Gender=Neut|PronType=Ind	7	sb	_	_
+5	mehr	mehr	ADV	_		4	mo	_	_
+6	wert	wert	ADV	_	Degree=Pos	7	pd	_	_
+7	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	?	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = Warum sollten sie nicht noch einen guten Zweck erfüllen können ?
+1	Warum	warum	ADV	_	PronType=Int	2	mo	_	_
+2	sollten	sollen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	nicht	nicht	PART	_		5	ng	_	_
+5	noch	noch	ADV	_		10	mo	_	_
+6	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	guten	gut	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Zweck	Zweck	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	oa	_	_
+9	erfüllen	erfüllen	VERB	_	VerbForm=Inf	10	oc	_	_
+10	können	können	AUX	_	VerbForm=Inf	2	oc	_	_
+11	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = So wurde die Aktion " Euro-Cash for Kids " gestartet ,
+1	So	so	ADV	_		10	mo	_	_
+2	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Aktion	Aktion	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	"	--	PUNCT	_		8	punct	_	_
+6	Euro-Cash	Euro-Cash	PROPN	_		8	pnc	_	_
+7	for	for	PROPN	_		8	pnc	_	_
+8	Kids	Kids	PROPN	_		4	nk	_	_
+9	"	--	PUNCT	_		8	punct	_	_
+10	gestartet	starten	VERB	_	VerbForm=Part	2	oc	_	_
+11	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = und sie fand speziell in Luckenwalde und Umgebung eine riesige Resonanz .
+1	und	und	CCONJ	_		3	ju	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	fand	finden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	speziell	speziell	ADV	_	Degree=Pos	5	mo	_	_
+5	in	in	ADP	_		3	mo	_	_
+6	Luckenwalde	Luckenwalde	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	und	und	CCONJ	_		6	cd	_	_
+8	Umgebung	Umgebung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	cj	_	_
+9	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+10	riesige	riesig	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	nk	_	_
+11	Resonanz	Resonanz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	oa	_	_
+12	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = Dafür ein herzliches Dankeschön .
+1	Dafür	dafür	ADV	_		4	mo	_	_
+2	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+3	herzliches	herzlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Dankeschön	Dankeschön	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 12
+# text = Vielleicht kommen ja jetzt nach den Herbstferien noch einige Münzen zusammen ,
+1	Vielleicht	vielleicht	ADV	_		2	mo	_	_
+2	kommen	kommen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	ja	ja	ADV	_		2	mo	_	_
+4	jetzt	jetzt	ADV	_		2	mo	_	_
+5	nach	nach	ADP	_		2	mo	_	_
+6	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	nk	_	_
+7	Herbstferien	Herbstferi	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+8	noch	noch	ADV	_		2	mo	_	_
+9	einige	einiger	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	10	nk	_	_
+10	Münzen	Münze	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	sb	_	_
+11	zusammen	zusammen	ADV	_		2	svp	_	_
+12	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 13
+# text = in der zweiten Box ist jedenfalls noch Platz dafür vorhanden .
+1	in	in	ADP	_		5	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	zweiten	zweiter	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Box	Box	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+5	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	jedenfalls	jedenfalls	ADV	_		5	mo	_	_
+7	noch	noch	ADV	_		5	mo	_	_
+8	Platz	Platz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+9	dafür	dafür	ADV	_		8	mnr	_	_
+10	vorhanden	vorhanden	ADV	_	Degree=Pos	5	pd	_	_
+11	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 14
+# text = Noch bis zum Jahresende besteht die Möglichkeit , restliche Urlaubsmoneten in der MAZ-Lokalredaktion abzugeben .
+1	Noch	noch	ADV	_		3	mo	_	_
+2	bis	bis	ADP	_		3	ac	_	_
+3	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	5	mo	_	_
+4	Jahresende	Jahresende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	besteht	bestehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Möglichkeit	Möglichkeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	restliche	restlich	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	10	nk	_	_
+10	Urlaubsmoneten	Urlaubsmonet	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	14	oa	_	_
+11	in	in	ADP	_		10	mnr	_	_
+12	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+13	MAZ-Lokalredaktion	MAZ-Lokalredaktion	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	nk	_	_
+14	abzugeben	abgeben	VERB	_	VerbForm=Inf	7	oc	_	_
+15	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 15
+# text = Danach wird das Geld umgetauscht
+1	Danach	danach	ADV	_		5	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Geld	Geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	umgetauscht	umtauschen	VERB	_	VerbForm=Part	2	oc	_	_
+
+# sent_id = 16
+# text = und es soll für die Intensivierung des internationalen Austausches von Jugendlichen besonders mit Ländern Osteuropas eingesetzt werden -
+1	und	und	CCONJ	_		3	ju	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	für	für	ADP	_		16	mo	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Intensivierung	Intensivierung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+8	internationalen	international	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Austausches	Austausch	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+10	von	von	ADP	_		9	pg	_	_
+11	Jugendlichen	jugendliche	NOUN	_	Case=Dat|Number=Plur	10	nk	_	_
+12	besonders	besonders	ADV	_		13	mo	_	_
+13	mit	mit	ADP	_		6	mnr	_	_
+14	Ländern	Land	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	13	nk	_	_
+15	Osteuropas	Osteuropa	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	14	ag	_	_
+16	eingesetzt	einsetzen	VERB	_	VerbForm=Part	17	oc	_	_
+17	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	oc	_	_
+18	-	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 17
+# text = vor allem auch als Ersatz für ausgebliebene staatliche Förderung .
+1	vor	vor	ADP	_		4	mo	_	_
+2	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	1	nk	_	_
+3	auch	auch	ADV	_		4	mo	_	_
+4	als	als	ADP	_		4	ROOT	_	_
+5	Ersatz	Ersatz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nk	_	_
+6	für	für	ADP	_		5	mnr	_	_
+7	ausgebliebene	ausgeblieben	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+8	staatliche	staatlich	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Förderung	Förderung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nk	_	_
+10	.	--	PUNCT	_		4	punct	_	_
+

@@ -1,0 +1,189 @@
+# sent_id = 1
+# text = Verpasste Chance
+1	Verpasste	Verpasste	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nk	_	_
+2	Chance	Chance	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Heute wird in Potsdam der brandenburgische Kunstpreis überreicht .
+1	Heute	heute	ADV	_		8	mo	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	in	in	ADP	_		8	mo	_	_
+4	Potsdam	Potsdam	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+6	brandenburgische	brandenburgisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Kunstpreis	Kunstpreis	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+8	überreicht	überreichen	VERB	_	VerbForm=Part	2	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Die mit 30_000 Mark dotierte Auszeichnung sollte dieses Jahr einer Person zukommen , die sich für das märkische Musikleben stark gemacht hat .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+2	mit	mit	ADP	_		5	mo	_	_
+3	30_000	30_000	NUM	_		4	nk	_	_
+4	Mark	Mark	NOUN	_	Gender=Fem	2	nk	_	_
+5	dotierte	dotiert	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Auszeichnung	Auszeichnung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+7	sollte	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	ROOT	_	_
+8	dieses	dieser	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	nk	_	_
+9	Jahr	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	mo	_	_
+10	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Person	Person	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	ag	_	_
+12	zukommen	zukommen	VERB	_	VerbForm=Inf	7	oc	_	_
+13	,	--	PUNCT	_		12	punct	_	_
+14	die	der	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	22	sb	_	_
+15	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	21	oa	_	_
+16	für	für	ADP	_		21	mo	_	_
+17	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	nk	_	_
+18	märkische	märkisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	nk	_	_
+19	Musikleben	Musikleben	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	nk	_	_
+20	stark	stark	ADV	_	Degree=Pos	21	mo	_	_
+21	gemacht	machen	VERB	_	VerbForm=Part	22	oc	_	_
+22	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	rc	_	_
+23	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 4
+# text = Die Wahl fiel auf Ulrike Liedtke , Musikwissenschaftlerin und Leiterin der Bundesmusikakademie Rheinsberg .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Wahl	Wahl	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	fiel	fallen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	auf	auf	ADP	_		3	mo	_	_
+5	Ulrike	Ulrike	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	pnc	_	_
+6	Liedtke	Liedtke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	Musikwissenschaftlerin	Musikwissenschaftlerin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	cj	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Leiterin	Leiterin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	cj	_	_
+11	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Bundesmusikakademie	Bundesmusikakademie	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+13	Rheinsberg	Rheinsberg	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nk	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = Verdientermaßen :
+1	Verdientermaßen	verdientermaßen	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	ROOT	_	_
+2	:	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Zu nennen ist ihr Einsatz für den Wiederaufbau des Rheinsberger Schlosstheaters , die Entdeckung preußischer Komponisten , das zeitgenössische Musiktheater und den Musikstandort Rheinsberg .
+1	Zu	zu	PART	_		2	pm	_	_
+2	nennen	nennen	VERB	_	VerbForm=Inf	3	oc	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	ihr	ihr	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	nk	_	_
+5	Einsatz	Einsatz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+6	für	für	ADP	_		5	mnr	_	_
+7	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Wiederaufbau	Wiederaufbau	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nk	_	_
+9	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	nk	_	_
+10	Rheinsberger	Rheinsberger	ADJ	_	Degree=Pos	11	nk	_	_
+11	Schlosstheaters	Schlosstheater	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	ag	_	_
+12	,	--	PUNCT	_		8	punct	_	_
+13	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Entdeckung	Entdeckung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+15	preußischer	preußisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	16	nk	_	_
+16	Komponisten	Komponist	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	14	ag	_	_
+17	,	--	PUNCT	_		14	punct	_	_
+18	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	nk	_	_
+19	zeitgenössische	zeitgenössisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	nk	_	_
+20	Musiktheater	Musiktheater	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	cj	_	_
+21	und	und	CCONJ	_		20	cd	_	_
+22	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	nk	_	_
+23	Musikstandort	Musikstandort	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	cj	_	_
+24	Rheinsberg	Rheinsberg	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	23	nk	_	_
+25	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = Dennoch hinterlässt das Votum der Jury einen faden Nachgeschmack :
+1	Dennoch	dennoch	ADV	_		2	mo	_	_
+2	hinterlässt	hinterlässen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Votum	Votum	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Jury	Jury	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+7	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+8	faden	fad	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Nachgeschmack	Nachgeschmack	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+10	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Für all das hat sich in Rheinsberg nämlich auch Siegfried Matthus eingesetzt , Komponist und Leiter der dortigen Kammeroper .
+1	Für	für	ADP	_		12	mo	_	_
+2	all	all	DET	_	PronType=Ind	3	nk	_	_
+3	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	nk	_	_
+4	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	oa	_	_
+6	in	in	ADP	_		12	mo	_	_
+7	Rheinsberg	Rheinsberg	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	nämlich	nämlich	ADV	_		4	mo	_	_
+9	auch	auch	ADV	_		11	mo	_	_
+10	Siegfried	Siegfried	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	pnc	_	_
+11	Matthus	Matthus	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+12	eingesetzt	einsetzen	VERB	_	VerbForm=Part	4	oc	_	_
+13	,	--	PUNCT	_		4	punct	_	_
+14	Komponist	Komponist	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+15	und	und	CCONJ	_		14	cd	_	_
+16	Leiter	Leiter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	cj	_	_
+17	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	nk	_	_
+18	dortigen	dortig	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	nk	_	_
+19	Kammeroper	Kammeroper	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	ag	_	_
+20	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = Wenn der Preis schon nach Rheinsberg gehen soll ,
+1	Wenn	wenn	SCONJ	_		8	cp	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Preis	Preis	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	sb	_	_
+4	schon	schon	ADV	_		7	mo	_	_
+5	nach	nach	ADP	_		7	mo	_	_
+6	Rheinsberg	Rheinsberg	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	gehen	gehen	VERB	_	VerbForm=Inf	8	oc	_	_
+8	soll	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 10
+# text = hätte man beide bedenken müssen .
+1	hätte	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	sb	_	_
+3	beide	beide	PRON	_	Case=Acc|Number=Plur|PronType=Ind	4	nk	_	_
+4	bedenken	Bedenken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	oa	_	_
+5	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+6	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 11
+# text = Zumal sie in herzlicher Feindschaft verbunden sind .
+1	Zumal	zumal	SCONJ	_		7	cp	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	sb	_	_
+3	in	in	ADP	_		6	op	_	_
+4	herzlicher	herzlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Feindschaft	Feindschaft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	verbunden	verbinden	VERB	_	VerbForm=Part	7	pd	_	_
+7	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 12
+# text = Doch statt zur Versöhnung aufzurufen ,
+1	Doch	doch	CCONJ	_		5	ju	_	_
+2	statt	statt	ADP	_		3	ac	_	_
+3	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	5	mo	_	_
+4	Versöhnung	Versöhnung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+5	aufzurufen	aufzurufen	VERB	_	VerbForm=Inf	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 13
+# text = könnte diese Entscheidung die Wunden noch tiefer reißen .
+1	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nk	_	_
+3	Entscheidung	Entscheidung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+5	Wunden	Wunde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	oa	_	_
+6	noch	noch	ADV	_		7	mo	_	_
+7	tiefer	tief	ADV	_	Degree=Cmp	8	mo	_	_
+8	reißen	reißen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+9	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 14
+# text = Eine verpasste Chance .
+1	Eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	verpasste	verpasst	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Chance	Chance	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	ROOT	_	_
+4	.	--	PUNCT	_		3	punct	_	_
+

@@ -1,0 +1,251 @@
+# sent_id = 1
+# text = Unbestechliche Zeugen
+1	Unbestechliche	Unbestechliche	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nk	_	_
+2	Zeugen	Zeuge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	ROOT	_	_
+
+# sent_id = 2
+# text = Die Rathenower Polizeibeamten haben gestern enorme Verstärkung erhalten .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+2	Rathenower	Rathenower	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Polizeibeamten	Polizeibeamter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+4	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	gestern	gestern	ADV	_		8	mo	_	_
+6	enorme	enorm	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Verstärkung	Verstärkung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	oa	_	_
+8	erhalten	erhalten	VERB	_	VerbForm=Part	4	oc	_	_
+9	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 3
+# text = Drei hochmoderne Videokameras werden sie bei der Beobachtung des Dancehouse-Geländes unterstützen .
+1	Drei	drei	NUM	_		3	nk	_	_
+2	hochmoderne	hochmodern	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	nk	_	_
+3	Videokameras	Videokameras	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	sb	_	_
+4	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	sb	_	_
+6	bei	bei	ADP	_		11	mo	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Beobachtung	Beobachtung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+9	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Dancehouse-Geländes	Dancehouse-Geländ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	ag	_	_
+11	unterstützen	unterstützen	VERB	_	VerbForm=Inf	4	oc	_	_
+12	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = Vorbei die Zeiten , in denen ein Einsatzbus mit mehreren Beamten auf dem Parkplatz stundenlang Position beziehen musste ,
+1	Vorbei	Vorbei	ADV	_		3	mo	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	nk	_	_
+3	Zeiten	Zeit	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	in	in	ADP	_		18	mo	_	_
+6	denen	der	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	5	nk	_	_
+7	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Einsatzbus	Einsatzbus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	sb	_	_
+9	mit	mit	ADP	_		17	mo	_	_
+10	mehreren	mehrere	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Ind	11	nk	_	_
+11	Beamten	Beamter	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	nk	_	_
+12	auf	auf	ADP	_		17	mo	_	_
+13	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nk	_	_
+14	Parkplatz	Parkplatz	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+15	stundenlang	stundenlang	ADV	_	Degree=Pos	17	mo	_	_
+16	Position	Position	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	oa	_	_
+17	beziehen	beziehen	VERB	_	VerbForm=Inf	18	oc	_	_
+18	musste	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	rc	_	_
+19	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = um mögliche Gewalttäter von ihrem Tun abzuhalten .
+1	um	um	ADP	_		7	cp	_	_
+2	mögliche	möglich	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Gewalttäter	Gewalttäter	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	nk	_	_
+4	von	von	ADP	_		7	mo	_	_
+5	ihrem	ihr	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Tun	tun	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+7	abzuhalten	abhalten	VERB	_	VerbForm=Inf	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 6
+# text = Vorbei auch die Zeiten , in denen gewaltbereite Jugendliche ihr Katz- und Maus-Spielchen mit den Polizisten trieben ,
+1	Vorbei	Vorbei	ADV	_		4	mo	_	_
+2	auch	auch	ADV	_		4	mo	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	nk	_	_
+4	Zeiten	Zeit	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	in	in	ADP	_		17	mo	_	_
+7	denen	der	PRON	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	6	nk	_	_
+8	gewaltbereite	gewaltbereit	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	nk	_	_
+9	Jugendliche	jugendliche	NOUN	_	Case=Nom|Number=Plur	17	sb	_	_
+10	ihr	ihr	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	13	nk	_	_
+11	Katz-	Katz	X	_		12	cj	_	_
+12	und	und	CCONJ	_		13	cd	_	_
+13	Maus-Spielchen	Maus-Spielch	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	17	oa	_	_
+14	mit	mit	ADP	_		17	mo	_	_
+15	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	nk	_	_
+16	Polizisten	Polizist	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	nk	_	_
+17	trieben	treiben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	rc	_	_
+18	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 7
+# text = indem sie provozierten ,
+1	indem	indem	SCONJ	_		3	cp	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	sb	_	_
+3	provozierten	provozieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 8
+# text = ohne straffällig zu werden .
+1	ohne	ohne	SCONJ	_		4	cp	_	_
+2	straffällig	straffällig	ADV	_	Degree=Pos	4	pd	_	_
+3	zu	zu	PART	_		4	pm	_	_
+4	werden	werden	AUX	_	VerbForm=Inf	4	ROOT	_	_
+5	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = Vorbei .
+1	Vorbei	vorbei	ADV	_		1	ROOT	_	_
+2	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 10
+# text = Wer sich jetzt etwas zu Schulden kommen lässt ,
+1	Wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	8	sb	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+3	jetzt	jetzt	ADV	_		8	mo	_	_
+4	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	7	mo	_	_
+5	zu	zu	ADP	_		7	mo	_	_
+6	Schulden	Schuld	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+7	kommen	kommen	VERB	_	VerbForm=Inf	8	oc	_	_
+8	lässt	lässt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 11
+# text = muss damit rechnen , unverzüglich und beweiskräftig überführt zu werden .
+1	muss	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	damit	damit	ADV	_		3	mo	_	_
+3	rechnen	rechnen	VERB	_	VerbForm=Inf	1	oc	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	unverzüglich	unverzüglich	ADV	_	Degree=Pos	10	pd	_	_
+6	und	und	CCONJ	_		5	cd	_	_
+7	beweiskräftig	beweiskräftig	ADV	_	Degree=Pos	8	mo	_	_
+8	überführt	überführen	VERB	_	VerbForm=Part	6	cj	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	werden	werden	AUX	_	VerbForm=Inf	2	re	_	_
+11	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 12
+# text = Die Kameras sind unbestechlich .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	nk	_	_
+2	Kameras	Kamera	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	sb	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	unbestechlich	unbestechlich	ADV	_	Degree=Pos	3	pd	_	_
+5	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Aus der Distanz beobachten sie das Geschehen und geben den Beamten an den Monitoren die Möglichkeit , die Lage nüchtern und mit klarem Kopf einzuschätzen .
+1	Aus	aus	ADP	_		4	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Distanz	Distanz	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+4	beobachten	beobachten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	sb	_	_
+6	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+7	Geschehen	geschehen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	oa	_	_
+8	und	und	CCONJ	_		4	cd	_	_
+9	geben	geben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cj	_	_
+10	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nk	_	_
+11	Beamten	Beamter	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	9	da	_	_
+12	an	an	ADP	_		9	mo	_	_
+13	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	nk	_	_
+14	Monitoren	Monitor	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	nk	_	_
+15	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	Möglichkeit	Möglichkeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	oa	_	_
+17	,	--	PUNCT	_		16	punct	_	_
+18	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	nk	_	_
+19	Lage	Lage	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	oa	_	_
+20	nüchtern	nüchtern	ADV	_	Degree=Pos	25	mo	_	_
+21	und	und	CCONJ	_		20	cd	_	_
+22	mit	mit	ADP	_		25	mo	_	_
+23	klarem	klar	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	nk	_	_
+24	Kopf	Kopf	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	22	nk	_	_
+25	einzuschätzen	einschätzen	VERB	_	VerbForm=Inf	16	oc	_	_
+26	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 14
+# text = Provokateuren wird das Objekt ihrer Aggression genommen ,
+1	Provokateuren	Provokateur	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Objekt	Objekt	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	oa	_	_
+5	ihrer	ihr	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nk	_	_
+6	Aggression	Aggression	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+7	genommen	nehmen	VERB	_	VerbForm=Part	2	oc	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = ihre Sticheleien laufen ins Leere .
+1	ihre	ihr	DET	_	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	2	nk	_	_
+2	Sticheleien	Sticheleie	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	sb	_	_
+3	laufen	laufen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	ins	in	ADP	_	Case=Acc|Gender=Neut|Number=Sing	3	mo	_	_
+5	Leere	leere	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nk	_	_
+6	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 16
+# text = Und wer straffällig wird ,
+1	Und	und	CCONJ	_		4	ju	_	_
+2	wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	sb	_	_
+3	straffällig	straffällig	ADV	_	Degree=Pos	4	pd	_	_
+4	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 17
+# text = der braucht nicht darauf zu hoffen , dass sein Tun unbemerkt bleibt .
+1	der	der	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	sb	_	_
+2	braucht	brauchen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		2	ng	_	_
+4	darauf	darauf	ADV	_		6	op	_	_
+5	zu	zu	PART	_		6	pm	_	_
+6	hoffen	hoffen	VERB	_	VerbForm=Inf	2	oc	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	dass	dass	SCONJ	_		12	cp	_	_
+9	sein	sein	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Tun	tun	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	sb	_	_
+11	unbemerkt	unbemerkt	ADV	_	Degree=Pos	12	pd	_	_
+12	bleibt	bleiben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	re	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 18
+# text = Die technischen Augen sehen alles
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	nk	_	_
+2	technischen	technisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	nk	_	_
+3	Augen	Auge	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	sb	_	_
+4	sehen	sehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	alles	aller	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	oa	_	_
+
+# sent_id = 19
+# text = und liefern die entsprechenden Beweise .
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	liefern	liefern	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cj	_	_
+3	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+4	entsprechenden	entsprechend	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	nk	_	_
+5	Beweise	Beweis	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	oa	_	_
+6	.	--	PUNCT	_		6	ROOT	_	_
+
+# sent_id = 20
+# text = Das ist das Ziel der Videoüberwachung .
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Ziel	Ziel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	pd	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Videoüberwachung	Videoüberwachung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+7	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 21
+# text = Einwände dagegen zu finden , fällt schwer .
+1	Einwände	Einwand	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	sb	_	_
+2	dagegen	dagegen	ADV	_		4	mo	_	_
+3	zu	zu	PART	_		4	pm	_	_
+4	finden	finden	VERB	_	VerbForm=Inf	1	oc	_	_
+5	,	--	PUNCT	_		6	punct	_	_
+6	fällt	fallen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	schwer	schwer	ADV	_	Degree=Pos	6	mo	_	_
+8	.	--	PUNCT	_		6	punct	_	_
+

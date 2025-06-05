@@ -1,0 +1,279 @@
+# sent_id = 1
+# text = Wohlfühl-Aroma
+1	Wohlfühl-Aroma	Wohlfühl-Aroma	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	ROOT	_	_
+
+# sent_id = 2
+# text = Kräftig spucken die Arbeiter von Säbu derzeit in Blumenow in die Hände .
+1	Kräftig	Kräftig	ADV	_	Degree=Pos	2	mo	_	_
+2	spucken	spucken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Arbeiter	Arbeiter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	von	von	ADP	_		4	pg	_	_
+6	Säbu	Säbu	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+7	derzeit	derzeit	ADV	_		2	mo	_	_
+8	in	in	ADP	_		2	mo	_	_
+9	Blumenow	Blumenow	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	in	in	ADP	_		2	mo	_	_
+11	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	nk	_	_
+12	Hände	Hand	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	nk	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Sie wissen , dass Eile geboten ist .
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	wissen	wissen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dass	dass	SCONJ	_		7	cp	_	_
+5	Eile	Eile	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+6	geboten	bieten	VERB	_	VerbForm=Part	7	pd	_	_
+7	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+8	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Schließlich ziehen sie einen Anbau in die Höhe ,
+1	Schließlich	schließlich	ADV	_		2	mo	_	_
+2	ziehen	ziehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Anbau	Anbau	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+6	in	in	ADP	_		5	mnr	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Höhe	Höhe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nk	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = in dem sich künftig nicht irgendwer ,
+1	in	in	ADP	_		6	mo	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	1	nk	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	oa	_	_
+4	künftig	künftig	ADV	_	Degree=Pos	6	mo	_	_
+5	nicht	nicht	PART	_		6	ng	_	_
+6	irgendwer	irgendwer	PRON	_	Gender=Neut|PronType=Ind	6	ROOT	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 6
+# text = sondern die jüngsten Einwohner wohlfühlen sollen .
+1	sondern	sondern	CCONJ	_		6	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+3	jüngsten	jung	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	4	nk	_	_
+4	Einwohner	Einwohner	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	oa	_	_
+5	wohlfühlen	wohlfühlen	VERB	_	VerbForm=Inf	6	oc	_	_
+6	sollen	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 7
+# text = Bei aller hektischen Geschäftigkeit
+1	Bei	bei	ADP	_		1	ROOT	_	_
+2	aller	aller	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	4	nk	_	_
+3	hektischen	hektisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Geschäftigkeit	Geschäftigkeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+
+# sent_id = 8
+# text = lassen sie aber auch die Qualität nicht aus dem Auge .
+1	lassen	lassen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	sb	_	_
+3	aber	aber	ADV	_		1	mo	_	_
+4	auch	auch	ADV	_		1	mo	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Qualität	Qualität	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	oa	_	_
+7	nicht	nicht	PART	_		1	ng	_	_
+8	aus	aus	ADP	_		1	mo	_	_
+9	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	nk	_	_
+10	Auge	Auge	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+11	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = Immerhin stampfen sie ein Haus aus dem Boden ,
+1	Immerhin	immerhin	ADV	_		2	mo	_	_
+2	stampfen	stampfen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Haus	Haus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	oa	_	_
+6	aus	aus	ADP	_		5	mnr	_	_
+7	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Boden	Boden	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = das nicht in klassischer Bauweise - Stein auf Stein - ,
+1	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	sb	_	_
+2	nicht	nicht	PART	_		3	ng	_	_
+3	in	in	ADP	_		3	ROOT	_	_
+4	klassischer	klassisch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Bauweise	Bauweis	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	-	--	PUNCT	_		5	punct	_	_
+7	Stein	Stein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nk	_	_
+8	auf	auf	ADP	_		7	mnr	_	_
+9	Stein	Stein	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nk	_	_
+10	-	--	PUNCT	_		3	punct	_	_
+11	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = sondern in so genannter Holztafelbauweise entsteht .
+1	sondern	sondern	CCONJ	_		6	ju	_	_
+2	in	in	ADP	_		6	mo	_	_
+3	so	so	ADV	_		4	mo	_	_
+4	genannter	genannt	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Holztafelbauweise	Holztafelbauweise	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+6	entsteht	entstehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 12
+# text = Auf der Suche nach Profis mussten sich die Blumenower sich nicht weit weg begeben .
+1	Auf	auf	ADP	_		6	mo	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Suche	Suche	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+4	nach	nach	ADP	_		3	op	_	_
+5	Profis	Profi	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	nk	_	_
+6	mussten	mussen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	14	oa	_	_
+8	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	nk	_	_
+9	Blumenower	Blumenower	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	sb	_	_
+10	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	14	oa	_	_
+11	nicht	nicht	PART	_		12	ng	_	_
+12	weit	weit	ADV	_	Degree=Pos	14	mo	_	_
+13	weg	weg	ADV	_		14	mo	_	_
+14	begeben	begeben	VERB	_	VerbForm=Inf	6	oc	_	_
+15	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 13
+# text = Kompetente Partner fanden sie in Gransee , bei Säbu .
+1	Kompetente	kompetent	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nk	_	_
+2	Partner	Partner	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	fanden	finden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	sb	_	_
+5	in	in	ADP	_		3	mo	_	_
+6	Gransee	Gransee	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+8	bei	bei	ADP	_		3	mo	_	_
+9	Säbu	Säbu	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+10	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = Für die Qualität der Arbeit sprechen zahlreiche Objekte landesweit .
+1	Für	für	ADP	_		6	mo	_	_
+2	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Qualität	Qualität	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	nk	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Arbeit	Arbeit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+6	sprechen	sprechen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	zahlreiche	zahlreich	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	8	nk	_	_
+8	Objekte	Objekt	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	sb	_	_
+9	landesweit	landesweit	ADV	_	Degree=Pos	6	mo	_	_
+10	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 15
+# text = Allein im Kreis Oberhavel hat Säbu einen guten Ruf .
+1	Allein	allein	ADV	_		2	mo	_	_
+2	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	5	mo	_	_
+3	Kreis	Kreis	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+4	Oberhavel	Oberhavel	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	3	nk	_	_
+5	hat	haben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	Säbu	Säbu	PROPN	_	Case=Nom|Number=Sing	5	sb	_	_
+7	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+8	guten	gut	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	nk	_	_
+9	Ruf	Ruf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	oa	_	_
+10	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 16
+# text = Neue Klassenräume wurden ebenso in Containerbauweise hochgezogen wie jüngst eine komplette Kindertagesstätte in Schönfließ .
+1	Neue	neu	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nk	_	_
+2	Klassenräume	Klassenraum	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	ebenso	ebenso	ADV	_		7	mo	_	_
+5	in	in	ADP	_		7	mo	_	_
+6	Containerbauweise	Containerbauweise	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+7	hochgezogen	hochziehen	VERB	_	VerbForm=Part	3	oc	_	_
+8	wie	wie	ADP	_		12	cm	_	_
+9	jüngst	jüngst	ADV	_		12	mo	_	_
+10	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+11	komplette	komplett	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	nk	_	_
+12	Kindertagesstätte	Kindertagesstätte	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	cc	_	_
+13	in	in	ADP	_		12	mnr	_	_
+14	Schönfließ	Schönfließ	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	13	nk	_	_
+15	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 17
+# text = Auch wenn noch Wochen ins Land gehen ,
+1	Auch	auch	ADV	_		7	mo	_	_
+2	wenn	wenn	SCONJ	_		7	cp	_	_
+3	noch	noch	ADV	_		7	mo	_	_
+4	Wochen	Woche	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	mo	_	_
+5	ins	in	ADP	_	Case=Acc|Gender=Neut|Number=Sing	7	mo	_	_
+6	Land	Land	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nk	_	_
+7	gehen	gehen	VERB	_	VerbForm=Inf	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 18
+# text = ehe die Mädchen und Jungen das erste Mal ausgelassen im neuen Raum spielen .
+1	ehe	ehe	SCONJ	_		13	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	nk	_	_
+3	Mädchen	Mädchen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	13	sb	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Jungen	Junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cj	_	_
+6	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+7	erste	erster	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Mal	Mal	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	oa	_	_
+9	ausgelassen	ausgelassen	VERB	_	VerbForm=Part	13	mo	_	_
+10	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	13	mo	_	_
+11	neuen	neu	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	12	nk	_	_
+12	Raum	Raum	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	nk	_	_
+13	spielen	spielen	VERB	_	VerbForm=Inf	13	ROOT	_	_
+14	.	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 19
+# text = Eins ist klar :
+1	Eins	Eins	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	klar	klar	ADV	_	Degree=Pos	2	pd	_	_
+4	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 20
+# text = Zu danken ist das Projekt vielen ,
+1	Zu	zu	PART	_		2	pm	_	_
+2	danken	danken	VERB	_	VerbForm=Inf	3	oc	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Projekt	Projekt	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+6	vielen	vieler	PRON	_	Case=Dat|Number=Plur|PronType=Ind	3	pd	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 21
+# text = in erster Linie aber der Eigeninitiative der Dorfbewohner .
+1	in	in	ADP	_		1	ROOT	_	_
+2	erster	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Linie	Linie	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+4	aber	aber	ADV	_		1	mo	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Eigeninitiative	Eigeninitiative	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Dorfbewohner	Dorfbewohner	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	ag	_	_
+9	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 22
+# text = Sie gaben nicht klein bei und machten Geld locker .
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	gaben	geben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		4	ng	_	_
+4	klein	klein	ADV	_	Degree=Pos	2	mo	_	_
+5	bei	bei	ADP	_		2	svp	_	_
+6	und	und	CCONJ	_		2	cd	_	_
+7	machten	machen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cj	_	_
+8	Geld	Geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	oa	_	_
+9	locker	locker	ADV	_		7	svp	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 23
+# text = Damit sich ihre Sprösslinge wohlfühlen .
+1	Damit	damit	SCONJ	_		5	cp	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+3	ihre	ihr	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	nk	_	_
+4	Sprösslinge	Sprössling	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	sb	_	_
+5	wohlfühlen	wohlfühlen	VERB	_	VerbForm=Inf	5	ROOT	_	_
+6	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 24
+# text = Rundum .
+1	Rundum	Rundum	ADV	_		1	ROOT	_	_
+2	.	--	PUNCT	_		1	punct	_	_
+

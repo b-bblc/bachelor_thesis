@@ -1,0 +1,251 @@
+# sent_id = 1
+# text = Kurzsichtig
+1	Kurzsichtig	kurzsichtig	ADV	_	Degree=Pos	1	ROOT	_	_
+
+# sent_id = 2
+# text = Containerplätze sind zweckmäßig ,
+1	Containerplätze	Containerplätz	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	sb	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	zweckmäßig	zweckmäßig	ADV	_	Degree=Pos	2	pd	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = doch leider funktionieren sie nicht so richtig .
+1	doch	doch	CCONJ	_		3	ju	_	_
+2	leider	leider	ADV	_		3	mo	_	_
+3	funktionieren	funktionieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	sb	_	_
+5	nicht	nicht	PART	_		3	ng	_	_
+6	so	so	ADV	_		7	mo	_	_
+7	richtig	richtig	ADV	_	Degree=Pos	3	mo	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Das ist bei anderen Einrichtungen auch der Fall ,
+1	Das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	bei	bei	ADP	_		2	mo	_	_
+4	anderen	anderer	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	5	nk	_	_
+5	Einrichtungen	Einrichtung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	3	nk	_	_
+6	auch	auch	ADV	_		8	mo	_	_
+7	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Fall	Fall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	pd	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = die auf Selbstdisziplin und Bürgersinn bauen .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	sb	_	_
+2	auf	auf	ADP	_		6	mo	_	_
+3	Selbstdisziplin	Selbstdisziplin	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nk	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Bürgersinn	Bürgersinn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	cj	_	_
+6	bauen	bauen	VERB	_	VerbForm=Inf	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 6
+# text = Viele Menschen schaffen es nämlich nicht , ihren Müll korrekt in die doch einfach gekennzeichneten Behälter zu werfen .
+1	Viele	vieler	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	2	nk	_	_
+2	Menschen	Mensch	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	schaffen	schaffen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	oa	_	_
+5	nämlich	nämlich	ADV	_		3	mo	_	_
+6	nicht	nicht	PART	_		3	ng	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+8	ihren	ihr	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	nk	_	_
+9	Müll	Müll	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	oa	_	_
+10	korrekt	korrekt	ADV	_	Degree=Pos	18	mo	_	_
+11	in	in	ADP	_		18	mo	_	_
+12	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	nk	_	_
+13	doch	doch	ADV	_		15	mo	_	_
+14	einfach	einfach	ADV	_		15	mo	_	_
+15	gekennzeichneten	gekennzeichnet	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	nk	_	_
+16	Behälter	Behälter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	nk	_	_
+17	zu	zu	PART	_		18	pm	_	_
+18	werfen	werfen	VERB	_	VerbForm=Inf	4	re	_	_
+19	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = So gehen Kunststoff und Glas oft durcheinander ,
+1	So	so	ADV	_		2	mo	_	_
+2	gehen	gehen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Kunststoff	Kunststoff	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Glas	Glas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	cj	_	_
+6	oft	oft	ADV	_		2	mo	_	_
+7	durcheinander	durcheinander	ADV	_		2	mo	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = auch bei der Farbunterscheidung von Flaschen haben einige Zeitgenossen offensichtlich ihre Probleme .
+1	auch	auch	ADV	_		2	mo	_	_
+2	bei	bei	ADP	_		7	mo	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Farbunterscheidung	Farbunterscheidung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+5	von	von	ADP	_		4	pg	_	_
+6	Flaschen	Flasche	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+7	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	einige	einiger	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	9	nk	_	_
+9	Zeitgenossen	Zeitgenosse	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	sb	_	_
+10	offensichtlich	offensichtlich	ADV	_	Degree=Pos	7	mo	_	_
+11	ihre	ihr	DET	_	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	12	nk	_	_
+12	Probleme	Problem	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	oa	_	_
+13	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 9
+# text = Die Rethmann-Mitarbeiter haben sogar schon Teppiche aus dem Papiercontainer gezogen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Rethmann-Mitarbeiter	Rethmann-Mitarbeiter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sogar	sogar	ADV	_		3	mo	_	_
+5	schon	schon	ADV	_		10	mo	_	_
+6	Teppiche	Teppich	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	oa	_	_
+7	aus	aus	ADP	_		10	mo	_	_
+8	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Papiercontainer	Papiercontainer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	gezogen	ziehen	VERB	_	VerbForm=Part	3	oc	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 10
+# text = Egal , ob nun mutwillig oder aus Unwissenheit
+1	Egal	egal	ADV	_		1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	ob	ob	SCONJ	_		5	cp	_	_
+4	nun	nun	ADV	_		5	mo	_	_
+5	mutwillig	mutwillig	ADV	_	Degree=Pos	1	par	_	_
+6	oder	oder	CCONJ	_		5	cd	_	_
+7	aus	aus	ADP	_		6	cj	_	_
+8	Unwissenheit	Unwissenheit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+
+# sent_id = 11
+# text = - ersteres ist moralisch sicherlich verwerflicher -
+1	-	--	PUNCT	_		3	punct	_	_
+2	ersteres	ersterer	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	moralisch	moralisch	ADV	_	Degree=Pos	3	mo	_	_
+5	sicherlich	sicherlich	ADV	_		3	mo	_	_
+6	verwerflicher	verwerflich	ADV	_	Degree=Cmp	3	pd	_	_
+7	-	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 12
+# text = rund die Hälfte der Abfälle gerät in den falschen Kreislauf .
+1	rund	rund	ADV	_		3	mo	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Hälfte	Hälfte	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	sb	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	nk	_	_
+5	Abfälle	Abfall	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	ag	_	_
+6	gerät	geraten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	in	in	ADP	_		6	mo	_	_
+8	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+9	falschen	falsch	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Kreislauf	Kreislauf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nk	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 13
+# text = Da ist es nur logisch , dass die Rethmänner jetzt so nach und nach das Sammelsystem umstellen .
+1	Da	da	ADV	_		2	mo	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	nur	nur	ADV	_		5	mo	_	_
+5	logisch	logisch	ADV	_	Degree=Pos	2	pd	_	_
+6	,	--	PUNCT	_		2	punct	_	_
+7	dass	dass	SCONJ	_		17	cp	_	_
+8	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	nk	_	_
+9	Rethmänner	Rethmänner	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	sb	_	_
+10	jetzt	jetzt	ADV	_		17	mo	_	_
+11	so	so	ADV	_		17	mo	_	_
+12	nach	nach	ADP	_		17	mo	_	_
+13	und	und	CCONJ	_		12	cd	_	_
+14	nach	nach	ADV	_		13	cj	_	_
+15	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	nk	_	_
+16	Sammelsystem	Sammelsystem	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	nk	_	_
+17	umstellen	umstellen	VERB	_	VerbForm=Inf	3	re	_	_
+18	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Schmuddelige Containerplätze sollen so bald der Vergangenheit angehören .
+1	Schmuddelige	schmuddelig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nk	_	_
+2	Containerplätze	Containerplätz	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	sollen	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	so	so	ADV	_		5	mo	_	_
+5	bald	bald	ADV	_		3	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Vergangenheit	Vergangenheit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	da	_	_
+8	angehören	angehören	VERB	_	VerbForm=Inf	3	oc	_	_
+9	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = Unverständlich ist deshalb die mit 37 Prozent doch recht hohe Anzahl der Bürger vom Görden , sich dem neuen System - gelbe Säcke und Papiertonnen - zu versagen .
+1	Unverständlich	unverständlich	ADV	_	Degree=Pos	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	deshalb	deshalb	ADV	_		2	mo	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+5	mit	mit	ADP	_		10	mo	_	_
+6	37	37	NUM	_		7	nk	_	_
+7	Prozent	Prozent	NOUN	_	Gender=Neut	5	nk	_	_
+8	doch	doch	ADV	_		10	mo	_	_
+9	recht	recht	ADV	_		10	mo	_	_
+10	hohe	hoch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	nk	_	_
+11	Anzahl	Anzahl	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	sb	_	_
+12	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	nk	_	_
+13	Bürger	Bürger	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	ag	_	_
+14	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	13	pg	_	_
+15	Görden	görder	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	14	nk	_	_
+16	,	--	PUNCT	_		11	punct	_	_
+17	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	28	oa	_	_
+18	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	nk	_	_
+19	neuen	neu	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	20	nk	_	_
+20	System	System	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	23	da	_	_
+21	-	--	PUNCT	_		20	punct	_	_
+22	gelbe	gelb	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	23	nk	_	_
+23	Säcke	Säck	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	17	cj	_	_
+24	und	und	CCONJ	_		23	cd	_	_
+25	Papiertonnen	Papiertonne	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	24	cj	_	_
+26	-	--	PUNCT	_		28	punct	_	_
+27	zu	zu	PART	_		28	pm	_	_
+28	versagen	versagen	VERB	_	VerbForm=Inf	11	oc	_	_
+29	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Sie sollten ihre Entscheidung noch einmal überdenken ,
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	sollten	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	ihre	ihr	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nk	_	_
+4	Entscheidung	Entscheidung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	oa	_	_
+5	noch	noch	ADV	_		6	mo	_	_
+6	einmal	einmal	ADV	_		7	mo	_	_
+7	überdenken	überdenken	VERB	_	VerbForm=Inf	2	oc	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 17
+# text = denn neben dem Effekt , dass die Schmuddelecken verschwinden ,
+1	denn	denn	CCONJ	_		1	ROOT	_	_
+2	neben	neben	ADP	_		1	cj	_	_
+3	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Effekt	Effekt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	dass	dass	SCONJ	_		9	cp	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	nk	_	_
+8	Schmuddelecken	Schmuddelecke	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	9	sb	_	_
+9	verschwinden	verschwinden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	oc	_	_
+10	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 18
+# text = ist der Weg mit dem gelben Sack vor die Haustür kürzer als die Fahrt zum Container .
+1	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Weg	Weg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+4	mit	mit	ADP	_		3	mnr	_	_
+5	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+6	gelben	gelb	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Sack	Sack	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+8	vor	vor	ADP	_		1	mo	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Haustür	Haustür	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nk	_	_
+11	kürzer	kurz	ADV	_	Degree=Cmp	1	pd	_	_
+12	als	als	ADP	_		14	cm	_	_
+13	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Fahrt	Fahrt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	cc	_	_
+15	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	mnr	_	_
+16	Container	Container	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	15	nk	_	_
+17	.	--	PUNCT	_		1	punct	_	_
+

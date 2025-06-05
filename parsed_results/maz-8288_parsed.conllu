@@ -1,0 +1,227 @@
+# sent_id = 1
+# text = In der Favoritenrolle
+1	In	in	ADP	_		1	ROOT	_	_
+2	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Favoritenrolle	Favoritenrolle	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	nk	_	_
+
+# sent_id = 2
+# text = Gestern begann das Raumordnungsverfahren für die Autobahntrasse zur A2 .
+1	Gestern	gestern	ADV	_		2	mo	_	_
+2	begann	beginnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Raumordnungsverfahren	Raumordnungsverfahren	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	sb	_	_
+5	für	für	ADP	_		4	mnr	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+7	Autobahntrasse	Autobahntras	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nk	_	_
+8	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	7	mnr	_	_
+9	A2	A2	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	nk	_	_
+10	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Ab heute kann jeder Interessierte die Unterlagen vier Wochen in den Ämtern einsehen .
+1	Ab	ab	ADP	_		3	mo	_	_
+2	heute	heute	ADV	_		1	nk	_	_
+3	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	jeder	jeder	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	nk	_	_
+5	Interessierte	Interessierter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	nk	_	_
+7	Unterlagen	Unterlage	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	oa	_	_
+8	vier	vier	NUM	_		9	nk	_	_
+9	Wochen	Woche	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	mo	_	_
+10	in	in	ADP	_		9	mnr	_	_
+11	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	nk	_	_
+12	Ämtern	Amt	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	10	nk	_	_
+13	einsehen	einsehen	VERB	_	VerbForm=Inf	3	oc	_	_
+14	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = In den Planungsvarianten für einen A_2-Zubringer spielt das Havelstädtchen Pritzerbe eine Schlüsselrolle .
+1	In	in	ADP	_		7	mo	_	_
+2	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	nk	_	_
+3	Planungsvarianten	Planungsvariant	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	1	nk	_	_
+4	für	für	ADP	_		3	mnr	_	_
+5	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	A_2-Zubringer	A_2-Zubringer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nk	_	_
+7	spielt	spielen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	nk	_	_
+9	Havelstädtchen	Havelstädtchen	PROPN	_		10	pnc	_	_
+10	Pritzerbe	Pritzerbe	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	sb	_	_
+11	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+12	Schlüsselrolle	Schlüsselrolle	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	oa	_	_
+13	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 5
+# text = Während eine Anbindung der Rathenower Region über Milow als unwahrscheinlich gilt
+1	Während	während	SCONJ	_		11	cp	_	_
+2	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Anbindung	Anbindung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	Rathenower	Rathenower	ADJ	_	Degree=Pos	6	nk	_	_
+6	Region	Region	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+7	über	über	ADP	_		6	mnr	_	_
+8	Milow	Milow	PROPN	_	Case=Acc|Number=Sing	7	nk	_	_
+9	als	als	ADP	_		11	mo	_	_
+10	unwahrscheinlich	unwahrscheinlich	ADV	_	Degree=Pos	9	nk	_	_
+11	gilt	gelten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+
+# sent_id = 6
+# text = und die Döberitzer Variante aus Gründen des Naturschutzes abwegig ist ,
+1	und	und	CCONJ	_		10	ju	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	Döberitzer	Döberitzer	ADJ	_	Degree=Pos	4	nk	_	_
+4	Variante	Variante	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	sb	_	_
+5	aus	aus	ADP	_		4	mnr	_	_
+6	Gründen	Grund	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	nk	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Naturschutzes	Naturschutz	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+9	abwegig	abwegig	ADV	_	Degree=Pos	10	pd	_	_
+10	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 7
+# text = muss Pritzerbe mit seiner Favoritenrolle klarkommen .
+1	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	Pritzerbe	Pritzerbe	PROPN	_	Case=Nom|Number=Sing	1	sb	_	_
+3	mit	mit	ADP	_		6	mo	_	_
+4	seiner	sein	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nk	_	_
+5	Favoritenrolle	Favoritenrolle	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	klarkommen	klarkommen	VERB	_	VerbForm=Inf	1	oc	_	_
+7	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 8
+# text = Für die Stadtverordneten heißt das öffentlich Position zu beziehen .
+1	Für	für	ADP	_		4	mo	_	_
+2	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+3	Stadtverordneten	Stadtverordneten	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	nk	_	_
+4	heißt	heißen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	nk	_	_
+6	öffentlich	öffentlich	ADV	_	Degree=Pos	7	mo	_	_
+7	Position	Position	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	oa	_	_
+8	zu	zu	PART	_		9	pm	_	_
+9	beziehen	beziehen	VERB	_	VerbForm=Inf	4	oc	_	_
+10	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 9
+# text = Diese muss nicht stur für oder gegen eine Havelbrücke ausfallen .
+1	Diese	dieser	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	sb	_	_
+2	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		4	ng	_	_
+4	stur	stur	ADV	_	Degree=Pos	2	mo	_	_
+5	für	für	ADP	_		10	mo	_	_
+6	oder	oder	CCONJ	_		5	cd	_	_
+7	gegen	gegen	ADP	_		6	cj	_	_
+8	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Havelbrücke	Havelbrücke	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nk	_	_
+10	ausfallen	ausfallen	VERB	_	VerbForm=Inf	2	oc	_	_
+11	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Diplomatisches Geschick und politischer Weitblick sind gefragt ,
+1	Diplomatisches	Diplomatisches	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	ag	_	_
+2	Geschick	Geschick	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	sb	_	_
+3	und	und	CCONJ	_		2	cd	_	_
+4	politischer	politisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Weitblick	Weitblick	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	cj	_	_
+6	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	gefragt	fragen	VERB	_	VerbForm=Part	6	pd	_	_
+8	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 11
+# text = wenn es um die Verhandlungsmasse geht .
+1	wenn	wenn	SCONJ	_		6	cp	_	_
+2	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	ep	_	_
+3	um	um	ADP	_		6	op	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Verhandlungsmasse	Verhandlungsmasse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nk	_	_
+6	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 12
+# text = Was die Kommune oder Bürger an Anregungen und Bedenken einreichen , hat Auswirkungen für die nächsten hundert Jahre und darüber hinaus .
+1	Was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	10	sb	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Kommune	Kommune	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	oa	_	_
+4	oder	oder	CCONJ	_		3	cd	_	_
+5	Bürger	Bürger	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	cj	_	_
+6	an	an	ADP	_		10	op	_	_
+7	Anregungen	Anregung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	6	nk	_	_
+8	und	und	CCONJ	_		7	cd	_	_
+9	Bedenken	Bedenken	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	8	cj	_	_
+10	einreichen	einreichen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	sb	_	_
+11	,	--	PUNCT	_		12	punct	_	_
+12	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	Auswirkungen	Auswirkung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	12	oa	_	_
+14	für	für	ADP	_		13	mnr	_	_
+15	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	nk	_	_
+16	nächsten	nächster	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	18	nk	_	_
+17	hundert	hundert	NUM	_		18	nk	_	_
+18	Jahre	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	14	nk	_	_
+19	und	und	CCONJ	_		12	cd	_	_
+20	darüber	darüber	ADV	_		19	cj	_	_
+21	hinaus	hinaus	ADP	_		20	ac	_	_
+22	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 13
+# text = Positive Effekte einer Havelbrücke lassen sich für Pritzerbe gar nicht abschätzen .
+1	Positive	positiv	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	nk	_	_
+2	Effekte	Effekt	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	sb	_	_
+3	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Havelbrücke	Havelbrücke	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	ag	_	_
+5	lassen	lassen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	oa	_	_
+7	für	für	ADP	_		5	mo	_	_
+8	Pritzerbe	Pritzerbe	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	7	nk	_	_
+9	gar	gar	ADV	_		10	mo	_	_
+10	nicht	nicht	PART	_		5	ng	_	_
+11	abschätzen	abschätzen	VERB	_	VerbForm=Inf	5	oc	_	_
+12	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 14
+# text = Ein Gewerbeboom ist kaum zu erwarten .
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Gewerbeboom	Gewerbeboom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	kaum	kaum	ADV	_		6	mo	_	_
+5	zu	zu	PART	_		6	pm	_	_
+6	erwarten	erwarten	VERB	_	VerbForm=Inf	3	oc	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = Dafür könnte die Region vom Wirtschaftsstandort Premnitz/Rathenow mit Arbeitsplätzen profitieren -
+1	Dafür	dafür	ADV	_		2	mo	_	_
+2	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Region	Region	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	4	mnr	_	_
+6	Wirtschaftsstandort	Wirtschaftsstandort	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	Premnitz	Premnitz	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	nk	_	_
+8	/	--	PUNCT	_		6	punct	_	_
+9	Rathenow	Rathenow	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	6	nk	_	_
+10	mit	mit	ADP	_		12	mo	_	_
+11	Arbeitsplätzen	Arbeitsplatz	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	nk	_	_
+12	profitieren	profitieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+13	-	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = wenn er denn überhaupt kommt , der Aufschwung ,
+1	wenn	wenn	SCONJ	_		5	cp	_	_
+2	er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	sb	_	_
+3	denn	denn	ADV	_		5	mo	_	_
+4	überhaupt	überhaupt	ADV	_		5	mo	_	_
+5	kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Aufschwung	Aufschwung	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	app	_	_
+9	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 17
+# text = den havelländische Firmen vom A_2-Zubringer abhängig machen .
+1	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	nk	_	_
+2	havelländische	havelländisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	nk	_	_
+3	Firmen	Firma	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	oa	_	_
+4	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	3	mnr	_	_
+5	A_2-Zubringer	A_2-Zubringer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	abhängig	abhängig	ADV	_	Degree=Pos	7	mo	_	_
+7	machen	machen	VERB	_	VerbForm=Inf	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+

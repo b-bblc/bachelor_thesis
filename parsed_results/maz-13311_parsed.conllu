@@ -1,0 +1,197 @@
+# sent_id = 1
+# text = Spaß in der ersten Reihe
+1	Spaß	Spaß	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	ROOT	_	_
+2	in	in	ADP	_		1	mnr	_	_
+3	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Reihe	Reihe	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+
+# sent_id = 2
+# text = Das ganze Leben ist ein Quiz
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+2	ganze	ganz	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nk	_	_
+3	Leben	Leben	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Quiz	Quiz	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	pd	_	_
+
+# sent_id = 3
+# text = und wir sind nur die Kandidaten , sang bereits vor zehn Jahren Hape Kerkeling .
+1	und	und	CCONJ	_		3	ju	_	_
+2	wir	wir	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	sb	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	nur	nur	ADV	_		6	mo	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	nk	_	_
+6	Kandidaten	Kandidat	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	pd	_	_
+7	,	--	PUNCT	_		8	punct	_	_
+8	sang	singen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cj	_	_
+9	bereits	bereits	ADV	_		8	mo	_	_
+10	vor	vor	ADP	_		8	mo	_	_
+11	zehn	zehn	NUM	_		12	nk	_	_
+12	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	10	nk	_	_
+13	Hape	Hape	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nk	_	_
+14	Kerkeling	Kerkeling	PROPN	_	Case=Nom|Number=Sing	8	oa	_	_
+15	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Nun bestätigt eine Studie den weitsichtigen Entertainer :
+1	Nun	nun	ADV	_		2	mo	_	_
+2	bestätigt	bestätigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	Studie	Studie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+6	weitsichtigen	weitsichtig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Entertainer	Entertainer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+8	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = Die Entwicklung - vor allem im öffentlich-rechtlichen Fernsehen - geht stramm in Richtung Unterhaltung .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Entwicklung	Entwicklung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	sb	_	_
+3	-	--	PUNCT	_		2	punct	_	_
+4	vor	vor	ADP	_		6	mo	_	_
+5	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	4	nk	_	_
+6	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	2	mnr	_	_
+7	öffentlich-rechtlichen	öffentlich-rechtlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Fernsehen	Fernsehen	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+9	-	--	PUNCT	_		10	punct	_	_
+10	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	stramm	stramm	ADV	_		10	mo	_	_
+12	in	in	ADP	_		10	mo	_	_
+13	Richtung	Richtung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	nk	_	_
+14	Unterhaltung	Unterhaltung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nk	_	_
+15	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 6
+# text = Der Anteil politischer Sendungen am Programm hat weiter abgenommen
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Anteil	Anteil	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	sb	_	_
+3	politischer	politisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	4	nk	_	_
+4	Sendungen	Sendung	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	ag	_	_
+5	am	an	ADP	_	Case=Dat|Gender=Neut|Number=Sing	2	mnr	_	_
+6	Programm	Programm	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	weiter	weiter	ADV	_		9	mo	_	_
+9	abgenommen	abnehmen	VERB	_	VerbForm=Part	7	oc	_	_
+
+# sent_id = 7
+# text = und ein Ende ist nicht in Sicht .
+1	und	und	CCONJ	_		4	ju	_	_
+2	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Ende	Ende	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	nicht	nicht	PART	_		4	ng	_	_
+6	in	in	ADP	_		4	mo	_	_
+7	Sicht	Sicht	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 8
+# text = Dass private Anbieter , die sich nur durch Werbung finanzieren , publikumswirksame Unterhaltungssendungen in den Vordergrund stellen , ist verständlich .
+1	Dass	dass	SCONJ	_		17	cp	_	_
+2	private	privat	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nk	_	_
+3	Anbieter	Anbieter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	sb	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	die	der	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	sb	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+7	nur	nur	ADV	_		8	mo	_	_
+8	durch	durch	ADP	_		10	mo	_	_
+9	Werbung	Werbung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nk	_	_
+10	finanzieren	finanzieren	VERB	_	VerbForm=Inf	3	rc	_	_
+11	,	--	PUNCT	_		17	punct	_	_
+12	publikumswirksame	publikumswirksam	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	13	nk	_	_
+13	Unterhaltungssendungen	Unterhaltungssendung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	17	oa	_	_
+14	in	in	ADP	_		17	mo	_	_
+15	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	nk	_	_
+16	Vordergrund	Vordergrund	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	nk	_	_
+17	stellen	stellen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	sb	_	_
+18	,	--	PUNCT	_		19	punct	_	_
+19	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ROOT	_	_
+20	verständlich	verständlich	ADV	_	Degree=Pos	19	pd	_	_
+21	.	--	PUNCT	_		19	punct	_	_
+
+# sent_id = 9
+# text = Dass aber die gebührenfinanzierten Programme ihren Auftrag - die fernsehpublizistische und politische Grundversorgung zu sichern - zunehmend ignorieren , ist mehr als bedenklich .
+1	Dass	dass	SCONJ	_		18	cp	_	_
+2	aber	aber	ADV	_		18	mo	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	nk	_	_
+4	gebührenfinanzierten	gebührenfinanziert	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	nk	_	_
+5	Programme	Programm	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	18	sb	_	_
+6	ihren	ihr	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nk	_	_
+7	Auftrag	Auftrag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	oa	_	_
+8	-	--	PUNCT	_		7	punct	_	_
+9	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	nk	_	_
+10	fernsehpublizistische	fernsehpublizistisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	nk	_	_
+11	und	und	CCONJ	_		10	cd	_	_
+12	politische	politisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	cj	_	_
+13	Grundversorgung	Grundversorgung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	oa	_	_
+14	zu	zu	PART	_		15	pm	_	_
+15	sichern	sichern	VERB	_	VerbForm=Inf	7	oc	_	_
+16	-	--	PUNCT	_		18	punct	_	_
+17	zunehmend	zunehmend	ADV	_	Degree=Pos	18	mo	_	_
+18	ignorieren	ignorieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	sb	_	_
+19	,	--	PUNCT	_		20	punct	_	_
+20	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	ROOT	_	_
+21	mehr	mehr	PRON	_	PronType=Ind	20	pd	_	_
+22	als	als	ADP	_		23	cm	_	_
+23	bedenklich	bedenklich	ADV	_	Degree=Pos	21	cc	_	_
+24	.	--	PUNCT	_		20	punct	_	_
+
+# sent_id = 10
+# text = Denn das öffentliche Mandat fordert eine gesunde Mischung von Unterhaltung und Information .
+1	Denn	denn	CCONJ	_		5	ju	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+3	öffentliche	öffentlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nk	_	_
+4	Mandat	Mandat	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	sb	_	_
+5	fordert	fordern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+7	gesunde	gesund	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Mischung	Mischung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	oa	_	_
+9	von	von	ADP	_		8	pg	_	_
+10	Unterhaltung	Unterhaltung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+11	und	und	CCONJ	_		10	cd	_	_
+12	Information	Information	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	cj	_	_
+13	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 11
+# text = Dafür zahlen wir Gebühren .
+1	Dafür	dafür	ADV	_		2	mo	_	_
+2	zahlen	zahlen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	wir	wir	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	sb	_	_
+4	Gebühren	Gebühr	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	oa	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Wenn an Katastrophen-Tagen Sondersendungen wie der " ARD-Brennpunkt " laufen ,
+1	Wenn	wenn	SCONJ	_		10	cp	_	_
+2	an	an	ADP	_		10	mo	_	_
+3	Katastrophen-Tagen	Katastrophen-Tag	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	nk	_	_
+4	Sondersendungen	Sondersendung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nk	_	_
+5	wie	wie	ADP	_		8	cm	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	"	--	PUNCT	_		8	punct	_	_
+8	ARD-Brennpunkt	ARD-Brennpunkt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	cc	_	_
+9	"	--	PUNCT	_		8	punct	_	_
+10	laufen	laufen	VERB	_	VerbForm=Inf	10	ROOT	_	_
+11	,	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 13
+# text = kann das nicht darüber hinwegtäuschen , dass die Spaßgesellschaft längst auch beim öffentlich-rechtlichen Rundfunk den Ton angibt .
+1	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	sb	_	_
+3	nicht	nicht	PART	_		1	ng	_	_
+4	darüber	darüber	ADV	_		5	op	_	_
+5	hinwegtäuschen	hinwegtäuschen	VERB	_	VerbForm=Inf	1	oc	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	dass	dass	SCONJ	_		17	cp	_	_
+8	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Spaßgesellschaft	Spaßgesellschaft	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	sb	_	_
+10	längst	längst	ADV	_		17	mo	_	_
+11	auch	auch	ADV	_		12	mo	_	_
+12	beim	bei	ADP	_	Case=Dat|Gender=Masc|Number=Sing	17	mo	_	_
+13	öffentlich-rechtlichen	öffentlich-rechtlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	nk	_	_
+14	Rundfunk	Rundfunk	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	nk	_	_
+15	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	nk	_	_
+16	Ton	Ton	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	oa	_	_
+17	angibt	angeben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	re	_	_
+18	.	--	PUNCT	_		1	punct	_	_
+

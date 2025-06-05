@@ -1,0 +1,193 @@
+# sent_id = 1
+# text = Normal-Krise
+1	Normal-Krise	Normal-Kris	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Umweltminister Jürgen Trittin hat es erst gestern wieder unumwunden ausgesprochen :
+1	Umweltminister	Umweltminister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+2	Jürgen	Jürgen	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	pnc	_	_
+3	Trittin	Trittin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nk	_	_
+4	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	oa	_	_
+6	erst	erst	ADV	_		10	mo	_	_
+7	gestern	gestern	ADV	_		10	mo	_	_
+8	wieder	wieder	ADV	_		10	mo	_	_
+9	unumwunden	unumwunden	ADV	_	Degree=Pos	10	mo	_	_
+10	ausgesprochen	aussprechen	VERB	_	VerbForm=Part	4	oc	_	_
+11	:	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 3
+# text = Die Krise ist bei den Grünen der Normalzustand .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Krise	Krise	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	bei	bei	ADP	_		3	mo	_	_
+5	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	6	nk	_	_
+6	Grünen	grüne	NOUN	_	Case=Dat|Number=Plur	4	nk	_	_
+7	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Normalzustand	Normalzustand	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	pd	_	_
+9	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = So schonungslose Offenheit ist an sich zwar bemerkenswert ,
+1	So	so	ADV	_		2	mo	_	_
+2	schonungslose	schonungslos	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Offenheit	Offenheit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	an	an	ADP	_		8	mo	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nk	_	_
+7	zwar	zwar	ADV	_		5	mo	_	_
+8	bemerkenswert	bemerkenswert	ADV	_	Degree=Pos	4	pd	_	_
+9	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 5
+# text = sie beantwortet aber nicht die Frage , weshalb man eine " Krisenpartei " in der Bundesregierung braucht .
+1	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	beantwortet	beantworten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	aber	aber	ADV	_		2	mo	_	_
+4	nicht	nicht	PART	_		2	ng	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Frage	Frage	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	oa	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	weshalb	weshalb	SCONJ	_	PronType=Int	17	mo	_	_
+9	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	17	sb	_	_
+10	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	nk	_	_
+11	"	--	PUNCT	_		12	punct	_	_
+12	Krisenpartei	Krisenpartei	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	oa	_	_
+13	"	--	PUNCT	_		12	punct	_	_
+14	in	in	ADP	_		12	mnr	_	_
+15	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	nk	_	_
+16	Bundesregierung	Bundesregierung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	nk	_	_
+17	braucht	brauchen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	oc	_	_
+18	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Wenn die Vorzeichen nicht trügen ,
+1	Wenn	wenn	SCONJ	_		5	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	nk	_	_
+3	Vorzeichen	Vorzeichen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	sb	_	_
+4	nicht	nicht	PART	_		5	ng	_	_
+5	trügen	trügen	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 7
+# text = so könnte in Rostock in der Tat wieder einmal ein klassischer Kompromiss herauskommen - gegen den Militär-Einsatz und für die weitere Beteiligung an der Bundesregierung .
+1	so	so	ADV	_		2	mo	_	_
+2	könnte	können	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	in	in	ADP	_		2	mo	_	_
+4	Rostock	Rostock	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	in	in	ADP	_		2	mo	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Tat	Tat	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	wieder	wieder	ADV	_		2	mo	_	_
+9	einmal	einmal	ADV	_		2	mo	_	_
+10	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+11	klassischer	klassisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	nk	_	_
+12	Kompromiss	Kompromiss	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+13	herauskommen	herauskommen	VERB	_	VerbForm=Inf	2	oc	_	_
+14	-	--	PUNCT	_		2	punct	_	_
+15	gegen	gegen	ADP	_		2	mo	_	_
+16	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	nk	_	_
+17	Militär-Einsatz	Militär-Einsatz	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	nk	_	_
+18	und	und	CCONJ	_		15	cd	_	_
+19	für	für	ADP	_		18	cj	_	_
+20	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	nk	_	_
+21	weitere	weit	ADJ	_	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	22	nk	_	_
+22	Beteiligung	Beteiligung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	nk	_	_
+23	an	an	ADP	_		22	mnr	_	_
+24	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	nk	_	_
+25	Bundesregierung	Bundesregierung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	23	nk	_	_
+26	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 8
+# text = Außenminister Joschka Fischer freilich darf seiner Basis solche politischen Kindereien nicht durchgehen lassen .
+1	Außenminister	Außenminister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+2	Joschka	Joschka	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	pnc	_	_
+3	Fischer	Fischer	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nk	_	_
+4	freilich	freilich	ADV	_		1	mo	_	_
+5	darf	dürfen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	seiner	sein	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	nk	_	_
+7	Basis	Basis	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	da	_	_
+8	solche	solcher	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	10	nk	_	_
+9	politischen	politisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	10	nk	_	_
+10	Kindereien	Kindereie	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	oa	_	_
+11	nicht	nicht	PART	_		13	ng	_	_
+12	durchgehen	durchgehen	VERB	_	VerbForm=Inf	13	oc	_	_
+13	lassen	lassen	VERB	_	VerbForm=Inf	5	oc	_	_
+14	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 9
+# text = Es kann nicht sein , dass die Basis gewissermaßen die Moral pachtet
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nicht	nicht	PART	_		2	ng	_	_
+4	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	dass	dass	SCONJ	_		12	cp	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Basis	Basis	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	sb	_	_
+9	gewissermaßen	gewissermaßen	ADV	_		11	mo	_	_
+10	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Moral	Moral	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	oa	_	_
+12	pachtet	pachten	VERB	_	VerbForm=Part	1	re	_	_
+
+# sent_id = 10
+# text = und ihn die realpolitische Schmutzarbeit machen lässt .
+1	und	und	CCONJ	_		7	ju	_	_
+2	ihn	ihn	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	oa	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	realpolitische	realpolitisch	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	Schmutzarbeit	Schmutzarbeit	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+6	machen	machen	VERB	_	VerbForm=Inf	7	oc	_	_
+7	lässt	lässt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 11
+# text = Den Einsatz " zur Kenntnis zu nehmen " , wie Brandenburgs Grüne dies wollen , ist der Gipfel parteipolitischer Bigotterie :
+1	Den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Einsatz	Einsatz	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	oa	_	_
+3	"	--	PUNCT	_		7	punct	_	_
+4	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	7	cvc	_	_
+5	Kenntnis	Kenntnis	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nk	_	_
+6	zu	zu	PART	_		7	pm	_	_
+7	nehmen	nehmen	VERB	_	VerbForm=Inf	16	mo	_	_
+8	"	--	PUNCT	_		7	punct	_	_
+9	,	--	PUNCT	_		7	punct	_	_
+10	wie	wie	SCONJ	_	PronType=Int	14	mo	_	_
+11	Brandenburgs	Brandenburg	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	12	ag	_	_
+12	Grüne	grüne	NOUN	_	Case=Nom|Number=Plur	14	sb	_	_
+13	dies	dieser	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	14	oa	_	_
+14	wollen	wollen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	mo	_	_
+15	,	--	PUNCT	_		16	punct	_	_
+16	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ROOT	_	_
+17	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	nk	_	_
+18	Gipfel	Gipfel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	sb	_	_
+19	parteipolitischer	parteipolitisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	nk	_	_
+20	Bigotterie	Bigotterie	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	18	ag	_	_
+21	:	--	PUNCT	_		16	punct	_	_
+
+# sent_id = 12
+# text = Entweder die Basis stützt den Minister
+1	Entweder	entweder	CCONJ	_		4	cd	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Basis	Basis	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	sb	_	_
+4	stützt	stützen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+6	Minister	Minister	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	oa	_	_
+
+# sent_id = 13
+# text = oder sie stürzt ihn .
+1	oder	oder	CCONJ	_		3	ju	_	_
+2	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	stürzt	stürzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	ihn	ihn	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	oa	_	_
+5	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = Dazwischen gibt es nichts .
+1	Dazwischen	dazwischen	ADV	_		2	mo	_	_
+2	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+4	nichts	nichts	PRON	_	Gender=Neut|PronType=Ind	2	oa	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+

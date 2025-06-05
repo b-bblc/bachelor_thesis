@@ -1,0 +1,210 @@
+# sent_id = 1
+# text = Absicht
+1	Absicht	Absicht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Erst rührt sich niemand unter den Dallgower Kommunalpolitikern ,
+1	Erst	erst	ADV	_		2	mo	_	_
+2	rührt	rühren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+4	niemand	niemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	sb	_	_
+5	unter	unter	ADP	_		2	mo	_	_
+6	den	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	7	nk	_	_
+7	Dallgower	Dallgower	PROPN	_	Gender=Masc	5	nk	_	_
+8	Kommunalpolitikern	Kommunalpolitiker	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	7	nk	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = nun überschlagen sich alle mit Anträgen zur Gemeindereform und den vorausgehenden Verhandlungen mit den südlichen Nachbarn .
+1	nun	nun	ADV	_		2	mo	_	_
+2	überschlagen	überschlagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	oa	_	_
+4	alle	alle	PRON	_	Case=Nom|Number=Plur|PronType=Ind	2	sb	_	_
+5	mit	mit	ADP	_		2	mo	_	_
+6	Anträgen	Antrag	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	5	nk	_	_
+7	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	6	mnr	_	_
+8	Gemeindereform	Gemeindereform	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+9	und	und	CCONJ	_		6	cd	_	_
+10	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	nk	_	_
+11	vorausgehenden	vorausgehend	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	12	nk	_	_
+12	Verhandlungen	Verhandlung	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	9	cj	_	_
+13	mit	mit	ADP	_		12	op	_	_
+14	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	nk	_	_
+15	südlichen	südlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	16	nk	_	_
+16	Nachbarn	Nachbar	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	nk	_	_
+17	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Nicht klar wird zum jetzigen Zeitpunkt , welche Absichten hinter dem plötzlichen Aktionismus stehen :
+1	Nicht	nicht	PART	_		2	ng	_	_
+2	klar	klar	ADV	_	Degree=Pos	3	pd	_	_
+3	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	mo	_	_
+5	jetzigen	jetzig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+6	Zeitpunkt	Zeitpunkt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+7	,	--	PUNCT	_		6	punct	_	_
+8	welche	welcher	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	9	nk	_	_
+9	Absichten	Absicht	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	sb	_	_
+10	hinter	hinter	ADP	_		14	mo	_	_
+11	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	nk	_	_
+12	plötzlichen	plötzlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	13	nk	_	_
+13	Aktionismus	Aktionismus	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	nk	_	_
+14	stehen	stehen	VERB	_	VerbForm=Inf	3	oc	_	_
+15	:	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = Will die SPD-Fraktion - bisher völlig uneins über Dallgows Zukunft - wirklich faire Verhandlungen anstreben ?
+1	Will	Wollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	SPD-Fraktion	SPD-Fraktion	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	sb	_	_
+4	-	--	PUNCT	_		1	punct	_	_
+5	bisher	bisher	ADV	_		7	mo	_	_
+6	völlig	völlig	ADV	_	Degree=Pos	7	mo	_	_
+7	uneins	uneins	ADV	_		8	mo	_	_
+8	über	über	ADP	_		1	mo	_	_
+9	Dallgows	Dallgow	PROPN	_	Case=Gen|Number=Sing	10	ag	_	_
+10	Zukunft	Zukunft	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nk	_	_
+11	-	--	PUNCT	_		8	punct	_	_
+12	wirklich	wirklich	ADV	_	Degree=Pos	13	mo	_	_
+13	faire	fair	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	nk	_	_
+14	Verhandlungen	Verhandlung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	oa	_	_
+15	anstreben	anstreben	VERB	_	VerbForm=Inf	1	oc	_	_
+16	?	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 6
+# text = Warum stellt sie dann schier unannehmbare Bedingungen ,
+1	Warum	warum	ADV	_	PronType=Int	2	mo	_	_
+2	stellt	stellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	dann	dann	ADV	_		2	mo	_	_
+5	schier	schier	ADV	_	Degree=Pos	6	mo	_	_
+6	unannehmbare	unannehmbar	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	7	nk	_	_
+7	Bedingungen	Bedingung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	oa	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = indem sie den Bürgermeister mit einem solch eng geschnürten Verhandlungsmandat ausstattet ,
+1	indem	indem	SCONJ	_		11	cp	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	sb	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Bürgermeister	Bürgermeister	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	oa	_	_
+5	mit	mit	ADP	_		11	op	_	_
+6	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	10	nk	_	_
+7	solch	solch	DET	_	PronType=Ind	8	mo	_	_
+8	eng	eng	ADV	_	Degree=Pos	9	mo	_	_
+9	geschnürten	geschnürt	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Verhandlungsmandat	Verhandlungsmandat	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+11	ausstattet	ausstatten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	,	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 8
+# text = dass dieser nur noch das Wie der Eingemeindung klären darf .
+1	dass	dass	SCONJ	_		10	cp	_	_
+2	dieser	dieser	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	sb	_	_
+3	nur	nur	ADV	_		8	mo	_	_
+4	noch	noch	ADV	_		3	mo	_	_
+5	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Wie	wie	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	cm	_	_
+7	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Eingemeindung	Eingemeindung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	oa	_	_
+9	klären	klären	VERB	_	VerbForm=Inf	10	oc	_	_
+10	darf	dürfen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 9
+# text = Warum beharrt die CDU auf einer neuerlichen Einwohnerversammlung ?
+1	Warum	warum	ADV	_	PronType=Int	2	mo	_	_
+2	beharrt	beharren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+4	CDU	CDU	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+5	auf	auf	ADP	_		2	op	_	_
+6	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+7	neuerlichen	neuerlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Einwohnerversammlung	Einwohnerversammlung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+9	?	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Warten die Christdemokraten nur darauf , genügend Claqueure zusammenzubekommen ,
+1	Warten	warten	NOUN	_	Case=Nom|Number=Plur	1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nk	_	_
+3	Christdemokraten	Christdemokrat	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	sb	_	_
+4	nur	nur	ADV	_		5	mo	_	_
+5	darauf	darauf	ADV	_		1	op	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	genügend	genügend	DET	_	PronType=Ind	8	nk	_	_
+8	Claqueure	Claqueur	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	oa	_	_
+9	zusammenzubekommen	zusammenzubekommen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	re	_	_
+10	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 11
+# text = die sie in ihrer Ablehnung zu jeglichen Fusionen bestätigen ?
+1	die	der	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	9	oa	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	sb	_	_
+3	in	in	ADP	_		9	mo	_	_
+4	ihrer	ihr	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nk	_	_
+5	Ablehnung	Ablehnung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+6	zu	zu	ADP	_		9	mo	_	_
+7	jeglichen	jeglicher	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	8	nk	_	_
+8	Fusionen	Fusion	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	6	nk	_	_
+9	bestätigen	bestätigen	VERB	_	VerbForm=Inf	9	ROOT	_	_
+10	?	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 12
+# text = Allein eine Fraktion , die der Freien Wählergemeinschaft , ist bisher mit einer einheitlichen und nachvollziehbaren Argumentationslinie aufgetreten ,
+1	Allein	allein	ADV	_		3	mo	_	_
+2	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Fraktion	Fraktion	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	die	der	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	10	sb	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+7	Freien	frei	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Wählergemeinschaft	Wählergemeinschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	ag	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	rc	_	_
+11	bisher	bisher	ADV	_		18	mo	_	_
+12	mit	mit	ADP	_		18	mo	_	_
+13	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+14	einheitlichen	einheitlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+15	und	und	CCONJ	_		14	cd	_	_
+16	nachvollziehbaren	nachvollziehbar	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	15	cj	_	_
+17	Argumentationslinie	Argumentationslinie	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nk	_	_
+18	aufgetreten	auftreten	VERB	_	VerbForm=Part	10	oc	_	_
+19	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = bekennt sich zum Dreierbund
+1	bekennt	bekennen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	oa	_	_
+3	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	1	op	_	_
+4	Dreierbund	Dreierbund	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+
+# sent_id = 14
+# text = und lässt Spielraum für die Art des Zustandekommens .
+1	und	und	CCONJ	_		2	ju	_	_
+2	lässt	lässt	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Spielraum	Spielraum	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+4	für	für	ADP	_		3	mnr	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Art	Art	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	nk	_	_
+7	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Zustandekommens	Zustandekommen	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	ag	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = Die anderen werden am nächsten Mittwoch beweisen müssen , dass sie es ehrlich meinen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	nk	_	_
+2	anderen	anderer	PRON	_	Case=Nom|Number=Plur|PronType=Ind	3	sb	_	_
+3	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mo	_	_
+5	nächsten	nächster	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+6	Mittwoch	Mittwoch	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+7	beweisen	beweisen	VERB	_	VerbForm=Inf	8	oc	_	_
+8	müssen	müssen	AUX	_	VerbForm=Inf	3	oc	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	dass	dass	SCONJ	_		14	cp	_	_
+11	sie	sie	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	sb	_	_
+12	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	oa	_	_
+13	ehrlich	ehrlich	ADV	_	Degree=Pos	14	mo	_	_
+14	meinen	meinen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	oc	_	_
+15	.	--	PUNCT	_		3	punct	_	_
+

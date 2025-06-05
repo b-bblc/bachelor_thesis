@@ -1,0 +1,240 @@
+# sent_id = 1
+# text = Ein schöner Start
+1	Ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+2	schöner	schön	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nk	_	_
+3	Start	Start	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	ROOT	_	_
+
+# sent_id = 2
+# text = Es hätte für Luckenwaldes designierte Bürgermeisterin Elisabeth Herzog-von_der_Heide nicht besser kommen können .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	hätte	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	für	für	ADP	_		5	mo	_	_
+4	Luckenwaldes	Luckenwaldes	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	3	nk	_	_
+5	designierte	designiert	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Bürgermeisterin	Bürgermeisterin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+7	Elisabeth	Elisabeth	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	pnc	_	_
+8	Herzog-von_der_Heide	Herzog-von_der_Heide	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	nk	_	_
+9	nicht	nicht	PART	_		12	ng	_	_
+10	besser	gut	ADV	_	Degree=Cmp	11	mo	_	_
+11	kommen	kommen	VERB	_	VerbForm=Inf	12	oc	_	_
+12	können	können	AUX	_	VerbForm=Inf	2	oc	_	_
+13	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Gleich am ersten Tag nach ihrem Wahlsieg kam - so als ob es so geplant gewesen wäre - der EU-Kommissar für Regionalpolitik aus Brüssel ,
+1	Gleich	gleich	ADV	_		2	mo	_	_
+2	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	8	mo	_	_
+3	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	nk	_	_
+4	Tag	Tag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nk	_	_
+5	nach	nach	ADP	_		8	mo	_	_
+6	ihrem	ihr	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nk	_	_
+7	Wahlsieg	Wahlsieg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+8	kam	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	-	--	PUNCT	_		8	punct	_	_
+10	so	so	ADV	_		8	mo	_	_
+11	als	als	SCONJ	_		17	cm	_	_
+12	ob	ob	SCONJ	_		17	cp	_	_
+13	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	sb	_	_
+14	so	so	ADV	_		15	mo	_	_
+15	geplant	planen	VERB	_	VerbForm=Part	16	pd	_	_
+16	gewesen	sein	AUX	_	VerbForm=Part	17	oc	_	_
+17	wäre	sein	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cc	_	_
+18	-	--	PUNCT	_		17	punct	_	_
+19	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	nk	_	_
+20	EU-Kommissar	EU-Kommissar	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	sb	_	_
+21	für	für	ADP	_		20	mnr	_	_
+22	Regionalpolitik	Regionalpolitik	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	nk	_	_
+23	aus	aus	ADP	_		20	mnr	_	_
+24	Brüssel	Brüssel	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	23	nk	_	_
+25	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 4
+# text = um hier mit Vertretern der letzten drei deutschen Urban-Städte die Programm-Verträge zu unterzeichnen .
+1	um	um	SCONJ	_		13	cp	_	_
+2	hier	hier	ADV	_		13	mo	_	_
+3	mit	mit	ADP	_		13	mo	_	_
+4	Vertretern	Vertreter	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	3	nk	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	nk	_	_
+6	letzten	letzter	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+7	drei	drei	NUM	_		9	nk	_	_
+8	deutschen	deutsch	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+9	Urban-Städte	Urban-Stadt	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	ag	_	_
+10	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nk	_	_
+11	Programm-Verträge	Programm-Vertrag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	oa	_	_
+12	zu	zu	PART	_		13	pm	_	_
+13	unterzeichnen	unterzeichnen	VERB	_	VerbForm=Inf	13	ROOT	_	_
+14	.	--	PUNCT	_		13	punct	_	_
+
+# sent_id = 5
+# text = Natürlich war es so nicht geplant gewesen ,
+1	Natürlich	natürlich	ADV	_		2	mo	_	_
+2	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+4	so	so	ADV	_		6	mo	_	_
+5	nicht	nicht	PART	_		6	ng	_	_
+6	geplant	planen	VERB	_	VerbForm=Part	7	oc	_	_
+7	gewesen	sein	AUX	_	VerbForm=Part	2	oc	_	_
+8	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = sondern ein rein zufälliges Zusammentreffen zweier für Luckenwalde bedeutsamer Ereignisse ,
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+3	rein	rein	ADV	_	Degree=Pos	4	mo	_	_
+4	zufälliges	zufällig	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	nk	_	_
+5	Zusammentreffen	Zusammentreffen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	cj	_	_
+6	zweier	zwei	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	10	nk	_	_
+7	für	für	ADP	_		6	mo	_	_
+8	Luckenwalde	Luckenwalde	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	7	nk	_	_
+9	bedeutsamer	bedeutsam	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	10	nk	_	_
+10	Ereignisse	Ereignis	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	ag	_	_
+11	,	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 7
+# text = an denen Elisabeth Herzog nicht unbeteiligt war .
+1	an	an	ADP	_		6	mo	_	_
+2	denen	der	PRON	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Rel	1	nk	_	_
+3	Elisabeth	Elisabeth	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	pnc	_	_
+4	Herzog	Herzog	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	sb	_	_
+5	nicht	nicht	PART	_		6	ng	_	_
+6	unbeteiligt	unbeteiligt	ADV	_	Degree=Pos	7	pd	_	_
+7	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	ROOT	_	_
+8	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = Dass Luckenwalde als kleinste von insgesamt zwölf deutschen Städten vom Urban-II-Projekt profitiert , ist ganz wesentlich der 2. Beigeordneten und künftigen Bürgermeisterin zu verdanken ,
+1	Dass	dass	SCONJ	_		12	cp	_	_
+2	Luckenwalde	Luckenwalde	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	sb	_	_
+3	als	als	ADP	_		12	mo	_	_
+4	kleinste	klein	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	3	nk	_	_
+5	von	von	ADP	_		4	mnr	_	_
+6	insgesamt	insgesamt	ADV	_		7	mo	_	_
+7	zwölf	zwölf	NUM	_		9	nk	_	_
+8	deutschen	deutsch	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	9	nk	_	_
+9	Städten	Stadt	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	nk	_	_
+10	vom	von	ADP	_	Case=Dat|Gender=Neut|Number=Sing	9	mnr	_	_
+11	Urban-II-Projekt	Urban-II-Projekt	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+12	profitiert	profitieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	sb	_	_
+13	,	--	PUNCT	_		14	punct	_	_
+14	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ROOT	_	_
+15	ganz	ganz	ADV	_		16	mo	_	_
+16	wesentlich	wesentlich	ADV	_	Degree=Pos	19	mo	_	_
+17	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	nk	_	_
+18	2.	2.	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	nk	_	_
+19	Beigeordneten	beigeordneter	NOUN	_	Case=Gen|Number=Plur	24	da	_	_
+20	und	und	CCONJ	_		19	cd	_	_
+21	künftigen	künftig	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	22	nk	_	_
+22	Bürgermeisterin	Bürgermeisterin	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	20	cj	_	_
+23	zu	zu	PART	_		24	pm	_	_
+24	verdanken	verdanken	VERB	_	VerbForm=Inf	14	oc	_	_
+25	,	--	PUNCT	_		14	punct	_	_
+
+# sent_id = 9
+# text = was ihr im Wahlkampf sicherlich auch geholfen hat .
+1	was	was	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	sb	_	_
+2	ihr	ihr	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	da	_	_
+3	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mo	_	_
+4	Wahlkampf	Wahlkampf	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+5	sicherlich	sicherlich	ADV	_		7	mo	_	_
+6	auch	auch	ADV	_		7	mo	_	_
+7	geholfen	helfen	VERB	_	VerbForm=Part	8	oc	_	_
+8	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 10
+# text = Brandenburgs Städtebauminister Hartmut Meyer meinte dann auch gestern :
+1	Brandenburgs	Brandenburg	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	2	ag	_	_
+2	Städtebauminister	Städtebauminister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+3	Hartmut	Hartmut	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	pnc	_	_
+4	Meyer	Meyer	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nk	_	_
+5	meinte	meinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	dann	dann	ADV	_		5	mo	_	_
+7	auch	auch	ADV	_		5	mo	_	_
+8	gestern	gestern	ADV	_		5	mo	_	_
+9	:	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 11
+# text = " Es ist ein guter Start ,
+1	"	--	PUNCT	_		1	ROOT	_	_
+2	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	nk	_	_
+5	guter	gut	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+6	Start	Start	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	pd	_	_
+7	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 12
+# text = wenn man gleich am ersten Tag 38 Millionen Mark bekommt .
+1	wenn	wenn	SCONJ	_		10	cp	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	10	sb	_	_
+3	gleich	gleich	ADV	_		4	mo	_	_
+4	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	10	mo	_	_
+5	ersten	erster	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+6	Tag	Tag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+7	38	38	NUM	_		8	nmc	_	_
+8	Millionen	Million	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	oa	_	_
+9	Mark	Mark	NOUN	_	Gender=Fem	8	nk	_	_
+10	bekommt	bekommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 13
+# text = Wenn das so weiter geht ... "
+1	Wenn	wenn	SCONJ	_		5	cp	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	sb	_	_
+3	so	so	ADV	_		4	mo	_	_
+4	weiter	weiter	ADV	_		5	mo	_	_
+5	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	...	--	PUNCT	_		5	punct	_	_
+7	"	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 14
+# text = Natürlich geht es nicht so weiter ,
+1	Natürlich	natürlich	ADV	_		2	mo	_	_
+2	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+4	nicht	nicht	PART	_		2	ng	_	_
+5	so	so	ADV	_		6	mo	_	_
+6	weiter	weiter	ADV	_		2	mo	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 15
+# text = jedenfalls nicht Tag für Tag .
+1	jedenfalls	jedenfalls	ADV	_		3	mo	_	_
+2	nicht	nicht	PART	_		3	ng	_	_
+3	Tag	Tag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	ROOT	_	_
+4	für	für	ADP	_		3	mnr	_	_
+5	Tag	Tag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nk	_	_
+6	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 16
+# text = Und nach all den Vorschusslorbeeren meinte Minister Meyer dann auch zur künftigen Bürgermeisterin :
+1	Und	und	CCONJ	_		6	ju	_	_
+2	nach	nach	ADP	_		6	mo	_	_
+3	all	all	DET	_	PronType=Ind	5	nk	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	nk	_	_
+5	Vorschusslorbeeren	Vorschusslorbeer	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	2	nk	_	_
+6	meinte	meinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	Minister	Minister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	sb	_	_
+8	Meyer	Meyer	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nk	_	_
+9	dann	dann	ADV	_		6	mo	_	_
+10	auch	auch	ADV	_		6	mo	_	_
+11	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	6	mo	_	_
+12	künftigen	künftig	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	13	nk	_	_
+13	Bürgermeisterin	Bürgermeisterin	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	nk	_	_
+14	:	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 17
+# text = " Jetzt werden Sie erst einmal an Ihren Taten gemessen . "
+1	"	--	PUNCT	_		10	punct	_	_
+2	Jetzt	jetzt	ADV	_		10	mo	_	_
+3	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	sb	_	_
+5	erst	erst	ADV	_		6	mo	_	_
+6	einmal	einmal	ADV	_		10	mo	_	_
+7	an	an	ADP	_		10	op	_	_
+8	Ihren	ihr	DET	_	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	nk	_	_
+9	Taten	Tat	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	7	nk	_	_
+10	gemessen	messen	VERB	_	VerbForm=Part	3	oc	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+12	"	--	PUNCT	_		3	punct	_	_
+

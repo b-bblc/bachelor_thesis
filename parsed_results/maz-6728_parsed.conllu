@@ -1,0 +1,224 @@
+# sent_id = 1
+# text = Ansturm
+1	Ansturm	Ansturm	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Das Schulmuseum in Reckahn erlebt einen wahren Besucheransturm .
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Schulmuseum	Schulmuseum	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	sb	_	_
+3	in	in	ADP	_		2	mnr	_	_
+4	Reckahn	Reckahn	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	erlebt	erleben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	wahren	wahr	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Besucheransturm	Besucheransturm	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	oa	_	_
+9	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 3
+# text = War das von Friedrich Eberhard von Rochow initiierte Haus im 18. und 19. Jahrhundert Vorbild für die Entwicklung der Volksschulen ,
+1	War	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nk	_	_
+3	von	von	ADP	_		8	sbp	_	_
+4	Friedrich	Friedrich	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	pnc	_	_
+5	Eberhard	Eberhard	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	pnc	_	_
+6	von	von	PROPN	_		7	pnc	_	_
+7	Rochow	Rochow	PROPN	_	Case=Dat|Number=Sing	3	nk	_	_
+8	initiierte	initiiert	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	nk	_	_
+9	Haus	Haus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	sb	_	_
+10	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	9	mnr	_	_
+11	18.	18.	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	14	nk	_	_
+12	und	und	CCONJ	_		11	cd	_	_
+13	19.	19.	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	12	cj	_	_
+14	Jahrhundert	Jahrhundert	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	nk	_	_
+15	Vorbild	Vorbild	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nk	_	_
+16	für	für	ADP	_		15	mnr	_	_
+17	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	nk	_	_
+18	Entwicklung	Entwicklung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	nk	_	_
+19	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	nk	_	_
+20	Volksschulen	Volksschule	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	18	ag	_	_
+21	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 4
+# text = wollen heute Tausende das Flair eines historischen Klassenzimmers kennen lernen ,
+1	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	heute	heute	ADV	_		1	mo	_	_
+3	Tausende	Tausend	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	sb	_	_
+4	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Flair	Flair	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	oa	_	_
+6	eines	ein	DET	_	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+7	historischen	historisch	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Klassenzimmers	Klassenzimmer	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	ag	_	_
+9	kennen	kennen	VERB	_	VerbForm=Inf	10	oc	_	_
+10	lernen	lernen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	oc	_	_
+11	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 5
+# text = wie sie nur noch wenige in Deutschland existieren .
+1	wie	wie	SCONJ	_	PronType=Int	8	mo	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	sb	_	_
+3	nur	nur	ADV	_		5	mo	_	_
+4	noch	noch	ADV	_		5	mo	_	_
+5	wenige	weniger	PRON	_	Case=Nom|Number=Plur|PronType=Ind	8	oa	_	_
+6	in	in	ADP	_		5	mnr	_	_
+7	Deutschland	Deutschland	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	existieren	existieren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 6
+# text = Ohne Zweifel profitiert die vom Landkreis getragene Einrichtung von der im August im benachbarten Barockschloss eröffneten Ausstellung zur brandenburgisch-preußischen Schulgeschichte .
+1	Ohne	ohne	ADP	_		3	mo	_	_
+2	Zweifel	Zweifel	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	1	nk	_	_
+3	profitiert	profitieren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+5	vom	von	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	sbp	_	_
+6	Landkreis	Landkreis	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	getragene	getragen	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	nk	_	_
+8	Einrichtung	Einrichtung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	sb	_	_
+9	von	von	ADP	_		8	pg	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+11	im	in	ADP	_	Case=Dat|Gender=Masc|Number=Sing	16	mo	_	_
+12	August	August	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	nk	_	_
+13	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	16	mo	_	_
+14	benachbarten	benachbart	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	nk	_	_
+15	Barockschloss	Barockschloss	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	13	nk	_	_
+16	eröffneten	eröffnet	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+17	Ausstellung	Ausstellung	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nk	_	_
+18	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	17	mnr	_	_
+19	brandenburgisch-preußischen	brandenburgisch-preußischen	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	20	nk	_	_
+20	Schulgeschichte	Schulgeschichte	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	nk	_	_
+21	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = Denn wer das mit großem Aufwand sanierte Schloss besucht ,
+1	Denn	denn	CCONJ	_		9	ju	_	_
+2	wer	wer	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	9	sb	_	_
+3	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	nk	_	_
+4	mit	mit	ADP	_		7	mo	_	_
+5	großem	groß	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	nk	_	_
+6	Aufwand	Aufwand	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+7	sanierte	saniert	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	nk	_	_
+8	Schloss	Schloss	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	oa	_	_
+9	besucht	besuchen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ROOT	_	_
+10	,	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 8
+# text = kommt zwangsläufig an der alten Dorfschule vorbei .
+1	kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	zwangsläufig	zwangsläufig	ADV	_	Degree=Pos	1	mo	_	_
+3	an	an	ADP	_		1	mo	_	_
+4	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	alten	alt	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Dorfschule	Dorfschule	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	nk	_	_
+7	vorbei	vorbei	ADV	_		1	svp	_	_
+8	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = In diesen knapp drei Monaten wurden 2700 Gäste durch das Museum geführt .
+1	In	in	ADP	_		12	mo	_	_
+2	diesen	dieser	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	5	nk	_	_
+3	knapp	knapp	ADV	_		4	mo	_	_
+4	drei	drei	NUM	_		5	nk	_	_
+5	Monaten	Monat	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	1	nk	_	_
+6	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	2700	2700	NUM	_		8	nk	_	_
+8	Gäste	Gast	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	sb	_	_
+9	durch	durch	ADP	_		12	mo	_	_
+10	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Museum	Museum	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	nk	_	_
+12	geführt	führen	VERB	_	VerbForm=Part	6	oc	_	_
+13	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 10
+# text = Viele von ihnen kamen übers Wochenende nach Reckahn ,
+1	Viele	viele	PRON	_	Case=Nom|Number=Plur|PronType=Ind	4	sb	_	_
+2	von	von	ADP	_		1	pg	_	_
+3	ihnen	ihnen	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	nk	_	_
+4	kamen	kommen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	übers	über	ADP	_	Case=Acc|Gender=Neut|Number=Sing	4	mo	_	_
+6	Wochenende	Wochenende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nk	_	_
+7	nach	nach	ADP	_		4	mo	_	_
+8	Reckahn	Reckahn	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 11
+# text = was wohl auf die kompakte Werbung für das Preußenjahr zurückzuführen ist .
+1	was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	11	sb	_	_
+2	wohl	wohl	ADV	_		10	mo	_	_
+3	auf	auf	ADP	_		10	mo	_	_
+4	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	kompakte	kompakt	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Werbung	Werbung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nk	_	_
+7	für	für	ADP	_		6	mnr	_	_
+8	das	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	Preußenjahr	Preußenjahr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nk	_	_
+10	zurückzuführen	zurückführen	VERB	_	VerbForm=Inf	11	oc	_	_
+11	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 12
+# text = Der Verein " Historisches Reckahn " mit seinem Vorsitzenden Otto-Günther Beckmann kann stolz auf die große Resonanz seiner Arbeit in der Öffentlichkeit sein .
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Verein	Verein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	sb	_	_
+3	"	--	PUNCT	_		5	punct	_	_
+4	Historisches	Historisches	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	nk	_	_
+5	Reckahn	Reckahn	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	nk	_	_
+6	"	--	PUNCT	_		5	punct	_	_
+7	mit	mit	ADP	_		2	mnr	_	_
+8	seinem	sein	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	nk	_	_
+9	Vorsitzenden	vorsitzend	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	Otto-Günther	Otto-Günther	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nk	_	_
+11	Beckmann	Beckmann	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nk	_	_
+12	kann	können	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ROOT	_	_
+13	stolz	stolz	ADV	_	Degree=Pos	23	pd	_	_
+14	auf	auf	ADP	_		23	mo	_	_
+15	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+16	große	groß	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	nk	_	_
+17	Resonanz	Resonanz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	nk	_	_
+18	seiner	sein	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	nk	_	_
+19	Arbeit	Arbeit	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	ag	_	_
+20	in	in	ADP	_		17	mnr	_	_
+21	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	nk	_	_
+22	Öffentlichkeit	Öffentlichkeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	20	nk	_	_
+23	sein	sein	AUX	_	VerbForm=Inf	12	oc	_	_
+24	.	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 13
+# text = Er hat Reckahn mit unermüdlichem Engagement weit über den Kreis hinaus bekannt gemacht .
+1	Er	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Reckahn	Reckahn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	oa	_	_
+4	mit	mit	ADP	_		13	mo	_	_
+5	unermüdlichem	unermüdlich	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	6	nk	_	_
+6	Engagement	Engagement	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+7	weit	weit	ADV	_	Degree=Pos	8	mo	_	_
+8	über	über	ADP	_		13	mo	_	_
+9	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Kreis	Kreis	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	nk	_	_
+11	hinaus	hinaus	ADP	_		8	ac	_	_
+12	bekannt	bekannt	ADV	_	Degree=Pos	13	mo	_	_
+13	gemacht	machen	VERB	_	VerbForm=Part	2	oc	_	_
+14	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = Das Preußenjahr geht zu Ende ,
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Preußenjahr	Preußenjahr	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+3	geht	gehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	zu	zu	ADP	_		3	mo	_	_
+5	Ende	Ende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = doch Schloss- und Schulmuseum werden weiter von sich reden machen .
+1	doch	doch	ADV	_		5	ju	_	_
+2	Schloss-	Schloss	X	_		3	cj	_	_
+3	und	und	CCONJ	_		4	cd	_	_
+4	Schulmuseum	Schulmuseum	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	sb	_	_
+5	werden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	weiter	weiter	ADV	_		9	mo	_	_
+7	von	von	ADP	_		9	op	_	_
+8	sich	sich	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	7	nk	_	_
+9	reden	reden	VERB	_	VerbForm=Inf	10	oc	_	_
+10	machen	machen	VERB	_	VerbForm=Inf	5	oc	_	_
+11	.	--	PUNCT	_		5	punct	_	_
+

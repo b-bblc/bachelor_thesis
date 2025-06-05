@@ -1,0 +1,229 @@
+# sent_id = 1
+# text = Ungefährlicher Verkauf
+1	Ungefährlicher	ungefährlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	nk	_	_
+2	Verkauf	Verkauf	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	ROOT	_	_
+
+# sent_id = 2
+# text = Fast möchte man Andreas Wansing , den Geschäftsführer der Wobra , händeringend bitten , von seinem Plan Abstand zu nehmen , aus dem Bestand der Wobra hinaus Wohnungen zu verkaufen .
+1	Fast	fast	ADV	_		2	mo	_	_
+2	möchte	möchten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	2	sb	_	_
+4	Andreas	Andreas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	pnc	_	_
+5	Wansing	Wansing	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	13	oa	_	_
+6	,	--	PUNCT	_		5	punct	_	_
+7	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Geschäftsführer	Geschäftsführer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	oa	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Wobra	Wobra	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+11	,	--	PUNCT	_		13	punct	_	_
+12	händeringend	händeringend	ADV	_	Degree=Pos	13	mo	_	_
+13	bitten	bitten	VERB	_	VerbForm=Inf	2	oc	_	_
+14	,	--	PUNCT	_		13	punct	_	_
+15	von	von	ADP	_		20	mo	_	_
+16	seinem	sein	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	nk	_	_
+17	Plan	Plan	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	15	nk	_	_
+18	Abstand	Abstand	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	oa	_	_
+19	zu	zu	PART	_		20	pm	_	_
+20	nehmen	nehmen	VERB	_	VerbForm=Inf	13	oc	_	_
+21	,	--	PUNCT	_		20	punct	_	_
+22	aus	aus	ADP	_		30	mo	_	_
+23	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	nk	_	_
+24	Bestand	Bestand	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	22	nk	_	_
+25	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	nk	_	_
+26	Wobra	Wobra	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	24	ag	_	_
+27	hinaus	hinaus	ADP	_		22	ac	_	_
+28	Wohnungen	Wohnung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	30	oa	_	_
+29	zu	zu	PART	_		30	pm	_	_
+30	verkaufen	verkaufen	VERB	_	VerbForm=Inf	18	oc	_	_
+31	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Denn noch heute sind die schmerzlichen Folgen jederzeit in der Stadt präsent ,
+1	Denn	denn	CCONJ	_		4	ju	_	_
+2	noch	noch	ADV	_		3	mo	_	_
+3	heute	heute	ADV	_		4	mo	_	_
+4	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	nk	_	_
+6	schmerzlichen	schmerzlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	nk	_	_
+7	Folgen	Folge	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	sb	_	_
+8	jederzeit	jederzeit	ADV	_		4	mo	_	_
+9	in	in	ADP	_		4	mo	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Stadt	Stadt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	nk	_	_
+12	präsent	präsent	ADV	_	Degree=Pos	4	pd	_	_
+13	,	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = den die unüberlegten Wobra-Verkäufe an die Aubis auslösten .
+1	den	der	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	8	oa	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+3	unüberlegten	unüberlegt	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nk	_	_
+4	Wobra-Verkäufe	Wobra-Verkauf	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	sb	_	_
+5	an	an	ADP	_		8	mo	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Aubis	Aubis	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	nk	_	_
+8	auslösten	auslösten	VERB	_	VerbForm=Inf	8	ROOT	_	_
+9	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 5
+# text = Dass die Aubis letztlich den Berliner Senat stürzte ,
+1	Dass	dass	SCONJ	_		8	cp	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Aubis	Aubis	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	sb	_	_
+4	letztlich	letztlich	ADV	_		8	mo	_	_
+5	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+6	Berliner	Berliner	ADJ	_	Degree=Pos	7	nk	_	_
+7	Senat	Senat	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	oa	_	_
+8	stürzte	stürzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 6
+# text = in Brandenburg aber kein Politiker auch nur eine Spur Verantwortung übernehmen musste -
+1	in	in	ADP	_		12	mo	_	_
+2	Brandenburg	Brandenburg	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+3	aber	aber	ADV	_		12	mo	_	_
+4	kein	kein	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	nk	_	_
+5	Politiker	Politiker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	sb	_	_
+6	auch	auch	ADV	_		11	mo	_	_
+7	nur	nur	ADV	_		9	mo	_	_
+8	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Spur	Spur	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	oa	_	_
+10	Verantwortung	Verantwortung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	oa	_	_
+11	übernehmen	übernehmen	VERB	_	VerbForm=Inf	12	oc	_	_
+12	musste	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	ROOT	_	_
+13	-	--	PUNCT	_		12	punct	_	_
+
+# sent_id = 7
+# text = obwohl Geld verschleudert und Mieter verramscht wurden -
+1	obwohl	obwohl	SCONJ	_		3	cp	_	_
+2	Geld	Geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+3	verschleudert	verschleudern	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cj	_	_
+4	und	und	CCONJ	_		7	cd	_	_
+5	Mieter	Mieter	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	sb	_	_
+6	verramscht	verramschen	VERB	_	VerbForm=Part	7	oc	_	_
+7	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	ROOT	_	_
+8	-	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = ist nur noch eine stadtgeschichtliche Fußnote .
+1	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	nur	nur	ADV	_		1	mo	_	_
+3	noch	noch	ADV	_		2	mo	_	_
+4	eine	ein	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+5	stadtgeschichtliche	stadtgeschichtlich	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nk	_	_
+6	Fußnote	Fußnote	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	pd	_	_
+7	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 9
+# text = Zum Beweis :
+1	Zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	1	ROOT	_	_
+2	Beweis	Beweis	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+3	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Die damalige Aufsichtsratschefin Margit Spielmann wird am Samstag - obwohl sie bis heute nicht für ihre Wobra-Arbeit entlastet wurde und Schliesing noch im Vorjahr mit der Möglichkeit einer Klage gegen sie drohte - von der SPD wieder als Brandenburger Bundestagsabgeordnete nominiert .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	damalige	damalig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Aufsichtsratschefin	Aufsichtsratschefin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+4	Margit	Margit	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	5	pnc	_	_
+5	Spielmann	Spielmann	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nk	_	_
+6	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	6	mo	_	_
+8	Samstag	Samstag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	-	--	PUNCT	_		6	punct	_	_
+10	obwohl	obwohl	SCONJ	_		19	cp	_	_
+11	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	sb	_	_
+12	bis	bis	ADP	_		18	mo	_	_
+13	heute	heute	ADV	_		12	nk	_	_
+14	nicht	nicht	PART	_		18	ng	_	_
+15	für	für	ADP	_		18	mo	_	_
+16	ihre	ihr	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	nk	_	_
+17	Wobra-Arbeit	Wobra-Arbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	nk	_	_
+18	entlastet	entlasten	VERB	_	VerbForm=Part	19	oc	_	_
+19	wurde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	mo	_	_
+20	und	und	CCONJ	_		19	cd	_	_
+21	Schliesing	Schliesing	PROPN	_	Case=Nom|Number=Sing	32	sb	_	_
+22	noch	noch	ADV	_		23	mo	_	_
+23	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	32	mo	_	_
+24	Vorjahr	Vorjahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	23	nk	_	_
+25	mit	mit	ADP	_		32	op	_	_
+26	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	nk	_	_
+27	Möglichkeit	Möglichkeit	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	25	nk	_	_
+28	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	29	nk	_	_
+29	Klage	Klage	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	27	ag	_	_
+30	gegen	gegen	ADP	_		29	mnr	_	_
+31	sie	sie	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	30	nk	_	_
+32	drohte	drohen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cj	_	_
+33	-	--	PUNCT	_		32	punct	_	_
+34	von	von	ADP	_		41	sbp	_	_
+35	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	nk	_	_
+36	SPD	SPD	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	34	nk	_	_
+37	wieder	wieder	ADV	_		41	mo	_	_
+38	als	als	ADP	_		41	mo	_	_
+39	Brandenburger	Brandenburger	ADJ	_	Degree=Pos	40	nk	_	_
+40	Bundestagsabgeordnete	Bundestagsabgeordneter	NOUN	_	Case=Nom|Number=Plur	38	nk	_	_
+41	nominiert	nominieren	VERB	_	VerbForm=Part	32	mo	_	_
+42	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 11
+# text = Deshalb muss sich Wansing auch nicht vor Folgen des Verkaufs fürchten :
+1	Deshalb	deshalb	ADV	_		2	mo	_	_
+2	muss	muss	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	oa	_	_
+4	Wansing	Wansing	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+5	auch	auch	ADV	_		2	mo	_	_
+6	nicht	nicht	PART	_		2	ng	_	_
+7	vor	vor	ADP	_		11	op	_	_
+8	Folgen	Folge	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	7	nk	_	_
+9	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Verkaufs	Verkauf	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	ag	_	_
+11	fürchten	fürchten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	oc	_	_
+12	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = Zum einen ist es möglich , dass der Verkauf vernünftig vorbereitet und mit den Mietern abgesprochen ist .
+1	Zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mo	_	_
+2	einen	einer	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	1	nk	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+5	möglich	möglich	ADV	_	Degree=Pos	3	pd	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+7	dass	dass	SCONJ	_		17	cp	_	_
+8	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Verkauf	Verkauf	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	sb	_	_
+10	vernünftig	vernünftig	ADV	_	Degree=Pos	11	mo	_	_
+11	vorbereitet	vorbereiten	VERB	_	VerbForm=Part	17	oc	_	_
+12	und	und	CCONJ	_		11	cd	_	_
+13	mit	mit	ADP	_		16	mo	_	_
+14	den	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	nk	_	_
+15	Mietern	Mieter	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	nk	_	_
+16	abgesprochen	absprechen	VERB	_	VerbForm=Part	12	cj	_	_
+17	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	re	_	_
+18	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 13
+# text = Zum anderen musste außer Mietern und Mitarbeitern bei der Wobra noch niemand für die Fehler des Managements und des Aufsichtsrates ernsthaft büßen .
+1	Zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	3	mo	_	_
+2	anderen	anderer	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	1	nk	_	_
+3	musste	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	außer	außer	ADP	_		22	mo	_	_
+5	Mietern	Mieter	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	nk	_	_
+6	und	und	CCONJ	_		5	cd	_	_
+7	Mitarbeitern	Mitarbeiter	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	cj	_	_
+8	bei	bei	ADP	_		5	mnr	_	_
+9	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Wobra	Wobra	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	8	nk	_	_
+11	noch	noch	ADV	_		12	mo	_	_
+12	niemand	niemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	sb	_	_
+13	für	für	ADP	_		3	mo	_	_
+14	die	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	nk	_	_
+15	Fehler	Fehler	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	nk	_	_
+16	des	der	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	nk	_	_
+17	Managements	Management	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	ag	_	_
+18	und	und	CCONJ	_		17	cd	_	_
+19	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	nk	_	_
+20	Aufsichtsrates	Aufsichtsrat	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	18	cj	_	_
+21	ernsthaft	ernsthaft	ADV	_	Degree=Pos	22	mo	_	_
+22	büßen	büßen	VERB	_	VerbForm=Inf	3	oc	_	_
+23	.	--	PUNCT	_		3	punct	_	_
+

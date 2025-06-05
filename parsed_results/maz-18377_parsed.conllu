@@ -1,0 +1,238 @@
+# sent_id = 1
+# text = Offene Fragen
+1	Offene	offen	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	nk	_	_
+2	Fragen	Frage	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	ROOT	_	_
+
+# sent_id = 2
+# text = Die Kränzliner , Mankerer , Wustrauer , Walchower und Protzener fühlen sich ungerecht behandelt .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Kränzliner	Kränzliner	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	sb	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	Mankerer	Mankerer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	cj	_	_
+5	,	--	PUNCT	_		2	punct	_	_
+6	Wustrauer	Wustrauer	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	cj	_	_
+7	,	--	PUNCT	_		2	punct	_	_
+8	Walchower	Walchower	PROPN	_	Case=Nom|Number=Sing	2	cj	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	Protzener	Protzener	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	cj	_	_
+11	fühlen	fühlen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ROOT	_	_
+12	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	oa	_	_
+13	ungerecht	ungerecht	ADV	_	Degree=Pos	14	mo	_	_
+14	behandelt	behandeln	VERB	_	VerbForm=Part	11	oc	_	_
+15	.	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 3
+# text = Sie sind schon seit Jahren an Klärwerke angeschlossen .
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	schon	schon	ADV	_		4	mo	_	_
+4	seit	seit	ADP	_		8	mo	_	_
+5	Jahren	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	4	nk	_	_
+6	an	an	ADP	_		8	mo	_	_
+7	Klärwerke	Klärwerk	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	nk	_	_
+8	angeschlossen	anschließen	VERB	_	VerbForm=Part	2	pd	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 4
+# text = Die Klärwerke beziehungsweise die Druckleitungen wurden bereits von der Gemeinde und damit von den Steuern der Bürger bezahlt .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	nk	_	_
+2	Klärwerke	Klärwerk	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	sb	_	_
+3	beziehungsweise	beziehungsweise	CCONJ	_		2	cd	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+5	Druckleitungen	Druckleitung	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	cj	_	_
+6	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	bereits	bereits	ADV	_		18	mo	_	_
+8	von	von	ADP	_		18	sbp	_	_
+9	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Gemeinde	Gemeinde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	nk	_	_
+11	und	und	CCONJ	_		8	cd	_	_
+12	damit	damit	ADV	_		13	mo	_	_
+13	von	von	ADP	_		11	cj	_	_
+14	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	nk	_	_
+15	Steuern	Steuer	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	13	nk	_	_
+16	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	nk	_	_
+17	Bürger	Bürger	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	ag	_	_
+18	bezahlt	bezahlen	VERB	_	VerbForm=Part	6	oc	_	_
+19	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 5
+# text = Warum also sollen sie jetzt noch einmal Klärbeiträge bezahlen ,
+1	Warum	warum	ADV	_	PronType=Int	3	mo	_	_
+2	also	also	ADV	_		3	mo	_	_
+3	sollen	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	sb	_	_
+5	jetzt	jetzt	ADV	_		3	mo	_	_
+6	noch	noch	ADV	_		7	mo	_	_
+7	einmal	einmal	ADV	_		3	mo	_	_
+8	Klärbeiträge	Klärbeitrag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	oa	_	_
+9	bezahlen	bezahlen	VERB	_	VerbForm=Inf	3	oc	_	_
+10	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = nur weil sie von einem Klärwerk an ein anderes umgeleitet werden ?
+1	nur	nur	ADV	_		11	mo	_	_
+2	weil	weil	SCONJ	_		11	cp	_	_
+3	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	sb	_	_
+4	von	von	ADP	_		10	sbp	_	_
+5	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	nk	_	_
+6	Klärwerk	Klärwerk	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+7	an	an	ADP	_		10	mo	_	_
+8	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	9	nk	_	_
+9	anderes	anderer	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	nk	_	_
+10	umgeleitet	umleiten	VERB	_	VerbForm=Part	11	oc	_	_
+11	werden	werden	AUX	_	VerbForm=Inf	11	ROOT	_	_
+12	?	--	PUNCT	_		11	punct	_	_
+
+# sent_id = 7
+# text = Die übrigen Fehrbelliner Verbandgemeinden fühlen sich ebenso im Recht :
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+2	übrigen	übrig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nk	_	_
+3	Fehrbelliner	Fehrbelliner	ADJ	_	Degree=Pos	4	nk	_	_
+4	Verbandgemeinden	Verbandgemeinde	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	sb	_	_
+5	fühlen	fühlen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+7	ebenso	ebenso	ADV	_		5	mo	_	_
+8	im	in	ADP	_	Case=Dat|Gender=Neut|Number=Sing	5	mo	_	_
+9	Recht	Recht	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+10	:	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 8
+# text = Warum sollen sie höhere Abwassergebühren in Kauf nehmen ,
+1	Warum	warum	ADV	_	PronType=Int	2	mo	_	_
+2	sollen	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+4	höhere	hoch	ADJ	_	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	5	nk	_	_
+5	Abwassergebühren	Abwassergebühre	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	oa	_	_
+6	in	in	ADP	_		8	cvc	_	_
+7	Kauf	Kauf	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nk	_	_
+8	nehmen	nehmen	VERB	_	VerbForm=Inf	2	oc	_	_
+9	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 9
+# text = bloß weil einige Mitglieder der Solidargemeinschaft keinen Klärbeitrag zahlen möchten ?
+1	bloß	bloß	ADV	_		10	mo	_	_
+2	weil	weil	SCONJ	_		10	cp	_	_
+3	einige	einiger	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	4	nk	_	_
+4	Mitglieder	Mitglied	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	sb	_	_
+5	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Solidargemeinschaft	Solidargemeinschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+7	keinen	kein	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	8	nk	_	_
+8	Klärbeitrag	Klärbeitrag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	oa	_	_
+9	zahlen	zahlen	VERB	_	VerbForm=Inf	10	oc	_	_
+10	möchten	möchten	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	?	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 10
+# text = In sich schlüssig sind beide Argumentationen .
+1	In	in	ADP	_		3	mo	_	_
+2	sich	sich	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	1	nk	_	_
+3	schlüssig	schlüssig	ADV	_	Degree=Pos	4	pd	_	_
+4	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	beide	beide	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	6	nk	_	_
+6	Argumentationen	Argumentation	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	sb	_	_
+7	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 11
+# text = Die einen hatten eben Glück , dass ihr Bürgermeister cleverer oder schneller war als andere .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	nk	_	_
+2	einen	einer	PRON	_	Case=Nom|Number=Plur|PronType=Ind	3	sb	_	_
+3	hatten	haben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	eben	eben	ADV	_		3	mo	_	_
+5	Glück	Glück	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	oa	_	_
+6	,	--	PUNCT	_		3	punct	_	_
+7	dass	dass	SCONJ	_		13	cp	_	_
+8	ihr	ihr	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	nk	_	_
+9	Bürgermeister	Bürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	sb	_	_
+10	cleverer	cleverer	ADV	_	Degree=Pos	13	pd	_	_
+11	oder	oder	CCONJ	_		10	cd	_	_
+12	schneller	schnell	ADV	_	Degree=Cmp	11	cj	_	_
+13	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	oc	_	_
+14	als	als	ADP	_		15	cm	_	_
+15	andere	anderer	PRON	_	Case=Nom|Number=Plur|PronType=Ind	10	cc	_	_
+16	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 12
+# text = Die anderen wiederum haben sich zuerst zur Solidargemeinschaft Zweckverband zusammengeschlossen
+1	Die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	nk	_	_
+2	anderen	anderer	PRON	_	Case=Nom|Number=Plur|PronType=Ind	4	sb	_	_
+3	wiederum	wiederum	ADV	_		10	mo	_	_
+4	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+6	zuerst	zuerst	ADV	_		10	mo	_	_
+7	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	10	mo	_	_
+8	Solidargemeinschaft	Solidargemeinschaft	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nk	_	_
+9	Zweckverband	Zweckverband	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nk	_	_
+10	zusammengeschlossen	zusammenschließen	VERB	_	VerbForm=Part	4	oc	_	_
+
+# sent_id = 13
+# text = und die Regeln bestimmt , denen sich nun auch die zu fügen haben , die später dazugekommen sind .
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	nk	_	_
+3	Regeln	Regel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	cj	_	_
+4	bestimmt	bestimmen	VERB	_	VerbForm=Part	3	oc	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	denen	der	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	12	da	_	_
+7	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	12	oa	_	_
+8	nun	nun	ADV	_		12	mo	_	_
+9	auch	auch	ADV	_		10	mo	_	_
+10	die	der	PRON	_	Case=Acc|Number=Plur|PronType=Dem	13	sb	_	_
+11	zu	zu	PART	_		12	pm	_	_
+12	fügen	fügen	VERB	_	VerbForm=Inf	13	oc	_	_
+13	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	rc	_	_
+14	,	--	PUNCT	_		13	punct	_	_
+15	die	der	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	18	sb	_	_
+16	später	spät	ADV	_	Degree=Cmp	17	mo	_	_
+17	dazugekommen	dazukommen	VERB	_	VerbForm=Part	18	oc	_	_
+18	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	rc	_	_
+19	.	--	PUNCT	_		19	ROOT	_	_
+
+# sent_id = 14
+# text = Wie der Streit ausgeht , entscheidet am Ende wohl ein Gericht .
+1	Wie	wie	SCONJ	_	PronType=Int	4	mo	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Streit	Streit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	sb	_	_
+4	ausgeht	ausgehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	mo	_	_
+5	,	--	PUNCT	_		6	punct	_	_
+6	entscheidet	entscheiden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	am	an	ADP	_	Case=Dat|Gender=Neut|Number=Sing	6	mo	_	_
+8	Ende	Ende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+9	wohl	wohl	ADV	_		6	mo	_	_
+10	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Gericht	Gericht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	sb	_	_
+12	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 15
+# text = Komisch ist nur :
+1	Komisch	komisch	ADV	_	Degree=Pos	2	pd	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	nur	nur	ADV	_		2	mo	_	_
+4	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = Wenn der Ärger über Klärbeiträge so gewaltig ist ,
+1	Wenn	wenn	SCONJ	_		8	cp	_	_
+2	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nk	_	_
+3	Ärger	Ärger	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	sb	_	_
+4	über	über	ADP	_		3	op	_	_
+5	Klärbeiträge	Klärbeitrag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	nk	_	_
+6	so	so	ADV	_		7	mo	_	_
+7	gewaltig	gewaltig	ADV	_	Degree=Pos	8	pd	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 17
+# text = warum fand am Mittwoch nicht ein einziger Kränzliner den Weg zur Verbandsversammlung ?
+1	warum	warum	ADV	_	PronType=Int	2	mo	_	_
+2	fand	finden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	2	mo	_	_
+4	Mittwoch	Mittwoch	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nk	_	_
+5	nicht	nicht	PART	_		2	ng	_	_
+6	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+7	einziger	einzig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nk	_	_
+8	Kränzliner	Kränzliner	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	sb	_	_
+9	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Weg	Weg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+11	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	10	mnr	_	_
+12	Verbandsversammlung	Verbandsversammlung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	nk	_	_
+13	?	--	PUNCT	_		2	punct	_	_
+

@@ -1,0 +1,258 @@
+# sent_id = 1
+# text = Ausrutscher
+1	Ausrutscher	Ausrutscher	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	ROOT	_	_
+
+# sent_id = 2
+# text = Es ist bewundernswert , wie beharrlich die Initiatoren der Bücherstadt Wünsdorf ihr Konzept verfolgen .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	bewundernswert	bewundernswert	ADV	_	Degree=Pos	2	pd	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+5	wie	wie	ADV	_	PronType=Int	6	mo	_	_
+6	beharrlich	beharrlich	ADV	_	Degree=Pos	14	mo	_	_
+7	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	nk	_	_
+8	Initiatoren	Initiator	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	sb	_	_
+9	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	nk	_	_
+10	Bücherstadt	Bücherstadt	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	ag	_	_
+11	Wünsdorf	Wünsdorf	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	10	nk	_	_
+12	ihr	ihr	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	13	nk	_	_
+13	Konzept	Konzept	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	oa	_	_
+14	verfolgen	verfolgen	VERB	_	VerbForm=Inf	1	re	_	_
+15	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 3
+# text = Die Basis ist mit einem festen Stamm an Antiquaren geschaffen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	Basis	Basis	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	mit	mit	ADP	_		10	mo	_	_
+5	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+6	festen	fest	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	nk	_	_
+7	Stamm	Stamm	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+8	an	an	ADP	_		10	mo	_	_
+9	Antiquaren	Antiquar	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	8	nk	_	_
+10	geschaffen	schaffen	VERB	_	VerbForm=Part	3	oc	_	_
+11	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 4
+# text = Es gibt Gastronomie und Bunkerführungen ebenso wie Museen und diverse Veranstaltungen .
+1	Es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	ep	_	_
+2	gibt	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	Gastronomie	Gastronomie	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	oa	_	_
+4	und	und	CCONJ	_		3	cd	_	_
+5	Bunkerführungen	Bunkerführung	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	cj	_	_
+6	ebenso	ebenso	ADV	_		2	mo	_	_
+7	wie	wie	ADP	_		8	cm	_	_
+8	Museen	Museum	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	cc	_	_
+9	und	und	CCONJ	_		8	cd	_	_
+10	diverse	diverser	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	11	nk	_	_
+11	Veranstaltungen	Veranstaltung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	9	cj	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 5
+# text = Inzwischen hat sich die Bücherstadt einen Namen gemacht .
+1	Inzwischen	inzwischen	ADV	_		8	mo	_	_
+2	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	oa	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Bücherstadt	Bücherstadt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+6	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Namen	Name	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	oa	_	_
+8	gemacht	machen	VERB	_	VerbForm=Part	2	oc	_	_
+9	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 6
+# text = Und wird hoffentlich nicht mehr kleinzukriegen sein -
+1	Und	und	CCONJ	_		2	ju	_	_
+2	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	hoffentlich	hoffentlich	ADV	_	Degree=Pos	7	mo	_	_
+4	nicht	nicht	PART	_		6	ng	_	_
+5	mehr	mehr	ADV	_		4	mo	_	_
+6	kleinzukriegen	kleinzukriegen	VERB	_	VerbForm=Inf	7	pd	_	_
+7	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+8	-	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 7
+# text = trotz der Pleite der Landesentwicklungsgesellschaft ( LEG )
+1	trotz	trotz	ADP	_		1	ROOT	_	_
+2	der	der	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+3	Pleite	Pleite	NOUN	_	Gender=Fem|Number=Sing	1	nk	_	_
+4	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Landesentwicklungsgesellschaft	Landesentwicklungsgesellschaft	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	ag	_	_
+6	(	--	PUNCT	_		7	punct	_	_
+7	LEG	LEG	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	5	app	_	_
+8	)	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 8
+# text = und gelegentlichen Jammerns in den eigenen Reihen .
+1	und	und	CCONJ	_		1	ROOT	_	_
+2	gelegentlichen	gelegentlichen	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	nk	_	_
+3	Jammerns	Jammern	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	cj	_	_
+4	in	in	ADP	_		3	mnr	_	_
+5	den	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	nk	_	_
+6	eigenen	eigen	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	7	nk	_	_
+7	Reihen	Reihe	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	4	nk	_	_
+8	.	--	PUNCT	_		8	ROOT	_	_
+
+# sent_id = 9
+# text = Mit dem gestrigen Umwelttag ist ein zunächst ungewöhnlich scheinender Schritt getan worden .
+1	Mit	mit	ADP	_		12	mo	_	_
+2	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+3	gestrigen	gestrig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	nk	_	_
+4	Umwelttag	Umwelttag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	nk	_	_
+5	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	ein	ein	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+7	zunächst	zunächst	ADV	_		8	mo	_	_
+8	ungewöhnlich	ungewöhnlich	ADV	_	Degree=Pos	9	mo	_	_
+9	scheinender	scheinender	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	nk	_	_
+10	Schritt	Schritt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+11	getan	tun	VERB	_	VerbForm=Part	12	oc	_	_
+12	worden	werden	AUX	_	VerbForm=Part	5	oc	_	_
+13	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 10
+# text = Doch solche " Ausrutscher " sind gewollt .
+1	Doch	doch	CCONJ	_		6	ju	_	_
+2	solche	solcher	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	4	nk	_	_
+3	"	--	PUNCT	_		4	punct	_	_
+4	Ausrutscher	Ausrutscher	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	sb	_	_
+5	"	--	PUNCT	_		4	punct	_	_
+6	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	gewollt	wollen	VERB	_	VerbForm=Part	6	pd	_	_
+8	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 11
+# text = Schließlich stellen alte Bücher zwar für bestimmte Zielgruppen einen Magneten dar ,
+1	Schließlich	schließlich	ADV	_		2	mo	_	_
+2	stellen	stellen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	alte	alt	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	nk	_	_
+4	Bücher	Buch	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	sb	_	_
+5	zwar	zwar	ADV	_		2	mo	_	_
+6	für	für	ADP	_		2	mo	_	_
+7	bestimmte	bestimmt	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	8	nk	_	_
+8	Zielgruppen	Zielgruppe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	nk	_	_
+9	einen	ein	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	nk	_	_
+10	Magneten	Magneter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	oa	_	_
+11	dar	dar	ADV	_		2	svp	_	_
+12	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 12
+# text = doch lange nicht für alle .
+1	doch	doch	CCONJ	_		4	ju	_	_
+2	lange	lange	ADV	_		3	mo	_	_
+3	nicht	nicht	PART	_		5	ng	_	_
+4	für	für	ADP	_		4	ROOT	_	_
+5	alle	alle	PRON	_	Case=Acc|Number=Plur|PronType=Ind	4	nk	_	_
+6	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 13
+# text = Zusatzangebote müssen her ,
+1	Zusatzangebote	Zusatzangebot	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	sb	_	_
+2	müssen	müssen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	her	her	ADV	_		2	svp	_	_
+4	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 14
+# text = und was bietet sich da in der grünen Waldstadt mehr an als die Beschäftigung mit der Natur ?
+1	und	und	CCONJ	_		3	ju	_	_
+2	was	was	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	sb	_	_
+3	bietet	bieten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	oa	_	_
+5	da	da	ADV	_		3	mo	_	_
+6	in	in	ADP	_		3	mo	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+8	grünen	grün	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Waldstadt	Waldstadt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+10	mehr	mehr	PRON	_	PronType=Ind	3	mo	_	_
+11	an	an	ADP	_		3	svp	_	_
+12	als	als	ADP	_		14	cm	_	_
+13	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	nk	_	_
+14	Beschäftigung	Beschäftigung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	cc	_	_
+15	mit	mit	ADP	_		14	mnr	_	_
+16	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nk	_	_
+17	Natur	Natur	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	nk	_	_
+18	?	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = Hinzu kommt , dass es allemal besser ist , sich in puncto Resonanz nicht selbst zu belügen ,
+1	Hinzu	hinzu	ADV	_		2	svp	_	_
+2	kommt	kommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	,	--	PUNCT	_		2	punct	_	_
+4	dass	dass	SCONJ	_		8	cp	_	_
+5	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	sb	_	_
+6	allemal	allemal	ADV	_		7	mo	_	_
+7	besser	gut	ADV	_	Degree=Cmp	8	pd	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	sb	_	_
+9	,	--	PUNCT	_		8	punct	_	_
+10	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	oa	_	_
+11	in	in	ADP	_		17	mo	_	_
+12	puncto	puncto	X	_	Foreign=Yes	13	nk	_	_
+13	Resonanz	Resonanz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	nk	_	_
+14	nicht	nicht	PART	_		17	ng	_	_
+15	selbst	selbst	ADV	_		14	mo	_	_
+16	zu	zu	PART	_		17	pm	_	_
+17	belügen	belügen	VERB	_	VerbForm=Inf	5	re	_	_
+18	,	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 16
+# text = sondern lieber etwas für mehr Besucher zu tun .
+1	sondern	sondern	CCONJ	_		1	ROOT	_	_
+2	lieber	lieber	ADV	_		8	mo	_	_
+3	etwas	etwas	PRON	_	Gender=Neut|PronType=Ind	8	oa	_	_
+4	für	für	ADP	_		8	mo	_	_
+5	mehr	mehr	DET	_	PronType=Ind	6	nk	_	_
+6	Besucher	Besucher	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	nk	_	_
+7	zu	zu	PART	_		8	pm	_	_
+8	tun	tun	VERB	_	VerbForm=Inf	1	cj	_	_
+9	.	--	PUNCT	_		9	ROOT	_	_
+
+# sent_id = 17
+# text = Denn dass solche Lügen kurze Beine haben , musste die LEG in diesem Jahr erfahren .
+1	Denn	denn	CCONJ	_		9	ju	_	_
+2	dass	dass	SCONJ	_		7	cp	_	_
+3	solche	solcher	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	4	nk	_	_
+4	Lügen	Lüge	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	sb	_	_
+5	kurze	kurz	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	6	nk	_	_
+6	Beine	Bein	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	oa	_	_
+7	haben	haben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	oc	_	_
+8	,	--	PUNCT	_		9	punct	_	_
+9	musste	mussen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ROOT	_	_
+10	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	LEG	LEG	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	9	sb	_	_
+12	in	in	ADP	_		15	mo	_	_
+13	diesem	dieser	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	14	nk	_	_
+14	Jahr	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	12	nk	_	_
+15	erfahren	erfahren	VERB	_	VerbForm=Inf	9	oc	_	_
+16	.	--	PUNCT	_		9	punct	_	_
+
+# sent_id = 18
+# text = Sie hatte vor ( ! ) der langen Nacht der Antiquare kühn die 2000er Besucherzahlen in Druck gegeben .
+1	Sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	sb	_	_
+2	hatte	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	vor	vor	ADP	_		18	mo	_	_
+4	(	--	PUNCT	_		9	punct	_	_
+5	!	--	PUNCT	_		9	punct	_	_
+6	)	--	PUNCT	_		5	dep	_	_
+7	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+8	langen	lang	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	nk	_	_
+9	Nacht	Nacht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nk	_	_
+10	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	nk	_	_
+11	Antiquare	Antiquare	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	ag	_	_
+12	kühn	kühn	ADV	_	Degree=Pos	18	mo	_	_
+13	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	nk	_	_
+14	2000er	2000er	NUM	_		15	nk	_	_
+15	Besucherzahlen	Besucherzahl	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	18	oa	_	_
+16	in	in	ADP	_		18	cvc	_	_
+17	Druck	Druck	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	nk	_	_
+18	gegeben	geben	VERB	_	VerbForm=Part	2	oc	_	_
+19	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 19
+# text = Und sich damit gehörig blamiert ...
+1	Und	und	CCONJ	_		5	ju	_	_
+2	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+3	damit	damit	ADV	_		5	mo	_	_
+4	gehörig	gehörig	ADV	_	Degree=Pos	5	mo	_	_
+5	blamiert	blamieren	VERB	_	VerbForm=Part	5	ROOT	_	_
+6	...	--	PUNCT	_		5	punct	_	_
+

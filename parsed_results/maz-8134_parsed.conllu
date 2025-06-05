@@ -1,0 +1,280 @@
+# sent_id = 1
+# text = Ernst nehmen
+1	Ernst	Ernst	ADV	_	Degree=Pos	2	mo	_	_
+2	nehmen	nehmen	VERB	_	VerbForm=Inf	2	ROOT	_	_
+
+# sent_id = 2
+# text = So friedlich wie am Montag war schon lange keine Stadtverordneten-Sitzung mehr ,
+1	So	so	ADV	_		2	mo	_	_
+2	friedlich	friedlich	ADV	_	Degree=Pos	6	pd	_	_
+3	wie	wie	ADP	_		4	cm	_	_
+4	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	1	cc	_	_
+5	Montag	Montag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	nk	_	_
+6	war	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	schon	schon	ADV	_		8	mo	_	_
+8	lange	lange	ADV	_		6	mo	_	_
+9	keine	kein	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	10	nk	_	_
+10	Stadtverordneten-Sitzung	Stadtverordneten-Sitzung	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	sb	_	_
+11	mehr	mehr	ADV	_		10	mo	_	_
+12	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = seit Karwe gedroht hat , sich von Neuruppin zu trennen .
+1	seit	seit	ADP	_		3	mo	_	_
+2	Karwe	Karwe	PROPN	_	Case=Dat|Number=Sing	1	nk	_	_
+3	gedroht	drohen	VERB	_	VerbForm=Part	4	oc	_	_
+4	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	oa	_	_
+7	von	von	ADP	_		10	mo	_	_
+8	Neuruppin	Neuruppin	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	7	nk	_	_
+9	zu	zu	PART	_		10	pm	_	_
+10	trennen	trennen	VERB	_	VerbForm=Inf	3	oc	_	_
+11	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 4
+# text = Die Abgeordneten waren bemüht , den Konflikt zu schlichten ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	nk	_	_
+2	Abgeordneten	abgeordneter	NOUN	_	Case=Nom|Number=Plur	3	sb	_	_
+3	waren	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	bemüht	bemüht	VERB	_	VerbForm=Part	3	pd	_	_
+5	,	--	PUNCT	_		4	punct	_	_
+6	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nk	_	_
+7	Konflikt	Konflikt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	oa	_	_
+8	zu	zu	PART	_		9	pm	_	_
+9	schlichten	schlichten	VERB	_	VerbForm=Inf	4	oc	_	_
+10	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 5
+# text = die Karwer schienen froh , dass man sie erhört .
+1	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Karwer	Karwer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	schienen	scheinen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	froh	froh	ADV	_	Degree=Pos	3	mo	_	_
+5	,	--	PUNCT	_		3	punct	_	_
+6	dass	dass	SCONJ	_		9	cp	_	_
+7	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	9	sb	_	_
+8	sie	sie	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	oa	_	_
+9	erhört	erhören	VERB	_	VerbForm=Part	3	oc	_	_
+10	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = Selbst Worte des Dankes sprach die Ortsbürgermeisterin .
+1	Selbst	selbst	ADV	_		2	mo	_	_
+2	Worte	Wort	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	sb	_	_
+3	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nk	_	_
+4	Dankes	Dank	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	ag	_	_
+5	sprach	sprechen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ROOT	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Ortsbürgermeisterin	Ortsbürgermeisterin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	sb	_	_
+8	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 7
+# text = Dank für Dinge , die eigentlich selbstverständlich sein sollten .
+1	Dank	dank	ADP	_		1	ROOT	_	_
+2	für	für	ADP	_		1	mnr	_	_
+3	Dinge	Ding	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	nk	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	die	der	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	9	sb	_	_
+6	eigentlich	eigentlich	ADV	_		8	mo	_	_
+7	selbstverständlich	selbstverständlich	ADV	_	Degree=Pos	8	pd	_	_
+8	sein	sein	AUX	_	VerbForm=Inf	9	oc	_	_
+9	sollten	sollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	rc	_	_
+10	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 8
+# text = Doch sie sind es noch nicht .
+1	Doch	doch	CCONJ	_		3	ju	_	_
+2	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	sb	_	_
+3	sind	sein	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	sb	_	_
+5	noch	noch	ADV	_		6	mo	_	_
+6	nicht	nicht	PART	_		3	ng	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 9
+# text = Allen Besserungs-Versprechen aus Rathaus und Ratssaal zum Trotz :
+1	Allen	Allen	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	2	nk	_	_
+2	Besserungs-Versprechen	Besserungs-Versprech	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	ROOT	_	_
+3	aus	aus	ADP	_		2	mnr	_	_
+4	Rathaus	Rathaus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+5	und	und	CCONJ	_		4	cd	_	_
+6	Ratssaal	Ratssaal	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	cj	_	_
+7	zum	zu	ADP	_	Case=Dat|Gender=Masc|Number=Sing	2	mo	_	_
+8	Trotz	trotz	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+9	:	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Zwischen Neuruppin und den Dörfern steht es nicht zum Besten .
+1	Zwischen	zwischen	ADP	_		6	mo	_	_
+2	Neuruppin	Neuruppin	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	1	nk	_	_
+3	und	und	CCONJ	_		2	cd	_	_
+4	den	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	nk	_	_
+5	Dörfern	Dorf	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	3	cj	_	_
+6	steht	stehen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ROOT	_	_
+7	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	ep	_	_
+8	nicht	nicht	PART	_		6	ng	_	_
+9	zum	zu	ADP	_	Case=Dat|Gender=Neut|Number=Sing	6	mo	_	_
+10	Besten	beste	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	nk	_	_
+11	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 11
+# text = Auch das hat sich am Montag gezeigt .
+1	Auch	auch	ADV	_		2	mo	_	_
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	sb	_	_
+3	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	oa	_	_
+5	am	an	ADP	_	Case=Dat|Gender=Masc|Number=Sing	7	mo	_	_
+6	Montag	Montag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	nk	_	_
+7	gezeigt	zeigen	VERB	_	VerbForm=Part	3	oc	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 12
+# text = Gleich zwei Ortsbürgermeister beklagten sich über die Zusammenarbeit mit dem Rathaus .
+1	Gleich	gleich	ADV	_		2	mo	_	_
+2	zwei	zwei	NUM	_		3	nk	_	_
+3	Ortsbürgermeister	Ortsbürgermeister	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	sb	_	_
+4	beklagten	beklagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ROOT	_	_
+5	sich	sich	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	4	oa	_	_
+6	über	über	ADP	_		4	op	_	_
+7	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	nk	_	_
+8	Zusammenarbeit	Zusammenarbeit	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nk	_	_
+9	mit	mit	ADP	_		8	mnr	_	_
+10	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	nk	_	_
+11	Rathaus	Rathaus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	nk	_	_
+12	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 13
+# text = Die knappe Antwort des Bürgermeisters stimmte sie dabei nicht gerade zufriedener ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nk	_	_
+2	knappe	knapp	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nk	_	_
+3	Antwort	Antwort	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	oa	_	_
+4	des	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+5	Bürgermeisters	Bürgermeister	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	ag	_	_
+6	stimmte	stimmen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	sie	sie	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	sb	_	_
+8	dabei	dabei	ADV	_		6	mo	_	_
+9	nicht	nicht	PART	_		6	ng	_	_
+10	gerade	gerade	ADV	_		11	mo	_	_
+11	zufriedener	zufrieden	ADV	_	Degree=Cmp	6	mo	_	_
+12	,	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 14
+# text = doch mehr gab es erst einmal nicht .
+1	doch	doch	CCONJ	_		3	ju	_	_
+2	mehr	mehr	ADV	_		3	mo	_	_
+3	gab	geben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ROOT	_	_
+4	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	ep	_	_
+5	erst	erst	ADV	_		3	mo	_	_
+6	einmal	einmal	ADV	_		3	mo	_	_
+7	nicht	nicht	PART	_		3	ng	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 15
+# text = Karwe bekommt per Beschluss mehr Geld aus dem Haushalt ,
+1	Karwe	Karwe	PROPN	_	Case=Nom|Number=Sing	2	sb	_	_
+2	bekommt	bekommen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	per	per	ADP	_		2	mo	_	_
+4	Beschluss	Beschluss	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nk	_	_
+5	mehr	mehr	DET	_	PronType=Ind	6	nk	_	_
+6	Geld	Geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	oa	_	_
+7	aus	aus	ADP	_		2	mo	_	_
+8	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nk	_	_
+9	Haushalt	Haushalt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	nk	_	_
+10	,	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 16
+# text = doch das Problem löst die Finanzspritze nicht .
+1	doch	doch	CCONJ	_		4	ju	_	_
+2	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nk	_	_
+3	Problem	Problem	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	sb	_	_
+4	löst	lösen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Finanzspritze	Finanzspritze	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	oa	_	_
+7	nicht	nicht	PART	_		4	ng	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 17
+# text = Die Ortsteile wollen , dass die Abgeordneten mit ihnen sprechen ,
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Ortsteile	Ortsteile	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	wollen	wollen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+5	dass	dass	SCONJ	_		10	cp	_	_
+6	die	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	7	nk	_	_
+7	Abgeordneten	abgeordneter	NOUN	_	Case=Nom|Number=Plur	10	sb	_	_
+8	mit	mit	ADP	_		10	op	_	_
+9	ihnen	ihnen	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	nk	_	_
+10	sprechen	sprechen	VERB	_	VerbForm=Inf	3	oc	_	_
+11	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 18
+# text = ihre Sorgen anhören ,
+1	ihre	ihr	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	2	nk	_	_
+2	Sorgen	Sorge	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	oa	_	_
+3	anhören	anhören	VERB	_	VerbForm=Inf	3	ROOT	_	_
+4	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 19
+# text = sich dafür interessieren -
+1	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	oa	_	_
+2	dafür	dafür	ADV	_		3	mo	_	_
+3	interessieren	interessieren	VERB	_	VerbForm=Inf	3	ROOT	_	_
+4	-	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 20
+# text = ohne dass ihnen jemand die Pistole auf die Brust setzt .
+1	ohne	ohne	ADP	_		10	ac	_	_
+2	dass	dass	SCONJ	_		10	cp	_	_
+3	ihnen	ihnen	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	da	_	_
+4	jemand	jemand	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	sb	_	_
+5	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	nk	_	_
+6	Pistole	Pistole	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	oa	_	_
+7	auf	auf	ADP	_		10	mo	_	_
+8	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	nk	_	_
+9	Brust	Brust	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nk	_	_
+10	setzt	setzen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 21
+# text = Sie fordern auch Geld .
+1	Sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	sb	_	_
+2	fordern	fordern	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	auch	auch	ADV	_		2	mo	_	_
+4	Geld	Geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	oa	_	_
+5	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 22
+# text = Vor allem aber wollen sie ernst genommen werden .
+1	Vor	vor	ADP	_		8	mo	_	_
+2	allem	alle	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	1	nk	_	_
+3	aber	aber	ADV	_		1	mo	_	_
+4	wollen	wollen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	sb	_	_
+6	ernst	ernst	ADV	_	Degree=Pos	7	mo	_	_
+7	genommen	nehmen	VERB	_	VerbForm=Part	8	oc	_	_
+8	werden	werden	AUX	_	VerbForm=Inf	4	oc	_	_
+9	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 23
+# text = Wenn man das in Neuruppin nicht erkennt ,
+1	Wenn	wenn	SCONJ	_		7	cp	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	7	sb	_	_
+3	das	der	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	oa	_	_
+4	in	in	ADP	_		7	mo	_	_
+5	Neuruppin	Neuruppin	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	4	nk	_	_
+6	nicht	nicht	PART	_		7	ng	_	_
+7	erkennt	erkennen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 24
+# text = droht irgendwann der nächste Ort mit Scheidung .
+1	droht	drohen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ROOT	_	_
+2	irgendwann	irgendwann	ADV	_		1	mo	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nk	_	_
+4	nächste	nächster	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nk	_	_
+5	Ort	Ort	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+6	mit	mit	ADP	_		5	mnr	_	_
+7	Scheidung	Scheidung	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nk	_	_
+8	.	--	PUNCT	_		1	punct	_	_
+

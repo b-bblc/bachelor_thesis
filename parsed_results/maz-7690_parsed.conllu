@@ -1,0 +1,233 @@
+# sent_id = 1
+# text = Zurück zur Heimatwurst
+1	Zurück	zurück	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	ROOT	_	_
+2	zur	zu	ADP	_	Case=Dat|Gender=Fem|Number=Sing	1	mnr	_	_
+3	Heimatwurst	Heimatwurst	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nk	_	_
+
+# sent_id = 2
+# text = Schlachtefest - mit diesem Wort hätte man vor einem Jahr den Schrecken auf die Gesichter der Deutschen getrieben .
+1	Schlachtefest	Schlachtefest	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	oa	_	_
+2	-	--	PUNCT	_		1	punct	_	_
+3	mit	mit	ADP	_		18	mo	_	_
+4	diesem	dieser	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	nk	_	_
+5	Wort	Wort	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	nk	_	_
+6	hätte	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	ROOT	_	_
+7	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	6	sb	_	_
+8	vor	vor	ADP	_		18	mo	_	_
+9	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	10	nk	_	_
+10	Jahr	Jahr	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	nk	_	_
+11	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nk	_	_
+12	Schrecken	Schrecken	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	oa	_	_
+13	auf	auf	ADP	_		18	mo	_	_
+14	die	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	nk	_	_
+15	Gesichter	Gesicht	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	nk	_	_
+16	der	der	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	17	nk	_	_
+17	Deutschen	deutsche	NOUN	_	Case=Gen|Number=Plur	15	ag	_	_
+18	getrieben	treiben	VERB	_	VerbForm=Part	6	oc	_	_
+19	.	--	PUNCT	_		6	punct	_	_
+
+# sent_id = 3
+# text = Damals , als die Angst vor dem Rinderwahn irrationale Züge annahm ,
+1	Damals	damals	ADV	_		1	ROOT	_	_
+2	,	--	PUNCT	_		1	punct	_	_
+3	als	als	SCONJ	_		11	cp	_	_
+4	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+5	Angst	Angst	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	sb	_	_
+6	vor	vor	ADP	_		5	op	_	_
+7	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nk	_	_
+8	Rinderwahn	Rinderwahn	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nk	_	_
+9	irrationale	irrational	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	nk	_	_
+10	Züge	Zug	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	oa	_	_
+11	annahm	annehmen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	mnr	_	_
+12	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 4
+# text = hätten auch die cleversten Werbestrategen eine Veranstaltung wie das Schlachtefest am Wochenende in Paaren/Glien nicht an den Mann , oder besser , an den Verbraucher bringen können .
+1	hätten	haben	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	auch	auch	ADV	_		5	mo	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	nk	_	_
+4	cleversten	clever	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	5	nk	_	_
+5	Werbestrategen	Werbestrateg	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	1	sb	_	_
+6	eine	ein	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Veranstaltung	Veranstaltung	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	29	oa	_	_
+8	wie	wie	ADP	_		10	cm	_	_
+9	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	nk	_	_
+10	Schlachtefest	Schlachtefest	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	cc	_	_
+11	am	an	ADP	_	Case=Dat|Gender=Neut|Number=Sing	7	mnr	_	_
+12	Wochenende	Wochenende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	nk	_	_
+13	in	in	ADP	_		7	mnr	_	_
+14	Paaren	Paar	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	13	nk	_	_
+15	/	--	PUNCT	_		7	punct	_	_
+16	Glien	Gli	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	7	ag	_	_
+17	nicht	nicht	PART	_		20	ng	_	_
+18	an	an	ADP	_		29	cj	_	_
+19	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	nk	_	_
+20	Mann	Mann	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	nk	_	_
+21	,	--	PUNCT	_		18	punct	_	_
+22	oder	oder	CCONJ	_		18	cd	_	_
+23	besser	gut	ADV	_	Degree=Cmp	22	cj	_	_
+24	,	--	PUNCT	_		28	punct	_	_
+25	an	an	ADP	_		28	mo	_	_
+26	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	nk	_	_
+27	Verbraucher	Verbraucher	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	25	nk	_	_
+28	bringen	bringen	VERB	_	VerbForm=Inf	29	oc	_	_
+29	können	können	AUX	_	VerbForm=Inf	1	oc	_	_
+30	.	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 5
+# text = Die BSE-Panik liegt nun länger als ein Jahr zurück .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	nk	_	_
+2	BSE-Panik	BSE-Panik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	sb	_	_
+3	liegt	liegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	nun	nun	ADV	_		3	mo	_	_
+5	länger	lang	ADV	_	Degree=Cmp	3	mo	_	_
+6	als	als	ADP	_		8	cm	_	_
+7	ein	ein	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	nk	_	_
+8	Jahr	Jahr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	cc	_	_
+9	zurück	zurück	ADV	_		3	svp	_	_
+10	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 6
+# text = Fast unmerklich ist das Vertrauen der Menschen zurückgekehrt ,
+1	Fast	fast	ADV	_		2	mo	_	_
+2	unmerklich	unmerklich	ADV	_	Degree=Pos	3	pd	_	_
+3	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	nk	_	_
+5	Vertrauen	vertrauen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	sb	_	_
+6	der	der	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	nk	_	_
+7	Menschen	Mensch	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	ag	_	_
+8	zurückgekehrt	zurückkehren	VERB	_	VerbForm=Part	3	oc	_	_
+9	,	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 7
+# text = der Absatz von Fleischwaren hat die gewohnten Größenordnungen wieder erreicht .
+1	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nk	_	_
+2	Absatz	Absatz	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	sb	_	_
+3	von	von	ADP	_		2	pg	_	_
+4	Fleischwaren	Fleischwar	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	3	nk	_	_
+5	hat	haben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ROOT	_	_
+6	die	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	nk	_	_
+7	gewohnten	gewohnt	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	8	nk	_	_
+8	Größenordnungen	Größenordnung	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	oa	_	_
+9	wieder	wieder	ADV	_		10	mo	_	_
+10	erreicht	erreichen	VERB	_	VerbForm=Part	5	oc	_	_
+11	.	--	PUNCT	_		5	punct	_	_
+
+# sent_id = 8
+# text = Ob dies das Ergebnis einer veränderten Politik ist , darf bezweifelt werden .
+1	Ob	ob	SCONJ	_		8	cp	_	_
+2	dies	dieser	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	sb	_	_
+3	das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	nk	_	_
+4	Ergebnis	Ergebnis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	pd	_	_
+5	einer	ein	DET	_	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+6	veränderten	verändert	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	nk	_	_
+7	Politik	Politik	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	ag	_	_
+8	ist	sein	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	sb	_	_
+9	,	--	PUNCT	_		10	punct	_	_
+10	darf	dürfen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ROOT	_	_
+11	bezweifelt	bezweifeln	VERB	_	VerbForm=Part	12	oc	_	_
+12	werden	werden	AUX	_	VerbForm=Inf	10	oc	_	_
+13	.	--	PUNCT	_		10	punct	_	_
+
+# sent_id = 9
+# text = Vielmehr scheinen die Verbraucher zu ihren alten , lieben Gewohnheiten zurückgekehrt zu sein .
+1	Vielmehr	vielmehr	ADV	_		2	mo	_	_
+2	scheinen	scheinen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	nk	_	_
+4	Verbraucher	Verbraucher	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	sb	_	_
+5	zu	zu	ADP	_		11	mo	_	_
+6	ihren	ihr	DET	_	Case=Dat|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	10	nk	_	_
+7	alten	alt	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	10	nk	_	_
+8	,	--	PUNCT	_		7	punct	_	_
+9	lieben	lieb	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	7	cj	_	_
+10	Gewohnheiten	Gewohnheit	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	nk	_	_
+11	zurückgekehrt	zurückkehren	VERB	_	VerbForm=Part	13	oc	_	_
+12	zu	zu	PART	_		13	pm	_	_
+13	sein	sein	AUX	_	VerbForm=Inf	2	oc	_	_
+14	.	--	PUNCT	_		2	punct	_	_
+
+# sent_id = 10
+# text = Eines allerdings scheint sich geändert zu haben .
+1	Eines	einer	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	sb	_	_
+2	allerdings	allerdings	ADV	_		3	mo	_	_
+3	scheint	scheinen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	sich	sich	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	oa	_	_
+5	geändert	ändern	VERB	_	VerbForm=Part	7	oc	_	_
+6	zu	zu	PART	_		7	pm	_	_
+7	haben	haben	AUX	_	VerbForm=Inf	3	oc	_	_
+8	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 11
+# text = Die regionalen Produkte haben an Ansehen gewonnen .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	nk	_	_
+2	regionalen	regional	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	3	nk	_	_
+3	Produkte	Produkt	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	sb	_	_
+4	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ROOT	_	_
+5	an	an	ADP	_		7	mo	_	_
+6	Ansehen	ansehen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	nk	_	_
+7	gewonnen	gewinnen	VERB	_	VerbForm=Part	4	oc	_	_
+8	.	--	PUNCT	_		4	punct	_	_
+
+# sent_id = 12
+# text = Das Schlachtefest in Paaren/Glien stützt diese These .
+1	Das	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	nk	_	_
+2	Schlachtefest	Schlachtefest	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	ROOT	_	_
+3	in	in	ADP	_		2	mnr	_	_
+4	Paaren	Paar	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	3	nk	_	_
+5	/	--	PUNCT	_		2	punct	_	_
+6	Glien	Gli	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	7	sb	_	_
+7	stützt	stützen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ROOT	_	_
+8	diese	dieser	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	9	nk	_	_
+9	These	These	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	oa	_	_
+10	.	--	PUNCT	_		7	punct	_	_
+
+# sent_id = 13
+# text = Die Menschen genießen vermehrt einheimische Produkte .
+1	Die	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	nk	_	_
+2	Menschen	Mensch	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	sb	_	_
+3	genießen	genießen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ROOT	_	_
+4	vermehrt	vermehrt	ADV	_	Degree=Pos	3	mo	_	_
+5	einheimische	einheimisch	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	6	nk	_	_
+6	Produkte	Produkt	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	oa	_	_
+7	.	--	PUNCT	_		3	punct	_	_
+
+# sent_id = 14
+# text = Statt der plastikverpackten Einheitswurst aus der Supermarkttheke verlangen sie nach Waren ortsansässiger Fleischer .
+1	Statt	statt	ADP	_		8	mo	_	_
+2	der	der	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	nk	_	_
+3	plastikverpackten	plastikverpackt	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nk	_	_
+4	Einheitswurst	Einheitswurst	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nk	_	_
+5	aus	aus	ADP	_		4	mnr	_	_
+6	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	nk	_	_
+7	Supermarkttheke	Supermarkttheke	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	nk	_	_
+8	verlangen	verlangen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ROOT	_	_
+9	sie	sie	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	sb	_	_
+10	nach	nach	ADP	_		8	mo	_	_
+11	Waren	Ware	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	nk	_	_
+12	ortsansässiger	ortsansässig	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	13	nk	_	_
+13	Fleischer	Fleischer	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	ag	_	_
+14	.	--	PUNCT	_		8	punct	_	_
+
+# sent_id = 15
+# text = Sollte dieser Trend anhalten ,
+1	Sollte	sollen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	ROOT	_	_
+2	dieser	dieser	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nk	_	_
+3	Trend	Trend	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	sb	_	_
+4	anhalten	anhalten	VERB	_	VerbForm=Inf	1	oc	_	_
+5	,	--	PUNCT	_		1	punct	_	_
+
+# sent_id = 16
+# text = dann hätte die ganze BSE-Hysterie am Ende doch ihr Gutes gehabt .
+1	dann	dann	ADV	_		11	mo	_	_
+2	hätte	haben	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ROOT	_	_
+3	die	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	nk	_	_
+4	ganze	ganz	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nk	_	_
+5	BSE-Hysterie	BSE-Hysterie	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	sb	_	_
+6	am	an	ADP	_	Case=Dat|Gender=Neut|Number=Sing	2	mo	_	_
+7	Ende	Ende	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nk	_	_
+8	doch	doch	ADV	_		11	mo	_	_
+9	ihr	ihr	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	nk	_	_
+10	Gutes	Gutes	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	oa	_	_
+11	gehabt	haben	VERB	_	VerbForm=Part	2	oc	_	_
+12	.	--	PUNCT	_		2	punct	_	_
+

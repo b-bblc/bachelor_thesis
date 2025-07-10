@@ -1,0 +1,7 @@
+spacy
+conllu
+jupyter
+ipython
+matplotlib
+pandas
+stanza

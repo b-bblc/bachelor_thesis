@@ -1,38 +1,36 @@
-import os
-import xml.etree.ElementTree as ET
+"""
+Legacy EDU extraction script.
+Use src/edu_extractor.py for new projects.
+"""
+import sys
+from pathlib import Path
 
-# Path to the folder containing .rs3 files
-rs3_folder = 'PotsdamCommentaryCorpus/rst'
-# Path to the folder where .txt files will be saved
-output_folder = 'extracted_txts'
+# Add src to path
+sys.path.append(str(Path(__file__).parent / 'src'))
 
-# Create the output folder if it doesn't exist
-os.makedirs(output_folder, exist_ok=True)
+from src.edu_extractor import EDUExtractor
+import warnings
 
-# Iterate over all files in the .rs3 folder
-for filename in os.listdir(rs3_folder):
-    if filename.endswith('.rs3'):
-        rs3_path = os.path.join(rs3_folder, filename)  # Full path to the .rs3 file
-        tree = ET.parse(rs3_path)  # Parse the XML file
-        root = tree.getroot()      # Get the root element of the XML
+warnings.warn(
+    "export.py is deprecated. Use 'python main.py' or the src/edu_extractor.py module instead.",
+    DeprecationWarning,
+    stacklevel=2
+)
 
-        # Extract all segments (EDUs) from the XML
-        segments = root.findall('.//segment')
+def main():
+    """Legacy main function for backward compatibility."""
+    extractor = EDUExtractor()
+    
+    # Extract German EDUs
+    german_stats = extractor.extract_edus_from_directory(
+        "PotsdamCommentaryCorpus/rst", 
+        "extracted_txts"
+    )
+    
+    print(f"German extraction complete. Total files: {len(german_stats)}")
+    print(f"Total EDUs extracted: {sum(german_stats.values())}")
+    
+    print("\n⚠️  Consider using the new main.py script for enhanced functionality.")
 
-        # Collect the text content of each EDU, stripping whitespace
-        edu_texts = [seg.text.strip() for seg in segments if seg.text]
-
-        # Generate the output filename by replacing .rs3 with .txt
-        txt_filename = filename.replace('.rs3', '.txt')
-        txt_path = os.path.join(output_folder, txt_filename)
-
-        # Write all EDU texts line by line into the .txt file
-        with open(txt_path, 'w', encoding='utf-8') as f_out:
-            for edu in edu_texts:
-                f_out.write(edu + '\n')
-
-        # Print a message indicating completion of the current file
-        print(f'Processed file: {filename}, extracted EDU count: {len(edu_texts)}')
-
-
-
+if __name__ == "__main__":
+    main()

@@ -1,42 +1,38 @@
-import spacy
-import os
+"""
+Legacy EDU parsing script. 
+Use src/dependency_parser.py for new projects.
+"""
+import sys
+from pathlib import Path
 
-# Load the German language model
-nlp = spacy.load('de_core_news_md')
+# Add src to path
+sys.path.append(str(Path(__file__).parent / 'src'))
 
-# Directories
-input_folder = 'extracted_txts'  
-output_folder = 'parsed_results'  
+from src.dependency_parser import DependencyParser
+import warnings
 
-# Ensure the output folder exists
-os.makedirs(output_folder, exist_ok=True)
+warnings.warn(
+    "parse_edus.py is deprecated. Use 'python main.py' or the src/dependency_parser.py module instead.",
+    DeprecationWarning,
+    stacklevel=2
+)
 
-# Loop through each .txt file in the input folder
-for filename in os.listdir(input_folder):
-    if filename.endswith('.txt'):  
-        input_path = os.path.join(input_folder, filename)
-        output_path = os.path.join(output_folder, filename.replace('.txt', '_parsed.conllu'))
+def main():
+    """Legacy main function for backward compatibility."""
+    parser = DependencyParser('german')
+    stats = parser.parse_directory("extracted_txts", "parsed_results")
+    
+    print(f"Parsing complete. Processed {len(stats)} files.")
+    
+    # Print summary statistics
+    total_edus = sum(file_stats['total_edus'] for file_stats in stats.values())
+    total_tokens = sum(file_stats['total_tokens'] for file_stats in stats.values())
+    
+    print(f"Total EDUs parsed: {total_edus}")
+    print(f"Total tokens: {total_tokens}")
+    print(f"Average tokens per EDU: {total_tokens / total_edus if total_edus > 0 else 0:.2f}")
+    
+    print("\n⚠️  Consider using the new main.py script for enhanced functionality.")
 
-        with open(input_path, 'r', encoding='utf-8') as infile, open(output_path, 'w', encoding='utf-8') as outfile:
-            edus = infile.readlines()  
-            
-           
-            for edu_num, edu in enumerate(edus, 1):
-                edu = edu.strip()  
-
-                if not edu:  
-                    continue
-
-                # Process the EDU using spaCy
-                doc = nlp(edu)
-
-                # Write the result in CoNLL-U format
-                outfile.write(f"# sent_id = {edu_num}\n")  # Sentence ID
-                outfile.write(f"# text = {edu}\n")  # Text (EDU)
-
-                # For each token in the EDU, write its details (ID, text, lemma, POS, head, dependency relation, etc.)
-                for i, token in enumerate(doc, 1):
-                    outfile.write(f"{i}\t{token.text}\t{token.lemma_}\t{token.pos_}\t_\t{token.morph}\t{token.head.i + 1}\t{token.dep_}\t_\t_\n")
-                outfile.write("\n")  
-
-        print(f"Parsed file: {filename}")  
+if __name__ == "__main__":
+    main()

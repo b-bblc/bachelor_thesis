@@ -15,7 +15,7 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
 import conllu
 
-from .config import PARSED_RESULTS_DIR, RESULTS_DIR, VISUALIZATION_LIMIT
+from .config import RESULTS_GERMAN_DIR, RESULTS_RUSSIAN_DIR, RESULTS_DIR, VISUALIZATION_LIMIT
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -442,16 +442,25 @@ def main():
     analyzer = DependencyAnalyzer()
     
     # Load German data
-    german_sentences = analyzer.load_conllu_files("parsed_results", "German")
+    german_sentences = analyzer.load_conllu_files("results/results_german/parsed_dependencies", "German")
+    
+    # Load Russian data
+    russian_sentences = analyzer.load_conllu_files("results/results_russian/parsed_dependencies", "Russian")
+    
+    # Combine data
+    all_sentences = german_sentences + russian_sentences
     
     # Extract features
-    features_df = analyzer.extract_features(german_sentences)
+    features_df = analyzer.extract_features(all_sentences)
     
     # Generate visualizations
     analyzer.visualize_feature_distributions(features_df)
     
     # Perform clustering
     clustering_results = analyzer.perform_clustering_analysis(features_df)
+    
+    # Compare languages
+    language_comparison = analyzer.compare_languages(features_df)
     
     # Generate report
     report = analyzer.generate_report(features_df, "analysis_report.md")

@@ -3,3 +3,18 @@ __pycache__/
 Handbuch_Textannotation.pdf
 BScThesis-EDU-dependencysyntax.pdf
 notebooks/*/*.svg
+
+# Generated data files
+results/
+extracted_txts_*/
+parsed_results_*/
+PotsdamCommentaryCorpus/
+RuRsTreebank_full/
+
+# Temporary analysis outputs
+*.log
+*.tmp
+*_temp.txt
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/

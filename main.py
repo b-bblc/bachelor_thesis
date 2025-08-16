@@ -114,7 +114,7 @@ def run_analysis(languages: list) -> dict:
             continue
         
         language = lang_stats['language']
-        parse_dir = f"parsed_results_{language}" if language != 'german' else "parsed_results"
+        parse_dir = f"results/results_{language}/parsed_dependencies"
         
         try:
             # Load sentences and extract features
@@ -172,8 +172,8 @@ def main():
     parser.add_argument(
         '--languages', 
         nargs='+', 
-        default=['german', 'russian', 'english'],
-        help='Languages to process (default: german russian english)'
+        default=['german', 'russian'],
+        help='Languages to process (default: german russian)'
     )
     parser.add_argument(
         '--skip-extraction', 
@@ -196,19 +196,14 @@ def main():
     # Define language configurations
     language_configs = {
         'german': {
-            'input_dir': 'PotsdamCommentaryCorpus/rst',
-            'extract_dir': 'extracted_txts',
-            'parse_dir': 'parsed_results'
+            'input_dir': 'PotsdamCommentaryCorpus/PotsdamCommentaryCorpus/rst',
+            'extract_dir': 'results/results_german/extracted_edus',
+            'parse_dir': 'results/results_german/parsed_dependencies'
         },
         'russian': {
             'input_dir': 'RuRsTreebank_full',
-            'extract_dir': 'extracted_txts_russian',
-            'parse_dir': 'parsed_results_russian'
-        },
-        'english': {
-            'input_dir': 'en_example.rs3',
-            'extract_dir': 'extracted_txts_english',
-            'parse_dir': 'parsed_results_english'
+            'extract_dir': 'results/results_russian/extracted_edus',
+            'parse_dir': 'results/results_russian/parsed_dependencies'
         }
     }
     

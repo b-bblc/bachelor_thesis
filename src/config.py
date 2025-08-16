@@ -14,13 +14,17 @@ RUSSIAN_CORPUS_DIR = PROJECT_ROOT / "RuRsTreebank_full"
 ENGLISH_EXAMPLE = PROJECT_ROOT / "en_example.rs3"
 
 # Output directories
-EXTRACTED_TXTS_DIR = PROJECT_ROOT / "extracted_txts"
-PARSED_RESULTS_DIR = PROJECT_ROOT / "parsed_results"
 RESULTS_DIR = PROJECT_ROOT / "results"
+RESULTS_GERMAN_DIR = RESULTS_DIR / "results_german"
+RESULTS_RUSSIAN_DIR = RESULTS_DIR / "results_russian"
 VISUALIZATIONS_DIR = RESULTS_DIR / "visualizations"
 
+# Legacy directories for backwards compatibility (will be deprecated)
+EXTRACTED_TXTS_DIR = PROJECT_ROOT / "extracted_txts"
+PARSED_RESULTS_DIR = PROJECT_ROOT / "parsed_results"
+
 # Create output directories if they don't exist
-for dir_path in [EXTRACTED_TXTS_DIR, PARSED_RESULTS_DIR, RESULTS_DIR, VISUALIZATIONS_DIR]:
+for dir_path in [RESULTS_DIR, RESULTS_GERMAN_DIR, RESULTS_RUSSIAN_DIR, VISUALIZATIONS_DIR]:
     dir_path.mkdir(exist_ok=True, parents=True)
 
 # Language models

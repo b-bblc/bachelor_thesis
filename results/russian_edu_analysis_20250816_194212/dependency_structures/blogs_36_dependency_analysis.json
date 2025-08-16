@@ -1,0 +1,352 @@
+{
+  "file_path": "../RuRsTreebank_full/blogs/test/blogs_36.rs3",
+  "total_edus": 97,
+  "edus_analysis": [
+    {
+      "edu_id": 1,
+      "text": " https://ff-mag.livejournal.com/61921.html",
+      "tokens": [
+        {
+          "text": " ",
+          "lemma": " ",
+          "pos": "SPACE",
+          "tag": "SPACE",
+          "dep": "dep",
+          "head": " ",
+          "head_pos": "SPACE"
+        },
+        {
+          "text": "https://ff-mag.livejournal.com/61921.html",
+          "lemma": "https://ff-mag.livejournal.com/61921.html",
+          "pos": "X",
+          "tag": "X",
+          "dep": "ROOT",
+          "head": "https://ff-mag.livejournal.com/61921.html",
+          "head_pos": "X"
+        }
+      ],
+      "dependencies": [
+        {
+          "token": " ",
+          "relation": "dep",
+          "head": " "
+        },
+        {
+          "token": "https://ff-mag.livejournal.com/61921.html",
+          "relation": "ROOT",
+          "head": "https://ff-mag.livejournal.com/61921.html"
+        }
+      ]
+    },
+    {
+      "edu_id": 2,
+      "text": " Завтрак: обязательное условие для всех, кто хочет быть в форме, или уловка маркетологов?",
+      "tokens": [
+        {
+          "text": " ",
+          "lemma": " ",
+          "pos": "SPACE",
+          "tag": "SPACE",
+          "dep": "dep",
+          "head": "Завтрак",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "Завтрак",
+          "lemma": "завтрак",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "nsubj",
+          "head": "условие",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": ":",
+          "lemma": ":",
+          "pos": "PUNCT",
+          "tag": "PUNCT",
+          "dep": "punct",
+          "head": "условие",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "обязательное",
+          "lemma": "обязательный",
+          "pos": "ADJ",
+          "tag": "ADJ",
+          "dep": "amod",
+          "head": "условие",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "условие",
+          "lemma": "условие",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "ROOT",
+          "head": "условие",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "для",
+          "lemma": "для",
+          "pos": "ADP",
+          "tag": "ADP",
+          "dep": "case",
+          "head": "всех",
+          "head_pos": "PRON"
+        },
+        {
+          "text": "всех",
+          "lemma": "всех",
+          "pos": "PRON",
+          "tag": "PRON",
+          "dep": "nmod",
+          "head": "условие",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "pos": "PUNCT",
+          "tag": "PUNCT",
+          "dep": "punct",
+          "head": "хочет",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "кто",
+          "lemma": "кто",
+          "pos": "PRON",
+          "tag": "PRON",
+          "dep": "nsubj",
+          "head": "хочет",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "хочет",
+          "lemma": "хотеть",
+          "pos": "VERB",
+          "tag": "VERB",
+          "dep": "acl:relcl",
+          "head": "всех",
+          "head_pos": "PRON"
+        },
+        {
+          "text": "быть",
+          "lemma": "быть",
+          "pos": "AUX",
+          "tag": "AUX",
+          "dep": "cop",
+          "head": "форме",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "в",
+          "lemma": "в",
+          "pos": "ADP",
+          "tag": "ADP",
+          "dep": "case",
+          "head": "форме",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "форме",
+          "lemma": "форма",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "obl",
+          "head": "хочет",
+          "head_pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "pos": "PUNCT",
+          "tag": "PUNCT",
+          "dep": "punct",
+          "head": "уловка",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "или",
+          "lemma": "или",
+          "pos": "CCONJ",
+          "tag": "CCONJ",
+          "dep": "cc",
+          "head": "уловка",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "уловка",
+          "lemma": "уловка",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "conj",
+          "head": "условие",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "маркетологов",
+          "lemma": "маркетолог",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "nmod",
+          "head": "уловка",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "?",
+          "lemma": "?",
+          "pos": "PUNCT",
+          "tag": "PUNCT",
+          "dep": "punct",
+          "head": "условие",
+          "head_pos": "NOUN"
+        }
+      ],
+      "dependencies": [
+        {
+          "token": " ",
+          "relation": "dep",
+          "head": "Завтрак"
+        },
+        {
+          "token": "Завтрак",
+          "relation": "nsubj",
+          "head": "условие"
+        },
+        {
+          "token": ":",
+          "relation": "punct",
+          "head": "условие"
+        },
+        {
+          "token": "обязательное",
+          "relation": "amod",
+          "head": "условие"
+        },
+        {
+          "token": "условие",
+          "relation": "ROOT",
+          "head": "условие"
+        },
+        {
+          "token": "для",
+          "relation": "case",
+          "head": "всех"
+        },
+        {
+          "token": "всех",
+          "relation": "nmod",
+          "head": "условие"
+        },
+        {
+          "token": ",",
+          "relation": "punct",
+          "head": "хочет"
+        },
+        {
+          "token": "кто",
+          "relation": "nsubj",
+          "head": "хочет"
+        },
+        {
+          "token": "хочет",
+          "relation": "acl:relcl",
+          "head": "всех"
+        },
+        {
+          "token": "быть",
+          "relation": "cop",
+          "head": "форме"
+        },
+        {
+          "token": "в",
+          "relation": "case",
+          "head": "форме"
+        },
+        {
+          "token": "форме",
+          "relation": "obl",
+          "head": "хочет"
+        },
+        {
+          "token": ",",
+          "relation": "punct",
+          "head": "уловка"
+        },
+        {
+          "token": "или",
+          "relation": "cc",
+          "head": "уловка"
+        },
+        {
+          "token": "уловка",
+          "relation": "conj",
+          "head": "условие"
+        },
+        {
+          "token": "маркетологов",
+          "relation": "nmod",
+          "head": "уловка"
+        },
+        {
+          "token": "?",
+          "relation": "punct",
+          "head": "условие"
+        }
+      ]
+    },
+    {
+      "edu_id": 3,
+      "text": " Завтраки любят",
+      "tokens": [
+        {
+          "text": " ",
+          "lemma": " ",
+          "pos": "SPACE",
+          "tag": "SPACE",
+          "dep": "dep",
+          "head": "Завтраки",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "Завтраки",
+          "lemma": "завтрак",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "nsubj",
+          "head": "любят",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "любят",
+          "lemma": "любить",
+          "pos": "VERB",
+          "tag": "VERB",
+          "dep": "ROOT",
+          "head": "любят",
+          "head_pos": "VERB"
+        }
+      ],
+      "dependencies": [
+        {
+          "token": " ",
+          "relation": "dep",
+          "head": "Завтраки"
+        },
+        {
+          "token": "Завтраки",
+          "relation": "nsubj",
+          "head": "любят"
+        },
+        {
+          "token": "любят",
+          "relation": "ROOT",
+          "head": "любят"
+        }
+      ]
+    }
+  ]
+}

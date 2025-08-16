@@ -1,0 +1,81 @@
+{
+  "analysis_metadata": {
+    "timestamp": "20250816_194212",
+    "output_directory": "../results/russian_edu_analysis_20250816_194212",
+    "total_files_processed": 5,
+    "spacy_model": "ru_core_news_sm"
+  },
+  "file_statistics": [
+    {
+      "filename": "blogs_36.rs3",
+      "total_edus": 97,
+      "analyzed_edus": 3,
+      "total_tokens": 23
+    },
+    {
+      "filename": "blogs_1.rs3",
+      "total_edus": 102,
+      "analyzed_edus": 3,
+      "total_tokens": 24
+    },
+    {
+      "filename": "blogs_57.rs3",
+      "total_edus": 49,
+      "analyzed_edus": 3,
+      "total_tokens": 9
+    },
+    {
+      "filename": "blogs_43.rs3",
+      "total_edus": 102,
+      "analyzed_edus": 3,
+      "total_tokens": 32
+    },
+    {
+      "filename": "blogs_93.rs3",
+      "total_edus": 254,
+      "analyzed_edus": 3,
+      "total_tokens": 14
+    }
+  ],
+  "dependency_patterns": {
+    "punct": 17,
+    "dep": 15,
+    "ROOT": 15,
+    "nmod": 10,
+    "case": 8,
+    "conj": 8,
+    "nsubj": 7,
+    "amod": 6,
+    "obl": 4,
+    "cc": 4,
+    "advmod": 3,
+    "acl:relcl": 1,
+    "cop": 1,
+    "obj": 1,
+    "det": 1,
+    "appos": 1
+  },
+  "pos_patterns": {
+    "NOUN": 21,
+    "SPACE": 15,
+    "PUNCT": 15,
+    "PROPN": 13,
+    "ADJ": 8,
+    "ADP": 8,
+    "PRON": 4,
+    "VERB": 4,
+    "CCONJ": 4,
+    "PART": 3,
+    "ADV": 3,
+    "X": 2,
+    "AUX": 1,
+    "DET": 1
+  },
+  "overall_statistics": {
+    "total_edus_analyzed": 15,
+    "total_tokens_analyzed": 102,
+    "unique_dependency_relations": 16,
+    "unique_pos_tags": 14,
+    "average_tokens_per_edu": 6.8
+  }
+}

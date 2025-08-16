@@ -1,0 +1,1580 @@
+[
+  {
+    "file_path": "../RuRsTreebank_full/blogs/test/blogs_36.rs3",
+    "total_edus": 97,
+    "edus_analysis": [
+      {
+        "edu_id": 1,
+        "text": " https://ff-mag.livejournal.com/61921.html",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "https://ff-mag.livejournal.com/61921.html",
+            "lemma": "https://ff-mag.livejournal.com/61921.html",
+            "pos": "X",
+            "tag": "X",
+            "dep": "ROOT",
+            "head": "https://ff-mag.livejournal.com/61921.html",
+            "head_pos": "X"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "https://ff-mag.livejournal.com/61921.html",
+            "relation": "ROOT",
+            "head": "https://ff-mag.livejournal.com/61921.html"
+          }
+        ]
+      },
+      {
+        "edu_id": 2,
+        "text": " Завтрак: обязательное условие для всех, кто хочет быть в форме, или уловка маркетологов?",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": "Завтрак",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "Завтрак",
+            "lemma": "завтрак",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nsubj",
+            "head": "условие",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": ":",
+            "lemma": ":",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "условие",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "обязательное",
+            "lemma": "обязательный",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "amod",
+            "head": "условие",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "условие",
+            "lemma": "условие",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "ROOT",
+            "head": "условие",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "для",
+            "lemma": "для",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "всех",
+            "head_pos": "PRON"
+          },
+          {
+            "text": "всех",
+            "lemma": "всех",
+            "pos": "PRON",
+            "tag": "PRON",
+            "dep": "nmod",
+            "head": "условие",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "хочет",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "кто",
+            "lemma": "кто",
+            "pos": "PRON",
+            "tag": "PRON",
+            "dep": "nsubj",
+            "head": "хочет",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "хочет",
+            "lemma": "хотеть",
+            "pos": "VERB",
+            "tag": "VERB",
+            "dep": "acl:relcl",
+            "head": "всех",
+            "head_pos": "PRON"
+          },
+          {
+            "text": "быть",
+            "lemma": "быть",
+            "pos": "AUX",
+            "tag": "AUX",
+            "dep": "cop",
+            "head": "форме",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "в",
+            "lemma": "в",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "форме",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "форме",
+            "lemma": "форма",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "obl",
+            "head": "хочет",
+            "head_pos": "VERB"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "уловка",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "или",
+            "lemma": "или",
+            "pos": "CCONJ",
+            "tag": "CCONJ",
+            "dep": "cc",
+            "head": "уловка",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "уловка",
+            "lemma": "уловка",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "conj",
+            "head": "условие",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "маркетологов",
+            "lemma": "маркетолог",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nmod",
+            "head": "уловка",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "?",
+            "lemma": "?",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "условие",
+            "head_pos": "NOUN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": "Завтрак"
+          },
+          {
+            "token": "Завтрак",
+            "relation": "nsubj",
+            "head": "условие"
+          },
+          {
+            "token": ":",
+            "relation": "punct",
+            "head": "условие"
+          },
+          {
+            "token": "обязательное",
+            "relation": "amod",
+            "head": "условие"
+          },
+          {
+            "token": "условие",
+            "relation": "ROOT",
+            "head": "условие"
+          },
+          {
+            "token": "для",
+            "relation": "case",
+            "head": "всех"
+          },
+          {
+            "token": "всех",
+            "relation": "nmod",
+            "head": "условие"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "хочет"
+          },
+          {
+            "token": "кто",
+            "relation": "nsubj",
+            "head": "хочет"
+          },
+          {
+            "token": "хочет",
+            "relation": "acl:relcl",
+            "head": "всех"
+          },
+          {
+            "token": "быть",
+            "relation": "cop",
+            "head": "форме"
+          },
+          {
+            "token": "в",
+            "relation": "case",
+            "head": "форме"
+          },
+          {
+            "token": "форме",
+            "relation": "obl",
+            "head": "хочет"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "уловка"
+          },
+          {
+            "token": "или",
+            "relation": "cc",
+            "head": "уловка"
+          },
+          {
+            "token": "уловка",
+            "relation": "conj",
+            "head": "условие"
+          },
+          {
+            "token": "маркетологов",
+            "relation": "nmod",
+            "head": "уловка"
+          },
+          {
+            "token": "?",
+            "relation": "punct",
+            "head": "условие"
+          }
+        ]
+      },
+      {
+        "edu_id": 3,
+        "text": " Завтраки любят",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": "Завтраки",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "Завтраки",
+            "lemma": "завтрак",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nsubj",
+            "head": "любят",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "любят",
+            "lemma": "любить",
+            "pos": "VERB",
+            "tag": "VERB",
+            "dep": "ROOT",
+            "head": "любят",
+            "head_pos": "VERB"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": "Завтраки"
+          },
+          {
+            "token": "Завтраки",
+            "relation": "nsubj",
+            "head": "любят"
+          },
+          {
+            "token": "любят",
+            "relation": "ROOT",
+            "head": "любят"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_path": "../RuRsTreebank_full/blogs/test/blogs_1.rs3",
+    "total_edus": 102,
+    "edus_analysis": [
+      {
+        "edu_id": 1,
+        "text": " https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+            "lemma": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "ROOT",
+            "head": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+            "head_pos": "PROPN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+            "relation": "ROOT",
+            "head": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html"
+          }
+        ]
+      },
+      {
+        "edu_id": 2,
+        "text": " Бюджетная косметика с пребиотиками от Chocolatte",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": "Бюджетная",
+            "head_pos": "ADJ"
+          },
+          {
+            "text": "Бюджетная",
+            "lemma": "бюджетный",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "amod",
+            "head": "косметика",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "косметика",
+            "lemma": "косметика",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "ROOT",
+            "head": "косметика",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "с",
+            "lemma": "с",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "пребиотиками",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "пребиотиками",
+            "lemma": "пребиотиками",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nmod",
+            "head": "косметика",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "от",
+            "lemma": "от",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "Chocolatte",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "Chocolatte",
+            "lemma": "chocolatte",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "nmod",
+            "head": "косметика",
+            "head_pos": "NOUN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": "Бюджетная"
+          },
+          {
+            "token": "Бюджетная",
+            "relation": "amod",
+            "head": "косметика"
+          },
+          {
+            "token": "косметика",
+            "relation": "ROOT",
+            "head": "косметика"
+          },
+          {
+            "token": "с",
+            "relation": "case",
+            "head": "пребиотиками"
+          },
+          {
+            "token": "пребиотиками",
+            "relation": "nmod",
+            "head": "косметика"
+          },
+          {
+            "token": "от",
+            "relation": "case",
+            "head": "Chocolatte"
+          },
+          {
+            "token": "Chocolatte",
+            "relation": "nmod",
+            "head": "косметика"
+          }
+        ]
+      },
+      {
+        "edu_id": 3,
+        "text": " Популярная идея микробиома, косметики с про/пребиотиками не обошла меня стороной,",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": "Популярная",
+            "head_pos": "ADJ"
+          },
+          {
+            "text": "Популярная",
+            "lemma": "популярный",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "amod",
+            "head": "идея",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "идея",
+            "lemma": "идея",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nsubj",
+            "head": "обошла",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "микробиома",
+            "lemma": "микробиома",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nmod",
+            "head": "идея",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "косметики",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "косметики",
+            "lemma": "косметика",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "conj",
+            "head": "идея",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "с",
+            "lemma": "с",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "про",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "про",
+            "lemma": "про",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nmod",
+            "head": "косметики",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "/",
+            "lemma": "/",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "про",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "пребиотиками",
+            "lemma": "пребиотиками",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "obl",
+            "head": "обошла",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "не",
+            "lemma": "не",
+            "pos": "PART",
+            "tag": "PART",
+            "dep": "advmod",
+            "head": "обошла",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "обошла",
+            "lemma": "обойти",
+            "pos": "VERB",
+            "tag": "VERB",
+            "dep": "ROOT",
+            "head": "обошла",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "меня",
+            "lemma": "меня",
+            "pos": "PRON",
+            "tag": "PRON",
+            "dep": "obj",
+            "head": "обошла",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "стороной",
+            "lemma": "сторона",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "obl",
+            "head": "обошла",
+            "head_pos": "VERB"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "обошла",
+            "head_pos": "VERB"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": "Популярная"
+          },
+          {
+            "token": "Популярная",
+            "relation": "amod",
+            "head": "идея"
+          },
+          {
+            "token": "идея",
+            "relation": "nsubj",
+            "head": "обошла"
+          },
+          {
+            "token": "микробиома",
+            "relation": "nmod",
+            "head": "идея"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "косметики"
+          },
+          {
+            "token": "косметики",
+            "relation": "conj",
+            "head": "идея"
+          },
+          {
+            "token": "с",
+            "relation": "case",
+            "head": "про"
+          },
+          {
+            "token": "про",
+            "relation": "nmod",
+            "head": "косметики"
+          },
+          {
+            "token": "/",
+            "relation": "punct",
+            "head": "про"
+          },
+          {
+            "token": "пребиотиками",
+            "relation": "obl",
+            "head": "обошла"
+          },
+          {
+            "token": "не",
+            "relation": "advmod",
+            "head": "обошла"
+          },
+          {
+            "token": "обошла",
+            "relation": "ROOT",
+            "head": "обошла"
+          },
+          {
+            "token": "меня",
+            "relation": "obj",
+            "head": "обошла"
+          },
+          {
+            "token": "стороной",
+            "relation": "obl",
+            "head": "обошла"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "обошла"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_path": "../RuRsTreebank_full/blogs/test/blogs_57.rs3",
+    "total_edus": 49,
+    "edus_analysis": [
+      {
+        "edu_id": 1,
+        "text": " https://putnik1.livejournal.com/7594285.html",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "https://putnik1.livejournal.com/7594285.html",
+            "lemma": "https://putnik1.livejournal.com/7594285.html",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "ROOT",
+            "head": "https://putnik1.livejournal.com/7594285.html",
+            "head_pos": "PROPN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "https://putnik1.livejournal.com/7594285.html",
+            "relation": "ROOT",
+            "head": "https://putnik1.livejournal.com/7594285.html"
+          }
+        ]
+      },
+      {
+        "edu_id": 2,
+        "text": " КВАНТУНСКАЯ ВОЛОСТЬ",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": "КВАНТУНСКАЯ",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "КВАНТУНСКАЯ",
+            "lemma": "квантунская",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nsubj",
+            "head": "ВОЛОСТЬ",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "ВОЛОСТЬ",
+            "lemma": "волость",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "ROOT",
+            "head": "ВОЛОСТЬ",
+            "head_pos": "PROPN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": "КВАНТУНСКАЯ"
+          },
+          {
+            "token": "КВАНТУНСКАЯ",
+            "relation": "nsubj",
+            "head": "ВОЛОСТЬ"
+          },
+          {
+            "token": "ВОЛОСТЬ",
+            "relation": "ROOT",
+            "head": "ВОЛОСТЬ"
+          }
+        ]
+      },
+      {
+        "edu_id": 3,
+        "text": " IMG-TXT",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "IMG",
+            "lemma": "img",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "ROOT",
+            "head": "IMG",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "-",
+            "lemma": "-",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "punct",
+            "head": "IMG",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "TXT",
+            "lemma": "txt",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "punct",
+            "head": "IMG",
+            "head_pos": "PROPN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "IMG",
+            "relation": "ROOT",
+            "head": "IMG"
+          },
+          {
+            "token": "-",
+            "relation": "punct",
+            "head": "IMG"
+          },
+          {
+            "token": "TXT",
+            "relation": "punct",
+            "head": "IMG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_path": "../RuRsTreebank_full/blogs/test/blogs_43.rs3",
+    "total_edus": 102,
+    "edus_analysis": [
+      {
+        "edu_id": 1,
+        "text": " https://habr.com/ru/post/460161/",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "https://habr.com/ru/post/460161/",
+            "lemma": "https://habr.com/ru/post/460161/",
+            "pos": "X",
+            "tag": "X",
+            "dep": "ROOT",
+            "head": "https://habr.com/ru/post/460161/",
+            "head_pos": "X"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "https://habr.com/ru/post/460161/",
+            "relation": "ROOT",
+            "head": "https://habr.com/ru/post/460161/"
+          }
+        ]
+      },
+      {
+        "edu_id": 2,
+        "text": " FusionPBX и ACL",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "FusionPBX",
+            "lemma": "fusionpbx",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "ROOT",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "и",
+            "lemma": "и",
+            "pos": "CCONJ",
+            "tag": "CCONJ",
+            "dep": "cc",
+            "head": "ACL",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "ACL",
+            "lemma": "acl",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "conj",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "FusionPBX",
+            "relation": "ROOT",
+            "head": "FusionPBX"
+          },
+          {
+            "token": "и",
+            "relation": "cc",
+            "head": "ACL"
+          },
+          {
+            "token": "ACL",
+            "relation": "conj",
+            "head": "FusionPBX"
+          }
+        ]
+      },
+      {
+        "edu_id": 3,
+        "text": " Моя статья — не полноценное описание продукта, а только небольшое уточнение хорошей публикации «FusionPBX, или снова-здорово, FreeSWITCH».",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": "Моя",
+            "head_pos": "DET"
+          },
+          {
+            "text": "Моя",
+            "lemma": "мой",
+            "pos": "DET",
+            "tag": "DET",
+            "dep": "det",
+            "head": "статья",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "статья",
+            "lemma": "статья",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nsubj",
+            "head": "описание",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "—",
+            "lemma": "—",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "статья",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "не",
+            "lemma": "не",
+            "pos": "PART",
+            "tag": "PART",
+            "dep": "advmod",
+            "head": "полноценное",
+            "head_pos": "ADJ"
+          },
+          {
+            "text": "полноценное",
+            "lemma": "полноценный",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "amod",
+            "head": "описание",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "описание",
+            "lemma": "описание",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "ROOT",
+            "head": "описание",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "продукта",
+            "lemma": "продукт",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nmod",
+            "head": "описание",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "уточнение",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "а",
+            "lemma": "а",
+            "pos": "CCONJ",
+            "tag": "CCONJ",
+            "dep": "cc",
+            "head": "уточнение",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "только",
+            "lemma": "только",
+            "pos": "PART",
+            "tag": "PART",
+            "dep": "advmod",
+            "head": "небольшое",
+            "head_pos": "ADJ"
+          },
+          {
+            "text": "небольшое",
+            "lemma": "небольшой",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "amod",
+            "head": "уточнение",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "уточнение",
+            "lemma": "уточнение",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "conj",
+            "head": "описание",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "хорошей",
+            "lemma": "хороший",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "amod",
+            "head": "публикации",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "публикации",
+            "lemma": "публикация",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "nmod",
+            "head": "уточнение",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "«",
+            "lemma": "\"",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "FusionPBX",
+            "lemma": "fusionpbx",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "appos",
+            "head": "публикации",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "снова",
+            "head_pos": "ADV"
+          },
+          {
+            "text": "или",
+            "lemma": "или",
+            "pos": "CCONJ",
+            "tag": "CCONJ",
+            "dep": "cc",
+            "head": "снова",
+            "head_pos": "ADV"
+          },
+          {
+            "text": "снова",
+            "lemma": "снова",
+            "pos": "ADV",
+            "tag": "ADV",
+            "dep": "conj",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "-",
+            "lemma": "-",
+            "pos": "ADV",
+            "tag": "ADV",
+            "dep": "conj",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "здорово",
+            "lemma": "здорово",
+            "pos": "ADV",
+            "tag": "ADV",
+            "dep": "conj",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "FreeSWITCH",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "FreeSWITCH",
+            "lemma": "freeswitch",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "conj",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "»",
+            "lemma": "\"",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "FusionPBX",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": ".",
+            "lemma": ".",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "описание",
+            "head_pos": "NOUN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": "Моя"
+          },
+          {
+            "token": "Моя",
+            "relation": "det",
+            "head": "статья"
+          },
+          {
+            "token": "статья",
+            "relation": "nsubj",
+            "head": "описание"
+          },
+          {
+            "token": "—",
+            "relation": "punct",
+            "head": "статья"
+          },
+          {
+            "token": "не",
+            "relation": "advmod",
+            "head": "полноценное"
+          },
+          {
+            "token": "полноценное",
+            "relation": "amod",
+            "head": "описание"
+          },
+          {
+            "token": "описание",
+            "relation": "ROOT",
+            "head": "описание"
+          },
+          {
+            "token": "продукта",
+            "relation": "nmod",
+            "head": "описание"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "уточнение"
+          },
+          {
+            "token": "а",
+            "relation": "cc",
+            "head": "уточнение"
+          },
+          {
+            "token": "только",
+            "relation": "advmod",
+            "head": "небольшое"
+          },
+          {
+            "token": "небольшое",
+            "relation": "amod",
+            "head": "уточнение"
+          },
+          {
+            "token": "уточнение",
+            "relation": "conj",
+            "head": "описание"
+          },
+          {
+            "token": "хорошей",
+            "relation": "amod",
+            "head": "публикации"
+          },
+          {
+            "token": "публикации",
+            "relation": "nmod",
+            "head": "уточнение"
+          },
+          {
+            "token": "«",
+            "relation": "punct",
+            "head": "FusionPBX"
+          },
+          {
+            "token": "FusionPBX",
+            "relation": "appos",
+            "head": "публикации"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "снова"
+          },
+          {
+            "token": "или",
+            "relation": "cc",
+            "head": "снова"
+          },
+          {
+            "token": "снова",
+            "relation": "conj",
+            "head": "FusionPBX"
+          },
+          {
+            "token": "-",
+            "relation": "conj",
+            "head": "FusionPBX"
+          },
+          {
+            "token": "здорово",
+            "relation": "conj",
+            "head": "FusionPBX"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "FreeSWITCH"
+          },
+          {
+            "token": "FreeSWITCH",
+            "relation": "conj",
+            "head": "FusionPBX"
+          },
+          {
+            "token": "»",
+            "relation": "punct",
+            "head": "FusionPBX"
+          },
+          {
+            "token": ".",
+            "relation": "punct",
+            "head": "описание"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "file_path": "../RuRsTreebank_full/blogs/test/blogs_93.rs3",
+    "total_edus": 254,
+    "edus_analysis": [
+      {
+        "edu_id": 1,
+        "text": " https://ru-travel.livejournal.com/33766823.html",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "https://ru-travel.livejournal.com/33766823.html",
+            "lemma": "https://ru-travel.livejournal.com/33766823.html",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "ROOT",
+            "head": "https://ru-travel.livejournal.com/33766823.html",
+            "head_pos": "PROPN"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "https://ru-travel.livejournal.com/33766823.html",
+            "relation": "ROOT",
+            "head": "https://ru-travel.livejournal.com/33766823.html"
+          }
+        ]
+      },
+      {
+        "edu_id": 2,
+        "text": " Маврикий",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": " ",
+            "head_pos": "SPACE"
+          },
+          {
+            "text": "Маврикий",
+            "lemma": "маврикий",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "ROOT",
+            "head": "Маврикий",
+            "head_pos": "ADJ"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": " "
+          },
+          {
+            "token": "Маврикий",
+            "relation": "ROOT",
+            "head": "Маврикий"
+          }
+        ]
+      },
+      {
+        "edu_id": 3,
+        "text": " После поездки в 2017 на Бали я вспомнил,",
+        "tokens": [
+          {
+            "text": " ",
+            "lemma": " ",
+            "pos": "SPACE",
+            "tag": "SPACE",
+            "dep": "dep",
+            "head": "После",
+            "head_pos": "ADP"
+          },
+          {
+            "text": "После",
+            "lemma": "После",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "поездки",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "поездки",
+            "lemma": "поездка",
+            "pos": "NOUN",
+            "tag": "NOUN",
+            "dep": "obl",
+            "head": "вспомнил",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "в",
+            "lemma": "в",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "2017",
+            "head_pos": "ADJ"
+          },
+          {
+            "text": "2017",
+            "lemma": "2017",
+            "pos": "ADJ",
+            "tag": "ADJ",
+            "dep": "nmod",
+            "head": "поездки",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "на",
+            "lemma": "на",
+            "pos": "ADP",
+            "tag": "ADP",
+            "dep": "case",
+            "head": "Бали",
+            "head_pos": "PROPN"
+          },
+          {
+            "text": "Бали",
+            "lemma": "бали",
+            "pos": "PROPN",
+            "tag": "PROPN",
+            "dep": "nmod",
+            "head": "поездки",
+            "head_pos": "NOUN"
+          },
+          {
+            "text": "я",
+            "lemma": "я",
+            "pos": "PRON",
+            "tag": "PRON",
+            "dep": "nsubj",
+            "head": "вспомнил",
+            "head_pos": "VERB"
+          },
+          {
+            "text": "вспомнил",
+            "lemma": "вспомнить",
+            "pos": "VERB",
+            "tag": "VERB",
+            "dep": "ROOT",
+            "head": "вспомнил",
+            "head_pos": "VERB"
+          },
+          {
+            "text": ",",
+            "lemma": ",",
+            "pos": "PUNCT",
+            "tag": "PUNCT",
+            "dep": "punct",
+            "head": "вспомнил",
+            "head_pos": "VERB"
+          }
+        ],
+        "dependencies": [
+          {
+            "token": " ",
+            "relation": "dep",
+            "head": "После"
+          },
+          {
+            "token": "После",
+            "relation": "case",
+            "head": "поездки"
+          },
+          {
+            "token": "поездки",
+            "relation": "obl",
+            "head": "вспомнил"
+          },
+          {
+            "token": "в",
+            "relation": "case",
+            "head": "2017"
+          },
+          {
+            "token": "2017",
+            "relation": "nmod",
+            "head": "поездки"
+          },
+          {
+            "token": "на",
+            "relation": "case",
+            "head": "Бали"
+          },
+          {
+            "token": "Бали",
+            "relation": "nmod",
+            "head": "поездки"
+          },
+          {
+            "token": "я",
+            "relation": "nsubj",
+            "head": "вспомнил"
+          },
+          {
+            "token": "вспомнил",
+            "relation": "ROOT",
+            "head": "вспомнил"
+          },
+          {
+            "token": ",",
+            "relation": "punct",
+            "head": "вспомнил"
+          }
+        ]
+      }
+    ]
+  }
+]

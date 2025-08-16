@@ -1,0 +1,51 @@
+
+RUSSIAN EDU DEPENDENCY ANALYSIS SUMMARY
+=======================================
+Generated: 2025-08-16 19:42:36
+Output Directory: ../results/russian_edu_analysis_20250816_194212
+
+OVERALL STATISTICS:
+- Files processed: 5
+- Total EDUs analyzed: 15
+- Total tokens analyzed: 102
+- Average tokens per EDU: 6.80
+- Unique dependency relations: 16
+- Unique POS tags: 14
+
+TOP 10 DEPENDENCY RELATIONS:
+ 1. punct           ( 17 occurrences)
+ 2. dep             ( 15 occurrences)
+ 3. ROOT            ( 15 occurrences)
+ 4. nmod            ( 10 occurrences)
+ 5. case            (  8 occurrences)
+ 6. conj            (  8 occurrences)
+ 7. nsubj           (  7 occurrences)
+ 8. amod            (  6 occurrences)
+ 9. obl             (  4 occurrences)
+10. cc              (  4 occurrences)
+
+TOP 10 POS TAGS:
+ 1. NOUN            ( 21 occurrences)
+ 2. SPACE           ( 15 occurrences)
+ 3. PUNCT           ( 15 occurrences)
+ 4. PROPN           ( 13 occurrences)
+ 5. ADJ             (  8 occurrences)
+ 6. ADP             (  8 occurrences)
+ 7. PRON            (  4 occurrences)
+ 8. VERB            (  4 occurrences)
+ 9. CCONJ           (  4 occurrences)
+10. PART            (  3 occurrences)
+
+FILES PROCESSED:
+- blogs_36.rs3: 3 EDUs, 23 tokens
+- blogs_1.rs3: 3 EDUs, 24 tokens
+- blogs_57.rs3: 3 EDUs, 9 tokens
+- blogs_43.rs3: 3 EDUs, 32 tokens
+- blogs_93.rs3: 3 EDUs, 14 tokens
+
+OUTPUT STRUCTURE:
+../results/russian_edu_analysis_20250816_194212/
+├── dependency_structures/     # JSON files with detailed dependency analysis
+├── visualizations/           # HTML files with dependency tree visualizations  
+└── summaries/               # Summary reports and statistics
+

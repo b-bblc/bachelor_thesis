@@ -1,0 +1,366 @@
+{
+  "file_path": "../RuRsTreebank_full/blogs/test/blogs_1.rs3",
+  "total_edus": 102,
+  "edus_analysis": [
+    {
+      "edu_id": 1,
+      "text": " https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+      "tokens": [
+        {
+          "text": " ",
+          "lemma": " ",
+          "pos": "SPACE",
+          "tag": "SPACE",
+          "dep": "dep",
+          "head": " ",
+          "head_pos": "SPACE"
+        },
+        {
+          "text": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+          "lemma": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+          "pos": "PROPN",
+          "tag": "PROPN",
+          "dep": "ROOT",
+          "head": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+          "head_pos": "PROPN"
+        }
+      ],
+      "dependencies": [
+        {
+          "token": " ",
+          "relation": "dep",
+          "head": " "
+        },
+        {
+          "token": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html",
+          "relation": "ROOT",
+          "head": "https://kosmetista.ru/blog/uhodovaya-kosmetika/97696.html"
+        }
+      ]
+    },
+    {
+      "edu_id": 2,
+      "text": " Бюджетная косметика с пребиотиками от Chocolatte",
+      "tokens": [
+        {
+          "text": " ",
+          "lemma": " ",
+          "pos": "SPACE",
+          "tag": "SPACE",
+          "dep": "dep",
+          "head": "Бюджетная",
+          "head_pos": "ADJ"
+        },
+        {
+          "text": "Бюджетная",
+          "lemma": "бюджетный",
+          "pos": "ADJ",
+          "tag": "ADJ",
+          "dep": "amod",
+          "head": "косметика",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "косметика",
+          "lemma": "косметика",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "ROOT",
+          "head": "косметика",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "pos": "ADP",
+          "tag": "ADP",
+          "dep": "case",
+          "head": "пребиотиками",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "пребиотиками",
+          "lemma": "пребиотиками",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "nmod",
+          "head": "косметика",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "от",
+          "lemma": "от",
+          "pos": "ADP",
+          "tag": "ADP",
+          "dep": "case",
+          "head": "Chocolatte",
+          "head_pos": "PROPN"
+        },
+        {
+          "text": "Chocolatte",
+          "lemma": "chocolatte",
+          "pos": "PROPN",
+          "tag": "PROPN",
+          "dep": "nmod",
+          "head": "косметика",
+          "head_pos": "NOUN"
+        }
+      ],
+      "dependencies": [
+        {
+          "token": " ",
+          "relation": "dep",
+          "head": "Бюджетная"
+        },
+        {
+          "token": "Бюджетная",
+          "relation": "amod",
+          "head": "косметика"
+        },
+        {
+          "token": "косметика",
+          "relation": "ROOT",
+          "head": "косметика"
+        },
+        {
+          "token": "с",
+          "relation": "case",
+          "head": "пребиотиками"
+        },
+        {
+          "token": "пребиотиками",
+          "relation": "nmod",
+          "head": "косметика"
+        },
+        {
+          "token": "от",
+          "relation": "case",
+          "head": "Chocolatte"
+        },
+        {
+          "token": "Chocolatte",
+          "relation": "nmod",
+          "head": "косметика"
+        }
+      ]
+    },
+    {
+      "edu_id": 3,
+      "text": " Популярная идея микробиома, косметики с про/пребиотиками не обошла меня стороной,",
+      "tokens": [
+        {
+          "text": " ",
+          "lemma": " ",
+          "pos": "SPACE",
+          "tag": "SPACE",
+          "dep": "dep",
+          "head": "Популярная",
+          "head_pos": "ADJ"
+        },
+        {
+          "text": "Популярная",
+          "lemma": "популярный",
+          "pos": "ADJ",
+          "tag": "ADJ",
+          "dep": "amod",
+          "head": "идея",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "идея",
+          "lemma": "идея",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "nsubj",
+          "head": "обошла",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "микробиома",
+          "lemma": "микробиома",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "nmod",
+          "head": "идея",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "pos": "PUNCT",
+          "tag": "PUNCT",
+          "dep": "punct",
+          "head": "косметики",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "косметики",
+          "lemma": "косметика",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "conj",
+          "head": "идея",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "с",
+          "lemma": "с",
+          "pos": "ADP",
+          "tag": "ADP",
+          "dep": "case",
+          "head": "про",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "про",
+          "lemma": "про",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "nmod",
+          "head": "косметики",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "/",
+          "lemma": "/",
+          "pos": "PUNCT",
+          "tag": "PUNCT",
+          "dep": "punct",
+          "head": "про",
+          "head_pos": "NOUN"
+        },
+        {
+          "text": "пребиотиками",
+          "lemma": "пребиотиками",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "obl",
+          "head": "обошла",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "не",
+          "lemma": "не",
+          "pos": "PART",
+          "tag": "PART",
+          "dep": "advmod",
+          "head": "обошла",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "обошла",
+          "lemma": "обойти",
+          "pos": "VERB",
+          "tag": "VERB",
+          "dep": "ROOT",
+          "head": "обошла",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "меня",
+          "lemma": "меня",
+          "pos": "PRON",
+          "tag": "PRON",
+          "dep": "obj",
+          "head": "обошла",
+          "head_pos": "VERB"
+        },
+        {
+          "text": "стороной",
+          "lemma": "сторона",
+          "pos": "NOUN",
+          "tag": "NOUN",
+          "dep": "obl",
+          "head": "обошла",
+          "head_pos": "VERB"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "pos": "PUNCT",
+          "tag": "PUNCT",
+          "dep": "punct",
+          "head": "обошла",
+          "head_pos": "VERB"
+        }
+      ],
+      "dependencies": [
+        {
+          "token": " ",
+          "relation": "dep",
+          "head": "Популярная"
+        },
+        {
+          "token": "Популярная",
+          "relation": "amod",
+          "head": "идея"
+        },
+        {
+          "token": "идея",
+          "relation": "nsubj",
+          "head": "обошла"
+        },
+        {
+          "token": "микробиома",
+          "relation": "nmod",
+          "head": "идея"
+        },
+        {
+          "token": ",",
+          "relation": "punct",
+          "head": "косметики"
+        },
+        {
+          "token": "косметики",
+          "relation": "conj",
+          "head": "идея"
+        },
+        {
+          "token": "с",
+          "relation": "case",
+          "head": "про"
+        },
+        {
+          "token": "про",
+          "relation": "nmod",
+          "head": "косметики"
+        },
+        {
+          "token": "/",
+          "relation": "punct",
+          "head": "про"
+        },
+        {
+          "token": "пребиотиками",
+          "relation": "obl",
+          "head": "обошла"
+        },
+        {
+          "token": "не",
+          "relation": "advmod",
+          "head": "обошла"
+        },
+        {
+          "token": "обошла",
+          "relation": "ROOT",
+          "head": "обошла"
+        },
+        {
+          "token": "меня",
+          "relation": "obj",
+          "head": "обошла"
+        },
+        {
+          "token": "стороной",
+          "relation": "obl",
+          "head": "обошла"
+        },
+        {
+          "token": ",",
+          "relation": "punct",
+          "head": "обошла"
+        }
+      ]
+    }
+  ]
+}

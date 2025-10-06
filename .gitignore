@@ -15,6 +15,8 @@ RuRsTreebank_full/
 *.log
 *.tmp
 *_temp.txt
+*.png
+*.tex
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
@@ -22,3 +24,5 @@ RuRsTreebank_full/
 # Specific notebook files
 english_rst_parse_and_visualize_run_ready.ipynb
 chapters/
+
+BScLatexHuelle15

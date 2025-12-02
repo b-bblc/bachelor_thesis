@@ -49,10 +49,16 @@ class EDUExtractor:
             return edus
             
         except ET.ParseError as e:
-            logger.error(f"Error parsing {rs3_path}: {e}")
+            logger.error(f"XML parsing error in {rs3_path}: {e}")
             return []
-        except Exception as e:
-            logger.error(f"Unexpected error processing {rs3_path}: {e}")
+        except FileNotFoundError:
+            logger.error(f"File not found: {rs3_path}")
+            return []
+        except PermissionError:
+            logger.error(f"Permission denied reading: {rs3_path}")
+            return []
+        except OSError as e:
+            logger.error(f"OS error reading {rs3_path}: {e}")
             return []
     
     def extract_edus_from_directory(self, input_dir: str, output_dir: str) -> Dict[str, int]:

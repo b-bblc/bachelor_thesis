@@ -72,8 +72,14 @@ class DependencyAnalyzer:
                         }
                         sentences.append(sentence_data)
                         
-            except Exception as e:
-                logger.warning(f"Error processing {file_path}: {e}")
+            except FileNotFoundError:
+                logger.warning(f"File not found: {file_path}")
+            except PermissionError:
+                logger.warning(f"Permission denied: {file_path}")
+            except UnicodeDecodeError as e:
+                logger.warning(f"Encoding error in {file_path}: {e}")
+            except conllu.parser.ParseException as e:
+                logger.warning(f"CoNLL-U parsing error in {file_path}: {e}")
         
         logger.info(f"Loaded {len(sentences)} sentences from {len(conllu_files)} files")
         return sentences

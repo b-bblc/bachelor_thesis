@@ -85,8 +85,11 @@ class DependencyParser:
                         stats['total_edus'] += 1
                         stats['total_tokens'] += len(doc)
                         
-                    except Exception as e:
-                        logger.warning(f"Error parsing EDU {edu_num}: {e}")
+                    except ValueError as e:
+                        logger.warning(f"Value error parsing EDU {edu_num}: {e}")
+                        stats['parsing_errors'] += 1
+                    except RuntimeError as e:
+                        logger.warning(f"Runtime error parsing EDU {edu_num}: {e}")
                         stats['parsing_errors'] += 1
                 
                 # Calculate average EDU length
@@ -96,8 +99,14 @@ class DependencyParser:
                 logger.info(f"Parsed {input_path}: {stats['total_edus']} EDUs, "
                           f"{stats['total_tokens']} tokens")
                 
-        except Exception as e:
-            logger.error(f"Error processing file {input_path}: {e}")
+        except FileNotFoundError:
+            logger.error(f"File not found: {input_path}")
+            stats['parsing_errors'] += 1
+        except PermissionError:
+            logger.error(f"Permission denied: {input_path}")
+            stats['parsing_errors'] += 1
+        except OSError as e:
+            logger.error(f"OS error processing {input_path}: {e}")
             stats['parsing_errors'] += 1
         
         return stats

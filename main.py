@@ -79,8 +79,17 @@ def process_language(language: str, input_dir: str,
         
         logger.info(f"Parsed {stats['total_tokens']} tokens for {language}")
         
-    except Exception as e:
-        logger.error(f"Error processing {language}: {e}")
+    except FileNotFoundError as e:
+        logger.error(f"File not found for {language}: {e}")
+        stats['error'] = str(e)
+    except PermissionError as e:
+        logger.error(f"Permission denied for {language}: {e}")
+        stats['error'] = str(e)
+    except OSError as e:
+        logger.error(f"OS error processing {language}: {e}")
+        stats['error'] = str(e)
+    except ValueError as e:
+        logger.error(f"Value error processing {language}: {e}")
         stats['error'] = str(e)
     
     return stats
@@ -118,8 +127,14 @@ def run_analysis(languages: list) -> dict:
             
             logger.info(f"Loaded {len(features)} EDUs for {language}")
             
-        except Exception as e:
-            logger.error(f"Error analyzing {language}: {e}")
+        except FileNotFoundError:
+            logger.error(f"Data directory not found for {language}: {parse_dir}")
+        except PermissionError:
+            logger.error(f"Permission denied accessing {language} data")
+        except ValueError as e:
+            logger.error(f"Data error analyzing {language}: {e}")
+        except KeyError as e:
+            logger.error(f"Missing data field for {language}: {e}")
     
     if not combined_features:
         logger.error("No data available for analysis")

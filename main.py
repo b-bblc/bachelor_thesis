@@ -5,23 +5,17 @@ This script orchestrates the complete pipeline from extraction to analysis.
 """
 
 import argparse
-import logging
 import sys
 from pathlib import Path
 
-# Add src to path
-sys.path.append(str(Path(__file__).parent / 'src'))
-
+from src.config import setup_logging, get_logger
 from src.edu_extractor import EDUExtractor
 from src.dependency_parser import DependencyParser
 from src.analysis import DependencyAnalyzer
 
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger(__name__)
+# Initialize logging for the application
+setup_logging()
+logger = get_logger(__name__)
 
 
 def process_language(language: str, input_dir: str, 

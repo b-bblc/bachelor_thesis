@@ -2,17 +2,13 @@
 Dependency parsing utilities for EDUs using spaCy.
 """
 import spacy
-import os
 from pathlib import Path
-from typing import List, Dict, Optional, Tuple
-import logging
+from typing import List, Dict, Optional, Tuple, Any
 from spacy.tokens import Doc
 
-from .config import SPACY_MODELS, CONLLU_EXTENSION, TXT_EXTENSION
+from .config import SPACY_MODELS, CONLLU_EXTENSION, TXT_EXTENSION, get_logger
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 
 class DependencyParser:

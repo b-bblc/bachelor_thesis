@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
 from typing import List, Dict, Tuple, Optional
-import logging
 from collections import Counter, defaultdict
 from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import CountVectorizer
@@ -15,11 +14,9 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
 import conllu
 
-from .config import RESULTS_GERMAN_DIR, RESULTS_RUSSIAN_DIR, RESULTS_DIR, VISUALIZATION_LIMIT
+from .config import RESULTS_GERMAN_DIR, RESULTS_RUSSIAN_DIR, RESULTS_DIR, VISUALIZATION_LIMIT, get_logger
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 # Set plotting style
 plt.style.use('seaborn-v0_8')

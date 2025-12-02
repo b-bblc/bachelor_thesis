@@ -9,7 +9,7 @@ import sys
 import time
 from pathlib import Path
 
-# Set up logging
+# Custom logging setup for this script (includes file logging)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -19,6 +19,9 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+# Suppress duplicate logs from imported modules
+logging.getLogger('src').setLevel(logging.WARNING)
 
 def check_corpus_data():
     """Check that all corpus data is available."""

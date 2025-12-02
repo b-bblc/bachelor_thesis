@@ -2,17 +2,12 @@
 Utilities for extracting EDUs from RST (.rs3) files.
 """
 import xml.etree.ElementTree as ET
-import os
-import glob
 from pathlib import Path
 from typing import List, Tuple, Dict
-import logging
 
-from .config import RST_EXTENSION, TXT_EXTENSION
+from .config import RST_EXTENSION, TXT_EXTENSION, get_logger
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+logger = get_logger(__name__)
 
 
 class EDUExtractor:

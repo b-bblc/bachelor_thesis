@@ -1,8 +1,39 @@
 """
 Configuration settings for the EDU dependency analysis project.
 """
-import os
+import logging
 from pathlib import Path
+
+
+# =============================================================================
+# Logging Configuration
+# =============================================================================
+def setup_logging(level: int = logging.INFO) -> None:
+    """
+    Configure logging for the entire project.
+    Call this once at application startup (e.g., in main.py).
+    
+    Args:
+        level: Logging level (default: logging.INFO)
+    """
+    logging.basicConfig(
+        level=level,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
+
+
+def get_logger(name: str) -> logging.Logger:
+    """
+    Get a logger instance for a module.
+    
+    Args:
+        name: Usually __name__ of the calling module
+        
+    Returns:
+        Logger instance
+    """
+    return logging.getLogger(name)
 
 # Project root directory
 PROJECT_ROOT = Path(__file__).parent.parent

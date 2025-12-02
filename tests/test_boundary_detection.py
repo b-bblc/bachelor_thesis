@@ -5,11 +5,14 @@ Unit tests for the boundary_detection module.
 import pytest
 import pandas as pd
 from pathlib import Path
-
 import sys
-sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.boundary_detection import (
+# Add parent directory to path to import src modules directly
+sys.path.insert(0, str(Path(__file__).parent.parent / 'src'))
+
+# Import directly from the module file to avoid triggering src/__init__.py
+# which has dependencies on spacy, seaborn, etc.
+from boundary_detection import (
     read_conllu_with_boundaries,
     extract_edu_boundary_features,
     extract_position_features

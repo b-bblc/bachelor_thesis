@@ -36,6 +36,27 @@ python -m spacy download en_core_web_sm
 python -m spacy download ru_core_news_sm
 ```
 
+### Downloading Corpora
+
+The corpus data is not included in the repository due to size and licensing constraints.
+Use the following scripts to download the required corpora:
+
+#### Russian RST Treebank
+```bash
+python download_russian_corpus.py
+```
+- **Source**: [rstreebank.ru](https://rstreebank.ru/)
+- **Direct link**: https://api.rstreebank.ru/archive/RuRsTreebank_full.zip
+- **License**: CC BY-NC-SA 4.0
+- **Citation**: Pisarevskaya D. et al. (2017). Towards building a discourse-annotated corpus of Russian.
+
+#### Potsdam Commentary Corpus (German)
+```bash
+python download_german_corpus.py
+```
+- **Source**: [Potsdam University ANGCL](https://angcl.ling.uni-potsdam.de/)
+- **License**: See corpus documentation
+
 ### Usage
 1. Extract EDUs: `python src/extract_edus.py`
 2. Parse dependencies: `python src/parse_dependencies.py`

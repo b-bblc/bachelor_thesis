@@ -19,7 +19,7 @@ This thesis investigates dependency structures in Elementary Discourse Units (ED
 |----------|--------|---------|
 | German | [Potsdam Commentary Corpus](https://angcl.ling.uni-potsdam.de/) | See corpus documentation |
 | Russian | [Ru-RSTreebank](https://rstreebank.ru/) | CC BY-NC-SA 4.0 |
-| English | RST Discourse Treebank / GUM corpus | See corpus documentation |
+| English (Test) | RST Discourse Treebank / GUM corpus | See corpus documentation |
 
 ---
 

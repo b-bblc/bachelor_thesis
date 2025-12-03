@@ -94,26 +94,51 @@ python download_german_corpus.py
 
 ```
 bachelor_thesis/
-├── .github/workflows/        # CI/CD configuration
-│   └── tests.yml            # Tests & type checking workflow
-├── src/                      # Python source modules
-│   ├── config.py            # Centralized configuration & logging
-│   ├── analysis.py          # Dependency analysis & clustering
-│   ├── boundary_detection.py # EDU boundary feature extraction
-│   ├── dependency_parser.py # spaCy-based dependency parsing
-│   ├── edu_extractor.py     # RST (.rs3) file processing
-│   └── visualization.py     # Dependency tree visualizations
-├── tests/                    # Unit tests
-│   ├── conftest.py          # Shared pytest fixtures
+├── .github/workflows/           # CI/CD configuration
+│   └── tests.yml               # Tests & type checking workflow
+├── src/                         # Python source modules
+│   ├── __init__.py
+│   ├── config.py               # Centralized configuration & logging
+│   ├── analysis.py             # Dependency analysis & clustering
+│   ├── boundary_detection.py   # EDU boundary feature extraction
+│   ├── dependency_parser.py    # spaCy-based dependency parsing
+│   ├── edu_extractor.py        # RST (.rs3) file processing
+│   └── visualization.py        # Dependency tree visualizations
+├── tests/                       # Unit tests (pytest)
+│   ├── __init__.py
+│   ├── conftest.py             # Shared pytest fixtures
 │   └── test_boundary_detection.py
-├── notebooks/                # Jupyter notebooks for analysis
+├── notebooks/                   # Jupyter notebooks for analysis
 │   ├── comprehensive_multilingual_analysis.ipynb
-│   └── edu_boundary_detection.ipynb
-├── results/                  # Analysis outputs and visualizations
-├── docs/                     # Documentation and literature
-├── main.py                   # Main pipeline entry point
-├── requirements.txt          # Python dependencies
-├── mypy.ini                  # Type checking configuration
+│   ├── edu_boundary_detection.ipynb
+│   ├── russian_edu_dependency_parse_en_with_markdown.ipynb
+│   └── examples/               # Example notebooks
+│       └── english_rst_parse_and_visualize_run_ready.ipynb
+├── drafts/                      # Work-in-progress notebooks
+├── results/                     # Analysis outputs
+│   ├── results_german/         # German corpus results
+│   │   ├── extracted_edus/     # Extracted EDU text files
+│   │   └── parsed_dependencies/ # CoNLL-U parsed files
+│   ├── results_russian/        # Russian corpus results
+│   │   ├── extracted_edus/
+│   │   └── parsed_dependencies/
+│   ├── visualizations/         # Generated plots (PNG)
+│   └── *.csv, *.json           # Analysis summaries
+├── extracted_txts/              # Legacy: extracted EDUs (176 files)
+├── parsed_results/              # Legacy: CoNLL-U parses (176 files)
+├── PotsdamCommentaryCorpus/     # German RST corpus (not in repo)
+├── RuRsTreebank_full/           # Russian RST corpus (not in repo)
+├── docs/                        # Documentation
+│   └── methodology.md
+├── images/                      # Static images for docs
+├── main.py                      # Main pipeline entry point
+├── process_all_data.py          # Full data processing script
+├── download_german_corpus.py    # Script to download German corpus
+├── download_russian_corpus.py   # Script to download Russian corpus
+├── requirements.txt             # Python dependencies
+├── mypy.ini                     # Type checking configuration
+├── setup.py                     # Package setup
+├── LICENSE                      # Project license
 └── README.md
 ```
 

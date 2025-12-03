@@ -1,4 +1,7 @@
 # Dependency Structures in Elementary Discourse Units
+
+[![Tests & Type Checking](https://github.com/b-bblc/bachelor_thesis/actions/workflows/tests.yml/badge.svg)](https://github.com/b-bblc/bachelor_thesis/actions/workflows/tests.yml)
+
 ## Bachelor Thesis - University of Potsdam, Summer 2025
 
 ### Overview

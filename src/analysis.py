@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
-from typing import List, Dict, Tuple, Optional
+from typing import List, Dict, Tuple, Optional, Any
 from collections import Counter, defaultdict
 from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import CountVectorizer
@@ -162,7 +162,7 @@ class DependencyAnalyzer:
                 distance = abs(token['id'] - token['head'])
                 distances.append(distance)
         
-        return np.mean(distances) if distances else 0.0
+        return float(np.mean(distances)) if distances else 0.0
     
     def generate_descriptive_statistics(self, df: pd.DataFrame) -> Dict:
         """Generate descriptive statistics for the dataset."""
@@ -334,10 +334,10 @@ class DependencyAnalyzer:
             'clustered_data': df_clustered
         }
     
-    def _get_dominant_features(self, cluster_data: pd.DataFrame, feature_cols: List[str], top_k: int = 3) -> List[str]:
+    def _get_dominant_features(self, cluster_data: Any, feature_cols: List[str], top_k: int = 3) -> List[str]:
         """Get the most dominant features for a cluster."""
         feature_means = cluster_data[feature_cols].mean()
-        return feature_means.nlargest(top_k).index.tolist()
+        return list(feature_means.nlargest(top_k).index)
     
     def compare_languages(self, df: pd.DataFrame) -> Dict:
         """

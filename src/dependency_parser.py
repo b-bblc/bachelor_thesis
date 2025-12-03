@@ -47,7 +47,7 @@ class DependencyParser:
         """
         return self.nlp(edu_text)
     
-    def parse_text_file(self, input_path: str, output_path: str) -> Dict[str, any]:
+    def parse_text_file(self, input_path: str, output_path: str) -> Dict[str, Any]:
         """
         Parse a text file containing EDUs (one per line) and save as CoNLL-U.
         
@@ -159,7 +159,7 @@ class DependencyParser:
         
         return all_stats
     
-    def extract_dependency_features(self, doc: Doc) -> Dict[str, any]:
+    def extract_dependency_features(self, doc: Doc) -> Dict[str, Any]:
         """
         Extract dependency features from a parsed document.
         

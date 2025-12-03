@@ -29,8 +29,8 @@ def read_conllu_with_boundaries(file_path: str) -> List[List[Dict[str, str]]]:
     if not path.exists():
         raise FileNotFoundError(f"CoNLL-U file not found: {file_path}")
     
-    sentences = []
-    current_sentence = []
+    sentences: List[List[Dict[str, str]]] = []
+    current_sentence: List[Dict[str, str]] = []
     
     with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:

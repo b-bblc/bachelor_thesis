@@ -245,61 +245,7 @@ figcaption, .caption {
 }
 
 .tableofcontents a, .toc a {
-  display: inline;
   padding: var(--spacing-xs) 0;
-}
-
-/* Fix make4ht TOC structure - numbers and titles on same line */
-.tableofcontents span.sectionToc,
-.tableofcontents span.subsectionToc,
-.tableofcontents span.subsubsectionToc,
-.tableofcontents .chapterToc,
-.tableofcontents .sectionToc,
-.tableofcontents .subsectionToc {
-  display: block;
-  padding: var(--spacing-xs) 0;
-}
-
-.tableofcontents span.sectionToc a,
-.tableofcontents span.subsectionToc a,
-.tableofcontents span.subsubsectionToc a {
-  display: inline;
-}
-
-/* Ensure section numbers stay inline with titles */
-.tableofcontents br {
-  display: none;
-}
-
-/* TOC entry styling */
-.tocEntry {
-  display: block;
-  margin: var(--spacing-xs) 0;
-}
-
-.tocEntry .numberToc,
-.tocEntry .titleToc {
-  display: inline;
-}
-
-/* Alternative TOC structure from tex4ht */
-.tableofcontents > span {
-  display: block;
-  margin: var(--spacing-xs) 0;
-}
-
-.tableofcontents > span > span,
-.tableofcontents > span > a {
-  display: inline;
-}
-
-/* Subsection indentation */
-.subsectionToc {
-  padding-left: var(--spacing-lg);
-}
-
-.subsubsectionToc {
-  padding-left: calc(var(--spacing-lg) * 2);
 }
 
 /* Bibliography */

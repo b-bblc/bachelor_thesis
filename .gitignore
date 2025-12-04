@@ -9,7 +9,7 @@ notebooks/*/*.svg
 # Generated data files
 results/
 extracted_txts_*/
-parsed_results_*/
+parsed_results/
 PotsdamCommentaryCorpus/
 RuRsTreebank_full/
 

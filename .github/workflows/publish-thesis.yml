@@ -21,42 +21,87 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install TeX Live and make4ht
+      - name: Install Pandoc and TeX Live
         run: |
           sudo apt-get update
-          sudo apt-get install -y texlive-full
+          sudo apt-get install -y pandoc texlive-latex-base texlive-latex-extra texlive-fonts-recommended texlive-lang-german
 
-      - name: Convert LaTeX to HTML
+      - name: Flatten LaTeX document
         working-directory: paper/thesis
         run: |
-          # Run make4ht with MathJax for math rendering and custom config
-          make4ht -u -c thesis.cfg BachelorThesis_raw.tex "html,mathjax,fn-in"
+          # Create a flattened version by expanding subfiles
+          cat > flatten.py << 'EOF'
+          import re
+          import os
+          
+          def read_file(path):
+              with open(path, 'r', encoding='utf-8') as f:
+                  return f.read()
+          
+          def flatten_latex(main_file):
+              content = read_file(main_file)
+              
+              # Remove subfiles package (causes issues)
+              content = re.sub(r'\\usepackage\{subfiles\}', '', content)
+              
+              # Find and expand \subfile commands
+              def replace_subfile(match):
+                  filename = match.group(1)
+                  if not filename.endswith('.tex'):
+                      filename += '.tex'
+                  if os.path.exists(filename):
+                      subcontent = read_file(filename)
+                      # Remove documentclass and begin/end document from subfiles
+                      subcontent = re.sub(r'\\documentclass.*?\n', '', subcontent)
+                      subcontent = re.sub(r'\\begin\{document\}', '', subcontent)
+                      subcontent = re.sub(r'\\end\{document\}', '', subcontent)
+                      return subcontent
+                  return match.group(0)
+              
+              content = re.sub(r'\\subfile\{([^}]+)\}', replace_subfile, content)
+              return content
+          
+          flattened = flatten_latex('BachelorThesis_raw.tex')
+          with open('thesis_flat.tex', 'w', encoding='utf-8') as f:
+              f.write(flattened)
+          EOF
+          python3 flatten.py
+
+      - name: Convert LaTeX to HTML with Pandoc
+        working-directory: paper/thesis
+        run: |
+          pandoc thesis_flat.tex \
+            -s \
+            --toc \
+            --toc-depth=3 \
+            --mathjax \
+            --metadata title="Dependency Structures in Elementary Discourse Units" \
+            --metadata author="Artur Begichev" \
+            --css=thesis-style.css \
+            --resource-path=.:images \
+            --extract-media=media \
+            -o thesis.html
 
       - name: Prepare output directory
         run: |
           mkdir -p public
           
-          # Copy HTML files
-          cp paper/thesis/*.html public/ 2>/dev/null || true
+          # Copy HTML file as index.html
+          cp paper/thesis/thesis.html public/index.html
           
-          # Copy CSS files (generated + custom)
-          cp paper/thesis/*.css public/ 2>/dev/null || true
+          # Copy custom CSS
+          cp paper/thesis/thesis-style.css public/
           
-          # Copy images from thesis directory
+          # Copy images
           mkdir -p public/images
           cp -r paper/thesis/images/* public/images/ 2>/dev/null || true
           
-          # Copy any generated images/figures
-          cp paper/thesis/*.png public/ 2>/dev/null || true
-          cp paper/thesis/*.svg public/ 2>/dev/null || true
+          # Copy extracted media if any
+          cp -r paper/thesis/media/* public/ 2>/dev/null || true
           
-          # Rename main HTML to index.html if it exists
-          if [ -f public/BachelorThesis_raw.html ]; then
-            mv public/BachelorThesis_raw.html public/index.html
-          fi
-          
-          # Update image paths in HTML files to use images/ subdirectory
-          find public -name "*.html" -exec sed -i 's|src="images/|src="images/|g' {} \;
+          # Fix image paths in HTML (images/ -> images/)
+          sed -i 's|src="images/|src="images/|g' public/index.html
+          sed -i 's|src="\./images/|src="images/|g' public/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

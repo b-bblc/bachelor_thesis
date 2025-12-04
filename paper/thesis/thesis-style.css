@@ -183,9 +183,11 @@ tr:hover {
 figure {
   margin: var(--spacing-xl) 0;
   text-align: center;
+  padding: 0 100px;
 }
 
 img {
+  width: auto;
   max-width: 100%;
   height: auto;
   border-radius: 4px;
@@ -314,6 +316,10 @@ figcaption, .caption {
   
   h2 {
     font-size: 1.5rem;
+  }
+  
+  figure {
+    padding: 0 var(--spacing-md);
   }
   
   table {

@@ -93,54 +93,55 @@ python download_german_corpus.py
 ## Project Structure
 
 ```
-bachelor_thesis/
-├── .github/workflows/           # CI/CD configuration
-│   ├── publish-thesis.yml      # Build thesis HTML & deploy to GitHub Pages
-│   └── tests.yml               # Tests & type checking workflow
-├── src/                         # Python source modules
-│   ├── __init__.py
-│   ├── config.py               # Centralized configuration & logging
-│   ├── analysis.py             # Dependency analysis & clustering
-│   ├── boundary_detection.py   # EDU boundary feature extraction
-│   ├── dependency_parser.py    # spaCy-based dependency parsing
-│   ├── edu_extractor.py        # RST (.rs3) file processing
-│   └── visualization.py        # Dependency tree visualizations
-├── tests/                       # Unit tests (pytest)
-│   ├── __init__.py
-│   ├── conftest.py             # Shared pytest fixtures
-│   ├── test_analysis.py
-│   ├── test_boundary_detection.py
-│   └── test_edu_extractor.py
-├── notebooks/                   # Jupyter notebooks for analysis
+.
+├── .github
+│   └── workflows
+│       ├── publish-thesis.yml
+│       └── tests.yml
+├── notebooks
+│   ├── examples
+│   │   └── english_rst_parse_and_visualize_run_ready.ipynb
 │   ├── comprehensive_multilingual_analysis.ipynb
 │   ├── edu_boundary_detection.ipynb
 │   └── russian_edu_dependency_parse_en_with_markdown.ipynb
-├── drafts/                      # Work-in-progress notebooks
-├── paper/thesis/                # LaTeX thesis source
-│   ├── BachelorThesis_raw.tex  # Main document
-│   ├── introduction.tex
-│   ├── literature_review.tex
-│   ├── materials_and_methods.tex
-│   ├── implementation.tex
-│   ├── results.tex
-│   ├── discussion.tex
-│   ├── conclusion.tex
-│   ├── declaration.tex
-│   ├── references.bib
-│   ├── thesis-style.css        # Custom CSS for HTML version
-│   └── images/                 # Thesis figures
-├── docs/                        # Documentation
-│   └── methodology.md
-├── images/                      # Static images for docs
-├── main.py                      # Main pipeline entry point
-├── process_all_data.py          # Full data processing script
-├── download_german_corpus.py    # Script to download German 
-├── download_russian_corpus.py   # Script to download Russian corpus
-├── requirements.txt             # Python dependencies
-├── mypy.ini                     # Type checking configuration
-├── setup.py                     # Package setup
-├── LICENSE                      # Project license
-└── README.md
+├── paper
+│   └── thesis
+│       ├── images
+│       │   └── *.png                    # Thesis figures (14 files)
+│       ├── BachelorThesis_raw.tex       # Main document
+│       ├── introduction.tex
+│       ├── literature_review.tex
+│       ├── materials_and_methods.tex
+│       ├── implementation.tex
+│       ├── results.tex
+│       ├── discussion.tex
+│       ├── conclusion.tex
+│       ├── declaration.tex
+│       ├── references.bib
+│       └── thesis-style.css             # Custom CSS for HTML version
+├── src
+│   ├── __init__.py
+│   ├── analysis.py
+│   ├── boundary_detection.py
+│   ├── config.py
+│   ├── dependency_parser.py
+│   ├── edu_extractor.py
+│   └── visualization.py
+├── tests
+│   ├── __init__.py
+│   ├── conftest.py
+│   ├── test_analysis.py
+│   ├── test_boundary_detection.py
+│   └── test_edu_extractor.py
+├── LICENSE
+├── README.md
+├── download_german_corpus.py
+├── download_russian_corpus.py
+├── main.py
+├── mypy.ini
+├── process_all_data.py
+├── requirements.txt
+└── setup.py
 ```
 
 ---

@@ -41,11 +41,38 @@ jobs:
           def flatten_latex(main_file):
               content = read_file(main_file)
               
-              # Remove subfiles package (causes issues with make4ht)
+              # Remove problematic packages
               content = re.sub(r'\\usepackage\{subfiles\}', '', content)
-              
-              # Remove todonotes package (causes issues with make4ht)
               content = re.sub(r'\\usepackage\{todonotes\}', '', content)
+              content = re.sub(r'\\usepackage\[hang\]\{footmisc\}', '', content)
+              
+              # Remove fancyhdr (causes issues with tex4ht)
+              content = re.sub(r'\\usepackage\{fancyhdr\}', '', content)
+              content = re.sub(r'\\pagestyle\{fancy\}', r'\\pagestyle{plain}', content)
+              content = re.sub(r'\\pagestyle\{empty\}', '', content)
+              content = re.sub(r'\\fancyhf\{\}', '', content)
+              content = re.sub(r'\\fancyhead\[.*?\]\{.*?\}', '', content)
+              content = re.sub(r'\\fancyfoot\[.*?\]\{.*?\}', '', content)
+              content = re.sub(r'\\thispagestyle\{empty\}', '', content)
+              
+              # Remove setspace one-and-half spacing
+              content = re.sub(r'\\usepackage\[onehalfspacing\]\{setspace\}', '', content)
+              
+              # Remove footnotemargin setting
+              content = re.sub(r'\\setlength\\footnotemargin\{.*?\}', '', content)
+              
+              # Simplify custom commands - define them as simple text
+              # Replace the definitions with simpler versions
+              content = re.sub(
+                  r'\\newcommand\{\\citepage\}\[2\]\{.*?\}',
+                  r'\\newcommand{\\citepage}[2]{(#1, p.~#2)}',
+                  content
+              )
+              content = re.sub(
+                  r'\\newcommand\{\\citepages\}\[2\]\{.*?\}',
+                  r'\\newcommand{\\citepages}[2]{(#1, pp.~#2)}',
+                  content
+              )
               
               # Find and expand \subfile commands
               def replace_subfile(match):
@@ -69,15 +96,28 @@ jobs:
               f.write(flattened)
           EOF
           python3 flatten.py
+          
+          echo "=== Flattened file created ==="
+          head -100 thesis_flat.tex
 
       - name: Convert LaTeX to HTML with make4ht
         working-directory: paper/thesis
         run: |
-          # Run make4ht with MathJax for math rendering
-          make4ht -u -c thesis.cfg thesis_flat.tex "html,mathjax,fn-in" || {
-            echo "make4ht failed, trying without config..."
-            make4ht -u thesis_flat.tex "html,mathjax"
+          # First try without config for maximum compatibility
+          echo "=== Running make4ht ==="
+          make4ht -u thesis_flat.tex "html,mathjax" 2>&1 || {
+            echo "=== make4ht failed, trying with -m draft mode ==="
+            make4ht -u -m draft thesis_flat.tex "html,mathjax" 2>&1 || {
+              echo "=== Still failing, checking log ==="
+              cat thesis_flat.log | tail -100 || true
+              exit 1
+            }
           }
+          
+          # Add custom CSS link to generated HTML
+          if [ -f thesis_flat.html ]; then
+            sed -i 's|</head>|<link rel="stylesheet" href="thesis-style.css" /></head>|' thesis_flat.html
+          fi
 
       - name: Prepare output directory
         run: |

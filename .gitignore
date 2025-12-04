@@ -8,7 +8,7 @@ notebooks/*/*.svg
 
 # Generated data files
 results/
-extracted_txts_*/
+extracted_txts/
 parsed_results/
 PotsdamCommentaryCorpus/
 RuRsTreebank_full/

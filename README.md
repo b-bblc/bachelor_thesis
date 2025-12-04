@@ -95,6 +95,7 @@ python download_german_corpus.py
 ```
 bachelor_thesis/
 ├── .github/workflows/           # CI/CD configuration
+│   ├── publish-thesis.yml      # Build thesis HTML & deploy to GitHub Pages
 │   └── tests.yml               # Tests & type checking workflow
 ├── src/                         # Python source modules
 │   ├── __init__.py
@@ -107,33 +108,33 @@ bachelor_thesis/
 ├── tests/                       # Unit tests (pytest)
 │   ├── __init__.py
 │   ├── conftest.py             # Shared pytest fixtures
-│   └── test_boundary_detection.py
+│   ├── test_analysis.py
+│   ├── test_boundary_detection.py
+│   └── test_edu_extractor.py
 ├── notebooks/                   # Jupyter notebooks for analysis
 │   ├── comprehensive_multilingual_analysis.ipynb
 │   ├── edu_boundary_detection.ipynb
-│   ├── russian_edu_dependency_parse_en_with_markdown.ipynb
-│   └── examples/               # Example notebooks
-│       └── english_rst_parse_and_visualize_run_ready.ipynb
+│   └── russian_edu_dependency_parse_en_with_markdown.ipynb
 ├── drafts/                      # Work-in-progress notebooks
-├── results/                     # Analysis outputs
-│   ├── results_german/         # German corpus results
-│   │   ├── extracted_edus/     # Extracted EDU text files
-│   │   └── parsed_dependencies/ # CoNLL-U parsed files
-│   ├── results_russian/        # Russian corpus results
-│   │   ├── extracted_edus/
-│   │   └── parsed_dependencies/
-│   ├── visualizations/         # Generated plots (PNG)
-│   └── *.csv, *.json           # Analysis summaries
-├── extracted_txts/              # Legacy: extracted EDUs (176 files)
-├── parsed_results/              # Legacy: CoNLL-U parses (176 files)
-├── PotsdamCommentaryCorpus/     # German RST corpus (not in repo)
-├── RuRsTreebank_full/           # Russian RST corpus (not in repo)
+├── paper/thesis/                # LaTeX thesis source
+│   ├── BachelorThesis_raw.tex  # Main document
+│   ├── introduction.tex
+│   ├── literature_review.tex
+│   ├── materials_and_methods.tex
+│   ├── implementation.tex
+│   ├── results.tex
+│   ├── discussion.tex
+│   ├── conclusion.tex
+│   ├── declaration.tex
+│   ├── references.bib
+│   ├── thesis-style.css        # Custom CSS for HTML version
+│   └── images/                 # Thesis figures
 ├── docs/                        # Documentation
 │   └── methodology.md
 ├── images/                      # Static images for docs
 ├── main.py                      # Main pipeline entry point
 ├── process_all_data.py          # Full data processing script
-├── download_german_corpus.py    # Script to download German corpus
+├── download_german_corpus.py    # Script to download German 
 ├── download_russian_corpus.py   # Script to download Russian corpus
 ├── requirements.txt             # Python dependencies
 ├── mypy.ini                     # Type checking configuration
@@ -225,12 +226,6 @@ This project uses GitHub Actions for continuous integration:
 - **Trigger**: Every push and pull request
 
 See [`.github/workflows/tests.yml`](.github/workflows/tests.yml) for details.
-
----
-
-## Key Findings
-
-*[To be completed after analysis]*
 
 ---
 

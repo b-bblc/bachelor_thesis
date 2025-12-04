@@ -23,7 +23,7 @@ As the analysis of boundary markers shows, there are significant differences in 
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/punctuation_analysis_1.png}
+    \includegraphics[width=0.8\textwidth]{images/punctuation_analysis_1.png}
     \caption{Analysis of punctuation boundaries in EDUs for German and Russian. German exhibits fewer punctuation-final EDUs compared to Russian, indicating a lower reliance on punctuation as a discourse boundary marker.}
     \label{fig:punctuation_analysis}
 \end{figure}
@@ -32,7 +32,7 @@ Conjunctions serve as another primary cue for EDU boundaries, and their usage pa
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/conjunction_analysis_2.png}
+    \includegraphics[width=0.8\textwidth]{images/conjunction_analysis_2.png}
     \caption{Analysis of conjunctive constructions as EDU boundary markers. Both German and Russian show high frequencies of conjunctions at EDU boundaries, reflecting their universal role in connecting discourse segments.}
     \label{fig:conjunction_analysis}
 \end{figure}
@@ -41,7 +41,7 @@ Conjunctions serve as another primary cue for EDU boundaries, and their usage pa
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/dependency_relation_analysis_3.png}
+    \includegraphics[width=0.8\textwidth]{images/dependency_relation_analysis_3.png}
     \caption{Analysis of dependency relations as predictors of EDU boundaries}
     \label{fig:dependency_analysis}
 \end{figure}
@@ -52,7 +52,7 @@ The syntactic dependency structure provides further cues for where EDUs begin an
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/position_based_boundary_features_4.png}
+    \includegraphics[width=0.8\textwidth]{images/position_based_boundary_features_4.png}
     \caption{Analysis of positional features of EDU boundary markers}
     \label{fig:position_analysis}
 \end{figure}
@@ -67,7 +67,7 @@ Finally, examining long-distance dependency links provided additional insight in
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=\textwidth]{BScLatexHuelle15/images/basic_edu_length_distribution_2_2.png}
+\includegraphics[width=\textwidth]{images/basic_edu_length_distribution_2_2.png}
 \caption{EDU length distribution comparison after cleaning the Russian corpus: histogram, box plot, cumulative distribution, and descriptive statistics. The removal of anomalous data in Russian yields a smoother tail and improved cross-language comparability.}
 \label{fig:edu_length_after_cleaning}
 \end{figure}
@@ -92,7 +92,7 @@ Cross-linguistic analysis of part-of-speech (POS) usage within EDUs reveals clea
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/part_of_speech_distribution_analysis_2_4.png}
+  \includegraphics[width=\textwidth]{images/part_of_speech_distribution_analysis_2_4.png}
   \caption{Cross-linguistic POS distribution analysis for EDUs. Top-left: mean POS ratios (German vs. Russian); top-right: heatmap of POS usage differences; bottom-left: box plots for selected POS categories; bottom-right: significance of cross-linguistic differences (t-test $p$-values).}
   \label{fig:pos_distribution}
 \end{figure}
@@ -107,7 +107,7 @@ We next compared the syntactic complexity of EDUs in German and Russian using se
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/syntactic_complexity_analysis_2_5.png}
+  \includegraphics[width=\textwidth]{images/syntactic_complexity_analysis_2_5.png}
   \caption{Syntactic complexity comparison between German (DE) and Russian (RU) EDUs. Each panel shows the distribution of a complexity measure: \texttt{max\_depth}, \texttt{avg\_dependency\_distance}, \texttt{finite\_verbs}, and \texttt{punct\_ratio}.}
   \label{fig:complexity}
 \end{figure}
@@ -132,7 +132,7 @@ We then performed Principal Component Analysis (PCA) on the feature matrix to re
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/clustering_analysis_discovering_edu_patterns_2_6.png}
+  \includegraphics[width=\textwidth]{images/clustering_analysis_discovering_edu_patterns_2_6.png}
   \caption{PCA results for EDU features: variance explained by each component (left) and cumulative variance (right). The first few components capture the majority of the variance (dashed lines mark 80\% and 90\% thresholds), allowing us to reduce dimensionality for clustering.}
   \label{fig:pca}
 \end{figure}
@@ -141,7 +141,7 @@ Following PCA dimensionality reduction, we applied the cluster optimization meth
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/determining_optimal_number_of_clusters_2_7.png}
+  \includegraphics[width=\textwidth]{images/determining_optimal_number_of_clusters_2_7.png}
   \caption{Cluster optimization results. \textit{Left:} Elbow plot showing K-means inertia decrease. \textit{Right:} Mean silhouette scores across different $k$ values. The optimal solution ($k=4$) is indicated at the elbow point with the highest silhouette score.}
   \label{fig:cluster_opt}
 \end{figure}
@@ -150,7 +150,7 @@ Figure~\ref{fig:silhouette} provides detailed silhouette profiles for candidate 
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/determining_optimal_number_of_clusters_2_8.png}
+  \includegraphics[width=\textwidth]{images/determining_optimal_number_of_clusters_2_8.png}
   \caption{Silhouette analysis for different $k$ values. Each colored band represents a cluster, with bar length indicating individual sample silhouette values. The $k=4$ solution shows predominantly positive values and balanced cluster sizes, while higher $k$ values introduce poorly separated clusters.}
   \label{fig:silhouette}
 \end{figure}
@@ -161,7 +161,7 @@ Chi-square testing confirms that cluster membership and language are significant
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/final_clustering_and_cross_linguistic_analysis_2_7.png}
+  \includegraphics[width=\textwidth]{images/final_clustering_and_cross_linguistic_analysis_2_7.png}
   \caption{Cross-linguistic distribution across four EDU clusters. \textit{Left:} Absolute EDU counts (German: blue, Russian: red). \textit{Middle:} Percentage composition by language. \textit{Right:} Heatmap of language distribution (darker shades indicate higher percentages). Chi-square test confirms significant language-cluster association ($p < 0.01$).}
   \label{fig:final_clusters}
 \end{figure}
@@ -182,7 +182,7 @@ Each cluster's statistical profile—including size, language composition, and d
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/final_clustering_and_cross_linguistic_analysis_2_8.png}
+  \includegraphics[width=\textwidth]{images/final_clustering_and_cross_linguistic_analysis_2_8.png}
   \caption{Comprehensive cluster characterization. \textit{Top-left:} Feature deviation heatmap ($z$-scores, red = above mean, blue = below mean). \textit{Top-right:} Radar charts comparing cluster profiles across key features. \textit{Bottom-left:} EDU length distributions by cluster. \textit{Bottom-right:} Cluster visualization in PCA space showing separation and centroids.}
   \label{fig:cluster_char}
 \end{figure}

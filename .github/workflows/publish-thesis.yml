@@ -61,18 +61,9 @@ jobs:
               # Remove footnotemargin setting
               content = re.sub(r'\\setlength\\footnotemargin\{.*?\}', '', content)
               
-              # Simplify custom commands - define them as simple text
-              # Replace the definitions with simpler versions
-              content = re.sub(
-                  r'\\newcommand\{\\citepage\}\[2\]\{.*?\}',
-                  r'\\newcommand{\\citepage}[2]{(#1, p.~#2)}',
-                  content
-              )
-              content = re.sub(
-                  r'\\newcommand\{\\citepages\}\[2\]\{.*?\}',
-                  r'\\newcommand{\\citepages}[2]{(#1, pp.~#2)}',
-                  content
-              )
+              # Remove custom citation command definitions (they use \citet which tex4ht doesn't like)
+              content = re.sub(r'\\newcommand\{\\citepage\}.*?\n', '', content)
+              content = re.sub(r'\\newcommand\{\\citepages\}.*?\n', '', content)
               
               # Find and expand \subfile commands
               def replace_subfile(match):
@@ -89,6 +80,11 @@ jobs:
                   return match.group(0)
               
               content = re.sub(r'\\subfile\{([^}]+)\}', replace_subfile, content)
+              
+              # Fix old image paths from the renamed directory
+              content = content.replace('BScLatexHuelle15/images/', 'images/')
+              content = content.replace('BScLatexHuelle15/', 'images/')
+              
               return content
           
           flattened = flatten_latex('BachelorThesis_raw.tex')

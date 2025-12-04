@@ -1,0 +1,138 @@
+\section{Materials and Methods}
+
+This section details all materials, data sources, computational approaches, and experimental techniques used in this research. The research applies computational corpus analysis and unsupervised machine learning methods to study the connection between German and Russian Elementary Discourse Units (EDUs). The research uses data analysis to find syntactic patterns using clustering methods, investigating both shared patterns between languages and unique features of individual languages in discourse organization. The study is based on Rhetorical Structure Theory (RST) for annotation purposes.
+
+\subsection{Data Sources and Corpus Description}
+
+The study analyzes 45,521 Elementary Discourse Units from two typologically distinct languages and genres. The German component uses the Potsdam Commentary Corpus (PCC), a gold-standard annotated resource developed by Prof. Dr Manfred Stede and Arne Neumann (2014), containing 176 news commentary documents from the MAZI newspaper archive with 3,018 manually segmented EDUs (\textasciitilde33,000 tokens, average 10.9 tokens per EDU). The Russian component employs the Ru-RSTreebank, developed by Toldova et al. (2017) at Moscow State University, comprising 334 academic texts with 42,503 EDUs (\textasciitilde470,000 tokens, average 11.1 tokens per EDU). Both corpora use XML format with embedded RST annotation following Mann and Thompson's (1988) framework, achieving high annotation quality ($\kappa > 0.7$ inter-annotator agreement for German, PTB conventions for Russian). Despite the quantitative imbalance favoring Russian data, the German component provides valuable cross-linguistic comparison, while the genre contrast---news commentary versus academic prose---enables examination of how EDU structure varies across both language and discourse type.
+
+\subsection{Computational Environment}
+
+The analysis pipeline is implemented in \textbf{Python 3.8+} using \textbf{spaCy (3.8.7)} for NLP processing, \textbf{pandas (2.2.3)} for data manipulation, \textbf{scikit-learn ($\geq$1.0.0)} for machine learning, and \textbf{conllu (6.0.0)} for Universal Dependencies format. Visualization employs \textbf{matplotlib (3.10.3)} and \textbf{seaborn ($\geq$0.11.0)}. All experiments use fixed random seeds (42) for reproducibility. Given the large-scale corpus data, the pipeline incorporates comprehensive quality control: input validation (format, schema, encoding), processing monitoring, and output verification through statistical checks and manual inspection.
+
+\subsection{Dependency Parsing Models}
+
+For syntactic analysis, this study utilises spaCy's pre-trained models, which are based on modern neural architectures and fine-tuned for accuracy. These models provide reliable dependency parses while maintaining compatibility with the Universal Dependencies framework.
+
+For \textbf{German}, the medium-sized model \texttt{de\_core\_news\_md} is employed. It relies on a CNN-based architecture enhanced with attention mechanisms and has been trained on a large German news corpus of about 500 million tokens. The model achieves a Labeled Attachment Score (LAS) of roughly 91\%, which indicates strong performance in linking words to their correct syntactic heads. Its vocabulary covers approximately 500,000 unique tokens, and the annotations follow Universal Dependencies version 2.8.
+
+For \textbf{Russian}, the small-sized model \texttt{ru\_core\_news\_sm} is used. Although lighter in scale, it incorporates morphological awareness to deal with the rich inflectional system of Russian. The model was trained on about 100 million tokens from news and web texts and reaches a LAS of about 87\%. Like its German counterpart, it follows UD version 2.8, but it also integrates morphological analysis to capture the grammatical richness of the language better.
+
+Both models produce standardized CoNLL-U output, which allows for direct comparison across the two languages. In practice, this means that the German model is particularly adept at handling compounds and word-order variation, while the Russian model addresses the challenges posed by extensive morphological marking. Together, they provide a solid foundation for cross-linguistic analysis.
+
+\begin{table}[h!]
+\centering
+\caption{Comparison of spaCy Dependency Parsing Models}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Feature} & \textbf{German (\texttt{de\_core\_news\_md})} & \textbf{Russian (\texttt{ru\_core\_news\_sm})} \\
+\hline
+Architecture & CNN + attention & CNN + morphological awareness \\
+\hline
+Training data & News corpus ($\approx$ 500M tokens) & News + web text ($\approx$ 100M tokens) \\
+\hline
+Performance (LAS) & $\sim$91\% & $\sim$87\% \\
+\hline
+UD version & 2.8 & 2.8 \\
+\hline
+Vocabulary size & 500,000 tokens & Smaller, optimized for morphology \\
+\hline
+Special strengths & Compound analysis, flexible word order & Rich inflectional morphology \\
+\hline
+Output format & CoNLL-U & CoNLL-U \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Dependency Parsing Procedure}
+
+Following extraction, each EDU is processed with spaCy's neural pipeline to generate Universal Dependencies analyses, ensuring cross-linguistic consistency. The pipeline performs tokenization (handling language-specific contractions, compounds, and punctuation), part-of-speech tagging with morphological analysis, dependency parsing to establish syntactic relations, and quality validation to detect errors. All parsed EDUs are exported in CoNLL-U format, recording token ID, surface form, lemma, UPOS/XPOS tags, morphological features (particularly detailed for Russian), head token ID, dependency relation, and additional annotations.
+
+\subsection{Statistical Analysis Framework}
+
+All statistical analyses in this study follow a unified framework applied consistently across descriptive and inferential investigations. The parsed EDUs are transformed into numerical representations through systematic feature extraction (detailed in Section~4.2). All features undergo z-score standardization for comparability.
+
+\subsubsection{Descriptive and Distributional Analysis}
+
+Statistical analysis proceeds through descriptive summaries with normality testing using the Shapiro–Wilk test for sample sizes under 5,000 and the Kolmogorov–Smirnov test for larger samples, with significance threshold $\alpha = 0.05$.
+
+\subsubsection{Cross-Linguistic Comparison Tests}
+
+For comparing continuous features between languages, parametric or non-parametric tests are selected based on distribution characteristics:
+\begin{itemize}
+    \item \textbf{Independent t-tests} with Cohen's d effect size for normally distributed data
+    \item \textbf{Mann-Whitney U test} for non-normal distributions
+    \item \textbf{Wilcoxon signed-rank test} for paired comparisons
+    \item \textbf{Kruskal-Wallis H test} for multi-group comparisons
+\end{itemize}
+
+For categorical associations (e.g., cluster membership vs. language), \textbf{chi-square tests of independence} assess statistical significance, supplemented by:
+\begin{itemize}
+    \item \textbf{Cramér's V} for effect size quantification
+    \item \textbf{Standardized residual analysis} to identify specific language-cluster associations exceeding expected frequencies
+\end{itemize}
+
+All multiple comparisons are corrected using the Benjamini–Hochberg procedure to control false discovery rate at $q = 0.05$.
+
+\subsubsection{Dimensionality Reduction}
+
+Principal Component Analysis (PCA) reduces feature dimensionality while preserving 80–90\% of variance. Components are interpreted via factor loadings above $|0.3|$, identifying underlying dimensions of syntactic variation.
+
+\subsection{Determining the Optimal Number of Clusters}
+
+To ensure meaningful and robust clustering results, several complementary methods are applied to determine the optimal number of clusters.
+
+The \textbf{Elbow Method} examines how within-cluster variance (inertia) decreases as the number of clusters increases. The ``elbow point'' indicates where additional clusters no longer provide substantial improvement, balancing accuracy and simplicity. Specifically, we compute K-means inertia for cluster counts $k = 2$ to $11$ and identify the point where the rate of decrease in inertia begins to flatten, suggesting diminishing returns from additional clusters.
+
+The \textbf{Silhouette Analysis} measures how similar each point is to its own cluster compared to other clusters. The silhouette coefficient for each sample ranges from $-1$ (misclassified) to $+1$ (well-clustered), with values near 0 indicating borderline cases. Higher average silhouette scores indicate well-separated and internally coherent clustering. We compute mean silhouette scores across all samples for each candidate $k$ and examine the silhouette profile visualizations to assess cluster quality and balance.
+
+The \textbf{Gap Statistic} compares the clustering structure in the actual dataset to randomly generated reference datasets. By calculating the difference in within-cluster dispersion between observed data and uniform random data, this method identifies whether the observed grouping is significantly stronger than chance. A peak in the gap statistic indicates the optimal number of natural clusters in the data.
+
+Finally, \textbf{Cross-Validation Stability} tests clustering consistency across different data subsamples. Using 10-fold cross-validation and the adjusted Rand index, this method identifies the number of clusters that remain stable across random splits, ensuring result reliability. High stability scores indicate that the clustering solution is robust and not an artifact of specific data sampling.
+
+\subsection{Clustering and Validation}
+
+Following feature extraction, K-Means clustering with \texttt{k-means++} initialization is applied to partition EDUs into syntactically coherent groups. The optimal number of clusters is determined through the complementary methods described above (elbow method, silhouette analysis, gap statistics, and cross-validation stability). Each clustering solution runs with 10 initializations to ensure stability, converging at tolerance $10^{-4}$ or 300 iterations maximum.
+
+Cluster validity is assessed through multiple complementary metrics. Internal validation employs the \textbf{Silhouette Score} (measuring cohesion and separation, range [--1, +1]), \textbf{Calinski-Harabasz Index} (ratio of between-cluster to within-cluster variance), and \textbf{Davies-Bouldin Index} (average cluster similarity, lower is better). External validation examines language-specificity through the statistical tests described in Section~3.5.2, supplemented by the \textbf{Adjusted Rand Index} for solution stability.
+
+Each resulting cluster is characterized through three perspectives. \textbf{Statistical characterization} examines centroids, feature means, standard deviations, and significance tests against the full dataset. \textbf{Linguistic interpretation} identifies dominant syntactic patterns, part-of-speech distributions, complexity measures, and representative examples illustrating typical constructions. \textbf{Cross-linguistic distribution} analysis uses the statistical framework from Section~3.5.2 to determine whether clusters exhibit language-specific preferences, quantified through a \textbf{Language Specificity Index} measuring the degree of language-cluster association.
+
+\subsection{Measuring Language Specificity}
+
+A central contribution of this study is the introduction of the Language Specificity Index (LSI), which quantifies the extent to which clusters are dominated by one language or shared across languages. The LSI is derived from normalized Shannon entropy:
+
+\[
+\text{LSI} = (1 - H_{\text{normalized}}) \times 100\%
+\]
+
+where
+
+\[
+H_{\text{normalized}} = \frac{H_{\text{observed}}}{H_{\text{maximum}}}, \quad 
+H_{\text{observed}} = - \sum_i (p_i \log_2 p_i), \quad 
+H_{\text{maximum}} = \log_2(k)
+\]
+
+with $p_i$ representing the proportion of language $i$ in a cluster, and $k$ the number of languages.
+
+Interpretation is straightforward: an LSI of 0\% indicates complete cross-linguistic mixing (universal discourse patterns), while 100\% reflects absolute language separation. Values above 70\% suggest strong language-specific clustering, whereas values below 30\% reveal substantial cross-linguistic overlap.
+
+\subsection{Testing Statistical Significance}
+
+Statistical significance testing follows the framework established in Section~3.5. The null hypothesis ($H_0$) assumes no relationship between cluster membership and language, while the alternative hypothesis ($H_1$) posits a significant association. Tests are conducted at a 5\% significance level, with Bonferroni correction applied to account for multiple comparisons.
+
+For reliable results, three conditions are verified:
+\begin{enumerate}
+    \item Sample sizes in all contingency table cells exceed five observations,
+    \item Each EDU belongs exclusively to a single cluster, ensuring independence,
+    \item The dataset represents a sufficiently randomized sample of the underlying corpora.
+\end{enumerate}
+
+Furthermore, the computational environment is fully documented. Dependencies are explicitly listed in a \texttt{requirements.txt} file, while Git version control tracks every change in the codebase and analysis scripts. This practice preserves a transparent development history and allows collaborators to reproduce the results under identical conditions.
+
+\subsection{Methodological Limitations}
+
+Several limitations warrant consideration. The \textbf{genre confound}---German news commentary versus Russian academic prose---complicates separating linguistic from genre-specific effects. \textbf{Parsing accuracy} differs between languages (German $\sim$91\% LAS, Russian $\sim$87\%), potentially introducing systematic bias. The \textbf{corpus size imbalance} (42,503 Russian vs. 3,018 German EDUs) provides asymmetric statistical power, requiring cautious interpretation of German results. The analysis focuses exclusively on \textbf{syntactic features}, excluding semantic and pragmatic dimensions that may reveal additional cross-linguistic patterns. Finally, while Universal Dependencies enable standardization, they may not fully capture language-specific phenomena across typologically distant languages, potentially constraining \textbf{cross-linguistic validity}.
+
+Despite these limitations, the study establishes a robust framework for analyzing discourse-level dependency structures. By processing 45,521 EDUs through systematic parsing, feature extraction, and clustering with multiple validation methods, the pipeline ensures precision and reproducibility. Key strengths include substantial statistical power from large-scale data, standardized cross-linguistic comparison, comprehensive feature engineering, rigorous cluster validation, and careful correction for multiple testing. This framework advances computational discourse analysis and offers a methodology extensible to other language pairs and genres, contributing to understanding both universal and language-specific principles of syntactic organization in discourse.

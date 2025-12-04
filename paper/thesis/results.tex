@@ -1,0 +1,188 @@
+\section{Results}
+
+In this section, we present the results of our analysis, structured in three parts. First, we describe the preprocessing and data quality control steps to ensure reliable comparisons. Next, we report descriptive corpus statistics and feature analyses that do not involve machine learning. Finally, we present the deeper results obtained through machine learning methods (classification and clustering) to address cross-linguistic EDU segmentation and pattern discovery.
+
+\subsection{Preprocessing and Data Quality}
+
+During the examination of the two datasets, I observed the presence of outliers in the visualization. This prompted me to inspect the textual content of the tokens that appeared suspicious in the plots. I conducted an analysis of the dataset in order to identify invalid tokens.
+
+As an initial step, we performed data quality control on the collected corpora to remove noise that could skew the analysis. In the Russian dataset, we detected an anomalously long EDU of 353 tokens consisting largely of bibliographic information (e.g., page numbers, URLs). Such outliers can distort statistical comparisons and were therefore removed before further analysis.
+
+After eliminating this noise (a minimal data loss of a single EDU), we recomputed key distributions and verified that the overall corpus characteristics remained intact. Notably, the removal of the 353-token outlier substantially reduced the maximum EDU length and variance for Russian, bringing the length distribution more in line with German and strengthening the validity of subsequent cross-linguistic comparisons.
+
+The outlier filtering system uses a three-sigma statistical rule (\textit{mean} $+ 3 \times \textit{standard deviation}$) to identify EDUs with abnormal token lengths, then applies heuristic analysis to distinguish between genuine discourse complexity and metadata noise such as bibliography entries. The system employs a conservative approach that removes only obvious non-discourse content while preserving linguistically valid long EDUs, ensuring corpus quality without sacrificing authentic discourse structures.
+
+In my research, this procedure successfully removed one 353-token bibliography entry while retaining five legitimate complex EDUs, thereby maintaining cross-linguistic corpus balance for subsequent analysis.
+
+
+\subsection{Corpus-Level Descriptive Analysis}
+
+\subsubsection{Punctuation and Conjunctions as EDU Boundary Markers}
+
+As the analysis of boundary markers shows, there are significant differences in how German and Russian utilize punctuation and conjunctions to segment discourse. Punctuation in particular emerges as a more prominent EDU boundary marker in Russian than in German. In German, punctuation accounts for about \textbf{13.0\%} of all tokens at EDU boundaries, whereas in Russian it accounts for \textbf{19.4\%}. This difference of 6.4 percentage points indicates that Russian relies more heavily on punctuation for discourse segmentation. Several factors may explain this gap. First, the Russian punctuation system mandates frequent use of commas and other delimiters to isolate syntactic constructions, which naturally increases their count at clause boundaries. Second, structural differences between the languages play a role: Russian's freer word order often requires punctuation to explicitly mark syntactic units and preserve clarity. Finally, stylistic differences in the corpora (genre, register) could influence the density and distribution of punctuation marks at EDU boundaries. Figure~\ref{fig:punctuation_analysis} illustrates these tendencies, comparing the proportion of EDUs ending in various punctuation marks for both languages.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/punctuation_analysis_1.png}
+    \caption{Analysis of punctuation boundaries in EDUs for German and Russian. German exhibits fewer punctuation-final EDUs compared to Russian, indicating a lower reliance on punctuation as a discourse boundary marker.}
+    \label{fig:punctuation_analysis}
+\end{figure}
+
+Conjunctions serve as another primary cue for EDU boundaries, and their usage patterns are also revealing. \textbf{Coordinating conjunctions} (e.g., "and", "but") typically connect independent clauses or parallel segments, and the dependency relations \texttt{cc} (coordinating conjunction) and \texttt{conj} (conjunct) consistently coincide with EDU breaks in both languages. This suggests that coordination is a universal signal for discourse segmentation, marking transitions between related units. \textbf{Subordinating conjunctions}, on the other hand, introduce dependent clauses (e.g., causal or conditional clauses) that form separate EDUs providing background or conditional information relative to a main clause. These create hierarchical discourse structures and are likewise strong indicators of EDU boundaries. Despite typological differences between German and Russian, we observe remarkably similar behavior in how conjunctions mark boundaries: both languages adhere to general principles where conjunctions signal the onset of a new discourse unit, aiding text coherence and flow. Figure~\ref{fig:conjunction_analysis} highlights the frequency of conjunctive constructions at EDU boundaries in the two corpora, underscoring their parallel roles.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/conjunction_analysis_2.png}
+    \caption{Analysis of conjunctive constructions as EDU boundary markers. Both German and Russian show high frequencies of conjunctions at EDU boundaries, reflecting their universal role in connecting discourse segments.}
+    \label{fig:conjunction_analysis}
+\end{figure}
+
+\subsubsection{Dependency Relations as Boundary Indicators}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/dependency_relation_analysis_3.png}
+    \caption{Analysis of dependency relations as predictors of EDU boundaries}
+    \label{fig:dependency_analysis}
+\end{figure}
+
+The syntactic dependency structure provides further cues for where EDUs begin and end. Our analysis revealed a clear hierarchy among dependency relations in their reliability as EDU boundary predictors. \textbf{Strong indicators} include relations such as \texttt{conj} (coordination), \texttt{cc} (coordinating conjunction marker), \texttt{advcl} (adverbial clause), \texttt{ccomp} (clausal complement), and \texttt{xcomp} (open clausal complement). These relations often introduce new clauses or complex predicate structures and thus consistently align with discourse segmentation points. In contrast, \textbf{medium-reliability indicators} like \texttt{acl} (clausal modifier) and \texttt{parataxis} showed more context-dependent behavior. For instance, \texttt{acl} can signal an embedded clause modifying a noun without necessarily prompting a separate discourse unit, and \texttt{parataxis} (loosely attached sentences or clauses) varies in boundary strength depending on stylistic and syntactic context. A chi-square analysis confirmed that the distribution of certain dependency relations at EDU boundaries differs significantly between German and Russian ($p < 0.001$). This implies that while both languages share fundamental discourse segmentation principles (e.g., new clauses often start new EDUs), they exhibit distinct preferences in how specific syntactic constructions contribute to forming EDUs.
+
+\subsubsection{Position-Based Boundary Features}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{BScLatexHuelle15/images/position_based_boundary_features_4.png}
+    \caption{Analysis of positional features of EDU boundary markers}
+    \label{fig:position_analysis}
+\end{figure}
+
+The position of potential boundary markers within a sentence also plays a significant role in discourse segmentation. Our positional analysis uncovered several notable patterns. One consistent tendency was the clustering of conjunctions and other boundary signals near the beginning of sentences. In roughly the first 20\% of token positions in a sentence, we found a markedly higher concentration of boundary markers. This suggests that new discourse segments are frequently established early in the sentence. Such a pattern aligns with theories of topicalization and thematic progression, where sentence-initial elements often introduce or shift the topic of discussion. In practical terms, an EDU is likely to start near the beginning of a sentence if that sentence contains multiple EDUs.
+
+At the intra-sentential level, boundary markers tended to coincide with junctures between major syntactic constituents. For example, boundaries commonly occurred between a main clause and a following subordinate clause, or between sequential coordinated clauses. This indicates that EDU boundaries are structurally motivated, often aligning with points of syntactic completion or transition. Moreover, the distance between a syntactic head and its dependent was found to influence boundary likelihood: the greater this dependency distance, the higher the probability that a new discourse unit would begin at that point. In other words, long-distance dependencies—often a sign of more complex or embedded constructions—frequently coincide with discourse segmentation.
+
+Finally, examining long-distance dependency links provided additional insight into how syntax and discourse interact. We observed that when a dependency relation spanned a large portion of a sentence (for instance, a subject and verb separated by a long subordinate clause), this was often accompanied by a break in discourse structure. These findings together support the notion that syntactic complexity and discourse segmentation are intertwined. The placement of EDU boundaries is influenced by syntactic positions—early sentence positions, clause boundaries, and points of increased syntactic distance all serve as likely locations for segmenting a sentence into coherent discourse units.
+
+\subsubsection{EDU Length Distribution Analysis}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{BScLatexHuelle15/images/basic_edu_length_distribution_2_2.png}
+\caption{EDU length distribution comparison after cleaning the Russian corpus: histogram, box plot, cumulative distribution, and descriptive statistics. The removal of anomalous data in Russian yields a smoother tail and improved cross-language comparability.}
+\label{fig:edu_length_after_cleaning}
+\end{figure}
+
+Figure~\ref{fig:edu_length_after_cleaning} presents a comprehensive analysis of Elementary Discourse Unit (EDU) length distributions in the German and Russian corpora, using four complementary visualizations. We focus here on the cleaned data (after removing the extreme outlier from the Russian corpus), to ensure a fair comparison.
+
+\textbf{Panel A: Histogram Comparison.} Both languages show a strong preference for short EDUs, with frequency dropping off as length increases (an approximately exponential decay). German EDUs (blue) have a sharp peak in the 1--5 token range. Russian EDUs (red) also peak at short lengths but exhibit a broader distribution with a less pronounced peak and a somewhat longer tail, indicating greater variability in how discourse may be segmented into EDUs.
+
+\textbf{Panel B: Box Plot Distribution.} The German length distribution is more compact, with a median around 9 tokens and an interquartile range of roughly 6 to 14 tokens. Russian EDUs have a slightly higher median (around 11 tokens) and a wider spread. Even after cleaning, the Russian corpus shows more variability and a few longer EDUs (reflected in a longer whisker and some mild outliers in the box plot), although the most extreme case has been removed. The maximum observed EDU length in Russian dropped dramatically after removing the 353-token anomaly (now closer to the German maximum of 42 tokens), underscoring the improved comparability of the two datasets.
+
+\textbf{Panel C: Cumulative Distribution Function (CDF).} The CDF curves illustrate that German EDUs reach cumulative proportions more quickly at lower lengths: about 80\% of German EDUs are 15 tokens or shorter, whereas the 80\% mark for Russian EDUs extends to nearly 20 tokens. However, beyond the 90th percentile, the curves converge, suggesting that aside from the very longest outliers, both languages allow for similarly complex maximal units. In other words, once the extreme Russian anomaly is excluded, the upper-end lengths of EDUs in both languages become comparable.
+
+\textbf{Panel D: Descriptive Statistics.} Key summary statistics (post-cleaning) include: German corpus (274 EDUs) with mean length $= 10.95$ tokens (SD $= 6.55$, max $= 42$); Russian corpus (234 EDUs after cleaning) with mean length $\approx 11.3$ tokens (SD $\approx 9.8$, max $= 43$). Both languages share an identical median EDU length of 9 tokens and a 75th-percentile value of 14 tokens, highlighting their similar central tendencies. The Russian mean and variance are slightly higher than German's, reflecting the broader distribution and remaining longer EDUs, but these differences are not large.
+
+\textbf{Statistical Significance.} Despite visual differences in spread, statistical tests confirm no significant difference in EDU lengths between the two languages. A two-sample t-test yields $t = -1.17$, $p = 0.24$, and a non-parametric Mann-Whitney U test returns $U = 34421$, $p = 0.18$ (both $p > 0.05$). These results hold true even when the extreme outlier was present and remain so after its removal, indicating that the underlying preferences for segment length are statistically comparable across German and Russian. The noticeable distributional differences are thus primarily due to variability and rare long segments rather than a fundamental length bias in one language versus the other.
+
+\textbf{Interpretation.} The overall distribution patterns suggest that both languages adhere to discourse chunking constraints that favor cognitively manageable unit sizes. The similarity in medians and the lack of a statistical difference imply comparable norms of syntactic and discourse complexity in forming EDUs, likely influenced by genre (news/commentary) and general principles of information packaging. The presence of longer-tail behavior in Russian (even after cleaning) may reflect certain stylistic or syntactic practices (such as embedding multiple clauses in one sentence) that create longer discourse units. Furthermore, the identification and removal of the extreme Russian outlier underscores the importance of data cleaning in corpus linguistics: anomalies can inflate variance and create false impressions of difference, so ensuring high-quality data is crucial for accurate cross-linguistic comparisons.
+
+\subsubsection{Part-of-Speech Distribution Analysis}
+
+Cross-linguistic analysis of part-of-speech (POS) usage within EDUs reveals clear distinctions in how German and Russian construct their discourse units. For this comparison, we normalized POS counts by EDU length to obtain ratios (proportions of each POS per EDU), allowing us to compare languages despite differing EDU sizes. Figure~\ref{fig:pos_distribution} provides four perspectives on these POS ratios: the mean ratio per POS category for each language, a heatmap of POS distribution differences, box plots illustrating variability for select POS categories, and a table of t-test results for each POS.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/part_of_speech_distribution_analysis_2_4.png}
+  \caption{Cross-linguistic POS distribution analysis for EDUs. Top-left: mean POS ratios (German vs. Russian); top-right: heatmap of POS usage differences; bottom-left: box plots for selected POS categories; bottom-right: significance of cross-linguistic differences (t-test $p$-values).}
+  \label{fig:pos_distribution}
+\end{figure}
+
+The results show that Russian EDUs have a significantly higher concentration of nouns and adjectives, whereas German EDUs contain higher proportions of adverbs, pronouns, and determiners. Verb ratios are very similar between the two languages, suggesting that both German and Russian EDUs carry a comparable density of predicate verbs on average. Specifically, independent t-tests on the per-EDU POS ratios confirm highly significant differences ($p < 0.001$) in the following categories: noun ratio (higher in Russian), adjective ratio (higher in Russian), adverb ratio (higher in German), pronoun ratio (higher in German), and determiner ratio (higher in German). By contrast, differences in verb ratio are not statistically significant, and other categories like prepositions and conjunctions show minimal variation between languages.
+
+These patterns align well with known typological contrasts between German and Russian. Russian, lacking articles and having a rich case system, tends to pack more information into nominal phrases—hence a higher noun and adjective density. German, on the other hand, uses articles (categorized as determiners) obligatorily, and often employs pronouns and adverbs (including pronominal adverbs) to maintain cohesion and referential clarity, leading to higher ratios of those parts of speech. The similar verb ratios indicate that both languages structure their EDUs around a comparable number of finite verbs, implying similar clause densities. In summary, while the core predicate structure of EDUs is consistent across languages, German and Russian differ in how they distribute descriptive and referential information (nominal vs. adverbial/pronominal), reflecting broader grammatical and stylistic differences.
+
+\subsubsection{Syntactic Complexity Analysis}
+
+We next compared the syntactic complexity of EDUs in German and Russian using several quantitative metrics extracted from dependency parses. Four measures were used at the EDU level: (i) \textit{Maximum parse tree depth} (\texttt{max\_depth}), which captures the deepest level of nested syntactic structures (a proxy for hierarchical complexity); (ii) \textit{Average dependency distance} (\texttt{avg\_dependency\_distance}), measuring the average linear distance between heads and dependents (an indicator of how spread out or embedded an EDU's structure is); (iii) \textit{Finite verb count} (\texttt{finite\_verbs}), the number of finite verbs in the EDU (reflecting the number of clauses or clause-like units per EDU); and (iv) \textit{Punctuation ratio} (\texttt{punct\_ratio}), the proportion of tokens in the EDU that are punctuation (which can indicate internal segmentation or list-like structures).
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/syntactic_complexity_analysis_2_5.png}
+  \caption{Syntactic complexity comparison between German (DE) and Russian (RU) EDUs. Each panel shows the distribution of a complexity measure: \texttt{max\_depth}, \texttt{avg\_dependency\_distance}, \texttt{finite\_verbs}, and \texttt{punct\_ratio}.}
+  \label{fig:complexity}
+\end{figure}
+
+The box plots in Figure~\ref{fig:complexity} reveal how these complexity measures vary and compare across the two languages. For \textbf{maximum parse depth}, the median values are similar for German and Russian, indicating that typical EDUs in both languages have comparable levels of embedding. However, Russian shows a slightly longer upper tail, suggesting that it occasionally allows deeper nested structures (possibly due to heavier noun-phrase embedding). \textbf{Average dependency distance} also has similar medians across languages, with Russian exhibiting marginally more spread; long dependency distances can arise from freer word order or constructions like extraposition, which Russian may employ somewhat more. The \textbf{finite verb count} distributions indicate that most EDUs contain one finite verb (median = 1 for both languages), with a small number of EDUs containing two or more finite verbs; the means are nearly identical, reflecting similar clause densities in typical EDUs. Finally, the \textbf{punctuation ratio} shows more variability in Russian, with a wider IQR and some higher values. This is likely because Russian EDUs in the corpus may include more list-like enumerations or complex punctuation usage in certain cases (as was evident from the higher punctuation usage noted earlier), whereas German EDUs tend to have a more constrained punctuation usage within the unit.
+
+Statistical tests on these measures mostly show minor differences. The average number of finite verbs per EDU does not differ significantly between German and Russian, reinforcing the observation that both have similar clause-per-EDU tendencies. We observe only modest shifts in the hierarchical (max depth) and linear (dependency distance) complexity indices between the languages. The largest contrast appears in the punctuation ratio dispersion, which, as mentioned, reflects both stylistic formatting choices and grammatical structuring differences (for example, the inclusion of multiple commas or semicolons within some Russian EDUs vs. fewer in German). In summary, German and Russian EDUs manifest broadly comparable syntactic complexity on these measures, maintaining a similar foundational predicative structure while distributing additional complexity through slightly different structural channels (nominal embedding in Russian versus more frequent use of separate modifying elements in German).
+
+\subsection{Machine Learning Results and Pattern Discovery}
+
+\subsubsection{Supervised EDU Boundary Classification}
+
+In order to evaluate the feasibility of automatic discourse segmentation, we trained and tested machine learning models to detect EDU boundaries in our corpora. Two classification algorithms were compared: Logistic Regression and Random Forest, using features derived from the linguistic cues discussed above (e.g., dependency relations, part-of-speech tags, token positions). The Random Forest classifier consistently outperformed Logistic Regression in this task. Specifically, the Random Forest achieved F$_1$-scores of approximately 0.85 for German and 0.82 for Russian, compared to 0.75 (German) and 0.70 (Russian) with Logistic Regression. This superior performance of the ensemble method highlights its ability to capture non-linear interactions between features (for example, how certain combinations of POS tags and positions jointly signal a boundary).
+
+Feature importance analysis from the Random Forest model reinforced our earlier observations about boundary predictors: dependency relations emerged as the strongest features for boundary detection, followed by positional features (such as whether a token appears early in the sentence or is a conjunction at clause-initial position) and then morphological features like part-of-speech tags (with distinctions between function words and content words proving informative). Another notable finding is the minimal performance gap between German and Russian (roughly 3 percentage points in F$_1$). This suggests that the feature patterns learned by the model generalize well across these typologically different languages. In practical terms, it supports the idea that a universal discourse segmentation approach is viable—one that can be adapted to different languages with only minor losses in accuracy. Overall, the strong performance of the classifiers indicates that the cues we analyzed (punctuation, conjunctions, syntax, etc.) are not only theoretically significant but also practically useful for automated EDU boundary detection.
+
+\subsubsection{Unsupervised Clustering of EDU Patterns}
+
+As a complementary approach to the supervised analysis, we applied unsupervised clustering to the EDUs to discover common discourse patterns without pre-defined labels. This addresses the question of whether EDUs naturally group into distinct types across languages. Prior to clustering, we constructed a feature vector for each EDU based on the attributes examined in our descriptive analysis (including length, POS ratios, syntactic complexity measures, etc.). We removed non-numeric identifiers (such as the EDU ID and language label) and imputed any missing values with the median to avoid issues with incomplete feature data. All features were standardized to have mean 0 and unit variance, ensuring that no single feature dominated due to scale differences.
+
+We then performed Principal Component Analysis (PCA) on the feature matrix to reduce dimensionality and noise. Figure~\ref{fig:pca} shows the explained variance by each principal component (scree plot) and the cumulative variance covered. We selected the top 10 principal components that together account for approximately 80\% of the variance. This balance retained the majority of information while filtering out minor noisy variations. The leading principal components were interpretable: for example, the first principal component aligned with a general "complexity" factor (heavily loaded on depth, dependency distance, and modification-related features), whereas the second component contrasted nominal versus verbal orientation (loading oppositely on noun/adjective features vs. verb/adverb features). This confirms that the dimensionality reduction preserved meaningful linguistic dimensions of variation among EDUs.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/clustering_analysis_discovering_edu_patterns_2_6.png}
+  \caption{PCA results for EDU features: variance explained by each component (left) and cumulative variance (right). The first few components capture the majority of the variance (dashed lines mark 80\% and 90\% thresholds), allowing us to reduce dimensionality for clustering.}
+  \label{fig:pca}
+\end{figure}
+
+Following PCA dimensionality reduction, we applied the cluster optimization methods described in Section 3.4. Figure~\ref{fig:cluster_opt} presents the results of these analyses. The left panel shows K-means inertia across cluster counts $k = 2$ to $11$, while the right panel displays the corresponding average silhouette scores. The inertia curve exhibits a gradual leveling around $k = 4$ to $5$, while the silhouette analysis achieves its maximum at $k = 4$ with an average score of approximately 0.35. This convergence of evidence from multiple optimization methods supports the selection of $k = 4$ as the optimal clustering solution.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/determining_optimal_number_of_clusters_2_7.png}
+  \caption{Cluster optimization results. \textit{Left:} Elbow plot showing K-means inertia decrease. \textit{Right:} Mean silhouette scores across different $k$ values. The optimal solution ($k=4$) is indicated at the elbow point with the highest silhouette score.}
+  \label{fig:cluster_opt}
+\end{figure}
+
+Figure~\ref{fig:silhouette} provides detailed silhouette profiles for candidate cluster numbers. At $k = 4$, the majority of EDUs exhibit positive silhouette values, and cluster sizes remain reasonably balanced (as shown by the relatively even distribution across the four colored bands). Higher values of $k$ introduce clusters with numerous near-zero or negative silhouette values, indicating poor separation and excessive fragmentation. These visualizations confirm that $k = 4$ provides the most coherent and stable clustering structure.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/determining_optimal_number_of_clusters_2_8.png}
+  \caption{Silhouette analysis for different $k$ values. Each colored band represents a cluster, with bar length indicating individual sample silhouette values. The $k=4$ solution shows predominantly positive values and balanced cluster sizes, while higher $k$ values introduce poorly separated clusters.}
+  \label{fig:silhouette}
+\end{figure}
+
+With the optimal number of clusters determined, we examined the cross-linguistic distribution of EDUs across the four identified clusters. Figure~\ref{fig:final_clusters} presents this distribution through three complementary views: absolute counts (left panel), normalized percentages (middle panel), and a heatmap visualization (right panel). Two clusters exhibit relatively balanced language distribution, containing substantial representation from both German and Russian EDUs—these can be interpreted as cross-linguistically shared discourse patterns. The remaining two clusters show stronger language preferences: one is dominated by Russian EDUs (over 70\% Russian), while another contains a majority of German EDUs.
+
+Chi-square testing confirms that cluster membership and language are significantly associated ($\chi^2$ test, $p < 0.01$), indicating that language identity influences but does not fully determine cluster assignment. Cramér's $V$ indicates a moderate effect size, reflecting the presence of both language-specific and cross-linguistic patterns. This result demonstrates that while certain EDU construction strategies are language-preferential—likely reflecting typological and stylistic differences—other patterns represent universal discourse structuring principles shared across German and Russian.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/final_clustering_and_cross_linguistic_analysis_2_7.png}
+  \caption{Cross-linguistic distribution across four EDU clusters. \textit{Left:} Absolute EDU counts (German: blue, Russian: red). \textit{Middle:} Percentage composition by language. \textit{Right:} Heatmap of language distribution (darker shades indicate higher percentages). Chi-square test confirms significant language-cluster association ($p < 0.01$).}
+  \label{fig:final_clusters}
+\end{figure}
+
+Finally, we characterized each cluster through comprehensive feature profiling. Figure~\ref{fig:cluster_char} presents four complementary perspectives: a heatmap of standardized feature deviations (top-left), radar charts comparing cluster profiles (top-right), EDU length distributions per cluster (bottom-left), and cluster visualization in PCA space (bottom-right). For each feature, we computed $z$-scores measuring how many standard deviations each cluster's mean deviates from the global dataset mean. This analysis reveals four distinct EDU pattern archetypes:
+
+\begin{enumerate}
+  \item \textbf{Nominal elaboration pattern} – characterized by elevated \texttt{noun\_ratio}, \texttt{adj\_ratio}, and modifier counts. These EDUs are content-dense and descriptive, featuring extensive nominal modification and medium-to-high syntactic depth from embedded noun phrases. This pattern shows a Russian preference, consistent with the language's tendency toward information-packed nominal structures.
+  
+  \item \textbf{Structural complexity pattern} – marked by above-average \texttt{max\_depth} and \texttt{avg\_dependency\_distance}. These EDUs exhibit deep syntactic embedding and extended linear arrangements, often containing multiple clauses or elaborate modifiers. This cluster is German-preferential, aligning with German's propensity for complex subordinate structures and compound constructions.
+  
+  \item \textbf{Fragmentary/segmented pattern} – defined by high \texttt{punct\_ratio} coupled with low verb counts and shallow parse depth. These short, often non-clausal units represent list items, titles, or asyndetic constructions with minimal predicative content. Both languages contribute to this cluster, as fragmentary discourse appears across both corpora.
+  
+  \item \textbf{Predicate–adverbial focus pattern} – distinguished by elevated \texttt{verb\_ratio}, \texttt{finite\_verbs} count, and \texttt{adv\_ratio}. These EDUs center on verbal predicates enriched with adverbial modification, providing detailed circumstantial information. This pattern is more common in German, reflecting the language's frequent use of compound verbal constructions and diverse adverbial elements.
+\end{enumerate}
+
+Each cluster's statistical profile—including size, language composition, and distinctive feature patterns—confirms the existence of both cross-linguistic shared strategies and language-specific preferences in EDU construction. This unsupervised discovery of structural archetypes provides empirical grounding for understanding how German and Russian converge and diverge in their discourse-level syntactic organization.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{BScLatexHuelle15/images/final_clustering_and_cross_linguistic_analysis_2_8.png}
+  \caption{Comprehensive cluster characterization. \textit{Top-left:} Feature deviation heatmap ($z$-scores, red = above mean, blue = below mean). \textit{Top-right:} Radar charts comparing cluster profiles across key features. \textit{Bottom-left:} EDU length distributions by cluster. \textit{Bottom-right:} Cluster visualization in PCA space showing separation and centroids.}
+  \label{fig:cluster_char}
+\end{figure}

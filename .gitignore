@@ -17,8 +17,19 @@ RuRsTreebank_full/
 *.log
 *.tmp
 *_temp.txt
-*.png
-*.tex
+
+# LaTeX auxiliary files (but NOT .tex source files)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.synctex.gz
+
+# Ignore generated images in root, but not in paper/thesis/images
+/*.png
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/

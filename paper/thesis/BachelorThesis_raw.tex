@@ -1,0 +1,91 @@
+\documentclass{article}
+\usepackage{titlesec}
+\usepackage[german,english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[round]{natbib}
+\usepackage[onehalfspacing]{setspace}
+\usepackage{subfiles}
+\usepackage{float}
+\usepackage[
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    citecolor=black
+]{hyperref}
+\usepackage{todonotes}
+\usepackage[hang]{footmisc}
+\setlength\footnotemargin{10pt}
+\usepackage{amsmath}
+\usepackage{listings}
+
+% citation abbreviations
+\newcommand{\citepage}[2]{ (\citet{#1}, \textit{p.}\,#2)}
+\newcommand{\citepages}[2]{ (\citet{#1}, \textit{pp.}\,#2)}
+\newcommand{\page}[1]{ (\textit{p.}\,#1)}
+\newcommand{\q}[1]{``#1''}
+\newcommand{\dashitem}{\item[\textendash]}
+
+% page layout
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\leftmark}
+\fancyfoot[C]{\thepage}
+
+\title{
+    \large{
+        University of Potsdam\\Department of Linguistics\\[1cm]
+        \textbf{\Large{Dependency Structures in Elementary Discourse Units}}\\[1cm]
+        Bachelor Thesis in partial fulfillment of the requirements for the degree of\\
+        \textbf{Bachelor of Science in Computational Linguistics}\\[1cm]
+        \textbf{Artur Begichev}\\
+        begichev1@uni-potsdam.de\\
+        Matriculation number: 805310\\[1cm]
+        Supervisors:\\[0.3cm]
+        Prof. Manfred Stede\\University of Potsdam\\[0.3cm]
+        Prof. Maciej Ogrodniczuk\\Institute of Computer Science, Polish Academy of Sciences\\
+    }
+}
+
+\begin{document}
+\pagestyle{empty}
+\maketitle
+\thispagestyle{empty}
+\newpage
+
+\begin{otherlanguage}{german}
+\begin{abstract}
+Diese Studie untersucht mithilfe automatischer Abhängigkeitsanalyse und Clusterverfahren die Organisation von Elementary Discourse Units (EDUs) in deutschen und russischen Korpora und identifiziert vier systematische Strukturmuster mit ausgeprägter Sprachspezifik (85,7\%). Die Ergebnisse zeigen, dass typologische Unterschiede (deutsche koordinations- und präpositionsreiche vs. russische nominaldichte und verbzentrierte Strukturen) die Diskursorganisation maßgeblich prägen und liefern praxisrelevante Impulse für computergestützte Diskursanalyse, maschinelle Übersetzung und Sprachdidaktik.
+\end{abstract}
+\end{otherlanguage}
+
+\newpage
+\tableofcontents
+\newpage
+\pagestyle{fancy}
+\setcounter{page}{1}
+
+\subfile{introduction}
+\subfile{literature_review}
+\subfile{materials_and_methods}
+\subfile{implementation}
+\subfile{results}
+\subfile{discussion}
+\subfile{conclusion}
+
+%\appendix
+%\section{APPENDIX 1}
+%\section{APPENDIX 2}
+
+% ===== References =====
+\addcontentsline{toc}{section}{References}
+\nocite{*} % временно — покажет все записи из references.bib
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\newpage
+\thispagestyle{empty}
+\subfile{declaration.tex}
+
+\end{document}

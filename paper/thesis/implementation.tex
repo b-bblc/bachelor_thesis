@@ -1,0 +1,73 @@
+\section{Implementation}
+
+This chapter provides a detailed description of the computational implementation developed to analyse dependency structures in elementary discourse units (EDUs) in the German and Russian languages. This implementation is a modular, Python-based pipeline which handles corpus processing, linguistic analysis and multilingual comparison by using automated data extraction, dependency parsing, feature engineering and unsupervised machine learning techniques.
+
+\subsection{System Architecture and Technology Stack}
+
+The implementation is built using Python 3.8+ with a technology stack optimized for computational linguistics and machine learning. The architecture follows modular design principles with comprehensive error handling and reproducible workflows. Primary dependencies include spaCy 3.8.7 for natural language processing, pandas 2.2.3 for data manipulation, scikit-learn for machine learning, matplotlib/seaborn for visualization, conllu 6.0.0 for Universal Dependencies processing, and numpy for numerical computing. All dependencies are managed through \texttt{requirements.txt} with version pinning to ensure reproducibility across platforms.
+
+The dependency parsing module implements language-specific processing using the pre-trained spaCy models described in Section~3.2 (\texttt{de\_core\_news\_md} for German and \texttt{ru\_core\_news\_sm} for Russian). Both models output Universal Dependencies annotations in standardized CoNLL-U format, ensuring cross-linguistic compatibility. The pipeline processes EDUs individually while preserving discourse context through metadata. Manual evaluation of 100 randomly sampled EDUs per language revealed comparable quality, with German errors primarily involving complex nominal constructions and Russian errors attributed to flexible word order. Both languages demonstrated sufficient parsing accuracy for statistical analysis.
+
+\subsection{Feature Engineering and Statistical Analysis}
+The analysis pipeline extracts 21 syntactic features capturing multiple dimensions of EDU structure, designed to be language-independent while preserving linguistic specificity for meaningful cross-linguistic comparison. These features are organized into four categories:
+
+\textbf{(1) Structural features (4 features):} These capture the overall shape and configuration of each EDU:
+\begin{itemize}
+    \item \textit{EDU length}: Total number of tokens in the EDU
+    \item \textit{Dependency tree depth}: Maximum depth of the syntactic dependency tree
+    \item \textit{Average dependency distance}: Mean linear distance between head and dependent tokens
+    \item \textit{Root POS tag}: Part-of-speech category of the dependency tree root
+\end{itemize}
+
+\textbf{(2) Part-of-speech distribution (8 features):} Normalized proportions of major word classes within each EDU:
+\begin{itemize}
+    \item \textit{Noun ratio}: Proportion of nominal elements (NOUN)
+    \item \textit{Verb ratio}: Proportion of verbal elements (VERB)
+    \item \textit{Adjective ratio}: Proportion of adjectival modifiers (ADJ)
+    \item \textit{Adverb ratio}: Proportion of adverbial modifiers (ADV)
+    \item \textit{Pronoun ratio}: Proportion of pronominal elements (PRON)
+    \item \textit{Determiner ratio}: Proportion of determiners (DET)
+    \item \textit{Preposition ratio}: Proportion of adpositions (ADP)
+    \item \textit{Conjunction ratio}: Proportion of coordinating and subordinating conjunctions (CCONJ, SCONJ)
+\end{itemize}
+
+\textbf{(3) Dependency relations (3 features):} Quantification of core syntactic relations:
+\begin{itemize}
+    \item \textit{Subject ratio}: Proportion of subject dependencies (nsubj, nsubj:pass, csubj)
+    \item \textit{Object ratio}: Proportion of object dependencies (obj, iobj, obl)
+    \item \textit{Modifier ratio}: Proportion of modification relations (amod, advmod, nmod)
+\end{itemize}
+
+\textbf{(4) Syntactic complexity indicators (6 features):} Measures of structural and grammatical complexity:
+\begin{itemize}
+    \item \textit{Finite verb count}: Number of finite verb forms in the EDU
+    \item \textit{Punctuation ratio}: Proportion of punctuation marks
+    \item \textit{Coordination presence}: Binary indicator for coordinate structures (CCONJ presence)
+    \item \textit{Subordination presence}: Binary indicator for subordinate clauses (SCONJ, mark relations)
+    \item \textit{Relative clause presence}: Binary indicator for relative clause constructions (acl:relcl)
+    \item \textit{Passive construction presence}: Binary indicator for passive voice (nsubj:pass, aux:pass)
+\end{itemize}
+
+All features undergo z-score normalization to ensure comparability across languages with different distributional characteristics:
+\[
+z = \frac{x - \mu}{\sigma}
+\]
+where $x$ is the raw feature value, $\mu$ is the feature mean, and $\sigma$ is the standard deviation.
+
+The statistical analysis framework supports both descriptive and inferential statistics, employing appropriate tests with multiple comparison corrections. Methods include descriptive statistics (mean, median, standard deviation, quartiles), distribution testing (Shapiro-Wilk and Kolmogorov-Smirnov tests), group comparisons (t-tests and Mann-Whitney U tests), Cohen's d effect size calculation for practical significance assessment, and Benjamini-Hochberg false discovery rate control for multiple comparison correction.
+
+\subsection{Machine Learning Implementation}
+The core analytical component implements K-means clustering with Principal Component Analysis (PCA) dimensionality reduction to discover syntactic patterns in EDUs. The clustering pipeline includes preprocessing (feature standardization, missing value handling, outlier detection), dimensionality reduction (PCA retaining 80--90\% of variance, typically 8--12 components), cluster number selection (elbow method, silhouette analysis, gap statistic convergence), K-means clustering (K-means++ initialization, 300 iterations, 10 independent runs), and validation (silhouette coefficient, within-cluster sum of squares, cross-validation). The implementation identified 4 optimal clusters based on convergent evidence from multiple selection criteria, achieving a silhouette score of 0.1045. Although modest, this score reflects typical challenges in clustering linguistic data with gradual rather than discrete boundaries.
+
+The cross-linguistic comparison framework enables systematic comparison of syntactic patterns between German and Russian EDUs through feature-wise analysis with statistical significance testing, cluster distribution analysis using chi-square tests for language-based cluster membership, discriminant analysis for language prediction accuracy based on syntactic features, and comprehensive visualization including parallel coordinate plots, scatter plot matrices, and distribution comparisons.
+
+\subsection{Visualization and Reporting Framework}
+
+The system includes comprehensive visualization capabilities implemented through matplotlib, seaborn, and plotly libraries for exploratory analysis and publication-quality figures. Visualization types include distribution plots (histograms, box plots, violin plots), comparison plots (side-by-side comparisons, overlay distributions), clustering visualizations (scatter plots with cluster coloring, silhouette plots, elbow curves), and correlation analysis (heatmaps, correlation matrices, dependency structure plots).
+
+Automated report generation produces comprehensive analysis summaries in Markdown format through Jupyter Notebooks (\texttt{edu\_boundary\_detection.ipynb} and \texttt{comprehensive\_multilingual\_analysis.ipynb}). Reports include an executive summary with key findings and statistical significance tests, data quality assessment (parsing success rates, feature completeness, outlier analysis), cross-linguistic comparative analysis with effect sizes, clustering results with validation metrics and linguistic interpretation, and a visualization gallery with embedded plots and captions.
+
+\subsection{Quality Assurance and Validation}
+The implementation incorporates multiple layers of quality assurance to ensure reliable analysis results, with quality control mechanisms operating at each pipeline stage through comprehensive logging and error reporting. Quality control measures include input validation (file format verification, XML well-formedness checking, encoding validation), extraction quality (EDU length validation, content filtering, duplicate detection), parsing validation (CoNLL-U format compliance, dependency tree consistency, POS tag validation), and feature quality (missing value detection, outlier identification, distribution assessment). For instance, quality control effectiveness was demonstrated through the detection and removal of one Russian EDU containing 353 tokens (bibliographic metadata) that was incorrectly annotated as a discourse unit, preventing bias in statistical analyses while maintaining linguistic validity.
+
+The entire analysis pipeline is designed for full reproducibility with fixed random seeds, version-controlled dependencies, and comprehensive documentation. Reproducibility features include random state control (fixed seed of 42 for all stochastic processes), version management (pinned dependency versions in \texttt{requirements.txt}), configuration management (centralized parameter specification in \texttt{config.py}), logging framework (detailed execution logs with timestamp and component tracking), and output standardization (consistent file naming, directory structure, format specifications).

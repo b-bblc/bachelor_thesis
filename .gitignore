@@ -35,7 +35,6 @@ RuRsTreebank_full/
 .ipynb_checkpoints/
 
 # Specific notebook files
-english_rst_parse_and_visualize_run_ready.ipynb
 chapters/
 
 BScLatexHuelle15
